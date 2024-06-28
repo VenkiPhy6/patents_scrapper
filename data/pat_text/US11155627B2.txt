@@ -1,0 +1,3817 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CROSS-REFERENCE TO RELATED APPLICATIONS 
+ This application is a divisional of U.S. patent application Ser. No. 14/556,911 filed on Dec. 1, 2014, which claims the benefit of Korean Patent Application No. 10-2013-0147624, filed on Nov. 29, 2013, the entire disclosure of which is hereby incorporated by reference. 
+ INCORPORATION-BY-REFERENCE OF MATERIAL ELECTRONICALLY SUBMITTED 
+ Incorporated by reference in its entirety herein is a computer-readable nucleotide/amino acid sequence listing submitted herewith and identified as follows: One 195,840 byte ASCII (Text) file named “728343 ST25.TXT_revised” created Apr. 25, 2017. 
+ BACKGROUND OF THE  INVENTION   
+ 1. Field 
+ Provided is an anti-c-Met/anti-Ang2 bispecific antibody, a composition including the anti-c-Met/anti-Ang2 bispecific antibody, and a method of preventing and/or treating a cancer in a subject including administering the anti-c-Met/anti-Ang2 bispecific antibody to the subject. 
+ 2. Description of the Related Art 
+ Angiopoietin2 (Ang2) is an antagonistic ligand of receptor Tie2 present in vascular endothelial cell (Nat Rev Mol Cell Biol. 2009 March; 10(3):165-77), and competes with Angiopoietin1 (Ang1) which is an agonist of Tie2 for binding to Tie2, thereby inhibiting the signal transduction by Tie2 (Science. 1997 Jul. 4; 277(5322):55-60). Therefore, Ang2 inhibits Ang1-Tie2 signal transduction for maintaining stability of vascular endothelial cells, leading to stimulation of angiogenesis by dynamic rearrangement of blood vessels (Science. 1997 Jul. 4; 277(5322):48-50). It is known from many preclinical studies that since the angiogenesis process is essential to cancer growth, the inhibition of the Tie2-dependent Ang2 functions can lead to the inhibition of angiogenesis, thereby preventing additional growth of cancer (J Natl. Cancer Inst. 2012 Mar. 21; 104(6):461-75). There have been many attempts to prevent cancer using an Ang2 specific antibody by many global pharmaceutical companies, such as Regeneron, Astrazeneca, Amgen, and the like. However, the recent studies have suggested that when a cancer cell is treated with an angiogenesis inhibitor, a mechanism for avoiding the sudden oxygen deficiency condition is activated in the cancer cell, which can stimulate cancer metastasis (Nat. Rev. Clin. Oncol. 2011 Mar. 1; 8(4):210-21) even in the absence of angiogenesis. Therefore, to avoid such serious side effects of angiogenesis inhibitors, it is necessary to inhibit functions of cancer metastasis-related proteins as well. 
+ c-Met is a representative receptor tyrosine kinase (RTK) present on certain cell surfaces. c-Met binds to its ligand, Hepatocyte Growth Factor/Scattering Factor (HGF/SF), to promote intracellular signal transduction, thereby stimulating cell growth, and it is overexpressed in many cancer cells, thereby widely relating to cancer occurrence, cancer metastasis, cancer cell migration, cancer cell invasion, and angiogenesis. In addition, c-Met is a representative early protein of cancer metastasis, because c-Met signaling through HGF/SF weakens cell-cell contact in almost all types of epithelial tumors, leading to scattering. (Nat Rev Cancer. 2012 Jan. 24; 12(2):89-103). In particular, hypoxia-response elements are present at the upstream of c-Met gene, and the expression of the gene is increased under oxygen deficient conditions (Oral Oncol. 2006 July; 42(6):593-8). 
+ Therefore, simultaneous inhibition of Ang2 and c-Met may lead to more effective inhibition of cancer cell growth and metastasis, and thus, it is needed to develop a drug that simultaneously targets both Ang2 and c-Met. 
+ BRIEF SUMMARY OF THE INVENTION 
+ One embodiment provides an anti-c-Met/anti-Ang2 bispecific antibody including (a) an anti-c-Met antibody or an antigen-binding fragment thereof and (b) an anti-Ang2 antibody or an antigen-binding fragment thereof. 
+ The anti-c-Met antibody or an antigen-binding fragment thereof may be an antibody or an antigen-binding fragment thereof which specifically binds to an epitope including or consisting essentially of 5 or more consecutive amino acids in SEMA domain of c-Met protein; and the anti-Ang2 antibody or an antigen-binding fragment thereof may be an antibody or an antigen-binding fragment thereof which specifically binds to (1) at least one amino acid residue selected from the group consisting of amino acid residues exposed to the outside of  loop  1,  loop  2, and  loop  3 of human Ang2 on its tertiary structure or (2) an amino acid sequence region including about 2 to about 20 consecutive amino acids on the tertiary structure of human Ang2 including the at the least one amino acid residue. 
+ Another embodiment provides a pharmaceutical composition including the anti-c-Met/anti-Ang2 bispecific antibody. 
+ Another embodiment provides a method of preventing and/or treating a cancer in a subject including administering the anti-c-Met/anti-Ang2 bispecific antibody to the subject. 
+ 
+ BRIEF DESCRIPTION OF THE DRAWINGS 
+   FIG. 1  illustrates is a schematic showing a structure of an anti-c-Met/anti-Ang2 bispecific antibody according to an embodiment. 
+   FIG. 2  is a graph showing the inhibition of binding between Ang2 and integrin by treatment of an anti-Ang2 antibody according to an embodiment (control antibody 1: Regeneron Ang2 antibody; control antibody 2: Astra Zeneca Ang2 antibody). 
+   FIG. 3  is a graph showing the binding affinity of an anti-c-Met/anti-Ang2 bispecific antibody according to an embodiment to Ang2. 
+   FIG. 4  is a graph showing the inhibition of cell (HUVEC) growth by treatment of an anti-c-Met/anti-Ang2 bispecific antibody according to an embodiment. A CCK8 assay was performed at  day  2 or  day  3 with added media only, or with stimulation by Ang2 and the c-Met ligand, HGF/SF. For the stimulated cells, the following were added: no antibody control (“no”), 4H10 antibody, L3-1Y-IgG2 antibody, a combination of 4H10 and L3-1Y-IgG2 antibodies (“Combi”) or the bispecific antibody (“BS ab”). 
+   FIG. 5  is a graph showing the inhibition of cell (LEC) growth by treatment of an anti-c-Met/anti-Ang2 bispecific antibody according to an embodiment. A CCK8 assay was performed at  day  2 or  day  3 with added media only, or with stimulation by Ang2 and the c-Met ligand, HGF/SF. For the stimulated cells, the following were added: no antibody control (“-”), 4H10 antibody, L3-1Y-IgG2 antibody, a combination of 4H10 and L3-1Y-IgG2 antibodies (“Combi”) or the bispecific antibody (“BS ab”). 
+   FIG. 6  is a graph showing the inhibition of cell migration by treatment of an anti-c-Met/anti-Ang2 bispecific antibody according to an embodiment. The migration assay was performed with added 2% FBS-containing EBM media only (“2% FBS”), or with stimulation by Ang2 and the c-Met ligand, HGF. For the stimulated cells, the following were added: no antibody control (“-”), 4H10 antibody, L3-1Y-IgG2 antibody, a combination of 4H10 and L3-1Y-IgG2 antibodies (“Combi”) or the bispecific antibody (“BS ab”). 
+ 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ The pre-existing targeting drugs recognizing only Ang2 in cancer cells often induces over-expression and mutation of c-Met in a cancer cell thereby making the cancer cell to acquire a resistance thereto, leading to decreasing the therapeutic effect thereof. A bispecific antibody simultaneously recognizing c-Met and Ang2 can block a signal transduction by c-Met in a cancer cell, thereby preventing the generation of a drug resistance in a subject, and thus, it can exhibit an excellent cancer cell inhibitory effect even in a cancer cell having a drug resistance. 
+ An embodiment provides an anti-c-Met/anti-Ang2 bispecific antibody including (a) an anti-c-Met antibody or an antigen-binding fragment thereof and (b) an anti-Ang2 antibody or an antigen-binding fragment thereof. The bispecific antibody can simultaneously recognize and bind to c-Met and Ang2, and inhibit the functions thereof, thereby exhibiting synergistic anticancer effects. 
+ As used herein, the term “antibody” refers to all substance generated by an antigen stimulation in immune system, and has no specific limitation in its type. The antibody may include animal antibodies, chimeric antibodies, humanized antibodies, or human antibodies. In addition, the antibody may cover any antigen-binding fragment possessing antigen binding capacity. The term “complementarity-determining regions (CDR)” may refer to a part of a variable region of an antibody, which allows a binding specificity to a specific antigen. The term “antigen-binding fragment” may refer to any antibody fragment including at least one the complementarity-determining region, and for example, it may be selected from the group consisting of scFv, (scFv) 2 , scFv-Fc, Fab, Fab′, and F(ab′) 2 . 
+ In the following description for the anti-c-Met antibody or an antigen-binding fragment thereof and the anti-Ang2 antibody or an antigen-binding fragment thereof, the regions except for heavy chain CDRs and light chain CDRs, or a heavy chain variable region and a light chain variable region may be originated (obtained) from any subtype of immunoglobulin (e.g., IgA, IgD, IgE, IgG (IgG1, IgG2, IgG3, IgG4), IgM, etc.), and for example, may be originated (obtained) from a light chain constant region and/or a heavy chain constant region of any subtype of immunoglobulin. 
+ “c-Met” or “c-Met protein”, a target of a bispecific antibody to be provided in one embodiment, refers to a receptor tyrosine kinase (RTK) which binds hepatocyte growth factor (HGF). c-Met may be derived (obtained) from any species, particularly a mammal, for instance, primates such as human c-Met (e.g., NP_000236), monkey c-Met (e.g.,  Macaca mulatta , NP_001162100), or rodents such as mouse c-Met (e.g., NP_032617.2), rat c-Met (e.g., NP_113705.1), or the like. The c-Met protein may include a polypeptide encoded by the nucleotide sequence identified as GenBank Accession Number NM_000245, a polypeptide having the amino acid sequence identified as GenBank Accession Number NP_000236 or extracellular domains thereof. The receptor tyrosine kinase c-Met participates in various biological processes, such as cancer incidence, metastasis, migration of cancer cell, invasion of cancer cell, angiogenesis, and the like. 
+ Ang2, another target of a bispecific antibody to be provided in one embodiment, is closely related to angiogenesis. It is a soluble ligand present in blood, and it is widely involved in angiogenesis, metastasis, and cancer cell invasion. The Ang2 may be derived (obtained) from mammals including primates such as humans and monkeys and rodents such as rats and mice and for example, it may be selected from the group consisting of a human Ang2 (e.g., NCBI Accession #O15123), a monkey Ang2 (e.g., NCBI Accession No. Q8MIK6 etc.), a mouse Ang2 (NCBI Accession #NP_031452, Accession #O35608, etc.), a rat Ang2 (e.g., NCBI Accession No. O35462, etc.), and any combination thereof. 
+ The anti-c-Met/anti-Ang2 bispecific antibody can inhibit the binding between Ang2 and Tie-2 receptor by competing with Tie2 in binding to Ang2, and for example, it may inhibit binding between Ang2 and Tie2 receptor by recognizing and/or binding to a binding site of Ang2 for binding to Tie2 receptor. The anti-Ang2 antibody or an antigen-binding fragment thereof may recognize human Ang2 which widely relates to angiogenesis, cancer metastasis, and cancer cell invasion, and inhibits binding of Ang2 to its receptor, Tie-2 receptor, thereby inhibiting angiogenesis, cancer generation and cancer metastasis, and exhibiting treating and/or preventing effects on a disease associated with over-activation and/or over-expression of Ang2. 
+ Furthermore, the anti-Ang2 antibody or an antigen-binding fragment thereof may further inhibit binding between Ang2 and integrin. Integrin is a typical protein which mediates cell adhesion and has a heterodimer structure including an alpha (α) subunit and a beta (β) subunit. In mammals, 18 types of alpha subunits and 8 types of beta subunits have been identified. The integrin may be derived from mammals including primates such as humans and monkeys and rodents such as mice and rats and for example, it may be a human integrin, a monkey integrin, a mouse integrin and a rat integrin, but is not limited thereto. In each and every species, 24 types of integrins are known and amino acid sequences thereof have been well identified such that they are clearly known those who have ordinary knowledge in the art For example, the integrin may be a human integrin and typical human integrin types may include, but not limited to, alpha5beta1 (α5β1) (α5: NCBI Accession No. P08648, (β1: NCBI Accession No. P05556), alphaVbeta1 (αVβ1) (αV: NCBI Accession No. P06756, β1: NCBI Accession No. P05556), and alphaVbeta3 (αVβ3) (αV: NCBI Accession No. P06756, β3: NCBI Accession No. P05106). 
+ As described above, in addition to the inhibitory effect on the binding of Ang2 and Tie2 receptor, the anti-Ang2 antibody or an antigen-binding fragment thereof further inhibits the binding between Ang2 and integrin that is another protein involved in cancer cell growth and/or metastasis, thereby having more increased inhibition effects on the cancer cell growth and/or metastasis, and being capable of exhibiting such inhibition effects even in a cell where Tie2 is nor expressed. 
+ The anti-Ang2 antibody or an antigen-binding fragment thereof used in an embodiment may be described as follows. The anti-Ang2 antibody or an antigen-binding fragment thereof may recognize all or part (for example, at least one amino acid selected from the group consisting of the amino acid residue regions exposed to the outside of each loop) of the regions consisting of loop 1 (a region covering from 417 th  to 434 th  amino acids of SEQ ID NO: 172), loop 2 (a region covering from 447 th  to 454 th  amino acids of SEQ ID NO: 172), and loop 3 (a region covering from 460 th  to 468 th  amino acids of SEQ ID NO: 172) of human Ang2 (hAng2; SEQ ID NO: 172; Accession #O15123), or an amino acid sequence region including about 2 to about 20, about 2 to about 15, about 2 to about 10, or about 2 to about 5 consecutive amino acids within SEQ ID NO: 172 including at least one exposed amino acid residue of  loop  1,  loop  2, or  loop  3 of SEQ ID NO: 172, as an epitope, or specifically bind thereto. An “exposed” amino acid is an amino acid that is exposed to solution and available for binding when a protein (e.g., Ang2) is in its native conformation in a biological medium or other solution under physiological conditions (e.g., physiological pH, isotonicity, temperature, etc.) 
+ For example, the anti-Ang2 antibody or an antigen-binding fragment thereof may recognize at least one amino acid residue selected from the group consisting of I434 positioned at  loop  1, A449 and P452 positioned at  loop  2, N467 positioned at  loop  3 of human Ang2, and any combination thereof, or an amino acid sequence region including about 2 to about 20, about 2 to about 15, about 2 to about 10, or about 2 to about 5 consecutive amino acids including at least one of the above-described amino acid residues from      loop      1, 2, or 3 as an epitope and/or specifically bind thereto. In one embodiment, the anti-Ang2 antibody or an antigen-binding fragment thereof may recognize an epitope comprising at least one amino acid residue selected from the group consisting of I434 positioned at  loop  1, A449 and P452 positioned at  loop  2, and N467 positioned at  loop  3 of human Ang2, or specifically bind to this portion. 
+ [Ang2 (SEQ ID NO: 172;  loop  1,  loop  2 and  loop  3 are underlined respectively in order and each epitope is marked in bold and italic letters)] 
+ 
+ 
+ 
+ 
+ 
+   
+ MWQIVFFTLS CDLVLAAAYN NFRKSMDSIG KKQYQVQHGS 
+ 
+ 
+   
+   
+ 
+ 
+   
+ CSYTFLLPEM DNCRSSSSPY VSNAVQRDAP LEYDDSVQRL 
+ 
+ 
+   
+   
+ 
+ 
+   
+ QVLENIMENN TQWLMKLENY IQDNMKKEMV EIQQNAVQNQ 
+ 
+ 
+   
+   
+ 
+ 
+   
+ TAVMIEIGTN LLNQTAEQTR KLTDVEAQVL NQTTRLELQL 
+ 
+ 
+   
+   
+ 
+ 
+   
+ LEHSLSTNKL EKQILDQTSE INKLQDKNSF LEKKVLAMED 
+ 
+ 
+   
+   
+ 
+ 
+   
+ KHIIQLQSIK EEKDQLQVLV SKQNSIIEEL EKKIVTATVN 
+ 
+ 
+   
+   
+ 
+ 
+   
+ NSVLQKQQHD LMETVNNLLT MMSTSNSAKD PTVAKEEQIS 
+ 
+ 
+   
+   
+ 
+ 
+   
+ FRDCAEVFKS GHTTNGIYTL TFPNSTEEIK AYCDMEAGGG 
+ 
+ 
+   
+   
+ 
+ 
+   
+ GWTIIQRRED GSVDFQRTWK EYKVGFGNPS GEYWLGNEFV 
+ 
+ 
+   
+   
+ 
+ 
+   
+ SQLTNQQRYV LKIHLKDWEG NEAYSLYEHF YLSSEELNYR 
+ 
+ 
+   
+   
+ 
+ 
+   
+ IHLKGLTGTA GKISSI SQPG   NDFSTKDGDN   DKC I   CKCSQM 
+ 
+ 
+   
+   
+ 
+ 
+   
+ LTGGWW FD A C   G P SN LNGMY Y   PQRQNT N K FN GIKWYYWKGS 
+ 
+ 
+   
+   
+ 
+ 
+   
+ GYSLKATTMM IRPADF 
+ 
+ 
+ 
+ 
+ 
+ The above epitope sites are exposed amino acid residues positioned at  loop  1,  loop  2, or  loop  3 of the three dimensional structure of Ang2, and they directly participate in binding with a Tie2 receptor or they are positioned by being included in the binding site with the Tie2 receptor or neighboring thereupon (see  FIG. 1 ). Accordingly, the anti-Ang2 antibody or an antigen-binding fragment thereof recognizing and binding to the above at least one epitope competes with the Tie2 receptor in binding to Ang2 and thus, inhibits binding between Ang2 and the Tie2 receptor. 
+ The term “consecutive amino acid” may include amino acids which are adjacent to one another on the secondary or tertiary structure of a protein as well as amino acids which are continuous on their primary amino acid sequences. Accordingly, the “consecutive amino acid residues” as used herein may refer to contiguous amino acid residues on the primary, secondary, or tertiary structure of a protein. 
+ Embodiments of the invention also include an antibody or an antigen-binding fragment thereof that competes with the anti-Ang2 antibody for binding to Ang2, or that competes with the Tie2 receptor in binding to Ang2, and can inhibit binding between Ang2 and the Tie2 receptor. This competitive-binding antibody may be an antibody recognizing a site adjacent to the aforementioned epitopes on its three dimensional structure of Ang2 as an epitope. The competitive-binding antibody may have a binding affinity (Kd) of about 0.001 to about 10 nM, about 0.01 to about 1 nM, or about 0.1 to about 0.8 nM. 
+ Therefore, the anti-Ang2 antibody or an antigen-binding fragment thereof may be at least one selected from the group consisting of an antibody or an antigen-binding fragment thereof recognizing and/or specifically binding to the aforementioned epitope, and an antibody competing therewith for binding to Ang2 or an antigen-binding fragment thereof. 
+ In a particular embodiment, the anti-Ang2 antibody or an antigen-binding fragment thereof may include or consist essentially of, as a heavy chain complementarity determining region (CDR), at least one selected from the group consisting of a polypeptide (CDR-H1) including the amino acid sequence of SEQ ID NO: 151, a polypeptide (CDR-H2) including the amino acid sequence of SEQ ID NO: 152 and a polypeptide (CDR-H3) including an amino acid sequence selected from the group consisting of SEQ ID NOs: 122 to 129, for example, an amino acid sequence selected from the group consisting of SEQ ID NOs: 122 to 127: 
+ 
+ 
+ 
+ 
+ 
+   
+ (SEQ ID NO: 151) 
+ 
+ 
+   
+ X 1 -Y-X 2 -M-S 
+ 
+ 
+ 
+ 
+ 
+ wherein, 
+ X 1  is aspartic acid (D), serine (S), or asparagine (N), for example, aspartic acid (D) or asparagine (N), and 
+ X 2  is alanine (A), aspartic acid (D), or tyrosine (Y); and 
+ 
+ 
+ 
+ 
+ 
+   
+ (SEQ ID NO: 152) 
+ 
+ 
+   
+ X 3 -I-X 4 -X 5 -X 6 -X 7 -X 8 -X 9 -X 10 -Y-Y-A-D-S-V-K-G 
+ 
+ 
+ 
+ 
+ 
+ wherein, 
+ X 3  is alanine (A), glycine (G), leucine (L), or serine (S), for example, alanine (A), glycine (G), or serine (S), 
+ X 4  is tyrosine (Y) or serine (S), 
+ X 5  is proline (P), histidine (H), or serine (S), 
+ X 6  is aspartic acid (D), glycine (G), or serine (S), 
+ X 7  is serine (S), glycine (G), or aspartic acid (D), 
+ X 8  is glycine (G) or serine (S), 
+ X 9  is asparagine (N) or serine (S), and 
+ X 10  is lysine (K), isoleucine (I), or threonine (T). 
+ The anti-Ang2 antibody or an antigen-binding fragment thereof may include or consist essentially of, as a light chain complementarity determining region (CDR), at least one selected from the group consisting of a polypeptide (CDR-L1) including the amino acid sequence of SEQ ID NO: 153, a polypeptide (CDR-L2) including the amino acid sequence of SEQ ID NO: 154, and a polypeptide (CDR-L3) including the amino acid sequence of SEQ ID NO: 155: 
+ 
+ 
+ 
+ 
+ 
+   
+ (SEQ ID NO: 153) 
+ 
+ 
+   
+ X 11 -G-S-S-S-N-I-G-X 12 -N-X 13 -V-X 14   
+ 
+ 
+ 
+ 
+ 
+ wherein, 
+ X 11  is serine (S) or threonine (T), 
+ X 12  is asparagine (N) or serine (S), 
+ X 13  is alanine (A), tyrosine (Y), or aspartic acid (D), and 
+ X 14  is asparagine (N), serine (S), threonine (T), or tyrosine (Y); 
+ 
+ 
+ 
+ 
+ 
+   
+ (SEQ ID NO: 154) 
+ 
+ 
+   
+ X 15 -X 16 -X 17 -X 18 -R-P-S 
+ 
+ 
+ 
+ 
+ 
+ wherein, 
+ X 15  is alanine (A) or serine (S), 
+ X 16  is aspartic acid (D) or asparagine (N), 
+ X 17  is serine (S) or asparagine (N), for example serine (S), and 
+ X 18  is asparagine (N), Lysine (K), histidine (H), or glutamine (Q); and 
+ 
+ 
+ 
+ 
+ 
+   
+ (SEQ ID NO: 155) 
+ 
+ 
+   
+ X 19 -X 20 -W-D-X 21 -S-L-X 22 -X 23   
+ 
+ 
+ 
+ 
+ 
+ wherein, 
+ X 19  is glycine (G) or alanine (A), 
+ X 20  is serine (S), alanine (A), or threonine (T), for example serine (S) or threonine (T), 
+ X 21  is tyrosine (Y) or aspartic acid (D), for example, tyrosine (Y), 
+ X 22  is serine (S) or asparagine (N), for example, serine (S), and 
+ X 23  is glycine (G) or alanine (A). 
+ In an embodiment, the anti-Ang2 antibody or an antigen-binding fragment thereof may include or consist essentially of the above heavy chain complementarity determining regions, light chain complementarity determining regions, or any combination thereof. 
+ More particularly, the anti-Ang2 antibody or an antigen-binding fragment thereof may include or consist essentially of: 
+ at least one heavy chain complementarity determining region selected from the group consisting of a polypeptide (CDR-H1) including the amino acid sequence of SEQ ID NO: 151, a polypeptide (CDR-H2) including the amino acid sequence of SEQ ID NO: 152, and a polypeptide (CDR-H3) including an amino acid sequence selected from the group consisting of SEQ ID NOs: 122 to 129, for example, an amino acid sequence selected from the group consisting of SEQ ID NOs: 122 to 127, or a heavy chain variable region including the at least one heavy chain complementarity determining region; 
+ at least one light chain complementarity determining region selected from the group consisting of a polypeptide (CDR-L1) including the amino acid sequence of SEQ ID NO: 153, a polypeptide (CDR-L2) including the amino acid sequence of SEQ ID NO: 154, and a polypeptide (CDR-L3) including the amino acid sequence of SEQ ID NO: 155, or a light chain variable region including the at least one light chain complementarity determining region; 
+ a combination of the at least one heavy chain complementarity determining region and the at least one light chain complementarity determining region; or 
+ a combination of the heavy chain variable region and the light chain variable region. 
+ For example, the heavy chain CDR of the anti-Ang2 antibody may include or consist essentially of the amino acid sequence as set forth in following Table 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+ 
+   
+ 
+ 
+ Amino acid sequence of heavy chain CDR 
+ 
+ 
+ 
+ 
+ CDRH1-KABAT 
+ CDRH2-KABAT 
+ CDRH3-KABAT 
+ 
+ 
+   
+ 
+ 
+ DYAMS 
+ AIYPDSGNKYYADSVK 
+ ARHSSDPKVKSGYYD 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ DGMDV 
+ 
+ 
+ 109) 
+ (SEQ ID NO: 115) 
+ (SEQ ID NO: 122) 
+ 
+ 
+   
+ 
+ 
+ DYYMS 
+ GIYPSGGSTYYADSVK 
+ ARDPSTLTYAGFDY 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ (SEQ ID NO: 123) 
+ 
+ 
+ 110) 
+ (SEQ ID NO: 116) 
+   
+ 
+ 
+   
+ 
+ 
+ NYAMS 
+ AISSGGGNIYYADSVK 
+ AKSGIQPSPPSMSSA 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ YAMDV 
+ 
+ 
+ 111) 
+ (SEQ ID NO: 117) 
+ (SEQ ID NO: 124) 
+ 
+ 
+   
+ 
+ 
+ DYAMS 
+ SIYPDDGNTYYADSVK 
+ ARHTSHHTSIDGYYY 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ YGMDG 
+ 
+ 
+ 109) 
+ (SEQ ID NO: 118) 
+ (SEQ ID NO: 125) 
+ 
+ 
+   
+ 
+ 
+ DYDMS 
+ SISHGDSNKYYADSVK 
+ AKSSGIQESPPTYYY 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ YGMDV 
+ 
+ 
+ 112) 
+ (SEQ ID NO: 119) 
+ (SEQ ID NO: 126) 
+ 
+ 
+   
+ 
+ 
+ DYAMS 
+ SIYPDDGNTYYADSVK 
+ AKHPVRLNLHPMYYY 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ YGMDV 
+ 
+ 
+ 109) 
+ (SEQ ID NO: 118) 
+ (SEQ ID NO: 127) 
+ 
+ 
+   
+ 
+ 
+ SYDMS 
+ LISPDSSSIYYADSVK 
+ AKDLISFWRGGFDY 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ (SEQ ID NO: 128) 
+ 
+ 
+ 113) 
+ (SEQ ID NO: 120) 
+   
+ 
+ 
+   
+ 
+ 
+ DYDMS 
+ GISSDDGNTYYADSVK 
+ ARPTIDKYTLRGYYS 
+ 
+ 
+ (SEQ ID NO: 
+ G 
+ YGMDV 
+ 
+ 
+ 114) 
+ (SEQ ID NO: 121) 
+ (SEQ ID NO: 129) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ In addition, the light chain CDR of the anti-Ang2 antibody may include or consist essentially of the amino acid sequence as set forth in following Table 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+ 
+   
+ 
+ 
+ Amino acid sequence of light chain CDR 
+ 
+ 
+ 
+ 
+   
+ CDRL1-KABAT 
+ CDRL2-KABAT 
+ CDRL3-KABAT 
+ 
+ 
+   
+   
+ 
+ 
+   
+ SGSSSNIGNNAVN 
+ ADSNRPS 
+ GSWDYSLSG 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 130) 
+ 138) 
+ 145) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ SGSSSNIGNNYVT 
+ ADSHRPS 
+ ATWDYSLSG 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 131) 
+ 139) 
+ 146)  
+ 
+ 
+   
+   
+ 
+ 
+   
+ SGSSSNIGNNDVY 
+ ANSHRPS 
+ GTWDYSLSG 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 132) 
+ 140) 
+ 147) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ TGSSSNIGNNDVS 
+ SDSKRPS 
+ GSWDYSLSG 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 133) 
+ 141) 
+ 145) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ SGSSSNIGSNAVN 
+ ADSNRPS 
+ GSWDYSLSG 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 134) 
+ 138) 
+ 145) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ TGSSSNIGNNAVS 
+ SDSQRPS 
+ ATWDYSLSA 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 135) 
+ 142) 
+ 148) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ SGSSSNIGSNYVN 
+ SDSHRPS 
+ GAWDDSLSG 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 136) 
+ 143) 
+ 149) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ TGSSSNIGSNYVS 
+ SDNKRPS 
+ GTWDDSLNG 
+ 
+ 
+   
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ (SEQ ID NO: 
+ 
+ 
+   
+ 137) 
+ 144) 
+ 150) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ In particular, the anti-Ang2 antibody or an antigen-binding fragment thereof may include or consist essentially of: 
+ at least one heavy chain complementarity determining region selected from the group consisting of a polypeptide (CDR-H1) including an amino acid sequence selected from SEQ ID NOs: 109 to 114, for example, an amino acid sequence selected from SEQ ID NOs: 109 to 112, a polypeptide (CDR-H2) including an amino acid sequence selected from SEQ ID NOs: 115 to 121, for example, an amino acid sequence selected from SEQ ID NOs: 115 to 119, and a polypeptide (CDR-H3) including an amino acid sequence selected from the group consisting of SEQ ID NOs: 122 to 129, for example, an amino acid sequence selected from SEQ ID NOs: 122 to 127, or a heavy chain variable region including the at least one heavy chain complementarity determining region; 
+ at least one light chain complementarity determining region selected from the group consisting of a polypeptide (CDR-L1) including an amino acid sequence selected from SEQ ID NOs: 130 to 137, for example, an amino acid sequence selected from SEQ ID NOs: 130 to 135, a polypeptide (CDR-L2) including an amino acid sequence selected from SEQ ID NOs: 138 to 144, for example, an amino acid sequence selected from SEQ ID NOs: 138 to 142, and a polypeptide (CDR-L3) including an amino acid sequence selected from SEQ ID NOs: 145 to 150, for example, an amino acid sequence selected from SEQ ID NOs: 145 to 148, or a light chain variable region including the at least one light chain complementarity determining region; 
+ a combination of the at least one heavy chain complementarity determining region and the at least one light chain complementarity determining region; or 
+ a combination of the heavy chain variable region and the light chain variable region. 
+ In the anti-Ang2 antibody or an antigen-binding fragment thereof, the heavy chain variable region may include or consist essentially of an amino acid sequence selected from the group consisting of SEQ ID NOs: 156 to 163, for example an amino acid sequence selected from the group consisting of SEQ ID NOs: 156 to 161, and the light chain variable region may include or consist essentially of an amino acid sequence selected from the group consisting of SEQ ID NOs: 164 to 171, for example an amino acid sequence selected from the group consisting of SEQ ID NOs: 164 to 169. 
+ Accordingly, the anti-Ang2 antibody or an antigen-binding fragment thereof may include or consist essentially of a heavy chain variable region including an amino acid sequence selected from the group consisting of SEQ ID NOs: 156 to 163, for example an amino acid sequence selected from the group consisting of SEQ ID NOs: 156 to 161; a light chain variable region including an amino acid sequence selected from the group consisting of SEQ ID NO: 164 or 171, for example an amino acid sequence selected from the group consisting of SEQ ID NOs: 164 to 169; or a combination of the heavy chain variable region and the light chain variable region. 
+ The amino acid sequences of the heavy chain variable region and the light chain variable region of the anti-Ang2 antibody according to an embodiment are summarized in Table 3: 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+   
+ 
+ 
+ Amino acid sequence of heavy 
+ Amino acid sequence of 
+ 
+ 
+ chain variable region 
+ light chain variable region 
+ 
+ 
+   
+ 
+ 
+ 
+ EVQLLESGGGLVQTGGSLRLSCAASGFTFS DYA   
+ QSVLTQPPSASGTPGQRVTISC SGSSSNIGNNAV   
+ 
+ 
+ MSWVRQAPGKGLEWVS AIYPDSGNKYYADSV   
+   N WYQQLPGTAPKLLIY ADSNRPSGVPDRFSGSK   
+ 
+ 
+   KG RFTISRDNSKNTLYLQMNSLRAEDTAVYYC 
+ SGTSASLAISGLRSEDEADYYC GSWDYSLSG YV 
+ 
+ 
+   ARHSSDPKVKSGYYDDGMDV WGQGTLVAVS 
+ FGGGTKLTVLG (SEQ ID NO: 164) 
+ 
+ 
+ S (SEQ ID NO: 156) 
+   
+ 
+ 
+   
+ 
+ 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFS DYY   
+ QSVLTQPPSASGTPGQRVTISC SGSSSNIGNNYV   
+ 
+ 
+   MS WVRQAPGKGLEWVS GIYPSGGSTYYADSV   
+   T WYQQLPGTAPKLLIY ADSHRPS GVPDRFSGSK 
+ 
+ 
+   KG RFTISRDNSKNTLYLQMNSLRAEDTAVYYC 
+ SGTSASLAISGLRSEDEADYYC ATWDYSLSG Y 
+ 
+ 
+   ARDPSTLTYAGFDY WGQGTLVTVSS (SEQ ID 
+ VFGGGTKLTVLG (SEQ ID NO: 165) 
+ 
+ 
+ NO: 157) 
+   
+ 
+ 
+   
+ 
+ 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFS NYA   
+ QSVLTQPPSASGTPGQRVTISC SGSSSNIGNNDV   
+ 
+ 
+   MS WVRQAPGKGLEWVS AISSGGGNIYYADSV   
+   Y WYQQLPGTAPKLLIY ANSHRPS GVPDRFSGSK 
+ 
+ 
+   KG RFTISRDNSKNTLYLQMNSLRAEDTAVYYC 
+ SGTSASLAISGLRSEDEADYYC GTWDYSLSG Y 
+ 
+ 
+   AKSGIQPSPPSMSSAYAMDV WGQGTLVTVSS 
+ VFGGGTKLTVLG (SEQ ID NO: 166) 
+ 
+ 
+ (SEQ ID NO: 158) 
+   
+ 
+ 
+   
+ 
+ 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFS DYA   
+ QSVLTQPPSASGTPGQRVTISC TGSSSNIGNNDV   
+ 
+ 
+   MS WVRQAPGKGLEWVS SIYPDDGNTYYADSV   
+ SWYQQLPGTAPKLLIY SDSKRPS GVPDRFSGSK 
+ 
+ 
+   KG RFTISRDNSKNTLYLQMNSLRAEDTAVYYC 
+ SGTSASLAISGLRSEDEADYYC GSWDYSLSG YV 
+ 
+ 
+   ARHTSHHTSIDGYYYYGMDG WGQGTLVTVSS 
+ FGGGTKLTVLG (SEQ ID NO: 167) 
+ 
+ 
+ (SEQ ID NO: 159) 
+   
+ 
+ 
+   
+ 
+ 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFS DYD   
+ QSVLTQPPSASGTPGQRVTISC SGSSSNIGSNAV   
+ 
+ 
+   MS WVRQAPGKGLEWVS SISHGDSNKYYADSV   
+   N WYQQLPGTAPKLLIY ADSNRPS GVPDRFSGSK 
+ 
+ 
+   KG RFTISRDNSKNTLYLQMNSLRAEDTAVYYC 
+ SGTSASLAISGLRSEDEADYYC GSWDYSLSG YV 
+ 
+ 
+   AKSSGIQESPPTYYYYGMDV WGQGTLVTVSS 
+ FGGGTKLTVLG (SEQ ID NO: 168) 
+ 
+ 
+ (SEQ ID NO: 160) 
+   
+ 
+ 
+   
+ 
+ 
+ EVQLLESGGGLVQTGGSLRLSCAASGFTFS DYA   
+ QSVLTQPPSASGTPGQRVTISC TGSSSNIGNNAV   
+ 
+ 
+   MS WVRQAPGKGLEWVS SIYPDDGNTYYADSV   
+   S WYQQLPGTAPKLLIY SDSQRPS GVPDRFSGSK 
+ 
+ 
+   KG RFTISRDNSKNTLYLQMNSLRAEDTAVYYC 
+ SGTSASLAISGLRSEDEADYYC ATWDYSLSA YV 
+ 
+ 
+   AKHPVRLNLHPMYYYYGMD VWGQGTLVTVS 
+ FGGGTKLTVLG (SEQ ID NO: 169) 
+ 
+ 
+ S (SEQ ID NO: 161) 
+   
+ 
+ 
+   
+ 
+ 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFS SYD   
+ QSVLTQPPSASGTPGQRVTISC SGSSSNIGSNYV   
+ 
+ 
+   MS WVRQAPGKGLEWVS LISPDSSSIYYADSVK   
+   N WYQQLPGTAPKLLIY ADSNRPS GVPDRFSGSK 
+ 
+ 
+   G RFTISRDNSKNTLYLQMNSLRAEDTAVYYC A   
+ SGTSASLAISGLRSEDEADYYC GSWDYSLSG YV 
+ 
+ 
+   KDLISFWRGGFDY WGQGTLVTVSS (SEQ ID 
+ FGGGTKLTVLG (SEQ ID NO: 170) 
+ 
+ 
+ NO: 162) 
+   
+ 
+ 
+   
+ 
+ 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFS DYD   
+ QSVLTQPPSASGTPGQRVTISC TGSSSNIGSNYV   
+ 
+ 
+   MS WVRQAPGKGLEWVS GISSDDGNTYYADSV   
+   S WYQQLPGTAPKLLIY SDNKRPS GVPDRFSGSK 
+ 
+ 
+   KG RFTISRDNSKNTLYLQMNSLRAEDTAVYYC 
+ SGTSASLAISGLRSEDEADYYC GTWDDSLNG Y 
+ 
+ 
+   ARPTIDKYTLRGYYSYGMDV WGQGTLVTVSS 
+ VFGGGTKLTVLG (SEQ ID NO: 171) 
+ 
+ 
+ (SEQ ID NO: 163) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ In another embodiment, the anti-Ang2 antibody or an antigen-binding fragment thereof may include or consist essentially of: 
+ at least one heavy chain complementarity determining region selected from the group consisting of a polypeptide (CDR-H1) including an amino acid sequence of SEQ ID NO: 113 or 114; a polypeptide (CDR-H2) including an amino acid sequence of SEQ ID NO: 120 or 121, and a polypeptide (CDR-H3) including an amino acid sequence of SEQ ID NO: 128 or 129, or a heavy chain variable region including the at least one heavy chain complementarity determining region; 
+ at least one light chain complementarity determining region selected from the group consisting of a polypeptide (CDR-L1) including an amino acid sequence of SEQ ID NO: 136 or 137, a polypeptide (CDR-L2) including an amino acid sequence of SEQ ID NO: 143 or 144, and a polypeptide (CDR-L3) including an amino acid sequence of SEQ ID NO: 149 or to 150, or a light chain variable region including the at least one light chain complementarity determining region; 
+ a combination of the at least one heavy chain complementarity determining region and the at least one light chain complementarity determining region; or 
+ a combination of the heavy chain variable region and the light chain variable region. 
+ In the anti-Ang2 antibody or an antigen-binding fragment thereof, the heavy chain variable region may include an amino acid sequence of SEQ ID NO: 162 or 163, and the light chain variable region may include an amino acid sequence of SEQ ID NO: 170 or 171. Accordingly, the anti-Ang2 antibody or an antigen-binding fragment thereof may include a heavy chain variable region including an amino acid sequence of SEQ ID NO: 162 or 163; a light chain variable region including an amino acid sequence of SEQ ID NO: 170 or 171; or a combination of the heavy chain variable region and the light chain variable region. 
+ The anti-c-Met antibody may recognize a specific region of c-Met, e.g., a specific region in the SEMA domain, as an epitope. It may be any antibody or antigen-binding fragment that acts on c-Met to induce c-Met intracellular internalization and degradation. 
+ c-Met, a receptor for hepatocyte growth factor (HGF), may be divided into three portions: extracellular, transmembrane, and intracellular. The extracellular portion is composed of an α-subunit and a β-subunit which are linked to each other through a disulfide bond, and includes a SEMA domain responsible for binding HGF, a plexin-semaphorins-integrin identity/homology domain (PSI domain) and an immunoglobulin-like fold shared by plexins and transcriptional factors domain (IPT domain). The SEMA domain of c-Met protein may have the amino acid sequence of SEQ ID NO: 79, and is an extracellular domain that functions to bind HGF. A specific region of the SEMA domain, that is, a region having the amino acid sequence of SEQ ID NO: 71, which corresponds to a range from  amino acid residues  106 to 124 of the amino acid sequence of the SEMA domain (SEQ ID NO: 79), is a loop region between the second and the third beta propellers within the epitopes of the SEMA domain. This region acts as an epitope for the anti-c-Met antibody provided in the present invention. 
+ The term “epitope,” as used herein, refers to an antigenic determinant, a part of an antigen recognized by an antibody. In one embodiment, the epitope may be a region including 5 or more contiguous (consecutive on primary, secondary (two-dimensional), or tertiary (three-dimensional) structure) amino acid residues within the SEMA domain (SEQ ID NO: 79) of c-Met protein, for instance, 5 to 19 contiguous amino acid residues within the amino acid sequence of SEQ ID NO: 71. For example, the epitope may be a polypeptide having 5 to 19 contiguous amino acids selected from among partial combinations of the amino acid sequence of SEQ ID NO: 71, wherein the polypeptide includes the amino sequence of SEQ ID NO: 73 (EEPSQ) serving as an essential element for the epitope. For example, the epitope may be a polypeptide including, consisting essentially of, or consisting of the amino acid sequence of SEQ ID NO: 71, SEQ ID NO: 72, or SEQ ID NO: 73. 
+ The epitope having the amino acid sequence of SEQ ID NO: 72 corresponds to the outermost part of the loop between the second and third beta propellers within the SEMA domain of a c-Met protein. The epitope having the amino acid sequence of SEQ ID NO: 73 is a site to which the antibody or antigen-binding fragment according to one embodiment most specifically binds. 
+ Thus, the anti-c-Met antibody may specifically bind to an epitope which includes 5 to 19 contiguous amino acids selected from among partial combinations of the amino acid sequence of SEQ ID NO: 71, including SEQ ID NO: 73 as an essential element. For example, the anti-c-Met antibody may specifically bind to an epitope including the amino acid sequence of SEQ ID NO: 71, SEQ ID NO: 72, or SEQ ID NO: 73. 
+ In one embodiment, the anti-c-Met antibody or an antigen-binding fragment thereof may include: 
+ at least one heavy chain complementarity determining region (CDR) selected from the group consisting of (a) a CDR-H1 including the amino acid sequence of SEQ ID NO: 4; (b) a CDR-H2 including the amino acid sequence of SEQ ID NO: 5, SEQ ID NO: 2, or an amino acid sequence including 8-19 consecutive amino acids within SEQ ID NO: 2 including amino acid residues from the 3 rd  to 10 th  positions of SEQ ID NO: 2; and (c) a CDR-H3 including the amino acid sequence of SEQ ID NO: 6, SEQ ID NO: 85, or an amino acid sequence including 6-13 consecutive amino acids within SEQ ID NO: 85 including amino acid residues from the 1 st  to 6 th  positions of SEQ ID NO: 85, or a heavy chain variable region including the at least one heavy chain complementarity determining region; 
+ at least one light chain complementarity determining region (CDR) selected from the group consisting of (a) a CDR-L1 including the amino acid sequence of SEQ ID NO: 7, (b) a CDR-L2 including the amino acid sequence of SEQ ID NO: 8, and (c) a CDR-L3 including the amino acid sequence of SEQ ID NO: 9, SEQ ID NO: 15, SEQ ID NO: 86, or an amino acid sequence including 9-17 consecutive amino acids within SEQ ID NO: 89 including amino acid residues from the 1 st  to 9 th  positions of SEQ ID NO: 89, or a light chain variable region including the at least one light chain complementarity determining region; 
+ a combination of the at least one heavy chain complementarity determining region and at least one light chain complementarity determining region; or 
+ a combination of the heavy chain variable region and the light chain variable region. 
+ Herein, the amino acid sequences of SEQ ID NOS: 4 to 9 are respectively represented by following Formulas I to VI, below: 
+ 
+ 
+ 
+ 
+ 
+   
+ Formula I 
+ 
+ 
+ 
+ 
+ (SEQ ID NO: 4) 
+ 
+ 
+ 
+ 
+   
+ Xaa 1 -Xaa 2 -Tyr-Tyr-Met-Ser, 
+ 
+ 
+ 
+ 
+ 
+ wherein Xaa 1  is absent or Pro or Ser, and Xaa 2  is Glu or Asp, 
+ 
+ 
+ 
+ 
+ 
+   
+ Formula II 
+ 
+ 
+ 
+ 
+ (SEQ ID NO: 5) 
+ 
+ 
+ 
+ 
+   
+ Arg-Asn-Xaa 3 -Xaa 4 -Asn-Gly-Xaa 5 -Thr, 
+ 
+ 
+ 
+ 
+ 
+ wherein Xaa 3  is Asn or Lys, Xaa 4  is Ala or Val, and Xaa 5  is Asn or Thr, 
+ 
+ 
+ 
+ 
+ 
+   
+ Formula III 
+ 
+ 
+ 
+ 
+ (SEQ ID NO: 6) 
+ 
+ 
+ 
+ 
+   
+ Asp-Asn-Trp-Leu-Xaa 6 -Tyr, 
+ 
+ 
+ 
+ 
+ 
+ wherein Xaa 6  is Ser or Thr, 
+ 
+ 
+ 
+ 
+ 
+ Formula IV 
+ 
+ 
+ (SEQ ID NO: 7) 
+ 
+ 
+ Lys-Ser-Ser-Xaa 7 -Ser-Leu-Leu-Ala-Xaa 8 -Gly-Asn- 
+ 
+ 
+   
+ 
+ 
+ Xaa 9 -Xaa 10 -Asn-Tyr-Leu-Ala 
+ 
+ 
+ 
+ 
+ 
+ wherein Xaa 7  is His, Arg, Gln, or Lys, Xaa 8  is Ser or Trp, Xaa 9  is His or Gln, and Xaa 10  is Lys or Asn, 
+ 
+ 
+ 
+ 
+ 
+   
+ Formula V 
+ 
+ 
+ 
+ 
+ (SEQ ID NO: 8) 
+ 
+ 
+ 
+ 
+   
+ Trp-Xaa 11 -Ser-Xaa 12 -Arg-Val-Xaa 13   
+ 
+ 
+ 
+ 
+ 
+ wherein Xaa 11  is Ala or Gly, Xaa 12  is Thr or Lys, and Xaa 13  is Ser or Pro, and 
+ 
+ 
+ 
+ 
+ 
+   
+ Formula VI 
+ 
+ 
+ 
+ 
+ (SEQ ID NO: 9) 
+ 
+ 
+ 
+ 
+   
+ Xaa 14 -Gln-Ser-Tyr-Ser-Xaa 15 -Pro-Xaa 16 -Thr 
+ 
+ 
+ 
+ 
+ 
+ wherein Xaa 14  is Gly, Ala, or Gln, Xaa 15  is Arg, His, Ser, Ala, Gly, or Lys, and Xaa 16  is Leu, Tyr, Phe, or Met. 
+ In one embodiment, the CDR-H1 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 1, SEQ ID NO: 22, SEQ ID NO: 23, and SEQ ID NO: 24. The CDR-H2 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 2, SEQ ID NO: 25, and SEQ ID NO: 26. The CDR-H3 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 3, SEQ ID NO: 27, SEQ ID NO: 28, and SEQ ID NO: 85. 
+ The CDR-L1 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 10, SEQ ID NO: 29, SEQ ID NO: 30, SEQ ID NO: 31, SEQ ID NO: 32, SEQ ID NO: 33 and SEQ ID NO: 106. The CDR-L2 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 11, SEQ ID NO: 34, SEQ ID NO: 35, and SEQ ID NO: 36. The CDR-L3 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 12, SEQ ID NO: 13, SEQ ID NO: 14, SEQ ID NO: 15, SEQ ID NO: 16, SEQ ID NO: 37, SEQ ID NO: 86, and SEQ ID NO: 89. 
+ In another embodiment, the antibody or antigen-binding fragment may include a heavy variable region including a polypeptide (CDR-H1) including an amino acid sequence selected from the group consisting of SEQ ID NO: 1, SEQ ID NO: 22, SEQ ID NO: 23, and SEQ ID NO: 24, a polypeptide (CDR-H2) including an amino acid sequence selected from the group consisting of SEQ ID NO: 2, SEQ ID NO: 25, and SEQ ID NO: 26, and a polypeptide (CDR-H3) including an amino acid sequence selected from the group consisting of SEQ ID NO: SEQ ID NO: 3, SEQ ID NO: 27, SEQ ID NO: 28, and SEQ ID NO: 85; and a light variable region including a polypeptide (CDR-L1) including an amino acid sequence selected from the group consisting of SEQ ID NO: 10, SEQ ID NO: 29, SEQ ID NO: 30, SEQ ID NO: 31, SEQ ID NO: 32, SEQ ID NO: 33, and SEQ ID NO: 106, a polypeptide (CDR-L2) including an amino acid sequence selected from the group consisting of SEQ ID NO: 11, SEQ ID NO: 34, SEQ ID NO: 35, and SEQ ID NO: 36, and a polypeptide (CDR-L3) including an amino acid sequence selected from the group consisting of SEQ ID NO: 12, SEQ ID NO: 13, SEQ ID NO: 14, SEQ ID NO: 15, SEQ ID NO: 16, SEQ ID NO: 37, SEQ ID NO: 86, and SEQ ID NO: 89. 
+ In one embodiment, the anti-c-Met antibody or an antigen-binding fragment thereof may be modified by the deletion, insertion, addition, or substitution of at least one amino acid residue on the amino acid sequence of the hinge region so that it exhibit enhanced antigen-binding efficiency. For example, the antibody may include a hinge region having the amino acid sequence of SEQ ID NO: 100(U7-HC6), SEQ ID NO: 101(U6-HC7), SEQ ID NO: 102(U3-HC9), SEQ ID NO: 103(U6-HC8), or SEQ ID NO: 104(U8-HC5), or a hinge region having the amino acid sequence of SEQ ID NO: 105 (non-modified human hinge). In particular, the hinge region includes the amino acid sequence of SEQ ID NO: 100 or SEQ ID NO: 101. 
+ In one embodiment, the anti-c-Met antibody or antigen-binding fragment may have a heavy chain variable region including the amino acid sequence of SEQ ID NO: 17, SEQ ID NO: 74, SEQ ID NO: 87, SEQ ID NO: 90, SEQ ID NO: 91, SEQ ID NO: 92, SEQ ID NO: 93, or SEQ ID NO: 94; a light chain variable region including the amino acid sequence of SEQ ID NO: 18, SEQ ID NO: 19, SEQ ID NO: 20, SEQ ID NO: 21, SEQ ID NO: 75, SEQ ID NO: 88, SEQ ID NO: 95, SEQ ID NO: 96, SEQ ID NO: 97, SEQ ID NO: 98, SEQ ID NO: 99, or SEQ ID NO: 107; or a combination of the heavy chain variable region and the light chain variable region. 
+ In one embodiment, the anti-c-Met antibody may be a monoclonal antibody. The monoclonal antibody may be produced by the hybridoma cell line deposited with the Korean Cell Line Research Foundation, an international depository authority located at Yungun-Dong, Jongno-Gu, Seoul, Korea, on Oct. 6, 2009, under Accession No. KCLRF-BP-00220, which binds specifically to the extracellular region of c-Met protein (refer to Korean Patent Publication No. 2011-0047698, the disclosure of which is incorporated in its entirety herein by reference). The anti-c-Met antibody may include all the antibodies defined in Korean Patent Publication No. 2011-0047698. 
+ In the anti-c-Met antibody or an antigen-binding fragment thereof and the anti-Ang2 antibody or an antigen-binding fragment thereof, the portion of the light chain and the heavy chain portion excluding the CDRs, the light chain variable region, and the heavy chain variable region as defined above, that is the light chain constant region and the heavy chain constant region, may be those from any subtype of immunoglobulin (e.g., IgA, IgD, IgE, IgG (IgG1, IgG2, IgG3, IgG4), IgM, etc.). 
+ By way of further example, the anti-c-Met antibody or the antibody fragment may include: 
+ a heavy chain including the amino acid sequence selected from the group consisting of the amino acid sequence of SEQ ID NO: 62 (wherein the amino acid sequence from amino acid residues from the 1 st  to 17 th  positions is a signal peptide), or the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62, the amino acid sequence of SEQ ID NO: 64 (wherein the amino acid sequence from the 1 st  to 17 th  positions is a signal peptide), the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64, the amino acid sequence of SEQ ID NO: 66 (wherein the amino acid sequence from the 1 st  to 17 th  positions is a signal peptide), and the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66; and 
+ a light chain including the amino acid sequence selected from the group consisting of the amino acid sequence of SEQ ID NO: 68 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68, the amino acid sequence of SEQ ID NO: 70 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70, and the amino acid sequence of SEQ ID NO: 108. 
+ For example, the anti-c-Met antibody may be selected from the group consisting of: 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62 and a light chain including the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68; 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64 and a light chain including the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68; 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and a light chain including the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68; 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62 and a light chain including the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70; 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64 and a light chain including the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70; 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and a light chain including the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70; 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62 and a light chain including the amino acid sequence of SEQ ID NO: 108; 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64 and a light chain including the amino acid sequence of SEQ ID NO: 108; and 
+ an antibody including a heavy chain including the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and a light chain including the amino acid sequence of SEQ ID NO: 108. 
+ The polypeptide of SEQ ID NO: 70 is a light chain including human kappa (κ) constant region, and the polypeptide with the amino acid sequence of SEQ ID NO: 68 is a polypeptide obtained by replacing histidine at position 62 (corresponding to position 36 of SEQ ID NO: 68 according to kabat numbering) of the polypeptide with the amino acid sequence of SEQ ID NO: 70 with tyrosine. The production yield of the antibodies may be increased by the replacement. The polypeptide with the amino acid sequence of SEQ ID NO: 108 is a polypeptide obtained by replacing serine at position 32 (position 27e according to kabat numbering in the amino acid sequence from amino acid residues 21 to 240 of SEQ ID NO: 68; positioned within CDR-L1) with tryptophan. By such replacement, antibodies and antibody fragments including such sequences exhibits increased activities, such as c-Met biding affinity, c-Met degradation activity, Akt phosphorylation inhibition, and the like. 
+ In another embodiment, the anti-c-Met antibody may include a light chain complementarity determining region including the amino acid sequence of SEQ ID NO: 106, a light chain variable region including the amino acid sequence of SEQ ID NO: 107, or a light chain including the amino acid sequence of SEQ ID NO: 108. 
+ In another embodiment, the anti-c-Met antibody may include a heavy chain including the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and a light chain including the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68. 
+ The following descriptions may be applied to both the anti-c-Met antibodies or fragments thereof and the anti-Ang2 antibodies or fragments thereof described herein. 
+ Animal-derived antibodies produced by immunizing non-immune animals with a desired antigen generally invoke immunogenicity when injected to humans for the purpose of medical treatment, and thus chimeric antibodies have been developed to inhibit such immunogenicity. Chimeric antibodies are prepared by replacing constant regions of animal-derived antibodies that cause an anti-isotype response with constant regions of human antibodies by genetic engineering. Chimeric antibodies are considerably improved in an anti-isotype response compared to animal-derived antibodies, but animal-derived amino acids still have variable regions, so that chimeric antibodies have side effects with respect to a potential anti-idiotype response. Humanized antibodies have been developed to reduce such side effects. Humanized antibodies are produced by grafting complementarity determining regions (CDR) which serve an important role in antigen binding in variable regions of chimeric antibodies into a human antibody framework. 
+ The most important thing in CDR grafting to produce humanized antibodies is choosing the optimized human antibodies for accepting CDRs of animal-derived antibodies. Antibody databases, analysis of a crystal structure, and technology for molecule modeling are used. However, even when the CDRs of animal-derived antibodies are grafted to the most optimized human antibody framework, amino acids positioned in a framework of the animal-derived CDRs affecting antigen binding are present. Therefore, in many cases, antigen binding affinity is not maintained, and thus application of additional antibody engineering technology for recovering the antigen binding affinity is necessary. 
+ The antibodies, e.g., the anti c-Met antibodies, the anti-Ang2 antibodies, and the anti-c-Met/anti-Ang2 bispecific antibody may be animal antibodies (e.g., mouse-derived antibodies), chimeric antibodies (e.g., mouse-human chimeric antibodies), humanized antibodies, or human antibodies. The antibodies or antigen-binding fragments thereof may be isolated from a living body or non-naturally occurring. The antibodies or antigen-binding fragments thereof may be synthetic or recombinant. The antibodies or antigen-binding fragments thereof may be monoclonal. 
+ An intact antibody includes two full-length light chains and two full-length heavy chains, in which each light chain is linked to a heavy chain by disulfide bonds. The antibody has a heavy chain constant region and a light chain constant region. The heavy chain constant region is of a gamma (γ), mu (μ), alpha (α), delta (δ), or epsilon (ε) type, which may be further categorized as gamma 1 (γ1), gamma 2 (γ2), gamma 3 (γ3), gamma 4 (γ4), alpha 1 (α1), or alpha 2 (α2). The light chain constant region is of either a kappa (κ) or lambda (λ) type. 
+ As used herein, the term “heavy chain” refers to full-length heavy chain, and fragments thereof, including a variable region V H  that includes amino acid sequences sufficient to provide specificity to antigens, and three constant regions, C H1 , C H2 , and C H3 , and a hinge. The term “light chain” refers to a full-length light chain and fragments thereof, including a variable region V L  that includes amino acid sequences sufficient to provide specificity to antigens, and a constant region C L . 
+ The term “complementarity determining region (CDR)” refers to an amino acid sequence found in a hyper variable region of a heavy chain or a light chain of immunoglobulin. The heavy and light chains may respectively include three CDRs (CDRH1, CDRH2, and CDRH3; and CDRL1, CDRL2, and CDRL3). The CDR may provide contact residues that play an important role in the binding of antibodies to antigens or epitopes. The terms “specifically binding” and “specifically recognized” are well known to one of ordinary skill in the art, and indicate that an antibody and an antigen specifically interact with each other to lead to an immunological activity. 
+ The term “antigen-binding fragment” used herein refers to fragments of an intact immunoglobulin including portions of a polypeptide including antigen-binding regions having the ability to specifically bind to the antigen. In a particular embodiment, the antigen-binding fragment may be scFv, (scFv) 2 , scFvFc, Fab, Fab′, or F(ab′) 2 , but is not limited thereto. 
+ Among the antigen-binding fragments, Fab that includes light chain and heavy chain variable regions, a light chain constant region, and a first heavy chain constant region C H1 , has one antigen-binding site. 
+ The Fab′ fragment is different from the Fab fragment, in that Fab′ includes a hinge region with at least one cysteine residue at the C-terminal of C H1 . 
+ The F(ab′) 2  antibody is formed through disulfide bridging of the cysteine residues in the hinge region of the Fab′ fragment. 
+ Fv is the smallest antibody fragment with only a heavy chain variable region and a light chain variable region. Recombination techniques of generating the Fv fragment are widely known in the art. 
+ Two-chain Fv includes a heavy chain variable region and a light chain region which are linked by a non-covalent bond. Single-chain Fv generally includes a heavy chain variable region and a light chain variable region which are linked by a covalent bond via a peptide linker or linked at the C-terminals to have a dimer structure like the two-chain Fv. The peptide linker may be the same as described in the above, for example, those including the amino acid length of about 1 to about 100, about 2 to about 50, particularly about 5 to about 25, and any kinds of amino acids may be included without any restrictions. 
+ The antigen-binding fragments may be attainable using protease (for example, the Fab fragment may be obtained by restricted cleavage of a whole antibody with papain, and the F(ab′) 2  fragment may be obtained by cleavage with pepsin), or may be prepared by using a genetic recombination technique. 
+ The term “hinge region,” as used herein, refers to a region between CH1 and CH2 domains within the heavy chain of an antibody which functions to provide flexibility for the antigen-binding site. 
+ When an animal antibody undergoes a chimerization process, the IgG1 hinge of animal origin is replaced with a human IgG1 hinge or IgG2 hinge while the disulfide bridges between two heavy chains are reduced from three to two in number. In addition, an animal-derived IgG1 hinge is shorter than a human IgG1 hinge. Accordingly, the rigidity of the hinge is changed. Thus, a modification of the hinge region may bring about an improvement in the antigen binding efficiency of the humanized antibody. The modification of the hinge region through amino acid deletion, addition, or substitution is well-known to those skilled in the art. 
+ The anti-Ang2 antibody may be a monoclonal antibody. The monoclonal antibody may be prepared by methods well known in the art. For example, it may be prepared using a phage display technique. 
+ Meanwhile, individual monoclonal antibodies may be screened using a typical ELISA (Enzyme-Linked ImmunoSorbent Assay) format, based on the binding potential with Ang2 or c-Met. Inhibitory activities can be verified through functional analysis such as competitive ELISA for verifying the molecular interaction of binding assemblies or functional analysis such as a cell-based assay. Then, with regard to monoclonal antibody members selected on the basis of their strong inhibitory activities, their affinities (Kd values) to Ang2 or c-Met may be each verified. 
+ In an embodiment, the anti-c-Met/anti-Ang2 bispecific antibody may include an anti-c-Met antibody or an antigen-binding fragment thereof, and an anti-Ang2 antibody or an antigen-binding fragment thereof, wherein the anti-Ang2 antibody or an antigen-binding fragment thereof is linked to C-terminus or N-terminus, e.g., C-terminus, of the anti-c-Met antibody or an antigen-binding fragment thereof. 
+ As used herein, the term “bispecific antibody” refers to a fusion polypeptide having an antibody or antibody-like structure, which comprises a first antibody specifically recognizing and/or binding to a first antigen or an antigen-binding fragment of the first antibody, and a second antibody specifically recognizing and/or binding to a second antigen (different from the first antigen) or an antigen-binding fragment of the second antibody, wherein the second antigen or an antigen-binding fragment thereof is linked to the C-terminus of the heavy chain or the light chain of the first antibody or an antigen-binding fragment thereof directly or via a proper linker. 
+ In the anti-c-Met/anti-Ang2 bispecific antibody, in order to fully perform the anti-c-Met antibody's activity to mediate intracellular migration and degradation of c-Met proteins, it may be advantageous that the anti-c-Met antibody has its own intact antibody structure. In addition, in case of the anti-Ang2 antibody, its specific recognition and binding to Ang2 is important, and thus it will be fine that just an antigen-binding fragment recognizing Ang2 is included in the bispecific antibody. Therefore, the anti-c-Met/anti-Ang2 bispecific antibody may comprise a complete anti-c-Met antibody (e.g., IgG type antibody; comprising two heavy chains and two light chains) and an antigen binding fragment (e.g., scFv or scFv-Fc) of the anti-Ang2 antibody linked to the C terminus of the anti-c-Met antibody, but not be limited thereto. 
+ In the anti-c-Met/anti-Ang2 bispecific antibody, the anti-c-Met antibody or the antigen binding fragment thereof, and the anti-Ang2 antibody or the antigen binding fragment thereof, may be linked via a peptide linker or without it. Furthermore, a heavy chain portion and a light chain portion within the antigen binding fragment, for example, a heavy chain variable region and a light chain variable region within the scFv fragment, may be linked via a peptide linker or without it. The peptide linker which links the anti-c-Met antibody or the antigen binding fragment thereof, and the anti-EGFR antibody or the antigen binding fragment thereof, and the peptide linker which links the heavy chain portion and the light chain portion within the antigen binding fragment may be identical or different. The peptide linker may be about 1 to about 100, particularly about 2 to about 50, amino acids in length and include any kinds of amino acids. The peptide linker may include for example, Gly, Asn and/or Ser residues, and also include neutral amino acids such as Thr and/or Ala. Amino acid sequences suitable for the peptide linker are known in the relevant art. The length of the peptide linker may be determined within such a limit that the functions of the fusion protein (bispecific antibody) will not be affected. For instance, the peptide linker may be formed by including a total of about 1 to about 100, about 2 to about 50, or about 5 to about 25 of one or more amino acids selected from the group consisting of Gly, Asn, Ser, Thr, and Ala. In one embodiment, the peptide linker may be represented as (GGGGS)n, wherein n is a repeat number of (GGGGS), which is an integer of about 1 to about 10, particularly an integer of about 2 to about 5. 
+ In a particular embodiment, the anti-c-Met/anti-Ang2 bispecific antibody may include an anti-c-Met antibody, and an scFv, (scFv) 2 , Fab, Fab′ or F(ab′) 2 , for example, scFv, of an anti-Ang2 antibody linked to the C terminus of the anti-c-Met antibody. For instance, scFv, (scFv) 2 , Fab, Fab′ or F(ab′) 2  of the anti-EGFR antibody may include a heavy chain variable region including the amino acid sequence selected from SEQ ID NO: 156 to SEQ ID NO: 163, and a light chain variable region including the amino acid sequence selected from SEQ ID NO: 164 to SEQ ID NO: 171. 
+ Hence, in a particular embodiment, the anti-c-Met/anti-Ang2 bispecific antibody may include an anti-c-Met antibody, and an scFv, (scFv) 2 , Fab, Fab′ or F(ab′) 2  of an anti-Ang2 antibody including a heavy chain variable region including the amino acid sequence selected from SEQ ID NO: 156 to SEQ ID NO: 163, and a light chain variable region the amino acid sequence selected from SEQ ID NO: 164 to SEQ ID NO: 171, which is linked to the C terminal of the anti-c-Met antibody. 
+ In an embodiment, the heavy chain of the anti-c-Met/anti-Ang2 bispecific antibody may include the amino acid sequence of SEQ ID NO: 189 (wherein the amino acid sequence from the 1 st  to 17 th  positions is a signal peptide) or the amino acid sequence from the 18 th  to 738 th  positions of the amino acid sequence of SEQ ID NO: 189. The light chain of the anti-c-Met/anti-Ang2 bispecific antibody may be the same with that of the above described anti-c-Met antibody, and for example, light chain may include an amino acid sequence selected from the group consisting of the amino acid sequence of SEQ ID NO: 68 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 68, the amino acid sequence of SEQ ID NO: 70 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21″ to 240 th  positions of the amino acid sequence of SEQ ID NO: 70, and the amino acid sequence of SEQ ID NO: 108. 
+ Due to internalization and degradation activities of the anti-c-Met antibody, the anti-c-Met/anti-Ang2 bispecific antibody is capable of not only inhibiting the activities of c-Met and Ang2, but also decreasing the total amount of c-Met and Ang2 by degrading them, thereby leading to more fundamental blocking of activity of the c-Met and Ang2. Therefore, the anti-c-Met/anti-Ang2 bispecific antibody can exhibit therapeutic effects even when it is applied to a subject who has a resistance against a preexisting Ang2-targeting drug, such as an anti-Ang2, or an anti-c-Met antibody. 
+ In another embodiment, provided is a pharmaceutical composition including the anti-c-Met/anti-Ang2 bispecific antibody. 
+ Another embodiment provides a pharmaceutical composition for preventing and/or treating a disease associated with Ang2/Tie2 signal transduction system and/or HGF/c-Met signal transduction system, wherein the composition includes the anti-c-Met/anti-Ang2 bispecific antibody as an active ingredient. 
+ Another embodiment provides a method of preventing and/or treating a disease associated with Ang2/Tie2 signal transduction system and/or HGF/c-Met signal transduction system, including administering the anti-c-Met/anti-Ang2 bispecific antibody to a subject in need of preventing and/or treating a disease associated with Ang2/Tie2 signal transduction system and/or HGF/c-Met signal transduction system. The anti-c-Met/anti-Ang2 bispecific antibody may be administered in a pharmaceutically effective amount for preventing and/or treating a disease associated with Ang2/Tie2 signal transduction system and/or HGF/c-Met signal transduction system. The method may further include a step of identifying the subject in need of preventing and/or treating a disease associated with Ang2/Tie2 signal transduction system and/or HGF/c-Met signal transduction system, before the step of administering. 
+ The disease associated with Ang2/Tie2 signal transduction system and/or HGF/c-Met signal transduction system may be a disease related to increase of angiogenesis and/or increase of vascular permeability and/or over-expression of Ang2 and/or c-Met, and for example, the disease may be at least one selected from the group consisting of cancers; cancer metastasis; eye diseases such as retinopathy of prematurity, macular degeneration (e.g., age-related macular degeneration), diabetic retinopathy, glaucoma (e.g., neovascular glaucoma) etc.; inflammatory diseases (infection) such as psoriasis, rheumatoid arthritis, pneumonia, chronic inflammation, etc.; cardiovascular diseases such as hypertension, arteriosclerosis, etc.; renal diseases; sepsis; malaria; asthma; edema; hereditary hemorrhagic telangiectasia (HHT); and the like. 
+ Another embodiment may provide a pharmaceutical composition for presenting and/or treating a cancer, wherein the composition includes the anti-c-Met/anti-Ang2 bispecific antibody as an active ingredient. 
+ Another embodiment provides a method of preventing and/or treating a cancer, including administering the anti-c-Met/anti-Ang2 bispecific antibody to a subject in need of preventing and/or treating a cancer. The anti-c-Met/anti-Ang2 bispecific antibody may be administered in a pharmaceutically effective amount for preventing and/or treating a cancer. The method may further include a step of identifying the subject in need of preventing and/or treating cancer, before the step of administering. 
+ The prevention and/or treatment of a cancer may refer to prevention and/or treatment of a cancer and/or cancer metastasis. 
+ The cancer may be a solid cancer or a blood cancer, and it may be at least one selected from the group consisting of squamous cell carcinoma, small-cell lung cancer, non-small-cell lung cancer, adenocarcinoma of the lung, squamous cell carcinoma of the lung, peritoneal carcinoma, skin cancer, melanoma in the skin or eyeball, rectal cancer, cancer near the anus, esophagus cancer, small intestinal tumor, endocrine gland cancer, parathyroid cancer, adrenal cancer, soft-tissue sarcoma, urethral cancer, chronic or acute leukemia, lymphocytic lymphoma, hepatocellular cancer, gastrointestinal cancer, gastric cancer, pancreatic cancer, glioblastoma, cervical cancer, ovarian cancer, liver cancer, bladder cancer, hepatoma, breast cancer, colon cancer, large intestine cancer, endometrial carcinoma or uterine carcinoma, salivary gland tumor, kidney cancer, prostate cancer, vulvar cancer, thyroid cancer, head or neck cancer, brain cancer, osteosarcoma, and the like, but not limited thereto. In particular, the cancer may be one having a resistance against a preexisting anticancer drug, such as an antagonist to c-Met or an antagonist to Ang2. The cancer may be a primary cancer or a metastatic cancer. 
+ In the pharmaceutical composition or method, the anti-c-Met/anti-Ang2 bispecific antibody may be administered together with one or more additives selected from the group consisting of pharmaceutically acceptable carriers, diluents, excipients, and the like. 
+ The pharmaceutically acceptable carrier may be any one commonly used in the formulation of drugs, which may be one or more selected from the group consisting of lactose, dextrose, sucrose, sorbitol, mannitol, starch, gum acacia, calcium phosphate, alginates, gelatin, calcium silicate, micro-crystalline cellulose, polyvinylpyrrolidone, cellulose, water, syrup, methyl cellulose, methylhydroxy benzoate, propylhydroxy benzoate, talc, magnesium stearate, and mineral oil, but is not limited thereto. The pharmaceutical composition may further include one or more selected from the group consisting of a diluent, an excipient, a lubricant, a wetting agent, a sweetener, a flavor enhancer, an emulsifying agent, a suspension agent, and a preservative. 
+ The pharmaceutical composition, the anti-Ang2 antibody or an antigen-binding fragment thereof, or the anti-c-Met/anti-Ang2 bispecific antibody may be administered orally or parenterally. The parenteral administration may include intravenous injection, subcutaneous injection, muscular injection, intraperitoneal injection, endothelial administration, local administration, intranasal administration, intrapulmonary administration, and rectal administration. Since oral administration leads to digestion of proteins or peptides, an active ingredient in the compositions for oral administration must be coated or formulated to prevent digestion in stomach. In addition, the composition may be administered using an optional device that enables an active substance to be delivered to target cells. 
+ The suitable dose of the pharmaceutical composition, the anti-Ang2 antibody or an antigen-binding fragment thereof, or the anti-c-Met/anti-Ang2 bispecific antibody may be prescribed in a variety of ways, depending on factors such as formulation methods, administration methods, age of subjects, body weight, gender, pathologic conditions, diets, administration time, administration interval, administration route, excretion speed, and reaction sensitivity. For example, a daily dosage of the composition the anti-Ang2 antibody or an antigen-binding fragment thereof, or the anti-c-Met/anti-Ang2 bispecific antibody may be within the range of about 0.001 to about 1000 mg/kg (e.g., about 0.001 mg/kg, about 0.01 mg/kg, about 1 mg/kg, or about 10 mg/kg), particularly about 0.01 to about 100 mg/kg (e.g., about 0.01 mg/kg, about 0.1 mg/kg, about 0.5 mg/kg, about 1 mg/kg, or about 5 mg/kg), and more particularly about 0.1 to about 50 mg/kg (e.g., about 0.1 mg/kg, about 1 mg/kg, about 10 mg/kg, or about 50 mg/kg), but is not limited thereto. The daily dosage may be formulated into a single formulation in a unit dosage form or formulated in suitably divided dosage forms, or it may be manufactured to be contained in a multiple dosage container. The term “pharmaceutically effective amount” as used herein refers to a content or dose of an active ingredient capable of showing desirable pharmacological effects and it may be determined in a variety of ways, depending on factors such as formulation methods, administration methods, age of subjects, body weight, gender, pathologic conditions, diets, administration time, administration interval, administration route, excretion speed, and reaction sensitivity. 
+ The pharmaceutical composition or the anti-c-Met/anti-Ang2 bispecific antibody may be formulated with a pharmaceutically acceptable carrier and/or excipient into a unit or a multiple dosage form by a method easily carried out by a skilled person in the pertinent art. The dosage form may be a solution in oil or an aqueous medium, a suspension, syrup, an emulsifying solution, an extract, powder, granules, a tablet, or a capsule, and may further include a dispersing or a stabilizing agent. 
+ In addition, the pharmaceutical composition or the anti-c-Met/anti-Ang2 bispecific antibody may be administered as an individual drug, or together with other drugs, and may be administered sequentially or simultaneously with pre-existing drugs. 
+ In particular, the pharmaceutical composition including an antibody or an antigen-binding fragment thereof may be formulated into an immunoliposome since it contains an antibody or an antigen-binding fragment. A liposome containing an antibody may be prepared using any methods widely known in the art. The immunoliposome may be a lipid composition including phosphatidylcholine, cholesterol, and polyethyleneglycol-derivatized phosphatidylethanolamine, and may be prepared by a reverse phase evaporation method. For example, Fab′ fragments of an antibody may be conjugated to the liposome through a disulfide-exchange reaction. 
+ The subject to whom the pharmaceutical composition or the anti-c-Met/anti-Ang2 bispecific antibody is administered may be mammals, for example, primates such as humans and monkeys, or rodents such as rats and mice, or a cell or a tissue isolated from the mammal or a culture thereof, but are not be limited thereto. The subject may be a cancer patient having resistance against pre-existing anticancer drugs, for example, antagonists against a cancer-related target (e.g., c-Met, Ang2, etc.). 
+ Another embodiment provides a polynucleotide encoding the anti-c-Met/anti-Ang2 bispecific antibody. For example, the polynucleotide may comprise or consist essentially of (i) a polynucleotide encoding a polypeptide comprising a heavy chain of an anti-c-Met antibody and an antigen-binding fragment (e.g., an scFv fragment) of an anti-Ang2 antibody linked to the C-terminus of the heavy chain of an anti-c-Met antibody, (ii) a polynucleotide encoding a polypeptide comprising a light chain of an anti-c-Met antibody, or (iii) a combination of (i) and (ii). 
+ Another embodiment provides a recombinant vector comprising (or carrying) the polynucleotide. Another embodiment provides a recombinant cell comprising (or transfected with) the polynucleotide or the recombinant vector. 
+ Another embodiment provides a method of preparing the anti-c-Met/anti-Ang2 bispecific antibody, comprising expressing a polynucleotide encoding the anti-c-Met/anti-Ang2 bispecific antibody in a cell. As described above, the polynucleotide may comprise or consist essentially of (i) a polynucleotide encoding a polypeptide comprising a heavy chain of an anti-c-Met antibody and an antigen-binding fragment (e.g., an scFv fragment) of an anti-Ang2 antibody linked to the C-terminus of the heavy chain of an anti-c-Met antibody, (ii) a polynucleotide encoding a polypeptide comprising a light chain of an anti-c-Met antibody, or (iii) a combination of (i) and (ii). In the method, the nucleotides (i) and (ii) are carried into a cell together by one vector or separately by two vectors. Another embodiment provides a method of preparing the anti-c-Met/anti-Ang2 bispecific antibody, comprising linking an anti-Ang2 antibody or an antigen-binding fragment thereof to C-terminus or N-terminus of an anti-c-Met antibody or an antigen-binding fragment thereof. For example, the method may comprise linking an antigen-binding fragment (e.g., an scFv fragment) of an anti-Ang2 antibody to a c-terminus of an anti-c-Met antibody. 
+ In the nucleotide, the vector, the cell, and the method, the anti-c-Met/anti-Ang2 bispecific antibody, the heavy chain of an anti-c-Met antibody, the light chain of an anti-c-Met antibody, and the antigen-binding fragment (e.g., an scFv fragment) of an anti-Ang2 antibody are as described above. 
+ The anti-c-Met/anti-Ang2 antibody possess both characteristics as an inhibitor against Ang2/Tie2 signal transduction and c-Met/HGF signal transduction, and may exhibit the following effects of: 
+ 1. Increasing the therapeutic efficacy compared to administration of Ang2/Tie2 inhibitor alone, HGF/c-Met inhibitor alone, or a combination thereof, thereby decreasing the administration amount, 
+ 2. being used in treatment of a metastatic cancer as well as a primary cancer, and 
+ 3. being applied to a disease associated with Ang2/Tie2 signal transduction and HGF/c-Met signal transduction, other than cancers. 
+ EXAMPLES 
+ Hereafter, the present invention will be described in detail by examples. 
+ The following examples are intended merely to illustrate the invention and are not construed to restrict the invention. 
+ Reference Example 1 
+ Construction of an Anti-c-Met Antibody 
+ 1.1. Production of “AbF46”, a Mouse Antibody to c-Met 
+ 1.1.1. Immunization of a Mouse 
+ To obtain immunized mice necessary for the development of a hybridoma cell line, each of five BALB/c mice (Japan SLC, Inc.), 4 to 6 weeks old, was intraperitoneally injected with a mixture of 100 μg of human c-Met/Fc fusion protein (R&D Systems) and one volume of complete Freund's adjuvant. Two weeks after the injection, a second intraperitoneal injection was conducted on the same mice with a mixture of 50 μg of human c-Met/Fc protein and one volume of incomplete Freund's adjuvant. One week after the second immunization, the immune response was finally boosted. Three days later, blood was taken from the tails of the mice and the sera were 1/1000 diluted in PBS and used to examine a titer of antibody to c-Met by ELISA. Mice found to have a sufficient antibody titer were selected for use in the cell fusion process. 
+ 1.1.2. Cell fusion and Production of a Hybridoma 
+ Three days before cell fusion, BALB/c mice (Japan SLC, Inc.) were immunized with an intraperitoneal injection of a mixture of 50 μg of human c-Met/Fc fusion protein and one volume of PBS. The immunized mice were anesthetized before excising the spleen from the left half of the body. The spleen was meshed to separate splenocytes which were then suspended in a culture medium (DMEM, GIBCO, Invitrogen). The cell suspension was centrifuged to recover the cell layer. The splenocytes thus obtained (1×10 8  cells) were mixed with myeloma cells (Sp2/0) (1×10 8  cells), followed by spinning to give a cell pellet. The cell pellet was slowly suspended, treated with 45% polyethylene glycol (PEG) (1 mL) in DMEM for 1 min at 37° C., and supplemented with 1 mL of DMEM. To the cells was added 10 mL of DMEM over 10 min, after which incubation was conducted in a water bath at 37° C. for 5 min. Then the cell volume was adjusted to 50 mL before centrifugation. The cell pellet thus formed was resuspended at a density of 1˜2×10 5  cells/mL in a selection medium (HAT medium) and 0.1 mL of the cell suspension was allocated to each well of 96-well plates which were then incubated at 37° C. in a CO 2  incubator to establish a hybridoma cell population. 
+ 1.1.3. Selection of Hybridoma Cells Producing Monoclonal Antibodies to c-Met Protein 
+ From the hybridoma cell population established in Reference Example 1.1.2, hybridoma cells which showed a specific response to c-Met protein were screened by ELISA using human c-Met/Fc fusion protein and human Fc protein as antigens. 
+ Human c-Met/Fc fusion protein was seeded in an amount of 50 μL (2 μg/mL)/well to microtiter plates and allowed to adhere to the surface of each well. The antibody that remained unbound was removed by washing. For use in selecting the antibodies that do not bind c-Met but recognize Fc, human Fc protein was attached to the plate surface in the same manner. 
+ The hybridoma cell culture obtained in Reference Example 1.1.2 was added in an amount of 50 μL to each well of the plates and incubated for 1 hour. The cells remaining unreacted were washed out with a sufficient amount of Tris-buffered saline and Tween 20 (TBST). Goat anti-mouse IgG-horseradish peroxidase (HRP) was added to the plates and incubated for 1 hour at room temperature. The plates were washed with a sufficient amount of TBST, followed by reacting the peroxidase with a substrate (OPD). Absorbance at 450 nm was measured on an ELISA reader. 
+ Hybridoma cell lines which secrete antibodies that specifically and strongly bind to human c-Met but not human Fc were selected repeatedly. From the hybridoma cell lines obtained by repeated selection, a single clone producing a monoclonal antibody was finally separated by limiting dilution. The single clone of the hybridoma cell line producing the monoclonal antibody was deposited with the Korean Cell Line Research Foundation, an international depository authority located at Yungun-Dong, Jongno-Gu, Seoul, Korea, on Oct. 9, 2009, under Accession No. KCLRF-BP-00220 according to the Budapest Treaty (see Korean Patent Laid-Open Publication No. 2011-0047698). 
+ 1.1.4. Production and Purification of a Monoclonal Antibody 
+ The hybridoma cell line obtained in Reference Example 1.1.3 was cultured in a serum-free medium, and the monoclonal antibody (AbF46) was produced and purified from the cell culture. 
+ First, the hybridoma cells cultured in 50 mL of a medium (DMEM) supplemented with 10% (v/v) fetal bovine serum (FBS) were centrifuged and the cell pellet was washed twice or more with 20 mL of PBS to remove the FBS therefrom. Then, the cells were resuspended in 50 mL of DMEM and incubated for 3 days at 37° C. in a CO 2  incubator. 
+ After the cells were removed by centrifugation, the supernatant was stored at 4° C. before use or immediately used for the separation and purification of the antibody. An AKTA system (GE Healthcare) equipped with an affinity column (Protein G agarose column; Pharmacia, USA) was used to purify the antibody from 50 to 300 mL of the supernatant, followed by concentration with an filter (Amicon). The antibody was stored in PBS before use in the following examples. 
+ 1.2. Construction of chAbF46, a Chimeric Antibody to c-Met 
+ A mouse antibody is apt to elicit immunogenicity in humans. To solve this problem, chAbF46, a chimeric antibody, was constructed from the mouse antibody AbF46 produced in Reference Example 1.1.4 by replacing the constant region, but not the variable region responsible for antibody specificity, with an amino sequence of the human IgG1 antibody. 
+ In this regard, a gene was designed to include the nucleotide sequence of “EcoRI-signal sequence-VH-NheI-CH-TGA-XhoI” (SEQ ID NO: 38) for a heavy chain and the nucleotide sequence of “EcoRI-signal sequence-VL-BsiWI-CL-TGA-XhoI” (SEQ ID NO: 39) for a light chain and synthesized. Then, a DNA fragment having the heavy chain nucleotide sequence (SEQ ID NO: 38) and a DNA fragment having the light chain nucleotide sequence (SEQ ID NO: 39) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen), and a vector from the pcDNA™ 3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 ul (microliter) of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ Afterwards, the cells were incubated in DMEM supplemented with 10% (v/v) FBS for 5 hours at 37° C. under a 5% CO 2  condition and then in FBS-free DMEM for 48 hours at 37° C. under a 5% CO 2  condition. 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify a chimeric antibody AbF46 (hereinafter referred to as “chAbF46”). 
+ 1.3. Construction of Humanized Antibody huAbF46 from Chimeric Antibody chAbF46 
+ 1.3.1. Heavy Chain Humanization 
+ To design two domains H1-heavy and H3-heavy, human germline genes which share the highest identity/homology with the VH gene of the mouse antibody AbF46 purified in Reference Example 1.2 were analyzed. An Ig BLAST (www.ncbi.nlm.nih.gov/igblast/) result revealed that VH3-71 has an identity/identity/homology of 83% at the amino acid level. CDR-H1, CDR-H2, and CDR-H3 of the mouse antibody AbF46 were defined according to Kabat numbering. A design was made to introduce the CDR of the mouse antibody AbF46 into the framework of VH3-71. Hereupon, back mutations to the amino acid sequence of the mouse AbF46 were conducted at positions 30 (S→T), 48 (V→L), 73 (D→N), and 78 (T→L). Then, H1 was further mutated at positions 83 (R→K) and 84 (A→T) to finally establish H1-heavy (SEQ ID NO: 40) and H3-heavy (SEQ ID NO: 41). 
+ For use in designing H4-heavy, human antibody frameworks were analyzed by a BLAST search. The result revealed that the VH3 subtype, known to be most stable, is very similar in framework and sequence to the mouse antibody AbF46. CDR-H1, CDR-H2, and CDR-H3 of the mouse antibody AbF46 were defined according to Kabat numbering and introduced into the VH3 subtype to construct H4-heavy (SEQ ID NO: 42). 
+ 1.3.2. Light Chain Humanization 
+ To design two domains H1-light (SEQ ID NO: 43) and H2-light (SEQ ID NO: 44), human germline genes which share the highest identity/homology with the VH gene of the mouse antibody AbF46 were analyzed. An Ig BLAST search result revealed that VK4-1 has a identity/homology of 75% at the amino acid level. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody AbF46 were defined according to Kabat numbering. A design was made to introduce the CDR of the mouse antibody AbF46 into the framework of VK4-1. Hereupon, back mutations to the amino acid sequence of the mouse AbF46 were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I). Only one back mutation was conducted at position 49 (Y→I) on H2-light. 
+ To design H3-light (SEQ ID NO: 45), human germline genes which share the highest identity/homology with the VL gene of the mouse antibody AbF46 were analyzed by a BLAST search. As a result, VK2-40 was selected. VL and VK2-40 of the mouse antibody AbF46 were found to have a identity/homology of 61% at an amino acid level. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody were defined according to Kabat numbering and introduced into the framework of VK4-1. Back mutations were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I) on H3-light. 
+ For use in designing H4-light (SEQ ID NO: 46), human antibody frameworks were analyzed. A Blast search revealed that the Vk1 subtype, known to be the most stable, is very similar in framework and sequence to the mouse antibody AbF46. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody AbF46 were defined according to Kabat numbering and introduced into the Vk1 subtype. Hereupon, back mutations were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I) on H4-light. 
+ Thereafter, DNA fragments having the heavy chain nucleotide sequences (H1-heavy: SEQ ID NO: 47, H3-heavy: SEQ ID NO: 48, H4-heavy: SEQ ID NO: 49) and DNA fragments having the light chain nucleotide sequences (H1-light: SEQ ID NO: 50, H2-light: SEQ ID NO: 51, H3-light: SEQ ID NO: 52, H4-light: SEQ ID NO: 53) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) and a vector from the pcDNA™ 3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively, so as to construct recombinant vectors for expressing a humanized antibody. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml. After 24 hours, when the cell number reached 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 ul (microliter) of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify a humanized antibody AbF46 (hereinafter referred to as “huAbF46”). The humanized antibody huAbF46 used in the following examples included a combination of H4-heavy (SEQ ID NO: 42) and H4-light (SEQ ID NO: 46). 
+ 1.4. Construction of an scFV Library of huAbF46 Antibody 
+ For use in constructing an scFv of the huAbF46 antibody from the heavy and light chain variable regions of the huAbF46 antibody, a gene was designed to have the structure of “VH-linker-VL” for each of the heavy and the light chain variable region, with the linker having the amino acid sequence “GLGGLGGGGSGGGGSGGSSGVGS” (SEQ ID NO: 54). A polynucleotide sequence (SEQ ID NO: 55) encoding the designed scFv of huAbF46 was synthesized in Bioneer and an expression vector for the polynucleotide had the nucleotide sequence of SEQ ID NO: 56. 
+ After expression, the product was found to exhibit specificity to c-Met. 
+ 1.5. Construction of Library Genes for Affinity Maturation 
+ 1.5.1. Selection of Target CDRs and Synthesis of Primers 
+ The affinity maturation of huAbF46 was achieved. First, six complementary determining regions (CDRs) were defined according to Kabat numbering. The CDRs are given in Table 4, below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+   
+ 
+ 
+   
+ CDR 
+ Amino Acid Sequence 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ CDR-H1 
+ DYYMS(SEQ ID NO: 1) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-H2 
+ FIRNKANGYTTEYSASVKG(SEQ ID NO: 2) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-H3 
+ DNWFAY(SEQ ID NO: 3) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-L1 
+ KSSQSLLASGNQNNYLA(SEQ ID NO: 10) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-L2 
+ WASTRVS(SEQ ID NO: 11) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-L3 
+ QQSYSAPLT(SEQ ID NO: 12) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ For use in the introduction of random sequences into the CDRs of the antibody, primers were designed as follows. Conventionally, N codons were utilized to introduce bases at the same ratio (25% A, 25% G, 25% C, 25% T) into desired sites of mutation. In this experiment, the introduction of random bases into the CDRs of huAbF46 was conducted in such a manner that, of the three nucleotides per codon in the wild-type polynucleotide encoding each CDR, the first and second nucleotides conserved over 85% of the entire sequence while the other three nucleotides were introduced at the same percentage (each 5%) and that the same possibility was imparted to the third nucleotide (33% G, 33% C, 33% T). 
+ 1.5.2. Construction of a Library of huAbF46 Antibodies and Affinity for c-Met 
+ The construction of antibody gene libraries through the introduction of random sequences was carried out using the primers synthesized in the same manner as in Reference Example 1.5.1. Two PCR products were obtained using a polynucleotide covering the scFV of huAbF46 as a template, and were subjected to overlap extension PCR to give scFv library genes for huAbF46 antibodies in which only desired CDRs were mutated. Libraries targeting each of the six CDRs prepared from the scFV library genes were constructed. 
+ The affinity for c-Met of each library was compared to that of the wildtype. Most libraries were lower in affinity for c-Met, compared to the wild-type. The affinity for c-Met was retained in some mutants. 
+ 1.6. Selection of an Antibody with Improved Affinity from Libraries 
+ After maturation of the affinity of the constructed libraries for c-Met, the nucleotide sequence of scFv from each clone was analyzed. The nucleotide sequences thus obtained are summarized in Table 2 and were converted into IgG forms. Four antibodies which were respectively produced from clones L3-1, L3-2, L3-3, and L3-5 were used in the subsequent experiments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 5 
+ 
+ 
+   
+ 
+ 
+   
+   
+ Library 
+   
+ 
+ 
+   
+ Clone 
+ constructed 
+ CDR Sequence 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ H11-4 
+ CDR-H1 
+ PEYYMS (SEQ ID NO: 22) 
+ 
+ 
+   
+ 
+ 
+   
+ YC151 
+ CDR-H1 
+ PDYYMS (SEQ ID NO: 23) 
+ 
+ 
+   
+ 
+ 
+   
+ YC193 
+ CDR-H1 
+ SDYYMS (SEQ ID NO: 24) 
+ 
+ 
+   
+ 
+ 
+   
+ YC244 
+ CDR-H2 
+ RNNANGNT (SEQ ID NO: 25) 
+ 
+ 
+   
+ 
+ 
+   
+ YC321 
+ CDR-H2 
+ RNKVNGYT (SEQ ID NO: 26) 
+ 
+ 
+   
+ 
+ 
+   
+ YC354 
+ CDR-H3 
+ DNWLSY (SEQ ID NO: 27) 
+ 
+ 
+   
+ 
+ 
+   
+ YC374 
+ CDR-H3 
+ DNWLTY (SEQ ID NO: 28) 
+ 
+ 
+   
+ 
+ 
+   
+ L1-1 
+ CDR-L1 
+ KSSHSLLASGNQNNYLA 
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 29) 
+ 
+ 
+   
+ 
+ 
+   
+ L1-3 
+ CDR-L1 
+ KSSRSLLSSGNHKNYLA 
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 30) 
+ 
+ 
+   
+ 
+ 
+   
+ L1-4 
+ CDR-L1 
+ KSSKSLLASGNQNNYLA 
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 31) 
+ 
+ 
+   
+ 
+ 
+   
+ L1-12 
+ CDR-L1 
+ KSSRSLLASGNQNNYLA 
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 32) 
+ 
+ 
+   
+ 
+ 
+   
+ L1-22 
+ CDR-L1 
+ KSSHSLLASGNQNNYLA 
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 33) 
+ 
+ 
+   
+ 
+ 
+   
+ L2-9 
+ CDR-L2 
+ WASKRVS (SEQ ID NO: 34) 
+ 
+ 
+   
+ 
+ 
+   
+ L2-12 
+ CDR-L2 
+ WGSTRVS (SEQ ID NO: 35) 
+ 
+ 
+   
+ 
+ 
+   
+ L2-16 
+ CDR-L2 
+ WGSTRVP (SEQ ID NO: 36) 
+ 
+ 
+   
+ 
+ 
+   
+ L3-1 
+ CDR-L3 
+ QQSYSRPYT (SEQ ID NO: 13) 
+ 
+ 
+   
+ 
+ 
+   
+ L3-2 
+ CDR-L3 
+ GQSYSRPLT (SEQ ID NO: 14) 
+ 
+ 
+   
+ 
+ 
+   
+ L3-3 
+ CDR-L3 
+ AQSYSHPFS (SEQ ID NO: 15) 
+ 
+ 
+   
+ 
+ 
+   
+ L3-5 
+ CDR-L3 
+ QQSYSRPFT (SEQ ID NO: 16) 
+ 
+ 
+   
+ 
+ 
+   
+ L3-32 
+ CDR-L3 
+ QQSYSKPFT (SEQ ID NO: 37) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 1.7. Conversion of Selected Antibodies into IgG 
+ Respective polynucleotides encoding heavy chains of the four selected antibodies were designed to have the structure of “EcoRI-signal sequence-VH-NheI-CH-XhoI” (SEQ ID NO: 38). The heavy chains of huAbF46 antibodies were used as they were because their amino acids were not changed during affinity maturation. In the case of the hinge region, however, the U6-HC7 hinge (SEQ ID NO: 57) was employed instead of the hinge of human IgG1. Genes were also designed to have the structure of “EcoRI-signal sequence-VL-BsiWI-CL-XhoI” for the light chain. Polypeptides encoding light chain variable regions of the four antibodies which were selected after the affinity maturation were synthesized in Bioneer. Then, a DNA fragment having the heavy chain nucleotide sequence (SEQ ID NO: 38) and DNA fragments having the light chain nucleotide sequences (DNA fragment including L3-1-derived CDR-L3: SEQ ID NO: 58, DNA fragment including L3-2-derived CDR-L3: SEQ ID NO: 59, DNA fragment including L3-3-derived CDR-L3: SEQ ID NO: 60, and DNA fragment including L3-5-derived CDR-L3: SEQ ID NO: 61) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) and a vector from the pcDNA™ 3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively, so as to construct recombinant vectors for expressing affinity-matured antibodies. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 ul (microliter) of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify four affinity-matured antibodies (hereinafter referred to as “huAbF46-H4-A1 (L3-1 origin), huAbF46-H4-A2 (L3-2 origin), huAbF46-H4-A3 (L3-3 origin), and huAbF46-H4-A5 (L3-5 origin),” respectively). 
+ 1.8. Construction of Constant Region- and/or Hinge Region-Substituted huAbF46-H4-A1 
+ Among the four antibodies selected in Reference Example 1.7, huAbF46-H4-A1 was found to be the highest in affinity for c-Met and the lowest in Akt phosphorylation and c-Met degradation degree. In the antibody, the hinge region, or the constant region and the hinge region, were substituted. 
+ The antibody huAbF46-H4-A1 (U6-HC7) was composed of (a) a heavy chain including the heavy chain variable region of huAbF46-H4-A1, U6-HC7 hinge, and the constant region of human IgG1 constant region, and (b) a light chain including the light chain variable region of huAbF46-H4-A1 and human kappa constant region. The antibody huAbF46-H4-A1 (IgG2 hinge) was composed of (a) a heavy chain including a heavy chain variable region, a human IgG2 hinge region, and a human IgG1 constant region, and (b) a light chain including the light chain variable region of huAbF46-H4-A1 and a human kappa constant region. The antibody huAbF46-H4-A1 (IgG2 Fc) was composed of (a) the heavy chain variable region of huAbF46-H4-A1, a human IgG2 hinge region, and a human IgG2 constant region, and (b) a light chain including the light variable region of huAbF46-H4-A1 and a human kappa constant region. Hereupon, the histidine residue at position 36 on the human kappa constant region of the light chain was changed to tyrosine in all of the three antibodies to increase antibody production. 
+ For use in constructing the three antibodies, a polynucleotide (SEQ ID NO: 63) encoding a polypeptide (SEQ ID NO: 62) composed of the heavy chain variable region of huAbF46-H4-A1, a U6-HC7 hinge region, and a human IgG1 constant region, a polynucleotide (SEQ ID NO: 65) encoding a polypeptide (SEQ ID NO: 64) composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 hinge region, and a human IgG1 region, a polynucleotide (SEQ ID NO: 67) encoding a polypeptide (SEQ ID NO: 66) composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 region, and a human IgG2 constant region, and a polynucleotide (SEQ ID NO: 69) encoding a polypeptide (SEQ ID NO: 68) composed of the light chain variable region of huAbF46-H4-A1, with a tyrosine residue instead of histidine at position 36, and a human kappa constant region were synthesized in Bioneer. Then, the DNA fragments having heavy chain nucleotide sequences were inserted into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) while DNA fragments having light chain nucleotide sequences were inserted into a vector from the pcDNA™ 3.3-TOPO TA Cloning Kit (Cat no. 8300-01) so as to construct vectors for expressing the antibodies. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 ul (microliter) of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to finally purify three antibodies (huAbF46-H4-A1 (U6-HC7), huAbF46-H4-A1 (IgG2 hinge), and huAbF46-H4-A1 (IgG2 Fc)). Among the three antibodies, huAbF46-H4-A1 (IgG2 Fc) was representatively selected for the following examples, and referred as L3-1Y-IgG2. 
+ Reference Example 2 
+ Preparation of Anti-Ang2 Antibody 
+ 2.1. Ang2-Binding scFv Clone 
+ With regard to human Ang2 polypeptide (R&D systems; Human Ang2; Accession #O15123 (hAng2); SEQ ID NO: 172), a complete human anti-Ang2 antibody was prepared using a phage display scFv library (obtained from Ewha Women's University-Industry Collaboration Foundation). A detailed protocol thereof is as follows: 
+ The Ang2 polypeptide was applied to a Maxisorp immunotube in amounts of about 10 μg/ml, 1 μg/ml and 0.1 μg/ml, respectively to enrich antibodies responding to Ang2 through 1 st , 2 nd , and 3 rd  pannings. After the surface of the immunotube was blocked with about 3% (v/v) milk dissolved in PBS, about 1×10 12  of phage particles derived from the same phage display scFv library as described above were added to about 0.5 ml of 3% (v/v) milk, which was isothermally treated together at 37° C. for 1 hours for blocking. After that, the phages blocked with milk were put into the immunotube applied with Ang2, followed by isothermal treatment at a room temperature for 1 hour to allow Ang2 and the phages to be bound. 
+ After the isothermal treatment of the phages, the surface of the phages were washed 3 to 5 times with PBS and about 0.1% (v/v) Tween 20 and then, the bound phages were eluted using 100 mM triethanolamine. The eluted phages were transfected into  E. coli  ER2537 cells (New England Biolabs, USA), amplified, and then obtained to be ready for use in the next screening step. The procedure was repeated three times by applying the Ang2 polypeptide to a Maxisorp immunotube in amounts of about 10 μg/ml, 1 μg/ml, and 0.1 μg/ml, respectively and then, about 600 specific Ang2 bound scFv clones recognizing human Ang2 (Accession #O15123) or mouse Ang2 (Accession #NP_031452) were identified when measured using ELISA (Enzyme-Linked ImmunoSorbent Assay) affinity assay (see Example 2.2) as described below. 
+ 2.2. Selection of an Anti-Ang2 Antibody Producing Clone and Purification of an Antibody 
+ Based on binding potential with Ang2 using an ELISA format, 70 clones which produce anti-Ang2 antibodies were selected from the about 600 Ang2 bound scFv clones obtained in Example 2.1 above. Specifically, clones with high ELISA OD were selected among the clones which can bind to Ang2 and inhibit Tie2 binding. Then, each clone was cultured in SB media to which ampicillin was added up to the level of OD 600=1.0, 1 mM IPTG (Isopropyl-β-D-Thiogalactopyranoside) was injected thereto and then, periplasm fractions were collected to partially purify anti-Ang2 monoclonal antibodies using NI-NTA column (QIAGEN). 
+ 2.3. Ang2:Tie2 Neutralization ELISA (Competitive ELISA) 
+ To verify molecular interaction of the bound assemblies, a competitive ELISA was performed. A 96-well MaxiSorp™ flat-bottom plate (Nunc) was coated with 4 μg/μl of hTie2-Fc (R&D Systems), which is a protein with the Fc of human IgG1 bound thereto. After that, the plate was washed five times with 0.05% (v/v) Tween-20-containing PBS (Phosphate Buffer Saline) and then blocked with 1% (v/v) BSA (Bovine serum albumin; Sigma)-containing PBS at a room temperature for 2 hours. 
+ To perform Ang2:Tie2 neutralization ELISA, the anti-Ang2 antibodies in their scfv forms purified in Example 2.2 (1, 10, 100, and 1000 nM) were added to each well of the plate coated with hTie2-Fc, along with 1% (v/v) BSA and 400 ng/ml of FLAG-Tagged hAng2 and then, the plate was allowed to react at a room temperature for 2 hours. Thereafter, the plate was washed five times with 0.05% Tween-20-containing PBS and then, an HRP-conjugated anti-FLAG antibody (SIGMA) diluted in 1% (v/v) BSA-containing PBS at 1:5,000 ratio (v/v) was added in the amount of 100 μl (microliter) to each well to react at a room temperature for 1 hour, followed by washing five times with 0.1% (v/v) Tween-20-containing PBS. Finally, 100 μl (microliter) of TMB substrate (cell signal) was added to each well of the plate to induce color development at a room temperature for 3 min. Then, the reaction was ceased by the addition of 50 μl of 5N H 2 SO 4  solution and OD450 values were measured on a plate reader (Molecular Devices). Through them, 50% inhibition concentrations (IC50) against Ang2:Tie2 binding were obtained and shown in the following Table 6. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 6 
+ 
+ 
+   
+   
+ 
+ 
+   
+   
+ 50% inhibition concentration against 
+ 
+ 
+   
+ antibody 
+ Ang2:Tie2 binding (IC 50 , nM) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ SAIT-ANG-2-AB-2-E6 
+ 18.9 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-H10 
+ 24.3 
+ 
+ 
+   
+ SAIT-ANG-2-AB-8-A5 
+ 36.3 
+ 
+ 
+   
+ SAIT-ANG-2-AB-7-C9 
+ 39.7 
+ 
+ 
+   
+ SAIT-ANG-2-AB-3-D3 
+ 9.9 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-C11 
+ 6.5 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4- F5   
+ 10 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-F11 
+ 6.6 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As in Table 6 above, it was confirmed that the anti-Ang2 antibodies can neutralize the binding between Ang2 and Tie2 receptors. 
+ 2.4. Binding ELISA of hAng2 and mAng2 
+ To measure binding of the antibodies prepared above with each antigen, ELISA was performed. A 96-well MaxiSorp™ flat-bottom plate (Nunc) was coated with 5˜20 μg/ml of human Ang2 and mouse Ang2 (Accession #NP_031452) (both, R&D Systems). After that, the plate was washed five times with 0.05% (v/v) Tween-20-containing PBS and then blocked with 1% (v/v) BSA-containing PBS at a room temperature for 2 hours. The anti-Ang2 antibodies in their scFv forms prepared above were added to each well of the plate which was then allowed to react at a room temperature for 2 hours. 
+ Thereafter, the plate was washed five times with 0.05% Tween-20-containing PBS and then, an HRP-conjugated anti-HA (HA-probe Antibody (F-7) HRP conjugated) antibody (Santacruz) diluted in 1% (v/v) BSA-containing PBS at 1:1,000 ratio (v/v) was added in the amount of 50 μl to each well to react at a room temperature for 1 hour, followed by washing five times with 0.1% (v/v) Tween-20-containing PBS. Finally, 100 μl of TMB substrate (cell signal) was added to each well of the plate to induce color development at a room temperature for 3 min and then, the reaction was ceased by the addition of 50 μl of 5N H 2 SO 4  solution and OD450 values were measured on a plate reader (Molecular Devices). By obtaining 50% binding concentrations (Kd) to human Ang2 and mouse Ang2 proteins through them, the binding degrees of the anti-Ang2 antibodies to each antigen were measured. The obtained results are shown in the following Table 7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 7 
+ 
+ 
+   
+ 
+ 
+ Antibody 
+ human Ang2 (Kd, nM) 
+ mouse Ang2 (Kd, nM) 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ SAIT-ANG2-AB-2-E6 
+ 9.3 
+ 5.1 
+ 
+ 
+ SAIT-ANG2-AB-4-H10 
+ 5.3 
+ 15.8 
+ 
+ 
+ SAIT-ANG2-AB-8-A5 
+ 5.3 
+ 11.7 
+ 
+ 
+ SAIT-ANG2-AB-7-C9 
+ 3.8 
+ 8.7 
+ 
+ 
+ SAIT-ANG2-AB-3-D3 
+ 4.3 
+ 37.8 
+ 
+ 
+ SAIT-ANG2-AB-4-C11 
+ 4.9 
+ 28.6 
+ 
+ 
+ SAIT-ANG2-AB-4-F5 
+ 12.1 
+ 23.8 
+ 
+ 
+ SAIT-ANG2-AB-4- F11   
+ 3 
+ 20.7 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 2.5. Ang2 Epitope Mapping 
+ To identify each epitope for the anti-Ang2 antibodies obtained above, ELISA was performed using recombinant proteins in which the receptor binding sites of Ang2 protein were artificially mutated. 
+ A 96-well MaxiSorp™ flat-bottom plate (Nunc) was coated with 50 μl of the anti-Ang2 scFv selected above. After that, the plate was washed five times with 0.05% (v/v) Tween-20-containing PBS and then blocked with 1% (v/v) BSA-containing PBS at a room temperature for 2 hours. S417, Q418, P419, N421, I434, D448, A449, P452, Y460, N467, K468, or F469 residue of Ang2 was mutated with alanine and tagged with FLAG (N-DYKDDDDK-C; 1012 Da, SEQ ID NO: 201) and then 250 ng of them was each added to each well to the plate, which was allowed to react at a room temperature for 2 hours. Thereafter, the plate was washed five times with 0.05% Tween-20-containing PBS and then, an HRP-conjugated anti-FLAG antibody (SIGMA) diluted in 1% (v/v) BSA-containing PBS at 1:5,000 ratio (v/v) was added in the amount of 50 μl to each well to react at a room temperature for 1 hour, followed by washing five times with 0.1% (v/v) Tween-20-containing PBS. 
+ Finally, 100 μl of TMB substrate (cell signal) was added to each well of the plate to induce color development and then, the reaction was ceased by the addition of 50 μl of 5N H 2 SO 4  solution and OD450 values were measured on a plate reader (Molecular Devices). By comparing binding with mutated Ang2 to binding with non-mutated Ang2, each epitope for the Ang2 antibodies was identified. The obtained results are shown in the following Tables 8 and 9. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 8 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Relative binding (%) with Mutant Ang2 
+ 
+ 
+   
+ compared to the binding with native Ang2 
+ 
+ 
+ 
+ 
+   
+ I434 
+ A449 
+ P452 
+ Y460 
+ N467 
+ K468 
+ F469 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ AB-2-E6 
+ 5.3 
+ 3.3 
+ 24.0 
+ 40.0 
+ 72.1 
+ 94.0 
+ 112.3 
+ 
+ 
+ AB-4-H10 
+ 32.9 
+ 71.0 
+ 269.8 
+ 245.8 
+ 29.8 
+ 214.5 
+ 276.7 
+ 
+ 
+ AB-8-A5 
+ 4.0 
+ 30.5 
+ 86.5 
+ 91.6 
+ 90.7 
+ 101.0 
+ 101.5 
+ 
+ 
+ AB-7-C9 
+ 8.7 
+ 14.5 
+ 85.0 
+ 78.1 
+ 86.6 
+ 97.3 
+ 89.4 
+ 
+ 
+ AB-3-D3 
+ 93.4 
+ 100.6 
+ 97.3 
+ 95.1 
+ 90.9 
+ 95.9 
+ 96.4 
+ 
+ 
+ AB-4-C11 
+ 7.2 
+ 4.8 
+ 70.0 
+ 74.3 
+ 81.7 
+ 94.8 
+ 102.3 
+ 
+ 
+ AB-4-F5 
+ 68.6 
+ 14.0 
+ 15.0 
+ 21.8 
+ 11.3 
+ 87.4 
+ 259.0 
+ 
+ 
+ AB-4-F11 
+ 69.0 
+ 16.7 
+ 91.6 
+ 96.1 
+ 92.0 
+ 101.5 
+ 104.9 
+ 
+ 
+   Control Antibody  1 
+ 93.3 
+ 95.8 
+ 95.4 
+ 86.7 
+ 94.4 
+ 86.9 
+ 3.2 
+ 
+ 
+   
+ 
+ 
+ (Of the above table, control  antibody  1 is Regeneron Ang2 antibody.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 9 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Clone # 
+ Epitope (binding region) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ AB-2-E6, AB-7-C9, AB-4-C11 
+ I434,  A449   
+ 
+ 
+ 2 
+ AB-8- A5     I434     
+ 
+ 
+ 3 
+ AB-4- F11     A449     
+ 
+ 
+ 4 
+ AB-4-F5 
+ A449, P452, N467 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 2.6. Human Anti-Ang2 Antibody Gene Cloning 
+ The gene sequences of heavy chain and light chain variable regions of monoclonal antibodies to be produced from each clone were amplified using a thermocycler (GeneAmp PCR System 9700, Applied Biosystem) from each antibody producing  E. coli  glycerol stock obtained from the above antibody selection results. 
+ PCR Conditions 
+ 5 min. at 94° C.; 
+ [1 min. at 94° C., 1 min. at 55° C., and 2 min. at 72° C.]×30 cycles; 
+ 6 min. at 72° C.; 
+ Cooling to 4° C. 
+ Primers: pC3X-f: 3′-GCACGACAGGTTTCCCGAC-5′(SEQ ID NO: 190), pC3X-b: 3′-AACCATCGATAGCAGCACCG-5′(SEQ ID NO: 191). 
+ The PCR products obtained from each reaction were washed with QIAquick Multiwell PCR Purification kit (Qiagen) according to the Manufacturer's protocol. 
+ The PCR results obtained above were cloned and subjected to DNA sequencing by a well-known method. As a result, CDR sequences shown in the following Table 10 and Table 11 were able to be obtained. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 10 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ Amino acid sequence of heavy chain CDR 
+ 
+ 
+ 
+ 
+ antibody 
+ CDRH1-KABAT 
+ CDRH2-KABAT 
+ CDRH3-KABAT 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-2-E6 
+ DYAMS (SEQ ID 
+ AIYPDSGNKYYADSV 
+ ARHSSDPKVKSGYYDDG 
+ 
+ 
+   
+ NO: 109) 
+ KG (SEQ ID NO: 115) 
+ MDV (SEQ ID NO: 122) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-8-A5 
+ DYYMS (SEQ ID 
+ GIYPSGGSTYYADSV 
+ ARDPSTLTYAGFDY(SEQ 
+ 
+ 
+   
+ NO: 110) 
+ KG (SEQ ID NO: 116) 
+ ID NO: 123) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-7-C9 
+ NYAMS (SEQ ID 
+ AISSGGGNIYYADSVK 
+ AKSGIQPSPPSMSSAYAM 
+ 
+ 
+   
+ NO: 111) 
+ G (SEQ ID NO: 117) 
+ DV (SEQ ID NO: 124) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-C11 
+ DYAMS (SEQ ID 
+ SIYPDDGNTYYADSV 
+ ARHTSHHTSIDGYYYYG 
+ 
+ 
+   
+ NO: 109) 
+ KG (SEQ ID NO: 118) 
+ MDG (SEQ ID NO: 125) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-F5 
+ DYDMS (SEQ ID 
+ SISHGDSNKYYADSV 
+ AKSSGIQESPPTYYYYGM 
+ 
+ 
+   
+ NO: 112) 
+ KG (SEQ ID NO: 119) 
+ DV (SEQ ID NO: 126) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-F11 
+ DYAMS (SEQ ID 
+ SIYPDDGNTYYADSV 
+ AKHPVRLNLHPMYYYY 
+ 
+ 
+   
+ NO: 109) 
+ KG (SEQ ID NO: 118) 
+ GMDV (SEQ ID NO: 127) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-H10 
+ SYDMS (SEQ ID 
+ LISPDSSSIYYADSVK 
+ AKDLISFWRGGFDY(SEQ 
+ 
+ 
+   
+ NO: 113) 
+ G (SEQ ID NO: 120) 
+ ID NO: 128) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-3-D3 
+ DYDMS (SEQ ID 
+ GISSDDGNTYYADSV 
+ ARPTIDKYTLRGYYSYG 
+ 
+ 
+   
+ NO: 114) 
+ KG (SEQ ID NO: 121) 
+ MDV (SEQ ID NO: 129) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 11 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ Amino acid sequence of light chain CDR 
+ 
+ 
+ 
+ 
+ antibody 
+ CDRL1-KABAT 
+ CDRL2-KABAT 
+ CDRL3-KABAT 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-2-E6 
+ SGSSSNIGNNAVN (SEQ 
+ ADSNRPS (SEQ ID 
+ GSWDYSLSG (SEQ 
+ 
+ 
+   
+ ID NO: 130) 
+ NO: 138) 
+ ID NO: 145) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-8-A5 
+ SGSSSNIGNNYVT (SEQ 
+ ADSHRPS (SEQ ID 
+ ATWDYSLSG (SEQ 
+ 
+ 
+   
+ ID NO: 131) 
+ NO: 139) 
+ ID NO: 146) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-7-C9 
+ SGSSSNIGNNDVY (SEQ 
+ ANSHRPS (SEQ ID 
+ GTWDYSLSG (SEQ 
+ 
+ 
+   
+ ID NO: 132) 
+ NO: 140) 
+ ID NO: 147) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-C11 
+ TGSSSNIGNNDVS (SEQ 
+ SDSKRPS (SEQ ID 
+ GSWDYSLSG (SEQ 
+ 
+ 
+   
+ ID NO: 133) 
+ NO: 141) 
+ ID NO: 145) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-F5 
+ SGSSSNIGSNAVN (SEQ 
+ ADSNRPS (SEQ ID 
+ GSWDYSLSG (SEQ 
+ 
+ 
+   
+ ID NO: 134) 
+ NO: 138) 
+ ID NO: 145) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-F11 
+ TGSSSNIGNNAVS (SEQ 
+ SDSQRPS (SEQ ID 
+ ATWDYSLSA (SEQ 
+ 
+ 
+   
+ ID NO: 135) 
+ NO: 142) 
+ ID NO: 148) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-H10 
+ SGSSSNIGSNYVN (SEQ 
+ SDSHRPS (SEQ ID 
+ GAWDDSLSG (SEQ 
+ 
+ 
+   
+ ID NO: 136) 
+ NO: 143) 
+ ID NO: 149) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-3-D3 
+ TGSSSNIGSNYVS (SEQ 
+ SDNKRPS (SEQ ID 
+ GTWDDSLNG (SEQ 
+ 
+ 
+   
+ ID NO: 137) 
+ NO: 144) 
+ ID NO: 150) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 2.7. Expression and Purification of Intact Antibody 
+ The heavy chain and light chain variable regions obtained in Example 2.6 above (see Tables 12 and 13 below) were each cloned into different vectors. The heavy chain variable region was cloned into a vector pOPTI-VAC (Invitrogen) having a CMV promoter (cytomegalovirus promoter) and including the constant region and Fc region of human IgG1. The light chain variable region was cloned into a vector pFUSE2-CLIg-h12 (Invivogen) having a CMV promoter (cytomegalovirus promoter) and including the constant region of human IgG1. 
+ In particular, the heavy chain and the vector including it were treated with ecorI (neb) and NheI (neb) restriction enzymes and the light chain and the vector including it were treated with ecorI (neb) and avrII (neb) restriction enzymes and then, they were ligated with a T4 DNA Ligase (New England Biolab) to prepare a heavy chain vector and a light chain vector for human antibody expression including the desirable regions. 
+ The thus obtained heavy chain vector and light chain vector were transfected together into 293-F cells (Invitrogen). The cells were cultured in a serum-free 293-f expression medium (Invitrogen) at 37° C. and on 5 days, the culture medium was collected. As a result of SDS-PAGE, the culture medium obtained from the culture included human antibodies consisting of heavy chains and light chains having variable region sequences set forth in the following Tables 12 and 13. The culture medium containing the expressed chimeric antibodies was centrifuged at the speed of 1000×g for 10 min to remove the remaining cells and impurities, followed by affinity chromatography using Protein A (GE-Healthcare) having a strong affinity to antibody Fc regions to purify antibodies through a low PH elution. 
+ The amino acid sequences and the nucleotide sequences of the heavy chain variable regions and the light chain variable regions of the antibodies purified above were analyzed and shown in the following Table 12 and Table 13. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 12 
+ 
+ 
+   
+ 
+ 
+   
+ Amino acid sequence of heavy chain 
+ Amino acid sequence of light chain 
+ 
+ 
+ antibody 
+ variable region 
+ variable region 
+ 
+ 
+   
+ 
+ 
+ 
+ SAIT-ANG-2-AB-2-E6 
+ EVQLLESGGGLVQTGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC SGS   
+ 
+ 
+   
+ SGFTFS DYAM SWVRQAPGKGLEW 
+   SSNIGNNAVN WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS AIYPDSGNKYYADSVKG RFTIS 
+ Y ADSNRPS GVPDRFSGSKSGTSAS 
+ 
+ 
+   
+ RDNSKNTLYLQMNSLRAEDTAVY 
+ LAISGLRSEDEADYYC GSWDYSLS   
+ 
+ 
+   
+ YC ARHSSDPKVKSGYYDDGMDV   
+   G YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ WGQGTLVAVSS (SEQ ID NO: 156) 
+ 164) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-8-A5 
+ EVQLLESGGGLVQPGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC SGS   
+ 
+ 
+   
+ SGFTFS DYYMS WVRQAPGKGLEW 
+   SSNIGNNYVT WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS GIYPSGGSTYYADSVKG RFTIS 
+ Y ADSHRPS GVPDRFSGSKSGTSAS 
+ 
+ 
+   
+ RDNSKNTLYLQMNSLRAEDTAVY 
+ LAISGLRSEDEADYYC ATWDYSLS   
+ 
+ 
+   
+ YC ARDPSTLTYAGFDY WGQGTLV 
+   G YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ TVSS (SEQ ID NO: 157) 
+ 165) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-7-C9 
+ EVQLLESGGGLVQPGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC SGS   
+ 
+ 
+   
+ SGFTFS NYAMS WVRQAPGKGLEW 
+   SSNIGNNDVY WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS AISSGGGNIYYADSVKG RFTISR 
+ Y ANSHRPS GVPDRFSGSKSGTSAS 
+ 
+ 
+   
+ DNSKNTLYLQMNSLRAEDTAVYY 
+ LAISGLRSEDEADYYC GTWDYSLS   
+ 
+ 
+   
+ C AKSGIQPSPPSMSSAYAMDV WG 
+   G YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ QGTLVTVSS (SEQ ID NO: 158) 
+ 166) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-C11 
+ EVQLLESGGGLVQPGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC TGS   
+ 
+ 
+   
+ SGFTFS DYAMS WVRQAPGKGLEW 
+   SSNIGNNDVS WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS SIYPDDGNTYYADSVKG RFTIS 
+ Y SDSKRPS GVPDRFSGSKSGTSASL 
+ 
+ 
+   
+ RDNSKNTLYLQMNSLRAEDTAVY 
+ AISGLRSEDEADYYC GSWDYSLSG   
+ 
+ 
+   
+ YC ARHTSHHTSIDGYYYYGMDG   
+ YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ WGQGTLVTVSS (SEQ ID NO: 159) 
+ 167) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-F5 
+ EVQLLESGGGLVQPGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC SGS   
+ 
+ 
+   
+ SGFTFS DYDMS WVRQAPGKGLEW 
+   SSNIGSNAVN WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS SISHGDSNKYYADSVKG RFTIS 
+ Y ADSNRPS GVPDRFSGSKSGTSAS 
+ 
+ 
+   
+ RDNSKNTLYLQMNSLRAEDTAVY 
+ LAISGLRSEDEADYYC GSWDYSLS   
+ 
+ 
+   
+ YC AKSSGIQESPPTYYYYGMDV W 
+   G YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ GQGTLVTVSS (SEQ ID NO: 160) 
+ 168) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-F11 
+ EVQLLESGGGLVQTGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC TGS   
+ 
+ 
+   
+ SGFTFS DYAMS WVRQAPGKGLEW 
+   SSNIGNNAVS WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS SIYPDDGNTYYADSVKG RFTIS 
+ Y SDSQRPS GVPDRFSGSKSGTSASL 
+ 
+ 
+   
+ RDNSKNTLYLQMNSLRAEDTAVY 
+ AISGLRSEDEADYYC ATWDYSLSA   
+ 
+ 
+   
+ YC AKHPVRLNLHPMYYYYGMD   
+ YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ VWGQGTLVTVSS (SEQ ID NO: 161) 
+ 169) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-4-H10 
+ EVQLLESGGGLVQPGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC SGS   
+ 
+ 
+   
+ SGFTFS SYDMS WVRQAPGKGLEW 
+   SSNIGSNYVN WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS LISPDSSSIYYADSVKG RFTISR 
+ Y SDSNRPS GVPDRFSGSKSGTSAS 
+ 
+ 
+   
+ DNSKNTLYLQMNSLRAEDTAVYY 
+ LAISGLRSEDEADYYC GAWDDSLS   
+ 
+ 
+   
+ C AKDLISFWRGGFDY WGQGTLV 
+   G YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ TVSS (SEQ ID NO: 162) 
+ 170) 
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2-AB-3-D3 
+ EVQLLESGGGLVQPGGSLRLSCAA 
+ QSVLTQPPSASGTPGQRVTISC TGS   
+ 
+ 
+   
+ SGFTFS DYDMS WVRQAPGKGLEW 
+   SSNIGSNYVS WYQQLPGTAPKLLI 
+ 
+ 
+   
+ VS GISSDDGNTYYADSVKG RFTIS 
+ Y SDNKRPS GVPDRFSGSKSGTSAS 
+ 
+ 
+   
+ RDNSKNTLYLQMNSLRAEDTAVY 
+ LAISGLRSEDEADYYC GTWDDSL   
+ 
+ 
+   
+ YC ARPTIDKYTLRGYYSYGMDV   
+   NG YVFGGGTKLTVLG (SEQ ID NO: 
+ 
+ 
+   
+ WGQGTLVTVSS (SEQ ID NO: 163) 
+ 171) 
+ 
+ 
+   
+ 
+ 
+ (Of the above Table, portions marked in bold types are CDR1, CDR2, and CDR3 in order.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 13 
+ 
+ 
+   
+ 
+ 
+   
+ Amino acid sequence of heavy chain 
+ Amino acid sequence of light chain variable 
+ 
+ 
+ antibody 
+ variable region 
+ region 
+ 
+ 
+   
+ 
+ 
+ 
+ SAIT-ANG-2- 
+ GAAGTGCAGCTTCTGGAATCAGGCG 
+ CAGTCAGTCCTGACACAGCCCCCTAG 
+ 
+ 
+ AB-2-E6 
+ GTGGACTGGTGCAGCCAGGAGGCAG 
+ TGCTTCCGGAACCCCTGGGCAGAGGG 
+ 
+ 
+   
+ CCTCAGGCTGTCTTGCGCAGCCAGC 
+ TGACCATCTCATGCTCAGGTAGCTCC 
+ 
+ 
+   
+ GGATTTACCTTCTCCGATTACGCCAT 
+ AGCAACATTGGAAACAATGCAGTTAA 
+ 
+ 
+   
+ GAGCTGGGTTAGACAGGCCCCTGGC 
+ TTGGTATCAGCAACTGCCCGGGACCG 
+ 
+ 
+   
+ AAGGGGCTGGAGTGGGTCAGTGCCA 
+ CCCCAAAGCTTCTGATCTACGCTGAT 
+ 
+ 
+   
+ TTTACCCCGACTCCGGGAATAAGTA 
+ AGTAATAGACCATCTGGAGTGCCTGA 
+ 
+ 
+   
+ TTACGCTGACTCTGTGAAAGGTAGA 
+ CAGATTCAGTGGTTCGAAAAGCGGCA 
+ 
+ 
+   
+ TTCACTATCTCAAGAGACAACTCCA 
+ CTTCTGCATCCTTGGCCATTTCTGGCT 
+ 
+ 
+   
+ AAAATACATTGTACTTACAGATGAA 
+ TAAGATCTGAAGATGAGGCCGACTAT 
+ 
+ 
+   
+ CTCACTGCGCGCTGAGGATACAGCA 
+ TACTGTGGCTCTTGGGACTACTCCCTG 
+ 
+ 
+   
+ GTGTATTATTGTGCGCGGCACTCGA 
+ AGCGGATATGTGTTTGGGGGCGGAAC 
+ 
+ 
+   
+ GTGATCCTAAGGTCAAAAGCGGATA 
+ TAAGCTCACAGTCCTAGGC (SEQ ID 
+ 
+ 
+   
+ CTATGACGACGGCATGGATGTTTGG 
+ NO: 174) 
+ 
+ 
+   
+ GGCCAAGGGACTCTCGTAACCGTGT 
+   
+ 
+ 
+   
+ CTTCT (SEQ ID NO: 173) 
+   
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2- 
+ GAGGTCCAGCTGCTCGAATCAGGCG 
+ CAAAGTGTTCTCACACAGCCGCCATC 
+ 
+ 
+ AB-8-A5 
+ GTGGGCTGGTGCAGCCAGGCGGCTC 
+ CGCTTCCGGGACCCCTGGACAGAGAG 
+ 
+ 
+   
+ CCTGAGGTTAAGTTGCGCCGCTTCTG 
+ TGACCATCAGTTGTAGTGGCTCTTCGA 
+ 
+ 
+   
+ GCTTTACATTTAGCGATTATTACATG 
+ GCAATATTGGCAATAACTATGTGACA 
+ 
+ 
+   
+ TCCTGGGTCCGCCAGGCCCCCGGGA 
+ TGGTATCAGCAGCTTCCTGGAACAGC 
+ 
+ 
+   
+ AAGGTCTGGAGTGGGTGAGCGGAAT 
+ CCCCAAACTGCTCATCTATGCCGACA 
+ 
+ 
+   
+ TTACCCTTCCGGGGGAAGCACCTAT 
+ GCCACAGACCATCAGGTGTCCCCGAT 
+ 
+ 
+   
+ TACGCGGATTCTGTAAAGGGTAGAT 
+ AGATTTTCTGGGTCAAAGTCAGGAAC 
+ 
+ 
+   
+ TCACTATCTCAAGAGACAATTCTAA 
+ TAGCGCAAGCCTGGCCATTTCTGGAT 
+ 
+ 
+   
+ GAATACCCTGTATTTGCAGATGAAC 
+ TAAGGTCCGAGGACGAAGCTGATTAC 
+ 
+ 
+   
+ AGTCTTAGAGCCGAAGACACAGCAG 
+ TATTGCGCAACTTGGGACTACTCTCTG 
+ 
+ 
+   
+ TTTATTATTGTGCAAGAGACCCCAGT 
+ TCTGGTTACGTGTTCGGCGGCGGAAC 
+ 
+ 
+   
+ ACTCTAACCTACGCTGGCTTCGATTA 
+ CAAGTTGACGGTCCTAGGC (SEQ ID 
+ 
+ 
+   
+ CTGGGGACAAGGAACGCTCGTGACA 
+ NO: 176) 
+ 
+ 
+   
+ GTGTCAAGC (SEQ ID NO: 175) 
+   
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2- 
+ GAGGTGCAACTCCTGGAGTCAGGAG 
+ CAGAGCGTCCTGACACAACCTCCATC 
+ 
+ 
+ AB-7-C9 
+ GCGGCCTGGTCCAGCCCGGCGGGAG 
+ CGCTTCTGGGACGCCTGGACAGAGAG 
+ 
+ 
+   
+ TCTTAGACTCTCGTGTGCCGCAAGC 
+ TGACAATTTCTTGCAGCGGCTCATCTT 
+ 
+ 
+   
+ GGGTTTACATTCAGTAACTACGCCA 
+ CAAATATTGGAAACAATGACGTTTAT 
+ 
+ 
+   
+ TGTCCTGGGTCAGACAGGCTCCTGG 
+ TGGTACCAGCAGCTCCCAGGGACCGC 
+ 
+ 
+   
+ AAAGGGACTGGAATGGGTTTCTGCC 
+ CCCAAAGCTGCTGATCTATGCAAACT 
+ 
+ 
+   
+ ATTAGCTCCGGCGGAGGTAATATCT 
+ CACACAGACCCAGCGGAGTGCCCGAT 
+ 
+ 
+   
+ ATTACGCTGATTCCGTTAAAGGGAG 
+ AGATTCAGTGGATCCAAATCCGGCAC 
+ 
+ 
+   
+ GTTTACAATCTCTCGGGATAACAGC 
+ TAGTGCCAGCTTGGCAATCTCGGGGC 
+ 
+ 
+   
+ AAAAATACTTTGTATCTGCAGATGA 
+ TGAGATCTGAAGACGAGGCTGATTAC 
+ 
+ 
+   
+ ATAGCTTAAGAGCCGAAGACACTGC 
+ TATTGTGGTACCTGGGATTACTCCTTA 
+ 
+ 
+   
+ AGTGTACTACTGCGCGAAGAGCGGT 
+ AGTGGTTACGTGTTTGGCGGGGGCAC 
+ 
+ 
+   
+ ATTCAACCCTCTCCACCATCCATGTC 
+ TAAGCTTACCGTCCTAGGC (SEQ ID 
+ 
+ 
+   
+ ATCAGCTTATGCAATGGACGTATGG 
+ NO: 178) 
+ 
+ 
+   
+ GGGCAGGGCACCCTGGTGACCGTGA 
+   
+ 
+ 
+   
+ GTTCT (SEQ ID NO: 177) 
+   
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2- 
+ GAAGTACAGCTGCTGGAGTCGGGTG 
+ CAGTCAGTCCTGACTCAGCCACCCTC 
+ 
+ 
+ AB-4-C11 
+ GTGGACTGGTTCAGCCAGGAGGCTC 
+ CGCAAGCGGGACACCTGGACAAAGA 
+ 
+ 
+   
+ ATTAAGGCTGAGCTGCGCCGCAAGC 
+ GTTACTATCTCTTGCACCGGGTCAAGC 
+ 
+ 
+   
+ GGTTTCACTTTTTCTGATTATGCTAT 
+ TCCAATATCGGTAACAATGATGTGAG 
+ 
+ 
+   
+ GTCCTGGGTCAGACAGGCCCCTGGG 
+ TTGGTACCAGCAGTTACCAGGCACCG 
+ 
+ 
+   
+ AAGGGACTCGAGTGGGTCTCAAGTA 
+ CCCCGAAACTGCTTATTTACTCAGAC 
+ 
+ 
+   
+ TTTACCCCGACGATGGAAATACCTA 
+ AGCAAAAGACCCTCTGGCGTGCCTGA 
+ 
+ 
+   
+ CTATGCCGATAGCGTGAAGGGGCGC 
+ CAGATTCTCAGGAAGCAAGAGTGGCA 
+ 
+ 
+   
+ TTTACAATCTCTAGAGATAATTCTAA 
+ CGTCTGCTTCCTTGGCCATTTCGGGTC 
+ 
+ 
+   
+ AAACACCCTGTACCTTCAAATGAAC 
+ TGAGATCCGAGGACGAAGCTGATTAT 
+ 
+ 
+   
+ TCATTGCGGGCAGAAGACACAGCGG 
+ TATTGTGGAAGCTGGGATTATAGTCT 
+ 
+ 
+   
+ TGTACTATTGTGCTAGACACACGTCC 
+ GTCTGGCTACGTGTTTGGGGGCGGAA 
+ 
+ 
+   
+ CACCATACCAGCATCGACGGCTACT 
+ CCAAGCTCACAGTCCTAGGC (SEQ ID 
+ 
+ 
+   
+ ATTATTACGGGATGGACGGCTGGGG 
+ NO: 180) 
+ 
+ 
+   
+ CCAGGGCACTCTCGTGACAGTGTCC 
+   
+ 
+ 
+   
+ AGT (SEQ ID NO: 179) 
+   
+ 
+ 
+   
+ 
+ 
+ IT-ANG-2-AB- 
+ GAGGTGCAGTTGCTCGAGTCCGGGG 
+ CAGTCTGTGTTGACCCAGCCCCCTTCT 
+ 
+ 
+ 4-F5 
+ GTGGCCTGGTGCAGCCAGGAGGAAG 
+ GCATCTGGCACCCCCGGACAGAGAGT 
+ 
+ 
+   
+ CCTGAGACTGAGCTGCGCAGCCTCA 
+ CACTATAAGTTGTTCTGGTAGCTCCTC 
+ 
+ 
+   
+ GGTTTCACATTCTCCGATTACGACAT 
+ AAATATCGGCTCAAACGCCGTGAATT 
+ 
+ 
+   
+ GTCCTGGGTTAGGCAAGCCCCCGGC 
+ GGTACCAGCAATTACCAGGAACAGCT 
+ 
+ 
+   
+ AAGGGGCTGGAATGGGTAAGCTCTA 
+ CCTAAGCTGCTTATCTATGCAGACAG 
+ 
+ 
+   
+ TCAGCCACGGCGACAGTAACAAATA 
+ TAACAGACCAAGCGGCGTTCCTGATA 
+ 
+ 
+   
+ TTATGCAGACTCTGTTAAGGGACGG 
+ GATTCTCAGGCTCCAAGTCCGGGACT 
+ 
+ 
+   
+ TTTACCATTTCACGCGATAACTCAAA 
+ AGTGCCTCGCTGGCTATTAGCGGTCTC 
+ 
+ 
+   
+ GAATACACTGTACCTTCAAATGAAT 
+ AGAAGTGAAGATGAGGCCGATTACTA 
+ 
+ 
+   
+ AGTCTCAGAGCTGAAGATACCGCCG 
+ TTGCGGAAGCTGGGACTACTCCCTGA 
+ 
+ 
+   
+ TGTATTACTGTGCTAAATCGTCCGGA 
+ GCGGCTATGTGTTTGGAGGAGGGACA 
+ 
+ 
+   
+ ATCCAGGAGAGTCCCCCTACTTATT 
+ AAACTCACCGTCCTAGGC (SEQ ID NO: 
+ 
+ 
+   
+ ACTACTATGGGATGGATGTGTGGGG 
+ 182) 
+ 
+ 
+   
+ CCAGGGCACCCTGGTCACTGTCTCTT 
+   
+ 
+ 
+   
+ CTGCTAGC (SEQ ID NO: 181) 
+   
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2- 
+ GAGGTGCAACTGCTGGAGAGTGGTG 
+ CAGTCTGTGTTAACACAACCTCCAAG 
+ 
+ 
+ AB-4-F11 
+ GGGGCCTTGTTCAGCCCGGCGGATC 
+ TGCATCCGGAACGCCGGGCCAGAGAG 
+ 
+ 
+   
+ CTTGAGGCTGTCATGCGCTGCGTCTG 
+ TGACTATCAGCTGCACCGGCAGCTCG 
+ 
+ 
+   
+ GCTTTACTTTCAGCGATTACGCAATG 
+ TCCAATATCGGTAACAACGCAGTTAG 
+ 
+ 
+   
+ AGTTGGGTGAGACAGGCTCCAGGAA 
+ TTGGTACCAGCAGCTTCCCGGCACAG 
+ 
+ 
+   
+ AAGGCCTGGAATGGGTCAGCTCCAT 
+ CTCCAAAGCTCTTGATTTACAGCGATT 
+ 
+ 
+   
+ TTATCCTGACGATGGTAACACATATT 
+ CACAAAGACCTAGTGGTGTCCCCGAT 
+ 
+ 
+   
+ ACGCCGACAGCGTAAAAGGACGGTT 
+ AGATTTTCTGGGAGTAAGAGCGGGAC 
+ 
+ 
+   
+ CACCATCTCTCGCGATAATTCTAAG 
+ CAGTGCCTCCCTGGCTATATCAGGAC 
+ 
+ 
+   
+ AACACCCTGTATCTCCAGATGAATA 
+ TGAGATCTGAAGATGAGGCTGACTAT 
+ 
+ 
+   
+ GCCTGAGAGCAGAAGACACCGCCGT 
+ TACTGTGCCACTTGGGACTATTCACTC 
+ 
+ 
+   
+ GTACTACTGTGCCAAGCATCCTGTG 
+ TCTGCCTATGTGTTCGGGGGCGGAAC 
+ 
+ 
+   
+ AGATTAAACCTGCACCCAATGTACT 
+ CAAACTGACAGTCCTAGGC (SEQ ID 
+ 
+ 
+   
+ ATTATTACGGCATGGACGTTTGGGG 
+ NO: 184) 
+ 
+ 
+   
+ GCAGGGGACACTCGTGACTGTCTCC 
+   
+ 
+ 
+   
+ TCA (SEQ ID NO: 183) 
+   
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2- 
+ GAGGTTCAGTTGCTGGAGAGTGGCG 
+ CAGAGCGTGCTCACCCAACCTCCCAG 
+ 
+ 
+ AB-4-H10 
+ GCGGCTTAGTGCAGCCAGGTGGCAG 
+ TGCATCCGGAACGCCTGGTCAGAGAG 
+ 
+ 
+   
+ CCTGCGCCTTTCTTGTGCCGCCAGTG 
+ TGACAATTAGCTGCTCAGGGTCTTCCT 
+ 
+ 
+   
+ GGTTTACCTTCTCCTCCTACGACATG 
+ CTAACATCGGGTCCAATTATGTCAATT 
+ 
+ 
+   
+ AGCTGGGTGCGGCAGGCTCCCGGCA 
+ GGTATCAGCAGTTGCCAGGTACAGCT 
+ 
+ 
+   
+ AAGGTCTTGAATGGGTGTCACTGAT 
+ CCCAAACTGCTGATCTACAGTGATTC 
+ 
+ 
+   
+ CAGCCCTGACAGTTCCTCAATCTATT 
+ CCACAGACCTAGCGGCGTTCCAGACA 
+ 
+ 
+   
+ ATGCAGATTCAGTCAAGGGAAGATT 
+ GATTTAGCGGATCCAAGTCGGGAACT 
+ 
+ 
+   
+ TACCATAAGCAGAGATAATTCCAAG 
+ TCTGCAAGCCTCGCTATTTCTGGCCTG 
+ 
+ 
+   
+ AATACTCTGTACCTACAGATGAACT 
+ AGAAGTGAGGACGAAGCCGATTATTA 
+ 
+ 
+   
+ CGCTCAGAGCCGAAGATACCGCAGT 
+ CTGTGGGGCCTGGGACGATTCATTAT 
+ 
+ 
+   
+ CTACTACTGCGCTAAAGACCTGATTT 
+ CAGGATACGTGTTCGGAGGCGGCACC 
+ 
+ 
+   
+ CTTTCTGGAGGGGGGGATTCGACTA 
+ AAGCTTACTGTCCTAGGC (SEQ ID NO: 
+ 
+ 
+   
+ TTGGGGGCAAGGAACACTCGTAACA 
+ 186) 
+ 
+ 
+   
+ GTGTCTAGC (SEQ ID NO: 185) 
+   
+ 
+ 
+   
+ 
+ 
+ SAIT-ANG-2- 
+ GAGGTACAGCTGCTGGAAAGTGGGG 
+ CAGTCAGTGCTGACACAGCCTCCAAG 
+ 
+ 
+ AB-3-D3 
+ GCGGTCTGGTGCAGCCAGGGGGAAG 
+ CGCTTCCGGGACACCTGGACAAAGAG 
+ 
+ 
+   
+ CCTCCGGCTTTCATGCGCCGCAAGC 
+ TTACCATTTCGTGCACCGGATCCTCCT 
+ 
+ 
+   
+ GGCTTTACATTCAGTGACTATGACAT 
+ CAAACATCGGTAGCAATTATGTGTCT 
+ 
+ 
+   
+ GAGTTGGGTCCGACAAGCCCCCGGA 
+ TGGTACCAGCAGCTCCCCGGGACTGC 
+ 
+ 
+   
+ AAGGGCCTGGAGTGGGTGTCTGGAA 
+ CCCCAAACTCTTGATCTACAGCGACA 
+ 
+ 
+   
+ TCTCCTCCGATGACGGCAATACTTAT 
+ ACAAGAGACCATCTGGTGTGCCTGAT 
+ 
+ 
+   
+ TACGCTGACTCCGTTAAAGGTAGGT 
+ AGATTCAGTGGGAGTAAGTCAGGAAC 
+ 
+ 
+   
+ TCACCATCTCTCGCGATAACTCTAA 
+ GAGTGCCTCTCTGGCTATTTCTGGCCT 
+ 
+ 
+   
+ AAACACCCTCTACCTGCAGATGAAT 
+ GAGAAGCGAAGATGAGGCAGACTATT 
+ 
+ 
+   
+ AGCTTGAGGGCAGAAGATACGGCTG 
+ ATTGTGGCACCTGGGATGACTCCCTG 
+ 
+ 
+   
+ TCTACTATTGTGCCAGACCTACAATT 
+ AATGGCTACGTCTTTGGCGGCGGAAC 
+ 
+ 
+   
+ GACAAGTACACATTAAGAGGGTATT 
+ AAAACTTACTGTCCTAGGC(SEQ ID 
+ 
+ 
+   
+ ATTCATACGGCATGGATGTTTGGGG 
+ NO: 188) 
+ 
+ 
+   
+ ACAGGGAACTCTAGTGACCGTGTCC 
+   
+ 
+ 
+   
+ AGC (SEQ ID NO: 187) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 2.8. Ang2:Tie2 Neutralization ELISA (Competitive ELISA) 
+ To verify molecular interaction of the bound assemblies, a competitive ELISA was performed. A 96-well MaxiSorp™ flat-bottom plate (Nunc) was coated with 4 μg/μl of hTie2-Fc (R&D Systems), which is a protein with the Fc of human IgG1 bound thereto. After that, the plate was washed five times with 0.05% (v/v) Tween-20-containing PBS (Phosphate Buffer Saline) and then blocked with 1% (v/v) BSA (Bovine serum albumin; Sigma)-containing PBS at a room temperature for 2 hours. 
+ To perform Ang2:Tie2 neutralization ELISA, the anti-Ang2 antibodies in their IgG forms purified in Example 2 (0.00, 0.01, 0.1, 1, 10, 100, and 1000 nM) were added to each well of the plate coated with hTie2-Fc, along with 1% (v/v) BSA and 400 ng/ml of FLAG-Tagged hAng2 and then, the plate was allowed to react at a room temperature for 2 hours. Thereafter, the plate was washed five times with 0.05% Tween-20-containing PBS and then, an HRP-conjugated anti-FLAG antibody (SIGMA) diluted in 1% (v/v) BSA-containing PBS at 1:5,000 ratio (v/v) was added in the amount of 100 μl to each well to react at a room temperature for 1 hour, followed by washing five times with 0.1% (v/v) Tween-20-containing PBS. Finally, 100 μl of TMB substrate (cell signal) was added to each well of the plate to induce color development at a room temperature for 3 min. Then, the reaction was ceased by the addition of 50 μl of 5N H 2 SO 4  solution and OD450 values were measured on a plate reader (Molecular Devices). Through them, 50% inhibition concentrations (IC50) against Ang2:Tie2 binding were obtained and shown in the following Table 14. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 14 
+ 
+ 
+   
+   
+ 
+ 
+   
+   
+ 50% inhibition concentration against 
+ 
+ 
+   
+ antibody 
+ Ang2:Tie2 binding (IC 50 , nM) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ SAIT-ANG-2-AB-2-E6 
+ 0.605 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-H10 
+ 0.417 
+ 
+ 
+   
+ SAIT-ANG-2-AB-8-A5 
+ 0.341 
+ 
+ 
+   
+ SAIT-ANG-2-AB-7-C9 
+ 0.392 
+ 
+ 
+   
+ SAIT-ANG-2-AB-3-D3 
+ 0.44 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-C11 
+ 0.421 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-F5 
+ 1.525 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-F11 
+ 0.37 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As in Table 14 above, it was confirmed that the anti-Ang2 antibodies can neutralize binding between Ang2 and Tie2 receptors. 
+ 2.9. Binding ELISA of mAng2 
+ To measure binding of the antibodies prepared above with each antigen, ELISA was performed. A 96-well MaxiSorp™ flat-bottom plate (Nunc) was coated with 5˜20 μg/ml of human Ang2 and mouse Ang2 (Accession #NP_031452) (both, R&D Systems). After that, the plate was washed five times with 0.05% (v/v) Tween-20-containing PBS and then blocked with 1% (v/v) BSA-containing PBS at a room temperature for 2 hours. The anti-Ang2 antibodies in their IgG forms prepared above (0.001, 0.01, 0.1, 1, 10, 100, and 1000 nM) were added to each well of the plate which was then allowed to react at a room temperature for 2 hours. 
+ Thereafter, the plate was washed five times with 0.05% Tween-20-containing PBS and then, an HRP-conjugated anti-human FC (Anti-hFc-HRP conjugated) antibody (SIGMA) diluted in 1% (v/v) BSA-containing PBS at 1:5,000 ratio (v/v) was added in the amount of 50 μl to each well to react at a room temperature for 1 hour, followed by washing five times with 0.1% (v/v) Tween-20-containing PBS. Finally, 100 μl of TMB substrate (cell signal) was added to each well of the plate to induce color development at a room temperature for 3 min and then, the reaction was ceased by the addition of 50 μl of 5N H 2 SO 4  solution and OD450 values were measured on a plate reader (Molecular Devices). By obtaining 50% binding concentrations (Kd) to human Ang2 and mouse Ang2 proteins through them, the binding degrees of the anti-Ang2 antibodies to each antigen were measured. The obtained results are shown in the following Table 15. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TALE 15 
+ 
+ 
+   
+   
+ 
+ 
+   
+ antibody 
+ mouse Ang2 (Kd, nM) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ SAIT-ANG-2-AB-2-E6 
+ 0.35 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-H10 
+ 0.21 
+ 
+ 
+   
+ SAIT-ANG-2-AB-8-A5 
+ 0.19 
+ 
+ 
+   
+ SAIT-ANG-2-AB-3-D3 
+ 0.30 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-C11 
+ 0.28 
+ 
+ 
+   
+ SAIT-ANG-2-AB-4-F11 
+ 0.36 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 2.10. Antigen Affinity (Kd values) Measurement Using Surface Plasmon Resonance (SPR) Method 
+ To measure accurate affinities toward an anti-Ang2 antigen, antigen affinities were measured by a SPR method using a BIAcore T100 (GE Healthcare). The SPR method uses refractive index change of light which passes a sensor chip according to the state of materials coated onto the sensor chip, and if an antigen or an antibody is flowed onto a chip coated with the antigen or antibody, it causes changes in refractive index due to their binding and Kd values are thus calculated from the measured values. 
+ First, anti-His antibody was immobilized on a CMS sensor chip (GE healthcare) up to 8,000 RU levels using a pH 5.0 acetate solution and an amine coupling kit (GE Healthcare). 6 μg/ml of a recombinant hAng2 (C-His, R&D Systems) protein was flowed onto the chip to be captured at 100 to 200 RU levels. The antibodies obtained in Example 2 above were diluted serially to twice each time starting from 100 nM concentration and each of them was flowed onto the chip to allow them to be bound to (on), dissociated from (off), and regenerated (using 10 mM NaOH solution) from the antigen captured on the sensor chip, thereby to measure antigen-antibody affinities. The results are as shown in the following Table 16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 16 
+ 
+ 
+   
+ 
+ 
+   
+   
+   
+ Affinity 
+ 
+ 
+ antibody 
+ On rate (l/Ms) 
+ Off Rate (l/s) 
+ (Kd, nM) 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ SAIT-ANG-2-AB-2-E6 
+ 1.220 × 10 6   
+ 7.950 × 10 −4   
+ 0.65 
+ 
+ 
+ SAIT-ANG-2-AB-4-H10 
+ 2.812 × 10 6   
+ 3.328 × 10 −4   
+ 0.118 
+ 
+ 
+ SAIT-ANG-2-AB-8-A5 
+ 4.396 × 10 6   
+ 3.266 × 10 −4   
+ 0.074 
+ 
+ 
+ SAIT-ANG-2-AB-7-C9 
+ 1.785 × 10 6   
+ 3.661 × 10 −4   
+ 0.205 
+ 
+ 
+ SAIT-ANG-2-AB-3-D3 
+ 1.162 × 10 6   
+ 5.461 × 10 −4   
+ 0.47 
+ 
+ 
+ SAIT-ANG-2-AB-4-C11 
+ 8.327 × 10 5   
+ 4.899 × 10 −4   
+ 0.588 
+ 
+ 
+ SAIT-ANG-2-AB-4-F5 
+ 1.895 × 10 6   
+ 0.001117 
+ 0.589 
+ 
+ 
+ SAIT-ANG-2-AB-4-F11 
+ 1.765 × 10 6   
+ 7.774 × 10 −4   
+ 0.44 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 2.11. Test of Ang2 Receptor Inhibitory Activity of Ang2 Antibodies 
+ As Ang2 induces a change in vascular endothelial cells by binding to a Tie2 receptor expressed in the vascular endothelial cells to induce the phosphorylation of the receptor and activate it, the Ang2 inhibitory activities of the anti-Ang2 antibodies were verified through the functional analysis of the antibodies using a cell-based assay. 
+ For this, 1×10 6  of HUVEC (ATCC) cells (Kim et al.,  Biochim Bioohys Acta.,  2009) were cultured in a 60 mm culture dish using 5% (v/v) FBS (Gibco)-added EGM-2 (Endothelial growth media) media (Lonza) at 37° C. and when they reached 80˜90% confluency, the media were replaced with serum-free EGM-2 media and cultured at 37° C. for 16 hours. The dish was washed once with PBS and after the replacement with 0.1 nM sodium orthovanadate-mixed EGM-2 media, they were further cultured for 10 min. After washed once with PBS, the cultured cells were treated with a mixture prepared by mixing the anti-Ang2 antibodies prepared in Example 2 at a 10 μg/ml concentration with 2 μg/ml human Ang2 protein (R&D systems) and letting them stand for 20 min and further cultured for 10 min. 
+ The cells were washed using a cold PBS, treated with 300 μl of lysis buffer (Roche), collected to a tube to allow them to be dissolved at 4° C. for 30 min. and then, centrifuged at 13,000 rpm for 15 min. to measure a supernatant. 2 μg of anti Tie2 antibody (R&D system) was added to 0.5 mg of a cell lysate, which was then overnight reacted at 4° C. and then subjected to immunoprecipitation by the addition of protein A bead (GE Healthcare) thereto. 
+ The reactant obtained above was centrifuged at 13,000 rpm for 15 min. to obtain a pellet, which was washed two to three times with lysis buffer (Roche), added to a sample buffer (Invitrogen) mixed with a reducing agent, and boiled at 95° C. for 5 min., and then, applied to NuPAGE Novex 4-12% Bis-Tris gel (Invitrogen) and transferred onto Nitrocellulose membrane (Invitrogen). 
+ To verify the presence of the phosphorylation of Tie2, the above blots were blocked with PBST mixed with 3% (v/v) skim milk (Sigma) for 30 min. and identified using an HRP-conjugated anti-phospho tyrosine antibody (Millipore). For Tie2 identification, the blots were reacted in a stripping buffer (Thermo) for 15 min and then blocked again and identified using an anti Tie2 antibody (Santa cruz). After band intensities were measured using Image J software (http://rsb.info.nih.gov/ij/index.html), the inhibitory degrees of Tie2 phosphorylation after the treatment of the anti-Ang2 antibodies were calculated in relative % against the Ang2 single treatment group, and the results are shown in the following Table 17. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 17 
+ 
+ 
+   
+ 
+ 
+ Antibody (treated amount: 50 nM) 
+ Tie2 phosphorylation inhibition (%) 
+ 
+ 
+   
+ 
+ 
+ 
+ SAIT-ANG-2-AB-4-H10 
+ 69% 
+ 
+ 
+ SAIT-ANG-2-AB-8-A5 
+ 60% 
+ 
+ 
+ SAIT-ANG-2-AB-2-E6 
+ 62% 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 2.12. Inhibition Test of Binding between Ang2 and Integrin 
+ An ELISA plate was coated with a diluting solution of integrin (alpha5beta1 (α5β1 (α5: NCBI Accession No. P08648, β1: NCBI Accession No. P05556); R&D systems) protein diluted in PBS at a concentration of 5 μg/ml (18 hours, 4° C.) and then blocked with 1% (v/v) BSA at a room temperature for 2 hours. Thereafter, the plate was treated with Ang2 protein (FLAG-Ang2, 0.05 ml of Ang2 protein solution diluted in PBS at a concentration of 10 μg/ml) tagged with a FLAG sequence (DYKDDDDK SEQ ID NO: 201, Sigma) at N-terminal and an antibody (0.05 ml of antibody solution diluted in PBS at a concentration of 10 μg/ml) at the same time, incubated at a room temperature for 2 hours, and washed five times with PBS-t (0.1% (v/v) triton X-100 in PBS). After that, an anti-FLAG antibody (Sigma) conjugated with horseradish peroxidase (HRP) was added to react, and the plate was washed again five times with PBS-t. Bindings between Ang2 and the above the integrin were identified indirectly by measuring the amounts of the anti-FLAG antibody remaining in the ELISA plate via color development using TMB (3,3,5,5-tetramethylbenzidine) as a substrate of HRP. As positive controls, control antibody 1 (Regeneron Ang2 antibody) and control antibody 2 (Astra Zeneca Ang2 antibody) were used. Also, to show the background, a group coated with BSA instead of integrin was used. 
+ The results obtained above were shown in  FIG. 2 . As seen in  FIG. 2 , the anti-Ang2 antibodies provided in the invention remarkably suppressed binding between integrin and Ang2. 
+ Example 1 
+ Preparation of an Anti-c-Met/anti-Ang2 Bispecific Antibody 
+ The anti-Ang2 scFv obtained on Reference Example 2 was fused to the C-terminus of Fc of the anti-c-Met antibody L3-1Y-IgG2 prepared in Reference Example 1, to prepare a bispecific antibody. 
+ The heavy chain part of L3-1Y-IgG2 antibody which was used in the bispecific antibody cloning was prepared as follows. A DNA fragment encoding the heavy chain of the anti-c-Met antibody was synthesized by deleting the part encoding C-terminus part from position 1393 of SEQ ID NO: 67 and inserting “ggcggtggtggttccggaggcggcggatcc” (SEQ ID NO: 202) instead of the deleted part (Bioneer Corporation). Thereafter, the DNA fragment was ligated to a vector from the pOptiVEC™-TOPO TA Cloning Kit included in OptiCHO™ Antibody Express Kit (Cat no. 12762-019) (Invitrogen). 
+ An anti-Ang2 scFv was prepared by linking the heavy chain variable region (SEQ ID NO: 162) and the light chain variable region (SEQ ID NO: 170) of anti-Ang2 antibody 4-H10 via a peptide linker (GGGGS) 2 . In particular, a nucleotide sequence (SEQ ID NO: 185) encoding the heavy chain variable region of anti-Ang2 antibody 4-H10, a nucleotide sequence (SEQ ID NO: 186) encoding the light chain variable region of anti-Ang2 antibody 4-H10, and a nucleotide sequence encoding the peptide linker were all synthesized by Bioneer Corporation (in the form including a N-terminal BamHI restriction site and C-terminal XhoI restriction site). 
+ Then, the obtained anti-Ang2 scFv was cloned in the prepared L3-1Y-IgG2 containing vector using restriction enzymes BamHI and XhoI, to construct an expression vector for the heavy chain of the bispecific antibody. 
+ Each region of the amino acid sequence (SEQ ID NO: 189) encoding the heavy chain of the bispecific antibody (wherein the heavy chain of the c-Met antibody and the anti-Ang2 scFv are linked through the peptide linker) is summarized in following Table 18: 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 18 
+ 
+ 
+   
+ 
+ 
+ SEQ ID NO: 189 
+ 
+ 
+ N-terminus → C-terminus 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Signal peptide 
+ MEWSWVFLVTLLNGIQC (SEQ ID NO: 192) 
+ 
+ 
+   
+ 
+ 
+ Heavy chain variable region of anti-c-Met 
+ EVQLVESGGGLVQPGGSLRLSCAASGFTFT DYYMS WVRQAP 
+ 
+ 
+ antibody 
+ GKGLEWLG FIRNKANGYTTEYSASVKG RFTISRDNSKNTLYL 
+ 
+ 
+   
+ QMNSLRAEDTAVYYCAR DNWFAY WGQGTLVTVSS 
+ 
+ 
+   
+ (SEQ ID NO: 193) 
+ 
+ 
+   
+ 
+ 
+ Fc (IgG2) 
+ ASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNS 
+ 
+ 
+   
+ GALTSGVHTFPAVLQSSGLYSLSSVVTVPSSNFGTQTYTCNVD 
+ 
+ 
+   
+ HKPSNTKVDKTVERKCCVECPPCPAPPVAGPSVFLFPPKPKDT 
+ 
+ 
+   
+ LMISRTPEVTCVVVDVSHEDPEVQFNWYVDGVEVHNAKTKP 
+ 
+ 
+   
+ REEQFNSTFRVVSVLTVVHQDWLNGKEYKCKVSNKGLPAPIE 
+ 
+ 
+   
+ KTISKTKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDI 
+ 
+ 
+   
+ AVEWESNGQPENNYKTTPPMLDSDGSFFLYSKLTVDKSRWQ 
+ 
+ 
+   
+ QGNVFSCSVMHEALHNHYTQKSLSLSPG (SEQ ID NO: 194) 
+ 
+ 
+   
+ 
+ 
+ Peptide linker (linking the C-terminus of 
+ GGGGSGGGGS (SEQ ID NO: 195) 
+ 
+ 
+ Fcand the anti-Ang2 scFv) 
+   
+ 
+ 
+   
+ 
+ 
+ Heavy chain variable region of the anti- 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYDMSWVRLAPG 
+ 
+ 
+ Ang2 scFv 
+ KGLEWVS LISPDSSSIYYAD SVKGRFTISRDNSKNTLYLQMNS 
+ 
+ 
+   
+ LRAEDTAVYYCA KDLISFWRGGFDY WGQGTLVTVSS 
+ 
+ 
+   
+ (SEQ ID NO: 196) 
+ 
+ 
+   
+ 
+ 
+ Peptide linker (linking the heavy chain 
+ GGGGSGGGGS (SEQ ID NO: 197) 
+ 
+ 
+ variable region and the light chain variable 
+   
+ 
+ 
+ region of the anti-Ang2 scFv) 
+   
+ 
+ 
+   
+ 
+ 
+ Light chain variable region of the anti- 
+ QSVLTQPPSASGTPGQRVTISC SGSSSNIGSNYVN WYQQLPGT 
+ 
+ 
+ Ang2 scFv 
+ APKLLIY SDSHRPS GVPDRFSGSKSGTSASLAISGLRSEDEADY 
+ 
+ 
+   
+ YC GAWDDSLSG YVFGGGTKLTVLGQAGQHHHHHHGAYPYD 
+ 
+ 
+   
+ VPDYAS (SEQ ID NO: 198) 
+ 
+ 
+   
+ 
+ 
+ (CDRs are underlined) 
+ 
+ 
+ 
+ 
+ 
+ In addition, the DNA fragment encoding the light chain of the anti-c-Met antibody was synthesized so that it has the nucleotide sequence of SEQ ID NO: 69 (Bioneer Corporation). The DNA fragment encoding the light chain of the anti-c-Met antibody was inserted into a vector from the pcDNA™ 3.3-TOPO TA Cloning Kit (Cat no. 8300-01) included in OptiCHO™ Antibody Express Kit (Cat no. 12762-019) (Invitrogen), to construct an expression vector for the light chain of the anti-c-Met antibody. 
+ Each region of the amino acid sequence (SEQ ID NO: 68) encoding the light chain of the anti-c-Met antibody is summarized in following Table 19: 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 19 
+ 
+ 
+   
+ 
+ 
+ SEQ ID NO: 68 
+ 
+ 
+ N-terminus → C-terminus 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Signal peptide 
+ MDSQAQVLMLLLLSVSGTCG 
+ 
+ 
+   
+ (SEQ ID NO: 199) 
+ 
+ 
+   
+ 
+ 
+ Light chain 
+ DIQMTQSPSSLSASVGDRVTITC KSSQSLLA   
+ 
+ 
+ variable region 
+   SGNQNNYLA WYQQKPGKAPKMLII WASTR   
+ 
+ 
+ of the 
+   VS GVPSRFSGSGSGTDFTLTISSLQPEDFATYY 
+ 
+ 
+ anti-c-Met 
+ C QQSYSRPYT FGQGTKVEIKRTVAAPSVFIFPPS 
+ 
+ 
+ antibody 
+ DEQLKSGTASVVCLLNNFYPREAKVQWKVDNA 
+ 
+ 
+   
+ LQSGNSQESVTEQDSKDSTYSLSSTLT 
+ 
+ 
+   
+ LSKADYEKHKVYACEVTHQGLSSPVTKSF 
+ 
+ 
+   
+ NRGEC (SEQ ID NO: 200) 
+ 
+ 
+   
+ 
+ 
+ (CDRs are underlined) 
+ 
+ 
+ 
+ 
+ 
+ Each of the constructed expression vectors for the heavy chain and the light chain was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a temporary expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). For the expression, 293F cells were used and subjected to a suspension culture using FreeStyle™ 293 Expression Medium. One day before the temporary expression, the cells were provided at the amount of 5×10 5  cells/ml, and 24 hours after, when the number of the cells reaches 1×10 6  cells/ml, the temporary expression was performed. A transfection was performed by liposomal reagent method using Freestyle™ MAX reagent (Invitrogen). In 15 ml tube, the DNA fragments encoding the heavy chain and the light chain were provided at the ratio of 1:1 (heavy chain DNA: light chain DNA), and mixed with 2 ml of OptiPro™ SFM (Invtrogen) (mixture (A)). In another 15 ml tube, 100 ml of Freestyle™ MAX reagent and 2 ml of  OptiPro™ SFM  2 ml were mixed (mixture (B)). Then mixtures (A) and (B) were mixed and incubated for 15 minutes, and the obtained mixture was slowly added to and mixed with the cell provided one day before. After the transfection was completed, the cells were incubated for 4 days under the conditions of 37° C., 80% humidity, and 8% CO 2  in 130 rpm incubator. 
+ The incubated cells were centrifuged and 100 ml of each supernatant was collected and purified using AKTA Prime (GE Healthcare). AKTA Prime was equipped with HiTrap MabSelect SuRe column (GE Healthcare, 11-0034-95). The cell culture solution was flowed at the flow rate of 5 ml/min, and then, eluted with IgG elution buffer (Thermo Scientific, 21004), and the obtained eluate was exchanged with PBS buffer. 
+ Finally, an antibody wherein the anti-Ang2 scFv is fused to the C-terminus of the anti-c-Met antibody L3-1Y-IgG2 was obtained and named as an anti-c-Met/anti-Ang2 bispecific antibody (referred to in the figures as “BS ab”). 
+ Example 2 
+ Binding Affinity of the anti-c-Met/anti-Ang2 Bispecific Antibody to c-Met 
+ The binding affinity of the anti-c-Met/anti-Ang2 bispecific antibody prepared in Example 1 to c-Met was measured using Biacore T100 (GE). For this, a human Fab binder (GE Healthcare) was fixed on the surface of CMS chip (#BR-1005-30, GE) according to manufacturer's manual. About 90˜120 RU of the anti-c-Met/anti-Ang2 bispecific antibody was captured and then, c-Met-Fc (#358-MT/CF, R&D Systems) was added to the captured antibody at various concentrations. Hereto, 10 mM Glycine-HCl (pH 1.5) solution was added, to regenerate the surface. To measure the affinity, the above obtained data were fitted using BIAevaluation software (GE Healthcare, Biacore T100 evaluation software). 
+ The obtained results are illustrated in Table 20: 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 20 
+ 
+ 
+   
+ 
+ 
+ R max   
+ K D   
+ k a   
+   
+   
+ U- 
+   
+   
+ 
+ 
+ (RU) 
+ (nM) 
+ (l/Ms) 
+ k d  (l/s) 
+ Chi 2   
+ Value 
+ T (k a ) 
+ T (k d ) 
+ 
+ 
+   
+ 
+ 
+ 
+ 65.40 
+ 0.09 
+ 8.5 × 10 5   
+ 8.2 × 10 −5   
+ 4.04 
+ 15 
+ 9.1 × 10 2   
+ 54 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in Table 20, the bispecific antibody prepared in Example 1 shows the high affinity (about 0.09 nM) to c-Met. 
+ Example 3 
+ Binding Affinity of the anti-c-Met/anti-Ang2 Bispecific Antibody to Ang2 
+ An ELISA for measuring the binding affinity of the anti-c-Met/anti-Ang2 bispecific antibody prepared in Example 1 to Ang2 was performed. 96-well MaxiSorp™ flat-bottom plate (Nunc) was coated with 1 μg/μl of human Ang2 (R&D Systems) at the amount of 50 ul/well. Thereafter, the plate was washed 5 times with 0.05% Tween-20-containing phosphate buffer saline (PBS) and blocked with 1% BSA-containing PBS for 2 hours at room temperature. The anti-c-Met/anti-Ang2 bispecific antibody prepared in Example 1 was added to the Ang2-coated well, and allowed to react for 1 hour at room temperature. The anti-c-Met/anti-Ang2 bispecific antibody was used by serially diluting from 10 4  nM (see  FIG. 3 ). Then, the well was washed 5 times with 0.05% Tween-20-containing PBS, and then, reacted with HRP-conjugated anti-Human Fc antibody (Sigma) that is diluted with 1% BSA-containing PBS to the ratio of 1:5,000, for 1 hour at room temperature, and then washed 5 times with 0.1% Tween-20-containing PBS. Finally, 100 μl of TMB substrate (SIGMA) was added to each well of the plate, to induce coloring response. Then, the response was stopped using 50 μl of 5N H 2 SO 4  solution. The value of OD450 was measured on a plate reader (Molecular Devices). The binding affinity to Ang2 was obtained by determining the 50% binding concentrations to human Ang2 protein from the above results. 
+ The obtained results are illustrated in Table 21 and  FIG. 3 : 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 21 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Kd (nM) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ BS Ab 
+ 31 
+ 
+ 
+   
+ Anti-Ang2 Ab (4-H10) 
+ 0.035 
+ 
+ 
+   
+   
+ 
+ 
+   
+ (BS ab: the anti-c-Met/anti-Ang2 bispecific antibody of Example 1) 
+ 
+ 
+ 
+ 
+ 
+ As shown in Table 21 and  FIG. 3 , the bispecific antibody prepared in Example 1 has binding affinity to Ang2 of about 31 nM. 
+ Example 4 
+ Growth Inhibition of Vascular Cells by the Anti-c-Met/anti-Ang2 Bispecific Antibody 
+ To verify the effect of the anti-c-Met/anti-Ang2 bispecific antibody prepared in Example 1 on vascular cell growth, Cell Counting Kit-8 (CCK-8, supplied by Dojinho Molecular Technologies, Inc. Cat. #CK04-01) was used. 
+ CCK-8 enables sensitive colorimetric assay, thereby achieving an exact measurement of cell viability in cell proliferation and cytotoxicity assay. A highly water-soluble tetrazolium salt, WST-8 [2-(2-methoxy-4-nitrophenyl)-3-(4-nitrophenyl)-5-(2,4-disulfophenyl)-2H-tetrazolium, monosodium salt; referring to the following chemical formula] is reduced by a dehydrogenase activity in a cell to be yellow formazan dye which can be dissolved in a tissue culturing medium. 
+ The amount of formazan dye generated by dehydrogenase activity in a cell is direct proportional to the number of living cells, and thus, the cell viability can be determined by measuring the amount of formazan dye. In this example, it was tested how much the anti-c-Met/anti-Ang2 bispecific antibody or each inhibitor inhibits the cell growth which is increased by treating Ang2 and c-Met ligand, HGF/SF. 
+ In particular, the vascular cell growth inhibition effect of the anti-c-Met/anti-Ang2 bispecific antibody prepared in Example 1 was tested in human umbilical vein endothelial cells (HUVEC) and lymphatic endothelial cells (LEC). The HUVEC cells were obtained from ATCC and the LEC cells were obtained from Lonza. 
+ The cells were cultured in EGM-2 medium (Lonza) under the conditions of 5% CO 2  and 37° C. For a cell proliferation assay, the cells (5000 cells/well, 0.5% FBS in EBM2) were subcultured in 96 well plate, wherein the cells were treated with the anti-c-Met/anti-Ang2 bispecific antibody prepared in Example 1 at the amount of 2 μg/ml (40 nM) and cultured for 72 hours. 100 μg/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) was treated to the culture together. As a negative control, a medium which is not treated with the antibody was used, and as positive controls, groups treated with 4-H10 anti-Ang2 antibody prepared in Reference Example 2, treated with L3-1Y-IgG2 antibody prepared in Reference Example 1, and co-treated with L3-1Y-IgG2 antibody and 4-H10 antibody were used, wherein each antibody was used at the amount of 60 nM (in the case of co-treatment, each antibody was treated the amount of 60 nM). 
+ After the culture, the degree of cell proliferation was analyzed using Cell Counting Kit-8 assay (Dojindo Molecular Technologies, Gaithersburg, Md.) according to the manufacturer's manual. In brief, after the 72 hour culture, CCK8 solution was added to each well at the amount of 10 μl, and then, the cells were further cultured for 2.5 hours. Then, the absorbance at 450 nm was measured with microplate reader. 
+ The obtained results were illustrated in  FIG. 4  (for HUVEC) and  FIG. 5  (for LEC). As shown in  FIGS. 4 and 5 , the anti-c-Met/anti-Ang2 bispecific antibody exhibits cell proliferation inhibitory effect which is considerable increased compared with the anti-c-Met antibody L3-1Y-IgG2 or the anti-Ang2 antibody 4-H10, and which is equal to or higher than that of the co-treatment of the anti-c-Met antibody L3-1Y-IgG2 or the anti-Ang2 antibody 4-H10. 
+ Example 5 
+ Inhibition of Cell Migration by the Anti-c-Met/anti-Ang2 Bispecific Antibody 
+ Since Ang2 and c-Met are both related to cancer metastasis as well as cancer cell proliferation, the effect of the anti-c-Met/anti-Ang2 bispecific antibody prepared in Example 1 on cell motility was observed. The inhibition effect of the bispecific antibody on HUVEC migration by Ang2+HGF was tested as follows: 
+ The motility of endothelial cells was measured using xCelligence RTCA (Realtime cell analyzer; GE Healthcare). The RTCA is a non-invasive cell monitoring system capable of measuring impedance in real-time thereby determining changes of cells. For the cell migration assay, CIM-plate16 (GE Healthcare) consisting of a lower chamber and a upper chamber was used, wherein microelectrodes for measuring the impedance are arranged on the upper chamber, whereby when the cells seeded on the chamber migrate through micropores, the migration degree of cells attached to the microelectrodes can be confirmed. The migration degree was converted as a migration index. HUVEC cells (HUVEC P3-6, ATCC) which were grown in EGM-2 medium (Lonza) were incubated in 1% FBS-containing EBM medium for 6 hours. 
+ To each well of the lower chamber of the CIM-plate16 including 2% FBS-containing EBM medium,  HGF  100 ng/ml and  Ang2  2 ug/ml were added together with 4H10 antibody (Reference Example 2), L3-1Y-IgG1 antibody (Reference Example 1), a combination of 4H10 and L3-1Y-IgG1, or the anti-c-Met/anti-Ang2 bispecific antibody (Example 1), wherein each antibody was used at the concentration of 100 nM (in the case of combination, each antibody was used at the concentration of 100 nM), and then, assembled with the upper chamber coated with fibronectin (Sigma). Serum free EBM medium was added to the upper chamber at the amount of 30 μl, and then, left in incubator for 1 hour for equilibration between the plate and the medium. The CIM-plate was equipped in a device station in the incubator and then, the background value was measured. 
+ The incubated HUVEC cells were re-suspended with EBM-2 Serum-free media (Lonza), seeded at the amount of 60,000 cells/well, left for 15 minutes to be settle down, and then equipped in the device, to measure the cell migration degree in real-time. The cell migration degree was expressed as Slope (1/hr). 
+ The obtained results are illustrated in  FIG. 6 . As shown in  FIG. 6 , the anti-c-Met/anti-Ang2 bispecific antibody exhibits an inhibitory effect on HUVEC migration by Ang2+HGF wherein the inhibitory effect is considerably increased compared with that of L3-1Y-IgG2 or 4-H10 alone, and equal to or higher than that of a combination of L3-1Y-IgG2 and 4-H10. 
+ While one or more embodiments of the present invention have been described with reference to the figures, it will be understood by those of ordinary skill in the art that various changes in form and details may be made therein without departing from the spirit and scope of the present invention as defined by the following claims. 
+ All references, including publications, patent applications, and patents, cited herein are hereby incorporated by reference to the same extent as if each reference were individually and specifically indicated to be incorporated by reference and were set forth in its entirety herein. 
+ The use of the terms “a” and “an” and “the” and “at least one” and similar referents in the context of describing the invention (especially in the context of the following claims) are to be construed to cover both the singular and the plural, unless otherwise indicated herein or clearly contradicted by context. The use of the term “at least one” followed by a list of one or more items (for example, “at least one of A and B”) is to be construed to mean one item selected from the listed items (A or B) or any combination of two or more of the listed items (A and B), unless otherwise indicated herein or clearly contradicted by context. The terms “comprising,” “having,” “including,” and “containing” are to be construed as open-ended terms (i.e., meaning “including, but not limited to,”) unless otherwise noted. Recitation of ranges of values herein are merely intended to serve as a shorthand method of referring individually to each separate value falling within the range, unless otherwise indicated herein, and each separate value is incorporated into the specification as if it were individually recited herein. All methods described herein can be performed in any suitable order unless otherwise indicated herein or otherwise clearly contradicted by context. The use of any and all examples, or exemplary language (e.g., “such as”) provided herein, is intended merely to better illuminate the invention and does not pose a limitation on the scope of the invention unless otherwise claimed. No language in the specification should be construed as indicating any non-claimed element as essential to the practice of the invention. 
+ Preferred embodiments of this invention are described herein, including the best mode known to the inventors for carrying out the invention. Variations of those preferred embodiments may become apparent to those of ordinary skill in the art upon reading the foregoing description. The inventors expect skilled artisans to employ such variations as appropriate, and the inventors intend for the invention to be practiced otherwise than as specifically described herein. Accordingly, this invention includes all modifications and equivalents of the subject matter recited in the claims appended hereto as permitted by applicable law. Moreover, any combination of the above-described elements in all possible variations thereof is encompassed by the invention unless otherwise indicated herein or otherwise clearly contradicted by context. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

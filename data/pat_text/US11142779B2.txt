@@ -1,0 +1,1308 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CROSS-REFERENCE TO RELATED APPLICATIONS 
+ This application is the National Stage of International Application No. PCT/KR2018/007408, filed on Jun. 28, 2018 claiming the priority of KR 10-2017-0083438, filed on Jun. 30, 2017, the content of each of which is incorporated by reference herein. 
+ TECHNICAL FIELD OF THE INVENTION 
+ The present disclosure relates to an O-succinyl homoserine transferase variant, a polynucleotide encoding the variant, a microorganism comprising the variant, and a method of producing O-succinyl homoserine using the microorganism. 
+ Incorporation-by-Reference of Materials Filed on Compact Disc 
+ The present application includes a Sequence Listing which has been submitted in ASCII format via EFS-Web and is hereby incorporated by reference in its entirety. Said ASCII copy, created on Dec. 30, 2019, is named HANO1020US SeqList.txt and is 121 kilobytes in size. 
+ Deposit of Biological Material 
+ The following biological material has been deposited under the terms of the Budapest Treaty with the Korean Culture Center of Microoganisms, Yurim B/D, 45, Hongjenae-2ga-gil, Seodaemun-gu, Seoul 120-861 Republic of Korea, and given the following number: 
+ Deposit Accession Number Date of Deposit 
+   Corynebacterium glutamicum  CA05-5132 KCCM12023P May 11, 2017 
+ The microorganism has been deposited under conditions that assure that access to the microorganism will be available during the pendency of this patent application to one determined by the Commissioner of Patents and Trademarks to be entitled thereto under 37 C.F.R. § 1.14 and 35 U.S.C. § 122. The deposit is available as required by foreign patent laws in countries wherein counterparts of the subject application, or its progeny are filed. However, it should be understood that the availability of a deposit does not constitute a license to practice the subject invention in derogation of patent rights granted by government action. 
+ BACKGROUND OF THE INVENTION 
+ O-succinyl homoserine acts as a precursor of methionine which is a type of essential amino acids in a living body. Methionine is used as feed and food additives and further used as a synthetic raw material for medical solutions and medical supplies. 
+ Methionine is produced through chemical synthesis and biological synthesis. Meanwhile, disclosed is a two-step process (WO/2008/013432), in which an L-methionine precursor is produced through fermentation, and then converted into L-methionine by an enzymatic conversion reaction. 
+ In the two-step process, O-succinyl homoserine or O-acetyl homoserine is used as the methionine precursor, and for economical mass-production of methionine, it is very important to produce O-succinyl homoserine with high yield. 
+ metA gene is a gene encoding homoserine O-succinyltransferase (MetA) which is an enzyme that conjugates a succinyl group of succinyl-coA to homoserine to produce O-succinyl homoserine, and metA gene is one of the most important genes in developing an O-succinyl homoserine-producing stain. 
+ A strain accumulating O-succinyl homoserine may be prepared through deletion of metB gene encoding cystathionine gamma synthase in the methionine biosynthesis pathway. However, the O-succinylhomoserine-producing strain requires L-methionine. For this reason, the activity of homoserine O-succinyltransferase is inhibited through feedback inhibition by methionine which is added to a medium, and eventually, it is difficult to obtain O-succinyl homoserine at a high concentration. 
+ Accordingly, many prior patents have focused their studies on the release of feedback inhibition of metA from a feedback control system. However, the homoserine O-succinyltransferase encoded by metA has problems in that the wild-type protein itself has low stability and introduction of a mutation for the release of feedback inhibition aggravates the instability. Accordingly, for the development of an O-succinyl homoserine-producing strain with high productivity, it is necessary to remove the feedback inhibition of the metA gene and to secure the enzyme stability. 
+ Most microorganisms present in nature are known to utilize O-succinyl homoserine or O-acetyl homoserine as an intermediate for the biosynthesis of methionine. Generally, MetA produces O-succinyl homoserine and homoserine O-acetyltransferase (MetX) produces O-acetyl homoserine. Unlike MetA, MetX is not feedback-inhibited and has high enzyme stability. 
+ SUMMARY OF THE INVENTION 
+ Technical Problem 
+ The present inventors have made intensive efforts to increase the production of O-succinyl homoserine, and as a result, they found a protein having O-succinyl homoserine-synthesizing activity, thereby completing the present disclosure. 
+ Technical Solution 
+ An object of the present disclosure is to provide a polypeptide having O-succinyl homoserine transferase activity, the peptide including substitution of an amino acid other than leucine for an amino acid at position 313 in an amino acid sequence of SEQ ID NO: 1. 
+ Another object of the present disclosure is to provide a polynucleotide encoding the polypeptide. 
+ Still another object of the present disclosure is to provide an O-succinyl homoserine-producing microorganism of the genus  Corynebacterium , the microorganism comprising the polypeptide having the O-succinyl homoserine transferase activity. 
+ Still another object of the present disclosure is to provide a method of producing O-succinyl homoserine, the method comprising the steps of culturing the microorganism in a medium; and isolating or collecting O-succinyl homoserine from the cultured microorganism or the medium. 
+ Still another object of the present disclosure is to provide a method of producing L-methionine, the method comprising the steps of culturing the microorganism in a medium; and reacting the O-succinyl homoserine with sulfide. 
+ Advantageous Effects 
+ A variant of O-succinyl homoserine transferase protein according to the present disclosure may have enhanced O-succinyl homoserine conversion activity, as compared with a natural form thereof, thereby being widely applied to more efficient mass-production of 0-succinyl homoserine as an alternative to existing chemical synthesis pathways. 
+ BEST MODE 
+ Hereinafter, the present disclosure will be described in more detail. 
+ Meanwhile, each description and embodiment disclosed in this disclosure may also be applied to other descriptions and embodiments. That is, all combinations of various elements disclosed in this disclosure fall within the scope of the present disclosure. Further, the scope of the present disclosure is not limited by the specific description described below. 
+ Further, one of ordinary skill in the art may recognize or identify many equivalents to certain aspects of the present disclosure described in this disclosure using only common experiments. Also, such equivalents are intended to be included in this disclosure. 
+ To achieve the objects, one aspect of the present disclosure provides a novel polypeptide having O-succinyl homoserine transferase activity. The novel polypeptide variant may be a polypeptide having O-succinyl homoserine transferase activity, the polypeptide comprising substitution of an amino acid other than leucine for an amino acid at position 313 in an amino acid sequence derived from  Corynebacterium glutamicum , specifically, in an amino acid sequence of SEQ ID NO: 1. Further, the polypeptide may comprise substitution of an amino acid other than leucine at position 313 in the amino acid sequence of SEQ ID NO: 1 and may have O-succinyl homoserine transferase activity. More specifically, the polypeptide may be a polypeptide having O-succinyl homoserine transferase activity, in which the polypeptide comprises substitution of arginine, cysteine, isoleucine, or lysine for the amino acid at position 313 in the amino acid sequence of SEQ ID NO: 1, but is not limited thereto. 
+ Such a polypeptide variant is characterized by having enhanced O-succinyl homoserine transferase activity, as compared with the polypeptide having O-succinyl homoserine transferase activity of SEQ ID NO: 1. 
+ As used herein, the term “O-succinyl homoserine transferase activity” refers to activity of converting homoserine into O-succinyl homoserine. The O-succinyl homoserine transferase collectively refers to an enzyme capable of converting succinyl CoA and L-homoserine as substrates into CoA and O-succinyl homoserine. 
+ [Reaction Scheme]
+ 
+succinyl CoA+L-homoserine⇔CoA+O-succinyl homoserine
+ 
+ In the present disclosure, the O-succinyl homoserine transferase refers to an enzyme having O-succinyl homoserine transferase activity, which is obtained by substituting another amino acid for part of the amino acid sequence of MetX protein which is an O-acetyl homoserine transferase. The MetX protein may be MetX derived from the genus  Corynebacterium , and more specifically, MetX having the amino acid sequence of SEQ ID NO: 1, which is derived from  Corynebacterium glutamicum , but is not limited thereto. The sequence of the MetX protein is available from NCBI GenBank which is a known database. 
+ In the present disclosure, various methods known in the art are applicable to a method of obtaining the O-succinyl homoserine transferase. For example thereof, the O-succinyl homoserine transferase may be obtained from a microorganism of the genus  Corynebacterium  which is widely used for enzyme expression, by using gene synthesis techniques based on codon optimization by which enzymes may be obtained in high yield, or by using methods of screening useful enzyme resources, based on the bioinformatics of massive amounts of genetic information about microorganisms, but is not limited thereto. 
+ In the present disclosure, the O-succinyl homoserine transferase variant may be used interchangeably with “mutated O-succinyl homoserine transferase” or “variant O-succinyl homoserine transferase”. Meanwhile, the variant may be a non-naturally occurring variant. 
+ Specifically, the mutated O-succinyl homoserine transferase of the present disclosure may have substitution of an amino acid other than leucine for the amino acid residue at position 313 from the N-terminus of the genus  Corynebacterium  ( Corynebacterium  sp.)-derived MetX having the amino acid sequence represented by SEQ ID NO: 1. Specifically, the leucine amino acid residue at position 313 may be substituted with arginine, cysteine, isoleucine, or lysine, but is not limited thereto. The mutated O-succinyl homoserine transferase of the present disclosure may include a polypeptide comprising a variation at position 313 from the N-terminus of the amino acid sequence represented by SEQ ID NO: 1, wherein the variation includes substitution of an amino acid selected from the group consisting of arginine, cysteine, isoleucine, and lysine, and the polypeptide may have at least 85% homology or identity to SEQ ID NO: 1, but is not limited thereto. 
+ Further, the polypeptide having the O-succinyl homoserine transferase activity of the present disclosure may be any one selected from the group consisting of amino acid sequences represented by SEQ ID NO: 59, SEQ ID NO: 67, SEQ ID NO: 75, and SEQ ID NO: 81, which are specifically amino acid sequences of polypeptides having O-succinyl homoserine transferase activity, in which the amino acid at position 313 from the N-terminus of SEQ ID NO: 1 is mutated to arginine, cysteine, isoleucine, or lysine, respectively, but are not limited thereto. The polypeptide may comprise any polypeptide having 50%, 60%, 70%, 75%, 80%, 85%, 90%, 95%, 97%, or 99% or more homology or identity to the above sequences without limitation, as long as the polypeptide comprises the above variation and has enhanced O-succinyl homoserine conversion activity, as compared with the wild-type. 
+ Further, MetX of the present disclosure may be a MetX protein consisting of the amino acid sequence of SEQ ID NO: 1 or an amino acid sequence having 80% or more homology or identity thereto, but is not limited thereto. Specifically, the MetX protein of the present disclosure may include the protein of SEQ ID NO: 1 and a protein having at least 80% or more, 85% or more, specifically 90% or more, more specifically 95% or more, or much more specifically 99% or more homology or identity to the SEQ ID NO: 1. 
+ As used herein, the term “polypeptide variant” refers to a polypeptide, of which one or more amino acids differ from the recited sequence in conservative substitutions and/or modifications, but it retains functions or properties of the polypeptide. Variant polypeptides differ from an identified sequence by substitution, deletion, or addition of several amino acids. Such variants may be generally identified by modifying one of the above polypeptide sequences and evaluating the properties of the modified polypeptide. In other words, ability of a variant may be increased, unchanged, or decreased, as compared with that of a native protein. Such variants may be generally identified by modifying one of the above polypeptide sequences and evaluating reactivity of the modified polypeptide. Further, some variants may include those in which one or more portions, such as an N-terminal leader sequence or transmembrane domain, have been removed. Other variants may include variants in which a portion has been removed from the N- and/or C-terminus of a mature protein. The term “variant” may also be used as a modification, modified protein, modified polypeptide, mutant, mutein, divergent, etc., and any term is not limited, as long as it is used in a sense of being mutated. Specifically, the variant includes a variant in which the activity of  Corynebacterium glutamicum -derived O-succinyl homoserine transferase is efficiently improved by variation of the amino acids thereof, as compared with the wild-type. 
+ As used herein, the term “conservative substitution” means substitution of one amino acid with another amino acid that has similar structural and/or chemical properties. The variant may have, for example, one or more conservative substitutions while retaining one or more biological activities. Such amino acid substitutions may be generally made on the basis of similarity in polarity, charge, solubility, hydrophobicity, hydrophilicity, and/or the amphipathic nature of residues. For example, positively charged (basic) amino acids include arginine, lysine, and histidine; negatively charged (acidic) amino acids include glutamic acid and aspartic acid; aromatic amino acids include phenylalanine, tryptophan, and tyrosine; and hydrophobic amino acids include alanine, valine, isoleucine, leucine, methionine, phenylalanine, tyrosine, and tryptophan. Commonly, conservative substitution has little or no effect on the activity of the resulting polypeptide. 
+ Further, variants may include another modification including deletion or addition of amino acids that have minimal influence on properties and a secondary structure of the polypeptide. For example, a polypeptide may be conjugated to a signal (or leader) sequence at the N-terminus of the protein, which co-translationally or post-translationally directs transfer of the protein. The polypeptide may also be conjugated to other sequence or a linker for identification, purification, or synthesis of the polypeptide. In other words, even though ‘a protein or polypeptide having an amino acid sequence of a particular SEQ ID NO’ is described herein, it is apparent that a protein having an amino acid sequence, part of which is deleted, modified, substituted, conservatively substituted, or added, may be used in the present disclosure, as long as it has activity identical or corresponding to that of the polypeptide composed of the amino acid sequence of the corresponding SEQ ID NO. For example, as long as a protein has activity identical or corresponding to that of the variant polypeptide, addition of a sequence that does not alter the function of the protein before and after the amino acid sequence, naturally occurring mutations, silent mutations or conservative substitutions thereof are not excluded. It is apparent that even though the polypeptide has such a sequence addition or mutation, it falls within the scope of the present disclosure. 
+ Further, it is apparent that, due to codon degeneracy, a polynucleotide which may be translated into the protein comprising any one amino acid sequence selected from the group consisting of amino acid sequences of SEQ ID NO: 1, SEQ ID NO: 59, SEQ ID NO: 67, SEQ ID NO: 75, and SEQ ID NO: 81, or the protein having homology or identity thereto may also be included. Alternatively, a probe which may be produced from a known nucleotide sequence, for example, a sequence which hybridizes with a complementary sequence to all or a part of the polynucleotide sequence under stringent conditions to encode the protein having the O-succinyl homoserine transferase activity may also be included without limitation. The term “stringent conditions” mean conditions under which specific hybridization between polynucleotides is allowed. Such conditions are described in detail in a literature (e.g., J. Sambrook et al., supra). For example, the stringent conditions may include, for example, conditions under which genes having high homology or identity, 80% or higher, 85% or higher, specifically 90% or higher, more specifically 95% or higher, much more specifically 97% or higher, particularly specifically 99% or higher homology or identity are hybridized with each other and genes having homology or identity lower than the above homology or identity are not hybridized with each other, or ordinary washing conditions of Southern hybridization, i.e., washing once, specifically, twice or three times at a salt concentration and a temperature corresponding to 60° C., 1×SSC, 0.1% SDS, specifically, 60° C., 0.1×SSC, 0.1% SDS, and more specifically 68° C., 0.1×SSC, 0.1% SDS. 
+ Although a mismatch between nucleotides may occur due to the stringency of hybridization, it is required that the two nucleic acids have a complementary sequence. The term “complementary” is used to describe the relationship between nucleotide bases which may hybridize with each other. For example, with respect to DNA, adenosine is complementary to thymine and cytosine is complementary to guanine. Accordingly, the present disclosure may include not only the substantially similar nucleic acid sequences but also isolated nucleic acid fragments which are complementary to the entire sequence. 
+ Specifically, the polynucleotide having homology or identity may be detected using hybridization conditions including the hybridization step at a Tm value of 55° C. and the conditions described above. Additionally, the Tm value may be 60° C., 63° C., or 65° C., but is not limited thereto, and may be appropriately controlled by one of ordinary skill in the art according to the purposes. 
+ Appropriate stringency for the hybridization of polynucleotides depends on the length and degree of complementarity of the polynucleotides, and the variables are well-known in the art (see Sambrook et al., supra, 9.50-9.51, 11.7-11.8). 
+ The ‘homology’ or ‘identity’ refers to the degree of relevance between two given amino acid sequences or nucleotide sequences, and may be expressed as a percentage. 
+ The terms ‘homology’ and ‘identity’ may be often used interchangeably. 
+ The sequence homology or identity of the conserved polynucleotide or polypeptide may be determined by standard alignment algorithms, and may be used with default gap penalties established by the used program. Substantially, homologous or identical sequences may hybridize under moderately or highly stringent conditions such that the full length of the sequence or at least about 50%, 60%, 70%, 80%, or 90% or more of the full-length may hybridize. In addition, contemplated are polynucleotides that contain degenerate codons in place of codons in the hybridization. 
+ Whether or not any two polynucleotide or polypeptide sequences have homology, similarity, or identity may be determined using known computer algorithms such as the “FASTA” program, using, for example, the default parameters as in Pearson et al (1988)[Proc. Natl. Acad. Sci. USA 85]: 2444, or determined using the Needleman-Wunsch algorithm (Needleman and Wunsch, 1970, J. Mol. Biol. 48: 443-453) as implemented in the Needle program of the EMBOSS package (EMBOSS: The European Molecular Biology Open Software Suite, Rice et al., 2000, Trends Genet. 16: 276-277) (version 5.0.0 or later) (including GCG program package (Devereux, J., et al, Nucleic Acids Research 12: 387 (1984)), BLASTP, BLASTN, FASTA (Atschul, [S.] [F.,] [ET AL, J MOLEC BIOL 215]: 403 (1990); Guide to Huge Computers, Martin J. Bishop, [ED.,] Academic Press, San Diego, 1994, and [CARILLO ETA/.](1988) SIAM J Applied Math 48: 1073). For example, BLAST of the National Center for Biotechnology Information database, or ClustalW may be used to determine homology, similarity, or identity. 
+ Homology, similarity, or identity of polynucleotides or polypeptides may be determined, for example, by comparing sequence information using a GAP computer program such as Needleman et al. (1970), J Mol Biol. 48: 443, as disclosed in Smith and Waterman, Adv. Appl. Math (1981) 2:482. Briefly, the GAP program defines similarity as the number of aligned symbols (i.e., nucleotides or amino acids), which are similar, divided by the total number of symbols in the shorter of the two sequences. Default parameters for the GAP program may include: (1) a unary comparison matrix (containing a value of 1 for identities and 0 for non-identities) and the weighted comparison matrix of Gribskov et al (1986) Nucl. Acids Res. 14: 6745, as disclosed in Schwartz and Dayhoff, eds., Atlas Of Protein Sequence And Structure, National Biomedical Research Foundation, pp. 353-358 (1979) (or EDNAFULL (EMBOSS version of NCBI NUC4.4) substitution matrix); (2) a penalty of 3.0 for each gap and an additional 0.10 penalty for each symbol in each gap (or gap open penalty of 10, gap extension penalty of 0.5); and (3) no penalty for end gaps. Therefore, as used herein, the term “homology” or “identity” represents relevance between sequences. 
+ Another aspect of the present disclosure provides a polynucleotide encoding the polypeptide having the O-succinyl homoserine transferase activity. 
+ As used herein, the term “polynucleotide” refers to a DNA or RAN strand having a predetermined length or more, which is a long chain polymer of nucleotides formed by linking nucleotide monomers via covalent bonds. More specifically, the polynucleotide refers to a polynucleotide fragment encoding the variant polypeptide. 
+ In the present disclosure, the gene encoding the amino acid sequence of the O-succinyl homoserine transferase may be a gene of the variant O-succinyl homoserine transferase, specifically, derived from  Corynebacterium glutamicum . Based on genetic code degeneracy, nucleotide sequences encoding the same amino acid sequence and variants thereof are also included in the present disclosure, for example, represented by SEQ ID NO: 60, SEQ ID NO: 68, SEQ ID NO: 76, or SEQ ID NO: 82, but are not limited thereto. 
+ Additionally, as for the variant polynucleotide, based on the genetic code degeneracy, nucleotide sequences encoding the same amino acid sequence and variants thereof are also included in the present disclosure. 
+ As still another aspect of the present disclosure, the present disclosure provides a host cell comprising the polynucleotide encoding the variant polypeptide, or a microorganism transformed with a vector including the polynucleotide encoding the variant polypeptide. Specifically, the introduction may be performed by transformation, but is not limited thereto. 
+ Specifically, the microorganism comprising the polypeptide of the variant O-succinyl homoserine transferase may have enhanced productivity of O-succinyl homoserine without inhibiting growth of the host cell, as compared with a microorganism comprising the polypeptide of the wild-type O-succinyl homoserine transferase, and thus O-succinyl homoserine may be obtained from the microorganism with high yield. 
+ As used herein, the term “vector” is a DNA construct that includes a nucleotide sequence of a polynucleotide encoding a desired protein operably linked to an appropriate regulatory sequence to enable expression of the desired protein in an appropriate host cell. The regulatory sequence may include a promoter capable of initiating transcription, any operator sequence for the regulation of such transcription, a sequence encoding an appropriate mRNA ribosome-binding domain, and a sequence regulating termination of transcription and translation. After the vector is transformed into the appropriate host cell, it may replicate or function independently of the host genome, and may be integrated into the genome itself. 
+ The vector used in the present disclosure is not particularly limited, as long as it is able to replicate in the host cell, and any vector known in the art may be used. Examples of commonly used vectors may include a natural or recombinant plasmid, cosmid, virus, and bacteriophage. For instance, pWE15, M13, MBL3, MBL4, IXII, ASHII, APII, t10, t11, Charon4A, Charon21A, etc. may be used as a phage vector or cosmid vector. As a plasmid vector, pBR type, pUC type, pBluescriptll type, pGEM type, pTZ type, pCL type, pET type, etc. may be used. Specifically, pDZ, pACYC177, pACYC184, pCL, pECCG117, pUC19, pBR322, pMW118, pCC1BAC vector, etc. may be used, but is not limited thereto. 
+ The vector applicable in the present disclosure is not particularly limited, and a known expression vector may be used. Further, the polynucleotide encoding the desired protein may be inserted into the chromosome using a vector for intracellular chromosomal insertion. The chromosomal insertion of the polynucleotide may be performed by any method known in the art, for example, homologous recombination, but is not limited thereto. A selection marker to confirm the chromosomal insertion may be further included. The selection marker is to select cells transformed with the vector, that is, to confirm insertion of the desired polynucleotide, and the selection marker may include markers providing selectable phenotypes, such as drug resistance, auxotrophy, resistance to cytotoxic agents, or expression of surface proteins. Since only cells expressing the selection marker are able to survive or to show different phenotypes under the environment treated with a selective agent, the transformed cells may be selected. 
+ As used herein, the term “transformation” means the introduction of a vector including a polynucleotide encoding a desired protein into a host cell in such a way that the protein encoded by the polynucleotide is expressed in the host cell. As long as the transformed polynucleotide may be expressed in the host cell, it may be integrated into and placed in the chromosome of the host cell, or it may exist extrachromosomally, or irrespective thereof. Further, the polynucleotide includes DNA and RNA encoding the target protein. The polynucleotide may be introduced in any form, as long as it may be introduced into the host cell and expressed therein. For example, the polynucleotide may be introduced into the host cell in the form of an expression cassette, which is a gene construct including all elements required for its autonomous expression. Commonly, the expression cassette includes a promoter operably linked to the polynucleotide, transcriptional termination signals, ribosome binding sites, and translation termination signals. The expression cassette may be in the form of a self-replicable expression vector. Also, the polynucleotide as it is may be introduced into the host cell and operably linked to sequences required for expression in the host cell, but is not limited thereto. A method of performing the transformation may include any method of introducing nucleic acids into a cell, and the transformation may be performed by selecting an appropriate standard technique as known in the art according to the host cell. For example, the method may include electroporation, calcium phosphate (Ca(H 2 PO 4 ) 2 , CaHPO 4 , or Ca 3 (PO 4 ) 2 ) precipitation, calcium chloride (CaCl 2 ) precipitation, microinjection, a polyethylene glycol (PEG) method, a DEAE-dextran method, a cationic liposome method, and a lithium acetate-DMSO method, etc., but is not limited thereto. 
+ As used herein, the term “operably linked” means a functional linkage between the polynucleotide sequence encoding the desired protein of the present disclosure and a promoter sequence which initiates and mediates transcription of the polynucleotide. The operable linkage may be prepared using a genetic recombinant technology known in the art, and site-specific DNA cleavage and linkage may be prepared using cleavage and linking enzymes, etc., in the art, but is not limited thereto. 
+ As used herein, the term “O-succinyl homoserine-producing microorganism” refers to a microorganism that naturally has O-succinyl homoserine-producing ability or a microorganism that is prepared by providing a mother strain having no O-succinyl homoserine-producing ability with the O-succinyl homoserine-producing ability. 
+ The O-succinyl homoserine-producing microorganism may be a cell or microorganism which may include the polynucleotide encoding the variant polypeptide or which may express the variant polypeptide by transformation with the vector including the polynucleotide encoding the variant polypeptide. With respect to the objects of the present disclosure, the host cell or microorganism may be any microorganism, as long as it is able to produce O-succinyl homoserine by including the variant MetX polypeptide. Specific examples thereof may include microorganisms of the genus  Escherichia , the genus  Serratia , the genus  Erwinia , the genus  Enterobacteria , the genus  Salmonella , the genus  Streptomyces , the genus  Pseudomonas , the genus  Brevibacterium , and the genus  Corynebacterium , specifically, a microorganism of the genus of  Corynebacterium , and more specifically,  Corynebacterium glutamicum , but are not limited thereto. 
+ As used herein, the term “O-succinyl homoserine-producing microorganism of the genus  Corynebacterium ” refers to a microorganism of the genus  Corynebacterium  having O-succinyl homoserine-producing ability naturally or through mutation. It has been known that a culture of the microorganism of the genus  Corynebacterium  includes O-succinyl homoserine. However, its O-succinyl homoserine-producing ability is remarkably low, and genes involved in the production mechanism or mechanisms thereof have not been revealed. Therefore, in the present disclosure, the microorganism of the genus  Corynebacterium  having the O-succinyl homoserine-producing ability refers to a natural form of the microorganism itself, or a microorganism of the genus  Corynebacterium  having the O-succinyl homoserine-producing ability which is improved by insertion of a foreign gene related to the O-succinyl homoserine production mechanism or by enhancement or inactivation of the activity of an endogenous gene. 
+ In the present disclosure, “the microorganism of the genus  Corynebacterium ” may be specifically  Corynebacterium glutamicum, Corynebacterium ammoniagenes, Brevibacterium lactofermentum, Brevibacterium flavum, Corynebacterium thermoaminogenes, Corynebacterium efficiens , etc., but is not limited thereto. More specifically, in the present disclosure, the microorganism of the genus  Corynebacterium  may be  Corynebacterium glutamicum , of which cell growth and survival are less influenced even though exposed to high levels of O-succinyl homoserine. 
+ In the microorganism, activity of at least one protein selected from the group consisting of cystathionine synthase, O-acetyl homoserine (thiol)-lyase, and homoserine kinase may be inactivated. In other words, activity of one protein selected therefrom, activities of two proteins selected therefrom, or activities of all the three proteins may be inactivated. 
+ As used herein, the term “inactivation” of the protein activity is a concept including weakening of the activity, as compared with its intrinsic activity, or having no activity. 
+ The inactivation of the protein activity may be achieved by applying various methods well-known in the art. Examples of the methods may include a method of deleting the entirety or part of the protein-encoding gene on the chromosome, including the case when the protein activity is eliminated; a method of substituting the protein-encoding gene on the chromosome with a gene which is mutated to reduce the enzyme activity; a method of introducing a variation into the expression control sequence of the protein-encoding gene on the chromosome; a method of replacing the expression control sequence of the protein-encoding gene with a sequence having weak activity or no activity (e.g., a method of replacing the promoter of the gene with a promoter weaker than the intrinsic promoter); a method of deleting the entirety or part of the protein-encoding gene on the chromosome; a method of introducing an antisense oligonucleotide (e.g., antisense RNA), which inhibits the translation from the mRNA into a protein via a complementary binding to a transcript of the gene on the chromosome; a method of making the attachment of a ribosome impossible by forming a secondary structure by artificially adding a complementary sequence to the SD sequence on the front end of the SD sequence of the protein-encoding gene; a reverse transcription engineering (RTE) method of adding a promoter to be reversely transcribed on the 3′ terminus of the open reading frame (ORF) of the corresponding sequence; or a combination thereof, but are not particularly limited thereto. 
+ Specifically, the method of deleting part or the entirety of the protein-encoding gene may be executed by replacing the polynucleotide encoding the endogenous desired protein within the chromosome with a polynucleotide or a marker gene having a partially deleted nucleotide sequence, via a vector for chromosomal insertion into the microorganism. For example thereof, a method of deleting the gene by homologous recombination may be used, but is not limited thereto. Additionally, the “part”, although it may vary depending on the kinds of polynucleotide, may be appropriately determined by those skilled in the art, and it may be specifically 1 nucleotide to 300 nucleotides, more specifically 1 nucleotide to 100 nucleotides, and even more specifically 1 nucleotide to 50 nucleotides, but is not particularly limited thereto. 
+ Further, the method of modifying the expression control sequence may be performed by inducing a modification in the expression control sequence via deletion, insertion, non-conservative or conservative substitution, or a combination thereof so as to further inactivate the activity of the expression control sequence, or by replacing the sequence with a nucleotide sequence having a weaker activity. The expression control sequence may include a promoter, an operator sequence, a sequence encoding a ribosome-binding domain, and a sequence for regulating transcription and translation, but is not limited thereto. 
+ Furthermore, the method of modifying the nucleotide sequence on the chromosome may be performed by inducing a modification in the sequence via deletion, insertion, conservative or non-conservative substitution, or a combination thereof so as to further inactivate the activity of the protein, or by replacing the sequence with a nucleotide sequence which is improved to have a weaker activity or a nucleotide sequence which is improved to have no activity, but is not limited thereto. Specifically, in the microorganism, at least one gene selected from the group consisting of a cystathionine gamma synthase-encoding metB gene, an O-acetyl homoserine (thiol)-lyase-encoding metY gene which is an O-succinyl homoserine degradation pathway, and a homoserine kinase-encoding thrB gene may be further deleted or weakened. 
+ As used herein, the term “deletion” refers to a type of removal, within the chromosome, of a part or the entirety of a nucleotide sequence region of a desired gene from the nucleotide sequence corresponding to the start codon to that of the stop codon, or a part or the entirety of the nucleotide sequence of a regulatory region thereof. 
+ As used herein, the term “weakening” refers to removal or reduction of intracellular activity of one or more enzymes which are encoded by the corresponding DNA in a microorganism strain. For example, protein expression may be weakened by modifying a nucleotide sequence of a promoter region or 5′-UTR of a gene, or protein activity may be weakened by introducing a mutation in the ORF region of the corresponding gene. 
+ Further, the microorganism of the genus  Corynebacterium  may be an O-succinyl homoserine-producing microorganism of the genus  Corynebacterium , in which aspartokinase activity is further enhanced, as compared with a non-variant microorganism. 
+ As used herein, the term “enhancement of the activity of the protein” refers to introduction of the activity of the protein, or increase of the activity of the protein, as compared with its intrinsic activity. The “introduction” of the activity means occurrence of activity of a specific polypeptide which is naturally or artificially not possessed by the microorganism. 
+ As used herein, the term “increase” of the activity of the protein, as compared with its intrinsic activity, means that the activity is improved, as compared with the intrinsic activity of the protein of the microorganism or the activity before modification. The term “intrinsic activity” refers to activity of a specific protein originally possessed by a parent strain or unmodified microorganism before changing its trait, when the trait of the microorganism is changed due to genetic variation caused by natural or artificial factors. It may be used interchangeably with the activity before modification. 
+ Specifically, in the present disclosure, the enhancement of activity may be performed by: 
+ 1) increasing the copy number of the polynucleotide encoding the protein, 
+ 2) modifying the expression control sequence for increasing the expression of the polynucleotide, 
+ 3) modifying the polynucleotide sequence on the chromosome for enhancing the activity of the protein, 
+ 4) introducing a foreign polynucleotide exhibiting the activity of the protein or a variant polynucleotide in which the polynucleotide is codon-optimized, or 
+ 5) modifying for the enhancement by a combination thereof, but is not limited thereto. 
+ 1) The increase of the copy number of the polynucleotide may be, but is not particularly limited to, performed in a form in which the polynucleotide is operably linked to a vector, or by inserting the polynucleotide into the chromosome of a host cell. Specifically, the increase of the copy number of the polynucleotide within the chromosome of the host cell may be performed by introducing a vector into a host cell, the vector which may replicate and function regardless of a host cell and to which the polynucleotide encoding the protein of the present disclosure is operably linked, or may be performed by introducing a vector into a host cell, the vector which may insert the polynucleotide into the chromosome of a host cell and to which the polynucleotide is operably linked. 
+ Next, 2) the modification of the expression control sequence for increasing the expression of the polynucleotide may be, but is not particularly limited to, performed by inducing a modification on the sequence through deletion, insertion, non-conservative or conservative substitution of the nucleotide sequence, or a combination thereof to further enhance the activity of the expression control sequence, or by replacing the polynucleotide sequence with a nucleotide sequence having a stronger activity. The expression control sequence includes, but is not particularly limited to, a promoter, an operator sequence, a sequence encoding a ribosome-binding site, and a sequence regulating the termination of transcription and translation. 
+ A strong exogenous promoter, instead of the original promoter, may be connected to the upstream region of the expression unit of the polynucleotide. Examples of the strong promoter may include CJ7 promoter (Korean Patent No. 0620092 and WO2006/065095), lysCP1 promoter (WO2009/096689), EF-Tu promoter, groEL promoter, aceA or aceB promoter, etc., but is not limited thereto. Furthermore, 3) the modification of the polynucleotide sequence on the chromosome may be, but is not particularly limited to, performed by inducing a modification on the expression control sequence through deletion, insertion, non-conservative or conservative substitution of the polynucleotide sequence, or a combination thereof to further enhance the activity of the polynucleotide sequence, or by replacing the polynucleotide sequence with a polynucleotide sequence which is improved to have a stronger activity. 
+ Further, 4) the introduction of the foreign polynucleotide sequence may be performed by introducing a foreign polynucleotide sequence encoding a protein showing the activity identical/similar to that of the above protein or by introducing a codon-optimized variant polynucleotide thereof into a host cell. Any foreign polynucleotide sequence may be used without limitation in the origin or sequence thereof, as long as it shows the activity identical/similar to that of the above protein. Further, the foreign polynucleotide may be introduced into the host cell, after optimizing its codons such that that optimized transcription and translation may occur in the host cell. The introduction may be carried out by a known transformation method which is appropriately selected by those skilled in the art, and the protein may be produced by expression of the introduced polynucleotide in the host cell, and as a result, its activity may be increased. 
+ Lastly, 5) the method of modifying for the enhancement by a combination of 1) to 4) may be performed by applying one or more of the methods of increasing the copy number of the polynucleotide encoding the protein, modifying the expression control sequence for increasing the expression of the polynucleotide, modifying the polynucleotide sequence on the chromosome, and modifying a foreign polynucleotide exhibiting the activity of the protein or a variant polynucleotide in which the codons thereof are codon-optimized. 
+ In the present disclosure, the sequences of the genes or the polynucleotides are available from a database such as National Center for Biotechnology Information (NCBI). 
+ As still another aspect of the present disclosure, the present disclosure provides a method of producing O-succinyl homoserine, the method comprising the steps of culturing the above-described microorganism; and collecting O-succinyl homoserine from the cultured microorganism or the culture medium. 
+ As still another aspect of the present disclosure, the present disclosure provides a method of producing L-methionine, the method comprising the steps of culturing the above-described microorganism; and reacting the cultured microorganism or the O-succinyl homoserine with sulfide. 
+ Specifically, the step of reacting with sulfide means producing L-methionine from 0-succinyl homoserine using any known method. For example, L-methionine may be produced by reacting O-succinyl homoserine with methyl mercaptan as the sulfide, or methionine may be produced by a stepwise reaction through production of cystathionine by reacting O-succinyl homoserine with cysteine as the sulfide. Further, to improve the reaction rate and yield, a catalyst or an enzyme may be added, or reaction may be allowed in a microorganism including enzymes. 
+ The ‘O-succinyl homoserine’ may be a fermentation broth containing O-succinyl homoserine produced by the above-described microorganism of the present disclosure or a purified form thereof. In addition, the ‘sulfide’ may be for example, methyl mercaptan. The methyl mercaptan refers to all of methyl mercaptan derivatives capable of providing sulfur atoms, such as a liquefied sodium methyl mercaptan (CH 3 S—Na) form, and gaseous or liquefied methyl mercaptan (CH 3 SH) form, as well as a methyl mercaptan including dimethylsulfide (DMS) which is disclosed in Patent Publication WO2010/098629, etc. 
+ The method of producing L-methionine may be readily determined by those skilled in the art under optimized culture conditions and enzyme activation conditions known in the art. 
+ A specific culture method and medium are the same as described above. 
+ Further, the method of producing L-methionine may further comprise the step of isolating or collecting O-succinyl homoserine from the microorganism cultured in the culturing step or the medium. 
+ It is apparent to those skilled in the art that the “O-succinyl homoserine” of the present disclosure may include all of O-succinyl homoserine itself and salts thereof. 
+ In the above method, the step of culturing the microorganism may be performed by a known batch culture, continuous culture, or fed-batch culture method, but is not particularly limited thereto. Regarding the culturing conditions, proper pH (i.e. pH of 5 to 9, specifically pH of 6 to 8, and most specifically pH of 6.8) may be adjusted using a basic compound (e.g., sodium hydroxide, potassium hydroxide, or ammonia) or an acidic compound (e.g., phosphoric acid or sulfuric acid), and an aerobic condition may be maintained by adding oxygen or an oxygen-containing gas mixture to the culture, but are not particularly limited thereto. The culture temperature may be maintained at 20° C. to 45° C., and specifically at 25° C. to 40° C., and the microorganism may be cultured for about 10 hours to about 160 hours, but is not limited thereto. The O-succinyl homoserine produced by the above culturing may be secreted to the medium or remain within the cells. 
+ Additionally, in the culture medium to be used, carbon sources, such as sugars and carbohydrates (e.g., glucose, sucrose, lactose, fructose, maltose, molasses, starch, and cellulose), oils and fats (e.g., soybean oil, sunflower seed oil, peanut oil, and coconut oil), fatty acids (e.g., palmitic acid, stearic acid, and linoleic acid), alcohols (e.g., glycerol and ethanol), and organic acids (e.g., acetic acid), may be used individually or in a mixture thereof, but are not limited thereto. Nitrogen sources, such as nitrogen-containing organic compounds (e.g., peptone, yeast extract, meat juice, malt extract, corn steep liquor, soybean flour, and urea) or inorganic compounds (e.g., ammonium sulfate, ammonium chloride, ammonium phosphate, ammonium carbonate, and ammonium nitrate), may be used individually or in a mixture thereof, but are not limited thereto. Potassium sources, such as potassium dihydrogen phosphate, dipotassium hydrogen phosphate, or sodium-containing salts corresponding thereto, may be used individually or in a mixture thereof, but are not limited thereto. Additionally, other essential growth-stimulating substances including metal salts (e.g., magnesium sulfate or iron sulfate), amino acids, and vitamins may be included in the medium. 
+ A method of collecting the O-succinyl homoserine or L-methionine which is produced in the culturing step of the present disclosure may be to collect the desired amino acid from the culture broth using an appropriate method known in the art according to the culture method. For example, centrifugation, filtration, anion exchange chromatography, crystallization, HPLC, etc., may be used, and the desired O-succinyl homoserine or L-methionine may be collected from the medium or microorganism using an appropriate method known in the art. 
+ MODE FOR DISCLOSURE 
+ Hereinafter, the present disclosure will be described in more detail with reference to Examples. However, these Examples are for illustrative purposes only, and the scope of the present disclosure is not intended to be limited by these Examples. 
+ Example 1: Construction of MetX Plasmid Having O-Acetyl Homoserine Transferase Activity 
+ To amplify an O-acetyl homoserine transferase (MetX)-encoding gene, BamHI restriction sites were inserted into both ends of primers (SEQ ID NOS: 5 and 6) to amplify from a promoter region (about 300 bp from the upstream of start codons) to a terminator region (about 100 bp from the downstream of stop codons), based on the reported WT (Wild type)-derived sequence. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+   
+ 
+ 
+ SEQ ID NO: 
+ Primer 
+ Sequence (5′-3′) 
+ 
+ 
+   
+ 
+ 
+ 
+ 5 
+ Primer 1 
+ GGATCCCCTCGTTGTTCACCCAGCAACC 
+ 
+ 
+   
+ 
+ 
+ 6 
+ Primer 2 
+ GGATCCCAAAGTCACAACTACTTATGTTAG 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ After denaturation at 95° C. for 5 minutes, the PCR was carried out for a total of 30 cycles under the following conditions: denaturation at 95° C. for 30 seconds; annealing at 55° C. for 30 seconds; and polymerization at 72° C. for 90 seconds. Thereafter, the polymerization reaction was carried out at 72° C. for 7 minutes. As a result, a DNA fragment of 1546 bp of the coding region of the metX gene was obtained. A pECCG117 (Korean Patent No. 10-0057684) vector and the metX DNA fragment were treated with a restriction enzyme BamHI, and ligated with each other using DNA ligase, and cloned, thereby obtaining a plasmid, which was designated as pECCG117-metX WT. 
+ Example 2: Construction of Variant MetX Plasmid Having O-Succinyl Homoserine Transferase Activity 
+ Novel metX variation sites were selected, and an amino acid at position 313 in an amino acid sequence of SEQ ID NO: 1 was substituted with an amino acid other than leucine. 
+ More specifically, to prepare a variant vector, in which the amino acid at position 313 of O-acetyl homoserine transferase was substituted with another amino acid, using the pECCG117-metX WT plasmid constructed in Example 1 as a template, a pair of primers (SEQ ID NOS: 7 and 8) was designed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+   
+ 
+ 
+ SEQ ID NO: 
+ Primer 
+ Sequence (5′-3'′) 
+ 
+ 
+   
+ 
+ 
+ 
+ 7 
+ Primer 3 
+ GTAGATACCGATATTCGGTACCCCTACCACCAG 
+ 
+ 
+   
+ 
+ 
+ 8 
+ Primer 4 
+ CTGGTGGTAGGGGTACCGAATATCGGTATCTAC 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ The primers and a site-directed mutagenesis kit (stratagene, USA) were used to prepare a metX variant gene. L313R variant plasmid, based on the wild-type plasmid WT, was designated as WT_L313R. 
+ Example 3: Comparative Experiment of Substrate Specificity and Activity of Variant MetX Having O-Succinyl Homoserine Transferase Activity 
+ To compare activity of variant metX producing a large amount of O-succinyl homoserine, a strain in which homoserine was accumulated and availability of produced O-succinyl homoserine was deleted was prepared. A strain, in which metB gene encoding cystathionine gamma synthase which is involved in the O-succinyl homoserine degradation pathway and metY gene encoding O-acetyl homoserine (thiol)-lyase which is involved in the O-succinyl homoserine degradation pathway were deleted, was prepared. First, to delete the metB gene, a pair of primers (SEQ ID NOS: 9 and 10) for amplification of 5′-upstream region of metB gene and a pair of primers (SEQ ID NOS: 11 and 12) for amplification of 3′-downstream region of metB gene were designed, based on the nucleotide sequence of WT-derived metB gene. XbaI restriction sites (underlined) were inserted into each end of the primers of SEQ ID NOS: 9 and 12. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+   
+ 
+ 
+ SEQ ID 
+   
+   
+ 
+ 
+ NO: 
+ Primer 
+ Sequence (5′-3′) 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 9 
+ Primer 5 
+   TCTAGA TGCGCTGATTATCTCACC 
+ 
+ 
+   
+ 
+ 
+ 10 
+ Primer 6 
+ ACTGGTGGGTCATGGTTGCATATGAGATCAACTCCT 
+ 
+ 
+   
+   
+ GTAA 
+ 
+ 
+   
+ 
+ 
+ 11 
+ Primer 7 
+ TTACAGGAGTTGATCTCATATGCAACCATGACCCAC 
+ 
+ 
+   
+   
+ CAGT 
+ 
+ 
+   
+ 
+ 
+ 12 
+ Primer 8 
+   TCTAGA CCTTGAAGTTCTTGACTG 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ PCR was performed using the chromosome of WT as a template and the primers of SEQ ID NO: 9 and SEQ ID NO: 10, SEQ ID NO: 11 and SEQ ID NO: 12. After denaturation at 95° C. for 5 minutes, the PCR was carried out for a total of 30 cycles under the following conditions: denaturation at 95° C. for 30 seconds; annealing at 55° C. for 30 seconds; and polymerization at 72° C. for 90 seconds. Thereafter, the polymerization reaction was carried out at 72° C. for 7 minutes. As a result, a DNA fragment of 450 bp of 5′-upstream region of metB gene and a DNA fragment of 467 bp of 3′-downstream region of metB gene were obtained. 
+ PCR was performed using the amplified two kinds of DNA fragments as a template and primers of SEQ ID NO: 9 and SEQ ID NO: 12. After denaturation at 95° C. for 5 minutes, the PCR was carried out for a total of 30 cycles under the following conditions: denaturation at 95° C. for 30 seconds; annealing at 55° C. for 30 seconds; and polymerization at 72° C. for 3 minutes. Thereafter, the polymerization reaction was carried out at 72° C. for 7 minutes. As a result, a DNA fragment of 917 bp including only the upstream and downstream fragments by deletion of the middle of metB gene was amplified. 
+ pDZ vector and the DNA fragment of 917 bp were treated with a restriction enzyme XbaI, and then ligated with each other using DNA ligase, and cloned, thereby obtaining a plasmid, which was designated as pDZ-ΔmetB. 
+ The pDZ-ΔmetB vector was introduced into WT strain by an electric pulse method, and then a transformant strain was selected on a selection medium containing 25 mg/L of kanamycin. WTΔmetB strain in which metB gene was deleted by the DNA fragment inserted into the chromosome by a secondary recombination process (cross-over) was obtained. 
+ To delete the metY gene which is another O-succinyl homoserine degradation pathway, a pair of primers (SEQ ID NOS: 13 and 14) for amplification of 5′-upstream region of metY gene and a pair of primers (SEQ ID NOS: 15 and 16) for amplification of 3′-downstream region of metY gene were designed, based on the nucleotide sequence of WT-derived metY gene. XbaI restriction sites (underlined) were inserted into each end of the primers of SEQ ID NOS: 13 and 16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+   
+ 
+ 
+ SEQ ID 
+   
+   
+ 
+ 
+ NO: 
+ Primer 
+ Sequence (5′-3′) 
+ 
+ 
+   
+ 
+ 
+ 
+ 13 
+ Primer 9 
+   TCTAGA AGTAGCGTTGCTGTACAC 
+ 
+ 
+   
+ 
+ 
+ 14 
+ Primer 10 
+ ATCAATGGTCTCGATGCCCATATGGCATTTGGAG 
+ 
+ 
+   
+   
+ GTCCTTAAG 
+ 
+ 
+   
+ 
+ 
+ 15 
+ Primer 11 
+ CTTAAGGACCTCCAAATGCCATATGGGCATCGAG 
+ 
+ 
+   
+   
+ ACCATTGAT 
+ 
+ 
+   
+ 
+ 
+ 16 
+ Primer 12 
+   TCTAGA TGGAACCGTTGCAACCAC 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ PCR was performed using the chromosome of WT as a template and the primers of SEQ ID NO: 13 and SEQ ID NO: 14, SEQ ID NO: 15 and SEQ ID NO: 16. After denaturation at 95° C. for 5 minutes, the PCR was carried out for a total of 30 cycles under the following conditions: denaturation at 95° C. for 30 seconds; annealing at 55° C. for 30 seconds; and polymerization at 72° C. for 90 seconds. Thereafter, the polymerization reaction was carried out at 72° C. for 7 minutes. As a result, a DNA fragment of 512 bp of 5′-upstream region of metY gene and a DNA fragment of 520 bp of 3′-downstream region of metY gene were obtained. 
+ PCR was performed using the amplified two kinds of DNA fragments as a template and primers of SEQ ID NO: 13 and SEQ ID NO: 16. After denaturation at 95° C. for 5 minutes, the PCR was carried out for a total of 30 cycles under the following conditions: denaturation at 95° C. for 30 seconds; annealing at 55° C. for 30 seconds; and polymerization at 72° C. for 3 minutes. Thereafter, the polymerization reaction was carried out at 72° C. for 7 minutes. As a result, a DNA fragment of 1032 bp including only the upstream and downstream fragments by deletion of the middle of metY gene was amplified. 
+ pDZ vector and the DNA fragment of 1032 bp were treated with a restriction enzyme XbaI, and then ligated with each other using DNA ligase, and cloned, thereby obtaining a plasmid, which was designated as pDZ-ΔmetY. 
+ The pDZ-ΔmetY vector was introduced into the prepared WTΔmetB strain by an electric pulse method, and then a transformant strain was selected on a selection medium containing 25 mg/L of kanamycin. WTΔmetBΔmetY strain in which metY gene was deleted by the DNA fragment inserted into the chromosome by a secondary recombination process (cross-over) was obtained. 
+ To maximize the O-succinyl homoserine production, a pair of primers (SEQ ID NOS: 19 and 20) for amplifying 5′-upstream region and a pair of primers (SEQ ID NOS: 21 and 22) for amplifying 3′-downstream region around the variation site was designed to construct a variant-introducing vector for lysC gene (SEQ ID NO: 18) encoding WT-derived aspartokinase (SEQ ID NO: 17). The primers of SEQ ID NOS: 19 and 22 were inserted into the XbaI restriction sites (underlined) at each end, and the primers of SEQ ID NOS: 20 and 21 were allowed to place the nucleotide substitution variation (underlined) at the region which was designed to cross-over with each other. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 5 
+ 
+ 
+   
+ 
+ 
+ SEQ ID NO: 
+ Primer 
+ Sequence (5′-3′) 
+ 
+ 
+   
+ 
+ 
+ 
+ 19 
+ Primer 13 
+ TCC TCTAGA GCTGCGCAGTGTTGAATACG 
+ 
+ 
+   
+ 
+ 
+ 20 
+ Primer 14 
+ CACCGACATCA T CTTCACCTGCC 
+ 
+ 
+   
+ 
+ 
+ 21 
+ Primer 15 
+ GGCAGGTGAAG A TGATGTCGGTG 
+ 
+ 
+   
+ 
+ 
+ 22 
+ Primer 16 
+ GAC TCTAGA GTTCACCTCAGAGACGATTA 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ PCR was performed using the chromosome of WT as a template and primers of SEQ ID NO: 19 and SEQ ID NO: 20, SEQ ID NO: 21 and SEQ ID NO: 22. After denaturation at 95° C. for 5 minutes, the PCR was carried out for a total of 30 cycles under the following conditions: denaturation at 95° C. for 30 seconds; annealing at 55° C. for 30 seconds; and polymerization at 72° C. for 30 seconds. Thereafter, the polymerization reaction was carried out at 72° C. for 7 minutes. As a result, a DNA fragment of 509 bp of the 5′-upstream region and a DNA fragment of 520 bp of the 3′-downstream region around the lysC gene variation were obtained. 
+ PCR was performed using the amplified two kinds of DNA fragments as a template and primers of SEQ ID NO: 19 and SEQ ID NO: 22. After denaturation at 95° C. for 5 minutes, the PCR was carried out for a total of 30 cycles under the following conditions: denaturation at 95° C. for 30 seconds; annealing at 55° C. for 30 seconds; and polymerization at 72° C. for 60 seconds. Thereafter, the polymerization reaction was carried out at 72° C. for 7 minutes. As a result, a DNA fragment of 1011 bp including the lysC gene variation (SEQ ID NO: 24) encoding the aspartokinase variant (SEQ ID NO: 23) in which threonine at position 311 was substituted with isoleucine was amplified. 
+ pDZ vector (Korean Patent No. 0924065) which is not replicable in  Corynebacterium glutamicum  and the DNA fragment of 1011 bp were treated with a restriction enzyme XbaI, and ligated with each other using DNA ligase, and cloned, thereby obtaining a plasmid, which was designated as pDZ-lysC(T311I). 
+ The pDZ-lysC(T311I) vector was introduced into WTΔmetBΔmetY by an electric pulse method (Appl. Microbiol. Biothcenol. (1999) 52:541-545), and then a transformant strain was selected on a selection medium containing 25 mg/L of kanamycin. WTΔmetBΔmetY, lysC(T311I) strain in which nucleotide variation was introduced into lysC gene by the DNA fragment inserted into the chromosome by a secondary recombination process (cross-over) was obtained, and the strain was designated as  Corynebacterium glutamicum  WTΔmetBΔmetY, lysC(T311I). 
+ The pECCG117-metX WT and pECCG117-metX WT_L313R vectors prepared in Examples 1 and 2 were introduced into WTΔmetBΔmetY prepared as above by the electric pulse method, and then each transformant strain was selected on a selection medium containing 25 mg/L of kanamycin. 
+ To compare O-acetyl homoserine (O-AH) and O-succinyl homoserine (O—SH)-producing abilities of the prepared strains, they were cultured by the following method, and O-acetyl homoserine and O-succinyl homoserine concentrations in culture media were analyzed. 
+ Each one platinum loop of the strains was inoculated in a 250 ml-corner baffle flask containing 25 ml of the following medium, and then cultured at 37° C. and 200 rpm under shaking for 20 hours. O-acetyl homoserine and O-succinyl homoserine concentrations were analyzed by HPLC, and the analyzed concentrations are shown in Table 6. 
+ <Composition of Medium (pH 7.0)> 
+ 100 g of glucose, 40 g of (NH 4 ) 2 SO 4 , 2.5 g of soybean protein, 5 g of corn steep solids, 3 g of urea, 1 g of KH 2 PO 4 , 0.5 g of MgSO 4 .7H 2 O, 100 μg of biotin, 1000 μg of thiamine HCl, 2000 μg of calcium pantothenate, 3000 μg of nicotinamide, 30 g of CaCO 3 , 0.3 g of L-methionine (per 1 liter of distilled water). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 6 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ O-acetyl  
+ O-succinyl  
+ 
+ 
+   
+ homoserine (g/L) 
+ homoserine (g/L) 
+ 
+ 
+ 
+ 
+   
+ Batch 
+ Batch 
+ Batch 
+ Batch 
+ Batch 
+ Batch 
+ 
+ 
+ Strain 
+ 1 
+ 2 
+ 3 
+ 1 
+ 2 
+ 3 
+ 
+ 
+   
+ 
+ 
+ WTΔmetBΔmetY, 
+   
+   
+   
+   
+   
+   
+ 
+ 
+ lysC(T311I)/ 
+ 2.0  
+ 2.2  
+ 2.1  
+  0.01 
+  0.03 
+  0.01 
+ 
+ 
+ pECCG117-metXWT 
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY,  
+   
+   
+   
+   
+   
+   
+ 
+ 
+ lysC(T311I)/ 
+ 0.05 
+ 0.06 
+ 0.04 
+ 1.2 
+ 1.1 
+ 1.0 
+ 
+ 
+ pECCG117-metXWT_L313R 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Referring to Table 6, it was confirmed that the strain introduced with the control metX WT plasmid produced O-acetyl homoserine, whereas the strain introduced with the metX variant plasmid produced O-succinyl homoserine. In other words, the substrate specificity of the transferase was changed in the strain introduced with the variant, and as a result, O-succinyl homoserine was produced. 
+ Further, the prepared WTΔmetBΔmetY, lysC(T311I)/pECCG117-metX WT_L313R strain was designated as CA05-5132, and then deposited at the Korean Culture Center of Microorganisms which is the international depository authority under the Budapest Treaty on May 11, 2017 with the Accession No. KCCM12023P. 
+ Example 4: Preparation of MetX Variant Through Saturated Mutagenesis and Evaluation of O-Acetyl Homoserine-Producing Ability 
+ To prepare variants in which another amino acid was substituted at the metX variation site showing high O-succinyl homoserine-producing ability, saturated mutagenesis was used. 18 kinds of variants in which the amino acid at position 313 of metX was substituted with another amino acid were prepared, and the plasmid prepared in Example 1 was used as a template. Each variant, substituted amino acids, and SEQ ID NOs. of the primers used in each variant are shown in the following Table 7. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 7 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Plasmid  
+ Amino acid  
+ SEQ ID NO: 
+ 
+ 
+   
+ variant 
+ substitution 
+ of primer 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ Variation  
+ L313R 
+ SEQ ID NOS: 7, 8 
+ 
+ 
+   
+ at 313 
+ L313F 
+ SEQ ID NOS: 25, 26 
+ 
+ 
+   
+   
+ L313S 
+ SEQ ID NOS: 27, 28 
+ 
+ 
+   
+   
+ L313Y 
+ SEQ ID NOS: 29, 30 
+ 
+ 
+   
+   
+ L313C 
+ SEQ ID NOS: 31, 32 
+ 
+ 
+   
+   
+ L313P 
+ SEQ ID NOS: 33, 34 
+ 
+ 
+   
+   
+ L313H 
+ SEQ ID NOS: 35, 36 
+ 
+ 
+   
+   
+ L313Q 
+ SEQ ID NOS: 37, 38 
+ 
+ 
+   
+   
+ L313I 
+ SEQ ID NOS: 39, 40 
+ 
+ 
+   
+   
+ L313T 
+ SEQ ID NOS: 41, 42 
+ 
+ 
+   
+   
+ L313N 
+ SEQ ID NOS: 43, 44 
+ 
+ 
+   
+   
+ L313K 
+ SEQ ID NOS: 45, 46 
+ 
+ 
+   
+   
+ L313V 
+ SEQ ID NOS: 47, 48 
+ 
+ 
+   
+   
+ L313A 
+ SEQ ID NOS: 49, 50 
+ 
+ 
+   
+   
+ L313D 
+ SEQ ID NOS: 51, 52 
+ 
+ 
+   
+   
+ L313E 
+ SEQ ID NOS: 53, 54 
+ 
+ 
+   
+   
+ L313G 
+ SEQ ID NOS: 55, 56 
+ 
+ 
+   
+   
+ L313W 
+ SEQ ID NOS: 57, 58 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ Specifically, the primers suggested in Table 2 and a site-directed mutagenesis kit (Stratagene, USA) were used to prepare variant metX genes. Each of the prepared variant plasmids was introduced into WTΔmetBΔmetY, lysC(T311I) strain, and a flask test was performed in the same manner as in Example 4. The results are shown in the following Table 8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 8 
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ O-acetyl homoserine 
+ O-succinyl homoserine 
+ 
+ 
+   
+   
+ (g/L) 
+ (g/L) 
+ 
+ 
+ 
+ 
+   
+ Mutation 
+ Batch 
+ Batch 
+ Batch 
+ Batch 
+ Batch 
+ Batch 
+ 
+ 
+ Strain 
+ site 
+ 1 
+ 2 
+ 3 
+ 1 
+ 2 
+ 3 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+   
+ 2.0 
+ 2.2 
+ 2.1 
+ 0.01 
+ 0.03 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313R 
+ 0.05 
+ 0.06 
+ 0.04 
+ 1.2 
+ 1.1 
+ 1.0 
+ 
+ 
+ pECCG117-metXWT_L313R 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 59 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313F 
+ 2.0 
+ 2.3 
+ 2.0 
+ 0.02 
+ 0.01 
+ 0.02 
+ 
+ 
+ pECCG117-metX WT_L313FSEQ 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ ID NO: 61 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313S 
+ 2.0 
+ 1.9 
+ 2.4 
+ 0.00 
+ 0.01 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313S 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 63 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313Y 
+ 2.2 
+ 2.3 
+ 1.8 
+ 0.03 
+ 0.01 
+ 0.03 
+ 
+ 
+ pECCG117-metXWT_L313Y 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 65 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313C 
+ 1.3 
+ 1.2 
+ 1.0 
+ 0.7 
+ 0.5 
+ 0.4 
+ 
+ 
+ pECCG117-metXWT_L313C 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 67 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313P 
+ 1.6 
+ 1.5 
+ 1.8 
+ 0.02 
+ 0.02 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313P 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 69 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313H 
+ 1.3 
+ 1.5 
+ 1.6 
+ 0.03 
+ 0.01 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313H 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 71 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313Q 
+ 1.5 
+ 1.9 
+ 2.0 
+ 0.01 
+ 0.02 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313Q 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 73 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313I 
+ 2.0 
+ 2.1 
+ 2.2 
+ 0.6 
+ 0.5 
+ 0.5 
+ 
+ 
+ pECCG117-metXWT_L313I 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 75 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313T 
+ 1.7 
+ 2.0 
+ 1.8 
+ 0.02 
+ 0.02 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313T 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 77 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313N 
+ 1.9 
+ 2.2 
+ 2.1 
+ 0.01 
+ 0.00 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313N 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 79 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313K 
+ 1.2 
+ 1.4 
+ 1.0 
+ 0.9 
+ 0.7 
+ 0.8 
+ 
+ 
+ pECCG117-metXWT_L313K 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 81 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313V 
+ 1.9 
+ 1.5 
+ 1.8 
+ 0.02 
+ 0.03 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313V 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 83 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313A 
+ 2.1 
+ 1.8 
+ 2.0 
+ 0.01 
+ 0.01 
+ 0.04 
+ 
+ 
+ pECCG117-metXWT_L313A 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 85 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313D 
+ 2.0 
+ 2.2 
+ 1.8 
+ 0.02 
+ 0.02 
+ 0.03 
+ 
+ 
+ pECCG117-metXWT_L313D 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 87 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313E 
+ 2.1 
+ 2.2 
+ 1.9 
+ 0.03 
+ 0.01 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313E 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 89 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313G 
+ 2.3 
+ 2.1 
+ 2.1 
+ 0.04 
+ 0.02 
+ 0.01 
+ 
+ 
+ pECCG117-metXWT_L313G 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 91 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ WTΔmetBΔmetY, lysC(T311I)/ 
+ L313W 
+ 2.0 
+ 1.6 
+ 1.9 
+ 0.02 
+ 0.03 
+ 0.04 
+ 
+ 
+ pECCG117-metXWT_L313W 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ SEQ ID NO: 93 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Referring to Table 3, it was confirmed that most variants did not produce O-succinyl homoserine, whereas the variant (L313R), (L313C), (L313I), or (L313K) having the amino acid variation at position 313 of metX produced O-succinyl homoserine at higher levels than the wild-type, respectively. In other words, when the amino acid at position 313 of the amino acid sequence of SEQ ID NO: 1 is substituted with arginine, cysteine, isoleucine, or lysine, substrate specificity for succinyl CoA may be provided, and as a result, O-succinyl homoserine may be produced. 
+ Taken together, the results suggest that the variants of the present disclosure may increase production of O-succinyl homoserine. 
+ Based on the above description, it will be understood by those skilled in the art that the present disclosure may be implemented in a different specific form without changing the technical spirit or essential characteristics thereof. Therefore, it should be understood that the above embodiment is not limitative, but illustrative in all aspects. The scope of the disclosure is defined by the appended claims rather than by the description preceding them, and therefore all changes and modifications that fall within metes and bounds of the claims, or equivalents of such metes and bounds are therefore intended to be embraced by the claims. 
+ [Deposit Number] 
+ Deposit Authority: Korean Culture Center of Microorganisms 
+ Accession Number: KCCM12023P 
+ Date of Deposit: May 11, 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

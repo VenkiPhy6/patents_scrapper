@@ -1,0 +1,393 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  SCREENING METHODS BASED ON TRANSCRIPTIONAL REGULATION ANALYSIS SYSTEM USING TRANSFORMED CELL LINES 
+ BACKGROUND OF THE INVENTION FIELD OF THE INVENTION 
+ The present invention relates to screening methods for evaluating the activity of transcription factors or promoters using transformed cell lines. More particularly, the present invention relates to (a) screening methods for detection of substances affecting transcription activity by use of transformed cell lines, which leads to cell- based data with little artificial effects, (b) cell lines for performing the screening methods, and (c) screening methods for leading compounds for new drug. 
+ DESCRIPTION OF THE RELATED ART 
+ Hitherto, the investigation on the transcriptional regulation of a gene expression is generally performed in such a manner that a transcriptional regulatory region to be assayed is cloned into a locus upstream of a structural gene, which serves as reporter gene, such as luciferase and chloramphenicol acetyltransferase genes. Then, the activity of the transcriptional regulation region is measured using a transient transfection assay. The conventional method provides background informations on the regulation mechanism of the expression of many genes. Also, the conventional method has been widely used on 
+
+biological systems by providing the valuable patterns of induction or inhibition of gene expression. 
+ The transient transfection assay shows advantages such as facility and shorter time required for performing the assay; however, the assay needs many artificial handling steps relatively, which leads to artificial effects. The artificial effects render the assay unreliable. Therefore, a lot of investigators are under the study in order to overcome the foregoing shortcomings associated with the assay (see Sambrook J. et al . , Molecular Cloning: a laboratory manual , 2nd ed. , Cold Spring Harbor Laboratory Press, Cold Spring Harbo (1989) ; Villarreal, LP . and Soo, NJ., -J. Mol . Appl . Genet . , 3:62-71(1985); Seidman M. , Mutat . Res . , 220 (2-3) : 55-60 (1989) ; Howcroft TK. et al . , Anal . Biochem . , 244 : 22-27 (1997) ; Bilbao, G. et al . , FASEB J. , 11:624-634(1997); Johnson, LG. et al . , J. Virol . , 72:8861-8872(1998); Davis, RE. et al . , Proc . Natl . Acad . Sci . USA . , 96:8687-8692(1999); Yonemitsu, Y. et al . , Nat . Biotechnol . , 18:970-973(2000)). The efficiency of transfection is usually shown to be different in each experiment, depending on transfection method, a quality and an amount of DΝA to be introduced for transfection, and an amount of cell to be transfected, thereby giving rise to different results. Therefore, considering in vivo circumstance including cell-, tissue- and individual-level, it is necessary to develop the advanced methods . 
+
+ In order to complement or modify the results obtained from the transient transfection method, RT-PCR or northern hybridization assay has been alternatively proposed. However, both RT-PCR and northern hybridization assay have a fatal shortcoming: the longer time is required for carrying out the assay. 
+ U.S. Pat No. 5,976,793 discloses a method of transcriptionally modulating the expression of a gene-of- interest and a method of discovering chemicals capable as gene expression modulators. U.S. Pat No. 5,747,338 discloses a method and a construct for screening for inhibitors of transcriptional activators. 
+ Consequently, there is a need of a novel method to overcome the shortcomings of the conventional methods, the transient transfection assay, RT-PCR and northern hybridization assay, while adopting the advantages of the conventional methods . 
+ Meanwhile, advances in both genomics and combinatorial chemistry have generated an increasing number of new targets and a large number of compound libraries, which make needs for a higher rate of screening as well as an increase in the information content per screen. High- Throughput Screening (HTS) is an efficient method to discover novel and active chemical entities, so many pharmaceutical and biotechnology companies adopt this strategy for drug discovery. 
+
+ Drug discovery and development is a process of managing failures and costs. Almost 90% of compounds for which an IND is filed fail prior to achieving an approved NDA. The cost for developing a new drug is estimated at $350-500 million and over 85% of this cost is due to the expense of preclinical and clinical trials, which means that these failures represent the majority of the cost incurred in drug discovery and development. The roles which absorption, distribution, metabolism, and excretion (ADME) play in causing these failures are significant, and one estimate found that approximately 50% of failures in preclinical and clinical trials are due to ADME deficiencies. 
+ Therefore, there is a long-felt need to develop novel high throughput screening systems for measuring safety and ADME with speed and accuracy, thereby reducing dramatically the cost and the time for developing, in particular, in preclinical and clinical trials. 
+ Throughout this application, various patents and publications are referenced and citations are provided in parentheses. The disclosure of these patents and publications in their entities are hereby incorporated by references into this application in order to more fully describe this invention and the state of the art to which this invention pertains. 
+
+SUMMARY OF THE INVENTION 
+ In one aspect of this invention, there is provided a method for screening substances affecting transcription activity associated with promoter, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with a sample to be assayed, in which the reporter vector carries an eukaryotic replication origin, the promoter and a reporter gene being located downstream of the promoter; and (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector. 
+ In another aspect of this invention, there is provided a method for screening substances affecting transcription activity associated with enhancer, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with a sample to be assayed, in which the reporter vector carries an eukaryotic replication origin, a promoter, the enhancer being located upstream of the promoter and a reporter gene being located downstream of the promoter; and (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector. 
+ In still another aspect of this invention, there is provided a method for screening substances affecting transcription activity associated with cis-element, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector 
+
+with a sample to be assayed; in which the reporter vector carries an eukaryotic replication origin, a promoter, the cis-element being located upstream of the promoter and a reporter gene being located downstream of the promoter; and (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector. 
+ In further aspect of this invention, there is provided a method for detecting dioxin-like compounds in sample, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with the sample to be assayed; in which the reporter vector carries an eukaryotic replication origin, a minimal promoter lacking enhancer region, XRE being located upstream of the promoter and a reporter gene being located downstream of the promoter; and (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector. 
+ In still further aspect of this invention, there is provided a method for screening in vivo antagonists to dioxin-like compounds, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with the dioxin-like compound and a sample to be assayed; in which the reporter vector carries an eukaryotic replication origin, a minimal promoter lacking enhancer region, XRE being located upstream of the promoter and a reporter gene being located downstream of the promoter; and (b) measuring an activity 
+
+or a quantity of protein encoded by the reporter gene on the reporter vector. 
+ In another aspect of this invention, there is provided a TRAS-enhancer reporter vector, which comprises (a) a reporter gene, (b) an eukaryotic replication origin, (c) a polyadenylation signal sequence, (d) a gene for resistance to antibiotics affecting eukaryotic cells as selection marker, (e) an eukaryotic minimal promoter being located upstream of the reporter gene, and (f) a cloning site for receiving a transcriptional regulation sequence being a binding site of an enhancer to be analyzed, in which the cloning site is a multiple cloning site having at least 2 restriction sites and is located upstream of the eukaryotic minimal promoter. In still another aspect of this invention, there is provided a TRAS-TF reporter vector, which comprises (a) a reporter gene, (b) an eukaryotic replication origin, (c) a polyadenylation signal sequence, (d) a gene for resistance to antibiotics affecting eukaryotic cells as selection marker, (e) an eukaryotic minimal promoter being located upstream of the reporter gene, and (f) a cis-element being located upstream of the eukaryotic minimal promoter. 
+ In further aspect of this invention, there is provided an eukaryotic cell line transfected stably with the vector of this invention and showing a similar growth pattern to that of cancer cell, in which the cell line is useful for the method for screening substances affecting 
+
+transcription activity associated. 
+ In still further aspect of this invention, there is provided a method for screening leading compounds of new 
+   *  drug, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with a sample to be assayed so that the efficacy of the sample affecting transcriptional activity of target sequence is evaluated, in which the reporter vector carries an eukaryotic replication origin, a promoter and a reporter gene being located downstream of the promoter; (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector so that the sample can be evaluated in terms of pharmacological efficacy; (c) treating medium containing eukaryotic cells with the sample, in which the cell is one designed to be employed in a preliminary test prior to preclinical trials and transfected stably with a reporter vector carrying a reporter gene, and in which the preliminary test evaluates the sample in terms of one or more selected from the group consisting of a toxicity, an adverse effect associated with sex hormone, a metabolic stability and an intestinal absorption; and (d) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector of (c) . In another aspect of this invention, there is provided a method for screening leading compounds of new drug, which comprises the steps of: (a) treating medium containing 
+
+eukaryotic cells transfected stably with a reporter vector with a sample to be assayed so that the efficacy of the sample affecting transcriptional activity of target sequence is evaluated, in which the reporter vector carries an eukaryotic replication origin, a promoter, an enhancer being located upstream of the promoter and a reporter gene being located downstream of the promoter; (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector so that the sample can be evaluated in terms of pharmacological efficacy; (c) treating medium containing eukaryotic cells with the sample, in which the cell is one designed to be employed in a preliminary test prior to preclinical trials and transfected stably with a reporter vector carrying a reporter gene, and in which the preliminary test evaluates the sample in terms of one or more selected from the group consisting of a toxicity, an adverse effect associated with sex hormone, a metabolic stability and an intestinal absorption; and (d) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector of (c) . 
+ In still another aspect of this invention, there is provided a method for screening leading compounds of new drug, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with a sample to be assayed so that the efficacy of the sample affecting transcriptional activity 
+
+of target sequence is evaluated, in which the reporter vector carries an eukaryotic replication origin, a promoter, a cis-element being located upstream of the promoter and a reporter gene being located downstream of the promoter; (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector so that the sample can be evaluated in terms of pharmacological efficacy; (c) treating medium containing eukaryotic cells with the sample, in which the cell is one designed to be employed in a preliminary test prior to preclinical trials and transfected stably with a reporter vector carrying a reporter gene, and in which the preliminary test evaluates the sample in terms of one or more selected from the group consisting of a toxicity, an adverse effect associated with sex hormone, a metabolic stability and an intestinal absorption; and (d) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector of (c) . 
+ In further aspect of this invention, there is provided a method for screening leading compounds for new drug serving as in vivo antagonist to dioxin-like compounds, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with the dioxin-like compound and a sample to be assayed; in which the reporter vector carries an eukaryotic replication origin, a minimal promoter lacking enhancer region, XRE being located upstream of the 
+
+promoter and a reporter gene being located downstream of the promoter; (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector so that the sample can be evaluated in terms of pharmacological efficacy; (c) treating medium containing eukaryotic cells with the sample, in which the cell is one designed to be employed in a preliminary test prior to preclinical trials and transfected stably with a reporter vector carrying a reporter gene, and in which the preliminary test evaluates the sample in terms of one or more selected from the group consisting of a toxicity, an adverse effect associated with sex hormone, a metabolic stability and an intestinal absorption; and (d) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector of (c) . 
+ In still further aspect of this invention, there is provided a pharmaceutical composition treating or preventing disease or disorder caused by dioxin-like compounds, in which the pharmaceutical composition is obtained from the method for screening leading compounds for new drug serving as in vivo antagonist to dioxin-like compounds . 
+ Accordingly, it is an object of this invention to provide a method for screening substances affecting transcription activity. 
+ It is another object of this invention to provide a 
+
+method for detecting dioxin-like compounds in sample. 
+ It is still another object of this invention to provide a method for screening in vivo antagonists to dioxin-like compounds . It is further object of this invention to provide a TRAS-enhancer reporter vector. 
+ It is still further object of this invention to provide a TRAS-TF reporter vector. 
+ It is another object of this invention to provide an eukaryotic cell line transfected stably with the vector of this invention. 
+ It is still another object of this invention to provide a method for screening leading compounds of new drug. 
+ It is further object of this invention to provide a method for screening leading compounds for new drug serving as in vivo antagonist to dioxin-like compounds. 
+ It is still further object of this invention to provide a pharmaceutical composition treating or preventing disease or disorder caused by dioxin-like compounds. 
+ Other objects and advantages of the present invention will become apparent from the detailed description to follow taken in conjugation with the appended claims and drawings . 
+ BRIEF DESCRIPTION OF THE DRAWINGS 
+ Fig. 1 is a genetic map of TRAR-Promoter-Basic vector; 
+
+ Fig. 2 is a genetic map of TRAR-Enhancer-Basic vector; Fig. 3 is a genetic map of TRAR-XRE vector; Fig. 4 is a photograph showing PCR product demonstrating cell lines transfected with TRAS-XRE; Fig. 5 is a graph showing the activity of luciferase from cell lines transfected with TRAS-XRE; 
+ Fig. 6 is a graph showing the alteration of the luciferse activity after dioxin treatment in cell lines transfected with TRAS-XRE; Fig. 7 is a graph showing the results obtained from the present method for screening antagonists to dioxin with cell lines transfected with TRAS-XRE; 
+ Fig. 8 is a graph showing the possibility on quantitative analysis of substances affecting activity of transcription factor; 
+ Figs. 9a and 9b are graphs representing analysis of substances affecting the activity of transcription factor to bind to NFKB response element using TRAS-NFKB HepG2 of this invention; Figs. 10a and 10b are graphs showing analysis of substances affecting the activity of transcription factor to bind to p53 response element using TRAS-p53 RE HepG2 of this invention; 
+ Fig. 11 is a graph showing analysis of substances affecting the activity of promoter of SOD gene using TRAS- SOD Promoter HepG2 of this invention; 
+ Fig. 12 is a graph showing the evaluation on intestinal 
+
+absorption using TRAS-XRE Caco-2 of this invention; 
+ Fig. 13 is a graph representing the results of screening of antagonist to TCDD in terms of pharmacological efficacy and toxicity according to this invention; 
+ Fig. 14 is a graph representing the results of screening of antagonist to TCDD in terms of intestinal absorption; and 
+ Fig. 15 is a graph showing the results of screening of antagonist to TCDD in terms of metabolic stability. 
+ DETAILED DESCRIPTION OF THIS INVENTION 
+ The present invention, in principle, directs to a novel system for evaluating the transcription activity in eukaryotes, which is capable of providing cell-based results with little artificial effects and obtaining the results with rapidity. 
+ For the purpose of providing the novel system, we have first constructed several reporter vectors, designated as Transcriptional Regulation Analysis System (hereinafter referred to as "TRAS") . 
+ According to the present methods, it is indispensable to employ eukaryotic cell lines transfected stably with the report vector designed for accomplishing the purpose of this invention. The term used herein "transfected stably" refers to that the transfected reporter vector is integrated into host chromosome and becomes a stable part of the genetic repertoire of host cell, thereby permitting 
+
+stable expression of genes on the transfected reporter vector for at least 30 generations. Therefore, the term "cells transfected stably" has the same meaning as other analogous terms such as "stable expressing tranfectants" and "stable transfectants . " 
+ Also, it is necessary for this invention that the employed eukaryotic cells be established, showing a growth pattern similar to cancer cell, that is to say, with no contact-inhibition. 
+ I. Screening Methods for Detection of Substances Affecting Transcription activity Based on Transcriptional Regulation 
+ Analysis System 
+ The reporter gene on the vector of this invention functions as an indicator of transcription activity to be determined. The activity or the amount of the reporter protein is depended on the transcription activity controlling the expression of the reporter gene. In preferred embodiments, the reporter gene includes, but not limited to, genes encoding luciferase, chlroamphenicol acetyltransferase, β-galactosidase, human growth hormone, green fluorescent protein and secreted placental alkaline phosphatase. Most preferably, the luciferase gene is used in light of facility and sensitivity of assay for activity. The methods for determining the activity of the reporters are well known to one skilled in the art: luciferase (de Wet J. et al, Mol . Cell Biol . , 7:725- 
+
+737(1987)), chlroamphenicol acetyltransferase (Gorman C. et al, Mol . Cell Biol . , 2:1044-1051(1982)), β- galactosidase (Hall C.V. et al , J " . Mol . Appl . Genet . , 2:101-109(1983)), human growth hormone (Selden R. et al . , Mol . Cell Biol . , 6:3173-3179(1986)), green fluorescent protein (Chalfie M. et al, Science, 263:802-805(1994)), and secreted placental alkaline phosphatase (Berger, J. et al, Gene, 66:1-10 (1988)). 
+ In preferred embodiments, the eukaryotic replication origin includes, but not limited to, fl replication origin, SV40 replication origin and pMBl replicon. 
+ Meanwhile, in a method for screening substances affecting transcription activity associated with promoter, non-limiting example of the promoter includes promoter of p53 gene, promoter of SOD1 gene, promoter of catalase gene and pregenome promoter of HBV (Reisman D. et al . , Proc . Natl . Acad. Sci . USA, 85:5146-5150(1988); Yoo JH. et al . , J " . Clin . Invest . , 93:297-302(1994); Mine E. et al . , J. Biol . Chem . , 274:503-509(1999); Chang MS. et al . , Phytother. Res . , 13:641-644(1999); and Choi BH. et al . , J " . Biol . Chem . , 274:2858-2865(1999)). 
+ The term "promoter" inserted into TRAS vector refers to a region spanning all transcription regulatory sequences involved in transcription, which is intended to encompass broader meaning than commonly understood by one of ordinary skill in the art to which this invention belongs. 
+
+For example, the promoter includes sequences necessary to form transcription initiation complex and other transcription regulatory sequences such as enhancer. 
+ The term "enhancer" used herein has the same meaning as commonly understood by one skilled in the art. 
+ By the term "cis-element" inserted into TRAS vector, it is meant a regulatory sequence unit bound to a particular transcription factor, which is capable of regulating (increasing or decreasing) transcription activity. 
+ In a method for screening substances affecting transcription activity associated with enhancer or cis- element, the promoter located on the vector acts as heterologous promoter, preference of which has compact base sequence because those are respond to a specific transcription factor. The heterologous promoter includes, but not limited to, minimal promoter lacking enhancer region, SV 40 promoter and tk promoter of HSV. 
+ More preferably, the promoter is the minimal promoter lacking enhancer region, for example, derived from cytomegalo virus . It is the most preferred that the minimal promoter consists of the nucleotide sequence of SEQ ID NO:l. By "minimal promoter" is meant a promoter consisting essentially of minimal sequence necessary to form a transcription initiation complex. Therefore, the minimal promoter is free of other regulatory sequences such as enhancer. 
+
+ According to the most preferred embodiments, using the minimal promoter with no enhancer region, the level of the transcription activity of reporter gene is determined solely by the activity of enhancer or cis-element adjacent upstream of the minimal promoter. Thus, the method of this invention ensures the analysis of the sole effect of the enhancer or cis-element to be tested, while completely removing the effect of other factors affecting transcription activity. In this context, the method of this invention provides an analysis system for screening substances solely affecting transcription activity which is specifically determined by the effect of enhancer or cis-element . 
+ Accordingly, in the most preferred embodiments, this invention provides a method for screening substances affecting transcription activity associated with enhancer, which comprises the steps of: (a) treating medium containing mammalian tumor cell lines transfected stably with a reporter vector with a sample to be assayed; in which the reporter vector carries an eukaryotic replication origin, a minimal promoter derived from cytomegalo virus, the enhancer being located upstream of the minimal promoter and a luciferase gene being located downstream of the promoter; and (b) measuring an activity or a quantity of luciferase expressed. 
+ In the most preferred embodiments, this invention provides a method for screening substances affecting 
+
+transcription activity associated with cis-element, which comprises the steps of: (a) treating medium containing eukaryotic cells transfected stably with a reporter vector with a sample to be assayed; in which the reporter vector carries an eukaryotic replication origin, a minimal promoter derived from cytomegalo virus, the cis-element being located upstream of the promoter and a luciferase gene being located downstream of the promoter; and (b) measuring an activity or a quantity of protein encoded by the reporter gene on the reporter vector. 
+ In a method for screening substances affecting transcription activity associated with enhancer, the enhancer includes, but not limited to SV40 enhancer, HIV Long Terminal Repeat, HBV enhancer and a individual enhancer of viral and cellualr promoters. 
+ In a method for screening substances affecting transcription activity associated with cis-element, the cis-element includes NFKB (nuclear factor KB binding site) , PPRE (peroxisome proliferator response element) , HRE 
+ (hydrogen peroxide response element) , MRE (metal response element) , XRE (xenobiotic response element) , PRE 
+ (progesterone response element) , HSE (heat shock response element) , Spl (Spl binding site) , API (API binding site) , AP2 (AP2 binding site) and p53 (p53 binding site) , but not limited to (Zabel U. et al., J " . Biol . Chem . , 266:252- 
+ 260(1991); Jones NC. et al, Genes Dev. , 2:267-281 (1988); 
+
+Latch an DS . Eukaryotic transcription factors . Academic Press, London; La Thangue NB. and Rigby PWJ. Trans-acting protein factors and the regulation of eukaryotic transcription . In transcription and Splicing, B. D. Hames and D. Glover (eds) , 3-42. IRL Press, Oxford.; Latchman D. Gene Regulation: A eukaryotic perspective 2nd ed. Chapman & Hall, London (1995)). 
+ II. Methods for Detecting Dioxin-like Compounds and for Screening in vivo Antagonists to Dioxin-like Compounds 
+ These methods are practical applications in which the concept of the present invention as described above is also adopted. Therefore, the common descriptions of both I and II are abbreviated in order to avoid the complexity of this specification leading to undue multiplicity. 
+ The term "Dioxin-like compounds" used herein means all compounds that belong to not only PCDD (polychlorinated dibenzodioxin) but also PCDFs (polychlorinated dibenzofurans) and PCBs (polychlorinated biphenyl family) which exhibit the same cellular effects to PCDD. 
+ It is known to one skilled in the art that XRE is a transcriptional regulatory sequence bound specifically to certain receptor. The receptor is elucidated as one of mediators in signal transduction cascade triggered by endocrine disruptor such as dioxin-like compounds (FujisaWa-Sehara A. et al . , Nucleic Acids Res . , 15:4179- 
+
+4191(1987); and Denison MS. et al . , J " , Biol . Chem . , 263:17221-17224 (1988) ) . 
+ The XRE derived from SOD gene is employed according to the most preferable embodiment, the XRE comprises the nucleotide sequence of SEQ ID NO : 2 . 
+ It is noted that the term "XRE" used herein is distinctly different from DRE (dioxin responsive element) . XRE sequence used in this invention is specific for the dioxin-Ah receptor ccomplex mediating gene expression while the DRE region includes the sequences for various binding sites of transcription factor in addition to dioxin-Ah receptor ccomplex binding site . 
+ In the preferred embodiment of this invention, the XRE on the reporter vector comprises at least 2 -repeated XRE sequences, more preferably, at least 3 -repeated XRE sequences. Preferably, the repeated XRE sequences are contiguous. In fact, the contiguous XRE sequences cannot be found in nature and thus is available through artificial DΝA synthesis. Selection of such XRE sequences and minimal promoter is responsible for a strikingly specific analysis of transcription activity varied depending solely on the activity of XRE. 
+ Michael S. Denison et al . , disclose a bioassay for detecting 2 , 3 , 7 , 8-tetrachlorodibenzo-para-dioxin and TCDD- like compounds (U.S. Pat. No. 5,854,010). The bioassay uses the DREs, which is prepared from 484 -bp fragment isolated from the 5' -flanking region of the mouse 
+
+cytochrome P4501A1 gene. 
+ However, the 484-bp fragment contains not only four DREs but also other several transcriptional regulatory sequences, as easily recognized by one skilled in the art. Further to this, the bioassay of Denison et al . employs 1330-bp MMTV fragment as promoter, which contains not only promoter but also other a variety of transcriptional regulatory sequences, also as understood by one skilled in the art . Thus, the bioassay measures the transcription activity resulted from DRE activity plus a large majority of other transcriptional regulatory sequences, which renders it unreliable. In this regard, the bioassay of Denison et al . cannot expect an accurate analysis on substances affecting DRE activity. 
+ Different from the bioassay of Denison et al . , the method of this invention, in order to analyze the effect of solely XRE activity, employs the minimal promoter lacking enhancer and the synthesized XRE not containing other sequences . 
+ According to the most preferable embodiment of this invention, there is provided a method for detecting dioxin-like compounds in sample, which comprises the steps of: (a) treating medium containing mammalian tumor cell lines transfected stably with a reporter vector with the sample to be assayed; in which the reporter vector carries 
+
+an eukaryotic replication origin, a minimal promoter lacking enhancer region derived from cytomegalo virus, at least 2-repeated XRE sequences being located upstream of the promoter and a luciferase gene being located downstream of the promoter; and (b) measuring an activity or a quantity of luciferase expressed. 
+ According to the most preferable embodiment, this invention provides a method for screening in vivo antagonists to dioxin-like compounds, which comprises the steps of: (a) treating medium containing mammalian tumor cell lines transfected stably with a reporter vector with the dioxin-like compound and a sample to be assayed; in which the reporter vector carries an eukaryotic replication origin, a minimal promoter lacking enhancer region derived from cytomegalo virus, at least 2-repeated XRE sequences being located upstream of the promoter and a luciferase gene being located downstream of the promoter; and (b) measuring an activity or a quantity of luciferase expressed. 
+ Ill . TRAS Vectors and Cell Lines 
+ The inventors have developed vectors and cell lines for carrying out the above-described methods. As a result, the vectors and cell lines of this invention shares the concept of invention with the methods. Therefore, the common descriptions of I, II and III are abbreviated in 
+
+order to avoid the complexity of this speci ication leading to undue multiplicity. 
+ The vectors constructed by the inventors are denoted as "TRAS." TRAS is an abbreviated term for "Transcriptional Regulation Analysis System" as described above. 
+ The TRAS-promoter reporter vector of this invention is designed for analysis of transcription activity associated with promoter. The TRAS-promoter reporter vector comprises 
+ (a) a reporter gene, (b) an eukaryotic replication origin, (c) a polyadenylation signal sequence, (d) a gene for resistance to antibiotics affecting eukaryotic cells as selection marker, and (e) a cloning site for receiving a heterologous promoter to be analyzed, in which the cloning site has restriction site and is located upstream of the reporter gene. 
+ The cloning site is preferably a multiple cloning site having at least 2 restriction sites. The multiple cloning site, for example, has a base sequence of SEQ ID NO : 3. 
+ The TRAS-promoter reporter vector is exemplified by a genetic map in Fig. 1. 
+ The TRAS-enhancer reporter vector of this invention is designed for preparing the TRAS-TF vector for the analysis of transcription activity associated with transcription factor binding to enhancer. 
+ The TRAS-enhancer reporter vector is exemplified by a genetic map in Fig. 2. 
+
+ The TRAS-TF reporter vector of this invention is designed for preparing the TRAS-TF vector for the analysis of transcription activity associated with transcription factor binding to enhancer. 
+ The TRAS-TF vector of this invention containing XRE is exemplified by a genetic map represented by Fig. 3. 
+ According to the most preferable embodiment, this invention provides a TRAS-enhancer reporter vector, which comprises (a) a luciferase gene, (b) an eukaryotic replication origin, (c) a polyadenylation signal sequence, 
+ (d) a gene for resistance to antibiotics affecting eukaryotic cells as selection marker, (e) an eukaryotic minimal promoter lacking enhancer regions derived from cytomegal virus and being located upstream of the reporter gene, and (f) a cloning site for receiving a transcriptional regulation sequence being a binding site of a transcription factor to be analyzed, in which the cloning site is a multiple cloning site having at least 2 restriction sites and is located upstream of the eukaryotic minimal promoter. 
+ According to the most preferable embodiment of this invention, there is provided a TRAS-TF reporter vector, which comprises (a) a luciferase gene, (b) an eukaryotic replication origin, (c) a polyadenylation signal sequence, 
+
+ (d) a gene for resistance to antibiotics affecting eukaryotic cells as selection marker, (e) an eukaryotic minimal promoter derived from cytomegal virus and being located upstream of the reporter gene, and (f) a binding site of a eukaryotic transcription factor being located upstream of the eukaryotic promoter. 
+ In the most preferred embodiment, this invention provides a TRAS-XRE reporter vector, which comprises (a) a luciferase gene, (b) an eukaryotic replication origin, (c) a polyadenylation signal sequence, (d) a gene for resistance to antibiotics affecting eukaryotic cells as selection marker, (e) an eukaryotic minimal promoter derived from cytomegal virus and being located upstream of the reporter gene, and (f) at least 2 -repeated XRE sequences being located upstream of the promoter. 
+ The constructed TRAS vectors of this invention are subsequently introduced into eukaryotic cell lines for preparing assay systems of this invention described above. The host cell is generally eukaryotic cell lines, preferably animal cell lines, more preferably mammalian cell lines, most preferably human tumor cell lines such as HeLa and HepG2 cell lines. Tansfection method useful in this invention includes, but not limited to, calcium phosphate co-precipitation (Graham, F.L. et al . , Virology, 52:456(1973)), electrophoresis (Neumann, E. et al . , EMBO 
+
+J. , 1:841(1982)) and cationic liposome (Wong, T.K. et al . , Gene, 10:87 (1980) ) . 
+ The TRAS vector introduced into host cell is integrated into host chromosome through the mechanism of random recombination and becomes a stable part of the genetic repertoire of host cell . The genes contained in the vector are expressed in the same manner as genes on host chromosome . The genes originated from the vector and host are expressed upon responding to endogenous and exogenous stimulus. Thus, stably tansfected cell lines are prepared. The transfected cells with the TRAS vector are effectively selected by antibiotics resistance gene. Accordingly, by repeating selection and incubation, stably transfected cells of this invention are obtained. 
+ IV. Methods for Screening Leading Compounds for New Drug The present methods for screening leading compounds for new drug aim at enhancing hit-ratio in preclinical and clinical trials, finally reducing the cost and the time required in development of a new drug. 
+ The present methods can be classified into 3 types according to target sequences of measurement: (a) promoter, 
+ (b) enhancer and (c) cis-element. Hence, the present methods can screen leading compounds for new drug affecting transcriptional activity associated with promoter, enhancer or cis-element. 
+ In the present methods, the steps of (a) and (b) 
+
+demonstrate directly pharmacological efficacy of samples tested and the steps (c) and (d) other important effects in view of pharmacology and pharmacokinetics, which includes safety (toxicity, adverse effect associated with sex hormone, etc.), a metabolic stability and an intestinal absorption. For increasing the hit-ratio, the present methods employ eukaryotic cells designed to measure a safty such as a toxicity and an adverse effect associated with sex hormone, a '  metabolic stability and an intestinal absorption. The employed cells are also ones transfected stably with reporter vector which is the same as employed in step (a) of each method. The reporter vectors employed in the methods are constructed as described-above . According to preferred embodiment, the cell designed to evaluate the toxicity of the sample is one transfected stably with a reporter vector, in which the reporter vector carries an eukaryotic replication origin, a promoter, a reporter gene being located downstream of the promoter and a transcriptional regulatory sequence demonstrating a cell toxicity which is located upstream of the promoter. The transcriptional regulatory sequence demonstrating a cell toxicity includes, but not limited to, p53 RE (response element) , NFkB RE (response element) , ERE (estrogen response element) and various cytokine response elements. In the test using p53 RE, for example, up- regulation of or at least no influence on the activity of 
+
+the response element of p53 gene can be determined to have favorable effect to cell because p53 gene is involved in anticancer activity of cell. In addition, in the test using NFkB RE, down-regulation or at least no influence on the activity of NF B response element is also determined to exhibit favorable effect to cell because NFKB is a pivotal transcription factor mediating several stresses delivered to cell, which finally induces a wide variety of physiological phenomenon. In preferred embodiment of this invention, the cell designed to evaluate a side effect associated with sex hormone of the sample is one transfected stably with a reporter vector, in which the reporter vector carries an eukaryotic replication origin, a promoter, a reporter gene being located downstream of the promoter and a transcriptional regulatory sequence demonstrating a side effect associated with sex hormone which is located upstream of the promoter, the transcriptional regulatory sequence demonstrating a side effect associated with sex hormone includes, but not limited to, estrogen RE, progesterone RE, androgen RE and various endocrine hormone RE. 
+ In preferred embodiment of this invention, the cell designed to evaluate the metabolic stability of the sample expresses CytP 4 5o isomer enzymes and is one transfected stably with a reporter vector employed in step (a) of this method. Non-limiting examples of the CytP 450  isomer enzyme 
+
+includes CYP1A1, CYP1A2, CYP2A6, CYP2C10, CYP2C19, CYP2D6, CYP2E1 and CYP3A4. More preferably, the cell used in the test of metabolic stability is NIH3T3 cell (ATCC CRL-1658) or HepG2 cell transfected stably with a reporter vector employed in step (a) of this invention. 
+ In preferred embodiment of this invention, the reporter gene carried in vector includes, but not limited to, genes encoding luciferase, chlroamphenicol acetyltransferase, β- galactosidase, human growth hormone, green fluorescent protein and secreted placental alkaline phosphatase. It is the most preferable to use luciferase gene. 
+ In preferred embodiment, the eukaryotic replication origin includes, but not limited to, fl replication origin, SV40 replication origin and pMBl replicon. In a method for screening leading compounds for new drug affecting transcriptional activity associated with promoter, non-limiting example of the promoter includes promoter of p53 gene, promoter of SOD1 gene, promoter of catalase gene and pregenome promoter of HBV. In a method for screening leading compounds for new drug affecting transcriptional activity associated with enhancer or cis-element, the promoter, which is preferably heterologous promoter, includes the minimal promoter lacking enhancer region, SV 40 promoter and tk promoter of HSV. More preferably, the minimal promoter lacking enhancer region is derived from cytomegalo virus. It is the most preferred that the minimal promoter consists of 
+
+the nucleotide sequence of SEQ ID NO:l. 
+ In a method for screening leading compounds for new drug affecting transcriptional activity associated with enhancer, the enhancer includes, but not limited to, SV40 enhancer, HIV Long Terminal Repeat, HBV enhancer and a individual enhancer of viral and cellualr promoters. 
+ In a method for screening leading compounds for new drug affecting transcriptional activity associated with cis- element, the cis-element includes NFKB binding site, PPRE, HRE, MRE, XRE, PRE, HSE, Spl binding site, API binding site, AP2 binding site and p53 binding site, but not limited to. 
+ In preferred embodiment of this invention, the eukaryotic cells employed in step (a) are cells derived from mammalian tumor cell lines. 
+ According to preferred embodiment, the cell designed to evaluate the intestinal absorption of the sample is one derived from human intestine or colon and transfected stably with the reporter vector employed in step (a) . More preferably, the cell designed to evaluate the intestinal absorption of the sample is Caco-2 cell (ATCC CRL-2102) or IEC-18 cell (Korean Cell Line Bank 21589) transfected stably with the reporter vector employed in step (a) of this method. In this invention, the tests to evaluate some pharmacological and pharmakinetical factors of sample may be performed in accordance with the following procedure: 
+
+ (a) test for pharmacological efficacy; (b) test for toxicity; (c) test for metabolic stability; and (d) test for intestinal absorption. According to the specific example of this invention, the samples to be assayed are firstly evaluated as to pharmacological efficacy and then the selected samples showing significant pharmacological efficacy are evaluated as to toxicity, metabolic stability and/or intestinal absorption. Finally, the sample representing the desired results in all tests are selected in order to use as leading compounds tested in preclinical or clinical trials. 
+ This method is a practical application in which the concept of the present invention as described above is also adopted. Therefore, the similar descriptions to or the same descriptions as described in I, II and III are abbreviated in order to avoid the complexity of this specification leading to undue multiplicity. 
+ As describe above, the present method for screening leading compounds for new drug, provides a high throughput assay systems enabling to screen a large variety of candidates for new drug with accuracy and rapidity. It is noted that the present method raises hit-ratio of leading compounds, so that it can reduce dramatically the cost and the time required in preclinical or clinical trials. Furthermore, the present method may be employed as animal model alternatives in preclinical trials. 
+
+ V. Method for Screening Leading Compounds for New Drug Serving as in vivo Antagonist to Dioxin-like Compounds 
+ The present method is a combination of the method for screening in vivo antagonists to dioxin-like compounds described in II and the method for screening leading compounds for new drug described in IV. Therefore, the common description between them are abbreviated in order to avoid the complexity of this specification leading to undue multiplicity. It is generally recognized that the preferred or specific embodiment of this method can be fully described on the basis of the descriptions of the methods of II and IV. 
+ V . Pharmaceutical Composition Treating or Preventing Disease or Disorder Caused by Dioxin-Like Compounds 
+ The pharmaceutical composition of this invention is effective in treating or preventing disease or disorder caused by dioxin-like compounds. The pharmaceutical composition of this invention exhibits its pharmacological efficacy through inhibiting signal transduction in cell mediated by XRE. The diseases or disorders caused by dioxin-like compounds includes endocrine disruption, decrease of the number of sperm, decrease of weight of testis, cancer such as endometriosis, breast cancer, testis cancer and prostate cancer, malformation of sexual organ, decrease of immune function, hypospadia, etc. 
+
+ In the pharmaceutical compositions of this invention, the active ingredient is an extract of oriental pharmaceuticals, which includes Angelica gigas Nakai , 
+ Lycii Fructus, Aurantii Immaturi Pericarpium and Aurantii Nobilis Pericarpium. 
+ In the pharmaceutical compositions of this invention, the pharmaceutically acceptable carrier may be conventional one for formulation, including lactose, dextrose, sucrose, sorbitol, mannitol, starch, gum acacia, calcium phosphate, alginate, gelatin, calcium silicate, microcrystalline cellulose, polyvinylpyrrolidone, cellulose, water, syrup, methyl cellulose, methylhydroxy benzoate, propylhydroxy benzoate, talc, stearic acid, magnesium and mineral oil, but not limited to. The pharmaceutical compositions of this invention, further may contain wetting agent, sweetening agent, emulsifying agent, suspending agent, preservatives, flavors, perfumes, lubricating agent, or mixtures of these substances. 
+ The pharmaceutical compositions of this invention, may be administered orally or parenterally. 
+ The correct dosage of the pharmaceutical compositions of this invention will vary according to the particular formulation, the mode of application, age, body weight and sex of the patient, diet, time of administration, condition of the patient, drug combinations, reaction sensitivities and severity of the disease. It is understood that the ordinary skilled physician will 
+
+readily be able to determine and prescribe a correct dosage of this pharmaceutical compositions. An exemplary daily dosage unit for human host comprises an amount of from about 0.001 mg/kg to about 100 mg/kg. According to the conventional techniques known to those skilled in the art, the pharmaceutical compositions of this invention can be formulated with pharmaceutical acceptable carrier and/or vehicle as described above, finally providing several forms including a unit dosage form. Non-limiting examples of the formulations include, but not limited to, a solution, a suspension or an emulsion, an extract, an elixir, a powder, a granule, a tablet, a capsule, a liniment, a lotion and an ointment. 
+ The following specific examples are intended to be illustrative of the invention and should not be construed as limiting the scope of the invention as defined by appended claims. 
+ EXAMPLE I: Construction of TRAS-Promoter-Basic Vector 
+ As represented in Fig. 1, the TRAS-Promoter-Basic vector of this invention was constructed with a luciferase gene as a reporter gene and a multiple cloning site upstream of the luciferase gene. The multiple cloning site provides several insertion sites of certain transcriptional regulation sequences (e.g. promoter) for study. And the vector contains an ampicillin resistance gene for 
+
+selection in E. coli and a neomycin resistance gene for screening human cells transfected stably with desired vector. The construction process of the TRAS-Promoter Basic vector is explained in more detail as follows: For the purpose of obtaining BGH pA, fl ori, neomycin resistance gene, ColEl and ampicillin resistance gene, pcDNA3 (Invitrogen) was digested with Bgl H (Promega) and Xfoal (Promega) . pGL3-basic vector (Promega) was cleaved with Bgl H (Promega) and Xbal (Promega) to obtain a luciferase gene. The resulting two fragments were joined to each other with T4 DNA ligase (Promega) . 
+ Separately, the multiple cloning site consisting of DNA sequence represented by SEQ ID NO: 3 was designed for carrying restriction sites (Bgrlll, EcoRI , EcoRV, BstXI, Notl , Xhol , Kpnl , BamΑI , Clal and Nidlll ) and synthesized. Then, the synthesized multiple cloning site was introduced into between BglII and HindUl sites, and thus the vector was finally constructed, referred to as "TRAS-Promoter-Basic" . 
+ EXAMPLE II: Construction of TRAS-Enhancer-Basic Vector 
+ TRAS-Enhaner-Basic vector was constructed using minimal promoter lacking enhancer as heterologous promoter which is derived from CMV promoter. The construction procedure is explained in more detail as set forth hereunder: The minimal promoter (see SEQ ID ΝO:l) was designed in such a manner that enhancer region is deleted from the immediate early promoter of hCMV (GeneBank Accession No. 
+
+k03104) . Also, the minimal promoter was designed for containing additional BamHI and HindiII linkers at 5' and 3' ends, respectively. 
+ TRAS-Promoter-Basic promoter prepared in Example I was then digested BamHI (Promega) and HindiII (Promega) and, using T4 DNA ligase (Promega) , joined to the CMV minimal promoter of the above to produce a desired vector. The resulting vector was denoted as "TRAS-Enhancer-Basic" vector. 
+ Example III: Construction of TRAS-XRE 
+ TRAS-XRE vector of this invention was prepared by inserting DNA sequence consisting of 5-repeated XRE into BamHI site of TRAS-Enhancer-Basic vector as follows: A 5- repeated XRE with additional BamHI and Bg-lII linkers at 5' and 3' ends thereof, respectively, was synthesized. TRAS- Enhancer-Basic vector was digested with BamHI (Promega) and, using T4 DNA ligase (Promega) , joined to the synthesized 5-repeated XRE sequence to produce a desired vector. XRE sequence used is indicated in SEQ ID:NO 2. The resulting vector was denoted as "TRAS-XRE" vector. 
+ Example IV: Establishment and Confirmation of TRAS-XRE 
+ Cell Line 
+ IV-1: Cell Culture and Maintenance 
+ All animal cell lines employed were cultured and 
+
+maintained under 5% C0 2  atmosphere at 37°C using Dulbecco ' s modified Eagle medium (DMEM; Sigma) containing penicillin (100 units/m£; Gibco BRL) , streptomycin (100 /tg/m£ ; Gibco BRL) and 10% fetal bovine serum (Gibco BRL) . HeLa and HepG2 cell lines were purchased from American Type Culture Collection. 
+ IV-2.- Transfection of Animal Cell lines 
+ HeLa cells and HepG2 cells were transfected with TRAS- XRE reporter vector prepared in Example III by way of lipopectin method as follows: To 100 μi of DMEM lacking serum and antibiotics, 2 βi of lipopectin (Gibco BRL) was added and agitated, which was followed by incubation for 30 min. at room temperature, and then mixed with a mixture containing 100 μJL of DMEM lacking serum and antibiotics and 1 βg of TRAS-XRE repoter vector. Thereafter, following incubation for 30 min. at room temperature, 800 βi of DMEM with no serum and antibiotics was added to adjust final volume to 1 mi, and was poured to HepG2 cells which had been already rinsed with PBS twice. Following the lapse of 6 hrs . , the medium containing HepG2 cells was replaced with a fresh DMEM containing penicillin (100 units/m£; Gibco BRL) , streptomycin (100 βg/vλi ; Gibco BRL) and 10% fetal bovine serum (Gibco BRL) , after which was incubated for certain time period at 37°C. 
+ HeLa cells were transfected in the same manner as HepG2 cells above. 
+
+IV-3 : Establishment of TRAS-XRE Cell Line 
+ Following the lapse of 1 day after transfection of HeLa and HepG2 cell lines, the transfected cells were allowed to grow in DMEM containing neomycin (400 βg/ml ; Gibco BRL) serving as selective medium. At 2 days after transfection, the transfected cells were divided by a ratio of 1/10 for subculturing. Thereafter, the transfected cells were allowed to grow in • the selective medium for about 20 days and individual colonies with neomycin resistance were separately allowed to grow. 
+ The selected HepG2 and HeLa cell lines were denoted as "TRAS-XRE HepG2" and "TRAS-XRE HeLa", among which TRAS-XRE HepG2 cell line was deposited on October 16, 2000 in International Depository Authority, the Korean Cell Line Research Foundation and was given accession number KCLRF- BP-00034. 
+ IV-4: Evaluaation on Establishment of TRAS-XRE Cell Line (1) PCR (Polymerase Chain Reaction) 
+ The genome DNA of cell lines established in Example IV- 3 was isolated for template of PCR as follows: Following the harvest of the cell line established in Example IV-3, the cells washed with 0.7% NaCl twice and suspended in 10 mM Tris-HCl (pH 8.3). To the cell suspension, protease K (100 μg/ϊ ; Sigma) and 0.1% SDS were added, followed by reaction for 1 hr at 60 °C and subsequent incubation for 16 
+
+hrs at 37°C. Thereafter, phenol (saturated with 1 M Tris- HCl) was added to the resultant at 1:1 v/v, agitated for 15 min. and was subject to centrifugation at 9,000 rpm. Then, the supernatant was transferred to a fresh tube, mixed with phenol/chloroform/isoamylalcohol (25 : 24 : 1) which had been already saturated with TE buffer (pH 9.0), and was centrifuged at 9,000 rpm. Again, the supernatant so obtained was transferred to a fresh tube, mixed with chloroform/isoamylalcohol (24 : 1) , and was centrifuged at 9,000 rpm. The supernatant so obtained was gently mixed with CH 3 COONa (pH 5.2, 100 mM final cone.) and 2 volumes of ethanol . Thereafter, the genome DNA was fished out with a narrow glass bar, rinsed with 80% ethanol and dried. The yielded DNA was resuspended in TE buffer and allowed to stand overnight at 4°C, after which was treated with 100 βg /rai of RNase A (Sigma) and incubated for 1 hr at 37 ° C. Next, the resultant was mixed with phenol/chloroform/isoamylalcohol (25 :24 : 1) and was centrifuged at 9,000 rpm. Thereafter, the supernatant so obtained was transferred to a fresh tube, mixed with chloroform/isoamylalcohol (24 :1) , and was centrifuged at 9,000 rpm. The supernatant so obtained was gently mixed with CH 3 COONa (pH 5.2, 100 mM final cone.) and 2 volumes of ethanol. Thereafter, the precipitated genome DNA was fished out with a narrow glass bar, rinsed with 80% ethanol and dried. The final genome DNA so obtained was resuspended in TE buffer overnight at 4°C. 
+
+ The PCR was performed using the genome DNA obtained above as template, a set of primers, 5'- 
+ CGGGAGATCTTGTGAATTCT-3' and 5' -CCGCATCCCCAGCATGCCTG-3 ' and 
+ LA Taq polymerase (TaKaRa) . Sequentially, annealing for 30 sec at 55°C, extension for 2 min at 72  ° C and denaturation for 30 sec at 94°C were carried out for 30 cycles. 
+ Thereafter, the PCR product was subject to electrophoresis on 0.8% agarose gel, demonstrating the synthesis of 2.6 kb 
+ DNA comprising XRE, minimal promoter, luciferase gene and BGH pA (see Fig. 4) . Therefore, we confirmed that the established cell lines in Example IV-3 were stably transfected with TRAS-XRE. 
+ (2) Expression of Luciferase Gene The assay of luciferase activity was carried out with respect to HepG2 , TRAS-XRE HepG2 , HeLa and TRAS-XRE HeLa cell lines, thereby determining expression of luciferase. First, the medium in the dish containing the above cell lines was removed, washed with lxPBS and 30 βJl of the lysis buffer (1% Triton X-100, 25 mM glycylglycine, pH 7.8 , 15 mM MgS0 4 , 4 mM EGTA and 1 mM DTT) was added, followed by incubation for 10 min at room temperature. To the tube containing 360 βi of assay buffer (25 mM glycylglycine, pH 7.8, 15 mM potassium phosphate, pH 7.8 , 15 mM MgS0 4 , 4 mM EGTA, 2 mM ATP and 1 mM DTT) , 100 βi of the lysed solution contained the above dish and 200 βi of luciferin were added. The luminescence was finally measured on luminometer 
+
+ (Turner Designs Instrument, TD 2020) and shown in Fig. 5. 
+ Example V: Application of TRAS-XRE Cell Line 
+ V-l : Determination of Activity of Transcription factors and Substances Affecting the Activity 
+ TRAS-XRE HepG2 cell line established in Example IV was tested on applicability for determination of the activity of transcription factors and substances affecting the above activity as follows: 1 m£ of culture medium containing TRAS-XRE cell line was treated with 10 nM 2 , 3 , 7, 8-tetrachlorodibenzo-p-dioxin (TCDD; Sigma) for 24 hrs . Then, the activity of luciferase was measured in the same manner as Example IV and compared to that of the control which was not treated with TCDD. As shown in Fig. 6, the activity of luciferase in TCDD- treated group is about 7 times higher than that of the control. Such a result may be ascribed to the following signal transduction: TCDD binds to Ahr (Aryl hydrocarbon receptor) and stimulates it. TCDD-Ahr so formed binds to Arnt (Aryl hydrocarbon receptor nuclear translocator) , thereby leading to TCDD-Ahr-Arnt complex. The resulting complex, which serves as activated transcription factor, binds to XRE on TRAS-XRE, finally triggering expression of luciferase gene adjacent to XRE. As described above, TRAS-XRE cell line of this invention ensures a determination of the activity of transcription factors and a screening of substances 
+
+affecting the above activity with no transfection and thus can avoid the uncertainty of assay results. Therefore, the cell lines of this invention enable to obtain a vast amount of data on transcription activity with rapidity and reliability. 
+ V-2 : Screening of Antagonist to Substances Affecting Activity of Transcription factor TRAS-XRE cell line was evaluated about whether it is applicable to screening of antagonists to substances affecting the activity of transcription factor. 
+ The medium containing TRAS-XRE HepG2 cell line was incubated with 10 nM TCDD for 24 hrs at 37 ° C and then 50 βi of the extract of Angelica gigas Nakai, which is used as oriental pharmaceutical for treating anemia, was added, followed by additional incubation for 24 hrs at 37°C. Thereafter, the treated cells were harvested and the activity of luciferase was measured in the same manner as Example IV. Fig. 7 shows the results of this Example. As indicated in Fig. 7, the extract of Angelica gigas Nakai shows antagonistic function to in vi tro action of TCDD, which accounts for lowering the expression of luciferase gene to the level of control. Thus, it is demonstrated that the extract of Angelica gigas Nakai is an antagonistic composition capable for inhibiting the action of TCDD to XRE. 
+ Consequently, TRAS-XRE cell lines of this invention 
+
+provide high-throughput assay systems for screening antagonists to substances affecting the activity of transcription factor. 
+ V-3: Quantitative Analysis of Substances Affecting Activity of Transcription factor TRAS-XRE HepG2 cell line was evaluated about whether it is applicable to quantitative analysis of substances affecting the activity of transcription factor. One ml of the medium containing TRAS-XRE HepG2 cell line was incubated with 1 pM, 10 pM, 100 pM, 1 nM and 10 nM TCDD, respectively, for 24 hrs at 37 ° 0 and the activity of luciferase was then measured in the same manner as Example IV. As shown in Fig. 8, the activity of luciferase measured was increased in parallel with the increase of TCDD concentration in some concentration range of TCDD. Therefore, it is understood that TRAS-XRE HepG2 of this invention gives a quantitative analysis system of screening substances affecting the activity of transcription factor. 
+ Example VI: Establishment of TRAS-NFKB Cell Line and 
+ Application thereof 
+ VI-1: Establishment of TRAS-NFKB Cell Line 
+ TRAS-NFKB was constructed in the same manner as Example 
+
+III except for using 3-repeated NFKB RE (response element) with additional BamHI and Bgrlll linkers at 5' and 3' ends thereof instead of XRE. NFKB RE sequence used is indicated in SEQ ID NO: 4. Transfection with TRAS-NFKB into HepG2 was performed in accordance with method described in Example 
+ IV and a stable transfection was confirmed using PCR. 
+ VI-2: Analysis of Activity of Transcription Factor Using TRAS-NFKB Cell Line To 200 μi of the medium containing TRAS-NFKB HepG2 , 3.2 ng/m, 16 ng/mft, 80 ng/m£ and 400 ng/m, of LPS 
+ (lipopolysaccharide, Sigma), respectively, or 0.01 ng/m#, 
+ 0.1 ng/m£, 1 ng/md, 10 ng/m£ and 100 ng/m£ of PMA (phobol myristate acetate, Sigma) , respectively, were added and incubated for 24 hrs at 37 ° C and the activity of luciferase was then measured in the same manner as Example IV. 
+ As demonstrated in Figs. 9a and 9b, the activity of luciferase was increased with the increase of the concentration of LPS or PMA in certain concentration range. Therefore, it is well understood that TRAS-NFKB HepG2 of this invention enables to screen substances affecting the activity of transcription factor to bind to NFKB RE, and further to provide a quantitative analysis system. 
+ Example VII: Establishment of TRAS-p53 RE Cell Line and 
+ Application thereof 
+
+VII-1: Establishment of TRAS-p53 RE Cell Line 
+ TRAS-p53 RE was prepared in the same manner as Example III except for using 3-repeated p53 RE (response element) with additional Bgrlll restriction sites instead of XRE. p53 RE sequence used is indicated in SEQ ID NO : 5. Transfection with TRAS-p53 RE into HepG2 was carried out according to method described in Example IV and a stable transfection was validated using PCR. 
+ VII-2: Analysis of Activity of Transcription Factor Using TRAS-p53 RE Cell Line 
+ To 200 βi of the medium containing TRAS-p53 RE HepG2 , 3.2 ng/m£, 16 ng/m£, 80 ng/m and 2000 ng/mfc, of LPS, respectively, or 0.08 μM, 0.4 μM, 2 μM and 10 μM of mitomycin C (Sigma) , respectively, were added and incubated for 24 hrs at 37 ° C and the activity of luciferase was then measured in the same manner as Example IV. 
+ As shown in Figs. 10a and 10b, the activity of luciferase was increased with the increase of the concentration of LPS or mitomycin C in certain concentration range. Therefore, it is well understood that TRAS-p53 RE HepG2 of this invention enables to screen substances affecting the activity of transcription factor to bind to p53 RE, and further to provide a quantitative analysis system. 
+
+ Example VIII: Establishment of TRAS-SOD Promoter Cell Line and Application thereof 
+ VIII-1: Establishment of TRAS-SOD Promoter Cell Line Human Cu/Zn SOD (superoxide) promoter was obtained with PCR according to the method provided by Kim et al {Biochem . Biophys Res Commu . 201 (3) : 1526-33 (1994) ) . 
+ TRAS-Promoter Basic vector constructed in Example I was digested with BamHI and Xhol , into which the human Cu/Zn SOD promoter sequence was incorporated with T4 DNA ligase, thereby constructing TRAS-SOD Promoter vecor. Then, according to method described in Example IV, HepG2 was transfected with TRAS-SOD Promoter vecor, and a stable transfection was validated through analyzing genome of Hep G2 by means of PCR. 
+ VIII-2: Analysis of Activity of Promoter Using TRAS-SOD 
+ Promoter Cell Line 
+ To 200 βi of the medium containing TRAS-SOD Promoter HepG2, was added 0.16 μM, 0.8 μM, 4 μM and 20 μM of nitric oxide (Sigma) , respectively, and incubated for 24 hrs at 
+ 37 ° C and the activity of luciferase was then measured in the same manner as Example IV. 
+ As shown in Fig. 11, the activity of luciferase was increased with the increase of the concentration of nitric acid in certain concentration range. Therefore, it is well understood that TRAS-SOD Promoter HepG2 of this invention 
+
+enables to screen substances affecting the activity of promoter of SOD gene, and further to provide a quantitative analysis system. 
+ Example IX: Establishment of Cell Line for Measuring Intestinal Absorption and Application thereof 
+ IX-1: Cell Culture and Maintenance 
+ The Caco-2 cell line originating from a human colorectal carcinoma was obtained from the American Type Culture Collection. Caco-2 cells were grown in 75-cm 2  T- flasks in a 5% C0 2 /95% air atmosphere at 37 ° C. The culture medium was Eagle's minimum essential medium (Sigma) with Earle ' s salts, 20% FBS, 1% nonessential amino acids, 100 units/m^, penicillin, and 0.1 mg/ml streptomycin. Cells were passaged weekly at a split ratio of 1:5 at 80% confluency, using trypsin-EDTA. 
+ IX-2: Establishment of TRAS-XRE Caco-2 Cell Line Caco-2 cells in Example IX-1 were seeded in 96-well microplate (2.0 x 10 4  cells per well) and grown overnight. 
+ Then, according to method described in Example IV, Caco-2 cells were transfected with TRAS-XRE and a stable transfection was validated through analyzing genome of Caco-2 cells by means of PCR. In TRAS-XRE Caco-2 cells, 
+ XRE sequences used are 1 set, 2 sets and 3 sets of 5- repeated XREs, respectively. 
+
+IX-3: Measurement of Intestinal Absorption Using TRAS-XRE Caco-2 Cell 
+ To 200 βi of the medium containing TRAS-XRE Caco-2 cell, was added 1 pM, 10 pM, 100 pM 1 nM and 10 nM of TCDD, respectively, and incubated for 12 hrs at 37 ° C and the activity of luciferase was then measured in the same way as Example IV. 
+ As shown in Fig. 12, the activity of luciferase was increased with the increase of the concentration of TCDD, i.e., TCDD exhibits intestinal absorption. Therefore, 
+ TRAS-XRE Caco-2 of this invention enables measurement of intestinal absorption of certain substances. 
+ Example X: Screening of Antagonist to TCDD Using Multiple 
+ Cell Lines-Based Screening System 
+ X-l : Screening in terms of Pharmacological Efficacy 
+ To about 1 g of each of oriental pharmaceuticals (100 types) purchased in Gyeongdong Market (Korea) , was added 4 ml of tertiary DW and distillation was performed for 30 min. at 121  ° C . The distillate was centrifuged at 4000 x g and room temperature and the supernatant was then taken in order to use it as candidates of antagonist to TCDD. 0.2 ml of the medium containing TRAS-XRE constructed was treated with 1 nM TCDD for 24 hrs at 37 ° C and 5 βi of each of the resultant extracts was added, followed by additional 
+
+incubation for 24 hrs at 37 ° C. Thereafter, the treated cells were harvested and the activity of luciferase was measured in the same manner as described in Example IV. 
+ X-2: Screening in terms of Toxicity 
+ To 0.2 ml of the medium containing TRAS-NFKB HepG2 established in Example VI, was added 1 nM TCDD for 24 hrs at 37 ° C and 5 βi of each of the extracts from the oriental pharmaceuticals, followed by additional incubation for 24 hrs at 37 ° C. Thereafter, the treated cells were harvested and the activity of luciferase was measured in the same manner as described in Example IV. 
+ In addition, the same experiment was performed with TRAS-p53 RE HepG2 instead of TRAS-NFKB HepG2. Up-regulation of or at least no influence on the activity of the response element of p53 gene is determined to have favorable effect to cell because p53 gene is involved in anticancer activity of cell. 
+ In addition, down-regulation or at least no influence on the activity of NFKB response element is also determined to exhibit favorable effect to cell since NFKB is a pivotal transcription factor mediating several stresses delivered to cell, which finally induces a wide variety of physiological phenomenon. Therefore, the results obtained in this Example elucidate adequately a toxicity of the sample to be tested. 
+
+ Fig. 13 represents the results from Examples X-l and X- 2. In Fig. 13, the most leftward bar shows the negative control and 
+ Based on the results derived from Examples X-l and X-2, the inventors could select several candidates satisfying the following criteria: (a) lowering dramatically the increased activity of luciferase by TCDD, i.e., exhibiting antagonistic activity to TCDD; (b) showing no activity, at least positive influence with respect to p53 RE; and (c) showing no activity, at least negative influence with respect to NFKB RE. 
+ As known in Fig. 13, the extracts from oriental pharmaceuticals numbered 3, 7, 11, 15, 18, 27, 31, 33, 48, 61, 77, 84, 87 and 100 satisfy the above-described criteria. 
+ X-3 : Screening in terms of Intestinal Absorption 
+ The candidates selected in Examples X-l and X-2 in terms of pharmacological efficacy and toxicity, were evaluated in terms of intestinal absorption. 
+ To 0.2 ml of the medium containing TRAS-XRE Caco-2 cells established in Example IX, was added 1 nM TCDD for 
+ 24 hrs at 37  ° C and 5 βl of each of the candidates selected in Examples X-l and X-2, followed by additional incubation for 24 hrs at 37 ° C . Thereafter, the treated cells were harvested and the activity of luciferase was measured in the same manner as described in Example IV. 
+
+ As demonstrated in Fig. 14, it is known that, among the candidates selected in Examples X-l and X-2, the candidates numbered 7, 11, 15, 18, 27, 33, 84, 97 and 100 represent a remarkable intestinal absorption. 
+ X-4 : Screening in terms of Metabolic Stability 
+ TRAS-XRE HepG2 in Example IV was employed as cell line for measuring metabolic stability. HepG2 cells derived from human hepatocellular carcinoma cells express cytochrome P450 isomer enzymes such as CYPIAI, CYP1A2 , CYP2A6, CYP2C10, CYP2C19, CYP2D6, CYP2E1 and CYP3A4 which are responsible for metabolism and detoxification of drugs and chemicals in blood (Barouki R, Morel Y. Biochem . Pharmacol . , 61:511-6(2001); Le Marchand et al . , Cancer Res . 58:4858-4863(1998); and Sen A, Arinc E. Comp . Biochem. Physiol . C Toxicol . Pharmacol . 126:235-244(2000)). 
+ To 0.2 ml of the medium containing TRAS-XRE HepG2 in Example IV, was added 1 nM TCDD for 24 hrs at 37 ° C and 5 βi of each of the candidates selected in Examples X-l and X-2, followed by additional incubation for 72 hrs at 37°C. Thereafter, the treated cells were harvested and the activity of luciferase was measured in the same manner as described in Example IV. The treatment period with the candidates was prolonged, so that the extent of metabolic degradation of active ingredients in the candidates may fully evaluated. 
+ Fig. 15 represents a marked metabolic stability of the 
+
+candidates numbered 3, 11, 15, 18, 27, 31, 48, 77 and 100. 
+ With the results from Examples X-3 and X-4, among the candidates selected in terms of pharmacological efficacy and toxicity, the candidates numbered 11, 15, 18, 27 and 
+ 100 exhibit both significant intestinal absorption and metabolic stability. 
+ From 100 types of oriental pharmaceuticals, it is finally determined that the extracts from 5 types are excellent candidates of antagonist to TCDD in terms of pharmacology and pharmacokinetics . Namely, the extracts from 5 types finally selected show an appreciable pharmacological efficacy and little toxicity as well as significant intestinal absorption and metabolic stability. The candidates finally selected are the extracts derived from: (a) Angelica gigas Nakai , (b) Lycii Fructus, (c) Aurantii I maturi Pericarpium, (d) Aurantii Nobilis Pericarpium and (e) Chrysanthemi Flos . 
+ Example XI : Preclinical Trial 
+ The preclinical trial was performed using rat with respect to the candidates selected in Example X as follows: 
+ Male Guinea Pig rats aged 5 weeks, purchased from BioKorea Co . , were employed as experimental animal . The 
+
+ treatment groups with each of the candidates consist of 6 rats, respectively. One ^/kg of TCDD was once administered to rat in intraperitoneal route at initial day of experiment or at 7 days after experiment. The extracts from oriental pharmaceuticals were orally administered at a dose of 0.03-0.3 g/day/kg for 28 days from initial day of experiment. After breeding, each of the test rats was examined for its body weight, then were anesthetized with ethyl ether and sacrificed, after which testes weight was measured. The results are shown in Tables 1-5. Table 1. Results for Extract from Angelica gigas Nakai 
+ 
+ 
+ 
+ 1) the extract was administered 7 days after TCDD 
+
+ treatment . 
+   2)  TCDD was administered 7 days after initiation of experiment . 
+   3)  testes weight relative to body weight of rat tested (100 g) . 
+ Table 2. Results for Extract f om Lycii Fructus 
+ 
+ 
+ 
+   1)  the extract was administered 7 days after TCDD treatment . 
+   2)  TCDD was administered 7 days after initiation of experiment . 
+   3)  testes weight relative to body weight of rat tested (100 g) . 
+
+ Table 3. Results for Extract from Aurantii Immaturi Peri carpi urn 
+ 
+ 
+ 
+   1)  the extract was administered 7 days after TCDD treatment . 
+   2)  TCDD was administered 7 days after initiation of experiment . 
+   3>  testes weight relative to body weight of rat tested (100 g) . 
+
+ Table 4. Results for Extract from Aurantii Nobilis Pericarpium 
+   
+ the extract was administered 7 days after TCDD treatment . 
+   2)  TCDD was administered 7 days after initiation of experiment . 
+   3)  testes weight relative to body weight of rat tested (100 g) . 
+ 
+ 
+ 
+ 
+   1)  the extract was administered 7 days after TCDD treatment . 
+   2)  TCDD was administered 7 days after initiation of experiment . 
+   3)  testes weight relative to body weight of rat tested (100 g) . 
+ As described in Table 1, the extract derived from Angelica gigas Nakai , prevents and treats both the loss of body weight and the loss of testes weight of rats treated with TCDD. It is elucidated that the extract from Angelica 
+
+gigas Nakai can serve as antagonist to TCDD. 
+ In addition, the extract derived from Lycii Fructus prevents and treats both the loss of body weight and the loss of testes weight of rats treated with TCDD, which is indicated in Table 2. It is understood that the extract derived from Lycii Fructus can act as antagonist to TCDD. 
+ Tables 3 and 4 also show the antagonistic action to TCDD of extracts derived from Aurantii Immaturi Pericarpium and Aurantii Nobilis Pericarpium, respectively. In contrast, the extract derived from Chrysanthemi Flos may has little or no antagonistic activity to TCDD, which is demonstrated in Table 5. It is noted that in vi tro test using multiple cell lines-based screening system of this invention, the extract derived from Chrysanthemi Flos is elucidated to exert antagonistic action to TCDD. 
+ Consequently, among 5 types of the candidates selected in multiple cell lines-based screening system of this invention, which were revealed to function as antagonist to TCDD in transcriptional level, 4 types exhibit antagonistic action to TCDD in vivo test with rat model: (a) Angelica gigas Nakai , (b) Lycii Fructus, (c) Aurantii Immaturi Pericarpium, and (d) Aurantii Nobilis Pericarpium . Surprisingly, the candidates selected with the multiple cell lines-based screening system of this invention show 80% of hit-ratio in preclinical trial. 
+ Having described a preferred embodiment of the present 
+
+invention, it is to be understood that variants and modifications thereof falling within the spirit of the invention may become apparent to those skilled in this art, and the scope of this invention is to be determined by appended claims and their equivalents . 
+
+ 
+ BUDAPEST TREATY ON THE INTEU ' .ATIONAI-. 
+ RECOGNITION OF THE DEPOSIT 01' MIC ROORGΛNKSMS 
+ FOR THE PURPOSE OF PATENT PROCED HRE 
+ INTERNATIONAL FORM 
+ RECEPTION IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 o: e exbio Co. 
+ Seoul National University, San 56-1, Shillim-dong 
+ K«anak-gu, Seoul, 151-742, KOREA 
+ IDENTIFICATION OF THE MICROORGANISM 
+ Accession number given by the 
+ Identification reference given by the INTERNATIONAL DEPOSITARY- AUTHORITY: DEPOSITOR : TRAS-XRE HepG2 
+ KCLRF-BP-00034 
+ II. SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMlC DESIGNATION 
+ The microorganism identified under 1 above was accompanied by 
+ A scientific description 
+ A proposed taxonomic designation 
+ (Mark with a cross where applicable) 
+ HI. RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I abυ.e, which was received by it on October 16, 2001) 
+ IV. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name : Director 
+ Korean Cell Line Research Signati. re(s) Foil nd lion <r ■V"2-'  ■ fi - 
+ Address : Cancer Research Institute Date : 2000. 10. 30 Seoul National University College of Medicine 28 Yongon-dong, Cliongiio-Gu Seoul, II 0-744, orea I πn HP/-I (KCI.I.F Form 17) P.ii-i- iU' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,2289 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The present disclosure relates to a novel protein variant having an activity of exporting 5'-inosine monophosphate, a microorganism containing the protein variant, a method for preparing 5'-inosine monophosphate using the microorganism, and a method for increasing export of 5'-inosine monophosphate using the microorganism. 
+ [Background Art] 
+ 5'-Inosine monophosphate (hereinafter, IMP), a nucleic acid material, is an intermediate of the nucleic acid metabolic pathway and is used in many fields such as foods, medicines, various medical applications, etc. In particular, IMP is widely used as an additive for food seasonings or foods, along with 5'-guanine monophosphate (hereinafter, GMP). Although IMP itself is known to provide a beef taste, it is known to enhance the flavor of monosodium glutamic acid (MSG) and is thus attracting attention as a tasteenhancing nucleic acid-based seasoning. 
+ Examples of methods for producing IMP include a method of enzymatically degrading ribonucleic acid extracted from yeast cells (Japanese Patent Publication No. 1614/1957), a method for chemically phosphorylating inosine produced by fermentation (Agri. Biol. Chem., 36, 1511, (1972), etc.), a method for culturing microorganisms which can directly produce IMP and recovering IMP in the culture broth, etc. Among these, the method most frequently used at present is a method using microorganisms capable of directly producing IMP. 
+ Meanwhile, since enzymes do not always exhibit optimal properties in nature with respect to activity, stability, substrate specificity for optical isomers, etc. required in industrial applications, various attempts have been made to improve enzymes to suit the intended use by a mutation of their amino acid sequences, etc. Among these, although rational design and site-directed mutagenesis of enzymes have been applied to improve enzyme function, in many cases, these attempts were shown to be disadvantageous in that information on the structure of target enzymes is not sufficient or the structure-function correlation is not clear, thus preventing their effective application. Additionally, a method of improving enzyme activity by attempting the enhancement of enzymes through directed evolution, which is for screening enzymes of desired traits from a library of modified enzymes constructed through random mutagenesis of enzyme genes, was previously reported. 
+ [Disclosure] [Technical Problem] 
+ To produce IMP in high yield by direct IMP production through microbial fermentation, it is essential that the IMP export be smoothly performed. To achieve the object of the present disclosure, the inventors of the present disclosure have conducted extensive studies, and as a result, have identified the proteins involved in the activity of exporting IMP and have also discovered protein variants having higher activity of exporting IMP, thereby completing the present disclosure. 
+ [Technical Solution] 
+ An object of the present disclosure is to provide a protein variant having the activity of exporting IMP. 
+ Another object of the present disclosure is to provide a polynucleotide encoding the protein variant of the present disclosure. 
+ Still another object of the present disclosure is to provide a vector including the polynucleotide of the present disclosure. 
+ Still another object of the present disclosure is to provide a microorganism producing IMP, in which the microorganism includes the protein variant of the present disclosure and the vector of the present disclosure. 
+ Still another object of the present disclosure is to provide a method for preparing IMP, which includes culturing the microorganism of the genus Corynebacterium of the present disclosure in a medium, and recovering IMP from the microorganism or the medium. 
+ Still another object of the present disclosure is to provide a method for increasing export of IMP, which includes a step of enhancing an activity of the protein exporting IMP in a microorganism of the genus Corynebacterium. 
+ To achieve the above objects, an aspect of the present disclosure provides a protein variant having an activity of exporting IMP. 
+ As used herein, the term “a protein that exports 5'-inosine monophosphate (IMP)” refers to a protein involved in the extracellular export of IMP. For the purpose of the present disclosure, the term may be used interchangeably with a protein having an activity of exporting IMP, an IMP export protein, a protein capable of exporting IMP, an IMP -exporting protein, etc.', specifically, the protein may be expressed as ImpE, more specifically, ImpEl or ImpE2, and even more specifically, the protein that exports of the present disclosure may be expressed as ImpE2, but the expression of the protein is not limited thereto. Additionally, the protein may be derived from a microorganism of the genus Corynebacterium, and specifically from Corynebacterium stationis, but the microorganism is not limited thereto. 
+ The protein may be a protein which includes the amino acid sequence represented by SEQ ID NO: 2 or one which consists of the amino acid sequence represented by SEQ ID NO: 2, but any sequence having the same activity as the protein can be included without limitation, and one of ordinary skill in the art can obtain sequence information from GenBank of NCBI, a well-known database. Additionally, the protein of the present disclosure that exports IMP may be a protein which includes an amino acid sequence of SEQ ID NO: 2, or an amino acid sequence which has a homology or identity to the sequence of SEQ ID NO: 2 of at least 80%, at least 90%, at least 95%, at least 96%, at least 97%, at least 98%, or at least 99%. Additionally, it is apparent that any protein having an amino acid sequence with deletion, mutation, substitution, or addition in part of the sequence can also be included in the scope of the present disclosure, as long as the amino acid sequence has a homology or identity described above and has an effect corresponding to that of the protein. 
+ That is, although described as “a protein having an amino acid sequence represented by a particular SEQ ID NO” or “a protein consisting of a particular SEQ ID NO” in the present disclosure, it is apparent that a protein having an amino acid sequence with deletion, modification, substitution, conservative substitution, or addition of some amino acids also falls within the scope of the present invention as long as the protein has an activity the same as or equivalent to that of the protein which consists of an amino acid sequence of the corresponding SEQ ID NO. For example, insofar as the protein has an activity the same as or equivalent to that of the protein variant of the present disclosure, the above expression does not exclude a sequence addition upstream or downstream of the amino acid sequence that does not alter the functions of the protein, a naturally occurring mutation therein, a silent mutation therein, or conservative substitution, and even in a case of such a sequence addition or mutation, it is apparent that the protein also belongs to the scope of the present disclosure. 
+ In the present disclosure, “homology” and “identity” refer to a degree of relevance between two given amino acid sequences or nucleotide sequences, and may be expressed as a percentage. 
+ The terms “homology” and “identity” are often used interchangeably with each other. 
+ The sequence homology or identity of conserved polynucleotide or polypeptide sequences may be determined by standard alignment algorithms and may be used with default gap penalty established by the program being used. Substantially, homologous or identical polynucleotides or polypeptides can generally hybridize under moderate or high stringency, along the entire length or at least about 50%, about 60%, about 70%, about 80%, or about 90% or higher of the entire length. In the hybridization, polynucleotides that include degenerate codons instead of codons are also considered. 
+ Whether any two polynucleotide or polypeptide sequences have a homology, similarity, or identity may be determined, for example, using a known computer algorithm such as the “FASTA” program (e.g., Pearson et al., (1988) Proc. Natl. Acad. Sci. USA 85: 2444) using default parameters. Alternatively, it may be determined using the NeedlemanWunsch algorithm (Needleman and Wunsch, 1970, J. Mol. Biol. 48: 443-453), which is performed in the Needleman program of the EMBOSS package (EMBOSS: The European Molecular Biology Open Software Suite, Rice et al., 2000, Trends Genet. 16: 276-277) (version 5.0.0 or versions thereafter) (GCG program package (Devereux, J., et al., Nucleic Acids Research 12: 387 (1984)), BLASTP, BLASTN, FASTA (Atschul, [S.] [F.] et al., J Molec Bio 215]: 403 (1990); Guide to Huge Computers, Martin J. Bishop, [ED.,] Academic Press, San Diego, 1994, and [CARILLO ETA/.](1988) SIAM J Applied Math 48: 1073). For example, the homology, similarity, or identity may be determined using BLAST or ClustalW of the National Center for Biotechnology Information (NCBI). 
+ The homology, similarity, or identity of polynucleotide or polypeptide sequences may be determined by comparing sequence information using, for example, the GAP computer program (e.g., Smith and Waterman, Adv. Appl. Math (1981) 2:482) as published. In summary, the GAP program defines the homology or identity as the value obtained by dividing the number of similarly aligned symbols (i.e. nucleotides or amino acids) by the total number of the symbols in the shorter of the two sequences. Default parameters for the GAP program may include (1) a unary comparison matrix (containing a value of 1 for identities and 0 for non-identities) and the weighted comparison matrix of Gribskov et al. (1986), Nucl. Acids Res. 14: 6745, as disclosed in Schwartz and Dayhoff, eds., Atlas of Protein Sequence and Structure, National Biomedical Research Foundation, pp. 353-358, 1979; (2) a penalty of 
+ 3.0 for each gap and an additional 0.10 penalty for each symbol in each gap (or a gap opening penalty of 10 and a gap extension penalty of 0.5); and (3) no penalty for end gaps. 
+ Accordingly, as used herein, the term “homology” or “identity” refers to relevance between sequences. 
+ As used herein, the term “variant” refers to a polypeptide which, in conservative substitution and/or modification of one or more amino acids, differs from the recited sequence but retains the functions or properties of the protein. A variant differs from identified sequences being distinguished by several amino acid substitutions, deletions, or additions. Such variant may generally be identified by modifying one amino acid of the polypeptide sequence and evaluating the properties of the variant. That is, the abilities of the variant protein may be increased, unaltered, or decreased compared to those of the native protein. In addition, some modified polypeptides may include modified ones in which one or more moieties (e.g., a N-terminal leader sequence, transmembrane domain, etc.) are removed. Other variants may include variants in which a small portion has been removed from the N- and/or C-terminal of the mature protein.As used herein, the term “conservative substitution” refers to replacement of an amino acid with another amino acid having similar structural and/or chemical properties. The variant may have, for example, one or more conservative substitutions while still retaining one or more biological activities. Such amino acid substitution may be generally made on the basis of similarity in polarity, charge, solubility, hydrophobicity, hydrophilicity, and/or amphipathic nature. For example, positively charged (basic) amino acids include arginine, lysine, and histidine; and negatively charged (acidic) amino acids include glutamic acid and aspartic acid; aromatic amino acids include phenylalanine, tryptophan, and tyrosine; and hydrophobic amino acids include alanine, valine, isoleucine, leucine, methionine, phenylalanine, proline, glycine, and tryptophan. 
+ Additionally, the variant may also include deletion or addition of amino acids, which have minimal effects on properties and a secondary structure of a polypeptide. For example, the polypeptide may be conjugated to a signal (or leader) sequence at the N-terminus of a protein that is involved in the co-translational or post-translational transfer of the protein. The polypeptide may also be conjugated to another sequence or linker to enable identification, purification, or synthesis of the polypeptide. 
+ Specifically, the protein variant having the activity of exporting IMP of the present disclosure may be a protein variant having an amino acid sequence, in which, from the Nterminus in the amino acid sequence of SEQ ID NO: 2, at least one amino acid selected from the group consisting of the 123 rd  amino acid, the 243 rd  amino acid, the 387 th  amino acid, the 
+ 405 th  amino acid; the 413 th  amino acid, and the 458 th  amino acid is substituted with another amino acid, but the amino acid substitution is not limited thereto. 
+ For example, the protein variant having the activity of exporting IMP of the present disclosure may be a protein variant having the IMP-exporting activity may be one which has, from the N-terminus in the amino acid sequence of SEQ ID NO: 2, a substitution of the 123 rd  amino acid with cysteine (i.e., F123C); a substitution of the 243 rd  amino acid with valine (i.e., I243V); a substitution of the 387 th  amino acid with threonine (i.e., S387T); a substitution of the 405 th  amino acid with tyrosine (i.e., F405Y); a substitution of the 413 th  amino acid with threonine (i.e., M413T); a substitution of the 458 th  amino acid with lysine (i.e., N458K); or a combination thereof, but the amino acid substitution is not limited thereto. More specifically, the protein variant having an activity of exporting IMP may be a protein, which has an amino acid sequence selected from the group consisting of SEQ ID NOS: 73, 74, 75, 76, 77, 78, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151, 153, and 155, or an amino acid sequence having a homology of at least 80%, at least 90%, at least 95%, at least 96%, at least 97%, at least 98%, or at least 99% or higher to these amino acid sequences. Additionally, it is apparent that any protein having an amino acid sequence, in which part of the amino acid sequence is deleted, modified, substituted, or added, can also be used as the protein of the present disclosure, as long as the amino acid sequence has the sequence homology described above and shows an effect equivalent to those of the above polypeptides. 
+ Additionally, the protein variant having the activity of exporting IMP of the present disclosure may be a protein variant consisting of an amino acid sequence, which further includes, from the N-terminus in the amino acid sequence of SEQ ID NO: 2, a substitution of the 2 nd  amino acid with another amino acid, a substitution of the 64 th  amino acid with another amino acid, or a combination thereof. Specifically, the protein variant having the activity of exporting IMP of the present disclosure may be a protein variant, which further includes, from the N-terminus in the amino acid sequence of SEQ ID NO: 2, a substitution of the 2 nd  amino acid with isoleucine, a substitution of the 64 th  amino acid with glutamic acid or aspartate, or a combination thereof. 
+ The “substitution with another amino acid” is not limited as long as the other amino acid is an amino acid different from the amino acid before the substitution. For example, when the 2 nd  amino acid from the N-terminus in the amino acid sequence of SEQ ID NO: 2 is substituted with another amino acid, the other amino acid is not limited as long as the other amino acid is an amino acid other than valine, and when the 64 th  amino acid from the Nterminus in the amino acid sequence of SEQ ID NO: 2 is substituted with another amino acid, the other amino acid is not limited as long as the other amino acid is an amino acid other than glycine. 
+ Another aspect of the present disclosure provides a polynucleotide encoding the protein variant of the present disclosure, or a vector containing the polynucleotide of the present disclosure. 
+ As used herein, the term “polynucleotide” refers to a polymer of nucleotides in which nucleotide monomers are extended in a long chain by covalent bonds and which has a DNA strand or RNA strand longer than a certain length. 
+ With regard to the polynucleotide of the present disclosure, based on codon degeneracy, it is apparent that the proteins which consist of the amino acid sequence of SEQ ID NO: 73, 74, 75, 76, 77, 78, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 
+ 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151, 153, or 155, or polynucleotides which can be translated into proteins having a homology to the above proteins, can also be included in the scope of the present disclosure. For example, the polynucleotide of the present disclosure may be a polynucleotide sequence having the base sequence of SEQ ID NO: 79, 80, 81, 82, 83, 84, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 148, 150, 152, 154, or 156, and more specifically, a polynucleotide consisting of the base sequence of SEQ ID NO: 79, 80, 81, 82, 83, 84, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 
+ 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 148, 150, 152, 154, or 156. Additionally, any sequence which encodes a protein that has an activity of the protein having an amino acid sequence of SEQ ID NO: 73, 74, 75, 76, 77, 78, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151, 153, or 155, determined by hybridization under stringent conditions with a probe that can be prepared from a known gene sequence (e.g., a sequence complementary to all or part of the above nucleotide sequences), can be included without limitation. 
+ The term “stringent conditions” refers to conditions under which specific hybridization between polynucleotides is made possible. Such conditions are specifically described in references (e.g., J. Sambrook et al., supra). For example, the conditions may include performing hybridization between genes having a high homology, a homology of 40% or higher, specifically 90% or higher, more specifically 95% or higher, even more specifically 97% or higher, and most specifically 99% or higher, while not performing hybridization between genes having a homology of lower than the above homologies; or to perform hybridization once, specifically two or three times, under conventional washing conditions for southern hybridization of 60°C, lx SSC, and 0.1% SDS, specifically at a salt concentration and temperature corresponding to 60°C, O.lx SSC, and 0.1% SDS, and more specifically 68°C, O.lx SSC, and 0.1% SDS. 
+ Hybridization requires that two nucleic acids have a complementary sequence, although mismatches between bases may be possible depending on the stringency of the hybridization. The term “complementary” is used to describe the relationship between mutually hybridizable nucleotide bases. For example, with respect to DNA, adenosine is complementary to thymine, and cytosine is complementary to guanine. Accordingly, the present disclosure may also include isolated nucleic acid fragments complementary to the entire sequence as well as substantially similar nucleic acid sequences. 
+ Specifically, polynucleotides having a homology can be detected at a Tm value of 55°C using hybridization conditions that include a hybridization step and using the conditions described above. Additionally, the Tm value may be 60°C, 63°C, or 65°C, but is not limited thereto and may be appropriately adjusted by an ordinary person skilled in the art according to the intended purpose. 
+ The stringency suitable for the hybridization of polynucleotides depends on the length and complementarity of the polynucleotides and the related variables are well known in the art (see Sambrook et al., supra, 9.50 to 9.51 and 11.7 to 11.8). 
+ In the present disclosure, the polynucleotide which encodes the amino acid sequence of the protein having an IMP-exporting activity may be impE2 gene, and the explanation of the polynucleotide is as described above. 
+ In the present disclosure, the explanation of the polynucleotide encoding the protein variant, which has an IMP-exporting activity, is also as described above. 
+ As used herein, the term “vector” refers to a DNA construct including the nucleotide sequence of the polynucleotide encoding a target protein, in which the target protein is operably linked to a suitable control sequence so that the target protein can be expressed in an appropriate host. The control sequence may include a promoter capable of initiating transcription, any operator sequence for controlling the transcription, a sequence encoding an appropriate mRNA ribosome-binding domain, and a sequence controlling the termination of transcription and translation. The vector, after being transformed into a suitable host cell, may be replicated or function irrespective of the host genome, or may be integrated into the host genome itself. 
+ The vector used in the present disclosure may not be particularly limited as long as the vector is replicable in the host cell, and it may be constructed using any vector known in the art. Examples of the vector may include natural or recombinant plasmids, cosmids, viruses, and bacteriophages. For example, as a phage vector or cosmid vector, pWE15, M13, MBL3, MBL4, IXII, ASHII, APII, tlO, til, Charon4A, Charon21A, etc. may be used; and as a plasmid vector, those based on pBR, pUC, pBluescriptll, pGEM, pTZ, pCL, pET, etc. may be used. Specifically, pDZ, pACYC177, pACYC184, pCL, pECCG117, pUC19, pBR322, pMW118,pCClBAC vectors, etc. may be used. 
+ In an embodiment, the polynucleotide encoding the target protein may be replaced with a modified polynucleotide(variant) within the chromosome using a vector for the insertion into the chromosome in a cell. The insertion of the polynucleotide into the chromosome may be performed using a known method in the art, for example, by homologous recombination, but is not limited thereto. In particular, a selection marker for confirming the insertion into the chromosome may be further included. The selection marker is used for selection of a transformed cell, i.e., in order to confirm whether the target nucleic acid has been inserted, and markers capable of providing selectable phenotypes such as drug resistance, nutrient requirement, resistance to cytotoxic agents, and expression of surface proteins may be used. Under the circumstances where selective agents are treated, only the cells capable of expressing the selection markers can survive or express other phenotypic traits, and thus the transformed cells can be easily selected. 
+ Still another aspect of the present disclosure provides a microorganism which can produce IMP that includes the protein variant of the present disclosure, a polynucleotide encoding the protein variant of the present disclosure, or the vector of the present disclosure. Specifically, the microorganism of the present disclosure may be a microorganism prepared by transformation using a vector containing the polynucleotide encoding the protein variant of the present disclosure, but the microorganism is not limited thereto. 
+ As used herein, the term “transformation” refers to a process of introducing a vector including a polynucleotide encoding a target protein into a host cell, thereby enabling the expression of the protein encoded by the polynucleotide in the host cell. For the transformed polynucleotide, it does not matter whether it is inserted into the chromosome of the host cell and located therein or located outside the chromosome, as long as the transformed polynucleotide can be expressed in the host cell. Additionally, the polynucleotide includes DNA and RNA which encode the target protein. The polynucleotide may be inserted in any form as long as it can be introduced into a host cell and expressed therein. For example, the polynucleotide may be introduced into a host cell in the form of an expression cassette, which is a gene construct including all of the essential elements required for self-expression. The expression cassette may conventionally include a promoter operably linked to the polynucleotide, a transcription termination signal, a ribosome-binding domain, and a translation termination signal. The expression cassette may be in the form of a self-replicable expression vector. Additionally, the polynucleotide may be introduced into a host cell as is and operably linked to a sequence essential for its expression in the host cell, but is not limited thereto. 
+ Additionally, as used herein, the term “operably linked” refers to a functional linkage between a promoter sequence, which initiates and mediates the transcription of the polynucleotide encoding the target protein, z.e., a conjugate of the present disclosure, and the above gene sequence. 
+ As used herein, the term “IMP-producing microorganism” refers to a microorganism which is naturally capable of producing IMP; or a microorganism whose parent strain is not naturally capable of producing and/or exporting IMP which is provided with an ability to produce or export IMP. In the present disclosure, the microorganism producing IMP can be used interchangeably with a microorganism exporting IMP or a microorganism having an activity of exporting IMP. 
+ The IMP-producing microorganism is a host cell or microorganism, which includes a protein variant having an activity of exporting IMP or a polynucleotide encoding the protein variant, or which is transformed with a vector containing the polynucleotide encoding the protein variant, and is thereby capable of expressing the protein variant. Specifically, the microorganism of the present disclosure may be a microorganism of the genus Escherichia, a microorganism of the genus Serratia, a microorganism of the genus Erwinia, a microorganism of the genus Enterobacteria, a microorganism of the genus Salmonella, a microorganism of the genus Streptomyces, a microorganism of the genus Pseudomonas, a microorganism of the genus Brevibacterium, a microorganism of the genus Corynebacterium, etc., and more specifically, the microorganism of the present disclosure may be a microorganism of the genus Corynebacterium. 
+ As used herein, the term “IMP-producing microorganism of the genus Corynebacteriunr refers to a microorganism of the genus Corynebacterium which is naturally capable of producing IMP or capable of producing IMP by mutation. Specifically, as used herein, the microorganism of the genus Corynebacterium capable of producing IMP may be a native strain of the microorganism of the genus Corynebacterium capable of producing IMP; or a microorganism of the genus Corynebacterium with enhanced ability to producing IMP prepared by inserting a gene associated with IMP production or by enhancing or attenuating the endogenous gene associated with IMP production. More specifically, in the present disclosure, the microorganism of the genus Corynebacterium capable of producing IMP may be a microorganism of the genus Corynebacterium which has improved ability of producing IMP, by including a protein variant having an activity of exporting IMP or a polynucleotide encoding the protein variant, or by being transformed with a vector containing the polynucleotide encoding the protein variant. The “microorganism of the genus Corynebacterium with enhanced ability to producing IMP” may be a microorganism of the genus Corynebacterium with improved ability to producing IMP compared to that of its parent strain before transformation or that of an unmodified microorganism of the genus Corynebacterium. The “unmodified microorganism of the genus Corynebacteriunr may be a native type of the microorganism of the genus Corynebacterium, or a microorganism of the genus Corynebacterium which does not contain the protein variant capable of exporting IMP, or a microorganism of the genus Corynebacterium which is not transformed with a vector containing a polynucleotide encoding the protein variant capable of exporting IMP. 
+ In an embodiment of the present disclosure, the microorganism of the present disclosure may be a microorganism in which an activity of adenylosuccinate synthetase and/or IMP dehydrogenase is further attenuated. 
+ Specifically, the microorganism of the present disclosure may be Corynebacterium glutamicum, Corynebacterium ammoniagenes, Brevibacterium lactofermentum, Brevibacterium flavum, Corynebacterium thermoaminogenes, Corynebacterium efficiens, or Corynebacterium stationis, but the microorganism is not limited thereto. 
+ Still another aspect of the present disclosure provides a method for preparing IMP, which includes culturing the microorganism of the genus Corynebacterium producing IMP of the present disclosure in a medium. 
+ Specifically, the method of the present disclosure may further include a step of recovering IMP from the microorganism of the present disclosure or the medium of the present disclosure. 
+ In the above method of the present disclosure, the cultivation of the microorganism may be performed in a batch process, continuous process, fed-batch process, etc. known in the art, but the cultivation process is not particularly limited thereto. In particular, with respect to the cultivation conditions, the pH of the culture may be adjusted to a suitable pH (e.g., pH 5 to 9, specifically pH 6 to 8, and most specifically with an appropriate basic compound (e.g., sodium hydroxide, potassium hydroxide, or ammonia) or acidic compound (e.g., phosphoric acid or sulfuric acid), and the aerobic condition of the culture may be maintained by introducing oxygen or an oxygen-containing gas mixture to the culture. The cultivation temperature may generally be in the range of 20°C to 45°C, and specifically 25°C to 40°C for about 10 to 160 hours, but the cultivation conditions are not limited thereto. The IMP produced by the above cultivation may be secreted into the culture or may be retained in the cells. 
+ Additionally, examples of the carbon sources to be used in the culture medium may include sugars and carbohydrates (e.g., glucose, sucrose, lactose, fructose, maltose, molasses, starch, and cellulose); oils and fats (e.g., soybean oil, sunflower oil, peanut oil, and coconut oil); fatty acids (e.g., palmitic acid, stearic acid, and linoleic acid); alcohols (e.g., glycerol and ethanol); and organic acids (e.g., acetic acid), but are not limited thereto. These carbon sources may be used alone or in combination, but are not limited thereto. Examples of the nitrogen sources to be used in the culture medium may include nitrogen-containing organic compounds (e.g., peptone, yeast extract, meat gravy, malt extract, corn steep liquor, soybean flour, and urea) or inorganic compounds (e.g., ammonium sulfate, ammonium chloride, ammonium phosphate, ammonium carbonate, and ammonium nitrate), etc. These nitrogen sources may be used alone or in combination, but are not limited thereto. Examples of the phosphorus sources to be used in the culture medium may include potassium dihydrogen phosphate, dipotassium hydrogen phosphate, corresponding sodium-containing salts, etc., but are not limited thereto. Additionally, metal salts (e.g., magnesium sulfate or iron sulfate), amino acids, vitamins, etc., which are essential growth-promoting materials, may be contained in the medium. 
+ In the present disclosure, the method for recovering the IMP produced in the step of cultivation may be performed by collecting the IMP from the culture broth using an appropriate method known in the art. For example, methods such as centrifugation, filtration, anion exchange chromatography, crystallization, HPLC, etc. may be used, and the desired IMP can be recovered from a culture or cultured microorganism using an appropriate method known in the art. 
+ Further, the recovery step may include a purification process and may be performed using an appropriate method known in the art. Thus, the IMP to be recovered may be in a purified form or a microorganism fermentation broth containing IMP. 
+ Still another aspect of the present disclosure provides a composition for producing IMP, which contains a protein variant capable of exporting IMP of the present disclosure or a polynucleotide encoding the protein variant. 
+ The composition of the present disclosure may further contain any constitution that is capable of operating the polynucleotide without limitation. In the composition of the present disclosure, the polynucleotide may be in a form in which the polynucleotide is included in a vector such that an operably linked gene can be expressed in a host cell where the polynucleotide is introduced. 
+ Additionally, the composition may further contain any appropriate excipient conventionally used in compositions for producing IMP (e.g., preservatives, humectants, dispersing agents, suspending agents, buffering agents, stabilizing agents, isotonic agents, etc.), but the appropriate excipient is not limited thereto. 
+ Still another aspect of the present disclosure provides use of the protein variant of the present disclosure for increasing IMP production in a microorganism of the genus Corynebacterium. 
+ Still another aspect of the present disclosure provides a method for increasing export of IMP, which includes enhancing an activity of the protein consisting of SEQ ID NO: 2 in a microorganism of the genus Corynebacterium. Specifically, the enhancement of the activity of the protein consisting of SEQ ID NO: 2 may be performed by introducing, applying, or including a protein variant capable of exporting IMP, in which the protein variant consists of an amino acid sequence which has, from the N-terminus in the amino acid sequence of SEQ ID NO: 2, a substitution of the 123 rd  amino acid with another amino acid, a substitution of the 243 rd  amino acid with another amino acid, a substitution of the 387 th  amino acid with another amino acid, a substitution of the 405 th  amino acid with another amino acid; a substitution of the 413 th  amino acid with another amino acid, a substitution of the 458 th  amino acid with another amino acid, or a combination thereof. The terms, “protein capable of exporting IMP”, “protein variant capable of exporting IMP”, and “microorganism of the genus CorynebacteriunT are as described above. 
+ Still another aspect of the present disclosure provides use of the protein variant of the present disclosure for increasing export of IMP in a microorganism of the genus Corynebacterium. 
+ [Advantageous Effects of the Invention] 
+ IMP can be produced in high yield by culturing a microorganism of the genus Corynebacterium producing IMP using a protein variant, which is capable of exporting IMP. 
+ [DETAILED DESCRIPTION OF THE INVENTION] 
+ The present disclosure will be described in detail as follows. Meanwhile, each of the explanations and exemplary embodiments disclosed herein can be applied to other respective explanations and exemplary embodiments. That is, all of the combinations of various factors disclosed herein belong to the scope of the present disclosure. Additionally, the scope of the present disclosure should not be limited by the specific disclosure provided hereinbelow. 
+ Example 1: Discovery of IMP export proteins 
+ A genomic DNA library of Corynebacterium stationis ATCC6872 was prepared for the identification of membrane proteins of Corynebacterium involved in the export of IMP. Then, since the wild-type strain of Corynebacterium cannot produce IMP, or even if it does produce IMP, it produces only a small amount thereof, a strain called CJI0323, which is capable of producing IMP, derived from the ATCC6872 strain was prepared for the identification of the ability to produce IMP. The CJI0323 strain prepared was subjected to screening of membrane proteins involved in IMP export using the genomic DNA library of the ATCC6872 strain. The specific details of the experiment are as follows. 
+ Example 1-1: Selection of IMP-producing strain, CJI0323 
+ The ATCC6872 cells were suspended in a phosphate buffer (pH 7.0) or citrate buffer (pH 5.5) at a concentration of 10 7  cells/mL to 10 8  cells/mL to prepare an ATCC6872-dcri\cd IMP-producing strain, and the cells were subjected to UV treatment and placed at room temperature or 32°C for 20 to 40 minutes to induce mutation. The resulting cells were washed twice with a 0.85% saline solution, and then diluted and plated on a medium, which was prepared by adding a resistance-providing material at an appropriate concentration to a minimal medium containing 1.7% agar, and colonies were obtained thereafter. Each colony was cultured in a nutrient medium and cultured in a seed medium for 24 hours. After culturing the colonies for 3 to 4 days in a fermentation medium, the colony with the highest amount of IMP produced accumulated in the culture medium was selected. In the course of preparing a strain capable of producing IMP at high concentration, in order to provide adenine auxotrophy, guanine leakage, lysozyme susceptibility, 3,4-dihydroproline resistance, streptomycin resistance, azetidine carboxylic acid resistance, thiaproline resistance, azaserine resistance, sulfaguanidine resistance, norvaline resistance, and trimethoprim resistance, the procedures above were performed sequentially for each material. As a result, CJI0323, which showed resistance to the above materials and excellent ability to produce IMP, was finally selected. The degree of resistance between ATCC6872 and CJI0323 was compared and the results are shown in Table 1 below. 
+ [Table 1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Characteristics 
+ 
+ATCC6872 
+ 
+CJI0323 
+ 
+ 
+ 
+Adenine auxotrophy 
+ 
+Non-auxotrophy 
+ 
+Auxotrophy 
+ 
+ 
+ 
+Guanine leakage 
+ 
+Non-auxotrophy 
+ 
+Leaky auxotrophy 
+ 
+ 
+ 
+Lysozyme susceptibility 
+ 
+80 pg/mL 
+ 
+8 pg/mL 
+ 
+ 
+ 
+3,4-Dihydroproline resistance 
+ 
+1000 pg/mL 
+ 
+3500 pg/mL 
+ 
+ 
+ 
+Streptomycin resistance 
+ 
+500 pg/mL 
+ 
+2000 pg/mL 
+ 
+ 
+ 
+Azetidine carboxylic acid 
+ 
+5 mg/mL 
+ 
+30 mg/mL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+resistance 
+   
+   
+ 
+ 
+ 
+Thiaproline resistance 
+ 
+10 gg/mL 
+ 
+100 gg/mL 
+ 
+ 
+ 
+Azaserine resistance 
+ 
+25 gg/mL 
+ 
+100 gg/mL 
+ 
+ 
+ 
+Sulfaguanidine resistance 
+ 
+50 gg/mL 
+ 
+200 gg/mL 
+ 
+ 
+ 
+Norvaline resistance 
+ 
+0.2 mg/mL 
+ 
+2 mg/mL 
+ 
+ 
+ 
+Trimethoprim resistance 
+ 
+20 gg/mL 
+ 
+100 gg/mL 
+ 
+ 
+ 
+ 
+ 
+ - Minimal medium: 2% glucose, 0.3% sodium sulfate, 0.1% KH2SO4, 0.3% K2HPO4, 0.3% magnesium sulfate, calcium chloride (10 mg/L), iron sulfate (10 mg/L), zinc sulfate (1 mg/L), manganese chloride (3.6 mg/L), L-cysteine (20 mg/L), calcium pantothenate (10 mg/L), thiamine hydrochloride (5 mg/L), biotin (30 gg/L), adenine (20 mg/L), guanine (20 mg/L), pH 7.3 
+ - Nutrient medium: 1% peptone, 1% meat juice, 0.25% sodium chloride, 1% yeast extract, 2% agar, pH 7.2 
+ - Seed medium: 1% glucose, 1% peptone, 1% meat juice, 1% yeast extract, 0.25% sodium chloride, adenine (100 mg/L), guanine (100 mg/L), pH 7.5 
+ - Fermentation medium: 0.1% sodium glutamate, 1% ammonium chloride, 1.2% magnesium sulfate, 0.01% calcium chloride, iron sulfate (20 mg/L), manganese sulfate (20 mg/L), zinc sulfate (20 mg/L), copper sulfate (5 mg/L), L-cysteine (23 mg/L), alanine (24 mg/L), nicotinic acid (8 mg/L), biotin (45 gg/L), thiamine hydrochloride (5 mg/L), adenine (30 mg/L), 1.9% phosphoric acid (85%), 2.55% glucose, 1.45% fructose 
+ Example 1-2: Experiments on fermentation titer of CJI0323 
+ The seed medium (2 mL) was dispensed into test tubes (diameter: 18 mm), which were then autoclaved and each inoculated with ATCC6872 and CJI0323. Thereafter, the resultants were shake-cultured at 30°C for 24 hours and then used as a seed culture solution. The fermentation medium (29 mL) was dispensed into Erlenmeyer flasks (250 mL) for shaking, autoclaved at 121 °C for 15 minutes, and the seed culture solution (2 mL) was inoculated thereto and cultured for 3 days. The culture conditions were set to 170 rpm, 
+ 30°C, and a pH of 7.5. 
+ Upon completion of the culture, the amount of IMP produced was measured by HPLC (SHIMAZDU LC20A) and the results of the culture are shown in Table 2 below. 
+ [Table 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+Strain 
+ 
+IMP (g/L) 
+ 
+ 
+ 
+ATCC6872 
+ 
+0 
+ 
+ 
+ 
+CJI0323 
+ 
+9.52 
+ 
+ 
+ 
+ 
+ 
+ The CJI0323 strain was named Corynebacterium stationis CN01-0323, deposited on November 7, 2017, to the Korean Culture Center of Microorganisms (KCCM), an international depositary authority under the Budapest Treaty, and assigned Accession Number KCCM12151P. 
+ Example 1-3: Discovery of exporting proteins 
+ Screening conditions showing growth inhibition of the CJI0323 strain were established by additionally adding IMP to the minimal medium containing 1.7% agar. The plasmids of the genomic library of the ATCC6872 strain were transformed into the CJI0323 strain by electroporation (van der Rest et al. 1999), and those colonies in which the growth inhibition was released under the medium conditions supplemented with an excess amount of IMP were selected. Plasmids were obtained from the selected colonies and analyzed by a sequencing technique. As a result, one kind of membrane protein involved in the release of the growth inhibition was identified under the condition where an excess amount of IMP was added. 
+ The one kind of membrane protein from Corynebacterium was identified based on the amino acid sequence of SEQ ID NO: 2 and the nucleotide sequence of SEQ ID NO: 4 (NCBI GenBank: NZ CP014279, WP 066795121, MFS transporter). The membrane protein is known as the MFS transporter, but its specific function has not been confirmed, and further, its function regarding the IMP export is still unknown. In the present disclosure, the membrane protein was named ImpE2(WT). 
+ Example 2: Identification of ImpEl and ImpE2 
+ Example 2-1: Confirmation of impEl and impE2 
+ In order to examine the functions of the membrane protein, ImpE2, the gene structure of SEQ ID NO: 4 was confirmed in the NCBI (NCBI GenBank: NZ CP014279, WP 066795121, MFS transporter). As a result, it was confirmed that the 7 bp starting portion of the ORF of SEQ ID NO: 4 (impE2) overlaps in 7 nucleotide bases with a different gene (NCBI GenBank: NZ CP014279, WP 066795119, transcriptional regulator), which is located upstream of impE2. Since the functions of the gene located upstream of impE2 and the protein encoded by the gene have not been confirmed, in the present disclosure, the protein was named ImpEl(WT) (the amino acid sequence of SEQ ID NO: 1 and the nucleotide sequence of SEQ ID NO: 3). 
+ Example 2-2: Preparation of impEl- or impE2-deficient vector 
+ In order to confirm whether the deletion of ImpEl or ImpE2, which are involved in releasing the growth inhibition caused by IMP as identified in Examples 1 and 2-1, in an IMP-producing strain can reduce its IMP-exporting ability, attempts were made to prepare vectors deficient in each of the genes. 
+ The gene fragments for preparing the vectors were obtained by PCR using the genomic DNA of the ATCC6872 strain as a template. 
+ Specifically, the PCR for impEl was performed using primers of SEQ ID NOS: 5 and 6 and primers of SEQ ID NOS: 7 and 8; and the PCR for impE2 was performed using the primers of SEQ ID NOS: 9 and 10 and primers of SEQ ID NOS: 11 and 12 (Table 3). 
+ [Table 3] 
+ 
+ 
+ 
+ 
+ 
+ 
+SEQ ID
+NO 
+ 
+Primer 
+ 
+Sequence (5' - 3') 
+ 
+ 
+ 
+5 
+ 
+impEl kop-1 
+ 
+GCTCTAGACGAGAAAGCTAAAGCCGGTGA 
+ 
+ 
+ 
+6 
+ 
+impEl kop-2 
+ 
+GTTTTTAGCTACCATTGTTACACCCCGTGCAAGTTT 
+ 
+ 
+ 
+7 
+ 
+impEl kop-3 
+ 
+GCACGGGGTGTAACAATGGTAGCTAAAAACTCCACC 
+ 
+ 
+ 
+8 
+ 
+impEl kop-4 
+ 
+GCTCTAGAAATAGTTGGGGAAGTCCACTC 
+ 
+ 
+ 
+9 
+ 
+impE2 kop-1 
+ 
+GCTCTAGACTTGGATGACCTGGTGGAAAA 
+ 
+ 
+ 
+10 
+ 
+impE2 kop-2 
+ 
+CTTGGAGAAAATTTCCTACCATTCCAGTCCTTTCGT 
+ 
+ 
+ 
+11 
+ 
+impE2 kop-3 
+ 
+GGACTGGAATGGTAGGAAATTTTCTCCAAGGGAAAT 
+ 
+ 
+ 
+12 
+ 
+impE2 kop-4 
+ 
+GGACTAGTGGATTGTGTTGACGCACGATG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+65 
+ 
+impElE2 kop-2 
+ 
+CTTGGAGAAAATTTCTGTTACACCCCGTGCAAGTTT 
+ 
+ 
+ 
+66 
+ 
+impElE2 kop-3 
+ 
+GCACGGGGTGTAACAGAAATTTTCTCCAAGGGAAAT 
+ 
+ 
+ 
+ 
+ 
+ In particular, the primers used were prepared based on information on a gene of Corynebacterium stationis (ATCC6872) (NCBI Genbank: NZ_CP014279) registered in NIH GenBank and the nucleotide sequences adjacent thereto. 
+ PCR was performed by initial denaturation at 94°C for 5 minutes; 25 cycles consisting of denaturation at 94°C for 30 seconds, annealing at 52°C for 3 minutes, and polymerization at 72°C for 1 minute; and final polymerization at 72°C for 5 minutes. 
+ Overlapping PCR was performed using two fragments of the impEl gene, which were amplified using the primers of SEQ ID NOS: 5 and 6 and the primers of SEQ ID NOS: 7 and 8, as templates, and as a result, a polynucleotide template (1.8 kbp) was obtained. The obtained gene fragment was cloned into a linearized pDZ vector (Korean Patent No. 100924065 and International Patent Publication No. 2008-033001), which was digested with the restriction enzyme (XbaT), and ligated using T4 ligase, and thereby the pDZ-AimpEl vector was prepared. Additionally, overlapping polymerase chain reaction was performed using a fragment of the impE2 gene, amplified using the primers of SEQ ID NOS: 9 and 10, and two fragments of the impE2 gene, amplified using the primers of SEQ ID NOS: 11 and 12, as templates, and as a result, a polynucleotide template (1.7 kbp) was obtained. The obtained gene fragment was digested with restriction enzymes, Xbal and Spel. The gene fragment was cloned using T4 ligase into a linearized pDZ vector, which had already been digested with the restriction enzyme (Xba\), and thereby the pDZ-AimpE2 vector was prepared. 
+ Example 2-3: Preparation of impEl- and impE2-integration-deficient vectors 
+ Since the impEl and impE2 genes, which encode proteins involved in releasing the growth inhibition caused by IMP, are overlapped, there is a need to regulate both genes simultaneously. Therefore, attempts were made to prepare a vector in which both impEl and impE2 are deficient. 
+ For the PCR of impEl and impE2 genes, primers of SEQ ID NOS: 5 and 65 and primers of SEQ ID NOS: 66 and 12 were used. The primers used were prepared based on information on a gene of Corynebacterium stationis (ATCC6872) (NCBI Genbank: 
+ NZ CPO14279) registered in NIH GenBank and the nucleotide sequences adjacent thereto. Overlapping PCR was performed using a fragment of the impEl gene, amplified using the primers of SEQ ID NOS: 5 and 65, and two fragments of the impE2 gene, amplified using the primers of SEQ ID NOS: 66 and 12, as templates, and as a result, a polynucleotide template (2.0 kbp) was obtained. The obtained gene fragments were digested with Xbal and Spel, respectively. The gene fragments were cloned using T4 ligase into a linearized pDZ vector, which had already been digested with the restriction enzyme (Xba\), and thereby the pDZAimpElE2 vector was prepared. 
+ Example 2-4: Preparation of impEl- and impE2-deficient strains 
+ The two kinds of plasmids prepared in Example 2-2 and one kind of plasmid prepared in Example 2-3 were each transformed into the CJI0323 strain by electroporation (using the transformation method disclosed in Appl. Microbiol. Biotechnol. (1999) 52: 541 to 545). The strains in which the vector was inserted into the chromosome by recombination of the homologous sequences were selected on a medium containing kanamycin (25 mg/L). The selected primary strains were subjected to a second cross-over. The genetic deficiency in the finally transformed strains was confirmed by performing PCR using the primer pairs of SEQ ID NOS: 5 and 8, SEQ ID NOS: 9 and 12, and SEQ ID NOS: 5 and 12. 
+ The selected strains were named CJI0323_AimpEl, CJI0323_AimpE2, and CJI0323_AimpElE2. Additionally, the ability to produce IMP of these strains was evaluated. 
+ The seed medium (2 mL) was dispensed into test tubes (diameter: 18 mm), which were then autoclaved, each inoculated with CJI0323, CJI0323_AimpEl, CJI0323_AimpE2, and CJI0323_AimpElE2, shake-cultured at 30°C for 24 hours, and used as seed culture solutions. The fermentation medium (29 mL) was dispensed into Erlenmeyer flasks (250 mL) for shaking and autoclaved at 121 °C for 15 minutes. Then, the seed culture solution (2 mL) was inoculated thereto and the resultant was cultured for 3 days. The culture conditions were set to 170 rpm, 30°C, and a pH of 7.5. 
+ Upon completion of the culture, the amount of IMP produced was measured by HPLC, and the results of the culture are shown in Table 4 below. 
+ [Table 4] 
+ 
+ 
+ 
+ 
+ 
+ 
+Strain 
+ 
+IMP (g/L) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CJI0323 
+ 
+9.52 
+ 
+ 
+ 
+CJI0323_AimpEl 
+ 
+1.92 
+ 
+ 
+ 
+CJI0323_AimpE2 
+ 
+1.88 
+ 
+ 
+ 
+CJI0323_AimpElE2 
+ 
+1.80 
+ 
+ 
+ 
+ 
+ 
+ The IMP amount accumulated in each strain was compared with that of the parent strain, Corynebacterium stationis CJI0323. As a result, it was found that, as shown in Table 4 above, the IMP concentrations of the strains CJI0323_AimpEl, CJI0323_AimpE2, and CJI0323_AimpElE2 were reduced by about 8 g/L under the same conditions compared to the CJI0323 strain, confirming that ImpEl and ImpE2 are proteins involved in the IMP export. 
+ Example 3: Confirmation of nucleotide sequences of impEl and impE2 of IMPproducing strain, CJI0323 
+ In the case of the CJI0323 strain producing IMP at high concentration in Example 1, it is possible that the strain has an improved IMP-exporting ability so as to produce IMP at high concentration. Accordingly, an attempt was made to confirm the presence of any mutation in impEl and impE2 of the CJI0323 strain. 
+ The chromosomal DNA of the CJI0323 strain was amplified by polymerase chain reaction (hereinafter, “PCR”). Specifically, first, PCR was performed by repeating 28 cycles consisting of denaturation at 94°C for 1 minute, annealing at 58°C for 30 seconds, and polymerization at 72°C for 2 minutes using the chromosomal DNA of the CJI0323 strain as a template along with the primers of SEQ ID NOS: 13 and 14 (Table 5), and thereby a fragment of about 2.8 kbp was amplified. 
+ [Table 5] 
+ 
+ 
+ 
+ 
+ 
+ 
+SEQ ID NO 
+ 
+Primer 
+ 
+Sequence (5' to 3') 
+ 
+ 
+ 
+13 
+ 
+impElE2 seqF 
+ 
+GAACGGAGTCATCTCCTTTGC 
+ 
+ 
+ 
+14 
+ 
+impElE2 seqR 
+ 
+CCAAACGCTCTGCAAGAAACTG 
+ 
+ 
+ 
+ 
+ 
+ Upon analysis of the nucleotide sequence using the same primers, it was confirmed that the 490 th  nucleotide of the impEl gene (z.e., g) was substituted with ‘a’, compared to the nucleotide sequence of the wild-type strain, ATCC6872. This substitution indicates that there was a mutation in which the 164 th  amino acid of the ImpEl protein (z.e., glutamic acid) was substituted with lysine. 
+ Additionally, it was confirmed that the 4 th  nucleotide of the impE2 gene (i.e., g) was substituted with ‘a’ (this means that the 666 th  nucleotide of the impEl gene (i.e., g) was substituted with ‘a’) and the 191 st  nucleotide of the impEl gene (i.e., g) was substituted with ‘a’. These substitutions indicate that there were mutations in which the 2 nd  amino acid of the ImpE2 protein (i.e., valine), which corresponds to the 222 nd  amino acid of the ImpEl protein, was substituted with isoleucine; and the 64 th  amino acid of the ImpE2 protein (i.e., glycine) was substituted with glutamic acid. 
+ The impEl nucleotide of the CJI0323 strain was named impEl CJI0323 (SEQ ID NO: 87) and the protein thereof was named ImpEl_CJI0323 (SEQ ID NO: 85), whereas the impE2 nucleotide of the CJI0323 strain was named impE2_CJI0323 (SEQ ID NO: 88) and the protein thereof was named ImpE2_CJI0323 (SEQ ID NO: 86). 
+ Example 4: Recovery of mutations in impEl and impE2 
+ Example 4-1: Preparation of vectors for recovering mutations in impEl or impE2 
+ In Example 3, the presence of any mutation in impEl and impE2 of the IMP-producing strain CJI0323 was examined. As a result, it was confirmed that impEl had one mutation and impE2 had two mutations. Since the CJI0323 strain produces IMP at a high concentration, it is highly likely that the mutation is one that can improve the ability to export IMP. Accordingly, after recovering the mutated impEl and impE2 to the native wild-type ImpE without mutation, the following experiment was performed to confirm whether additionally discovered protein variants have improved IMP-exporting ability. 
+ To prepare a recovery vector, PCR was performed using Corynebacterium stationis ATCC6872 as a template. 
+ The impElimpE2 gene fragment amplified using the primers of SEQ ID NOS: 89 and 90 was treated with a restriction enzyme, Xbal, and cloned into the Xbal restriction site on the pDZ vector, and thereby thepDZ-impElE2(WT) was prepared. 
+ Example 4-2: Preparation of vectors with single mutation in impEl or impE2 
+ The plasmid prepared in Example 4-1 was transformed into the CJI0323 strain by electroporation (using the transformation method disclosed in Appl. Microbiol. Biotechnol. (1999) 52: 541 to 545). The strains in which the vector was inserted into the chromosome by recombination of the homologous sequences were selected on a medium containing kanamycin (25 mg/L). The selected primary strains were subjected to a second cross-over. 
+ The recovery of the mutation in the finally transformed strains was confirmed by performing 
+ PCR using the primer pair of SEQ ID NOS: 89 and 90, followed by nucleotide sequencing analysis. The prepared strain was named CJI0323_impElE2(WT). 
+ Example 5: Discovery of mutations in impE2 
+ Among the three kinds of mutations discovered through the results in Example 3, the one having the highest IMP-exporting ability was selected and the following experiment was performed to discover mutations having a higher IMP-exporting ability compared to the same. 
+ Example 5-1: Selection of mutations having the highest IMP-exporting ability among impElE2 mutations 
+ A vector with a single E164K mutation in the ImpEl gene was prepared using the native wild-type strain, Corynebacterium stationis ATCC6872, as a template along with the primers of SEQ ID NOS: 91 and 92 and primers of SEQ ID NOS: 93 and 94. Overlapping PCR was performed using an E164K-1 gene fragment amplified using the primers of SEQ ID NOS: 91 and 92 and two E164K-2 gene fragments amplified using the primers of SEQ ID NOS: 93 and 94, and thereby a template with a 1.8 kbp polynucleotide was obtained. The obtained gene fragments were digested with Xbal and cloned into a linearized pDZ vector, which had already been digested with Xbal, using T4 ligase, and thereby the pDZimpEl(E164K) vector was prepared. 
+ A vector with a single V2I mutation in the ImpE2 gene was prepared using the ATCC6872 strain as a template along with the primers of SEQ ID NOS: 91 and 95 and primers of SEQ ID NOS: 96 and 94. Overlapping PCR was performed using a V2I-1 gene fragment amplified using the primers of SEQ ID NOS: 91 and 95 and two V2I-2 gene fragments amplified using the primers of SEQ ID NOS: 96 and 94, and thereby a template with a 1.8 kbp polynucleotide was obtained. The obtained gene fragments were digested with Xbal and cloned into a linearized pDZ vector, which had already been digested with Xbal, using T4 ligase, and thereby thepDZ-impE2(V2I) vector was prepared. 
+ A vector with a single G64E mutation in the ImpE2 gene was prepared using the ATCC6872 strain as a template along with the primers of SEQ ID NOS: 91 and 97 and primers of SEQ ID NOS: 98 and 94. Overlapping PCR was performed using a G64E-1 gene fragment amplified using the primers of SEQ ID NOS: 91 and 97 and two G64E-2 gene fragments amplified using the primers of SEQ ID NOS: 98 and 94, and thereby a template with a 1.8 kbp polynucleotide was obtained. The obtained gene fragments were digested with Xbal and cloned into a linearized pDZ vector, which had already been digested with Xbal, using T4 ligase, and thereby the pDZ-impE2(G64E) vector was prepared. 
+ [Table 6] 
+ 
+ 
+ 
+ 
+ 
+ 
+SEQ ID
+NO 
+ 
+Primer 
+ 
+Sequence (5' to 3') 
+ 
+ 
+ 
+89 
+ 
+impEl E2 WT F 
+ 
+GCTCTAGAGAACGGAGTCATCTCCTTTGC 
+ 
+ 
+ 
+90 
+ 
+impEl E2 WT R 
+ 
+GCTCTAGACCAAACGCTCTGCAAGAAACTG 
+ 
+ 
+ 
+91 
+ 
+impEl 164K-1 
+ 
+GCTCTAGACTTGGATGACCTGGTGGAAAA 
+ 
+ 
+ 
+92 
+ 
+impEl 164K-2 
+ 
+CTGGGGCGCGTTGTTTTTCAGGATGCTCCCGAAGACG 
+ 
+ 
+ 
+93 
+ 
+impEl 164K-3 
+ 
+AACAACGCGCCCCAGAATTGG 
+ 
+ 
+ 
+94 
+ 
+impEl 164K-4 
+ 
+GCTCTAGAAATAGTTGGGGAAGTCCACTC 
+ 
+ 
+ 
+95 
+ 
+impE2 V2I-2 
+ 
+TGGAGTTTTTAGCTATCATTCCAGTCCTTTCGTGTAA 
+ 
+ 
+ 
+96 
+ 
+impE2 V2I-3 
+ 
+TAGCTAAAAACTCCACCCCAA 
+ 
+ 
+ 
+97 
+ 
+impE2 G64E-2 
+ 
+CCGAAAATCATCTGCTCCAAAGAGCTCATCAGCATGG 
+ 
+ 
+ 
+98 
+ 
+impE2 G64E-3 
+ 
+GCAGATGATTTTCGGTTCCGC 
+ 
+ 
+ 
+ 
+ 
+ The three kinds of plasmids prepared in Example 4-2 were transformed into the CJI0323_impEl E2(WT) strain (using the transformation method disclosed vaAppl. Microbiol. Biotechnol. (1999) 52: 541 to 545). The strains in which the vector was inserted into the chromosome by recombination of the homologous sequences were selected on a medium containing kanamycin (25 mg/L). The selected primary strains were subjected to a second cross-over. The introduction of the mutation in the finally transformed strains was confirmed by performing PCR using the primer pair of SEQ ID NOS: 13 and 14, followed by nucleotide sequencing analysis. The selected strains were named CJI0323_impEl(E164K), CJI0323JmpE2(V2I), and CJI0323_impE2(G64E). 
+ The CJI0323_impEl(E\64¥A, Corynebacterium stationis CJK)323_impE2(\ ! 2\), and Corynebacterium stationis CJI0323_impE2(G64E) strains were deposited on November 2, 2018, to the Korean Culture Center of Microorganisms (KCCM), an international depositary authority under the Budapest Treaty, and assigned Accession Numbers KCCM12359P, 
+ KCCM12360P, and KCCM12361P, respectively. 
+ The seed medium (2 mL) was dispensed into test tubes (diameter: 18 mm), which were then autoclaved, each inoculated with CJI0323_impElE2(WT), CJI0323_impEl(E164K), CJI0323_impE2(V2I), and CJI0323JmpE2(G64E), shake-cultured at 30°C for 24 hours, and used as seed culture solutions. The fermentation medium (29 mL) was dispensed into Erlenmeyer flasks (250 mL) for shaking and autoclaved at 121°C for 15 minutes. Then, the seed culture solutions (2 mL) were inoculated thereto and the resultants were cultured for 3 days. The culture conditions were set to 170 rpm, 30°C, and a pH of 7.5. 
+ Upon completion of the culture, the amount of IMP produced was measured by HPLC, and the results of the culture are shown in Table 7 below. 
+ [Table 7] 
+ 
+ 
+ 
+ 
+ 
+ 
+Strain 
+ 
+IMP (g/L) 
+ 
+ 
+ 
+CJI0323 
+ 
+9.52 
+ 
+ 
+ 
+CJI0323_impElE2( WT) 
+ 
+2.32 
+ 
+ 
+ 
+CJI0323_impEl(E164K) 
+ 
+2.57 
+ 
+ 
+ 
+CJI0323_impE2(V2I) 
+ 
+3.11 
+ 
+ 
+ 
+CJI0323_impE2(G64E) 
+ 
+3.27 
+ 
+ 
+ 
+ 
+ 
+ As shown above, it was confirmed that each of the three kinds of mutations is involved in IMP export, and that the CJI0323_impE2(G64E) strain had the greatest amount of IMP production among the three kinds of mutations. 
+ Example 5-2: Preparation of vectors for substitutional insertion of amino acids in impE2 mutation 
+ To confirm the positional importance of the impE2(G64E) mutation among the representative three kinds of mutations with enhanced ability to produce IMP as identified in the results above, a vector for introducing a mutation of substituting the 64 th  amino acid in the amino acid sequence of impE2 with a different amino acid was prepared. 
+ The procedure of preparing the vector for the introduction of the ImpE2(G64E) mutation is as follows. 
+ Based on the reported polynucleotide sequences, the chromosomal genes of Corynebacterium stationis CJI0323 were isolated, and gene fragments were obtained by performing PCR using the chromosomal DNA of Corynebacterium stationis CJI0323 as a template along with primer pairs between the primer of SEQ ID NO: 15 and each of SEQ ID NOS: 16 to 33. PCR was performed by initial denaturation at 94°C for 5 minutes; 20 cycles consisting of denaturation at 94°C for 30 seconds, annealing at 55°C for 30 seconds, and polymerization at 72°C for 1 minute; and final polymerization at 72°C for 5 minutes. As a result, 18 kinds of 1 kbp polynucleotides were obtained. 
+ Then, the chromosomal genes of Corynebacterium stationis CJI0323 were isolated, and gene fragments were obtained by performing PCR using the chromosomal DNA of Corynebacterium stationis CJI0323 as a template along with primer pairs between the primer of SEQ ID NO: 34 and each of SEQ ID NOS: 35 to 52. PCR was performed by initial denaturation at 94°C for 5 minutes; 20 cycles consisting of denaturation at 94°C for 30 seconds, annealing at 55°C for 30 seconds, and polymerization at 72°C for 1 minute; and final polymerization at 72°C for 5 minutes. As a result, 18 kinds of 1 kbp polynucleotides were obtained. 
+ Overlapping PCR was performed using two fragments obtained from the above results as a template, and thereby 18 kinds of 2 kbp polynucleotides to be used as templates were obtained. The obtained gene fragments were digested with a restriction enzyme, Xbal, ligated to the linearized pDZ vector, which had already been digested with a restriction enzyme, Xbal, transformed into E. coli DH5a, and the transformants were plated on a solid LB medium containing kanamycin (25 mg/L). 
+ The sequence information on the primers used for the preparation of the vector is shown in Table 8 below. 
+ [Table 8] 
+ 
+ 
+ 
+ 
+ 
+ 
+SEQ ID NO 
+ 
+Primer 
+ 
+Sequence (5' to 3') 
+ 
+ 
+ 
+15 
+ 
+XbaI-impE2 64 IF 
+ 
+GGGTCTAGAAAAGAGCTTAAGGCAGCTGCT 
+ 
+ 
+ 
+16 
+ 
+impE2 64-R 1R 
+ 
+GAAAATCATCTGGCGCAAAGAGCTCAT 
+ 
+ 
+ 
+17 
+ 
+impE2 64-H 1R 
+ 
+GAAAATCATCTGGTGCAAAGAGCTCAT 
+ 
+ 
+ 
+18 
+ 
+impE2 64-D 1R 
+ 
+GAAAATCATCTGGTCCAAAGAGCTCAT 
+ 
+ 
+ 
+19 
+ 
+impE2 64-K 1R 
+ 
+GAAAATCATCTGCTTCAAAGAGCTCAT 
+ 
+ 
+ 
+20 
+ 
+impE2 64-S 1R 
+ 
+GAAAATCATCTGGGACAAAGAGCTCAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+ 
+impE2 64-T IR 
+ 
+GAAAATCATCTGGGTCAAAGAGCTCAT 
+ 
+ 
+ 
+22 
+ 
+impE2 64-N IR 
+ 
+GAAAATCATCTGGTTCAAAGAGCTCAT 
+ 
+ 
+ 
+23 
+ 
+impE2 64-Q IR 
+ 
+GAAAATCATCTGCTGCAAAGAGCTCAT 
+ 
+ 
+ 
+24 
+ 
+impE2 64-C IR 
+ 
+GAAAATCATCTGGCACAAAGAGCTCAT 
+ 
+ 
+ 
+25 
+ 
+impE2 64-P IR 
+ 
+GAAAATCATCTGTGGCAAAGAGCTCAT 
+ 
+ 
+ 
+26 
+ 
+impE2 64-A IR 
+ 
+GAAAATCATCTGAGCCAAAGAGCTCAT 
+ 
+ 
+ 
+27 
+ 
+impE2 64-V IR 
+ 
+GAAAATCATCTGGACCAAAGAGCTCAT 
+ 
+ 
+ 
+28 
+ 
+impE2 64-1 IR 
+ 
+GAAAATCATCTGGATCAAAGAGCTCAT 
+ 
+ 
+ 
+29 
+ 
+impE2 64-L IR 
+ 
+GAAAATCATCTGCAGCAAAGAGCTCAT 
+ 
+ 
+ 
+30 
+ 
+impE2 64-M IR 
+ 
+GAAAATCATCTGCATCAAAGAGCTCAT 
+ 
+ 
+ 
+31 
+ 
+impE2 64-F IR 
+ 
+GAAAATCATCTGGAACAAAGAGCTCAT 
+ 
+ 
+ 
+32 
+ 
+impE2 64-Y IR 
+ 
+GAAAATCATCTGGTACAAAGAGCTCAT 
+ 
+ 
+ 
+33 
+ 
+impE2 64-W IR 
+ 
+GAAAATCATCTGCCACAAAGAGCTCAT 
+ 
+ 
+ 
+34 
+ 
+XbaI-impE2 64 2R 
+ 
+GGGTCTAGACGGTCAATGAAGTCTCAACGG 
+ 
+ 
+ 
+35 
+ 
+impE2 64-R 2F 
+ 
+ATGAGCTCTTTGCGCCAGATGATTTTC 
+ 
+ 
+ 
+36 
+ 
+impE2 64-H 2F 
+ 
+ATGAGCTCTTTGCACCAGATGATTTTC 
+ 
+ 
+ 
+37 
+ 
+impE2 64-D 2F 
+ 
+ATGAGCTCTTTGGACCAGATGATTTTC 
+ 
+ 
+ 
+38 
+ 
+impE2 64-K 2F 
+ 
+ATGAGCTCTTTGAAGCAGATGATTTTC 
+ 
+ 
+ 
+39 
+ 
+impE2 64-S 2F 
+ 
+ATGAGCTCTTTGTCCCAGATGATTTTC 
+ 
+ 
+ 
+40 
+ 
+impE2 64-T 2F 
+ 
+ATGAGCTCTTTGACCCAGATGATTTTC 
+ 
+ 
+ 
+41 
+ 
+impE2 64-N 2F 
+ 
+ATGAGCTCTTTGAACCAGATGATTTTC 
+ 
+ 
+ 
+42 
+ 
+impE2 64-Q 2F 
+ 
+ATGAGCTCTTTGCAGCAGATGATTTTC 
+ 
+ 
+ 
+43 
+ 
+impE2 64-C 2F 
+ 
+ATGAGCTCTTTGTGCCAGATGATTTTC 
+ 
+ 
+ 
+44 
+ 
+impE2 64-P 2F 
+ 
+ATGAGCTCTTTGCCACAGATGATTTTC 
+ 
+ 
+ 
+45 
+ 
+impE2 64-A 2F 
+ 
+ATGAGCTCTTTGGCTCAGATGATTTTC 
+ 
+ 
+ 
+46 
+ 
+impE2 64-V 2F 
+ 
+ATGAGCTCTTTGGTCCAGATGATTTTC 
+ 
+ 
+ 
+47 
+ 
+impE2 64-1 2F 
+ 
+ATGAGCTCTTTGATCCAGATGATTTTC 
+ 
+ 
+ 
+48 
+ 
+impE2 64-L 2F 
+ 
+ATGAGCTCTTTGCTGCAGATGATTTTC 
+ 
+ 
+ 
+49 
+ 
+impE2 64-M 2F 
+ 
+ATGAGCTCTTTGATGCAGATGATTTTC 
+ 
+ 
+ 
+50 
+ 
+impE2 64-F 2F 
+ 
+ATGAGCTCTTTGTTCCAGATGATTTTC 
+ 
+ 
+ 
+51 
+ 
+impE2 64-Y 2F 
+ 
+ATGAGCTCTTTGTACCAGATGATTTTC 
+ 
+ 
+ 
+52 
+ 
+impE2 64-W 2F 
+ 
+ATGAGCTCTTTGTGGCAGATGATTTTC 
+ 
+ 
+ 
+ 
+ 
+ After selecting the colonies transformed with the vector into which the target gene was inserted, the plasmids were obtained using a conventionally known plasmid extraction method. The information on the obtained plasmids is shown in Table 9 below. 
+ [Table 9] 
+ 
+ 
+ 
+ 
+ 
+ 
+No. 
+ 
+Plasmid 
+ 
+ 
+ 
+1 
+ 
+pDZ-impE2 64R 
+ 
+ 
+ 
+2 
+ 
+pDZ-impE2 64H 
+ 
+ 
+ 
+3 
+ 
+pDZ-impE2 64D 
+ 
+ 
+ 
+4 
+ 
+pDZ-impE2 64K 
+ 
+ 
+ 
+5 
+ 
+pDZ-impE2 64S 
+ 
+ 
+ 
+6 
+ 
+pDZ-impE2 64T 
+ 
+ 
+ 
+7 
+ 
+pDZ-impE2 64N 
+ 
+ 
+ 
+8 
+ 
+pDZ-impE2 64Q 
+ 
+ 
+ 
+9 
+ 
+pDZ-impE2 64C 
+ 
+ 
+ 
+10 
+ 
+pDZ-impE2 64P 
+ 
+ 
+ 
+11 
+ 
+pDZ-impE2 64A 
+ 
+ 
+ 
+12 
+ 
+pDZ-impE2 64V 
+ 
+ 
+ 
+13 
+ 
+pDZ-impE2 641 
+ 
+ 
+ 
+14 
+ 
+pDZ-impE2 64L 
+ 
+ 
+ 
+15 
+ 
+pDZ-impE2 64M 
+ 
+ 
+ 
+16 
+ 
+pDZ-impE2 64F 
+ 
+ 
+ 
+17 
+ 
+pDZ-impE2 64Y 
+ 
+ 
+ 
+18 
+ 
+pDZ-impE2 64W 
+ 
+ 
+ 
+ 
+ 
+ Example 5-3: Preparation of strains where the amino acid at position 64 of variant (ImpE2) is substituted with another amino acid, and comparison of ability to produce IMP 
+ The 18 kinds of plasmids prepared in Example 3-1 were transformed into the CJI0323 strain. The strains in which the vector was inserted into the chromosome by recombination of the homologous sequences were selected on a medium containing kanamycin (25 mg/L). The selected primary strains were subjected to a second cross-over. The introduction of the mutation in the finally transformed strains was confirmed by performing PCR using the primer pair of SEQ ID NOS: 13 and 14, followed by nucleotide sequencing analysis. The strain names according to the inserted mutations are shown in Table 10 below. 
+ [Table 10] 
+ 
+ 
+ 
+ 
+ 
+ 
+No. 
+ 
+Strain 
+ 
+ 
+ 
+1 
+ 
+CJI0323: :unpE2(G64R) 
+ 
+ 
+ 
+2 
+ 
+CJI0323: :impE2(G64H) 
+ 
+ 
+ 
+3 
+ 
+CJH)323:impE2(G64D) 
+ 
+ 
+ 
+4 
+ 
+CJI0323::impE2(G64K) 
+ 
+ 
+ 
+5 
+ 
+CJI0323::impE2(G64S) 
+ 
+ 
+ 
+6 
+ 
+CJI0323: :unpE2(G64T) 
+ 
+ 
+ 
+7 
+ 
+CJI0323::impE2(G64N) 
+ 
+ 
+ 
+8 
+ 
+CJI0323: :unpE2(G64Q) 
+ 
+ 
+ 
+9 
+ 
+CJI0323::impE2(G64C) 
+ 
+ 
+ 
+10 
+ 
+CJI0323: :unpE2(G64P) 
+ 
+ 
+ 
+11 
+ 
+C.JI0323: :impE2(G64A) 
+ 
+ 
+ 
+12 
+ 
+CJI0323: :impE2(G64 V) 
+ 
+ 
+ 
+13 
+ 
+C.J/0323::impE2(G64/) 
+ 
+ 
+ 
+14 
+ 
+CJI0323:impE2(G64L) 
+ 
+ 
+ 
+15 
+ 
+CJI0323::impE2(G64M) 
+ 
+ 
+ 
+16 
+ 
+CJI0323: :unpE2(G64F) 
+ 
+ 
+ 
+17 
+ 
+CJI0323:impE2(G64Y) 
+ 
+ 
+ 
+18 
+ 
+CJI0323: :impE2(G64 W) 
+ 
+ 
+ 
+ 
+ 
+ Strains were cultured in the same manner as in Example 2 and the concentration of IMP therefrom was analyzed (Table 11). 
+ [Table 11] 
+ 
+ 
+ 
+ 
+ 
+ 
+Concentration of IMP Production by impE2 Mutation (g/L) 
+ 
+ 
+ 
+Strain 
+ 
+Average IMP 
+ 
+ 
+ 
+CJI0323_impElE2( WT) 
+ 
+2.32 
+ 
+ 
+ 
+CJI0323_impEl (El 64K)_impE2( V2I) 
+ 
+4.24 
+ 
+ 
+ 
+CJI0323::impE2(G64R) 
+ 
+4.42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CJI0323::impE2(G64H) 
+ 
+5.14 
+ 
+ 
+ 
+CJI0323::impE2(G64D) 
+ 
+11.53 
+ 
+ 
+ 
+CJI0323::impE2(G64K) 
+ 
+8 
+ 
+ 
+ 
+CJI0323::impE2(G64S) 
+ 
+5.7 
+ 
+ 
+ 
+CJI0323::impE2(G64T) 
+ 
+5.52 
+ 
+ 
+ 
+CJI0323::impE2(G64N) 
+ 
+5.9 
+ 
+ 
+ 
+CJI0323::impE2(G64Q) 
+ 
+4.8 
+ 
+ 
+ 
+CJI0323::impE2(G64C) 
+ 
+5.9 
+ 
+ 
+ 
+CJI0323::impE2(G64P) 
+ 
+4.75 
+ 
+ 
+ 
+CJI0323::impE2(G64A) 
+ 
+4.58 
+ 
+ 
+ 
+CJI0323::impE2(G64V) 
+ 
+4.56 
+ 
+ 
+ 
+CJI0323::impE2(G64I) 
+ 
+5.89 
+ 
+ 
+ 
+CJI0323::impE2(G64L) 
+ 
+5.6 
+ 
+ 
+ 
+CJI0323::impE2(G64M) 
+ 
+4.3 
+ 
+ 
+ 
+CJI0323::impE2(G64F) 
+ 
+5.89 
+ 
+ 
+ 
+C.J/0323::impE2(G64Y) 
+ 
+4.6 
+ 
+ 
+ 
+C.J/0323::impE2(G64 W) 
+ 
+4.76 
+ 
+ 
+ 
+ 
+ 
+ As shown above, all of the modified strains showed an increase in the ability to produce IMP compared to the CJI0323_impElE2(WT) strain, and thus, it was reconfirmed that the 64 th  amino acid mutation of the impE2 is an important site that has a significant effect 5 on the increase of the ability of the ImpE protein with respect to IMP export. In particular, in the case where the 64 th  amino acid (z.e., glycine) is substituted with a different amino acid (z.e., aspartate), the ability to export IMP was increased by 172% compared to that of the CJI0323_impEl(E164K)_impE2(V2r) strain, which has no mutation in the 64 th  amino acid. Additionally, it was confirmed that in the case where the 64 th  amino acid (z.e., glycine) is 10 substituted with a different amino acid (z.e., aspartate), the ability to produce IMP was improved by 397% compared to the CJI0323_impElE2(WT) strain, which is the strain recovered to a wild-type strain, and by 20% compared to the CJI0323 strain. 
+ Example 6: Library of impE mutation using artificial mutagenesis 
+ To obtain a protein variant having an improved ability to export IMP, a vector library for a first cross-over insertion within the chromosome was prepared by the following method. 
+ In this regard, an attempt was made to perform error-prone PCR with respect to impE2 of the CJK)323::impE2(G64D) strain, which was confirmed to have the greatest ability to export IMP by the results of Example 5-3. To introduce a mutation in the amino acid sequence possessed by the CJI0323::G64D strain at a position downstream of the 64 th  amino acid thereof, impE gene variants (1.6 kbp) where nucleotide substitutions are randomly introduced from the 193 rd  nucleotide of the impE2 to about 130 bp downstream therefrom were obtained. Error-prone PCR was performed using the Diversify PCR Random Mutagenesis Kit (Clontech), and gene fragments were obtained by PCR using the genomic DNA of the CJI0323::impE2(G64D) strain as a template along with a primer pair of SEQ ID NO: 53 and SEQ ID NO: 54 (Table 12). 
+ [Table 12] 
+ 
+ 
+ 
+ 
+ 
+ 
+SEQ ID NO 
+ 
+Primer 
+ 
+Sequence (5' to 3') 
+ 
+ 
+ 
+53 
+ 
+impE lib F 
+ 
+CAGATGATTTTCGGTTCCGCTC 
+ 
+ 
+ 
+54 
+ 
+impE lib R 
+ 
+GACCGAGACAAAAACGCCAAACG 
+ 
+ 
+ 
+ 
+ 
+ Mutations were introduced to the amplified gene fragments in an amount of 0 to 3.5 mutations per 1 kb of each gene fragment. PCR was performed by initial denaturation at 94°C for 5 minutes; 30 cycles consisting of denaturation at 94°C for 30 seconds, annealing at 60°C for 30 seconds, and polymerization at 72°C for 1 minute and 36 seconds; and final polymerization at 72°C for 5 minutes. As a result, a 1.6 kbp polynucleotide was obtained. 
+ The amplified gene fragment was ligated to the pCR2.1-TOPO vector using the pCR2.1-TOPO TA cloning kit (Invitrogen), transformed into E. coli DH5a, and the transformants were plated on a solid LB medium containing kanamycin (25 mg/L). Twenty kinds of the transformed colonies were selected and plasmids were obtained therefrom. Upon analysis of the polynucleotide sequences of these plasmids, it was confirmed that mutations were introduced at different positions at a frequency of 3.5 mutations/kb. About 20,000 transformed E. coli colonies were selected and their plasmids were extracted. The resulting library was named pTOPOimpE library. 
+ Example 7: Selection of strains where impE library vectors are inserted 
+ The pTOPO impE library vectors prepared in Example 6 were transformed by electroporation into the CJ10323::impE2(G64D) strain capable of producing IMP at high concentration and the transformants were plated on a nutrient medium containing kanamycin (25 mg/L). As a result, 10,000 colonies of strains, in which modified genes were inserted, were obtained and these colonies were named CJI0323:: unpE2(G64D)/pTC) PC)_impE(mt)l to C.J10323::impE2(G64D) /pTOPO impE(mt) 10000. 
+ - Nutrient medium: 1% peptone, 1% meat juice, 0.25% sodium chloride, 1% yeast extract, 2% agar, pH 7.2 
+ - Seed medium: 1% glucose, 1% peptone, 1% meat juice, 1% yeast extract, 0.25% sodium chloride, adenine (100 mg/L), guanine (100 mg/L), pH 7.5 
+ - Fermentation medium: 0.1% sodium glutamate, 1% ammonium chloride, 1.2% magnesium sulfate, 0.01% calcium chloride, iron sulfate (20 mg/L), manganese sulfate (20 mg/L), zinc sulfate (20 mg/L), copper sulfate (5 mg/L), L-cysteine (23 mg/L), alanine (24 mg/L), nicotinic acid (8 mg/L), biotin (45 gg/L), thiamine hydrochloride (5 mg/L), adenine (30 mg/L), 1.9% phosphoric acid (85%), 2.55% glucose, 1.45% fructose 
+ Each of the obtained 10,000 colonies was inoculated with an autoclaved seed medium (200 gL), shake-cultured in a 96-deepwell plate of the Microplate shaker (TAITEC) at 1,200 rpm at 30°C for 24 hours, and used as a seed culture solution. An autoclaved fermentation medium (290 gL) was dispensed into a 96-deepwell plate and the seed culture solution (200 gL) was inoculated thereto, and the resultant was shake-cultured for 72 hours under the same conditions as described above. 
+ To analyze the amount of IMP produced in the culture solution, upon completion of culture, the supernatant of the culture solution (3 gL) was transferred into a 96-well UV-plate, in which distilled water (197 gL) had been dispensed into each well. Then, the resultant was shaken at 25°C for 30 seconds using the Microplate shaker (TAITEC) and the absorbance at 270 nm was measured using the spectrophotometer. Upon comparison of the above absorbance with that of the CJI0323::impE2(G64D) strain, 50 colonies of the strains showing an increase in the absorbance by 10% or higher were selected. Other colonies showed a similar or decreased absorbance compared to that of the control. 
+ The amount of IMP produced in the selected 50 strains was repeatedly confirmed by measuring their absorbance using the same method, and as a result, the top four strains with improved ability to produce IMP compared to that of the CJI0323: :impE2(G64D) strain were selected. 
+ Example 8: Confirmation of ability to produce IMP of strains selected from impE2 mutation library 
+ To compare the ability of producing IMP of the four strains selected in Example 7, these four strains were cultured by the following method and the components of the resulting culture solutions were analyzed. 
+ A seed medium (5 mL), which is the same as in Example 2, was dispensed into autoclaved test tubes (diameter: 18 mm) and shake-cultured at 30°C for 24 hours to be used as seed culture solutions. A fermentation medium (29 mL), which is the same as in Example 2, was dispensed into Erlenmeyer flasks (250 mL) for shaking and autoclaved at 121 °C for 15 minutes. Then, the seed culture solutions (2 mL) were inoculated thereto and the resultants were cultured for 4 to 5 days. The culture conditions were set to 170 rpm, 30°C, and a pH of 7.5. Upon completion of the culture, the amount of IMP produced was measured by HPLC. 
+ Among these fifty strains, the top four strains with respect to the ability to produce IMP were selected and the cultivation and analysis were performed repeatedly. The concentrations of IMP analyzed are shown in Table 13 below. 
+ [Table 13] 
+ 
+ 
+ 
+ 
+ 
+ 
+Concentration of IMP produced by selected strains CJI0323::impE2(G64D)/pTOPO impE(mt) (g/L) 
+ 
+ 
+ 
+Strain 
+ 
+Average IMP 
+ 
+ 
+ 
+CJI0323::impE2(G64D) 
+ 
+11.53 
+ 
+ 
+ 
+CJI0323::impE2(G64D)/pTOPO_impE(mt)-621 
+ 
+13.47 
+ 
+ 
+ 
+CJI0323::impE2(G64D)/pTOPO_impE(mf)-3>605 
+ 
+12.96 
+ 
+ 
+ 
+CJI0323::impE2(G64D)/pTOPO_impE(mt)-6165 
+ 
+13.17 
+ 
+ 
+ 
+CJI0323::impE2(G64D)/pTOPO_impE(mf)-9991 
+ 
+12.70 
+ 
+ 
+ 
+ 
+ 
+ As a result of the IMP concentration analysis, it was confirmed that the concentrations of the IMP of the four selected strains showed a maximum increase of 17% compared to that of the control strain, CJI0323::impE2(G64D). 
+ Example 9: Confirmation of impE2 gene mutation in selected strains with impE2 mutation 
+ To confirm the mutations introduced to the impE2 gene of the four strains selected in Example 8, the polynucleotide sequences of impE2 mutations were analyzed. To determine these polynucleotide sequences, PCR was performed using a primer pair of SEQ ID NO: 13 and SEQ ID NO: 14. 
+ Analysis was performed for each of the polynucleotide sequences of the modified impE2 gene fragments obtained above. These polynucleotide sequences were compared to SEQ ID NO: 4 of impE2 (WT) or SEQ ID NO: 100 of impE2 (CJHB101::G64D\ and as a result, the amino acid sequences of the modified impE2 were confirmed. The information on the mutations of the amino acid sequences of impE2 in the selected strains is shown in Table 14 below. 
+ [Table 14] 
+ 
+ 
+ 
+ 
+ 
+ 
+Amino acid mutations of impE2 in selected four strains 
+ 
+ 
+ 
+Strain 
+ 
+Amino acid mutations of impE2 
+ 
+ 
+ 
+CJI0323::impE2(G64Dy P TOPO_impE(mi)-621 
+ 
+impE2
+(S387T, M413T, N458K) 
+ 
+ 
+ 
+CJI0323::impE2(G64Dy P TOPO_impE(mi)-36Q5 
+ 
+impE2 (F123C) 
+ 
+ 
+ 
+CJI0323: :impE2(G64Dy P TOPOJmpE(mty6165 
+ 
+impE2 (I243V) 
+ 
+ 
+ 
+CJI0323::impE2(G64Dy P TOPO_impE(mty9991 
+ 
+impE2 (F405Y) 
+ 
+ 
+ 
+ 
+ 
+ Example 10: Preparation of vectors for insertion of chromosome with impE2 mutations 
+ To confirm the effects of application of impE2 mutations, which were identified in Example 9, vectors capable of introducing these impE2 mutations into the chromosome were prepared. The vector preparation process is as follows. 
+ Only the vectors including the library mutations shown in Table 14, excluding the impE2(G64D) mutations, were prepared. Specifically, the chromosomal genes of 
+ Corynebacterium stationis ATCC6872 were isolated, and gene fragments were obtained by PCR using the primer pairs between SEQ ID NO: 56 and each of SEQ ID NOS: 57, 59, 61, and 63. PCR was performed by initial denaturation at 94°C for 5 minutes; 20 cycles consisting of denaturation at 94°C for 30 seconds, annealing at 55°C for 30 seconds, and polymerization at 72°C for 1 minute; and final polymerization at 72°C for 5 minutes to obtain PCR fragments. 
+ Gene fragments were obtained by PCR using each of the chromosomes of the four selected strains as a template along with primer pairs between SEQ ID NO: 55 and each of SEQ ID NOS: 58, 60, 62, and 64. PCR was performed by initial denaturation at 94°C for 5 minutes; 20 cycles consisting of denaturation at 94°C for 30 seconds, annealing at 55°C for 30 seconds, and polymerization at 72°C for 1 minute and 30 seconds; and final polymerization at 72°C for 5 minutes to obtain PCR fragments. Overlapping PCR was performed using two fragments, and the obtained gene fragments were digested with a restriction enzyme (Xbal I). The resulting gene fragments were ligated using T4 ligase to a linearized pDZ vector (Korean Patent No. 10-0924065 and International Patent Publication No. 2008-033001), which had already been digested with a restriction enzyme (XbaA), transformed into E. coli DH5a, and the transformants were plated on a solid LB medium containing kanamycin (25 mg/L). 
+ To prepare vectors with a single mutation for confirming the effects of the single mutations of the impE2 (S387T, M413T, and N458K), in which three kinds of mutations among the selected variants are integrated, PCR was performed using the ATCC6872 strain as a template along with primer pairs between SEQ ID NO: 56 and each of SEQ ID NOS: 67, 69, and 71, and thereby gene fragments were obtained. Then, PCR was performed using the ATCC6872 strain as a template along with primer pairs between SEQ ID NO: 55 and each of SEQ ID NOS: 68, 70, and 72, and thereby gene fragments were obtained. Overlapping PCR was performed using the two fragments prepared above, and the thus-obtained gene fragments were digested with a restriction enzyme (XbaA). The resulting gene fragments were ligated using T4 ligase to the linearized pDZ vector, which had already been digested with a restriction enzyme (XbaA), transformed into E. coli DH5a, and the transformants were plated on a solid LB medium containing kanamycin. 
+ [Table 15] 
+ 
+ 
+ 
+ 
+ 
+ 
+SEQ ID
+NO 
+ 
+Primer 
+ 
+Sequence (5' to 3') 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+55 
+ 
+impE mt - R 
+ 
+CATCTAGACCGAGACAAAAACGCCAAACG 
+ 
+ 
+ 
+56 
+ 
+impEW mt - 1 
+ 
+GCTCTAGACCGCGGATAACGTCGGCATTA 
+ 
+ 
+ 
+57 
+ 
+impEW ttk - 2 
+ 
+CATCCACCACAAAGCAAACGC 
+ 
+ 
+ 
+58 
+ 
+impEW ttk - 3 
+ 
+CTTTGTGGTGGATGACCCAGATGACCGTTGAGACTT 
+ 
+ 
+ 
+59 
+ 
+impEW C - 2 
+ 
+AAATGGAGATACCTGAGATGT 
+ 
+ 
+ 
+60 
+ 
+impEW C - 3 
+ 
+CAGGTATCTCCATTTGCGTTATTGGCTCGACGCTCG 
+ 
+ 
+ 
+61 
+ 
+impEW v - 2 
+ 
+GGCCGCAAAACCCATCCAGTC 
+ 
+ 
+ 
+62 
+ 
+impEW v - 3 
+ 
+ATGGGTTTTGCGGCCGTCGCAATCACGACCAGCACC 
+ 
+ 
+ 
+63 
+ 
+impEW y - 2 
+ 
+ATACAAGGAAGCGAACTCCGA 
+ 
+ 
+ 
+64 
+ 
+impEWY-3 
+ 
+TTCGCTTCCTTGTATACGGTGTCGGCTTGGGCTTTG 
+ 
+ 
+ 
+ 
+ 
+ After selecting the colonies transformed with the vector into which the target gene was inserted, the plasmids were obtained using a conventionally known plasmid extraction method. The plasmids were named pDZ-impE2(S387T, M413T, N458K), pDZimpE2(FI23C), pDZ-impE2(I243V), pDZ-impE2(F405Y), pDZ-impE2(S387T), pDZimpE2(M413T), and pDZ-impE2(N458K), according to the mutation inserted into impE2 of each plasmid. 
+ Example 11: Preparation of strains introduced with impE2 mutation based on wild-type impEl, impE2 and comparison of their abilities to produce IMP 
+ The four kinds of vectors prepared in Example 10 for introducing novel mutations (i.e., pDZ-impE2(S387T, M413T, N458K), pDZ-impE2(F123C), pDZ-impE(I243V), and pDZimpE2(F405Yy) were transformed by a two-step recombination of homologous chromosomes into the CJI0323_impElE2(WT) strain, in which the impElE2 of Corynebacterium stationis CJI0323 (an IMP-producing strain prepared in Example 4) was recovered to WT. Then, strains in which the impE2 mutations were introduced on the chromosome were selected by sequence analysis of the polynucleotides, and the strains were named CJI0323_impElE2(WT)_impE2(S387T, M413T, N458K), 
+ CJI0323_impElE2( WT)_impE2(FI23C), CJI0323_impElE2( WT)_impE2(I243 V), and CJI0323_impElE2( WT)_impE2(F405Y), respectively. 
+ The Corynebacterium stationis CJI032_impElE2(WT)_impE2(F123C), Corynebacterium stationis CJI0323_impElE2(WT)_impE2(I243V), and Corynebacterium stationis CJI0323_impElE2(WT)_impE2(F405Y) strains were deposited on November 2, 
+ 2018, to the Korean Culture Center of Microorganisms (KCCM), an international depositary authority under the Budapest Treaty, and assigned Accession Numbers KCCM12362P, 
+ KCCM12363P, and KCCM12365P, respectively. 
+ The strains were cultured in the same manner as in Example 7 and their IMP concentrations were analyzed. After 48 hours of culture, the concentrations were measured (Table 16). 
+ [Table 16] 
+ 
+ 
+ 
+ 
+ 
+ 
+Concentration of IMP produced by strains introduced with impE2 mutations (g/L) 
+ 
+ 
+ 
+Strain 
+ 
+Average IMP 
+ 
+ 
+ 
+CJI0323_impElE2( WT) 
+ 
+2.32 
+ 
+ 
+ 
+CJI0323_impElE2(WT)_impE2(S387T, M413T, N458K) 
+ 
+3.35 
+ 
+ 
+ 
+CJI0323_impElE2(WT)_impE2(F123C) 
+ 
+2.62 
+ 
+ 
+ 
+CJI0323_impElE2( WT)_impE2(I243 V) 
+ 
+2.74 
+ 
+ 
+ 
+CJI0323_impElE2(WT)_impE2(F405Y) 
+ 
+2.90 
+ 
+ 
+ 
+ 
+ 
+ With respect to IMP concentration, it was confirmed that the four novel modified strains showed a maximum increase of 44% compared to that of the CJI0323_impElE2(WT) strain. The increase in the amount of IMP production due to mutations of the ImpE protein of the present disclosure can be interpreted to be very meaningful. 
+ Example 12: Preparation of strains introduced with impE2 mutation based on CJI0323::impE2(G64D) and comparison of abilities to produce IMP 
+ The four kinds of vectors prepared in Example 10 for introducing novel mutations (i.e., pDZ-impE2(S387T, M413T, N458K), pDZ-impE2(F123C), pDZ-impE(I243V), and pDZimpE2(F405Y)) were transformed into the CJI0323_impE2(G64D) strain (i.e., an IMPproducing strain) by a two-step recombination of homologous chromosomes. Then, strains in which the impE2 mutations were introduced on the chromosome were selected by sequence analysis of the polynucleotides, and the strains were named CJI0323::impE2(G64D)_impE2(S387T, M413T, N458K), 
+ CJI0323::impE2(G64D)_impE2(F123C), CJI0323::impE2(G64D)_impEp(I243 V), and CJI0323::impE2(G64D)_impE2p(F405Y), respectively, according to the inserted impE2 mutation. 
+ The strains were cultured in the same manner as in Example 7 and their IMP concentrations were analyzed (Table 17). 
+ [Table 17] 
+ 
+ 
+ 
+ 
+ 
+ 
+Concentration of IMP produced by strains introduced with impE2 mutations (g/L) 
+ 
+ 
+ 
+Strain 
+ 
+Average IMP 
+ 
+ 
+ 
+CJi0323::impE2(G64D) 
+ 
+11.53 
+ 
+ 
+ 
+CJi0323::impE2(G64D)_impE2(S387T, M413T, N458K) 
+ 
+13.47 
+ 
+ 
+ 
+CJ[0323::impE2(G64D)_impE2(FI23C) 
+ 
+12.90 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(I243V) 
+ 
+13.17 
+ 
+ 
+ 
+CJi0323::impE2(G64D)_impE2(F405Y) 
+ 
+12.70 
+ 
+ 
+ 
+ 
+ 
+ With respect to IMP concentration, it was confirmed that the four novel modified strains showed a maximum increase of 17% compared to that of the CJ10323::impE2(G64D) strain. The increase in the amount of IMP production due to mutations of the ImpE protein of the present disclosure can be interpreted to be very meaningful. 
+ Then, the seven kinds of vectors prepared above (z.e., pDZ-impE2(S387T, M413T, N458K), pDZ-impE2(F I23C), pDZ-impE(I243V), pDZ-impE2(F405Y), pDZ-impE2(S387T), pDZ-impE2(M413T), and pDZ-impE2(N458K)), alone or in combination, were transformed into the CJI0323_impElE2(WT) strain or CJI0323::impE2(G64D) strain. The prepared strains were named CJI0323_impElE2(WT)_impE2(S387T), 
+ CJI0323_impElE2( WT)_impE2(M413T), CJI0323_impElE2( WT)_impE2(N458K), 
+ CJI0323JmpElE2(WT)JmpE2(F123C, I243V, S387T, F405Y, M413T, N458K)) 
+ CJI0323::impE2(G64D)_impE2(S387T), CJI0323::impE2(G64D}_impE2(M413T), 
+ CJI0323::impE2(G64D)_impE2(N458K), CJI0323: :impE2(G64D)_impE2(I243V, S387T, 
+ M413T, N458K), CJI0323::impE2(G64D)_impE2(S387T, F405Y, M413T, N458K), 
+ CJI0323::impE2(G64D)_impE2(I243V, S387T, F405Y, M413T, N458K), 
+ CJI0323::impE2(G64D)_impE2(F123C, S387T, M413T, N458K), and 
+ CJI0323::impE2(G64D)_impE2(F123C, I243V, S387T, F405Y, M413T, N458K), and their abilities to produce IMP were measured in the same manner as described above (Table 18). 
+ The Corynebacterium stationis CJI0323_impElE2(WT)_impE2(S387T), Corynebacterium stationis CJI0323_impEl E2(WT)_impE2(M413T), and 
+ CJI0323_impElE2(WT)_impE2(N458K) strains were deposited on November 2, 2018, to the Korean Culture Center of Microorganisms (KCCM), an international depositary authority under the Budapest Treaty, and assigned Accession Numbers KCCM12364P, KCCM12366P, and KCCM12367P, respectively. 
+ [Table 18] 
+ 
+ 
+ 
+ 
+ 
+ 
+Concentration of IMP produced by strains with a single impE2 mutation and strains introduced with combined impE2 mutations (g/L) 
+ 
+ 
+ 
+Strain 
+ 
+Average IMP 
+ 
+ 
+ 
+CJI0323_impElE2( WT) 
+ 
+2.32 
+ 
+ 
+ 
+CJI0323::impE2(G64D) 
+ 
+11.52 
+ 
+ 
+ 
+CJI0323_impElE2( WT)_impE2(S38 7T) 
+ 
+2.7 
+ 
+ 
+ 
+CJI0323JmpElE2(WT)_impE2(M413T) 
+ 
+3.1 
+ 
+ 
+ 
+CJI0323JmpElE2(WT)_impE2(N458K) 
+ 
+3.0 
+ 
+ 
+ 
+CJI0323_impElE2(WT)_impE2(F123C, I243V, S387T, F405Y, M413T,
+N458K) 
+ 
+4.7 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(S387T) 
+ 
+12.94 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE (M413T) 
+ 
+13.0 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(N458K) 
+ 
+13.1 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(I243V, S387T, M413T, N458K) 
+ 
+13.6 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(S387T, F405Y, M413T, N458K) 
+ 
+13.7 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(F123C, S387T, M413T, N458K) 
+ 
+13.82 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(I243V, S387T, F405Y, M413T, N458K), 
+ 
+14.0 
+ 
+ 
+ 
+CJI0323::impE2(G64D)_impE2(F123C, I243V, S387T, F405Y, M413T,
+N458K) 
+ 
+14.27 
+ 
+ 
+ 
+ 
+ 
+ As shown in the above tables, it was confirmed that single mutations (i.e., impE2(S387T), impE2(M413T), and impE2(N458Kj) showed a maximum increase of 33.6% compared to that of the wild-type strain, and all of the strains with a combination of novel 10 mutations showed a maximum increase of 102.5%. Additionally, when a novel mutation alone was introduced into the CJI0323::impE2(G64D) strain, the ability to produce IMP was increased as shown in Tables 17 and 18, whereas when a combination of mutations was introduced into the strain, the strain was shown to have a more improved ability to produce IMP. In particular, when both a mutation of the CJ10323::impE2(G64D) strain and a novel mutation(s) are integrated into the strain, the ability to produce IMP was increased about 515% compared to that of the wild-type strain, while showing an about 24% increase compared to that of the CJ10323::unpE2(G64D) strain. It was also confirmed that the novel mutations discovered in the present disclosure were shown to increase the ability to produce IMP even by a single mutation, and when these mutations were introduced in combination, the ability to produce IMP was increased even further. 
+ Example 13: Enhancement of impE2 based on IMP-producing strains 
+ Example 13-1: Preparation of strains introduced with impE2 mutation based on IMP-producing strain 
+ To confirm the effects of introducing an impE2 mutation into strain, An IMP-producing strain was prepared in which the activities of adenylosuccinate synthetase and IMP dehydrogenase corresponding to the degradation pathway of IMP in the ATCC6872 strain were attenuated. The initiation codon was changed by changing the first base from ‘a’ to ‘t’ in each nucleotide sequence of the two genes pur A and guaB, which encode the two enzymes. The strain in which the expression of the two genes was attenuated in the ATCC6872 strain was named CJI9088. The pDZ-impE2(S387T, M413T, N458K), pDZ-impE2(FI23C), pDZimpE(I243V), andpDZ-impE2(F405Y) vectors prepared in Example 10 were transformed into the CJI9088 strain, either alone or in combination, by electroporation. Then, the strains in which the vectors were inserted into the chromosome by recombination of the homologous sequences were selected on a medium containing kanamycin (25 mg/L). The selected primary strains were subjected to a second cross-over, and the strains in which the modification of a target gene was introduced were selected. The introduction of the modification in the finally transformed strains was confirmed by performing PCR using the primer pair of SEQ ID NOS: 13 and 14, followed by nucleotide sequencing analysis. 
+ The ability of the prepared strains (z.e., CJI9088, CJI9088_impE2(S387T, M413T, N458K), CJI9088_impE2(F123C), CJ19088_impE2(I243V), CJ19088_impE2(F405Y), and CJI9088_impE2(F123C, I243V, S387T, F405Y, M413T, N458K) to produce IMP was evaluated. Upon completion of the culture, the amount of IMP production was measured by HPLC and the results are shown in Table 19 below. 
+ [Table 19] 
+ 
+ 
+ 
+ 
+ 
+ 
+Strain 
+ 
+IMP (g/L) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CJI9088 
+ 
+0.52 
+ 
+ 
+ 
+CJI9088_impE2(S387T, M413T, N458K) 
+ 
+3.75 
+ 
+ 
+ 
+CJI9088JmpE2(F123C) 
+ 
+0.94 
+ 
+ 
+ 
+CJ19088_impE2(I243 V) 
+ 
+1.07 
+ 
+ 
+ 
+CJ/9088JmpE2(F405Y) 
+ 
+1.21 
+ 
+ 
+ 
+CJI9088_impE2(F123C, I243V, S387T, F405Y, M413T,
+N458K) 
+ 
+4.32 
+ 
+ 
+ 
+ 
+ 
+ Upon confirming the amount of IMP accumulated in the culture medium, it was confirmed that these strains showed an increase of IMP production by at least 80%, and a maximum increase of 730%, compared to the parent strain, CJI9088. Accordingly, the 5 increase in the amount of IMP production due to mutations of the ImpE protein of the present disclosure can be interpreted to be very meaningful. 
+ From the foregoing, a skilled person in the art to which the present disclosure pertains will be able to understand that the present disclosure may be embodied in other specific 10 forms without modifying the technical concepts or essential characteristics of the present disclosure. In this regard, the exemplary embodiments disclosed herein are only for illustrative purposes and should not be construed as limiting the scope of the present disclosure. On the contrary, the present disclosure is intended to cover not only the exemplary embodiments but also various alternatives, mutations, equivalents, and other 15 embodiments that may be included within the spirit and scope of the present disclosure as defined by the appended claims. 
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ 
+ To. Cl CheiUedang Corporation CJ CHEHJEDANG CENTER. 330, DONGHO-RO. JUNG-GU. SEOUL ICXMOO REPUBLIC OF KOREA 
+ RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pununnt to Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ 
+ 
+ 
+ 
+ 
+ 
+1. IDENTIFICATION OF THE MICROORGANISM 
+ 
+ 
+ 
+Identification reference given by the
+DEPOSITOR.
+CorynebocteriuiH stationis CNO1-0323 
+ 
+Accession number given by the
+INTERNATIONAL DEPOSITARY AUTHORITY:
+KCCM12151P 
+ 
+ 
+ 
+Π. SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION 
+ 
+ 
+ 
+The nticraoagMam identified under 1 above was accompanied by:
+
+□ a scientific description
+□ a proposed taxonomic designation
+(Mark with a cross where applicable) 
+ 
+ 
+ 
+Hl. RECEIPT AND ACCEPTANCE 
+ 
+ 
+ 
+This bttcnaDoeal Depositor) Authority accepts the microorganism identified under 1 above, which was received by it on November. 07. 2017 (date of the original dcpowi).’ 
+ 
+ 
+ 
+IV. INTERNATIONAL DEPOSITARY AUTHORITY 
+ 
+ 
+ 
+Name : Korean Culture Center of Mkroorganixma
+Address : Yurim B/D
+45, Honc*enne.2g>wgil
+Seodaemun-gu
+SEOUL 120-361
+Republic of Korea 
+ 
+Signature!») of person!») ha to represent the iMcntattona Authority or of authorized
+Date: November 07 2017. 
+ 
+ving the power J Depositary 
+   
+ 
+ 
+ 
+ 
+ 
+   1  Where Rule 6.4(d) applies, such date b the date on which the status of iMcntafltMVWPMM;* authority was acquired. 
+ Form BP/4 (sole page) komam cui τλι am o* *kioo«cawm5 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM r π 
+ To. CJ CheiUedang Cocpomion 
+ CJ CHEIUEDANG CENTER. 
+ JO. DONGIIO-RO, 
+ JUNG-GU. SEOUL IOIMOO 
+ REPUBLIC OF KOREA u J 
+ RECEIPT IN IKE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified u the bottom of thts page 
+ I. IDENTIFICATION OF THE MICROORGANISM 
+ IdcmiGcation reference given by the 
+ DEPOSITOR 
+ Corynebocierium ttatlonli CJIO323_impEI(F.I64K) 
+ AccesiaKi number given by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY: 
+ KCCMI2J59P 
+ Π. SCIENTIFIC DESCRIPTION AND.OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I above was accompanied by: 
+ □ a scientific description □ a proposed Ussonomic designation (Mart with a cross where applicable) 
+ ID RECEIPT AND ACCEPTANCE 
+ Th» International Depositary Authority accepts the microorganism identified under I above, which was received by it on November 02 2018 (date of the original deposit ) 1   
+ IV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under 1 above was received by this Intetnatainal Depositary Authority on (date of the original deposit) and a request to convert die original deposit to a deposit under the Budapest Treaty was received by it on I date of receipt of request for conversion). 
+ V INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name : Korean Culture Center of Microorganisms Address : Yurim B.T) 
+ 45. Hongjenae-2ga-gil 
+ Scodaemun-gu 
+ SEOUL 03641 
+ Republic of Korea 
+ Signature^) of personal having the power to represent the International Depositary Authority or of authorized officiaKs) 
+ Date: November 02 2018 ffXL-L. 
+ such dare is the date on which the status of intent >> 
+ was 
+ E^oiuesstsEi -----------------------------O3S41 s»a*l VIMP-I* Rnuain· 45 HSW9 «. 0; ΐ«··«ι!0. M-0VW ouMcunntcortawMiaiwMwnH „ «».^· ----------------------*»Λ» Bus «£ ίικΛ.»!!·^!; Seed CMM' »!» *· tC-i-Ht-OSM 3»t>-oasc r»T S?-2-S8?-:9S2  1  Where Rule 6.4(d) applies, acquired. 
+ Form BP/4 (sole page) 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ To. CJ Chcilledung Corporation CJ CHEHJEDANO CENTER. 330. DONGHO-RO. JUNG-GU. SEOUL 100-400 REPUBLIC OF KOREA 
+ RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued punuanl Io Rule 7 I by the INTERNATIONAL DEPOSITARY AUTHORITY identified al the bottom of this page 
+ I . IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by Ibe DEPOSITOR 
+ Corynebacltrium slanoms CJ10323_nnpE2(V2l) 
+ Accession number given by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY: 
+ KCCM12360P 
+ D. SCIENTIFIC DESCRIPTION ANTM1R PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I above was accompanied by: 
+ □ scientific description □ a proposed isvonotnic designation (Mark with a cross where applicable) 
+ ΙΠ RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above, which was received by it on November 02 2011 «laic of lhe original deposit) 1   
+ IV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under 1 above was received by this International Depositary Authority on (date of the ongmal deposit) and a request to convert lhe original deposit to a deposit under the Budapest Treaty was received by it on (date of receipt of request for conversion! 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name · Korean Culture Center of Microorganisms 
+ Address : Yurim BD 
+ 45, Hongjenae-2g*-gil Seodacmun-gu SEOUL 03641 Republic of Korea 
+ Signaiurcfs) of person! s) having the power to represent the International Depositary 
+ Authority or of authorized official^ 
+ Date November 02 20111. 
+ 
+ 
+ 
+ 0Ϊ41Ι It>>. MMg? HWM cj anwa Tai C2-3ei-OOUO. sse-own FW> Q-»-nu — Moauncuinat α»ΠΗοΐΗΐαοο«ί*)ιΗΜΐ -w—. . 
+ «non Nou a Hanprae Fa>-a<. Cmuamwr-p. SMU. O3M1 tat U ? Ν' onu lUe- CW. η», BZ-i-iaj-llIS  1  Where Rule 6.4(d) applies, such date is the date on which the stnrus of intern acquired. 
+ Form BPi'4 (sole page) 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ I'o. Cl Chcillodang Corporation Cl CHEILJF.DANG CENTER 330, DONGIIO-RO. 
+ JUNG-GU. SEOUL lOMOO 
+ REPUBLIC OF KOREA 
+ RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified at Ute bottom of this page 
+ I IDENTIFICATION OF THE MICROORGANISM 
+ Identificatmu reference given by die DEPOSITOR: 
+ Cwyntbacterium ftationis CJI0323_in»pE2(G64E) 
+ Accession number given by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY: 
+ KCCM1236IP 
+ Π. SCIENTIFIC DESCRIPTION AND.OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I above was accompanied by- □ a scientific description □ a proposed taxonomic designation (Matt with a cross where applicable) m RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above, which was received by it on November 02. 2018 (date of the original deposit). 1   
+ IV RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I above wan received by this International Depositary Authority an (date of the original deposit) and a request to convert the original deposit to a deposit under the Budapest Treaty was received by (I on (date of receipt of request for conversion) 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name Korean Cuhurr Center of Microorganisms 
+ Address : Yurtm B'D 
+ 4). Hongjenae-Zjn-gil 
+ Seodnemun-gu 
+ SEOUL 03MI 
+ Republic of Korea 
+ Signaturefs) of personal having the power lo represent the International Depositary Authority or of authorized offlcial(a): 
+ Date: November. 01 2018 
+ 
+ E!^0|-8HS53E| --------------------------------W itgxl tnUZ’tP «5 eilliiw Tat ω-Μπ-00Μ JM-eftSO r«. ΟΖ-ΜΙΖβί 
+ WMMCUTuucmmwwaooiiCMMU — -WO atm tHiUlwSn-il s.nl»«w.w, 5<wl 5»> tei aw-yst-ce·» TOO-OBO »a.. SZ-Z- Jn-ns9  1  Where Rule 6 4(d) applies, such date is the date on which the «ulus of acquired 
+ Form BP/4 (sole page) 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM r 1 
+ To. CJ CheiUedang Corporation 
+ Cl CHEUJEDANG CENTER. 
+ 330. DONGHO-RO, 
+ JUNG-Gll. SEOUL 100-100 
+ REPUBLIC OF KOREA 
+ L J 
+ RECEIPT IN THE CASE OF AN ORIGINA1 DEPOSIT issued pursuant co Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ I. IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by the 
+ DEPOSITOR: 
+ CorynebaaeriiuH itaitoMi 
+ CJI0323_intpE 1 E2{WT)_impE2(F 123C) 
+ 11. SCIENTIFIC DESCRIPTION ANDOR PROPOSED 
+ Accession number given by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY: 
+ KCCMI2362P 
+ TAXONOMIC DESIGNATION 
+ The rtncroorgnnisni identified under 1 above was accompanied by: 
+ □ a scientific description □ a proposed taxonomic designation (Mart with a cross where applicable! 
+ ΠΙ RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above. 
+ which was received by it on November 02 2018 (dare of the original deposit).* 
+ N RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I above was received by this International Depositary Authority on (date of the original deposit) and a request to convert the original deposit to a deposit under the Budapest Treaty was received by it on (date of receipt of request for conversion) 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Signatures) of persons) having the power to represent the International Depositary Authority or of authorized 
+ Date: November. (12 2018 
+ Name : Korean Culture Center of Microorganisms 
+ Address : Yurim ΒΌ 
+ 45. Hongjcnac-2ga-gU Seodacmuthgu SEOUL 03641 Republic of Korea such date is the date on which tbc status of in 
+ Form BP'4 (sole page) — .... — ----------------------------aasei *<β*ι urr»^ RautZAii as stliil r»i oi-wmeso. im-omo  c a. οζ-ικ-ίβεα — noKMCunmt cwtBtorsnnaxtwiUBM! UWlli<Mir>' - . “..βΛ— 
+ YO»«T1 Ilifjp. ΗοτφΤΜίτ mom '><c t?-?’J95-JK5 
+ 
+ * Where Rule 6 4(d) applies, acquired. 
+ was 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM r i 
+ To. CJ Chcillcdang Corporation 
+ CJ CHEIUEDANG CENTER, )30. DONGHO-RO. 
+ 1UNG-GU. SEOUL 100-100 
+ REPUBLIC OF KOREA 
+ L J 
+ RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant Io Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified al Ibe bouom of this page 
+ IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by Ibe DEPOSITOR 
+ Corynebacterium siaiionit 
+ CJIO323_imp£ I E2(WT)_tmpE2(U43 V) 
+ Accession number given by Ibe 
+ INTERNATIONAL DEPOSITARY AUTHORITY' 
+ KCCMI2363P 
+ Π SCIENTIFIC DESCR1PI1ON ANDrOR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I above was accompanied by· O a scientific description □ proposed tauonomlc designation (Mark with a crass where applicable) 
+ HI RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above. 
+ which was received by it on November 02. 2018 (date of the original deposit I. 1   
+ IV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I above was received by ihis International Depositary Authority on (date of the original deposit) and a request to convert the original deposit lo a deposit under the Budapest Treaty was received by it on (date of receipt of request for conversion). 
+ V INTERNATIONAL DEPOSITARY AUIHORITY 
+ Name : Korean Culture Center of Microorganisms 
+ Address : Yurim B.D 
+ 43. Honycnae-2ga-gil 
+ Seodacmun-gu 
+ SEOUL 03641 Republic of Korea 
+ Stgnatwels) of person(s) having the power to represent the International Depositary 
+ Authority or of authorized Date: November 02 20IS. 
+ 
+ 
+ Form BP'4 (sole page) 
+ 2*^0|«·££ϋΕΐ _ tl  ----------------------------------0*r ->··Μ MriBi* gaws’rtl <5 a HWfc iw 02-391-Ο». MS-caeo r B . tti-aat-ims toKAHcuTumetinBiofwawKiwna ......««=.·;, -------------------------------*vrv- »»3;. 1Γ -e-jwas >a>-p< Suuusnurwp. Sum 0ie«1 unui Ta 12 - Ml Umc an OOtO rm. or : nr 3K3  1  Where Rule 6.4(d) applies, such dale is the date on which the status of acquired 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ To. CJ ChctUcdang Corporation CJ CHEIUEDANG CENTER. 330. DONOHORO. JUNG-GU. SEOUL 100-400 REPUBLIC OF KOREA 
+ RECEIPT IN THE CASE Of AN ORIGINAL DEPOSIT issued pursuant to Rule 1.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom o( this page 
+ I. IDENTIFICATION OF THE MICROORGANISM 
+ Identtflcalion reference given by the 
+ DEPOSITOR: 
+ Corynttmcierium .ttaUonlt 
+ CJ10323_impE I E2(WT)JmpE2(S3»7T) 
+ Π SCIENTIFIC DESCRIPTION AND'OR PROPOSED 
+ Accession number given by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY: 
+ KCCMI23MP 
+ TAXONOMIC DESIGNATION 
+ The microorganism identified under I above was accompanied by □ a scientific description □ a proposed taxonomic designation {Mark with a cross where applicable) m RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above, which was received by H on November 02 2018 (date of rhe original deposit)* 
+ N RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism Identified under I above was received by this International Depositary Authority on (dale of the original deposit) and a request to convert the original deposit to a deposit under the Budapest Treaty was received by It on (dale of receipt of request for conversion) 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name : Korean Culture Center of Microorganisms 
+ Address : Yunm ΒΛ3 
+ 43. I<ongjenae-2gn-gil 
+ Seodacnum-gu 
+ SEOUL 03641 Republic of Korea 
+ Signature^) of penon(s) having the power to represent the International Depositary 
+ Authority or of authorized officialese 
+ Date: November 02. 2018. 
+ 
+ 
+ Form BPM (sole page) — ------------C3W' «IM BfiWS «-3β»·ββ$0 MW 
+ ---- NMEAM UHTWl CBVTB OF MOOOtCMftSH .. rMt  *0· ΠΜ«. 4Λ. 2g» > 39(-03% Η· ΙΖ-ϊ~3β?-2852 
+ 
+ * Where Rule 6.4(d) applies, such date is the dale on which the satus of ma acquired. 
+ was 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ To. Cl ChciUcdang Corporation CJ CHEIIJEDANG CENTER. 310. DONGHORO. JUNG-GU. SEOUL 100400 REPUBLIC OF KOREA 
+ RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ I. IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by the 
+ DEPOSITOR: 
+ Corynebacterium slationa 
+ CJI0323_impEl E2(WT)_impE2(F4O5 Y) 
+ Accession number given by the INTERNATIONAL DEPOSITARY AUTHORITY; KCCMI2365P 
+ Π. SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I above was accompanied by* □ a scientific description □ a proposed taxonomic designation (Mari with a cross where applicable) 
+ III RECEIPT AND ACCEPTANCE 
+ This International Depositary Aulhorily accepts the microorganism identified under I above, which was received by It on November 02 2018 (date of the original deposit). 1   
+ IV RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I above was received by this International Depositary Authority on (date of the original deposit) and a request to convert the original deposit to a deposit under the Budapest Treaty was received by it on (date of receipt of request for conversion) 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name : Korean Culture Center of Microorganisms 
+ Address : Yurin BD 
+ 43. Hongicnac-2ga-gil 
+ Scodaemun-gu 
+ SEOUL 03641 
+ Republic of Korea 
+ Signatures) of person!?) having the power IO represent the International Depositary 
+ Authority or of authorized officiaU^ 
+ Dace: November 02. 201H. 
+ L*^DIo 
+ S td2SX1l * Where Rule 6.4(d) applies, such date is the dote on which the status of ii acquired. 
+ Form BP'4 (sole page) — Ei^DHSBaSiSEt --------------------------- <»' MBH MKB? ««JEZiU C! BBlltl Tai OZ-Wi-OMC Μβ-ο*Μ r<> M tn; 
+ — tMiMCwnuoinuoiMKiooKrinnB - uxwn aau as Hsnc«naa i»a-at Srawnur· cl. swu. «Mai. Cm ’·> sz-z-iw-nasc sse-tmsc a*. uy-i-jag-msa i ority was 
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ Εί 
+ 
+ INTERNATIONAL FORM 
+ To. CJ CheiUedang Cotpomtoo O CHE1UEDANG CENTER. 310. DONGHO-RO. JUNG-GU. SEOUL 100-400 REPUBLIC OF KOREA 
+ RECEIPT IN THF. CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified M the bottom of this page 
+ IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by the DEPOSITOR: 
+ Corynebacterium itationis 
+ Accession number given by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY: 
+ KCCM12366P 
+ CJIO323JmpE I E2{WT)JnipE2{M41 IT) 
+ Π SCIENTIFIC DESCRIPTION AND'OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism Identified voder I above was accompanied by: 
+ □ a soemific description □ a proposed taxonomic designation (Mark with a cross where applicable) m RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above, which was received by it on November 02. 2018 (date of the original deposit)? 
+ IV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism Identified under I above was received by this International Depository Authority on (date of the original deposit) and a request to convert the original deposit io a deposit under die Budapest Treaty was received by it on (date of receipt of request tor conversion). 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name i Korean Culture Center of Microorganisms 
+ Address I Yurim ΒΛ) 
+ 45, Hongjenae-2ga-gil Seodaemun-gu SEOUL 03641 Republic of Korea 
+ Signalurefs) of person)s) having the power to represent the International Depositary Authority or of authorized officlaljs£__ 
+ Date: November 02. 20IX. 
+ L^QIo 
+ S_JL.L_L_ — E.^OIU12£t«EI (But mru Mti?? as «Rita tw oa-»i-ceso tM-onw c.. w-wa-ress — ioban ctnriMctmii or mooorumwb ----------------------------we? •wmenie Sweaenv-oj sm<.i aysar vorsa r·* ey-y-ygi-coso, yae-ono  r o> ar-t-yat-zeaa * Where Rule 6.4(d) applies, such date ts the date on which die status of intent· acquired 
+ Form BP 4 (sole page) 
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL RECOGNITION OF THE DEPOSIT OF MICROORGANISMS FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM r 
+ To. 
+ Cf OlciDedang Corporation CI CHEIUEDANG CENTER, 330. DONGHO-RO. IUNG-OU, SEOUL 100400 REPUBLIC OF KOREA 
+ RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ IDENTIFICATION OF THE MICROORGANISM 
+ Idcntificanoo reference given by the 
+ DFJOSITOR: 
+ Corynebaaerium stations 
+ CII0323impElE2(WT)_impE2(N458K) 
+ Accession number given by the 
+ INTERNATIONAL DEPOSITARY AUTHORITY: 
+ KCCM12367P 
+ Π. SCIENTIFIC DESCRIPTION AND.OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I above was accompanied by: 
+ □ a scientific description □ o proposed taxonomic designation (Mari with a cross where applicable) (Π RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above, which was received by it on November. 02. 2018 (date of the original deposit) * 
+ IV RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I above was received by this International Depositary Authority on (dale of the original deposit) and a request to convert the original deposit to a deposit under the Budapest Treaty was received by it cm (dare of receip of request for conversion) 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name . Korean Culture Center of Microorganisms 
+ Adifrcss : Yurim EVD 
+ 43, Hongjenae-2gn.gil Seodacmuivgu SEOUL 03641 Republic of Korea 
+ Sigranirefs) of personal having the power to represent the International Deposit»} Authority or of authorized oflicialfs): 
+ Date: November 02. 2018. 
+ 
+ nidi dale Is the date O<1 wbkh the statin of 
+ 
+ eiswuBSESEi ---------------------------oaan MR»i wag7 gxwpi'ii « ugivs r»i oz-jer-ouso 3W-O9W *** az-SK-aaa tmswcurvKtwnwwirawKAMMi ---—--—---------mao. «. rsxw'·» 2at-0i SaoUMrrur->. Sc<w 014*' H»a *· OJ-i-jm-OSSO M4-00S0 «J-Z-JW-MBU * Where Rule 6 4(d) applies, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

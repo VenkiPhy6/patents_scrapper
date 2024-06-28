@@ -1,0 +1,1053 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  [1]  本開示で引用される各参考文献、特許、及び公開特許出願は、参照によりその全体が本明細書に組み込まれる。
+ 
+  [1] Each reference, patent, and published patent application cited in this disclosure is incorporated herein by reference in its entirety.
+ 
+ 
+ 
+   
+  [2]  本出願には、２０１９年９月７日に作成された、本出願の配列表である「00820000060sequencelisting.txt,」という名称の１９５ｋｂのテキストファイルが参照により組み込まれる。
+ 
+  [2] A 195 kb text file named "00820000060sequencelisting.txt," which is the sequence listing of the present application, prepared on September 7, 2019, is incorporated in this application by reference.
+ 
+ 
+ 
+   
+技術分野 
+  [03]  本開示は、一般に、リジン産生に関する。
+ Technical field  [03] The present disclosure relates generally to lysine production. 
+ 
+ 
+ 
+ 
+   
+図面の簡単な説明 
+ [04]図１Ａ及び図１Ｂは、米・国立生物工学情報センター（National Center for Biotechnology Information）（ＮＣＢＩ）の参照番号ＷＰ＿０１１０１４７９１．１（配列番号７８）、ＷＰ＿０９６４５６６８７．１（配列番号７９）、及びＷＰ＿０２３６３５８７５．１（配列番号８０）によって同定された３つのコリネバクテリアリボヌクレアーゼＪ（ｒｎａＪ）タンパク質のアミノ酸配列との配列番号３の多重アラインメントである。ボックスは、配列番号３のアミノ酸４４８と整列する各配列におけるアミノ酸を明らかにする。図１Ａは、配列番号３のアミノ酸１〜５６０とのアラインメントである。 
+ [04]図１Ａ及び図１Ｂは、米・国立生物工学情報センター（National Center for Biotechnology Information）（ＮＣＢＩ）の参照番号ＷＰ＿０１１０１４７９１．１（配列番号７８）、ＷＰ＿０９６４５６６８７．１（配列番号７９）、及びＷＰ＿０２３６３５８７５．１（配列番号８０）によって同定された３つのコリネバクテリアリボヌクレアーゼＪ（ｒｎａＪ）タンパク質のアミノ酸配列との配列番号３の多重アラインメントである。ボックスは、配列番号３のアミノ酸４４８と整列する各配列におけるアミノ酸を明らかにする。図１Ｂは、配列番号３のアミノ酸５６１〜７１８とのアラインメントである。 
+ [05]図２は、ＮＣＢＩ参照番号ＷＰ＿０７５３４８１２８（配列番号８１）、ＡＧＴ０４８２８．１（配列番号８２）、及びＷＰ＿０６６５６４９７８．ｌ（配列番号８３）によって同定された３つのコリネバクテリアａｃｃＤＡタンパク質のアミノ酸配列との配列番号６の多重アラインメントである。ボックスは、配列番号６のアミノ酸３１０と整列する各配列におけるアミノ酸を明らかにする。 
+ [06]図３は、ＮＣＢＩ参照番号ＷＰ＿０１１８９７００１（配列番号８４）、ＷＰ＿０６６５６５１２４（配列番号８５）、及びＥＥＷ４９９７９（配列番号８６）によって同定された３つのコリネバクテリアｃｇ１１４４タンパク質のアミノ酸配列との配列番号９の多重アラインメントである。ボックスは、配列番号９のアミノ酸６６と整列する各配列におけるアミノ酸を明らかにする。 
+ A brief description of the drawing    [04] FIGS. 1A and 1B show National Center for Biotechnology Information (NCBI) reference numbers WP_011014791.1 (SEQ ID NO: 78), WP_096456687.1 (SEQ ID NO: 79), and WP_0236355875. It is a multiple alignment of SEQ ID NO: 3 with the amino acid sequences of the three corinebacteria ribonuclease J (rnaJ) proteins identified by 1 (SEQ ID NO: 80). The box reveals the amino acids in each sequence that align with amino acid 448 of SEQ ID NO: 3. FIG. 1A is an alignment with  amino acids  1 to 560 of SEQ ID NO: 3.    [04] FIGS. 1A and 1B show National Center for Biotechnology Information (NCBI) reference numbers WP_011014791.1 (SEQ ID NO: 78), WP_096456687.1 (SEQ ID NO: 79), and WP_0236355875. It is a multiple alignment of SEQ ID NO: 3 with the amino acid sequences of the three corinebacteria ribonuclease J (rnaJ) proteins identified by 1 (SEQ ID NO: 80). The box reveals the amino acids in each sequence that align with amino acid 448 of SEQ ID NO: 3. FIG. 1B is an alignment with amino acids 561-718 of SEQ ID NO: 3.    [05] FIG. 2 shows NCBI reference numbers WP_075348128 (SEQ ID NO: 81), AGT04828.1 (SEQ ID NO: 82), and WP_066654978. It is a multiple alignment of SEQ ID NO: 6 with the amino acid sequences of the three Corynebacterium accDA proteins identified by l (SEQ ID NO: 83). The box reveals the amino acids in each sequence that align with amino acid 310 of SEQ ID NO: 6.    [06] FIG. 3 shows of SEQ ID NO: 9 with the amino acid sequences of the three corynebacteria cg1144 proteins identified by NCBI reference numbers WP_011897001 (SEQ ID NO: 84), WP_066565124 (SEQ ID NO: 85), and EEW49979 (SEQ ID NO: 86). It is a multiple alignment. The box reveals the amino acids in each sequence that align with amino acid 66 of SEQ ID NO: 9.   
+ 
+ 
+ 
+ 
+   
+詳細な説明 
+  [07]  本開示は、コスト効率の良いリジン産生のためのエンジニアリングされたコリネバクテリア（Corynebacteria）株、このエンジニアリングされた株を作製するために使用されるツール及び方法、並びにエンジニアリングされた株を使用してリジンを産生する方法を提供する。
+ Detailed explanation  [07] The present disclosure uses an engineered Corynebacteria strain for cost-effective lysine production, the tools and methods used to make this engineered strain, and the engineered strain. To provide a method for producing lysine. 
+ 
+ 
+   
+構造変化 
+  [08]  本開示は、リジン産生を改善するためにコリネバクテリア（Corynebacteria）にエンジニアリングすることができる以下の４つの構造変化を提供する：（ａ）ｃｇ１３８３開始コドンの前へのプロモーターの挿入、（ｂ）天然のｐｈｏＵプロモーターの置換、（ｃ）天然のｃｇ３２１０プロモーターの置換、（ｄ）天然のｃｇ０８００プロモーターの置換。
+ Structural change  [08] The present disclosure provides the following four structural changes that can be engineered into Corynebacteria to improve lysine production: (a) Insertion of promoter before cg1383 start codon, (a) b) Substitution of the natural phoU promoter, (c) Substitution of the natural cg3210 promoter, (d) Substitution of the natural cg0800 promoter. 
+ 
+ 
+   
+ａ．ｃｇ１３８３開始コドンの前へのプロモーターの挿入 
+  [09]  ｃｇ１３８３は、ＮＣｇ１１１７９としても知られており、ＡＢＣタイプのモリブデン輸送システムのＡＴＰａｓｅ成分をコードする（例えば、ＷＰ＿０１１０１４２１６．１）。いくつかの実施形態では、プロモーターは、ｃｇ１３８３開始コドンの前に挿入される。挿入されるプロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであるか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター、又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、挿入されるプロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である；米国特許出願公開第２０１７／０１５９０４５号及び国際公開第２０１７／００３７６号を参照されたい。
+ a. Insertion of promoter before cg1383 start codon  [09] cg1383, also known as NCg11179, encodes the ATPase component of an ABC-type molybdenum transport system (eg, WP_011014216.1). In some embodiments, the promoter is inserted before the cg1383 start codon. The promoter to be inserted is a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter of another Corynebacterium species or strain, or It can be an artificially constructed promoter). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the promoter to be inserted is promoter Pcg0007_39 (SEQ ID NO: 20); see US Patent Application Publication No. 2017/0159045 and International Publication No. 2017/00376. 
+ 
+ 
+   
+ｂ．天然のｐｈｏＵプロモーターの置換 
+  [10]  ｐｈｏＵは、リン酸取り込みレギュレーター（例えば、ＢＡＢ９９９６４．１）をコードし、ｃｇｌ２５７１及びＮＣｇｌ２４８２としても知られている。いくつかの実施形態では、天然のｐｈｏＵプロモーターは、ｐｈｏＵ置換プロモーターで置換されている。ｐｈｏＵ置換プロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、ｐｈｏＵ置換プロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である；米国特許出願公開第２０１７／０１５９０４５号及び国際公開第２０１７／００３７６号を参照されたい。
+ b. Substitution of the natural foU promoter  [10] phoU encodes a phosphate uptake regulator (eg, BAB99964.1) and is also known as cgl2571 and NCgl2482. In some embodiments, the native phoU promoter has been replaced with a phoU-substituted promoter. The phoU-substituted promoter can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter or artificial of another Corynebacterium species or strain). Can be a promoter (promoter constructed). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the phoU-substituted promoter is the promoter Pcg0007_39 (SEQ ID NO: 20); see US Patent Application Publication No. 2017/0159045 and International Publication No. 2017/00376. 
+ 
+ 
+   
+ｃ．天然のｃｇ３２１０プロモーターの置換 
+  [11]  ｃｇ３２１０は、ＮＣｇ１２８０２としても知られており、細胞エンベロープ関連転写調節因子（例えば、ＷＰ＿０１１２６６０２９．１）をコードする。いくつかの実施形態では、天然のｃｇ３２１０プロモーターは、ｃｇ３２１０置換プロモーターで置換されている。ｃｇ３２１０置換プロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、ｃｇ３２１０置換プロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である；米国特許出願公開第２０１７／０１５９０４５号及び国際公開第２０１７／００３７６号を参照されたい。
+ c. Substitution of the native cg3210 promoter  [11] cg3210, also known as NCg12802, encodes a cell envelope-related transcription factor (eg, WP_11266029.1). In some embodiments, the native cg3210 promoter has been replaced with a cg3210 substituted promoter. The cg3210 substitution promoter can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter or artificial of another Corynebacterium species or strain). Can be a promoter (promoter constructed). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the cg3210 substituted promoter is the promoter Pcg0007_39 (SEQ ID NO: 20); see US Patent Application Publication No. 2017/0159045 and International Publication No. 2017/00376. 
+ 
+ 
+   
+ｄ．天然のｃｇ０８００プロモーターの置換 
+  [12]  ｃｇ０８００は、ＮＣｇ１０６６８又はｐｒｐＲとしても知られており、ＭｅｒＲファミリーの転写調節をコードする（例えば、ＷＰ＿０１１０１３８２５．ｌ）。いくつかの実施形態では、天然のｃｇ０８００プロモーターは、ｃｇ０８００置換プロモーターで置換されている。ｃｇ０８００置換プロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、ｃｇ０８００置換プロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である；米国特許出願公開第２０１７／０１５９０４５号及び国際公開第２０１７／００３７６号を参照されたい。
+ d. Substitution of the natural cg0800 promoter  [12] cg0800, also known as NCg10668 or prpR, encodes the transcriptional regulation of the MerR family (eg, WP_01013825.l). In some embodiments, the native cg0800 promoter has been replaced with a cg0800 substituted promoter. The cg0800 substituted promoter can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter or artificial of another Corynebacterium species or strain). Can be a promoter (promoter constructed). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the cg0800 substituted promoter is the promoter Pcg0007_39 (SEQ ID NO: 20); see US Patent Application Publication No. 2017/0159045 and International Publication No. 2017/00376. 
+ 
+ 
+   
+追加の構造変化 
+  [13]  いくつかの実施形態では、上記の構造変化の１つ又は複数を含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、以下に記載の追加の構造変化（ｅ）〜（ｏ）の１つ又は複数を含み得る。
+ Additional structural changes  [13] In some embodiments, an engineered strain of Corynebacteria comprising one or more of the above structural changes also comprises the additional structural changes (e)-(o) described below. It may include one or more. 
+ 
+ 
+   
+ｅ．改変されたコリネバクテリアリボヌクレアーゼＪタンパク質 
+  [14]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、改変されたコリネバクテリアリボヌクレアーゼ（ｒｎａＪ）タンパク質を含み得る。改変されたコリネバクテリアｒｎａＪタンパク質はＧ４４８Ｓ置換を含む。そのようなタンパク質の一例が、配列番号３に示されている。本明細書で使用される「Ｇ４４８Ｓ置換を含むコリネバクテリアｒｎａＪタンパク質」は、コリネバクテリウム（Corynebacterium）の株からのｒｎａＪタンパク質を意味し、このｒｎａＪタンパク質は、ＮＣＢＩのＢＬＡＳＴ（登録商標）アラインメントツールを使用して配列番号３と比較した場合に、図１Ａ及び図Ｂに示されているように、配列番号３のアミノ酸４４８と整列する位置にグリシンの代わりにセリンを有する。Ｇ４４８Ｓ置換を含むように改変することができるコリネバクテリアｒｎａＪタンパク質には、限定されるものではないが、表１のＮＣＢＩ参照番号によって提供されるアミノ酸配列で同定されたタンパク質（命名方法に関係なく）が含まれる。
+ e. Modified Corynebacterium Ribonuclease J Protein  [14] An engineered strain of Corynebacteria containing any of the above structural changes may also contain a modified Corynebacterium ribonuclease (rnaJ) protein. The modified Corynebacterium rnaJ protein contains a G448S substitution. An example of such a protein is shown in SEQ ID NO: 3. As used herein, "Corynebacterium rnaJ protein containing G448S substitution" means a rnaJ protein from a strain of Corynebacterium, which is a BLAST® alignment tool for NCBI. When used and compared to SEQ ID NO: 3, it has serine instead of glycine at a position aligned with amino acid 448 of SEQ ID NO: 3, as shown in FIGS. 1A and B. Corinebacteria rnaJ proteins that can be modified to include G448S substitutions are, but are not limited to, proteins identified by the amino acid sequence provided by the NCBI reference number in Table 1 (regardless of naming scheme). Is included. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ｆ．改変されたコリネバクテリアａｃｃＤＡタンパク質 
+  [15]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、改変されたコリネバクテリアａｃｃＤＡタンパク質を含み得る。改変されたコリネバクテリアａｃｃＤＡタンパク質はＧ３１０Ｅ置換を含む。そのようなタンパク質の一例が配列番号６に示されている。本明細書で使用される「Ｇ３１０Ｅ置換を含むコリネバクテリアａｃｃＤＡタンパク質」は、米・国立生物工学情報センター（National Center for Biotechnology Information）のＢＬＡＳＴ（登録商標）アラインメントツールを使用して配列番号６と比較すると、図２に例示されているように、配列番号６のアミノ酸３１０と整列する位置にグリシンの代わりにグルタミン酸を有するコリネバクテリウム（Corynebacterium）株由来のａｃｃＤＡタンパク質を意味する。Ｇ３１０Ｅ置換を含むように改変できるコリネバクテリアａｃｃＤＡタンパク質には、限定されるものではないが、表２のＮＣＢＩ参照番号によって示されるアミノ酸配列で同定されるタンパク質（命名法に関係なく）が含まれる。
+ f. Modified Corynebacterium accDA protein  [15] An engineered strain of Corynebacteria containing any of the above structural changes may also contain a modified Corynebacteria accDA protein. The modified Corynebacterium accDA protein contains a G310E substitution. An example of such a protein is shown in SEQ ID NO: 6. The "Corynebacterium accDA protein containing G310E substitution" used herein is compared to SEQ ID NO: 6 using the BLAST® alignment tool of the National Center for Biotechnology Information. Then, as illustrated in FIG. 2, it means an accDA protein derived from a Corynebacterium strain having glutamic acid instead of glycine at a position aligned with amino acid 310 of SEQ ID NO: 6. Corinebacteria accDA proteins that can be modified to include G310E substitutions include, but are not limited to, proteins identified by the amino acid sequence indicated by the NCBI reference number in Table 2 (regardless of nomenclature). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ｇ．改変されたコリネバクテリアｃｇ１１４４タンパク質 
+  [16]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、改変されたコリネバクテリアｃｇ１１４４タンパク質を含み得る。改変されたコリネバクテリアｃｇ１１４４タンパク質はＰ６６Ｓ置換を含む。このようなタンパク質の一例が配列番号９に示されている。本明細書で使用される「Ｐ６６Ｓ置換を含むコリネバクテリアｃｇ１１４４タンパク質」は、米・国立生物工学情報センター（National Center for Biotechnology Information）のＢＬＡＳＴ（登録商標）アラインメントツールを使用して配列番号９と比較すると、図３に例示されているように、配列番号９のアミノ酸６６と整列する位置にプロリンの代わりにセリンを有するコリネバクテリウム（Corynebacterium）株由来のｃｇ１１４４タンパク質を意味する。Ｐ６６Ｓ置換を含むように改変できるコリネバクテリアｃｇ１１４４タンパク質には、限定されるものではないが、表３のＮＣＢＩ参照番号によって示されるアミノ酸配列で同定されるタンパク質（命名法に関係なく）が含まれる。
+ g. Modified Corynebacterium cg1144 protein  [16] An engineered strain of Corynebacteria containing any of the above structural changes may also contain a modified Corynebacteria cg1144 protein. The modified Corynebacterium cg1144 protein contains a P66S substitution. An example of such a protein is shown in SEQ ID NO: 9. The "Corynebacterium cg1144 protein containing P66S substitution" used herein is compared to SEQ ID NO: 9 using the BLAST® alignment tool of the National Center for Biotechnology Information. Then, as illustrated in FIG. 3, it means a cg1144 protein derived from a Corynebacterium strain having serine instead of proline at a position aligned with amino acid 66 of SEQ ID NO: 9. Corinebacteria cg1144 proteins that can be modified to include P66S substitutions include, but are not limited to, proteins identified by the amino acid sequence indicated by the NCBI reference number in Table 3 (regardless of nomenclature). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ｈ．ｃｇ２７６６開始コドンの前へのプロモーターの挿入 
+  [17]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、ｃｇ２７６６開始コドンの前に挿入されたプロモーターを含み得る。挿入されるプロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、挿入されるプロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である；米国特許出願公開第２０１７／０１５９０４５号及び国際公開第２０１７／００３７６号を参照されたい。
+ h. Insertion of promoter before cg2766 start codon  [17] An engineered strain of Corynebacteria containing any of the above structural changes may also include a promoter inserted prior to the cg2766 start codon. The promoter to be inserted can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter of another Corynebacterium species or strain, or It can be an artificially constructed promoter). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the promoter to be inserted is promoter Pcg0007_39 (SEQ ID NO: 20); see US Patent Application Publication No. 2017/0159045 and International Publication No. 2017/00376. 
+ 
+ 
+   
+ｉ．天然のａｃｔＡプロモーターの置換 
+  [18]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、天然のａｃｔＡプロモーターの代わりに置換ａｃｔＡプロモーターを含み得る。ａｃｔＡ置換プロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、ａｃｔＡ置換プロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である。
+ i. Substitution of the natural actA promoter  [18] An engineered strain of Corynebacteria containing any of the above structural changes may also contain a substituted actA promoter instead of the native actA promoter. The actA substituted promoter can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter or artificial of another Corynebacterium species or strain). Can be a promoter (promoter constructed). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the actA substituted promoter is the promoter Pcg0007_39 (SEQ ID NO: 20). 
+ 
+ 
+   
+ｊ．天然のｏｐｃＡコード配列の置換 
+  [19]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、天然のｏｐｃＡコード配列の代わりに、異なるコリネバクテリウム（Corynebacterium）種又は株のｏｐｃＡタンパク質のコード配列を含み得る。適切なｏｐｃＡタンパク質が、表４Ａ及び表４Ｂに一覧にされている。ＮＣＢＩのＢＬＡＳＴ（登録商標）アラインメントツールを使用すると、表４ＡのｏｐｃＡタンパク質のアミノ酸配列は、ＮＲＲＬ  Ｂ−１１４７４のｏｐｃＡタンパク質のアミノ酸配列（配列番号９４）と７５％未満同一であり、表４ＢのｏｐｃＡタンパク質のアミノ酸配列は、ＮＲＲＬ  Ｂ−１１４７４のｏｐｃＡタンパク質のアミノ酸配列（配列番号９４）と７５％超同一である。
+ j. Substitution of the natural opcA coding sequence  [19] Engineered strains of Corynebacteria containing any of the above structural changes also have the coding sequence of the opcA protein of a different Corynebacterium species or strain instead of the native opcA coding sequence. May include. Suitable opcA proteins are listed in Tables 4A and 4B. Using NCBI's BLAST® alignment tool, the amino acid sequence of the opcA protein in Table 4A is less than 75% identical to the amino acid sequence of the opcA protein in NRRL B-11474 (SEQ ID NO: 94) and opcA in Table 4B. The amino acid sequence of the protein is more than 75% identical to the amino acid sequence of the opcA protein of NRRL B-11474 (SEQ ID NO: 94). 
+ 
+ 
+   
+  [20]  いくつかの実施形態では、置換ｏｐｃＡコード配列は、ｚｗｆ及びｏｐｃＡの両方の発現を駆動するプロモーターの制御下にある。いくつかの実施形態では、置換ｏｐｃＡコード配列は、挿入されたｏｐｃＡプロモーターの制御下にある。挿入されるｏｐｃＡプロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、挿入されるｏｐｃＡプロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である。
+ 
+  [20] In some embodiments, the substituted opcA coding sequence is under the control of a promoter that drives the expression of both zwf and opcA. In some embodiments, the substituted opcA coding sequence is under the control of the inserted opcA promoter. The inserted opcA promoter can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter of another Corynebacterium species or strain). Or it can be an artificially constructed promoter). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the opcA promoter inserted is the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ｋ．ｌｙｓＡ、ａｓｋ、ａｓｄ、ｄｄｈ、及び／又はｄａｐＢの少なくとも１つの追加のコピーの挿入 
+  ［21］  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、ｌｙｓＡ、ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢからなる群から選択される少なくとも１つの遺伝子の少なくとも１つの追加のコピーを含み得る。追加のコピーは、１つ又は複数のベクターを使用して提供することができる。実施例１は、ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢのコピーを挿入するために使用できる２つの組み込みベクターについて説明する。
+ k. Insertion of at least one additional copy of lysA, ask, asd, ddh, and / or dapB [21] Engineered strains of Corynebacteria comprising any of the above structural changes are also included in lysA, ask, lysA, ask. It may include at least one additional copy of at least one gene selected from the group consisting of asd, ddh, and dapB. Additional copies can be provided using one or more vectors. Example 1 describes two integration vectors that can be used to insert copies of ask, asd, ddh, and dapB. 
+ 
+ 
+   
+  [22]  いくつかの実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。
+ 
+  [22] In some embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, ask, asd, ddh, and dapB.
+ 
+ 
+ 
+   
+  [23]  いくつかの実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｋ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｋ、ａｓｄ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｋ、ａｓｄ、及びｄｄｈの少なくとも１つの追加のコピーを含む。
+ 
+  [23] In some embodiments, the engineered Corynebacterium comprises at least one additional copy of ask, asd, ddh, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, asd, ddh, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, ask, ddh, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, ask, asd, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, ask, asd, and ddh.
+ 
+ 
+ 
+   
+  [24]  いくつかの実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｋ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｋ、ａｓｄ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｋ、ａｓｄ、及びｄｄｈの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｄ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｄ、及びｄｄｈの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｋ、及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ、ａｓｋ、及びｄｄｈの少なくとも１つの追加のコピーを含む。
+ 
+  [24] In some embodiments, the engineered Corynebacterium comprises at least one additional copy of asd, ddh, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of ask, ddh, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of ask, asd, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of ask, asd, and ddh. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, ddh, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, asd, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, asd, and ddh. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, ask, and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA, ask, and ddh.
+ 
+ 
+ 
+   
+  [25]  いくつかの実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｄｄｈ及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｄ及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｄ及びｄｄｈの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ及びｄａｐＢの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ及びｄｄｈの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡ及びａｓｋの少なくとも１つの追加のコピーを含む。
+ 
+  [25] In some embodiments, the engineered Corynebacterium comprises at least one additional copy of ddh and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of asd and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of asd and ddh. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA and dapB. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA and ddh. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA and ask.
+ 
+ 
+ 
+   
+  [26]  他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｌｙｓＡの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｋの少なくとも１つの追加のアスクのコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ａｓｄの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｄｄｈの少なくとも１つの追加のコピーを含む。他の実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）は、ｄａｐＢの少なくとも１つの追加のコピーを含む。
+ 
+  [26] In other embodiments, the engineered Corynebacterium comprises at least one additional copy of lysA. In another embodiment, the engineered Corynebacterium comprises at least one additional ask copy of ask. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of asd. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of ddh. In other embodiments, the engineered Corynebacterium comprises at least one additional copy of dapB.
+ 
+ 
+ 
+   
+  [27]  エンジニアリングされたコリネバクテリウム（Corynebacterium）がｌｙｓＡの少なくとも１つの追加のコピーを含む上記のいずれの実施形態でも、ｌｙｓＡの追加コピーは、以下に説明されるコドンが最適化されたタイプのコピーである。
+ 
+  [27] In any of the above embodiments where the engineered Corynebacterium comprises at least one additional copy of lysA, the additional copy of lysA is of the codon-optimized type described below. It is a copy.
+ 
+ 
+ 
+   
+ｌ．ａｃｅＥの開始コドンの置換 
+  [28]  いくつかの実施形態では、上記のコリネバクテリア（Corynebacteria）のエンジニアリングされた株のいずれかのゲノムにおける天然のａｃｅＥ遺伝子の開始コドンが置換される。これらの実施形態のいくつかでは、開始コドンは、ＧＴＧ、ＣＴＧ、又はＴＴＧで置換される。いくつかの実施形態では、開始コドンは、ＴＴＧで置換される。
+ l. Substitution of start codon of aceE  [28] In some embodiments, the start codon of the native aceE gene in the genome of any of the engineered strains of Corynebacteria described above is replaced. In some of these embodiments, the start codon is replaced with GTG, CTG, or TTG. In some embodiments, the start codon is replaced with TTG. 
+ 
+ 
+   
+ｍ．天然のｐｙｃ遺伝子プロモーターの置換 
+  [29]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、天然のｐｙｃ遺伝子プロモーターの代わりにｐｙｃ置換プロモーターを含み得る。ｐｙｃ置換プロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、ｐｙｃ置換プロモーターは、プロモーターＰｃｇ１８６０（配列番号１１；米国特許出願公開第２０１７／０１５９０４５号を参照）である。
+ m. Substitution of the native pyc gene promoter  [29] An engineered strain of Corynebacteria containing any of the above structural changes may also include a pyc substitution promoter in place of the native pyc gene promoter. The pyc-substituted promoter can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter of another Corynebacterium species or strain, or an artificial promoter. Can be a promoter (promoter constructed). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the pyc-substituted promoter is the promoter Pcg1860 (SEQ ID NO: 11; see US Patent Application Publication No. 2017/0159045). 
+ 
+ 
+   
+ｎ．ｚｗｆオープンリーディングフレームの前へのプロモーターの挿入 
+  [30]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株はまた、ｚｗｆオープンリーディングフレームの前に挿入されたプロモーターを含み得る。挿入されるプロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。いくつかの実施形態では、追加のプロモーターは、プロモーターＰｃｇ０００７＿３９（配列番号２０）である。
+ n. Insertion of promoter before zwf open reading frame  [30] An engineered strain of Corynebacteria containing any of the above structural changes may also include a promoter inserted prior to the zwf open reading frame. The promoter to be inserted can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter of another Corynebacterium species or strain, or It can be an artificially constructed promoter). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. In some embodiments, the additional promoter is promoter Pcg0007_39 (SEQ ID NO: 20). 
+ 
+ 
+   
+ｏ．コドン最適化ｌｙｓＡコード配列の挿入 
+  [31]  上記の構造変化のいずれかを含むコリネバクテリア（Corynebacteria）のエンジニアリングされた株は、ターミネーター配列を含む、プロモーターの制御下にあるコドン最適化ｌｙｓＡコード配列を含み得る。プロモーターは、エンジニアリングされているコリネバクテリウム（Corynebacterium）種若しくは株の異なる遺伝子からのプロモーターであり得るか、又は異種プロモーター（即ち、別のコリネバクテリウム（Corynebacterium）種若しくは株のプロモーター又は人工的に構築されたプロモーター）であり得る。これらのプロモーターには、限定されるものではないが、Nesvera et al., 2012；Patek et al., 2003(a)；Patek et al., 2003(b)；Patek et al., 2013；Rytter et al., 2014；Shang et al., 2017；Yim et al., 2013；米国特許出願公開第２０１７／０１５９０４５号；及び国際公開第２０１７／００３７６号に開示されているプロモーターが含まれる。ターミネーター配列には、限定されるものではないが、Pfeifer-Sancar et al., 2013に開示されているものが含まれる。
+ o. Insertion of codon-optimized lysA coding sequence  [31] An engineered strain of Corynebacteria containing any of the above structural changes may comprise a promoter-controlled codon-optimized lysA coding sequence, including a terminator sequence. The promoter can be a promoter from a different gene of the engineered Corynebacterium species or strain, or a heterologous promoter (ie, a promoter of another Corynebacterium species or strain, or artificially. It can be a constructed promoter). These promoters include, but are not limited to, Nesvera et al., 2012; Patek et al., 2003 (a); Patek et al., 2003 (b); Patek et al., 2013; Rytter et. Al., 2014; Shang et al., 2017; Yim et al., 2013; US Patent Application Publication No. 2017/0159045; and International Publication No. 2017/00376 include promoters. Terminator sequences include, but are not limited to, those disclosed in Pfeifer-Sancar et al., 2013. 
+ 
+ 
+   
+  [32]  いくつかの実施形態では、プロモーターは、Ｐｃｇ０００７＿３９（配列番号２０）である。これらの実施形態のいくつかでは、コドン最適化配列は配列番号１６である。これらの実施形態のいくつかでは、ターミネーターは、ｓｏｄターミネーター（配列番号１７のヌクレオチド１４３６〜１５１６）である。いくつかの実施形態では、エンジニアリングされたコリネバクテリウム（Corynebacterium）のゲノムは、配列番号１７のヌクレオチド配列を含み、このヌクレオチド配列は、ｓｏｄターミネーター（配列番号１７のヌクレオチド１４３６〜１５１６）を含む、プロモーターＰｃｇ０００７＿３９（配列番号２０）の制御下にあるコドン最適化ｌｙｓＡ配列（配列番号１６）である。
+ 
+  [32] In some embodiments, the promoter is Pcg0007_39 (SEQ ID NO: 20). In some of these embodiments, the codon-optimized sequence is SEQ ID NO: 16. In some of these embodiments, the terminator is a sod terminator (nucleotides 1436-1516 of SEQ ID NO: 17). In some embodiments, the engineered Corynebacterium genome comprises the nucleotide sequence of SEQ ID NO: 17, which is a promoter comprising a sod terminator (nucleotides 1436-1516 of SEQ ID NO: 17). A codon-optimized lysA sequence (SEQ ID NO: 16) under the control of Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+核酸及びベクター 
+  [33]  ベクターを使用して、上記の１つ又は複数の構造変化を有するコリネバクテリウム（Corynebacterium）をエンジニアリングすることができ、対応する天然のコリネバクテリウム（Corynebacterium）（即ち、構造変化を含むようにエンジニアリングされていないコリネバクテリウム（Corynebacterium））と比較してリジン産生が改善される。そのようなコリネバクテリア（Corynebacteria）には、限定されるものではないが、ＮＲＲＬ  Ｂ−１１４７４として寄託されたコリネバクテリウム（Corynebacterium）、ＮＲＲＬ  Ｂ−６７４３９として寄託されたコリネバクテリウム（Corynebacterium）、並びに表１、表２、表３、表４Ａ、及び表４Ｂのコリネバクテリア種及び株が含まれる。ベクターをコリネバクテリア（Corynebacteria）に送達する方法は周知であり、例えば、リン酸カルシウムトランスフェクション、ＤＥＡＥ−デキストラン媒介トランスフェクション、マイクロインジェクション、脂質媒介トランスフェクション、エレクトロポレーション、コンジュゲーション、及び感染が含まれる。
+ Nucleic acids and vectors  [33] Vectors can be used to engineer Corynebacterium with one or more of the structural changes described above, including the corresponding natural Corynebacterium (ie, structural changes). Improves lysine production as compared to unengineered Corynebacterium. Such Corynebacteria are, but are not limited to, Corynebacterium deposited as NRRL B-11474, Corynebacterium deposited as NRRL B-67439, and Includes Corynebacterium species and strains from Table 1, Table 2, Table 3, Table 4A, and Table 4B. Methods of delivering the vector to Corynebacteria are well known and include, for example, calcium phosphate transfection, DEAE-dextran-mediated transfection, microinjection, lipid-mediated transfection, electroporation, conjugation, and infection. 
+ 
+ 
+   
+  [34]  上記の改変をエンジニアリングするために使用することができる核酸は周知であり、例えば、米国特許第７，３６８，２７６号、米国特許第６，９２７，０４６号、米国特許出願公開第２０１７／０１５９０４５号、及び国際公開第２０１７／００３７６号、並びに以下の実施例に記載されている。上記の改変されたコリネバクテリアｒｎａＪ、ａｃｃＤＡ、及びｃｇ１１４４タンパク質をコードする核酸は、ベクターに含めることができ、このベクターでは、コード配列がコリネバクテリウム（Corynebacterium）での発現に適した調節配列に作動可能に連結されている。配列番号２、配列番号５、及び配列番号８はそれぞれ、配列番号３、配列番号６、及び配列番号９をコードするヌクレオチド配列の例であるが、改変されたコリネバクテリアタンパク質をコードする任意のヌクレオチド配列を使用することができる。ヌクレオチド配列は、当技術分野で周知であるコリネバクテリア（Corynebacteria）の様々な種又は株での発現のために最適化することができる。
+ 
+  [34] Nucleic acids that can be used to engineer the above modifications are well known, such as US Pat. No. 7,368,276, US Pat. No. 6,927,046, US Patent Application Publication No. 2017. / 01959045, and International Publication No. 2017/00376, as well as the following examples. Nucleic acids encoding the modified Corynebacterium rnaJ, accDA, and cg1144 proteins described above can be included in the vector, in which the coding sequence acts on a regulatory sequence suitable for expression in Corynebacterium. It is connected as possible. SEQ ID NO: 2, SEQ ID NO: 5, and SEQ ID NO: 8 are examples of nucleotide sequences encoding SEQ ID NOs: 3, SEQ ID NO: 6, and SEQ ID NO: 9, respectively, but any nucleotide encoding a modified corynebacterium protein. Arrays can be used. Nucleotide sequences can be optimized for expression in various species or strains of Corynebacteria, which are well known in the art.
+ 
+ 
+ 
+   
+  [35]  調節配列は、適切なｍＲＮＡリボソーム結合部位及び転写と翻訳の終結を調節するための配列を含み、プロモーター又はオペレーターなどの他の要素を含み得る。ひとたび宿主コリネバクテリウム（Corynebacterium）に形質転換されると、ベクターは、宿主ゲノムとは独立に複製又は機能し得るか、又はゲノム自体に組み込まれ得る。使用されるベクターは、特に限定されるものではなく、コリネバクテリウム（Corynebacterium）宿主において複製することができるのであれば、当技術分野で公知のあらゆるベクターであり得る。例えば、Lee, 2014; Knoppova et al., 2007；及びPatek & Nesvera, 2013を参照されたい。
+ 
+  [35] Regulatory sequences include suitable mRNA ribosome binding sites and sequences for regulating transcription and translation termination and may include other elements such as promoters or operators. Once transformed into the host Corynebacterium, the vector can replicate or function independently of the host genome or integrate into the genome itself. The vector used is not particularly limited and can be any vector known in the art as long as it can replicate in a Corynebacterium host. See, for example, Lee, 2014; Knoppova et al., 2007; and Patek & Nesvera, 2013.
+ 
+ 
+ 
+   
+  [36]  ベクターは、抗生物質耐性遺伝子などの少なくとも１つの選択可能なマーカーを含み得る。適切な抗生物質には、例えば、アミカシン、アンピシリン、オーグメンチン（アモキシシリン及びクラブロン酸（clavulonic acid））、セファゾリン、セフォキシチン、セフタジジム、セフチオフル、セファロチン、クロラムフェニコール、エンロフロキサシン、フロルフェニコール、ゲンタマイシン、イミペネム、カナマイシン、ペニシリン、サラフロキサシン、スペクチノマイシン、ストレプトマイシン、テトラサイクリン、チカルシリン、及びチルミコシンが含まれる。
+ 
+  [36] The vector may contain at least one selectable marker, such as an antibiotic resistance gene. Suitable antibiotics include, for example, amoxicillin, ampicillin, augmentin (amoxicillin and clavulonic acid), cefazolin, cefazolin, ceftazidime, cefthioflu, cephalotin, chloramphenicol, enlofloxacin, florfenicol, etc. Includes gentamicin, imipenem, canamycin, penicillin, cefazolin, spectinomycin, streptomycin, tetracycline, ticarcillin, and tyrmicocin.
+ 
+ 
+ 
+   
+コリネバクテリア（Corynebacteria）のエンジニアリングされた株 
+  [37]  本開示は、上記の４つの改変、即ち、（ａ）ｃｇ１３８３開始コドンの前への置換プロモーターの挿入；（ｂ）天然のｐｈｏＵプロモーターの置換；（ｃ）天然のｃｇ３２１０プロモーターの置換；及び（ｄ）天然のｃｇ０８００プロモーターの置換、並びに以下の改変のうちの少なくとも１つのうちの少なくとも１つを含むようにエンジニアリングされたコリネバクテリア（Corynebacteria）株を提供する： 
+（ｅ）Ｇ４４８Ｓ置換を含むリボヌクレアーゼＪタンパク質をコードするためのｒｎａＪコード配列の改変； 
+（ｆ）Ｇ３１０Ｅ置換を含むアセチルＣｏＡカルボキシラーゼカルボキシルトランスフェラーゼサブユニットα／βタンパク質をコードするための天然のａｃｃＤＡコード配列の改変； 
+（ｇ）Ｐ６６Ｓ置換を含むｃｇ１１４４タンパク質をコードするための天然のｃｇ１１４４コード配列の改変； 
+（ｈ）ｃｇ２７６６開始コドンの前へのプロモーターの挿入； 
+（ｉ）天然のａｃｔＡプロモーターの置換； 
+（ｊ１）異なるコリネバクテリウム（Corynebacterium）種又は株のｏｐｃＡタンパク質のコード配列による天然のｏｐｃＡコード配列の置換； 
+（ｊ２）挿入されたｏｐｃＡプロモーターの制御下にある異なるコリネバクテリウム（Corynebacterium）種又は株のｏｐｃＡタンパク質のコード配列による天然のｏｐｃＡコード配列の置換； 
+（ｋ）ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢからなる群から選択される少なくとも１つの遺伝子の少なくとも１つの追加コピーの挿入； 
+（ｌ）天然のａｃｅＥ遺伝子の開始コドンの置換； 
+（ｍ）天然のｐｙｃ遺伝子プロモーターの置換； 
+（ｎ）ｚｗｆオープンリーディングフレームの前への追加のプロモーターの挿入；並びに 
+（ｏ）コドン最適化ｌｙｓＡコード配列の挿入。
+ An engineered strain of Corynebacteria  [37] The present disclosure discloses the above four modifications: (a) insertion of a substitution promoter before the cg1383 start codon; (b) substitution of a native phoU promoter; (c) substitution of a native cg3210 promoter; And (d) a Corynebacteria strain engineered to include at least one of at least one of the following modifications, as well as a substitution of the native cg0800 promoter:  (E) Modification of the rnaJ coding sequence to encode a ribonuclease J protein containing a G448S substitution;  (F) Modification of the native accDA coding sequence to encode the acetyl-CoA carboxylase carboxyltransferase subunit α / β protein, including G310E substitutions;  (G) Modification of the native cg1144 coding sequence to encode the cg1144 protein containing P66S substitution;  (H) Insertion of promoter before cg2766 start codon;  (I) Substitution of the natural actA promoter;  (J1) Substitution of the native opcA coding sequence by the coding sequence of the opcA protein of a different Corynebacterium species or strain;  (J2) Substitution of the native opcA coding sequence by the coding sequence of the opcA protein of a different Corynebacterium species or strain under the control of the inserted opcA promoter;  (K) Insertion of at least one additional copy of at least one gene selected from the group consisting of ask, asd, ddh, and dapB;  (L) Substitution of the start codon of the natural aceE gene;  (M) Substitution of the natural pyc gene promoter;  (N) Insertion of an additional promoter before the zwf open reading frame; and (o) Insertion of a codon-optimized lysA coding sequence. 
+ 
+ 
+   
+  [38]  エンジニアリングされたコリネバクテリア（Corynebacteria）の以下の非限定的な実施形態は上記の説明の範囲内である。
+ 
+  [38] The following non-limiting embodiments of engineered Corynebacteria are within the scope of the above description.
+ 
+ 
+ 
+   
+  実施形態１．ブタペスト条約の規定の下で２０１７年１２月２２日にAgriculture Research Culture Collection (NRRL) International Depository Authority, 1815 N. University Street, Peoria, IL 61604に、割り当てアクセッション番号ＮＲＲＬ  Ｂ−６７５３５として寄託されたコリネバクテリウム（Corynebacterium）。
+ 
+ Embodiment  1. Corine deposited with the Agriculture Research Culture Collection (NRRL) International Depository Authority, 1815 N. University Street, Peoria, IL 61604 on December 22, 2017 under the provisions of the Budapest Convention as the allocation accession number NRRL B-67535. Corynebacterium.
+ 
+ 
+ 
+   
+  実施形態２．ＮＲＲＬ  Ｂ−６７４３９として寄託された細菌のゲノムから本質的になるが、以下からなる群から選択される最大４つの構造変化を有する細菌ゲノムを有するコリネバクテリウム（Corynebacterium）： 
+（ａ）ｃｇ１３８３開始コドンの前へのプロモーターの挿入； 
+（ｂ）天然のｐｈｏＵプロモーターの置換； 
+（ｃ）天然のｃｇ３２１０プロモーターの置換；及び 
+（ｄ）天然のｃｇ０８００プロモーターの置換。
+ Embodiment 2. Corynebacterium, which consists essentially of the bacterial genome deposited as NRRL B-6734, but has a bacterial genome with up to four structural changes selected from the group consisting of:  (A) Insertion of promoter before cg1383 start codon;  (B) Substitution of the natural foU promoter;  (C) Substitution of the native cg3210 promoter; and (d) Substitution of the native cg0800 promoter. 
+ 
+ 
+   
+  実施形態３．ＮＲＲＬ  Ｂ−１１４７４として寄託された細菌のゲノムから本質的になるが、以下の構造変化を有する細菌ゲノムを有するコリネバクテリウム（Corynebacterium）、 
+  （ｉ）以下からなる群から選択される少なくとも１つの構造変化： 
+    （ａ）ｃｇ１３８３開始コドンの前へのプロモーターの挿入； 
+    （ｂ）天然のｐｈｏＵプロモーターの置換； 
+    （ｃ）天然のｃｇ３２１０プロモーターの置換；及び 
+    （ｄ）天然のｃｇ０８００プロモーターの置換；並びに 
+  （ｉｉ）以下からなる群から選択される少なくとも１つの追加の構造変化： 
+    （ｅ）Ｇ４４８Ｓ置換を含むコリネバクテリアｒｎａＪタンパク質をコードするためのｒｎａＪコード配列の改変； 
+    （ｆ）Ｇ３１０Ｅ置換を含むコリネバクテリアａｃｃＤＡタンパク質をコードするための天然のａｃｃＤＡコード配列の改変； 
+    （ｇ）Ｐ６６Ｓ置換を含むコリネバクテリアｃｇ１１４４タンパク質をコードするための天然のｃｇ１１４４コード配列の改変； 
+    （ｈ）ｃｇ２７６６開始コドンの前へのプロモーターの挿入； 
+    （ｉ）天然のａｃｔＡプロモーターの置換； 
+    （ｊ１）異なるコリネバクテリウム（Corynebacterium）のｏｐｃＡタンパク質の置換ｏｐｃＡコード配列による天然のｏｐｃＡコード配列の置換； 
+    （ｊ２）挿入されたｏｐｃＡプロモーターの制御下にある異なるコリネバクテリウム（Corynebacterium）のｏｐｃＡタンパク質の置換ｏｐｃＡコード配列による天然のｏｐｃＡコード配列の置換； 
+    （ｋ）ｌｙｓＡ、ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢからなる群から選択される少なくとも１つの遺伝子の少なくとも１つの追加コピーの挿入； 
+    （ｌ）ａｃｅＥの天然の開始コドンのＧＴＧ、ＣＴＧ、又はＴＴＧでの置換； 
+    （ｍ）プロモーターＰｃｇ１８６０（配列番号１１）による天然のｐｙｃ遺伝子プロモーターの置換； 
+    （ｎ）ｚｗｆオープンリーディングフレームの前へのプロモーターＰｃｇ０００７＿３９（配列番号２０）の挿入； 
+    （ｏ）コドン最適化ｌｙｓＡコード配列の挿入。
+ Embodiment 3. Corynebacterium, which consists essentially of the bacterial genome deposited as NRRL B-11474, but has a bacterial genome with the following structural changes:  (I) At least one structural change selected from the group consisting of:  (A) Insertion of promoter before cg1383 start codon;  (B) Substitution of the natural foU promoter;  (C) Substitution of the native cg3210 promoter; and (d) Substitution of the native cg0800 promoter; and (ii) at least one additional structural change selected from the group consisting of:  (E) Modification of the rnaJ coding sequence to encode the Corynebacterium rnaJ protein containing a G448S substitution;  (F) Modification of the native accDA coding sequence to encode the Corynebacterium accDA protein, including the G310E substitution;  (G) Modification of the native cg1144 coding sequence to encode the Corynebacterium cg1144 protein containing P66S substitution;  (H) Insertion of promoter before cg2766 start codon;  (I) Substitution of the natural actA promoter;  (J1) Substitution of opcA protein of different Corynebacterium Substitution of natural opcA coding sequence by opcA coding sequence;  (J2) Substitution of opcA protein of different Corynebacterium under the control of the inserted opcA promoter Substitution of the native opcA coding sequence by the opcA coding sequence;  (K) Insertion of at least one additional copy of at least one gene selected from the group consisting of lysA, ask, asd, ddh, and dapB;  (L) Substitution of the natural start codon of aceE with GTG, CTG, or TTG;  (M) Substitution of the native pyc gene promoter by promoter Pcg1860 (SEQ ID NO: 11);  (N) Insertion of promoter Pcg0007_39 (SEQ ID NO: 20) before the zwf open reading frame;  (O) Insertion of codon-optimized lysA coding sequence. 
+ 
+ 
+   
+  実施形態４．ｃｇ１３８３開始コドンの前のプロモーターが、プロモーターＰｃｇ０００７＿３９（配列番号２０）である、実施形態２又は３のコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 4. Corynebacterium of Embodiment 2 or 3, wherein the promoter prior to the cg1383 start codon is the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態５．天然のｐｈｏＵプロモーターが、プロモーターＰｃｇ０００７＿３９（配列番号２０）で置換されている、実施形態２〜４のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 5. Corynebacterium according to any of embodiments 2-4, wherein the native phoU promoter is substituted with the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態６．天然のｃｇ３２１０プロモーターが、プロモーターＰｃｇ０００７＿３９（配列番号２０）で置換されている、実施形態２〜５のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 6. Corynebacterium according to any of embodiments 2-5, wherein the native cg3210 promoter is substituted with the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態７．天然のｃｇ０８００プロモーターが、プロモーターＰｃｇ０００７＿３９（配列番号２０）で置換されている、実施形態２〜６のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 7. Corynebacterium according to any of embodiments 2-6, wherein the native cg0800 promoter is substituted with the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態８．（ｅ）天然のｒｎａＪコード配列が、Ｇ４４８Ｓ置換を含むコリネバクテリアｒｎａＪタンパク質をコードするように改変されている、実施形態３〜７のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 8. (E) Corynebacterium according to any of embodiments 3-7, wherein the native rnaJ coding sequence has been modified to encode a Corynebacterium rnaJ protein comprising a G448S substitution.
+ 
+ 
+ 
+   
+  実施形態９．（ｅ）天然のｒｎａＪコード配列が、配列番号３のアミノ酸配列をコードするように改変されている、実施形態３〜８のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 9. (E) Corynebacterium according to any of embodiments 3-8, wherein the natural rnaJ coding sequence has been modified to encode the amino acid sequence of SEQ ID NO: 3.
+ 
+ 
+ 
+   
+  実施形態１０．（ｆ）天然のａｃｃＤＡコード配列が、Ｇ３１０Ｅ置換を含むコリネバクテリアａｃｃＤＡタンパク質をコードするように改変されている、実施形態３〜９のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 10. (F) Corynebacterium according to any of embodiments 3-9, wherein the native accDA coding sequence has been modified to encode a Corynebacterium accDA protein containing a G310E substitution.
+ 
+ 
+ 
+   
+  実施形態１１．（ｆ）天然のａｃｃＤＡコード配列が、配列番号６のアミノ酸配列をコードするように改変されている、実施形態３〜１０のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 11. (F) The Corynebacterium bacterium according to any of embodiments 3 to 10, wherein the natural accDA coding sequence has been modified to encode the amino acid sequence of SEQ ID NO: 6.
+ 
+ 
+ 
+   
+  実施形態１２．（ｇ）天然のｃｇ１１４４コード配列が、Ｐ６６Ｓ置換を含むコリネバクテリアｃｇ１１４４タンパク質をコードするように改変されている、実施形態３〜１１のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 12. (G) Corynebacterium according to any of embodiments 3-11, wherein the native cg1144 coding sequence has been modified to encode the Corynebacterium cg1144 protein comprising a P66S substitution.
+ 
+ 
+ 
+   
+  実施形態１３．（ｇ）天然のｃｇ１１４４コード配列が、配列番号９のアミノ酸配列をコードするように改変されている、実施形態３〜１２のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 13. (G) Corynebacterium according to any of embodiments 3-12, wherein the native cg1144 coding sequence has been modified to encode the amino acid sequence of SEQ ID NO: 9.
+ 
+ 
+ 
+   
+  実施形態１４．（ｈ）プロモーターが、ｃｇ２７６６開始コドンの前に挿入されている、実施形態３〜１３のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 14. (H) The Corynebacterium bacterium according to any of embodiments 3 to 13, in which the promoter is inserted before the cg2766 start codon.
+ 
+ 
+ 
+   
+  実施形態１５．（ｈ）ｃｇ２７６６開始コドンの前に挿入されたプロモーターがプロモーターＰｃｇ０００７＿３９（配列番号２０）である、実施形態３〜１４のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 15. (H) Corynebacterium according to any of embodiments 3-14, wherein the promoter inserted prior to the cg2766 start codon is the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態１６．（ｉ）天然のａｃｔＡプロモーターが置換されている、実施形態３〜１５のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 16. (I) The Corynebacterium bacterium according to any one of Embodiments 3 to 15, wherein the natural actA promoter is substituted.
+ 
+ 
+ 
+   
+  実施形態１７．（ｉ）天然のａｃｔＡプロモーターが、プロモーターＰｃｇ０００７＿３９（配列番号２０）で置換されている、実施形態３〜１６のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 17. (I) Corynebacterium according to any of embodiments 3-16, wherein the native actA promoter is substituted with the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態１８．（ｊ）天然のｏｐｃＡコード配列が、異なるコリネバクテリウム（Corynebacterium）のｏｐｃＡタンパク質の置換ｏｐｃＡコード配列で置換されている、実施形態３〜１７のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 18. (J) The Corynebacterium bacterium according to any one of Embodiments 3 to 17, wherein the natural opcA coding sequence is substituted with the replacement opcA coding sequence of the opcA protein of a different Corynebacterium.
+ 
+ 
+ 
+   
+  実施形態１９．天然のｏｐｃＡコード配列が、コリネバクテリウム・ビタエルミニス（Corynebacterium vitaeruminis）DSM 20294、コリネバクテリウム・マトルショッティイ（Corynebacterium matruchotii）ATCC 33806、コリネバクテリウム・ファルセニイ（Corynebacterium falsenii）DSM 44353、コリネバクテリウム・ハロトレランス（Corynebacterium halotolerans）YIM 70093、コリネバクテリウム・ピルビシプロデュセンス（Corynebacterium pyruviciproducens）ATCC BAA-1742、コリネバクテリウム・カゼイ（Corynebacterium casei）UCMA 3821、コリネバクテリウム・テルペノタビダム（Corynebacterium terpenotabidum）Y-11、及びＣ．フミレデュセンス（C. humireducens）NBRC 106098からなる群から選択されるコリネバクテリウム（Corynebacterium）のｏｐｃＡタンパク質の置換ｏｐｃＡコード配列で置換されている、実施形態３〜１８のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 19. The natural opcA coding sequence is Corynebacterium vitaeruminis DSM 20294, Corynebacterium matruchotii ATCC 33806, Corynebacterium falsenii DSM 44353, Corynebacterium halo. Corynebacterium halotolerans YIM 70093, Corynebacterium pyruviciproducens ATCC BAA-1742, Corynebacterium casei UCMA 3821, Corynebacterium terpenotabidum Y-11, And C.I. Substitution of the opcA protein of Corynebacterium selected from the group consisting of C. humireducens NBRC 106098 Corynebacterium according to any of embodiments 3-18, substituted with the opcA coding sequence. ..
+ 
+ 
+ 
+   
+  実施形態２０．天然のｏｐｃＡコード配列が、Ｃ．フミレデュセンス(C. humireducens)ＮＢＲＣ  １０６０９８のｏｐｃＡタンパク質の置換ｏｐｃＡコード配列で置換されている、実施形態３〜１９のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  20. The natural opcA coding sequence is C.I. C. humireducens Corynebacterium according to any of embodiments 3-19, substituted with the opcA coding sequence of the opcA protein of NBRC 106098.
+ 
+ 
+ 
+   
+  実施形態２１．置換ｏｐｃＡコード配列が、挿入されたｏｐｃＡプロモーターの制御下にある、実施形態３〜２０のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  21. Embodiment 21. The Corynebacterium of any of embodiments 3-20, wherein the substituted opcA coding sequence is under the control of the inserted opcA promoter.
+ 
+ 
+ 
+   
+  実施形態２２．挿入されたｏｐｃＡプロモーターが、プロモーターＰｃｇ０００７＿３９（配列番号２０）である、実施形態２１のコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 22. The Corynebacterium of Embodiment 21, wherein the inserted opcA promoter is the promoter Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態２３．（ｋ）細菌のゲノムが、ｌｙｓＡ、ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢからなる群から選択される少なくとも１つの遺伝子の少なくとも１つの追加のコピーを含む、実施形態３〜２２のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  23. (K) Corynebacterium according to any of embodiments 3-22, wherein the bacterial genome comprises at least one additional copy of at least one gene selected from the group consisting of lysA, ask, asd, ddh, and dapB. Corynebacterium.
+ 
+ 
+ 
+   
+  実施形態２４．細菌のゲノムが、（ａ）ｌｙｓＡ、ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加のコピーを含む、実施形態２３のコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 24. The Corynebacterium bacterium of Embodiment 23, wherein the bacterial genome comprises (a) at least one additional copy of lysA, ask, asd, ddh, and dapB.
+ 
+ 
+ 
+   
+  実施形態２４．細菌のゲノムが以下を含む、実施形態２３のコリネバクテリウム（Corynebacterium）菌： 
+  （ｂ）ａｓｋ、ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｃ）ｌｙｓＡ、ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｄ）ｌｙｓＡ、ａｓｋ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｅ）ｌｙｓＡ、ａｓｋ、ａｓｄ、及びｄａｐＢの少なくとも１つの追加コピー；又は 
+  （ｆ）ｌｙｓＡ、ａｓｋ、ａｓｄ、及びｄｄｈの少なくとも１つの追加コピー。
+ Embodiment 24. The Corynebacterium bacterium of Embodiment 23, wherein the bacterial genome comprises:  (B) At least one additional copy of ask, asd, ddh, and dapB;  (C) At least one additional copy of lysA, asd, ddh, and dapB;  (D) At least one additional copy of lysA, ask, ddh, and dapB;  (E) At least one additional copy of lysA, ask, asd, and dapB; or (f) at least one additional copy of lysA, ask, asd, and ddh. 
+ 
+ 
+   
+  実施形態２５．細菌のゲノムが以下を含む、実施形態２３のコリネバクテリウム（Corynebacterium）菌： 
+  （ｇ）ａｓｄ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｈ）ａｓｋ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｉ）ａｓｋ、ａｓｄ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｊ）ａｓｋ、ａｓｄ、及びｄｄｈの少なくとも１つの追加コピー； 
+  （ｋ）ｌｙｓＡ、ｄｄｈ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｌ）ｌｙｓＡ、ａｓｄ、及びｄａｐＢの少なくとも１つの追加コピー； 
+  （ｍ）ｌｙｓＡ、ａｓｄ、及びｄｄｈの少なくとも１つの追加コピー； 
+  （ｎ）ｌｙｓＡ、ａｓｋ、及びｄａｐＢの少なくとも１つの追加コピー；又は 
+  （ｏ）ｌｙｓＡ、ａｓｋ、及びｄｄｈの少なくとも１つの追加コピー。
+ Embodiment 25. The Corynebacterium bacterium of Embodiment 23, wherein the bacterial genome comprises:  (G) At least one additional copy of asd, ddh, and dapB;  (H) At least one additional copy of ask, ddh, and dapB;  (I) At least one additional copy of ask, asd, and dapB;  (J) At least one additional copy of ask, asd, and ddh;  (K) At least one additional copy of lysA, ddh, and dapB;  (L) At least one additional copy of lysA, asd, and dapB;  (M) At least one additional copy of lysA, asd, and ddh;  (N) At least one additional copy of lysA, ask, and dapB; or (o) at least one additional copy of lysA, ask, and ddh. 
+ 
+ 
+   
+  実施形態２６．細菌のゲノムが以下を含む、実施形態２３のコリネバクテリウム（Corynebacterium）菌： 
+（ｐ）ｄｄｈ及びｄａｐＢの少なくとも１つの追加コピー； 
+（ｑ）ａｓｄ及びｄａｐＢの少なくとも１つの追加コピー； 
+（ｒ）ａｓｄ及びｄｄｈの少なくとも１つの追加コピー； 
+（ｓ）ｌｙｓＡ及びｄａｐＢの少なくとも１つの追加コピー； 
+（ｔ）ｌｙｓＡ及びｄｄｈの少なくとも１つの追加コピー； 
+（ｕ）ｌｙｓＡ及びａｓｋの少なくとも１つの追加コピー。
+ Embodiment 26. The Corynebacterium bacterium of Embodiment 23, wherein the bacterial genome comprises:  (P) At least one additional copy of ddh and dapB;  (Q) At least one additional copy of asd and dapB;  (R) At least one additional copy of asd and ddh;  (S) At least one additional copy of lysA and dapB;  (T) At least one additional copy of lysA and ddh;  (U) At least one additional copy of lysA and ask. 
+ 
+ 
+   
+  実施形態２７．細菌のゲノムが以下を含む、実施形態２３のコリネバクテリウム（Corynebacterium）菌： 
+（ｖ）ｌｙｓＡの少なくとも１つの追加コピー； 
+（ｗ）ａｓｋの少なくとも１つの追加のコピー； 
+（ｘ）ａｓｄの少なくとも１つの追加コピー； 
+（ｙ）ｄｄｈの少なくとも１つの追加コピー；又は 
+（ｚ）ｄａｐＢの少なくとも１つの追加コピー。
+ Embodiment 27. The Corynebacterium bacterium of Embodiment 23, wherein the bacterial genome comprises:  (V) At least one additional copy of lysA;  (W) At least one additional copy of ask;  (X) At least one additional copy of asd;  (Y) At least one additional copy of ddh; or (z) at least one additional copy of dapB. 
+ 
+ 
+   
+  実施形態２８．ａｃｅＥの開始コドンが、ＴＴＧ、ＧＴＧ、又はＣＴＧで置換されている、実施形態３〜２７のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 28. The Corynebacterium bacterium according to any of embodiments 3-27, wherein the start codon of aceE is replaced with TTG, GTG, or CTG.
+ 
+ 
+ 
+   
+  実施形態２９．ａｃｅＥの開始コドンがＴＴＧで置換されている、実施形態３〜２８のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 29. The Corynebacterium bacterium according to any one of Embodiments 3 to 28, wherein the start codon of aceE is replaced with TTG.
+ 
+ 
+ 
+   
+  実施形態３０．天然のｐｙｃ遺伝子プロモーターが置換されている、実施形態３〜２９のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  30. The Corynebacterium bacterium according to any one of Embodiments 3 to 29, wherein the natural pyc gene promoter is substituted.
+ 
+ 
+ 
+   
+  実施形態３１．天然のｐｙｃ遺伝子プロモーターがプロモーターＰｃｇ１８６０（配列番号１１）で置換されている、実施形態３〜３０のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+ Embodiment  31. The Corynebacterium bacterium according to any of embodiments 3 to 30, wherein the native pyc gene promoter is substituted with the promoter Pcg1860 (SEQ ID NO: 11).
+ 
+ 
+ 
+   
+  実施形態３２．プロモーターが、ｚｗｆオープンリーディングフレームの前に挿入されている、実施形態３〜３１のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 32. The Corynebacterium bacterium according to any of embodiments 3-31, wherein the promoter is inserted prior to the zwf open reading frame.
+ 
+ 
+ 
+   
+  実施形態３３．プロモーターＰｃｇ０００７＿３９（配列番号２０）が、ｚｗｆオープンリーディングフレームの前に挿入されている、実施形態３〜３２のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 33. The Corynebacterium bacterium according to any of embodiments 3 to 32, wherein the promoter Pcg0007_39 (SEQ ID NO: 20) is inserted prior to the zwf open reading frame.
+ 
+ 
+ 
+   
+  実施形態３４．（ｏ）コドン最適化ｌｙｓＡコード配列を含む、実施形態３〜３３のいずれかのコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 34. (O) Corynebacterium according to any of embodiments 3-33, comprising a codon-optimized lysA coding sequence.
+ 
+ 
+ 
+   
+  実施形態３５．コドン最適化されたｌｙｓＡコード配列が、Ｐｃｇ０００７＿３９（配列番号２０）の制御下にある、実施形態３４のコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 35. Corynebacterium of embodiment 34, wherein the codon-optimized lysA coding sequence is under the control of Pcg0007_39 (SEQ ID NO: 20).
+ 
+ 
+ 
+   
+  実施形態３６．コドン最適化ｌｙｓＡコード配列の異種ターミネーターを含む、実施形態３４又は３５のコリネバクテリウム（Corynebacterium）。
+ 
+  Embodiment 36. Corynebacterium of embodiment 34 or 35, comprising a heterologous terminator of the codon-optimized lysA coding sequence.
+ 
+ 
+ 
+   
+  実施形態３７．配列番号１７のヌクレオチド配列を含む、実施形態３４〜３６のいずれかのコリネバクテリウム（Corynebacterium）菌。
+ 
+  Embodiment 37. The Corynebacterium bacterium according to any of embodiments 34-36, which comprises the nucleotide sequence of SEQ ID NO: 17.
+ 
+ 
+ 
+   
+リジンの産生 
+  [39]  コリネバクテリア（Corynebacteria）を使用してリジンを産生する方法は当技術分野で周知であり、本開示で提供されるエンジニアリングされたコリネバクテリア（Corynebacteria）は、これらの方法のいずれかで使用することができる。例えば、米国特許第８，０４８，６４９号、同第７，６３５，５７９号、同第７，５０４，２４２号、同第７，３００，７７７号、同第７，２６７，９６７号、同第７，１６０，７１１号、同第７，１４１，３８８号、同第７，１２２，３６９号、同第６，９２７，０４６号、同第６，８３０，９０３号、米国特許出願公開第２００２／００８６３７１号、同第２００４／００４３４５８号、同第２００９／０３２５２４４号、欧州特許第１２４６９２１号、及び同第１６１９２５２号を参照されたい。
+ Production of lysine  [39] Methods of producing lysine using Corynebacteria are well known in the art, and the engineered Corynebacteria provided in the present disclosure is used in any of these methods. can do. For example, US Pat. Nos. 8,048,649, 7,635,579, 7,504,242, 7,300,777, 7,267,967, 967, 967, 7,160,711, 7,141,388, 7,122,369, 6,927,046, 6,830,903, US Patent Application Publication No. 2002 / See 086371, 2004/0043458, 2009/0325244, European Patent No. 1246921, and No. 1619252. 
+ 
+ 
+   
+  [40]  当業者であれば、添付の特許請求の範囲内に含まれる上記の実施形態の多数の変形形態及び変更形態が存在することを理解されよう。
+ 
+  [40] Those skilled in the art will appreciate that there are numerous variants and modifications of the above embodiments that are within the scope of the appended claims.
+ 
+ 
+ 
+ 
+   
+実施例１．Ｌ−リジン経路４遺伝子構築物の調製 
+実施例１Ａ．ｂｉｏＤ領域にリジン生合成遺伝子ａｓｋ−ａｓｄ−ｄａｐＢ−ｄｄｈを含む組み込みベクターの構築 
+  [41]  ｐＢＫＭＳベクターは、Ｃ．グルタミカム（C. glutamicum）で複製できないｐＢＲ３２２誘導体であり、スクロース対抗選択の強力な合成プロモーターの制御下の、カナマイシン耐性遺伝子マーカー及びバシラス・サチリス（Bacillus subtilis）由来のレバンスクラーゼｓａｃＢ遺伝子を含む。５．４ｋｂのａｓｋ−ａｓｄ−ｄｄｈ−ｄａｐＢ−ｏｒｆ２’カセット（４Ｇｏ）を、ｐＦＣ３−ａｓｋ−ａｓｄ−ｄａｐＢ−ｄｄｈプラスミド（米国特許第７，３６８，２７６号）からＰｍｅＩ及びＸｍａＩを用いて消化し、ＨｉｎｃＩＩ及びＸｍａＩを用いて線状化ｐＤＥｌｉａ１１（米国特許第６，９２７，０４６号）にライゲーションしてｐＤ１１−ＫＢＤＨを構築した。
+ Example 1. Preparation of L-lysine pathway 4 gene construct Example 1A. Construction of an integrated vector containing the lysine biosynthesis gene ask-asd-dapB-ddh in the bioD region  [41] The pBKMS vector is described in C.I. It is a pBR322 derivative that cannot replicate with C. glutamicum and contains the kanamycin resistance gene marker and the levansculase sacB gene from Bacillus subtilis under the control of a strong synthetic promoter for sucrose counterselection. A 5.4 kb ask-asd-ddh-dapB-orf2'cassette (4Go) was digested from the pFC3-ask-asd-dapB-ddh plasmid (US Pat. No. 7,368,276) with PmeI and XmaI. , HincII and XmaI were used to ligate linearized pDELia11 (US Pat. No. 6,927,046) to construct pD11-KBDH. 
+ 
+ 
+   
+  [42]  ＳｐｅＩ部位を含む９．４ｋｂの相同領域を生成するために、プライマー１８４ｆ７（配列番号７０）及び１８４Ｆ８（配列番号７１）を使用してＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＤＮＡ断片を増幅し、ＩＮ−ＦＵＳＩＯＮ（登録商標）（Clontech）によってｐＢＫＭＳベクターＮｄｅＩ／ＰｓｔＩ部位にクローニングした。得られたプラスミドｐＢＫＭＳ  １８４  ３ｐをＳｐｅＩで消化し、プライマー１６１−ｌ８４ｆ５及び１６２−ｌ８４ｒ６を用いてＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡから同様に得た第２のＰＣＲ産物を、ＩＮ−ＦＵＳＩＯＮ（登録商標）反応によって挿入してｐＢＫＭＳ１８４を作製した。５．４ｋｂの４Ｇ Ｏ カセットを、プライマー２４４−４Ｇｏ  Ｆ２  Ｉｎｆ  ＳｐｅＩ（配列番号７２）及び２５３−４Ｇｏ  Ｒ３（配列番号７３）を用いてｐＤ１１−ＫＤＢＨから増幅し、ＳｐｅＩで消化し、ライゲーションによりｐＢＫ  ＭＳ  １８４  ＳｐｅＩ部位にクローニングした。
+ [42] Primers 184f7 (SEQ ID NO: 70) and 184F8 (SEQ ID NO: 71) were used to amplify a DNA fragment from NRRL B-11474 genomic DNA to generate a 9.4 kb homology region containing the SpeI site. It was cloned into the pBKMS vector NdeI / PstI site by IN-FUSION® (Clontech). The resulting plasmid pBKMS 184 3p was digested with SpeI, and a second PCR product similarly obtained from NRRL B-11474 genomic DNA using primers 161-l84f5 and 162-l84r6 was subjected to IN-FUSION® reaction. To make pBKMS184 by inserting with. The 4G  O  cassettes 5.4 kb, was amplified from pD11-KDBH using primers 244-4Go F2 Inf SpeI (SEQ ID NO: 72) and 253-4Go R3 (SEQ ID NO: 73) was digested with SpeI, pBK MS by ligation It was cloned into the 184 SpeI site. 
+ 
+ 
+   
+実施例１Ｂ．リジン生合成遺伝子ａｓｋ−ａｓｄ−ｄａｐＢ−ｄｄｈ及び標的組み込みのためのＦａｒＩ相同領域を含むベクターの構築 
+  [43]  ＮＲＲＬ  Ｂ−１１４７４由来株からの３’ＦａｒＩ相同性領域を、プライマーＦａｒＩ  ３Ｐ  ＩｎｆｕｓＦ（配列番号３０）及びＦａｒＩ  ３Ｐ  ＩｎｆｕｓＲ  ＡｖｒＩＩ（配列番号３１）を用いてＰＣＲによって増幅した。精製されたＰＣＲ断片を、ＩＮ−ＦＵＳＩＯＮ（登録商標）（Clontech）反応によってｐＢＫＭＳにクローニングし、ＮｄｅＩ及びＰｓｔＩで消化し、ｐＢＫＭＳ  ＦａｒＩ  ３ｐを作製した。同様に、ＮＲＲＬ  Ｂ−１１４７４由来株からの５’ＦａｒＩ相同性領域を、プライマーＦａｒＩ  ５ｐ  ＩｎｆｕｓＦ（配列番号３２）及びＦａｒＩ  ５ｐ  ＩｎｆｕｓＲ（配列番号３３）を用いてＰＣＲ増幅し、ｐＢＫＭＳ  ＦａｒＩ  ３ｐのＸｂａＩ／ＡｖｒＩＩ部位にクローニングしてｐＢＫＭＳ  ＦａｒＩを作製した。
+ Example 1 B. Construction of a vector containing the lysine biosynthesis gene ask-asd-dapB-ddh and the FarI homologous region for target integration  [43] The 3'FarI homology region from the NRRL B-11474-derived strain was amplified by PCR using primers FarI 3P InfusF (SEQ ID NO: 30) and FarI 3P InfusR AvrII (SEQ ID NO: 31). Purified PCR fragments were cloned into pBKMS by IN-FUSION® (Clontech) reaction and digested with NdeI and PstI to make pBKMS FarI 3p. Similarly, the 5'FarI homology region from the NRRL B-11474-derived strain was PCR amplified using the primers FarI 5p InfusF (SEQ ID NO: 32) and FarI 5p InfusR (SEQ ID NO: 33) and XbaI / of pBKMS FarI 3p. Cloning to the AvrII site produced pBKMS FarI. 
+ 
+ 
+   
+  [44]  ５．４ｋｂのａｓｋ−ａｓｄ−ｄｄｈ−ｄａｐＢ−ｏｒｆ２’カセット（４Ｇｏ）を、ＰｍｅＩ及びＸｍａＩを用いてｐＦＣ３−ａｓｋ−ａｓｄ−ｄａｐＢ−ｄｄｈプラスミド（米国特許第７３６８２７６号）から消化し、ＨｉｎｃＩＩ及びＸｍａＩを用いて線状化ｐＤＥｌｉａ１１（米国特許６，９２７，０４６号）にライゲーションした。得られたベクターｐＤ１１−ＫＢＤＨを、ＮｒｕＩ及びＳｗａＩで消化してｄｄｈ−ｄａｐＢ  ２．９ｋｂ断片を除去して、ｐＤ１１ＫＤを作製した。次いで、ｐＤ１１ＫＤをＳｍａＩを用いて消化し、プライマー６８５（配列番号７４）及び６８６（配列番号７５）を用いてｐＤ１１ＫＤＢＨから１．３６ｋｂのＰＣＲ断片を増幅し、これを、ＩＮ−ＦＵＳＩＯＮ（登録商標）（Clontech）を用いて挿入してｐＤ１１ＫＤＨを作製した。次いで、プライマー６８７（配列番号７６）及び６９３（配列番号７７）を用いてｐＤ１１ＫＤＢＨから９８６ｂｐのｄａｐＢ断片を増幅し、これを、ＩＮ−ＦＵＳＩＯＮ（登録商標）（Clontech）反応によってｐＤ１１ＫＤＨ  ＳｂｆＩ部位にクローニングした。得られたｐＤ１１ＫＢＤＨ  ＲプラスミドからＳｐｅＩでの制限によってＫＢＤＨ断片を切り出し、これを、ｐＢＫＭＳ  ＦａｒＩのＡｖｒＩＩ部位にクローニングしてｐＢＫＭＳＦａｒＩ４ＧＲＡを作製した。
+ 
+  [44] A 5.4 kb ask-asd-ddh-dapB-orf2'cassette (4Go) was digested with PmeI and XmaI from the pFC3-ask-asd-dapB-ddh plasmid (US Pat. No. 7,368,276). It was ligated to linearized pDELia11 (US Pat. No. 6,927,046) using HincII and XmaI. The obtained vector pD11-KBDH was digested with NruI and SwaI to remove the ddh-dapB 2.9 kb fragment to prepare pD11KD. The pD11KD was then digested with SmaI and a PCR fragment of 1.36 kb was amplified from pD11KDBH using primers 685 (SEQ ID NO: 74) and 686 (SEQ ID NO: 75), which was IN-FUSION®. (Clontech) was used for insertion to make pD11KDH. A dapB fragment of 986 bp from pD11KDBH was then amplified using primers 687 (SEQ ID NO: 76) and 693 (SEQ ID NO: 77) and cloned into the pD11KDH SbfI site by IN-FUSION® (Clontech) reaction. .. A KBDH fragment was excised from the obtained pD11KBDH R plasmid by restriction with SpEI, and cloned into the AvrII site of pBKMS FarI to prepare pBKMSFarI4GRA.
+ 
+ 
+ 
+   
+実施例２．Ｃ．グルタミカム（C. glutamicum）の対立遺伝子置換 
+  [45]  この実施例では、以下の実施例４での対立遺伝子置換に使用される方法について説明する。菌株を、ＯＤ  ６６０ｎｍが０．５に達するまで、培地Ｂ（表５）又はＢＨＩブロス（BD Biosciences）で３０℃で培養した。細胞を遠心分離によって４℃で回収し、氷冷した脱イオン水で２回洗浄し、氷冷した１０％グリセロールに再懸濁して、エレクトロコンピテントなＣ．グルタミカム（C. glutamicum）細胞を作製した。プラスミドと細胞を混合し、エレクトロポレーションで形質転換し、１０μｇ／ｍｌカナマイシンを含むＢＨＩ寒天プレートにプレーティングし、プラスミドを組み込んだ形質転換体（カナマイシン耐性、スクロース感受性）が現れるまでインキュベートした。形質転換体を、追加の５％スクロース（最終濃度１０％スクロース）を添加した培地Ｂ（表５）で３０℃でさらに一晩培養し、培地Ｂにプレーティングして、２回目の組換え事象でプラスミドを切除した菌株を選択したため、スクロース耐性且つカナマイシン感受性であった。クローンをＰＣＲ及び配列決定によってさらにスクリーニングして、目的の変異の存在を検証した。
+ Example 2. C. Allelic substitution of C. glutamicum  [45] This example describes the method used for allele substitution in Example 4 below. Strains were cultured in medium B (Table 5) or BHI broth (BD Biosciences) at 30 ° C. until OD 660 nm reached 0.5. Cells were collected by centrifugation at 4 ° C., washed twice with ice-cooled deionized water, resuspended in ice-cooled 10% glycerol, and electrocompetent C.I. Glutamicum (C. glutamicum) cells were generated. The plasmid and cells were mixed, electroporated, plated on a BHI agar plate containing 10 μg / ml kanamycin and incubated until a transformant incorporating the plasmid (kanamycin resistant, sucrose sensitive) appeared. Transformants were further cultured overnight at 30 ° C. in Medium B (Table 5) supplemented with additional 5% sucrose (final concentration 10% sucrose) and plated on Medium B for a second recombinant event. Since the strain from which the plasmid was resected was selected, it was sucrose-resistant and kanamycin-sensitive. The clones were further screened by PCR and sequencing to verify the presence of the mutation of interest. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+実施例３．ゲノムＤＮＡの抽出 
+  [46]  ゲノムＤＮＡを抽出するために、選択した菌株を、培地Ｂ（表５）で３０℃で一晩増殖させた。５０００×ｇ（４℃）で１０分間の遠心分離によって培養物を沈殿させた。ペレットを、２５ｍＭ  Ｔｒｉｓ−ＨＣｌ  ｐＨ８．０、１０ｍＭ  ＥＤＴＡ、５０ｍＭ  グルコース、及び２０ｍｇ／ｍｌ  リゾチームを含む１０ｍｌの溶液に懸濁し、３７℃で２時間インキュベートした。１．３ｍｌの１０％ＳＤＳ、６７μｌの１０ｍｇ／ｍｌ  ＲＮＡｓｅ  Ａ、及び１６７μｌのプロテイナーゼＫ（２０ｍｇ／ｍｌストック）を添加した後、インキュベーションをさらに２時間延長した。ゲノムＤＮＡを、フェノール−クロロホルム抽出と、２倍量の氷冷エタノール及び０．１倍量の３Ｍ酢酸ナトリウム（ｐＨ５．２）の添加による沈殿とによってさらに精製した。−８０℃で１時間インキュベートした後、１４，０００ｒｐｍ（４℃）での１時間の遠心分離によってＤＮＡペレットを分離し、７０％エタノールで洗浄し、風乾し、ヌクレアーゼを含まない水に溶解した。
+ Example 3. Extraction of genomic DNA  [46] To extract genomic DNA, selected strains were grown overnight at 30 ° C. in Medium B (Table 5). Cultures were precipitated by centrifugation at 5000 xg (4 ° C.) for 10 minutes. The pellet was suspended in a 10 ml solution containing 25 mM Tris-HCl pH 8.0, 10 mM EDTA, 50 mM glucose, and 20 mg / ml lysozyme and incubated at 37 ° C. for 2 hours. After adding 1.3 ml of 10% SDS, 67 μl of 10 mg / ml RNAse A, and 167 μl of proteinase K (20 mg / ml stock), the incubation was extended for an additional 2 hours. Genomic DNA was further purified by phenol-chloroform extraction and precipitation with 2 times the amount of ice-cold ethanol and 0.1 times the amount of 3M sodium acetate (pH 5.2). After incubation at −80 ° C. for 1 hour, DNA pellets were separated by centrifugation at 14,000 rpm (4 ° C.) for 1 hour, washed with 70% ethanol, air dried and dissolved in nuclease-free water. 
+ 
+ 
+   
+実施例４．挿入断片のｐＫ１８ｍｏｂｓａｃＢ由来ベクターへの組み込み及びＣ．グルタミカム（C. glutamicum）株への形質転換 
+実施例４Ａ．組み込み及び対立遺伝子置換のためのプラスミドの構築 
+  [47]  上流又は下流の相同組換え領域の生成に使用されるすべてのＤＮＡ断片、及びインサートを、ポリメラーゼ連鎖反応（ＰＣＲ）を使用して、ＮＲＲＬ  Ｂ−１１４７４株から抽出された精製ゲノムＤＮＡから、若しくは実施例２に記載されているようにこの株に由来する配列を含むプラスミドから増幅するか、又は化学的に合成した（ＤＮＡ２．０）。酵母で選択するためのＵＲＡ３遺伝子を含むｐＫ１８ｍｏｂｓａｃＢ（Schaffer et al., Gene 145: 69-73, 1994; Accession FJ437239）に由来するｐＺベクターを、Ｃ．グルタミカム（C. glutamicum）に変化を導入するためのベクターバックボーンとして使用した。相同性アーム及びインサートを、酵母における相同組換えによってベクターバックボーンに組み立てた（Ma et al., Gene (58): 201-16, 1987）。各ＤＮＡ断片には、隣接する部分との正確な構築を確実にするために、両側に５０ｂｐの重複が含まれていた。構築のために、線状化ベクターバックボーン、２つの相同性アーム、及び任意選択による挿入されたＤＮＡ断片を同時に、サッカロマイセス・セレヴィシエ（Saccharomyces cerevisiae）ＣＥＮ．ＰＫ（Entian & Kotter, Methods in Microbiology 36: 629-66, 2007）に形質転換し、ウラシルを含まない合成完全寒天培地（Sigma）にプレーティングした。構築されたプラスミドを、ZYMOPREP（商標）Ｉ酵母プラスミドミニプレップキット（Zymo Research）を使用して酵母から抽出し、５０μｇ／ｍｌカナマイシン選択で大腸菌（E. coli）１０−ベータ細胞（New England Biolabs）で増殖させてから、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）に形質転換した。
+ Example 4. Incorporation of the insert into a pK18movsacB-derived vector and C.I. Transformation Example 4 A. Construction of plasmids for integration and allelic substitution  [47] All DNA fragments and inserts used to generate upstream or downstream homologous recombination regions from purified genomic DNA extracted from the NRRL B-11474 strain using polymerase chain reaction (PCR). , Or amplified or chemically synthesized from a plasmid containing a sequence derived from this strain as described in Example 2 (DNA 2.0). A pZ vector derived from pK18movsacB (Schaffer et al., Gene 145: 69-73, 1994; Accession FJ437239) containing the URA3 gene for selection in yeast was presented in C.I. It was used as a vector backbone to introduce changes into C. glutamicum. Homology arms and inserts were assembled into a vector backbone by homologous recombination in yeast (Ma et al., Gene (58): 201-16, 1987). Each DNA fragment contained 50 bp overlap on both sides to ensure accurate construction with adjacent moieties. For construction, a linearized vector backbone, two homology arms, and an optionally inserted DNA fragment were simultaneously inserted into Saccharomyces cerevisiae CEN. It was transformed into PK (Entian & Kotter, Methods in Microbiology 36: 629-66, 2007) and plated on uracil-free synthetic complete agar medium (Sigma). The constructed plasmid was extracted from yeast using the ZYMOPREP ™ I yeast plasmid miniprep kit (Zymo Research) and E. coli 10-beta cells (New England Biolabs) with 50 μg / ml kanamycin selection. After growing in C. coli, as described in Example 2. Transformed into C. glutamicum. 
+ 
+ 
+   
+実施例４Ｂ．ｒｎａＪ Ｇ４４８Ｓ 対立遺伝子を導入するための形質転換ベクターの構築 
+  [48]  ２つの相同性アームを、実施例３に記載されているように、得られたＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲを使用して増幅した。
+ Example 4 B. Construction of transformation vector for introducing  rnaJ G448S allele    [48] Two homology arms were amplified using PCR from the resulting NRRL B-11474 genomic DNA as described in Example 3. 
+ 
+ 
+   
+  [49]  約２．１ｋｂの下流相同性アーム（配列番号１のヌクレオチド２０２６〜４１０１）を、プライマーＳＮＰ＿０８４＿Ｐ１（配列番号３８）及びＳＮＰ＿０８４＿Ｐ２（配列番号３９）を使用して増幅した。プライマーＳＮＰ＿０８４＿Ｐｌには、実施例４Ａに記載のｐＺバックボーンと重複する５０ヌクレオチドの５’伸長が含まれている。プライマーＳＮＰ＿０８４＿Ｐ２には、Ｇ４４８Ｓ置換を導入するために２５位にＧからＡへの置換が含まれている。同様に、約２．１ｋｂの上流相同性アーム（配列番号１のヌクレオチド１〜２０７５）を、プライマーＳＮＰ＿０８４＿Ｐ３（配列番号４０）及びＳＮＰ＿０８４＿Ｐ４（配列番号４１）を使用して増幅した。プライマーＳＮＰ＿０８４＿Ｐ３には、Ｇ４４８Ｓ置換を導入するために２０位にＣからＴへの置換が含まれている。ＳＮＰ＿０８４＿Ｐ４には、実施例４Ａに記載のｐＺと重複する５０塩基の５’伸長が含まれている。２つの相同性アームのアラインメントにより、プライマーＳＮＰ＿０８４＿Ｐ２及びＳＮＰ＿０８４＿Ｐ３によって明確にされた５０ｂｐの重複が生じている。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、Ｇ４４８Ｓ置換を有するｒｎａＪアミノ酸配列（配列番号３）をコードする改変ｒｎａＪコード配列（配列番号２）を有する。
+ 
+  [49] A downstream homology arm of approximately 2.1 kb (nucleotides 2026-4101 of SEQ ID NO: 1) was amplified using primers SNP_084_P1 (SEQ ID NO: 38) and SNP_084_P2 (SEQ ID NO: 39). Primer SNP_084_Pl contains a 5'extension of 50 nucleotides that overlaps the pZ backbone described in Example 4A. Primer SNP_084_P2 contains a G-to-A substitution at position 25 to introduce a G448S substitution. Similarly, approximately 2.1 kb of upstream homology arms (nucleotides 1-2075 of SEQ ID NO: 1) were amplified using primers SNP_084_P3 (SEQ ID NO: 40) and SNP_084_P4 (SEQ ID NO: 41). Primer SNP_084_P3 contains a C to T substitution at position 20 to introduce the G448S substitution. SNP_084_P4 contains a 5'extension of 50 bases that overlaps the pZ described in Example 4A. The alignment of the two homology arms results in a 50 bp overlap identified by the primers SNP_084_P2 and SNP_084_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The obtained strain has a modified rnaJ coding sequence (SEQ ID NO: 2) encoding the rnaJ amino acid sequence (SEQ ID NO: 3) having a G448S substitution.
+ 
+ 
+ 
+   
+実施例４Ｃ．ａｃｃＤＡ Ｇ３１０Ｅ 対立遺伝子を導入するための形質転換ベクターの構築 
+  [50]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０７０ｂｐの下流相同性アーム（配列番号４のヌクレオチド２０３２〜４１０１）を、プライマーＳＮＰ＿０３３＿Ｐ１（配列番号４６）及びＳＮＰ＿０３３＿Ｐ２（配列番号４７）を使用して増幅した。プライマーＳＮＰ＿０３３＿Ｐｌには、実施例４Ａに記載のｐＺベクターバックボーンと重複する５０ヌクレオチドの５’伸長が含まれている。プライマーＳＮＰ＿０３３＿Ｐ２には、Ｇ３１０Ｅ変異を導入するために２０位にＧからＡへの置換が含まれている。同様に、約２．１ｋｂの上流相同性アーム（配列番号４のヌクレオチド１〜２０７１）を、プライマーＳＮＰ＿０８４＿Ｐ３（配列番号４８）及びＳＮＰ＿０８４＿Ｐ４（配列番号４９）を用いて増幅した。プライマーＳＮＰ＿０３３＿Ｐ３には、Ｇ３１０Ｅ変異を導入するために２１位にＣからＴへの置換が含まれている。ＳＮＰ＿０３３＿Ｐ４には、実施例４Ａに記載のｐＺバックボーンと重複する５０塩基の５’伸長が含まれている。２つの相同性アームのアラインメントにより、プライマーＳＮＰ＿０３３＿Ｐ２及びＳＮＰ＿０３３＿Ｐ３によって明確にされた４０ｂｐの重複が生じている。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、Ｇ３１０Ｅ置換を有するａｃｃＤＡアミノ酸配列（配列番号６）をコードする改変ａｃｃＤＡコード配列（配列番号５）を有する。
+ Example 4 C.I. Construction of transformation vector for introducing  accDA G310E allele    [50] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The 2070bp downstream homology arm (nucleotides 2034-2401 of SEQ ID NO: 4) was amplified using primers SNP_033_P1 (SEQ ID NO: 46) and SNP_033_P2 (SEQ ID NO: 47). Primer SNP_033_Pl contains a 5'extension of 50 nucleotides that overlaps the pZ vector backbone described in Example 4A. Primer SNP_033_P2 contains a G-to-A substitution at position 20 to introduce the G310E mutation. Similarly, approximately 2.1 kb of upstream homology arms (nucleotides 1-2071 of SEQ ID NO: 4) were amplified with primers SNP_084_P3 (SEQ ID NO: 48) and SNP_084_P4 (SEQ ID NO: 49). Primer SNP_033_P3 contains a C to T substitution at position 21 to introduce the G310E mutation. SNP_033_P4 contains a 5'extension of 50 bases that overlaps the pZ backbone described in Example 4A. The alignment of the two homology arms results in a 40 bp overlap identified by the primers SNP_033_P2 and SNP_033_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has a modified accDA coding sequence (SEQ ID NO: 5) encoding the accDA amino acid sequence (SEQ ID NO: 6) with a G310E substitution. 
+ 
+ 
+   
+実施例４Ｄ．ｃｇ１１４４ Ｐ６６Ｓ 対立遺伝子を導入するための形質転換ベクターの構築 
+  [51]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０３７ｂｐの上流相同性アーム（配列番号７のヌクレオチド１〜２０３７）を、プライマーＳＮＰ＿３１６＿Ｐ１（配列番号５０）及びＳＮＰ＿３１６＿Ｐ２（配列番号５１）を用いて増幅した。プライマーＳＮＰ＿３１６＿Ｐ１には、実施例４Ａに記載のｐＺベクターバックボーンと重複する５０ヌクレオチドの５’伸長が含まれている。プライマーＳＮＰ＿３１６＿Ｐ２には、Ｐ６６Ｓ変異を導入するために２１位にＧからＡへの置換が含まれている。同様に、２０７０ｂｐの下流相同性アーム（配列番号７のヌクレオチド１９９８〜４０６７）を、プライマーＳＮＰ＿３１６＿Ｐ３（配列番号５２）及びＳＮＰ＿３１６＿Ｐ４（配列番号５３）を用いて増幅した。プライマーＳＮＰ＿３１６＿Ｐ３には、Ｐ６６Ｓ変異を導入するために２０位にＣからＴへの置換が含まれている。ＳＮＰ＿３１６＿Ｐ４には、実施例４Ａに記載のｐＺバックボーンと重複する５０塩基の５’伸長が含まれている。２つの相同性アームのアラインメントにより、プライマーＳＮＰ＿３１６＿Ｐ２及びＳＮＰ＿３１６＿Ｐ３によって明確にされた４０ｂｐの重複が生じている。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、Ｐ６６Ｓ置換を有するｃｇ１１４４アミノ酸配列（配列番号９）をコードする改変ｃｇ１１４４コード配列（配列番号８）を有する。
+ Example 4D. Construction of transformation vector for introducing  cg1144 P66S allele    [51] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The upstream homology arm of 2037bp (nucleotides 1-2037 of SEQ ID NO: 7) was amplified with primers SNP_316_P1 (SEQ ID NO: 50) and SNP_316_P2 (SEQ ID NO: 51). Primer SNP_316_P1 contains a 5'extension of 50 nucleotides that overlaps the pZ vector backbone described in Example 4A. Primer SNP_316_P2 contains a G-to-A substitution at position 21 to introduce the P66S mutation. Similarly, a downstream homology arm of 2070 bp (nucleotides of SEQ ID NO: 7 1998-4067) was amplified with primers SNP_316_P3 (SEQ ID NO: 52) and SNP_316_P4 (SEQ ID NO: 53). Primer SNP_316_P3 contains a C to T substitution at position 20 to introduce the P66S mutation. SNP_316_P4 contains a 5'extension of 50 bases that overlaps the pZ backbone described in Example 4A. The alignment of the two homology arms results in a 40 bp overlap identified by the primers SNP_316_P2 and SNP_316_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has a modified cg1144 coding sequence (SEQ ID NO: 8) encoding the cg1144 amino acid sequence (SEQ ID NO: 9) with a P66S substitution. 
+ 
+ 
+   
+実施例４Ｅ．天然のｐｙｃプロモーターをプロモーターＰｃｇ１８６０で置換するための形質転換ベクターの構築 
+  [52]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０４３ｂｐの上流相同性アーム（配列番号１０のヌクレオチド１〜２０４３）をプライマーＰｃｇ１８６０＿ｐｙｃ＿Ｐ１（配列番号４２）及びＰｃｇ１８６０＿ｐｙｃ＿Ｐ２（配列番号４３）を用いて増幅した。同様に、２０５０ｂｐの下流相同性アーム（配列番号１０のヌクレオチド２１６１〜４２１０）を、プライマーＰｃｇ１８６０＿ｐｙｃ＿Ｐ３（配列番号４４）及びＰｃｇ１８６０＿ｐｙｃ＿Ｐ４（配列番号４５）を用いて増幅した。９３ｂｐのＰｃｇ１８６０ヌクレオチド配列（配列番号１１）は、プライマーＰｃｇ１８６０＿ｐｙｃ＿Ｐ２及びＰｃｇ１８６０−ｐｙｃ＿Ｐ３との５’伸長の重複によって得られた。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、ｐｙｃプロモーター（配列番号１２）の代わりにプロモーターＰｃｇ１８６０（配列番号１１）を有する。
+ Example 4 E. Construction of a transformation vector to replace the native pyc promoter with the promoter Pcg1860  [52] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The upstream homology arm of 2043bp (nucleotides 1-2043 of SEQ ID NO: 10) was amplified using primers Pcg1860_pyc_P1 (SEQ ID NO: 42) and Pcg1860_pyc_P2 (SEQ ID NO: 43). Similarly, the 2050 bp downstream homology arm (nucleotides 2161 to 4210 of SEQ ID NO: 10) was amplified with primers Pcg1860_pyc_P3 (SEQ ID NO: 44) and Pcg1860_pyc_P4 (SEQ ID NO: 45). The 93 bp Pcg1860 nucleotide sequence (SEQ ID NO: 11) was obtained by duplication of 5'extension with primers Pcg1860_pyc_P2 and Pcg1860-pyc_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has the promoter Pcg1860 (SEQ ID NO: 11) instead of the pyc promoter (SEQ ID NO: 12). 
+ 
+ 
+   
+実施例４Ｆ．ａｃｅＥ ａｔｇ＞ｔｔｇ 対立遺伝子を導入するための形質転換ベクターの構築 
+  [53]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０７２ｂｐの上流相同性アーム（配列番号１３のヌクレオチド１〜２０７２）を、プライマーＳＮＰ＿ａｃｅＥ＿Ｐ１（配列番号５４）及びＳＮＰ＿ａｃｅＥ＿Ｐ２（配列番号５５）を用いて増幅した。プライマーＳＮＰ＿ａｃｅＥ＿Ｐ１には、実施例４Ａに記載のｐＺベクターバックボーンと重複する５０ヌクレオチドの５’伸長が含まれている。プライマーＳＮＰ＿ａｃｅＥ＿Ｐ２には、Ａ変異を導入するために２２位にＴからＡへの置換が含まれている。同様に、２０７３ｂｐの下流相同性アーム（配列番号１３のヌクレオチド２０２９〜４１０１）を、プライマーＳＮＰ＿ａｃｅＥ＿Ｐ３（配列番号５６）及びＳＮＰ＿ａｃｅＥ＿Ｐ４（配列番号５７）を用いて増幅した。プライマーＳＮＰ＿ａｃｅＥ＿Ｐ３には、Ｔ変異を導入するために２３位にＡからＴへの置換が含まれている。ＳＮＰ＿ａｃｅＥ＿Ｐ４には、実施例４に記載のｐＺバックボーンと重複する５０塩基の５’伸長が含まれている。２つの相同性アームのアラインメントにより、プライマーＳＮＰ＿ａｃｅＥ＿Ｐ２及びＳＮＰ＿ａｃｅＥ＿Ｐ３によって明確にされた４４ｂｐの重複が生じている。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、ａｃｅＥオープンリーディングフレーム（配列番号１４）にＴＴＧ開始コドンを有する。
+ Example 4 F. Construction of transformation vector for introducing  aceE atg> ttg allele    [53] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The upstream homology arm of 2072bp (nucleotides 1-2072 of SEQ ID NO: 13) was amplified using primers SNP_aceE_P1 (SEQ ID NO: 54) and SNP_aceE_P2 (SEQ ID NO: 55). Primer SNP_aceE_P1 contains a 5'extension of 50 nucleotides that overlaps the pZ vector backbone described in Example 4A. Primer SNP_aceE_P2 contains a T to A substitution at position 22 to introduce the A mutation. Similarly, the downstream homology arm of 2073bp (nucleotides 2029-4101 of SEQ ID NO: 13) was amplified with primers SNP_aceE_P3 (SEQ ID NO: 56) and SNP_aceE_P4 (SEQ ID NO: 57). The primer SNP_aceE_P3 contains a substitution from A to T at position 23 to introduce the T mutation. SNP_aceE_P4 contains a 5'extension of 50 bases that overlaps the pZ backbone described in Example 4. The alignment of the two homology arms results in a 44 bp overlap identified by the primers SNP_aceE_P2 and SNP_aceE_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has a TTG start codon in the aceE open reading frame (SEQ ID NO: 14). 
+ 
+ 
+   
+実施例４Ｇ．コドン最適化ｌｙｓＡコード配列の挿入 
+  [54]  配列番号１６のコドン最適化ｌｙｓＡ断片を含むカセットを、配列番号１５のヌクレオチド２０４８と２０４９の間に挿入し、実施例４Ａに記載のｐＺベクターに合成的に組み立てた（ＤＮＡ２．０）。最終的なプラスミドには、Ｐｃｇ０００７＿３９−ｌｙｓＡ ＣＯ −ｓｏｄＴ（配列番号１７）に隣接する２つの約２ｋｂの相同性アーム（ヌクレオチド１〜２０４８、及び配列番号１５のヌクレオチド２０４９〜４０９９）が含まれる。ｌｙｓＡ ＣＯ 含有プラスミドを、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、プロモーターＰｃｇ０００７＿３９の制御下のコドン最適化ｌｙｓＡコード配列の追加コピーを有する。
+ Example 4 G. Insertion of codon-optimized lysA coding sequence  [54] A cassette containing the codon-optimized lysA fragment of SEQ ID NO: 16 was inserted between nucleotides 2048 and 2049 of SEQ ID NO: 15 and synthetically assembled into the pZ vector set forth in Example 4A (DNA 2.0). .. The final plasmid contains two approximately 2 kb homology arms (nucleotides 1-2048 and nucleotides 2049-4099 of SEQ ID NO: 15) flanking  Pcg0007_39-lysA CO-sodT (SEQ ID NO: 17).  The lysA  CO-  containing plasmid was used as described in Example 2 in C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has an additional copy of the codon-optimized lysA coding sequence under the control of promoter Pcg0007_39. 
+ 
+ 
+   
+実施例４Ｈ．ｚｗｆコード配列の上流へのプロモーターの挿入 
+  [55]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０５０ｂｐの上流相同性アーム（配列番号１９のヌクレオチド１〜２０５０）を、プライマーＰｃｇ０００７＿３９−ｚｗｆ＿Ｐ１（配列番号３４）及びＰｃｇ０００７＿３９−ｚｗｆ＿Ｐ２（配列番号３５）を用いて増幅した。同様に、２０５０ｂｐの下流相同性アーム（配列番号１９のヌクレオチド２０５２〜４１０１）を、プライマーＰｃｇ０００７＿３９−ｚｗｆ＿Ｐ３（配列番号３６）及びＰｃｇ０００７＿３９−ｚｗｆ＿Ｐ４（配列番号３７）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列は、プライマーＰｃｇ０００７＿３９−ｚｗｆ＿Ｐ２とＰｃｇ０００７＿３９−ｐｙｃ＿Ｐ３との５’伸長の重複によって得られた。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、配列番号１９のヌクレオチド２０５１がプロモーターＰｃｇ０００７＿３９（配列番号２０）によって置換されている。得られた菌株は、ｚｗｆＯＲＦ（配列番号２１）の上流にプロモーターＰｃｇ０００７＿３９を有する。
+ Example 4 H. Insertion of promoter upstream of zwf coding sequence  [55] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The 2050bp upstream homology arm (nucleotides 1-2050 of SEQ ID NO: 19) was amplified using primers Pcg0007_39-zwf_P1 (SEQ ID NO: 34) and Pcg0007_39-zwf_P2 (SEQ ID NO: 35). Similarly, the 2050 bp downstream homology arm (nucleotide 2052-4101 of SEQ ID NO: 19) was amplified with primers Pcg0007_39-zwf_P3 (SEQ ID NO: 36) and Pcg0007_39-zwf_P4 (SEQ ID NO: 37). The 93 bp Pcg0007_39 nucleotide sequence was obtained by duplication of 5'extensions of primers Pcg0007_39-zwf_P2 and Pcg0007_39-pyc_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. In the obtained strain, nucleotide 2051 of SEQ ID NO: 19 is replaced by the promoter Pcg0007_39 (SEQ ID NO: 20). The obtained strain has the promoter Pcg0007_39 upstream of zwfORF (SEQ ID NO: 21). 
+ 
+ 
+   
+実施例４Ｉ．Ｃ．フミレデュセンス（C. humireducens）ＮＢＲＣ１０６０９８のｏｐｃＡコード配列による天然のｏｐｃＡコード配列の置換 
+  [56]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４由来株ＢＳ２ＣＺゲノムＤＮＡ（実施例３）からＰＣＲによって増幅した。２０３９ｂｐの上流相同性アーム（配列番号２２のヌクレオチド１〜２０３９）を、プライマーｏｐｃＡ＿Ｐ１（配列番号５８）及びｏｐｃＡ＿Ｐ２（配列番号５９）を用いて増幅した。同様に、２０８３ｂｐの下流相同性アーム（配列番号２２のヌクレオチド３０００〜５０８２）を、プライマーｏｐｃＡ＿Ｐ３（配列番号６０）及びｏｐｃＡ＿Ｐ４（配列番号６１）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列（配列番号２０）及びＣ．フミレデュセンス（C. humireducens）ｏｐｃＡ（配列番号２３）からなる遺伝子カセットは、プライマーｏｐｃＡ＿Ｐ２とｏｐｃＡ＿Ｐ３の５’伸長の配列重複を有する。次いで、２つの相同性アーム及び遺伝子カセットを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、配列番号２２のヌクレオチド２０４０〜２９９９がＰｃｇ０００７＿３９−ｏｐｃＡ（配列番号２４）によって置換されている。
+ Example 4 I. C. Substitution of the native opcA coding sequence by the opcA coding sequence of C. humireducens NBRC106098  [56] Two homology arms were amplified by PCR from NRRL B-11474-derived strain BS2CZ genomic DNA (Example 3). Upstream homology arms of 2039bp (nucleotides 1-2039 of SEQ ID NO: 22) were amplified with primers opcA_P1 (SEQ ID NO: 58) and opcA_P2 (SEQ ID NO: 59). Similarly, the downstream homology arm of 2083bp (nucleotides 3000-5082 of SEQ ID NO: 22) was amplified with primers opcA_P3 (SEQ ID NO: 60) and opcA_P4 (SEQ ID NO: 61). 93bp Pcg0007_39 nucleotide sequence (SEQ ID NO: 20) and C.I. The gene cassette consisting of C. humireducens opcA (SEQ ID NO: 23) has a sequence duplication of 5'extensions of primers opcA_P2 and opcA_P3. The two homology arms and gene cassettes were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. In the obtained strain, nucleotides 2040 to 2999 of SEQ ID NO: 22 are replaced with Pcg0007_39-opcA (SEQ ID NO: 24). 
+ 
+ 
+   
+実施例４Ｊ．ｃｇ２７６６開始コドンの前にプロモーターＰｃｇ０００７＿３９を挿入するための形質転換ベクターの構築 
+  [57]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０５０ｂｐの下流相同性アーム（配列番号２６のヌクレオチド２０５１〜４１００）を、プライマーＰｃｇ０００７＿３９−ｃｇ２７６６＿Ｐ１（配列番号６２）及びＰｃｇ０００７＿３９−ｃｇ２７６６＿Ｐ２（配列番号６３）を用いて増幅した。同様に、２０５０ｂｐの上流相同性アーム（配列番号２６のヌクレオチド１〜２０５０）を、プライマーＰｃｇ０００７＿３９−ｃｇ２７６６＿Ｐ３（配列番号６４）及びＰｃｇ０００７＿３９−ｃｇ２７６６＿Ｐ４（配列番号６５）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列（配列番号２０）は、プライマーＰｃｇ０００７＿３９−ｃｇ２７６６＿Ｐ２とＰｃｇ０００７＿３９−ｃｇ２７６６＿Ｐ３との５’伸長の重複によって得られた。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、ｃｇ２７６６（配列番号２７）の前に挿入されたプロモーターＰｃｇ０００７＿３９を有する。
+ Example 4 J. Construction of a transformation vector for inserting the promoter Pcg0007_39 before the cg2766 start codon  [57] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The 2050 bp downstream homology arm (nucleotides 2051-4100 of SEQ ID NO: 26) was amplified with primers Pcg0007_39-cg2766_P1 (SEQ ID NO: 62) and Pcg0007_39-cg2766_P2 (SEQ ID NO: 63). Similarly, the 2050 bp upstream homology arm (nucleotides 1-2050 of SEQ ID NO: 26) was amplified with primers Pcg0007_39-cg2766_P3 (SEQ ID NO: 64) and Pcg0007_39-cg2766_P4 (SEQ ID NO: 65). The 93 bp Pcg0007_39 nucleotide sequence (SEQ ID NO: 20) was obtained by duplication of 5'extensions of primers Pcg0007_39-cg2766_P2 and Pcg0007_39-cg2766_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has the promoter Pcg0007_39 inserted prior to cg2766 (SEQ ID NO: 27). 
+ 
+ 
+   
+実施例４Ｋ．ａｃｔＡプロモーターをプロモーターＰｃｇ０００７＿３９で置換するための形質転換ベクターの構築 
+  [58]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡ（実施例３）からＰＣＲによって増幅した。
+ Example 4K. Construction of a transformation vector to replace the actA promoter with the promoter Pcg0007_39  [58] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA (Example 3). 
+ 
+ 
+   
+  [59]  ２０２１ｂｐの下流相同性アーム（配列番号２８のヌクレオチド２２６３〜４２８３）を、プライマーＰｃｇ０００７＿３９−ａｃｔＡ＿Ｐ１（配列番号６６）及びＰｃｇ０００７＿３９−ａｃｔＡ＿Ｐ２（配列番号６７）を用いて増幅した。同様に、２０５０ｂｐの上流相同性アーム（配列番号２８のヌクレオチド１〜２０５０）を、プライマーＰｃｇ０００７＿３９−ａｃｔＡ＿Ｐ３（配列番号６８）及びＰｃｇ０００７＿３９−ａｃｔＡ＿Ｐ４（配列番号６９）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列（配列番号２０）は、プライマーＰｃｇ０００７＿３９−ａｃｔＡ＿Ｐ２とＰｃｇ０００７＿３９−ａｃｔＡ＿Ｐ３との５’伸長の重複によって得られた。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、配列番号２８のヌクレオチド２０５１〜２２６２の代わりに、ａｃｔＡ（配列番号２９）の前に挿入されたプロモーターＰｃｇ０００７＿３９を有する。
+ 
+  [59] The downstream homology arm of 2021bp (nucleotides 2263-4283 of SEQ ID NO: 28) was amplified with primers Pcg0007_39-actA_P1 (SEQ ID NO: 66) and Pcg0007_39-actA_P2 (SEQ ID NO: 67). Similarly, the 2050 bp upstream homology arm (nucleotides 1-2050 of SEQ ID NO: 28) was amplified with primers Pcg0007_39-actA_P3 (SEQ ID NO: 68) and Pcg0007_39-actA_P4 (SEQ ID NO: 69). The 93 bp Pcg0007_39 nucleotide sequence (SEQ ID NO: 20) was obtained by duplication of 5'extensions of primers Pcg0007_39-actA_P2 and Pcg0007_39-actA_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has the promoter Pcg0007_39 inserted prior to actA (SEQ ID NO: 29) in place of nucleotides 2051-2262 of SEQ ID NO: 28.
+ 
+ 
+ 
+   
+実施例４Ｌ．ｃｇ１３８３開始コドンの前にプロモーターＰｃｇ０００７＿３９を挿入するための形質転換ベクターの構築 
+  [60]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０４３ｂｐの上流相同性アーム（配列番号９８のヌクレオチド１〜２０４３）を、プライマーＰｃｇ０００７＿３９−ｃｇ１３８３＿Ｐ１（配列番号９９）及びＰｃｇ０００７＿３９−ｃｇ１３８３＿Ｐ２（配列番号１００）を用いて増幅した。同様に、２０５０ｂｐの下流相同性アーム（配列番号９８のヌクレオチド２０４４〜４０９３）を、プライマーＰｃｇ０００７＿３９−ｃｇ１３８３＿Ｐ３（配列番号１０１）及びＰｃｇ０００７＿３９−ｃｇ１３８３＿Ｐ４（配列番号１０２）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列は、プライマーＰｃｇ０００７＿３９−ｃｇ１３８３＿Ｐ２とＰｃｇ０００７＿３９−ｃｇ１３８３＿Ｐ３との５’伸長の重複によって得られた。次いで、２つの相同性アームを実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、ｃｇ１３８３開始コドン（配列番号１０３）の前に挿入されたＰｃｇ０００７＿３９プロモーターを有する。
+ Example 4 L. Construction of a transformation vector for inserting the promoter Pcg0007_39 before the cg1383 start codon  [60] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The upstream homology arm of 2043bp (nucleotides 1-2043 of SEQ ID NO: 98) was amplified with primers Pcg0007_39-cg1383_P1 (SEQ ID NO: 99) and Pcg0007_39-cg1383_P2 (SEQ ID NO: 100). Similarly, a 2050 bp downstream homology arm (nucleotides 2044-4093 of SEQ ID NO: 98) was amplified using primers Pcg0007_39-cg1383_P3 (SEQ ID NO: 101) and Pcg0007_39-cg1383_P4 (SEQ ID NO: 102). The 93 bp Pcg0007_39 nucleotide sequence was obtained by duplication of 5'extensions of primers Pcg0007_39-cg1383_P2 and Pcg0007_39-cg1383_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has a Pcg0007_39 promoter inserted prior to the cg1383 start codon (SEQ ID NO: 103). 
+ 
+ 
+   
+実施例４Ｍ．天然のｐｈｏＵプロモーターをプロモーターＰｃｇ０００７＿３９で置換するための形質転換ベクターの構築 
+  [61]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。１９３５ｂｐの上流相同性アーム（配列番号１０４のヌクレオチド１〜１９３５）を、プライマーＰｃｇ０００７＿３９−ｐｈｏＵ＿Ｐ１（配列番号１０５）及びＰｃｇ０００７＿３９−ｐｈｏＵ＿Ｐ２（配列番号１０６）を用いて増幅した。同様に、２０５０ｂｐの下流相同性アーム（配列番号１０４のヌクレオチド１９９５〜４０４４）を、プライマーＰｃｇ０００７＿３９−ｐｈｏＵ＿Ｐ３（配列番号１０７）及びＰｃｇ０００７＿３９−ｐｈｏＵ＿Ｐ４（配列番号１０８）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列は、プライマーＰｃｇ０００７＿３９−ｐｈｏＵ＿Ｐ２とＰｃｇ０００７＿３９−ｐｈｏＵ＿Ｐ３との５’伸長の重複によって得られる。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換する。得られた菌株は、配列番号１０４のヌクレオチド１９３６〜１９９４を置換するＰｃｇ０００７＿３９プロモーターをｐｈｏＵ開始コドン（配列番号１０９）の前に有する。
+ Example 4 M.I. Construction of a transformation vector to replace the native phoU promoter with the promoter Pcg0007_39  [61] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The 1935 bp upstream homology arm (nucleotides 1-1935 of SEQ ID NO: 104) was amplified with primers Pcg0007_39-phoU_P1 (SEQ ID NO: 105) and Pcg0007_39-phoU_P2 (SEQ ID NO: 106). Similarly, a 2050 bp downstream homology arm (nucleotides of SEQ ID NO: 104, 195-4044) was amplified with primers Pcg0007_39-phoU_P3 (SEQ ID NO: 107) and Pcg0007_39-phoU_P4 (SEQ ID NO: 108). The 93 bp Pcg0007_39 nucleotide sequence is obtained by duplication of 5'extensions of primers Pcg0007_39-phoU_P2 and Pcg0007_39-phoU_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transform into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has a Pcg0007_39 promoter in front of the phoU start codon (SEQ ID NO: 109) that replaces nucleotides 1936-1994 of SEQ ID NO: 104. 
+ 
+ 
+   
+実施例４Ｎ．天然のｃｇ３２１０プロモーターをプロモーターＰｃｇ０００７＿３９で置換するための形質転換ベクターの構築 
+  [62]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。１９３５ｂｐの上流相同性アーム（配列番号１１０のヌクレオチド１〜２０３０）を、プライマーＰｃｇ０００７＿３９−ｃｇ３２１０＿Ｐ１（配列番号１１１）及びＰｃｇ０００７＿３９−ｃｇ３２１０＿Ｐ２（配列番号１１２）を用いて増幅した。同様に、２０４７ｂｐの下流相同性アーム（配列番号１１０のヌクレオチド２０９０〜４１３６）を、プライマーＰｃｇ０００７＿３９−ｃｇ３２１０＿Ｐ３（配列番号１１３）及びＰｃｇ０００７＿３９−３２１０＿Ｐ４（配列番号１１４）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列は、プライマーＰｃｇ０００７＿３９−ｃｇ３２１０＿Ｐ２とＰｃｇ０００７＿３９−ｃｇ３２１０＿Ｐ３との５’伸長の重複によって得られた。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換する。得られた菌株は、ｃｇ３２１０開始コドン（配列番号１１５）の前に挿入された、配列番号１１０のヌクレオチド２０３１〜２０８９を置換するＰｃｇ０００７＿３９を有する。
+ Example 4 N. Construction of a transformation vector to replace the native cg3210 promoter with the promoter Pcg0007_39  [62] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The 1935 bp upstream homology arm (nucleotides 1-2030 of SEQ ID NO: 110) was amplified with primers Pcg0007_39-cg3210_P1 (SEQ ID NO: 111) and Pcg0007_39-cg3210_P2 (SEQ ID NO: 112). Similarly, the downstream homology arm of 2047bp (nucleotides 2090-4136 of SEQ ID NO: 110) was amplified with primers Pcg0007_39-cg3210_P3 (SEQ ID NO: 113) and Pcg0007_39-3210_P4 (SEQ ID NO: 114). The 93 bp Pcg0007_39 nucleotide sequence was obtained by duplication of 5'extensions of primers Pcg0007_39-cg3210_P2 and Pcg0007_39-cg3210_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transform into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has Pcg0007_39 which is inserted prior to the cg3210 start codon (SEQ ID NO: 115) and replaces nucleotides 2031-2089 of SEQ ID NO: 110. 
+ 
+ 
+   
+実施例４Ｏ．天然のｃｇ０８００プロモーターをプロモーターＰｃｇ０００７＿３９で置換するための形質転換ベクターの構築 
+  [63]  ２つの相同性アームを、ＮＲＲＬ  Ｂ−１１４７４ゲノムＤＮＡからＰＣＲによって増幅した。２０４３ｂｐの上流相同性アーム（配列番号１１６のヌクレオチド１〜２０４３）を、プライマーＰｃｇ０００７＿３９−ｃｇ０８００＿Ｐ３（配列番号１１７）及びＰｃｇ０００７＿３９−ｃｇ０８００＿Ｐ４（配列番号１１８）を用いて増幅した。同様に、２０５０ｂｐの下流相同性アーム（配列番号１１６のヌクレオチド２１８４〜４２３３）を、プライマーＰｃｇ０００７＿３９−ｃｇ０８００＿Ｐ１（配列番号１１９）及びＰｃｇ０００７＿３９−０８００＿Ｐ２（配列番号１２０）を用いて増幅した。９３ｂｐのＰｃｇ０００７＿３９ヌクレオチド配列は、プライマーＰｃｇ０００７＿３９−ｃｇ０８００＿Ｐ２とＰｃｇ０００７＿３９−ｃｇ０８００＿Ｐ３との５’伸長の重複によって得られた。次いで、２つの相同性アームを、実施例４Ａに記載されているようにｐＺに組み立て、実施例２に記載されているようにＣ．グルタミカム（C. glutamicum）ＮＲＲＬ  Ｂ−１１４７４及びその派生株に形質転換した。得られた菌株は、ｃｇ０８００開始コドン（配列番号１２１）の前に挿入された、配列番号１１６のヌクレオチド２０４４〜２１８３を置換するＰｃｇ０００７＿３９プロモーターを有する。
+ Example 4 O. Construction of a transformation vector to replace the native cg0800 promoter with the promoter Pcg0007_39  [63] Two homology arms were amplified by PCR from NRRL B-11474 genomic DNA. The upstream homology arm of 2043bp (nucleotides 1-243 of SEQ ID NO: 116) was amplified using primers Pcg0007_39-cg0800_P3 (SEQ ID NO: 117) and Pcg0007_39-cg0800_P4 (SEQ ID NO: 118). Similarly, the 2050 bp downstream homology arm (nucleotides 2184-4233 of SEQ ID NO: 116) was amplified using primers Pcg0007_39-cg0800_P1 (SEQ ID NO: 119) and Pcg0007_39-080_P2 (SEQ ID NO: 120). The 93 bp Pcg0007_39 nucleotide sequence was obtained by duplication of 5'extensions of primers Pcg0007_39-cg0800_P2 and Pcg0007_39-cg0800_P3. The two homology arms were then assembled into pZ as described in Example 4A and C.I. Transformed into C. glutamicum NRRL B-11474 and its derivatives. The resulting strain has a Pcg0007_39 promoter inserted prior to the cg0800 start codon (SEQ ID NO: 121) to replace nucleotides 2044-2183 of SEQ ID NO: 116. 
+ 
+ 
+   
+実施例５．マイクロタイタープレートでのリジン産生のための改変されたＣ．グルタミカム（C. glutamicum）株の評価 
+実施例５Ａ．改変されたＣ．グルタミカム（C. glutamicum）株によるリジン産生 
+  [64]  前の実施例に記載の改変された菌株のそれぞれ、及び異なる改変を組み合わせて得られた菌株を、マイクロタイタープレートでの３段階発酵によってリジン産生について評価した。細胞を培地Ｃで増殖させた（表５）。４８時間後、１０％接種物を培地Ｄに移した（表５）。細胞培養物の１０パーセントを１９時間後に培地Ｅに移し（表５）、さらに２４時間又は９６時間増殖させた。培養条件は、３２℃、１０００ｒｐｍ（Infors HT）であった。
+ Example 5. Modified C. for lysine production on microtiter plates. Evaluation of C. glutamicum strain Example 5 A. Modified C.I. Lysine production by C. glutamicum strain  [64] Each of the modified strains described in the previous example, and the strains obtained by combining different modifications, were evaluated for lysine production by three-step fermentation on a microtiter plate. Cells were grown in medium C (Table 5). After 48 hours, the 10% inoculum was transferred to Medium D (Table 5). 10 percent of the cell culture was transferred to Medium E after 19 hours (Table 5) and grown for an additional 24 or 96 hours. The culture conditions were 32 ° C. and 1000 rpm (Infors HT). 
+ 
+ 
+   
+  [65]  産生されたリジンの量を、結合リジンオキシダーゼアッセイを用いて決定した。培養上清をリジンオキシダーゼ反応溶液（２５０ｍＭ  リン酸カリウム緩衝液、ｐＨ７．５、８２４ｍｇ／ｍｌ  フェノール、７６ｍｇ／ｍｌ  ４−アミノアンチピレン（Sigma）、０．０３ｍｇ／ｍｌ  ペルオキシダーゼ（Sigma）、０．０１５単位／ｍｌ  リジンオキシダーゼ（Sigma））に加えた。サンプルを２５℃で４０分間インキュベートし、４９０ｎｍで吸光度を読み取った。マイクロタイタープレート内のデキストロースの量を、結合グルコースオキシダーゼアッセイによって決定した。培養上清をグルコースオキシダーゼ反応溶液（２７５ｍＭ  マレイン酸ナトリウム緩衝液  ｐＨ５．５、７３０ｍｇ／ｍｌ  フェノール、６８０ｍｇ／ｍｌ  ４−アミノアンチピレン（Sigma）、０．０２７ｍｇ／ｍｌ  ペルオキシダーゼ（Sigma）、５６ｍｇ／Ｌ  グルコースオキシダーゼ（Sigma））に加えた。サンプルを２５℃で４０分間インキュベートし、４９０ｎｍで吸光度を読み取った。
+ 
+  [65] The amount of lysine produced was determined using a bound lysine oxidase assay. Culture supernatant of lysine oxidase reaction solution (250 mM potassium phosphate buffer, pH 7.5, 824 mg / ml phenol, 76 mg / ml 4-aminoantipyrene (Sigma), 0.03 mg / ml peroxidase (Sigma), 0.015 Unit / ml added to lysine oxidase (Sigma). The sample was incubated at 25 ° C. for 40 minutes and the absorbance was read at 490 nm. The amount of dextrose in the microtiter plate was determined by a bound glucose oxidase assay. Glucose oxidase reaction solution (275 mM sodium maleate buffer pH 5.5, 730 mg / ml phenol, 680 mg / ml 4-aminoantipyrene (Sigma), 0.027 mg / ml peroxidase (Sigma), 56 mg / L glucose Addition to oxidase (Sigma). The sample was incubated at 25 ° C. for 40 minutes and the absorbance was read at 490 nm.
+ 
+ 
+ 
+   
+  [66]  各組換え株及びその直接の親株によって産生されるリジンの量（ｍＭ）を表６に示す。表７Ａは、ゲノム改変の一覧であり、表７Ｂは、ＮＲＲＬ  Ｂ−１１４７４として寄託された細菌の天然のゲノムに対する、試験した菌株に存在する改変を明らかにする。
+ 
+  [66] The amount (mM) of lysine produced by each recombinant strain and its immediate parent strain is shown in Table 6. Table 7A is a list of genomic modifications, which reveals the modifications present in the strains tested against the native genome of the bacterium deposited as NRRL B-11474.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+参考文献 
+Becker et al., “Systems level engineering of Corynebacterium glutamicum - Reprogramming translational efficiency for superior production,” Engineering in Life Sciences 10, 430-38, 2010 
+Buchholz et al., “Platform Engineering of Corynebacterium glutamicum with Reduced Pyruvate Dehydrogenase Complex Activity for Improved Production of l-Lysine, l-Valine, and 2-Ketoisovalerate,” Applied Env. Microbiol. 79, 5566-75, 2013 
+Knoppova et al., Curr. Microbiol. 55, 234-39, 2007 
+Lee, J Microbiol Biotechnol. 2014 Jan;24(1):70-9 
+Nesvera et al., Subcell. Biochem. 2012;64:203-21 
+Patek & Nesvera, “Promoters and Plasmid Vectors of Corynebacterium glutamicum,” in Corynebacterium glutamicum, Yukawa & Inui, eds., Springer-Verlag, Berlin 2013, pp. 51-88 
+Patek et al., J. Biotechnol. 104, 311-23, 2003(a) 
+Patek et al., J. Biotechnol. 104, 325-34, 2003(b) 
+Patek et al., Microb. Biotechnol. 2013 Mar;6(2):103-17 
+Pfeifer-Sancar et al., BMC Genomics 14, 888, 2013 
+Rytter et al., Appl. Microbiol Biotechnol. 2014 Mar;98(6):2617-23 
+Shang et al., Biotechnol. Lett. 2017 Nov 21. doi: 10.1007/s10529-017-2479-y 
+Yim et al., Biotechnol. Bioeng. 2013 Nov;110(11):2959-69
+ References  Becker et al., “Systems level engineering of Corynebacterium glutamicum --Reprogramming translational efficiency for superior production,” Engineering in Life Sciences 10, 430-38, 2010  Buchholz et al., “Platform Engineering of Corynebacterium glutamicum with Reduced Pyruvate Dehydrogenase Complex Activity for Improved Production of l-Lysine, l-Valine, and 2-Ketoisovalerate,” Applied Env. Microbiol. 79, 5566-75, 2013  Knoppova et al., Curr. Microbiol. 55, 234-39, 2007  Lee, J Microbiol Biotechnol. 2014 Jan; 24 (1): 70-9  Nesvera et al., Subcell. Biochem. 2012; 64: 203-21  Patek & Nesvera, “Promoters and plasmid Vectors of Corynebacterium glutamicum,” in Corynebacterium glutamicum, Yukawa & Inui, eds., Springer-Verlag, Berlin 2013, pp. 51-88  Patek et al., J. Biotechnol. 104, 311-23, 2003 (a)  Patek et al., J. Biotechnol. 104, 325-34, 2003 (b)  Patek et al., Microb. Biotechnol. 2013 Mar; 6 (2): 103-17  Pfeifer-Sancar et al., BMC Genomics 14, 888, 2013  Rytter et al., Appl. Microbiol Biotechnol. 2014 Mar; 98 (6): 2617-23  Shang et al., Biotechnol. Lett. 2017 Nov 21. doi: 10.1007 / s10529-017-2479-y  Yim et al., Biotechnol. Bioeng. 2013 Nov; 110 (11): 2959-69 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

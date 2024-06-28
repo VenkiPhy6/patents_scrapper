@@ -1,0 +1,1100 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   DESCRIPCIÓN DESCRIPTION 
+ 
+ 
+   
+ 
+   Método para producir L-lisina usando microorganismos que tienen capacidad de producir L-lisina  Method to produce L-lysine using microorganisms that have the capacity to produce L-lysine 
+ 
+ 
+ 
+   Antecedentes Background 
+ 
+ 
+   
+ 
+ 
+   1. Campo 1. Field 
+ 
+ 
+   
+ 
+   La presente divulgación se refiere a un polinucleótido modificado, en que un codón de inicio está sustituido con ATG, un vector que comprende el mismo, un microorganismo que comprende el polinucleótido y un método para producir L-lisina usando el mismo. The present disclosure relates to a modified polynucleotide, wherein an initiation codon is substituted with ATG, a vector comprising the same, a microorganism comprising the polynucleotide and a method for producing L-lysine using the same. 
+ 
+   
+ 
+ 
+   2. Descripción de la técnica relacionada 2. Description of the related art 
+ 
+ 
+   
+ 
+   Las cepas del género  Corynebacterium,  específicamente  Corynebacterium glutamicum,  son microorganismos grampositivos que se usan ampliamente para producir L-lisina. La L-lisina se usa para piensos para animales, medicinas y cosméticos para seres humanos, y se produce mediante fermentación de la cepa de  Corynebacterium.    Strains of the genus  Corynebacterium,  specifically  Corynebacterium glutamicum,  are gram-positive organisms that are widely used to produce L-lysine. L-lysine is used for animal feed, medicine and cosmetics for humans, and is produced by fermentation of the  Corynebacterium  strain  .   
+ 
+ 
+   Convencionalmente, se conoce una cepa del género  Corynebacterium  que tiene genes de biosíntesis de lisina potenciados y un método de producción de L-lisina usando la misma. Por ejemplo, la patente de Estados Unidos n.° 6.746.855 divulga un método para producir L-lisina cultivando  Corynebacterium  que tiene una expresión potenciada del gen  lysE  (gen del transportador de exportación de lisina) y adicionalmente genes introducidos seleccionados del grupo que consiste en un gen dapA, un gen  lysC,  un gen  pyc  y un gen  dapB.   Conventionally, a strain of the genus  Corynebacterium  having enhanced lysine biosynthesis genes and a method of producing L-lysine using the same is known. For example, U.S. Patent No. 6,746,855 discloses a method for producing L-lysine by growing  Corynebacterium  having enhanced expression of the  lysE  gene (lysine export transporter gene) and additionally introduced genes selected from the group consisting of in a dapA gene, a  lysC  gene  ,  a  pyc  gene and a  dapB  gene  .   
+ 
+   
+ 
+   Otro método es amplificar genes en la ruta de biosíntesis de lisina o modificar un promotor. Por ejemplo, las solicitudes de patente coreana abiertas a inspección pública n.° 2009-0082702 y 2009-0084099 divulgan un método para producir L-lisina introduciendo promotores mejorados del operón ddh y lysC-asd en  Corynebacterium.  La solicitud de patente coreana abierta a inspección pública n.° 2008-0025355 divulga un método para mejorar la productividad de lisina amplificando el número de copias de los genes en la ruta de biosíntesis de lisina, que son  aspB, lysC, asd, dapA, dapB, lysA  y  pyc,  en el cromosoma. Another method is to amplify genes in the lysine biosynthetic pathway or modify a promoter. For example, Korean patent applications open to public inspection No. 2009-0082702 and 2009-0084099 disclose a method for producing L-lysine by introducing improved promoters of the ddh operon and lysC-asd in  Corynebacterium.  Korean patent application open to public inspection No. 2008-0025355 discloses a method for improving lysine productivity by amplifying the copy number of genes in the lysine biosynthetic pathway, which are  aspB, lysC, asd, dapA, dapB, lysA  and  pyc,  on the chromosome. 
+ 
+   
+ 
+   Paralelamente, el codón de inicio que reconoce los ribosomas para iniciar la traducción en el cromosoma es habitualmente ATG. La traducción puede controlarse de acuerdo con el codón de inicio del gen, y la secuencia del codón de inicio es importante en la regulación de la actividad de la proteína. Sin embargo, aunque ATG es el codón de inicio común entre los genes de biosíntesis de lisina derivados de  Corynebacterium glutamicum,  el codón de inicio de los genes  lysC  y  pyc  es GTG, y TTG es para el gen  tkt  en la ruta de fosfato pentosa que contiene el codón de inicio de TTG (referencia: J. Biotechnol., 104: 5-). In parallel, the start codon that recognizes ribosomes to initiate translation into the chromosome is usually ATG. The translation can be controlled according to the start codon of the gene, and the sequence of the start codon is important in regulating the activity of the protein. However, although ATG is the common start codon among the lysine biosynthesis genes derived from  Corynebacterium glutamicum,  the start codon of the  lysC  and  pyc  genes is GTG, and TTG is for the  tkt  gene on the pentose phosphate pathway that contains the start codon of TTG (reference: J. Biotechnol., 104: 5-). 
+ 
+   
+ 
+   BECKER JUDITH et al., ENGINEERING IN LIFE SCIENCES, vol. 10, n.25, octubre de 2010, páginas 430-438, divulgan el remplazo de codones de inicio naturales de diferentes enzimas en el metabolismo del carbono de  Corynebacterium glutamicum  para influir en su actividad hacia la producción mejorada del aminoácido lisina aportado. El remplazo del codón ATG natural por GTG reducía la actividad enzimática específica de la piruvato deshidrogenasa (PDH) y la fosfoglucoisomerasa en 60 y un 40 %, respectivamente. Viceversa, la actividad de la glucosa 6-fosfato deshidrogenasa se aumentaba en un 40 % por la sustitución GTG en ATG. BECKER JUDITH et al., ENGINEERING IN LIFE SCIENCES, vol. 10, n.25, October 2010, pages 430-438, disclose the replacement of natural start codons of different enzymes in the carbon metabolism of  Corynebacterium glutamicum  to influence their activity towards the improved production of the contributed amino acid lysine. Replacement of the natural ATG codon by GTG reduced the specific enzymatic activity of pyruvate dehydrogenase (PDH) and phosphoglucoisomerase by 60 and 40%, respectively. Vice versa, the activity of glucose 6-phosphate dehydrogenase was increased by 40% by substitution GTG in ATG. 
+ 
+   
+ 
+   El documento WO2011/158975 divulga un método que utiliza un microorganismo recombinante para la producción de aminoácidos derivados de aspartato y precursores de los mismos, en particular para la producción de L-lisina. WO2011 / 158975 discloses a method using a recombinant microorganism for the production of amino acids derived from aspartate and precursors thereof, in particular for the production of L-lysine. 
+ 
+   
+ 
+   El n.° de acceso a EBI EM STD:AM747626, el n.° de acceso a la base de datos AM747626, divulga el gen  lysC Corynebacterium glutamicum  para la aspartocinasa, cepa HN2650 11. The access number to EBI EM STD: AM747626, the access number to the database AM747626, discloses the  lysC  gene  Corynebacterium glutamicum  for aspartocinasa, strain HN2650 11. 
+ 
+   
+ 
+   El documento WO2006/069610 divulga un gen relacionado con la producción de valina, SEQ: 53931, para su uso en un proceso para la producción de un agente químico fino en un microorganismo. WO2006 / 069610 discloses a gene related to the production of valine, SEQ: 53931, for use in a process for the production of a fine chemical agent in a microorganism. 
+ 
+   
+ 
+   El n.° de acceso a EBI GSN:AZN08069, n.° de acceso a la base de datos AZN08069 divulga "la secuencia del gen  trcpyc C. glutamicum,  SEQ ID 27". The access number to EBI GSN: AZN08069, access no. To the AZN08069 database discloses "the sequence of the  trcpyc  gene  C. glutamicum,  SEQ ID 27". 
+ 
+   
+ 
+   El documento US2009/0325244 divulga un método de aumento de la cantidad de al menos un polipéptido en una célula hospedadora expresando una secuencia de nucleótidos modificada que codifica un polipéptido en una célula hospedadora con dicha secuencia de nucleótidos modificada que se obtiene de una secuencia de nucleótidos no modificada diferente que codifica un polipéptido de secuencia de aminoácidos idéntica de modo que el uso de codones de la secuencia de nucleótidos modificada se ajuste al uso de codones de las proteínas abundantes en la célula hospedadora. US2009 / 0325244 discloses a method of increasing the amount of at least one polypeptide in a host cell by expressing a modified nucleotide sequence encoding a polypeptide in a host cell with said modified nucleotide sequence that is derived from a nucleotide sequence. different unmodified coding for an identical amino acid sequence polypeptide so that the codon usage of the modified nucleotide sequence conforms to the codon usage of the abundant proteins in the host cell. 
+ 
+   
+ 
+   El documento WO2009/133114 divulga un método que utiliza un microorganismo con actividad isocitrato deshidrogenasa reducida para la producción de agentes químicos finos. 
+ WO2009 / 133114 discloses a method using a microorganism with reduced isocitrate dehydrogenase activity for the production of fine chemical agents.  
+ 
+ 
+   BECKER JUDITH et al., METABOLIC ENGINEERING, vol. 13, n.° 2, marzo de 2011, páginas 159-168, divulgan una cepa genéticamente definida de  Corynebacterium glutamicum  hiperproductora de L-lisina mediante ingeniería metabólica de sistemas del tipo silvestre. BECKER JUDITH et al., METABOLIC ENGINEERING, vol. 13, No. 2, March 2011, pages 159-168, discloses a genetically defined strain of  Corynebacterium glutamicum  hyperproducing L-lysine by metabolic engineering of wild-type systems. 
+ 
+   
+ 
+   JAKOBSEN OYVIND M et al., APPLIED AND ENVIRONMENTAL MICROBIOLOGY, vol. 75, n.23, 1 de febrero de 2009, páginas 652-661, divulgan la clonación de cuatro genes (asd, que codifica la aspartato semialdehído deshidrogenasa; dapA, que codifica la dihidrodipicolinato sintasa; dapG, que codifica AKI; e yclM, que codifica AKIII) de la ruta de aspartato en  Bacillus methanolicus  MGA3. Junto con el gen conocido de AKII lysC, dapG e yclM forman un conjunto de tres genes AK en este organismo. La sobreexpresión de dapG, lysC e yclM aumentaba la producción de L-lisina en la cepa de  B. methanolicus  de tipo silvestre MGA3 2, 10 y 60 veces (correspondiente a 11 g/litro), respectivamente, sin afectar de forma negativa a la tasa de crecimiento específica. JAKOBSEN OYVIND M et al., APPLIED AND ENVIRONMENTAL MICROBIOLOGY, vol. 75, n.23, February 1, 2009, pages 652-661, disclose the cloning of four genes (asd, which codes for aspartate semialdehyde dehydrogenase, dapA, which codes for dihydrodipicolinate synthase, dapG, which codes for AKI, and yclM, encoding AKIII) of the aspartate route in  Bacillus methanolicus  MGA3. Together with the known AKII lysC gene, dapG and yclM form a set of three AK genes in this organism. The overexpression of dapG, lysC and yclM increased L-lysine production in wild-type  B. methanolicus  strain MGA3 2, 10 and 60 times (corresponding to 11 g / liter), respectively, without negatively affecting the specific growth rate. 
+ 
+   
+ 
+   El n.° de acceso a EBI GSN:AWW23169, n.° de acceso a la base de datos AWW23169, divulga "la secuencia de ADN de  Corynebacterium glutamicum  ATCC 13032, SEQ ID: 9684". The accession number to EBI GSN: AWW23169, accession number to the AWW23169 database, discloses "the DNA sequence of  Corynebacterium glutamicum  ATCC 13032, SEQ ID: 9684". 
+ 
+   
+ 
+   El n.° de acceso a EBI GSN: AEE27731, n.° de acceso a la base de datos AEE27731, divulga "ADN genómico de  C. glutamicum,  SEQ ID NO 46". The access no. To EBI GSN: AEE27731, access no. To the AEE27731 database, discloses "genomic DNA of  C. glutamicum,  SEQ ID NO 46". 
+ 
+   
+ 
+   El número de acceso a GenBank X57226.1 GI:40509, divulga los genes lysC-alfa, lysC-beta y asd de  C. glutamicum.    The access number to GenBank X57226.1 GI: 40509, discloses the genes lysC-alpha, lysC-beta and asd of  C. glutamicum.   
+ 
+ 
+   Los autores de la presente invención han realizado muchos esfuerzos por hallar un método para mejorar la productividad de lisina, y como resultado, descubrieron que el codón de inicio de los genes  lysC,  tkt y  pyc  de tipo silvestre pueden sustituirse con ATG para potenciar las actividades de aspartato cinasa, transcetolasa y piruvato carboxilasa sobre sus actividades endógenas, completando de ese modo la presente divulgación. The inventors of the present invention have made many efforts to find a method to improve the lysine productivity, and as a result, they discovered that the start codon of the wild type  lysC,  tkt and  pyc  genes can be substituted with ATG to enhance the activities of aspartate kinase, transketolase and pyruvate carboxylase on their endogenous activities, thereby completing the present disclosure. 
+ 
+   
+ 
+ 
+   Sumario Summary 
+ 
+ 
+   
+ 
+   Un objetivo de la presente divulgación es proporcionar un polinucleótido modificado que codifica la aspartato cinasa (EC:2.7.2.4; a partir de ahora en este documento, mencionada como LysC), transcetolasa (EC:2.2.1.1; a partir de ahora en este documento, mencionada como Tkt) o piruvato carboxilasa (EC:6.4.1.1; a partir de ahora en este documento, mencionada como Pyc), en el que el codón de inicio del polinucleótido está sustituido con ATG. An object of the present disclosure is to provide a modified polynucleotide encoding aspartate kinase (EC: 2.7.2.4, hereafter referred to as LysC), transketolase (EC: 2.2.1.1; hereinafter in this document, referred to as Tkt) or pyruvate carboxylase (EC: 6.4.1.1, hereinafter, referred to as Pyc), in which the start codon of the polynucleotide is substituted with ATG. 
+ 
+   
+ 
+   Otro objetivo de la presente divulgación es proporcionar un vector que comprende uno o más polinucleótidos modificados que codifican aspartato cinasa, transcetolasa o piruvato carboxilasa, en que el codón de inicio del polinucleótido está sustituido con ATG. Another objective of the present disclosure is to provide a vector comprising one or more modified polynucleotides encoding aspartate kinase, transketolase or pyruvate carboxylase, in which the start codon of the polynucleotide is substituted with ATG. 
+ 
+   
+ 
+   Otro objetivo más de la presente divulgación es proporcionar un microorganismo, en que una o más de las enzimas tienen actividad potenciada en comparación con su actividad endógena. Yet another objective of the present disclosure is to provide a microorganism, in which one or more of the enzymes have enhanced activity compared to their endogenous activity. 
+ 
+   
+ 
+   Otro objetivo más de la presente divulgación es proporcionar un método para producir L-lisina, que comprende las etapas de cultivar el microorganismo y recuperar L-lisina del microorganismo cultivado o del caldo de cultivo. Yet another object of the present disclosure is to provide a method for producing L-lysine, comprising the steps of culturing the microorganism and recovering L-lysine from the cultured microorganism or the culture broth. 
+ 
+   
+ 
+ 
+   Descripción detallada de las realizaciones preferidas Detailed description of the preferred embodiments 
+ 
+ 
+   
+ 
+   En un aspecto, la presente divulgación proporciona un polinucleótido modificado que codifica aspartato cinasa (EC:2.7.2.4; a partir de ahora en este documento, mencionada como LysC), transcetolasa (EC:2.2.1.1; a partir de ahora en este documento, mencionada como Tkt) o piruvato carboxilasa (EC:6.4.1.1; a partir de ahora en este documento, mencionada como Pyc), en que el codón de inicio del polinucleótido está sustituido con ATG. In one aspect, the present disclosure provides a modified polynucleotide encoding aspartate kinase (EC: 2.7.2.4, hereafter referred to as LysC), transketolase (EC: 2.2.1.1; hereinafter , referred to as Tkt) or pyruvate carboxylase (EC: 6.4.1.1, hereinafter referred to as Pyc), in which the start codon of the polynucleotide is substituted with ATG. 
+ 
+   
+ 
+   Cada polinucleótido que codifica aspartato cinasa, transcetolasa o piruvato carboxilasa puede incluir también una sustitución, eliminación, inserción o adición parcial en el polinucleótido, siempre que cada una de ellas tenga la actividad enzimática, y puede tener un 70 % o más de homología, específicamente un 80 % o más de homología, más específicamente un 90 % o más de homología, y mucho más específicamente un 95 % o más de homología, y mucho más específicamente un 100 % o más de homología basándose en el polinucleótido conocido. Each polynucleotide encoding aspartate kinase, transketolase or pyruvate carboxylase can also include a substitution, deletion, insertion or partial addition in the polynucleotide, provided that each of them has the enzymatic activity, and can have 70% or more of homology, specifically 80% or more of homology, more specifically 90% or more of homology, and much more specifically 95% or more of homology, and much more specifically 100% or more of homology based on the known polynucleotide. 
+ 
+   
+ 
+   Como se usa en este documento, el término "homología (homólogo)" significa el grado de similitud entre secuencias de nucleótidos del gen  lysC,  del gen  tkt  o del gen  pyc  de las secuencias de tipo silvestre y de nucleótidos de los genes modificados correspondientes de las mismas, es decir, el gen  lysC,  el gen  tkt  o el gen  pyc  modificado, en que una parte de los polinucleótidos está sustituida, eliminada, insertada o añadida. As used herein, the term "homology" means the degree of similarity between nucleotide sequences of the  lysC  gene  ,  the  tkt  gene or the  pyc  gene of the wild-type and nucleotide sequences of the corresponding modified genes of the same, i.e., the  lysC  gene  ,  the  tkt  gene or the modified  pyc  gene, in which a part of the polynucleotides is substituted, deleted, inserted or added. 
+ 
+   
+ 
+   Como se usa en este documento, la expresión "codón de inicio" significa 3 nucleótidos correspondientes a un punto de inicio de la traducción cuando una secuencia codificante de ARNm (ARN mensajero) se traduce en una proteína. En general, los codones de inicio encontrados en el cromosoma de microorganismos son ATG (AUG en ARNm), GTG (GUG en ARNm) y TTG (UUG en ARNm) y existen en una relación de un 62,5 %~66,5 %, 23,1 %~24,3 % y 10,3 %~ 13,2 % de acuerdo con el resultado del análisis de la secuencia del genoma completo de  Corynebacterium glutamicum  (referencia: Handbook of Corynebacterium glutamicum, 40p, Lothar Eggeling & Michael Bott, 2005). 
+ As used herein, the term "start codon" means 3 nucleotides corresponding to a translation start point when a mRNA (messenger RNA) coding sequence is translated into a protein. In general, the start codons found in the chromosome of microorganisms are ATG (AUG in mRNA), GTG (GUG in mRNA) and TTG (UUG in mRNA) and exist in a ratio of 62.5% ~ 66.5% , 23.1% ~ 24.3% and 10.3% ~ 13.2% according to the result of the analysis of the complete genome sequence of  Corynebacterium glutamicum  (reference: Handbook of Corynebacterium glutamicum, 40p, Lothar Eggeling & Michael Bott, 2005).  
+ 
+ 
+   Entre los genes de biosíntesis de lisina derivados de  Corynebacterium  presentados hasta ahora,  lysC  y  pyc  tienen el codón de inicio de GTG, y  tkt  tiene el codón de inicio de TTG. El codón de inicio de estos genes no es ATG, que se considera una característica única de  Corynebacterium.   Among the lysine biosynthesis genes derived from  Corynebacterium  presented so far,  lysC  and  pyc  have the start codon of GTG, and  tkt  has the start codon of TTG. The start codon of these genes is not ATG, which is considered a unique feature of  Corynebacterium.   
+ 
+   
+ 
+   El polinucleótido modificado de acuerdo con la presente divulgación se caracteriza porque el codón de inicio del gen  lysC, tkt  o  pyc  está sustituido con ATG, y estos polinucleótidos modificados que tienen dicho codón de inicio sustituido se han modificado por primera vez por los autores de la presente invención. Con más detalle, el codón de inicio GTG del polinucleótido que codifica aspartato cinasa (LysC) o piruvato carboxilasa (Pyc) está sustituido con ATG, y el codón de inicio TTG del polinucleótido que codifica transcetolasa (Tkt) está sustituido con ATG en la presente divulgación. Más específicamente, las secuencias de los genes  lysC, tkt,  y  pyc  son las SEQ ID NO. 13, 14 y 15, respectivamente, las secuencias de los genes que tienen el codón de inicio sustituido como ATG están representadas por las SEQ ID NO. 16, 17 y 18, respectivamente. The modified polynucleotide according to the present disclosure is characterized in that the start codon of the  lysC, tkt  or  pyc gene  is substituted with ATG, and these modified polynucleotides having said substituted start codon have been modified for the first time by the authors of the  invention.  present invention In more detail, the GTG start codon of the polynucleotide encoding aspartate kinase (LysC) or pyruvate carboxylase (Pyc) is substituted with ATG, and the TTG start codon of the transketolase-encoding polynucleotide (Tkt) is substituted with ATG in the present divulgation. More specifically, the sequences of the  lysC, tkt,  and  pyc genes  are SEQ ID NO. 13, 14 and 15, respectively, the sequences of the genes having the start codon substituted as ATG are represented by SEQ ID NO. 16, 17 and 18, respectively. 
+ 
+   
+ 
+   Las sustituciones de base de los codones de inicio pueden realizarse por cualquier método conocido en la técnica, por ejemplo, mutagénesis específica de sitio, recombinación homóloga, pero no se limitada a ellas. The base substitutions of the start codons can be performed by any method known in the art, for example, site-specific mutagenesis, homologous recombination, but not limited thereto. 
+ 
+   
+ 
+   En otro aspecto, la presente divulgación proporciona un vector que comprende uno o más polinucleótidos modificados de los polinucleótidos modificados que codifican aspartato cinasa, transcetolasa o piruvato carboxilasa, en que el codón de inicio del polinucleótido está sustituido con ATG. In another aspect, the present disclosure provides a vector comprising one or more modified polynucleotides of the modified polynucleotides encoding aspartate kinase, transketolase or pyruvate carboxylase, wherein the start codon of the polynucleotide is substituted with ATG. 
+ 
+   
+ 
+   Los polinucleótidos modificados que tienen el codón de inicio sustituido como ATG y que codifican aspartato cinasa, transcetolasa o piruvato carboxilasa, que está comprendido en el vector de la presente divulgación, puede incluir aquellos en que una parte de los polinucleótidos está sustituida, eliminada, insertada o añadida, siempre que tenga actividad enzimática, y puede tener un 70 % o más de homología, específicamente un 80 % o más de homología, más específicamente un 90 % o más de homología, mucho más específicamente un 95 % o más de homología, y mucho más específicamente un 100 % de homología. Modified polynucleotides having the start codon substituted as ATG and encoding aspartate kinase, transketolase or pyruvate carboxylase, which is comprised in the vector of the present disclosure, may include those in which a part of the polynucleotides is substituted, deleted, inserted or added, as long as it has enzymatic activity, and can have 70% or more of homology, specifically 80% or more of homology, more specifically 90% or more of homology, much more specifically 95% or more of homology, and much more specifically a 100% homology. 
+ 
+   
+ 
+   Además, los polinucleótidos modificados que tienen el codón de inicio sustituido como ATG y que codifican aspartato cinasa, transcetolasa o piruvato carboxilasa, que está comprendido en el vector de la presente divulgación, también puede incluir únicamente una parte del gen que codifica aspartato cinasa, transcetolasa o piruvato carboxilasa, siempre que tenga el codón de inicio sustituido como ATG. In addition, modified polynucleotides having the start codon substituted as ATG and encoding aspartate kinase, transketolase or pyruvate carboxylase, which is comprised in the vector of the present disclosure, may also include only a part of the gene encoding aspartate kinase, transketolase or pyruvate carboxylase, provided that it has the start codon substituted as ATG. 
+ 
+   
+ 
+   Como se usa en este documento, el término "vector" se refiere a una construcción de ADN que contiene una secuencia de bases que está unida de forma funcional a una secuencia de control adecuada, para expresar un gen diana en una hospedador adecuado. Las secuencias de control pueden incluir un promotor para iniciar la transcripción, una determinada secuencia operadora para controlar dicha transcripción, una secuencia que codifica un sitio de unión al ribosoma adecuado en el ARNm, y una secuencia para controlar la terminación de la transcripción y la traducción. El vector usado en la presente divulgación no está particularmente limitado, y puede ser cualquier vector conocido en la técnica, siempre que sea replicable en el hospedador. Por ejemplo, el vector puede ser un plásmido, una partícula fágica o un inserto genómico potencial, y es específicamente pDZ (patente coreana n.° 10-0924065), pero no se limita al mismo. Una vez transformado en un hospedador adecuado, el vector puede replicarse o funcionar independientemente del genoma del hospedador, o puede integrarse en el propio genoma. As used herein, the term "vector" refers to a DNA construct that contains a base sequence that is functionally linked to a suitable control sequence, to express a target gene in a suitable host. The control sequences may include a promoter for initiating transcription, a particular operator sequence for controlling said transcription, a sequence encoding a suitable ribosome binding site in the mRNA, and a sequence for controlling the termination of transcription and translation . The vector used in the present disclosure is not particularly limited, and can be any vector known in the art, so long as it is replicable in the host. For example, the vector can be a plasmid, a phage particle or a potential genomic insert, and is specifically pDZ (Korean patent No. 10-0924065), but is not limited thereto. Once transformed into a suitable host, the vector can replicate or function independently of the host genome, or it can be integrated into the genome itself. 
+ 
+   
+ 
+   Específicamente, se adquirió una secuencia de nucleótidos (SEQ ID NO. 13, 14 o 15) que comprende el codón de inicio del gen  lysC, tkt  o  pyc,  y basándose en esta secuencia, se sintetizaron cebadores que tienen el codón de inicio sustituido como ATG. Se realizó PCR usando los cebadores y un ADN cromosómico de una cepa productora de L-lisina como molde, para obtener ADN del que se sustituye un extremo con ATG. Este fragmento de ADN así obtenido se clonó en un vector para obtener un vector recombinante final. Más específicamente, en la presente divulgación, se construyeron los vectores pDZ-lysC(ATG), pDZ-tkt(ATG) y pDZ-pyc(ATG), respectivamente. Specifically, a nucleotide sequence (SEQ ID NO: 13, 14 or 15) comprising the start codon of the  lysC, tkt  or  pyc  gene was  acquired,  and based on this sequence, primers having the substituted start codon were synthesized as ATG PCR was performed using the primers and a chromosomal DNA of an L-lysine producing strain as a template, to obtain DNA from which one end is replaced with ATG. This DNA fragment thus obtained was cloned into a vector to obtain a final recombinant vector. More specifically, in the present disclosure, vectors pDZ-lysC (ATG), pDZ-tkt (ATG) and pDZ-pyc (ATG) were constructed, respectively. 
+ 
+   
+ 
+   En otro aspecto más, la presente divulgación proporciona un microorganismo que incluye uno o más polinucleótidos modificados que tienen el codón de inicio sustituido como ATG y que codifican una enzima seleccionada del grupo que consiste en aspartato cinasa, transcetolasa y piruvato carboxilasa, y después se mejoraron los niveles de traducción de los ARNm transcritos a partir de los polinucleótidos en proteínas, provocando actividades potenciadas de una o más de las enzimas en comparación con las actividades endógenas de las mismas. El microorganismo de la presente divulgación puede tener actividades potenciadas de aspartato cinasa, transcetolasa o piruvato carboxilasa usando los polinucleótidos modificados en combinaciones de uno, dos o tres de los mismos, en que los polinucleótidos modificados codifican las enzimas correspondientes y están sustituidos con ATG en el codón de inicio. In still another aspect, the present disclosure provides a microorganism that includes one or more modified polynucleotides that have the start codon substituted as ATG and that encode an enzyme selected from the group consisting of aspartate kinase, transketolase and pyruvate carboxylase, and then improved the translation levels of the mRNAs transcribed from the polynucleotides into proteins, causing enhanced activities of one or more of the enzymes compared to the endogenous activities thereof. The microorganism of the present disclosure may have enhanced activities of aspartate kinase, transketolase or pyruvate carboxylase using the modified polynucleotides in combinations of one, two or three thereof, wherein the modified polynucleotides encode the corresponding enzymes and are substituted with ATG in the start codon. 
+ 
+   
+ 
+   Para sustituir ATG para los codones de inicio de los genes diana en el cromosoma del microorganismo, pueden usarse diversos métodos conocidos en la técnica. Por ejemplo, las secuencias del codón de inicio de los genes  lysC, tkt  y  pyc  endógenos en el microorganismo pueden sustituirse en el cromosoma. Como alternativa, los genes correspondientes que tienen las secuencias del codón de inicio sustituidas pueden introducirse en el microorganismo en forma de un plásmido. 
+ To substitute ATG for the start codons of the target genes in the microorganism chromosome, various methods known in the art can be used. For example, the sequences of the start codon of the endogenous genes  lysC, tkt  and  pyc  in the microorganism can be substituted on the chromosome. Alternatively, corresponding genes having the substituted start codon sequences can be introduced into the microorganism in the form of a plasmid.  
+ 
+ 
+   El microorganismo puede ser cualquier cepa, siempre que tenga productividad de L-lisina. Específicamente, puede ser un microorganismo de  Corynebacterium  sp. o  Brevibacterium  sp. Los ejemplos de los microorganismos de  Corynebacterium  sp. o  Brevibacterium  sp. incluyen  Corynebacterium glutamicum  ATCC13032,  Corynebacterium thermoaminogenes  FERM BP-1539,  Brevibacterium flavum  ATCC 14067,  Brevibacterium lactofermentum  ATCC 13869. Además, pueden incluirse variantes productoras de L-lisina o cepas derivadas de las mismas, por ejemplo,  Corynebacterium glutamicum  KCCM11016P (este microorganismo se divulgó como KFCC10881, y se volvió a depositar en una autoridad de depósito internacional según el tratado de Budapest con el n.° de acceso KCCM11016P, patente coreana n.° 10-0159812, patente coreana n.° 10-0397322) y  Corynebacterium glutamicum  KFCC 11001. Además, puede ser  Corynebacterium glutamicum  con el n.° de acceso KCCM11016P. The microorganism can be any strain, as long as it has L-lysine productivity. Specifically, it can be a microorganism of  Corynebacterium  sp. or  Brevibacterium  sp. Examples of the microorganisms of  Corynebacterium  sp. or  Brevibacterium  sp. include  Corynebacterium glutamicum  ATCC13032,  Corynebacterium thermoaminogenes  FERM BP-1539,  Brevibacterium flavum  ATCC 14067,  Brevibacterium lactofermentum  ATCC 13869. In addition, L-lysine producing variants or strains derived therefrom may be included, eg,  Corynebacterium glutamicum  KCCM11016P (this microorganism was reported as KFCC10881, and was re-deposited at an international depository authority under the Budapest treaty with accession number KCCM11016P, Korean patent No. 10-0159812, Korean patent No. 10-0397322) and  Corynebacterium glutamicum  KFCC 11001. In addition, it can be  Corynebacterium glutamicum  with accession no. KCCM11016P. 
+ 
+   
+ 
+   Específicamente,  Corynebacterium glutamicum  con el n.° de acceso KCCM11016P se transformó con un vector que comprende el polinucleótido que codifica aspartato cinasa, transcetolasa o piruvato carboxilasa, en la que el codón de inicio está sustituido con ATG, para obtener  Corynebacterium glutamicum  recombinante. Más específicamente, se introdujo el vector pDZ-lysC(ATG), pDZ-tkt(ATG) o pDZ-pyc(ATG) en  Corynebacterium glutamicum  con el n.° de acceso KCCM11016 P, respectivamente para obtener cada  Corynebacterium glutamicum  recombinante. Specifically,  Corynebacterium glutamicum  with accession no. KCCM11016P was transformed with a vector comprising the polynucleotide encoding aspartate kinase, transketolase or pyruvate carboxylase, in which the start codon is substituted with ATG, to obtain recombinant  Corynebacterium glutamicum  . More specifically, vector pDZ-lysC (ATG), pDZ-tkt (ATG) or pDZ-pyc (ATG) was introduced into  Corynebacterium glutamicum  with accession no. KCCM11016 P, respectively to obtain each recombinant  Corynebacterium glutamicum  . 
+ 
+   
+ 
+   Además, el microorganismo puede transformarse con un vector que comprende dos o más polinucleótidos de los polinucleótidos que codifican aspartato cinasa, transcetolasa o piruvato carboxilasa y que tienen el codón de inicio sustituido como ATG. Específicamente, el vector pDZ-tkt(ATG) que comprende el gen del que se ha sustituido el codón de inicio con ATG y que codifica transcetolasa se transforma en  Corynebacterium glutamicum  KCCM11016P-lysC, en que el codón de inicio GTG de  lysC  está sustituido con ATG y mediante un segundo cruce, los codones de inicio de  lysC  y tkt en el cromosoma se sustituyen con ATG para obtener  Corynebacterium glutamicum  KCCM11016P-lysC-tkt. Además, el vector pDZ-pyc(ATG) que comprende el polinucleótido del que se ha sustituido el codón de inicio con ATG y que codifica piruvato carboxilasa se transforma en KCCM11016P-lysC, en que el codón de inicio GTG de  lysC  está sustituido con ATG y mediante un segundo cruce, los codones de inicio de  lysC  y  pyc  en el cromosoma se sustituyen con ATG para obtener KCCM11016P-lysC-pyc. Además, el vector pDZ-tkt(ATG) se transforma en KCCM11016P-lysC-pyc preparado como anteriormente, en que el codón de inicio GTG de  lysC  y  pyc  se sustituye con ATG y mediante un segundo cruce, los codones de inicio de  lysC, pyc  y  tkt  en el cromosoma se sustituyen con ATG para obtener KCCM11016P-lysC-pyc-tkt. Se confirmó que los codones de inicio de  lysC, pyc  y tkt también pueden sustituirse con ATG en otras cepas productoras de lisina que pertenecen a  Corynebacterium glutamicum,  KFCC10750 (este microorganismo se divulgó como KFCC10750 y se volvió a depositar en una autoridad de depósito internacional según el tratado de Budapest con el n.° de acceso k Cc M11347P, patente coreana n.° 10-0073610), KCCM10770P (patente coreana n.° 10-0924065), CJ3P (Genome Biology 2012, 13:R40) de la misma manera. Estos resultados sugieren que los polinucleótidos modificados de la presente divulgación pueden introducirse de forma estable en diversas cepas que pertenecen a  Corynebacterium  sp., aumentando de ese modo la productividad de L-lisina. In addition, the microorganism can be transformed with a vector comprising two or more polynucleotides of the polynucleotides encoding aspartate kinase, transketolase or pyruvate carboxylase and having the start codon substituted as ATG. Specifically, the vector pDZ-tkt (ATG) comprising the gene from which the start codon has been replaced with ATG and which encodes transketolase is transformed into  Corynebacterium glutamicum  KCCM11016P-lysC, in which the GTG start codon of  lysC  is substituted with ATG and through a second crossing, the start codons of  lysC  and tkt on the chromosome are replaced with ATG to obtain  Corynebacterium glutamicum  KCCM11016P-lysC-tkt. In addition, the pDZ-pyc vector (ATG) comprising the polynucleotide from which the start codon has been replaced with ATG and which encodes pyruvate carboxylase is transformed into KCCM11016P-lysC, where the GTG start codon of  lysC  is substituted with ATG and by a second crossing, the start codons of  lysC  and  pyc  on the chromosome are replaced with ATG to obtain KCCM11016P-lysC-pyc. In addition, the pDZ-tkt vector (ATG) is transformed into KCCM11016P-lysC-pyc prepared as above, in which the GTG start codon of  lysC  and  pyc  is replaced with ATG and by a second crossing, the start codons of  lysC, pyc  and  tkt  on the chromosome are replaced with ATG to obtain KCCM11016P-lysC-pyc-tkt. It was confirmed that the initiation codons of  lysC, pyc  and tkt can also be substituted with ATG in other lysine-producing strains belonging to  Corynebacterium glutamicum,  KFCC10750 (this microorganism was reported as KFCC10750 and was re-deposited in an international depository authority as the Budapest treaty with accession number k Cc M11347P, Korean patent No. 10-0073610), KCCM10770P (Korean patent No. 10-0924065), CJ3P (Genome Biology 2012, 13: R40) thereof way. These results suggest that the modified polynucleotides of the present disclosure can be introduced stably into various strains belonging to  Corynebacterium  sp., Thereby increasing the productivity of L-lysine. 
+ 
+   
+ 
+   Específicamente, el transformante KCCM11016P-lysC-pyc-tkt, que se obtuvo introduciendo los vectores pDZ-lysC(ATG), pDZ-tkt(ATG) y pDZ-pyc(ATG) que incluye los polinucleótidos que codifican aspartato cinasa, transcetolasa y piruvato carboxilasa en  Corynebacterium glutamicum  KCCM11016P, se denominó  Corynebacterium glutamicum  CA01-2059 y se depositó el 2 de mayo de 2011 en el Centro de Cultivo Coreano de Microorganismos (a partir de ahora en este documento, abreviado como "KCCM"), que es una autoridad de depósito internacional según el tratado de Budapest, con el n.° de acceso KCCM11188P. Se deposita mediante una autoridad de depósito internacional según el tratado de Budapest. Specifically, the transformant KCCM11016P-lysC-pyc-tkt, which was obtained by introducing the vectors pDZ-lysC (ATG), pDZ-tkt (ATG) and pDZ-pyc (ATG) which includes the polynucleotides encoding aspartate kinase, transketolase and pyruvate carboxylase in  Corynebacterium glutamicum  KCCM11016P, was named  Corynebacterium glutamicum  CA01-2059 and was deposited on May 2, 2011 at the Korea Microorganisms Cultivation Center (hereinafter referred to as "KCCM"), which is an authority of international deposit according to the Budapest Treaty, with accession number KCCM11188P. It is deposited through an international deposit authority according to the Budapest treaty. 
+ 
+   
+ 
+   El microorganismo de acuerdo con la presente divulgación se caracteriza por en que los codones de inicio de los genes de tipo silvestre que codifican las enzimas anteriores están sustituidos con ATG y, por lo tanto, el microorganismo tiene actividades potenciadas de aspartato cinasa, transcetolasa y piruvato carboxilasa en comparación con actividades endógenas de las mismas, que se producen por la notable mejora en los niveles de traducción de los ARNm transcritos a partir de los genes  lysC, tkt  y  pyc  en las proteínas. The microorganism according to the present disclosure is characterized in that the start codons of the wild-type genes encoding the above enzymes are substituted with ATG and, therefore, the microorganism has enhanced activities of aspartate kinase, transketolase and pyruvate carboxylase compared to endogenous activities thereof, which are produced by the marked improvement in translation levels of the mRNAs transcribed from the  lysC, tkt  and  pyc genes  in the proteins. 
+ 
+   
+ 
+   Como se usa en este documento, la expresión "actividad endógena" significa la actividad de una enzima en un microorganismo natural y, por ejemplo, la actividad de aspartato cinasa, transcetolasa o piruvato carboxilasa en un microorganismo natural que pertenece a  Corynebacterium  sp. La expresión "actividad endógena potenciada" significa que la actividad se mejora adicionalmente en comparación con la de la enzima natural. As used herein, the term "endogenous activity" means the activity of an enzyme in a natural microorganism and, for example, the activity of aspartate kinase, transketolase or pyruvate carboxylase in a natural microorganism belonging to  Corynebacterium  sp. The term "enhanced endogenous activity" means that the activity is further improved compared to that of the natural enzyme. 
+ 
+   
+ 
+   Específicamente, cuando la actividad aspartato cinasa de la cepa en que se sustituyó el codón de inicio del gen  lysC  con ATG se comparaba con la de la cepa precursora KCCM11016P, se observaba un aumento de 2,73 veces en la actividad aspartato cinasa (tabla 4). Además, cuando la actividad transcetolasa de la cepa en que se sustituyó el codón de inicio del gen tkt con ATG se comparaba con la de la cepa precursora KCCM11016P, se observaba un aumento de 3,5 veces en la actividad transcetolasa (tabla 5). Además, cuando la actividad piruvato carboxilasa de la cepa en que se sustituyó el codón de inicio del gen  pyc  con ATG se comparaba con la de la cepa precursora KCCM11016P, se observaba un aumento de 1,89 veces en la actividad piruvato carboxilasa (tabla 6). Specifically, when the aspartate kinase activity of the strain in which the initiation codon of the  lysC  gene was substituted with ATG was compared with that of the precursor strain KCCM11016P, a 2.73 fold increase in aspartate kinase activity was observed (Table 4 ). Furthermore, when the transketolase activity of the strain in which the start codon of the tkt gene was substituted with ATG was compared with that of the precursor strain KCCM11016P, a 3.5-fold increase in transketolase activity was observed (Table 5). Furthermore, when the pyruvate carboxylase activity of the strain in which the start codon of the  pyc  gene was  substituted  with ATG was compared with that of the precursor strain KCCM11016P, a 1.89 fold increase in pyruvate carboxylase activity was observed (Table 6 ). 
+ 
+   
+ 
+   Se descubrió que la productividad de L-lisina del microorganismo puede aumentarse mejorando la actividad de aspartato cinasa, transcetolasa, piruvato carboxilasa o una combinación de las mismas. 
+ It was found that the L-lysine productivity of the microorganism can be increased by improving the activity of aspartate kinase, transketolase, pyruvate carboxylase or a combination thereof.  
+ 
+ 
+   En la presente divulgación, se midieron las cantidades de L-lisina producida en las cepas productoras de L-lisina,  Corynebacterium glutamicum  KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc y KCCM11016P-lysC-pyc-tkt y, como resultado, mostraron una mejora notable en la producción de L-lisina en comparación con la cepa precursora KCCM 11016P (tabla 7). Además, otras cepas productoras de lisina que pertenecen a  Corynebacterium glutamicum,  KFCC10750 (patente coreana n.° 10-0073610), KCCM10770P (patente coreana n.° 10-0924065) y CJ3P (Genome Biology 2012, 13:R40), en que se sustituyeron los codones de inicio de  lysC, pyc  y  tkt  con ATG, mostraron una mejora notable en la producción de L-lisina en comparación con la cepa precursora (tablas 8~10). Estos resultados sugieren que los microorganismos que tienen un tipo de polinucleótidos modificados que codifican LysC, Tkt o Pyc, o que tienen dos tipos de los polinucleótidos modificados que codifican las enzimas, o que tienen estos tipos de polinucleótidos modificados que codifican las enzimas y que tienen el codón de inicio sustituido como ATG en el cromosoma, también mostraron productividad notablemente mejorada de L-lisina en comparación con el microorganismo de tipo silvestre que tiene el codón de inicio GTG o TTG. In the present disclosure, the amounts of L-lysine produced in the L-lysine producing strains,  Corynebacterium glutamicum  KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc and KCCM11016P were measured. -lysC-pyc-tkt and, as a result, showed a marked improvement in the production of L-lysine compared to the precursor strain KCCM 11016P (table 7). In addition, other lysine-producing strains belonging to  Corynebacterium glutamicum,  KFCC10750 (Korean Patent No. 10-0073610), KCCM10770P (Korean Patent No. 10-0924065) and CJ3P (Genome Biology 2012, 13: R40), wherein the initiation codons of  lysC, pyc  and  tkt were substituted  with ATG, they showed a marked improvement in L-lysine production compared to the precursor strain (tables 8 ~ 10). These results suggest that microorganisms that have one type of modified polynucleotides that encode LysC, Tkt or Pyc, or that have two types of the modified polynucleotides that encode the enzymes, or that have these types of modified polynucleotides that encode the enzymes and that have the start codon substituted as ATG on the chromosome, also showed markedly improved productivity of L-lysine compared to the wild-type microorganism having the start codon GTG or TTG. 
+ 
+   
+ 
+   En otro aspecto más, la presente divulgación proporciona un método para producir L-lisina, que comprende las etapas de cultivar el microorganismo como se describe anteriormente; y recuperar L-lisina del microorganismo cultivado o el caldo de cultivo. In still another aspect, the present disclosure provides a method for producing L-lysine, comprising the steps of culturing the microorganism as described above; and recovering L-lysine from the cultured microorganism or the culture broth. 
+ 
+   
+ 
+   Para el cultivo, pueden usarse diversos métodos de producción de L-lisina usando un microorganismo que es ampliamente conocido en la técnica. El cultivo puede realizarse de acuerdo con el método ampliamente conocido, y las condiciones para el cultivo, incluyendo temperatura, tiempo, pH del medio, etc. pueden controlarse apropiadamente. Se proporciona una descripción detallada del cultivo en el siguiente documento [Chmiel; Bioprozesstechnik 1. Einfuhrung in die Bioverfahrenstechnik (Gustav Fischer Verlag, Stuttgart, 1991), y Storhas; Bioreaktoren und periphere Einrichtungen (Vieweg Verlag, Braunschweig / Wiesbaden, 1994)]. Además, el cultivo puede incluir cultivo discontinuo, cultivo continuo y cultivo semicontinuo. Específicamente, puede hacerse funcionar un proceso discontinuo, semicontinuo o semicontinuo repetido de una manera continua, pero la presente divulgación no se limita a los mismos. For cultivation, various production methods of L-lysine can be used using a microorganism that is widely known in the art. The cultivation can be carried out according to the widely known method, and the conditions for the culture, including temperature, time, pH of the medium, etc. they can be controlled appropriately. A detailed description of the culture is provided in the following document [Chmiel; Bioprozesstechnik 1. Einfuhrung in die Bioverfahrenstechnik (Gustav Fischer Verlag, Stuttgart, 1991), and Storhas; Bioreaktoren und periphere Einrichtungen (Vieweg Verlag, Braunschweig / Wiesbaden, 1994)]. In addition, the culture may include batch culture, continuous culture and semi-continuous culture. Specifically, a discontinuous, semi-continuous or semi-continuous process repeated in a continuous manner may be operated, but the present disclosure is not limited thereto. 
+ 
+   
+ 
+   Para su uso en el cultivo, un medio debe satisfacer los requisitos de una cepa particular empleada. Los medios de cultivo para microorganismos que pertenecen a  Corynebacterium  sp. son bien conocidos (por ejemplo, Manual of Methods for General Bacteriology. American Society for Bacteriology. Washington D.C., EE. UU., 1981). Las fuentes de carbono a usar pueden incluir sacáridos y carbohidratos tales como glucosa, sacarosa, lactosa, fructosa, maltosa, almidón y celulosa; aceites y lípidos tales como aceite de soja, aceite de semillas de girasol, aceite de ricino y aceite de coco; ácidos grasos tales como ácido palmítico, ácido esteárico, ácido linoleico; alcoholes tales como glicerol y etanol; y ácidos orgánicos tales como ácido acético. Estos materiales pueden usarse por separado o en combinación. Las fuentes de nitrógeno a usar pueden incluir peptona, extracto de levadura, caldo de carne, extracto de malta, destilado del macerado del maíz, harina de soja y urea, o compuestos inorgánicos tales como sulfato de amonio, cloruro de amonio, fosfato de amonio, carbonato de amonio y nitrato de amonio. Estas fuentes de nitrógeno pueden usarse por separado o en combinación. Las fuentes de fósforo a usar pueden incluir hidrogenofosfato de dipotasio, dihidrogenofosfato de potasio y sales de sodio correspondientes. Además, los medios de cultivo pueden contener sales metálicas tales como sulfato de magnesio o sulfato de hierro esenciales para el crecimiento. Finalmente, pueden usarse nutrientes esenciales tales como aminoácidos y vitaminas además de las sustancias anteriores. Además, pueden añadirse precursores apropiados al medio de cultivo. Estos materiales pueden añadirse apropiadamente en el cultivo durante los cultivos en un modo discontinuo o continuo. For use in cultivation, a medium must satisfy the requirements of a particular strain used. Culture media for microorganisms belonging to  Corynebacterium  sp. they are well known (for example, Manual of Methods for General Bacteriology, American Society for Bacteriology, Washington DC, USA, 1981). The carbon sources to be used may include saccharides and carbohydrates such as glucose, sucrose, lactose, fructose, maltose, starch and cellulose; oils and lipids such as soybean oil, sunflower seed oil, castor oil and coconut oil; fatty acids such as palmitic acid, stearic acid, linoleic acid; alcohols such as glycerol and ethanol; and organic acids such as acetic acid. These materials can be used separately or in combination. The nitrogen sources to be used may include peptone, yeast extract, meat broth, malt extract, maize distillate distillate, soybean meal and urea, or inorganic compounds such as ammonium sulfate, ammonium chloride, ammonium phosphate , ammonium carbonate and ammonium nitrate. These nitrogen sources can be used separately or in combination. The phosphorus sources to be used may include dipotassium hydrogen phosphate, potassium dihydrogen phosphate and corresponding sodium salts. In addition, the culture media may contain metal salts such as magnesium sulfate or iron sulfate essential for growth. Finally, essential nutrients such as amino acids and vitamins can be used in addition to the above substances. In addition, appropriate precursors may be added to the culture medium. These materials can be added appropriately in the culture during the crops in a batch or continuous mode. 
+ 
+   
+ 
+   El pH del medio de cultivo puede ajustarse con un compuesto básico tal como hidróxido de sodio, hidróxido de potasio o amoniaco, o un compuesto ácido tal como ácido fosfórico o ácido sulfúrico. La generación de espuma puede restringirse usando un agente desespumante tal como éster de poliglicol de ácido graso. El medio de cultivo puede mantenerse en condiciones aeróbicas introduciendo oxígeno o un gas que contenga oxígeno (por ejemplo, aire) en el mismo. La temperatura de cultivo es típicamente entre 20 y 45 0C y específicamente entre 25 y 40 0C. El cultivo se continúa hasta que se produce una cantidad máxima de L-lisina. A este respecto, puede conseguirse en 10 a 160 horas. Después de producirse, la L-lisina puede exportarse al medio de cultivo o puede permanecer dentro de las células. The pH of the culture medium can be adjusted with a basic compound such as sodium hydroxide, potassium hydroxide or ammonia, or an acidic compound such as phosphoric acid or sulfuric acid. Foam generation can be restricted using a defoaming agent such as polyglycol fatty acid ester. The culture medium can be maintained under aerobic conditions by introducing oxygen or a gas containing oxygen (eg, air) therein. The culture temperature is typically between 20 and 45 0C and specifically between 25 and 40 0C. The cultivation is continued until a maximum amount of L-lysine is produced. In this regard, it can be achieved in 10 to 160 hours. After being produced, L-lysine can be exported to the culture medium or it can remain inside the cells. 
+ 
+   
+ 
+   Además, el método para producir L-lisina de la presente divulgación comprende la etapa de recuperar L-lisina del microorganismo cultivado o el caldo de cultivo. El método de recuperación de L-lisina del microorganismo o el caldo de cultivo es ampliamente conocido en la técnica. Los ejemplos del método de recuperación de L-lisina pueden incluir filtración, cromatografía de intercambio aniónico, cristalización y HPLC, pero no se limita a los mismos. In addition, the method for producing L-lysine of the present disclosure comprises the step of recovering L-lysine from the cultured microorganism or the culture broth. The method of recovering L-lysine from the microorganism or the culture broth is widely known in the art. Examples of the L-lysine recovery method may include, but are not limited to, filtration, anion exchange chromatography, crystallization and HPLC. 
+ 
+   
+ 
+ 
+   Ejemplos Examples 
+ 
+ 
+   
+ 
+   A partir de ahora en este documento, la presente divulgación se describirá en más detalle con referencia a los ejemplos. Sin embargo, estos ejemplos son con fines ilustrativos únicamente, y no se pretende que la divulgación esté limitada por estos ejemplos. 
+ As of now in this document, the present disclosure will be described in more detail with reference to the examples. However, these examples are for illustrative purposes only, and the disclosure is not intended to be limited by these examples.  
+ 
+ 
+   En los ejemplos, se construyeron vectores recombinantes para sustituir el codón de inicio GTG o TTG por ATG del gen  lysC  que codifica aspartato cinasa, el gen tkt que codifica transcetolasa y el gen  pyc  piruvato carboxilasa derivados de la cepa productora de lisina,  Corynebacterium glutamicum  KCCM11016P. El vector se transformó en la cepa  Corynebacterium glutamicum  KCCM11016P para obtener una cepa que tuviera el codón de inicio sustituido en el cromosoma, preparando de ese modo una cepa que tiene productividad mejorada de lisina. In the examples, recombinant vectors were constructed to replace the start codon GTG or TTG by ATG of the  lysC  gene encoding aspartate kinase, the tkt gene encoding transketolase and the  pyc  pyruvate carboxylase gene derived from the lysine producing strain,  Corynebacterium glutamicum  KCCM11016P . The vector was transformed into the strain  Corynebacterium glutamicum  KCCM11016P to obtain a strain having the initiation codon substituted on the chromosome, thereby preparing a strain having improved lysine productivity. 
+ 
+   
+ 
+   La cepa  Corynebacterium glutamicum  KCCM11016P usada en la presente divulgación es una cepa que es resistente a S-(2-aminoetil) cisteína (a partir de ahora en este documento mencionada como AEC) y permeable a homoserina, preparada por mutación artificial usando  Corynebacterium glutamicum  de tipo silvestre (ATCC 13032) como cepa precursora (divulgada como KFCC10881. Véase la patente coreana n.° 10-0159812 y la patente coreana n.° 10­ 0397322). Además, la cepa KFCC10750 es una cepa de  Corynebacterium glutamicum  productora de L-lisina que es auxótrofa para homoserina y resistente a un análogo de L-leucina, 4-azaleucina y un antibiótico, rifampicina, preparada por mutación artificial (patente coreana n.° 10-0073610), la cepa KCCM10770P es una cepa productora de L-lisina derivada de KCCM11016P, que retiene dos copias de 6 tipos de los genes que constituyen la ruta de biosíntesis de lisina en el cromosoma (patente coreana n.° 10-0924065) y la cepa CJ3P es una cepa de  Corynebacterium glutamicum  que tiene productividad de L-lisina mediante la introducción de cada una de las mutaciones P458S, V59A y T3111 en tres tipos de genes  pyc, hom  y  lysC  del tipo silvestre, basándose en la descripción de Binder et al., (Genome Biology 2012, 13:R40). The strain  Corynebacterium glutamicum  KCCM11016P used in the present disclosure is a strain that is resistant to S- (2-aminoethyl) cysteine (hereinafter referred to as AEC) and permeable to homoserin, prepared by artificial mutation using  Corynebacterium glutamicum  from wild type (ATCC 13032) as a precursor strain (disclosed as KFCC 10881. See Korean Patent No. 10-0159812 and Korean Patent No. 10 0397322). In addition, strain KFCC10750 is a strain of L-lysine-producing  Corynebacterium glutamicum  which is auxotrophic for homoserin and resistant to an analogue of L-leucine, 4-azaleucine and an antibiotic, rifampicin, prepared by artificial mutation (Korean patent no. 10-0073610), the KCCM10770P strain is an L-lysine producing strain derived from KCCM11016P, which retains two copies of 6 types of the genes that constitute the lysine biosynthetic pathway on the chromosome (Korean Patent No. 10-0924065). ) and strain CJ3P is a strain of  Corynebacterium glutamicum  having L-lysine productivity by introducing each of the P458S, V59A and T3111 mutations into three types of wild-type  pyc, hom  and  lysC  genes, based on the description de Binder et al., (Genome Biology 2012, 13: R40). 
+ 
+   
+ 
+ 
+   Ejemplo 1: Construcción del vector recombinante (pDZ-lysC(ATG)) que tiene el codón de inicio ATG sustituido en  lysC,  derivado de  Corynebacterium glutamicum  y preparación de la cepa que tiene el codón de inicio sustituido Example 1: Construction of the recombinant vector (pDZ-lysC (ATG)) having the start codon ATG substituted in  lysC,  derived from  Corynebacterium glutamicum  and preparation of the strain having the start codon substituted 
+ 
+ 
+   
+ 
+   Se usó pDZ (véase la patente coreana n.° 10-0924065) como vector básico para el vector recombinante, que se construyó de la siguiente manera. PDZ (see Korean Patent No. 10-0924065) was used as the basic vector for the recombinant vector, which was constructed in the following manner. 
+ 
+   
+ 
+ 
+   (1) Construcción del vector recombinante pDZ-lysC(ATG) (1) Construction of the recombinant vector pDZ-lysC (ATG) 
+ 
+ 
+   
+ 
+   Para adquirir el gen  lysC  derivado de  Corynebacterium glutamicum,  se usó el ADN cromosómico de una cepa productora de lisina ( Corynebacterium glutamicum  KCCM11016P) preparada por mutación artificial, como molde. Basándose en la genoteca del National Institutes of Health de Estados Unidos (NIH GenBank), se adquirió una secuencia de nucleótidos (SEQ ID NO. 13) que contiene la región del codón de inicio del gen  lysC  (n.° de acceso al NCBI NC_003450, Ncgl0247) y, basándose en esta secuencia, se sintetizaron dos pares de cebadores (tabla 1, SEQ ID NO. 1 ~ 4) para sustituir el codón de inicio GTG con ATG. To acquire the  lysC  gene derived from  Corynebacterium glutamicum,  the chromosomal DNA of a lysine producing strain (  Corynebacterium glutamicum  KCCM11016P) prepared by artificial mutation was used as a template. Based on the library of the National Institutes of Health of the United States (NIH GenBank), a nucleotide sequence (SEQ ID No. 13) containing the region of the start codon of the  lysC  gene (access no. NCBI NC_003450) was acquired. , Ncgl0247) and, based on this sequence, two pairs of primers were synthesized (table 1, SEQ ID No. 1 ~ 4) to replace the start codon GTG with ATG. 
+ 
+   
+ 
+   Se realizó PCR usando ADN cromosómico de KCCM11016P como molde y los cebadores de la siguiente tabla 1. Se usó la ADN polimerasa de alta fidelidad PfuUltra™ (Stratagene) como polimerasa, y se realizó la PCR con 30 ciclos de desnaturalización a 96 0C durante 30 segundos; hibridación a 55 0C durante 30 segundos; y polimerización a 72 0C durante 30 segundos. Se clonaron dos fragmentos de ADN así obtenidos en el vector pDZ tratado con la enzima de restricción XbaI usando un kit de clonación de PCR In-Fusion (Clontech) y, finalmente, se construyó un vector recombinante pDZ-lysC(ATG). PCR was performed using chromosomal DNA of KCCM11016P as a template and the primers of the following table 1. The high-fidelity DNA polymerase PfuUltra ™ (Stratagene) was used as a polymerase, and the PCR was performed with 30 cycles of denaturation at 96 ° C for 30 days. seconds; Hybridization at 55 ° C for 30 seconds; and polymerization at 72 ° C for 30 seconds. Two DNA fragments thus obtained were cloned into the vector pDZ treated with the restriction enzyme XbaI using an In-Fusion PCR cloning kit (Clontech) and, finally, a recombinant vector pDZ-lysC (ATG) was constructed. 
+ 
+   
+ 
+ 
+   (2) Preparación de cepa (2) Preparation of strain 
+ 
+ 
+   
+ 
+   El vector pDZ-lysC(ATG) así construido se transformó en KCCM11016P mediante un método de impulso eléctrico (mediante el uso del método de transformación de acuerdo con Appl. Microbiol.Biotechnol. (1999) 52:541-545), y después las cepas en que se insertó el gen en el cromosoma mediante recombinación homóloga, se seleccionaron en un medio de selección que contenía 25 mg/l de canamicina. La inserción cromosómica satisfactoria del vector se confirmó mediante el color azul de las colonias en un medio sólido que contiene X-gal (5-bromo-4-cloro-3-indolil-(p-D-galactósido). La cepa con la primera inserción cromosómica se cultivó con agitación (30 0C, 8 horas) en un medio nutritivo. Después, la cepa cultivada se diluyó en serie de 10-4 a 10-10, y el cultivo diluido se sembró en placa en un medio sólido que contenía X-gal. La mayoría de las colonias mostraban color azul, mientras que las colonias blancas también existían a un nivel bajo. Seleccionando las colonias blancas, se seleccionaron las cepas en que la secuencia de nucleótidos en la región del codón de inicio de  lysC  estaba sustituido mediante un segundo cruce. La sustitución de nucleótidos del codón de inicio en la cepa seleccionada se confirmó finalmente por PCR usando los cebadores de la SEQ ID NO. 1 y 4 y después analizando la secuencia de nucleótidos del sitio diana. The vector pDZ-lysC (ATG) thus constructed was transformed into KCCM11016P by an electric pulse method (by using the transformation method according to Appl. Microbiol.Biotechnol. (1999) 52: 541-545), and then the strains into which the gene was inserted into the chromosome by homologous recombination, were selected in a selection medium containing 25 mg / l kanamycin. Successful chromosomal insertion of the vector was confirmed by the blue color of the colonies on a solid medium containing X-gal (5-bromo-4-chloro-3-indolyl- (pD-galactoside) .The strain with the first chromosomal insertion it was grown with shaking (30 0C, 8 hours) in a nutrient medium, then the cultivated strain was serially diluted from 10-4 to 10-10, and the diluted culture was plated on a solid medium containing X- Most colonies showed blue color, while white colonies also existed at a low level.Selecting white colonies, strains were selected in which the nucleotide sequence in the codon region of  lysC  start was substituted by a second crossing The replacement of nucleotides from the start codon in the selected strain was finally confirmed by PCR using the primers of SEQ ID NO.1 and 4 and then analyzing the nucleotide sequence of the target site. 
+ 
+   
+ 
+   T l 1 T l 1 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   Ejemplo 2: Construcción del vector recombinante (pDZ-tkt(ATG)) que tiene el codón de inicio ATG sustituido en tkt derivado de  Corynebacterium glutamicum  y preparación de la cepa que tiene el codón de inicio sustituido Example 2: Construction of the recombinant vector (pDZ-tkt (ATG)) having the ATG-substituted start codon in tkt derived from  Corynebacterium glutamicum  and preparation of the strain having the substituted start codon 
+ 
+ 
+   
+ 
+   Hay dos codones que se espera que sean codón de inicio en la secuencia del gen tkt. Basándose en la distancia desde el RBS (sitio de unión al ribosoma) y la proteómica, se determinó el codón en dirección 3' como el codón de inicio en la presente divulgación. There are two codons that are expected to be start codons in the tkt gene sequence. Based on the distance from the RBS (ribosome binding site) and proteomics, the 3 'codon was determined as the start codon in the present disclosure. 
+ 
+   
+ 
+ 
+   (1) Construcción del vector recombinante pDZ-tkt(ATG) (1) Construction of the recombinant vector pDZ-tkt (ATG) 
+ 
+ 
+   
+ 
+   Para adquirir el gen  tkt  derivado de  Corynebacterium glutamicum,  se usó el ADN cromosómico de KCCM11016P como molde. Basándose en la genoteca del National Institutes of Health de Estados Unidos (NIH GenBank), se adquirió una secuencia de nucleótidos (SEQ ID NO. 14) que contiene la región del codón de inicio del gen tkt (n.° de acceso al NCBI NC_003450, Ncgl 1512) y, basándose en esta secuencia, se sintetizaron dos pares de cebadores (tabla 2, SEQ ID NO. 5 ~ 8) para sustituir el codón de inicio TTG con ATG. To acquire the  tkt  gene derived from  Corynebacterium glutamicum,  the chromosomal DNA of KCCM11016P was used as a template. Based on the library of the National Institutes of Health of the United States (NIH GenBank), a nucleotide sequence (SEQ ID No. 14) containing the codon region of the tkt gene start was acquired (accession number NCBI NC_003450 , Ncgl 1512) and, based on this sequence, two pairs of primers were synthesized (table 2, SEQ ID NO 5 ~ 8) to replace the start codon TTG with ATG. 
+ 
+   
+ 
+   Se realizó PCR usando el ADN cromosómico de KCCM11016P como molde y los cebadores de la siguiente tabla 2 en las condiciones del ejemplo 1-1. Se clonaron dos fragmentos de ADN así obtenidos en el vector pDZ tratado con la enzima de restricción XbaI usando un kit de clonación de PCR In-Fusion (Clontech) y, finalmente, se construyó un vector recombinante pDZ-tkt(ATG). PCR was performed using the chromosomal DNA of KCCM11016P as a template and the primers of the following Table 2 under the conditions of Example 1-1. Two DNA fragments thus obtained were cloned into the vector pDZ treated with the restriction enzyme XbaI using an In-Fusion PCR cloning kit (Clontech) and, finally, a recombinant vector pDZ-tkt (ATG) was constructed. 
+ 
+   
+ 
+ 
+   (2) Preparación de cepa (2) Preparation of strain 
+ 
+ 
+   
+ 
+   El vector pDZ-tkt(ATG) así construido se transformó en la cepa productora de lisina KCCM11016P de la misma manera que en el ejemplo 1 -2, y se obtuvo KCCM11016P-tkt, en que el codón de inicio de tkt en el cromosoma estaba sustituido con ATG mediante un segundo cruce. La sustitución de nucleótidos del codón de inicio en la cepa seleccionada se confirmó finalmente por PCR usando los cebadores de las SEQ ID NO. 5 y 8 y después analizando la secuencia de nucleótidos del sitio diana. The vector pDZ-tkt (ATG) thus constructed was transformed into the lysine-producing strain KCCM11016P in the same manner as in Example 1-2, and KCCM11016P-tkt was obtained, in which the start codon of tkt on the chromosome was replaced with ATG by a second crossing. The nucleotide substitution of the start codon in the selected strain was finally confirmed by PCR using the primers of SEQ ID NO. 5 and 8 and then analyzing the nucleotide sequence of the target site. 
+ 
+   
+ 
+   T l 2 T l 2 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   Ejemplo 3: Construcción del vector recombinante (pDZ-pyc(ATG)) que tiene el codón de inicio ATG sustituido en  pyc  derivado de  Corynebacterium glutamicum  y preparación de la cepa que tiene el codón de inicio sustituido Example 3: Construction of the recombinant vector (pDZ-pyc (ATG)) having the ATG-substituted start codon in  pyc  derived from  Corynebacterium glutamicum  and preparation of the strain having the substituted start codon 
+ 
+ 
+   
+ 
+ 
+   (1) Construcción del vector recombinante pDZ-pyc(ATG) (1) Construction of the recombinant vector pDZ-pyc (ATG) 
+ 
+ 
+   
+ 
+   Para adquirir el gen  pyc  derivado de  Corynebacterium glutamicum,  se usó el ADN cromosómico de KCCM11016P como molde. Basándose en la genoteca del National Institutes of Health de Estados Unidos (NIH GenBank), se adquirió una secuencia de nucleótidos (SEQ ID NO. 15) que contiene la región del codón de inicio del gen  pyc  (n.° de acceso al NCBI NC_003450, Ncgl0659) y, basándose en esta secuencia, se sintetizaron dos pares de cebadores (tabla 3, SEQ ID NO. 9 ~ 12) para sustituir el codón de inicio GTG con ATG. To acquire the  pyc  gene derived from  Corynebacterium glutamicum,  the chromosomal DNA of KCCM11016P was used as a template. Based on the library of the National Institutes of Health of the United States (NIH GenBank), a nucleotide sequence (SEQ ID No. 15) containing the region of the start codon of the  pyc  gene (access no. NCBI NC_003450) was acquired. , Ncgl0659) and, based on this sequence, two pairs of primers were synthesized (table 3, SEQ ID No. 9 ~ 12) to replace the GTG start codon with ATG. 
+ 
+   
+ 
+   Se realizó PCR usando el ADN cromosómico de KCCM11016P como molde y los cebadores de la siguiente tabla 3 en las condiciones del ejemplo 1-1. Se clonaron dos fragmentos de ADN así obtenidos en el vector pDZ tratado con la enzima de restricción XbaI usando un kit de clonación de PCR In-Fusion (Clontech) y, finalmente, se construyó un vector recombinante pDZ-pyc(ATG). PCR was performed using the chromosomal DNA of KCCM11016P as a template and the primers of the following Table 3 under the conditions of Example 1-1. Two DNA fragments thus obtained were cloned into the vector pDZ treated with the restriction enzyme XbaI using an In-Fusion PCR cloning kit (Clontech) and, finally, a recombinant vector pDZ-pyc (ATG) was constructed. 
+ 
+   
+ 
+ 
+   (2) Preparación de cepa (2) Preparation of strain 
+ 
+ 
+   
+ 
+   El vector pDZ-pyc(ATG) así construido se transformó en la cepa productora de lisina KCCM11016P de la misma manera que en el ejemplo 1-2, y se obtuvo KCCM11016P-pyc, en que el codón de inicio de  pyc  en el cromosoma estaba sustituido con ATG mediante un segundo cruce. La sustitución de nucleótidos del codón de inicio en la cepa 
+seleccionada se confirmó finalmente por PCR usando los cebadores de las SEQ ID NO. 9 y 12 y después analizando la secuencia de nucleótidos del sitio diana. The pDZ-pyc vector (ATG) thus constructed was transformed into the lysine producing strain KCCM11016P in the same manner as in Example 1-2, and KCCM11016P-pyc was obtained, in which the  pyc  start codon on the chromosome was replaced with ATG by a second crossing. The nucleotide substitution of the start codon in the strain  selected was finally confirmed by PCR using the primers of SEQ ID NO. 9 and 12 and then analyzing the nucleotide sequence of the target site. 
+ 
+   
+ 
+   T l T l 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   Ejemplo 4: Medición de la actividad enzimática de aspartato cinasa en la cepa que tiene el codón de inicio ATG sustituido en el gen  lysC   Example 4: Measurement of the enzymatic activity of aspartate kinase in the strain having the ATG start codon substituted in the  lysC  gene 
+ 
+ 
+   
+ 
+   Las células en la fase exponencial se recogieron por centrifugación (5000 rpm, 15 minutos) y se lavaron tres veces con tampón Tris.HCl al 0,1 % (pH 8,0), y después se suspendieron en el mismo tampón para una turbidez a 610 nm de 160. Las células se disgregaron durante 6 minutos usando una batidora de microesferas después de añadir microesferas de vidrio a 1,25 g/1,5 ml de la suspensión. El sobrenadante se recogió por centrifugación (15000 rpm, 20 minutos), y se midió cuantitativamente para el contenido de proteína mediante un método de Bradford (Bradford, M.M 1976. Anal. Biochem. 72:248-254) y se usó como solución de proteína en bruto para medir la actividad enzimática de aspartato cinasa (LysC). Para cuantificar la actividad enzimática de LysC, se añadieron aproximadamente 0,05 ml de la solución de proteína en bruto a una solución de reacción que contenía Tris.HCl 0,1 M (pH 8,0), cloruro de magnesio (MgCh) 0,01 M, hidroxilamina.HCl 0,6 M (pH 7,0), ATP 4 mM y aspartato 0,2 M para iniciar la reacción. Se permitió que la mezcla reaccionara a 30 0C durante 30 minutos, y se añadió una solución de parada (FeCl2 al 10 %, TCA al 3,3 %, HCl 0,7 N) para terminar la reacción. El sobrenadante se recogió por centrifugación y se midió la absorbancia a 540 nm. La unidad (U) de la actividad enzimática de LysC se definió como nanomoles de hidroxamato aspartato producidos por 1 mg de proteína durante 1 minuto. The cells in the exponential phase were collected by centrifugation (5000 rpm, 15 minutes) and washed three times with 0.1% Tris.HCl buffer (pH 8.0), and then suspended in the same buffer for turbidity at 610 nm of 160. The cells were disrupted for 6 minutes using a microsphere beater after adding glass microspheres at 1.25 g / 1.5 ml of the suspension. The supernatant was collected by centrifugation (15000 rpm, 20 minutes), and quantitatively measured for protein content by a Bradford method (Bradford, MM 1976. Anal. Biochem. 72: 248-254) and used as a crude protein to measure the enzymatic activity of aspartate kinase (LysC). To quantify the enzymatic activity of LysC, approximately 0.05 ml of the crude protein solution was added to a reaction solution containing 0.1 M Tris.HCl (pH 8.0), magnesium chloride (MgCh) 0 , 01 M, 0.6 M hydroxylamine.HCl (pH 7.0), 4 mM ATP and 0.2 M aspartate to initiate the reaction. The mixture was allowed to react at 30 ° C for 30 minutes, and a stop solution (10% FeCl 2, 3.3% TCA, 0.7 N HCl) was added to terminate the reaction. The supernatant was collected by centrifugation and the absorbance at 540 nm was measured. The unit (U) of the enzymatic activity of LysC was defined as nanomoles of hydroxamate aspartate produced by 1 mg of protein for 1 minute. 
+ 
+   
+ 
+   Se observó que la cepa KCCM11016P-lysC tiene actividad LysC 2,73 veces mayor que la de la cepa precursora KCCM11016P (tabla 4). It was observed that strain KCCM11016P-lysC has LysC activity 2.73 times greater than that of precursor strain KCCM11016P (Table 4). 
+ 
+   
+ 
+   T l 4 T l 4 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   Ejemplo 5: Medición de actividad enzimática de transcetolasa en la cepa que tiene el codón de inicio ATG sustituido en el gen  tkt   Example 5: Measurement of transketolase enzymatic activity in the strain having the ATG start codon substituted in the  tkt  gene 
+ 
+ 
+   
+ 
+   Las células en la fase exponencial se recogieron por centrifugación (5000 rpm, 15 minutos) y se lavaron tres veces con tampón Tris.HCl al 0,1 % (pH 7,5), y después se suspendieron en el mismo tampón para una turbidez a 610 nm de 160. Las células se disgregaron durante 6 minutos usando una batidora de microesferas después de añadir microesferas de vidrio a 1,25 g/1,5 ml de la suspensión. El sobrenadante se recogió por centrifugación (15000 rpm, 20 minutos), y se midió cuantitativamente para el contenido de proteína mediante un método de Bradford y se usó como solución de proteína en bruto para medir la actividad enzimática de transcetolasa (Tkt). Para cuantificar la actividad enzimática de Tkt, la solución de proteína en bruto se añadió a una solución de reacción que contenía Tris.HCl 0,1 M (pH 7,5), D-R5P 10 mM, D-Xu5P 2 mM, ThDP 10 pM, MgCl2 1,2 mM, NADH 100 pM, 1 unidad de triosafosfato isomerasa, 1 unidad de glicerol-3-fosfato deshidrogenasa por 1 ml para iniciar la reacción. Se permitió que la mezcla reaccionara a 30 0C durante 20~30 minutos, y se midió la absorbancia a 340 nm. La unidad (U) de la actividad enzimática de Tkt se definió como la cantidad (mg) de la enzima que cataliza la producción de 1 pmol de gliceraldehído 3-fosfato durante 1 minuto, y la actividad específica se definió como unidades/mg (Biochem.J. (2004)382, 759-767). The cells in the exponential phase were collected by centrifugation (5000 rpm, 15 minutes) and washed three times with 0.1% Tris.HCl buffer (pH 7.5), and then suspended in the same buffer for turbidity at 610 nm of 160. The cells were disrupted for 6 minutes using a microsphere beater after adding glass microspheres at 1.25 g / 1.5 ml of the suspension. The supernatant was collected by centrifugation (15,000 rpm, 20 minutes), and quantitatively measured for protein content by a Bradford method and used as a crude protein solution to measure the enzymatic activity of transketolase (Tkt). To quantify the Tkt enzymatic activity, the crude protein solution was added to a reaction solution containing 0.1 M Tris.HCl (pH 7.5), 10 mM D-R5P, 2 mM D-Xu5P, ThDP 10 pM, 1.2 mM MgCl 2, 100 pM NADH, 1 unit of triosephosphate isomerase, 1 unit of glycerol-3-phosphate dehydrogenase per 1 ml to initiate the reaction. The mixture was allowed to react at 30 ° C for 20 ~ 30 minutes, and the absorbance at 340 nm was measured. The unit (U) of Tkt enzymatic activity was defined as the amount (mg) of the enzyme that catalyses the production of 1 pmol of glyceraldehyde 3-phosphate for 1 minute, and the specific activity was defined as units / mg (Biochem .J (2004) 382, 759-767). 
+ 
+   
+ 
+   Se observó que la cepa KCCM11016P-tkt tiene actividad Tkt 3,5 veces mayor que la de la cepa precursora KCCM11016P (tabla 5). 
+ It was observed that the KCCM11016P-tkt strain has Tkt activity 3.5 times higher than that of the precursor strain KCCM11016P (Table 5).  
+ 
+ 
+   T l 1 T l 1 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   Ejemplo 6: Medición de la actividad enzimática de piruvato carboxilasa en la cepa que tiene el codón de inicio ATG sustituido en el gen  pyc   Example 6: Measurement of the enzymatic activity of pyruvate carboxylase in the strain having the ATG start codon substituted in the  pyc  gene 
+ 
+ 
+   
+ 
+   Las células en la fase exponencial se recogieron por centrifugación (5000 rpm, 15 minutos) y se lavaron dos veces con tampón Tris.HCl 50 mM (pH 6,3) que contenía cloruro de sodio (NaCl) 50 mM, y después se suspendieron en tampón HEPES 100 mM (pH 7,5) que contenía glicerol al 20 %. Se añadió CTAB a la suspensión hasta una concentración de un 0,3 %, y se dejó en hielo durante 1 minuto. Las células se recogieron por centrifugación (5000 rpm, 10 minutos) y después se suspendieron tampón Tris.HCl 100 mM (pH 7,3). El contenido de proteína se midió cuantitativamente mediante un método de Bradford y se usó como una solución de proteína en bruto para medir la actividad enzimática de piruvato carboxilasa (Pyc). Para cuantificar la actividad enzimática de Pyc, la solución de proteína en bruto se añadió a una solución de reacción que contenía NaHCO325 mM, MgCl25 mM, piruvato 3 mM y ATP 4 mM para iniciar la reacción. Se permitió que la mezcla reaccionara a 30 0C durante 1,5 minutos, y se añadieron 80 pl de una solución de parada (ácido o-fosfórico al 30 %) para terminar la reacción. El sobrenadante se recogió por centrifugación (12000 rpm, 15 min, 4 °C). Se añadieron 50 pl del sobrenadante, Tris.HCl 150 mM (pH 7,8), NADH 150 pM y 2,5 U de lactato deshidrogenasa por 1 ml y se midió la absorbancia a 340 a 37 0C. La unidad (U) de la actividad enzimática de Pyc se definió como nanomoles del lactato producidos por 1 mg de proteína durante 1 minuto.  The cells in the exponential phase were collected by centrifugation (5000 rpm, 15 minutes) and washed twice with 50 mM Tris.HCl buffer (pH 6.3) containing 50 mM sodium chloride (NaCl), and then suspended. in 100 mM HEPES buffer (pH 7.5) containing 20% glycerol. CTAB was added to the suspension to a concentration of 0.3%, and left on ice for 1 minute. The cells were harvested by centrifugation (5000 rpm, 10 minutes) and then 100 mM Tris.HCl buffer (pH 7.3) was suspended. The protein content was measured quantitatively by a Bradford method and used as a crude protein solution to measure the enzymatic activity of pyruvate carboxylase (Pyc). To quantify the enzymatic activity of Pyc, the crude protein solution was added to a reaction solution containing 25 mM NaHCO3, 25 mM MgCl, 3 mM pyruvate and 4 mM ATP to initiate the reaction. The mixture was allowed to react at 30 ° C for 1.5 minutes, and 80 μl of a stop solution (30% o-phosphoric acid) was added to terminate the reaction. The supernatant was collected by centrifugation (12000 rpm, 15 min, 4 ° C). 50 μl of the supernatant, 150 mM Tris.HCl (pH 7.8), 150 pM NADH and 2.5 U of lactate dehydrogenase per 1 ml were added and the absorbance was measured at 340 at 37 ° C. The unit (U) of the enzymatic activity of Pyc was defined as nanomoles of the lactate produced by 1 mg of protein for 1 minute. 
+ 
+ 
+   Se observó que la cepa KCCM11016P-pyc tenía actividad Pyc 1,89 veces mayor que la de la cepa precursora KCCM11016P (tabla 6). It was observed that the KCCM11016P-pyc strain had Pyc activity 1.89 times higher than that of the precursor strain KCCM11016P (Table 6). 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   Ejemplo  7:  Desarrollo de cepas derivadas de KCCM11016P que tienen codones de inicio ATG sustituidos en dos o más genes entre los genes  IvsC.  tkt y  pyc   Example  7:  Development of strains derived from KCCM11016P having ATG start codons substituted on two or more genes among the  IvsC  genes  .  tkt and  pyc   
+ 
+ 
+   
+ 
+   Como vectores recombinantes, se usaron pDZ-lysC(ATG) pDZ-tkt(ATG) pDZ-pyc(ATG) preparados en los ejemplos 1,2 y 3, y el proceso de preparación es el siguiente. As recombinant vectors, pDZ-lysC (ATG) pDZ-tkt (ATG) pDZ-pyc (ATG) prepared in Examples 1, 2 and 3 were used, and the preparation process is as follows. 
+ 
+   
+ 
+   El vector pDZ-tkt(ATG) se transformó en KCCM11016P-lysC del ejemplo 1, en que el codón de inicio GTG de  lysC  estaba sustituido con ATG, y mediante un segundo cruce, se sustituyeron los codones de inicio de  lysC  y  tkt  en el cromosoma con ATG para obtener KCCM11016P-lysC-tkt. La sustitución de nucleótidos del codón de inicio en la cepa seleccionada se confirmó finalmente por PCR usando los cebadores de las SEQ ID NO. 5 y 8 y después analizando la secuencia de nucleótidos del sitio diana. The vector pDZ-tkt (ATG) was transformed into KCCM11016P-lysC from Example 1, in which the GTG start codon of  lysC  was substituted with ATG, and by a second crossing, the start codons of  lysC  and  tkt were replaced  in the chromosome with ATG to obtain KCCM11016P-lysC-tkt. The nucleotide substitution of the start codon in the selected strain was finally confirmed by PCR using the primers of SEQ ID NO. 5 and 8 and then analyzing the nucleotide sequence of the target site. 
+ 
+   
+ 
+   De la misma manera que en el ejemplo 1, el vector pDZ-pyc (ATG) se transformó en KCCM11016P-lysC del ejemplo 1, en que el codón de inicio GTG de  lysC  estaba sustituido con ATG, y mediante un segundo cruce, los codones de inicio de  lysC  y  pyc  en el cromosoma se sustituyeron con ATG para obtener KCCM11016P-lysC-pyc. La sustitución de nucleótidos del codón de inicio en la cepa seleccionada se confirmó finalmente por PCR usando los cebadores de las SEQ ID NO. 9 y 12 y después analizando la secuencia de nucleótidos del sitio diana. In the same manner as in Example 1, the vector pDZ-pyc (ATG) was transformed into KCCM11016P-lysC from Example 1, in which the GTG start codon of  lysC  was substituted with ATG, and by a second crossing, the codons Start of  lysC  and  pyc  on the chromosome were replaced with ATG to obtain KCCM11016P-lysC-pyc. The nucleotide substitution of the start codon in the selected strain was finally confirmed by PCR using the primers of SEQ ID NO. 9 and 12 and then analyzing the nucleotide sequence of the target site. 
+ 
+   
+ 
+   El vector pDZ-tkt(ATG) se transformó en KCCM11016P-lysC-pyc del presente ejemplo, en que el codón de inicio GTG de  lysC  y  pyc  está sustituido con ATG, y mediante un segundo cruce, se sustituyeron los codones de inicio de  lysC, pyc  y  tkt  en el cromosoma con ATG para obtener KCCM11016P-lysC-pyc-tkt. La sustitución de nucleótidos del codón de inicio en la cepa seleccionada se confirmó finalmente por PCR usando los cebadores de las SEQ ID NO. 5 y 8 y después analizando la secuencia de nucleótidos del sitio diana. The vector pDZ-tkt (ATG) was transformed into KCCM11016P-lysC-pyc of the present example, in which the GTG start codon of  lysC  and  pyc  is substituted with ATG, and by a second crossing, the start codons of  lysC  were replaced.  , pyc  and  tkt  on the chromosome with ATG to obtain KCCM11016P-lysC-pyc-tkt. The nucleotide substitution of the start codon in the selected strain was finally confirmed by PCR using the primers of SEQ ID NO. 5 and 8 and then analyzing the nucleotide sequence of the target site. 
+ 
+   
+ 
+   Las combinaciones anteriores de los genes son con fines ilustrativos únicamente. 
+ The above combinations of the genes are for illustrative purposes only.  
+ 
+ 
+ 
+   Ejemplo 8: Producción de lisina en la cepa que tiene el codón de inicio ATG sustituido Example 8: Production of lysine in the strain having the ATG start codon substituted 
+ 
+ 
+   
+ 
+   Se cultivaron KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc, KCCM11016P-lysC-pyc-tkt preparados finalmente en los ejemplos 1, 2, 3 y 7 para la producción de L-lisina mediante el siguiente método. KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc, KCCM11016P-lysC-pyc-tkt finally prepared in examples 1, 2, 3 and 7 for the production of L were grown. -line by the following method. 
+ 
+   
+ 
+   Las cepas precursoras KCCM11016P y KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc, KCCM11016P-lysC-pyc-tkt se inocularon en los respectivos matraces con deflectores en ángulo de 250 ml que contenían 25 ml del medio de siembra descrito a continuación, y el resultante se cultivó a 30 0C con agitación a 200 rpm durante 20 horas. Se inoculó 1 ml del caldo de cultivo de siembra resultante en un matraz con deflectores en ángulo de 250 ml que contenía 24 ml del medio de producción descrito a continuación, y se cultivaron a 30 0C con agitación (200 rpm) durante 120 horas. The precursor strains KCCM11016P and KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc, KCCM11016P-lysC-pyc-tkt were inoculated into respective flasks with angled baffles of 250 ml which contained 25 ml of the seed medium described below, and the resultant was cultured at 30 ° C with shaking at 200 rpm for 20 hours. 1 ml of the resulting seed culture broth was inoculated into a 250 ml angle baffled flask containing 24 ml of the production medium described below, and cultured at 30 ° C with shaking (200 rpm) for 120 hours. 
+ 
+   
+ 
+   Después de completarse el cultivo, se midió la cantidad de L-lisina producida por HPLC. Los resultados de medir la L-lisina en los caldos de cultivo de KCCM11016P y KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc, KCCM11016P-lysC-pyc-tkt se muestran en la siguiente tabla 7. After completion of the culture, the amount of L-lysine produced by HPLC was measured. The results of measuring L-lysine in the culture broths of KCCM11016P and KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt, KCCM11016P-lysC-pyc, KCCM11016P-lysC-pyc-tkt are shown in The following table 7. 
+ 
+   
+ 
+   T l 7 T l 7 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   Medio de siembra (pH 7,0) Sowing medium (pH 7.0) 
+ 
+ 
+   
+ 
+   20 g de azúcar sin procesar, 10 g de peptona, 5 g de extracto de levadura, 1,5 g de urea, 4 g de KH2PO4, 8 g de K2HPO4, 0,5 g de MgSO47 H2O, 100 pg de biotina, 1000 pg de tiamina-HCl, 2000 pg de pantotenato de calcio, 2000 pg de nicotinamida (en 1 litro de agua destilada) 20 g of raw sugar, 10 g of peptone, 5 g of yeast extract, 1.5 g of urea, 4 g of KH2PO4, 8 g of K2HPO4, 0.5 g of MgSO47 H2O, 100 pg of biotin, 1000 pg of thiamine-HCl, 2000 pg of calcium pantothenate, 2000 pg of nicotinamide (in 1 liter of distilled water) 
+ 
+   
+ 
+ 
+   Medio de producción (pH 7,0) Production medium (pH 7.0) 
+ 
+ 
+   
+ 
+   100 g de glucosa, 40 g de (NH4)2SO4, 2,5 g de proteína de soja, 5 g de sólidos de macerado del maíz, 3 g de urea, 1 g de KH2PO4, 0,5 g de MgSO4 7 H2O, 100 pg de biotina, 1000 pg de tiamina-HCl, 2000 pg de pantotenato de calcio, 3000 pg de nicotinamida, 30 g de CaCO3 (en 1 litro de agua destilada) 100 g of glucose, 40 g of (NH4) 2SO4, 2.5 g of soy protein, 5 g of macerated corn solids, 3 g of urea, 1 g of KH2PO4, 0.5 g of MgSO4 7 H2O, 100 pg of biotin, 1000 pg of thiamine-HCl, 2000 pg of calcium pantothenate, 3000 pg of nicotinamide, 30 g of CaCO3 (in 1 liter of distilled water) 
+ 
+   
+ 
+   Como se muestra en la tabla 7,  Corynebacterium glutamicum  KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt y KCCM11016P-lysC-pyc que tienen el codón de inicio ATG sustituido mostraban un aumento de un 4~9 % en la productividad de L-lisina, en comparación con la cepa precursora KCCM11016P. En particular, se descubrió que KCCM11016P-lysC-pyc-tkt en la que se han introducido los tres genes mostraba un aumento en la productividad de L-lisina tan elevada como de un 12 %, en comparación con la cepa precursora KCCM11016P. As shown in Table 7,  Corynebacterium glutamicum  KCCM11016P-lysC, KCCM11016P-tkt, KCCM11016P-pyc, KCCM11016P-lysC-tkt and KCCM11016P-lysC-pyc having the ATG-substituted start codon showed an increase of 4 ~ 9% in the productivity of L-lysine, compared to the precursor strain KCCM11016P. In particular, it was found that KCCM11016P-lysC-pyc-tkt into which all three genes were introduced showed an increase in L-lysine productivity as high as 12%, compared to the KCCM11016P precursor strain. 
+ 
+   
+ 
+ 
+   Ejemplo 9: Desarrollo de cepa derivada de KFCC10750 que tiene codones de inicio ATG sustituidos en los genes  lysC, tkt,  y  pyc  y comparación de la productividad de lisina Example 9: Development of strain derived from KFCC10750 having substituted ATG start codons in the  lysC, tkt,  and  pyc genes  and comparison of lysine productivity 
+ 
+ 
+   
+ 
+   Para examinar si la sustitución de los codones de inicio con ATG en los genes  lysC, pyc  y  tkt  también afecta a la productividad de lisina en otras cepas productoras de lisina que pertenecen a  Corynebacterium glutamicum,  se introdujeron los tres genes en la cepa productora de L-lisina  Corynebacterium glutamicum  KFCC10750 (patente coreana n.° 10-0073610), que mostró el mejor efecto de todos de aumento de la productividad de lisina en el ejemplo 8 para preparar una cepa recombinante, que se llamó KFCC10750-lysC-pyc-tkt. La cepa se cultivó de la misma manera que en el ejemplo 8 y se analizó la concentración de L-lisina (tabla 8). 
+ To examine whether the replacement of the start codons with ATG in the  lysC, pyc  and  tkt genes  also affects lysine productivity in other lysine-producing strains belonging to  Corynebacterium glutamicum,  all three genes were introduced into the L-producing strain. -Line  Corynebacterium glutamicum  KFCC10750 (Korean Patent No. 10-0073610), which showed the best effect of all of lysine productivity increase in Example 8 to prepare a recombinant strain, which was called KFCC10750-lysC-pyc-tkt . The strain was cultured in the same manner as in Example 8 and the concentration of L-lysine was analyzed (Table 8).  
+ 
+ 
+   T l 1 T l 1 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   Como se muestra en la tabla 8,  Corynebacteríum glutamicum  KFCC10750-lysC-pyc-tkt con los tres genes introducidos mostró un aumento de un 15 % en la productividad de lisina, en comparación con la cepa precursora KFCC10750. As shown in Table 8,  Corynebacterium glutamicum  KFCC10750-lysC-pyc-tkt with the three genes introduced showed a 15% increase in lysine productivity, compared to the KFCC10750 precursor strain. 
+ 
+ 
+ 
+   Ejemplo 10: Desarrollo de cepa derivada de KCCM10770P que tiene codones de inicio ATG sustituidos en los genes  lysC, tkt, pyc  y comparación de la productividad de lisina Example 10: Development of strain derived from KCCM10770P having substituted ATG start codons in the  lysC, tkt, pyc genes  and comparison of lysine productivity 
+ 
+ 
+ 
+   Se introdujeron los tres genes en otra cepa productora de L-lisina  Corynebacteríum glutamicum  KCCM10770P (patente coreana n.° 10-0924065), que mostró el mejor efecto de todos de aumento de la productividad de lisina en el ejemplo 8 para preparar una cepa recombinante, que se llamó KCCM10770P-lysC-pyc-tkt. La cepa se cultivó de la misma manera que en el ejemplo 8 y se analizó la concentración de L-lisina (tabla 9). All three genes were introduced into another L-lysine producing strain  Corynebacterium glutamicum  KCCM10770P (Korean patent No. 10-0924065), which showed the best effect of all of the increase in lysine productivity in example 8 to prepare a recombinant strain , which was called KCCM10770P-lysC-pyc-tkt. The strain was cultured in the same manner as in Example 8 and the concentration of L-lysine was analyzed (Table 9). 
+ 
+ 
+   T l 1 T l 1 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   Como se muestra en la tabla 9,  Corynebacteríum glutamicum  KCCM10770P-lysC-pyc-tkt con los tres genes introducidos mostró un aumento de un 11 % en la productividad de lisina, en comparación con la cepa precursora KCCM10770P. As shown in Table 9,  Corynebacterium glutamicum  KCCM10770P-lysC-pyc-tkt with the three genes introduced showed an increase of 11% in lysine productivity, compared to the precursor strain KCCM10770P. 
+ 
+ 
+ 
+   Ejemplo 11: Desarrollo de cepa derivada de CJ3P que tiene codones de inicio ATG sustituidos en los genes  lysC, tkt, pyc  y comparación de la productividad de lisina Example 11: Development of strain derived from CJ3P having substituted ATG start codons in the  lysC, tkt, pyc genes  and comparison of lysine productivity 
+ 
+ 
+ 
+   Se introdujeron los tres genes en otra cepa productora de L-lisina más  Corynebacteríum glutamicum  CJ3P (Binder et al., Genome Biology 2012, 13:R40) que mostró el mejor efecto de todos de aumento de la productividad de lisina en el ejemplo 8 para preparar una cepa recombinante, que se llamó CJ3P-lysC-pyc-tkt. La cepa se cultivó de la misma manera que en el ejemplo 8 y se analizó la concentración de L-lisina (tabla 10). All three genes were introduced into another L-lysine producing strain plus  Corynebacterium glutamicum  CJ3P (Binder et al., Genome Biology 2012, 13: R40) which showed the best effect of all of lysine productivity increase in example 8 for prepare a recombinant strain, which was named CJ3P-lysC-pyc-tkt. The strain was cultured in the same manner as in Example 8 and the concentration of L-lysine was analyzed (Table 10). 
+ 
+ 
+   T l 1 T l 1 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   Como se muestra en la tabla 10,  Corynebacteríum glutamicum  CJ3P-lysC-pyc-tkt con los tres genes introducidos mostró un aumento de un 18 % en la productividad de lisina, en comparación con la cepa precursora CJ3P. As shown in Table 10,  Corynebacterium glutamicum  CJ3P-lysC-pyc-tkt with the three genes introduced showed an 18% increase in lysine productivity, compared to the CJ3P precursor strain. 
+ 
+ 
+ 
+   Efecto Effect 
+ 
+ 
+ 
+   La presente divulgación proporciona un microorganismo de  Corynebacterium  sp. que tiene productividad mejorada de L-lisina, en que los codones de inicio de uno o más genes que codifican aspartato cinasa, transcetolasa o piruvato carboxilasa están sustituidos para potenciar las actividades de las enzimas correspondientes, en comparación con sus actividades endógenas en un microorganismo natural. The present disclosure provides a microorganism of  Corynebacterium  sp. having improved productivity of L-lysine, in which the start codons of one or more genes encoding aspartate kinase, transketolase or pyruvate carboxylase are substituted to enhance the activities of the corresponding enzymes, compared to their endogenous activities in a natural microorganism . 
+ 
+ 
+   <110> CJ CheilJedang Corporation <110> CJ CheilJedang Corporation 
+ 
+ 
+   <120> Método de producción de L-lisina usando microorganismo que tienen capacidad de producir L-lisina <130> OPA12190/PCT 
+ <120> Production method of L-lysine using microorganisms that have the capacity to produce L-lysine <130> OPA12190 / PCT  
+ 
+ 
+   <150> KR10-2011 -0139527 <150> KR10-2011 -0139527 
+ 
+ 
+   <151 > 21/12/2011 <151> 12/21/2011 
+ 
+ 
+   <160> 18 <160> 18 
+ 
+ 
+   <170> KopatentIn 1.71 <170> KopatentIn 1.71 
+ 
+ 
+   <210> 1 <210> 1 
+ 
+ 
+   <211> 36 <211> 36 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador lysC/ATG/FX <223> lysC / ATG / FX primer 
+ 
+ 
+   <400> 1 <400> 1 
+ 
+ 
+   ccggggatcc tctagactta gggagccatc ttttgg 36 <210 > 2 ccggggatcc tctagactta gggagccatc ttttgg 36 <210> 2 
+ 
+ 
+   <211 > 18 <211> 18 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador lysC/ATG/R <223> lysC / ATG / R primer 
+ 
+ 
+   <400> 2 <400> 2 
+ 
+ 
+   ccagggccat ctttgtgc 18 ccagggccat ctttgtgc 18 
+ 
+ 
+   <210 > 3 <210> 3 
+ 
+ 
+   <211 > 18 <211> 18 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador lysC/ATG/F <223> lysC / ATG / F primer 
+ 
+ 
+   <400> 3 <400> 3 
+ 
+ 
+   gcacaaagat ggccctgg 18 gcacaaagat ggccctgg 18 
+ 
+ 
+   <210 > 4 <210> 4 
+ 
+ 
+   <211> 36 <211> 36 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador lysC/ATG/RX <223> lysC / ATG / RX primer 
+ 
+ 
+   <400> 4 <400> 4 
+ 
+ 
+   gcaggtcgac tctagaagtg acatcaacaa tgcgtg 36 <210 > 5 gcaggtcgac tctagaagtg acatcaacaa tgcgtg 36 <210> 5 
+ 
+ 
+   <211> 36 <211> 36 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador tkt/ATG/FX <223> tkt / ATG / FX primer 
+ 
+ 
+   <400> 5 <400> 5 
+ 
+ 
+   ccggggatcc tctagagaaa tagatgggtg tagacg 36 <210 > 6 ccggggatcc tctagagaaa tagatgggtg tagacg 36 <210> 6 
+ 
+ 
+   <211> 23 <211> 23 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial 
+ <213> Artificial sequence  
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador tkt/ATG/R4 <223> tkt / ATG / R4 primer 
+ 
+ 
+   <400> 6 <400> 6 
+ 
+ 
+   gtgacagcgt catggtggtc aat 23 gtgacagcgt catggtggtc aat 23 
+ 
+ 
+   <210 > 7 <210> 7 
+ 
+ 
+   <211> 23 <211> 23 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador tkt/ATG/F4 <223> tkt / ATG / F4 primer 
+ 
+ 
+   <400> 7 <400> 7 
+ 
+ 
+   attgaccacc atgacgctgt cac 23 attgaccacc atgacgctgt cac 23 
+ 
+ 
+   <210 > 8 <210> 8 
+ 
+ 
+   <211> 36 <211> 36 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador tkt/ATG/RX <223> tkt / ATG / RX primer 
+ 
+ 
+   <400> 8 <400> 8 
+ 
+ 
+   gcaggtcgac tctagacgca gagccttcag gtcatc 36 <210 > 9 gcaggtcgac tctagacgca gagccttcag gtcatc 36 <210> 9 
+ 
+ 
+   <211> 36 <211> 36 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador pyc/ATG/FX <223> pyc / ATG / FX primer 
+ 
+ 
+   <400> 9 <400> 9 
+ 
+ 
+   ccggggatcc tctagatttt ggggaaaagt gcaaag 36 <210> 10 ccggggatcc tctagatttt ggggaaaagt gcaaag 36 <210> 10 
+ 
+ 
+   <211> 19 <211> 19 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador pyc/ATG/R <223> pyc / ATG / R primer 
+ 
+ 
+   <400> 10 <400> 10 
+ 
+ 
+   gagtcgacat tagagtaat 19 gagtcgacat tagagtaat 19 
+ 
+ 
+   <210> 11 <210> 11 
+ 
+ 
+   <211 > 19 <211> 19 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador pyc/ATG/F <223> pyc / ATG / F primer 
+ 
+ 
+   <400> 11 <400> 11 
+ 
+ 
+   attactctaa tgtcgactc 19 attactctaa tgtcgactc 19 
+ 
+ 
+   <210> 12 <210> 12 
+ 
+ 
+   <211> 36 <211> 36 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial 
+ <213> Artificial sequence  
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> cebador pyc/ATG/RX <223> pyc / ATG / RX primer 
+ 
+ 
+   <400> 12 <400> 12 
+ 
+ 
+   gcaggtcgac tctagagggc attttcagac aggaag 36 gcaggtcgac tctagagggc attttcagac aggaag 36 
+ 
+ 
+   <210> 13 <210> 13 
+ 
+ 
+   <211> 1266 <211> 1266 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> lysC de  Corynebacterium glutamicum   <213> lysC of  Corynebacterium glutamicum   
+ 
+ 
+   <400> 13 <400> 13 
+ 
+   
+ 
+ 
+   gtggccctgg tcgtacagaa atatggcggt tcctcgcttg agagtgcgga acgcattaga 60 aacgtcgctg aacggatcgt tgccaccaag aaggctggaa atgatgtcgt ggttgtctgc 120 tccgcaatgg gagacaccac ggatgaactt ctagaacttg cagcggcagt gaatcccgtt 180 ccgccagctc gtgaaatgga tatgctcctg actgctggtg agcgtatttc taacgctctc 240 gtcgccatgg ctattgagtc ccttggcgca gaagcccaat ctttcacggg ctctcaggct 300 ggtgtgctca ccaccgagcg ccacggaaac gcacgcattg ttgatgtcac tccaggtcgt 360 gtgcgtgaag cactcgatga gggcaagatc tgcattgttg ctggtttcca gggtgttaat 420 gtggccctgg tcgtacagaa atatggcggt tcctcgcttg agagtgcgga acgcattaga 60 aacgtcgctg aacggatcgt tgccaccaag aaggctggaa atgatgtcgt ggttgtctgc 120 tccgcaatgg gagacaccac ggatgaactt ctagaacttg cagcggcagt gaatcccgtt 180 ccgccagctc gtgaaatgga tatgctcctg actgctggtg agcgtatttc taacgctctc 240 gtcgccatgg ctattgagtc ccttggcgca gaagcccaat ctttcacggg ctctcaggct 300 ggtgtgctca ccaccgagcg ccacggaaac gcacgcattg ttgatgtcac tccaggtcgt 360 gtgcgtgaag cactcgatga gggcaagatc tgcattgttg ctggtttcca gggtgttaat 420 
+ 
+ 
+   
+ 
+     aaagaaaccc gcgatgtcac cacgttgggt cgtggtggtt ctgacaccac tgcagttgcg 480 ttggcagctg ctttgaacgc tgatgtgtgt gagatttact cggacgttga cggtgtgtat 540 accgctgacc cgcgcatcgt tcctaatgca cagaagctgg aaaagctcag cttcgaagaa 600 atgctggaac ttgctgctgt tggctccaag attttggtgc tgcgcagtgt tgaatacgct 660 cgtgcattca atgtgccact tcgcgtacgc tcgtcttata gtaatgatcc cggcactttg 720 attgccggct ctatggagga tattcctgtg gaagaagcag tccttaccgg tgtcgcaacc 780 gaoaagtccg aagccaaagt aaccgttctg ggtatttccg ataagccagg cgaggctgcg 840 aaggttttcc gtgcgttggc tgatgcagaa atcaacattg acatggttct gcagaacgtc 900 tcttctgtag aagacggcac caccgacatc accttcacct gccctcgttc cgacggccgc 960 cgcgcgatgg agatcttgaa gaagcttcag gttcagggca actggaccaa tgtgctttac 1020 gacgaccagg tcggcaaagt ctccctcgtg ggtgctggca tgaagtctca cccaggtgtt 1080 accgcagagt tcatggaagc tctgcgcgat gtcaacgtga acatcgaatt gatttccacc 1140 tctgagattc gtatttccgt gctgatccgt gaagatgatc tggatgctgc tgcacgtgca 1200 ttgcatgagc agttccagct gggcggcgaa gacgaagccg tcgtttatgc aggcaccgga 1260 cgctaa 1266  <210> 14   aaagaaaccc gcgatgtcac cacgttgggt cgtggtggtt ctgacaccac tgcagttgcg 480 ttggcagctg ctttgaacgc tgatgtgtgt gagatttact cggacgttga cggtgtgtat 540 accgctgacc cgcgcatcgt tcctaatgca cagaagctgg aaaagctcag cttcgaagaa 600 atgctggaac ttgctgctgt tggctccaag attttggtgc tgcgcagtgt tgaatacgct 660 cgtgcattca atgtgccact tcgcgtacgc tcgtcttata gtaatgatcc cggcactttg 720 attgccggct ctatggagga tattcctgtg gaagaagcag tccttaccgg tgtcgcaacc 780 gaoaagtccg aagccaaagt aaccgttctg ggtatttccg ataagccagg cgaggctgcg 840 aaggttttcc gtgcgttggc tgatgcagaa atcaacattg acatggttct gcagaacgtc 900 tcttctgtag aagacggcac caccgacatc accttcacct gccctcgttc cgacggccgc 960 cgcgcgatgg agatcttgaa gaagcttcag gttcagggca actggaccaa tgtgctttac 1020 gacgaccagg tcggcaaagt ctccctcgtg tgaagtctca ggtgctggca cccaggtgtt 1080 accgcagagt tcatggaagc tctgcgcgat gtcaacgtga acatcgaatt gatttccacc 1140 tctgagattc gtatttccgt gctgatccgt gaagatgatc tggatgctgc tgcacgtgca 1200 ttgcatgagc agttccagct gggcggcgaa gacgaagccg tcgtttatgc aggcaccgga 1260 cgctaa 1266  <21 0> 14 
+ 
+ 
+   <211> 2094 <211> 2094 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> tkt de  Corynebacterium glutamicum   <213>  Corynebacterium glutamicum  tkt 
+ 
+ 
+   <400> 14 
+ <400> 14  
+ 
+ 
+ 
+   ttgacgctgt cacctgaact tcaggcgctc actgtacgca attacccctc tgattggtcc 60 gatgtggaca ccaaggctgt agacactgtt cgtgtcctcg ctgcagacgc tgtagaaaac 120 tgtggctccg gccacccagg caccgcaatg agcctggctc cccttgcata eaecttgtac 180 cagcgggtta tgaacgtaga tccacaggac accaactggg caggccgtga ccgcttcgtt 240 ctttcttgtg gccactcctc tttgacccag tacatccagc tttacttggg tggattcggc 300 cttgagatgg atgacctgaa ggctctgcgc acctgggatt ccttgacccc aggacaccct 360 gagtaccgcc acaccaaggg cgttgagatc accactggcc ctcttggcca gggtcttgca 420 tctgcagttg gtatggccat ggctgctcgt cgtgagcgtg gcctattcga cccaaccgct 480 gctgagggcg aatccccatt cgaccaccac atctacgtca ttgcttctga tggtgacctg 540 caggaaggtg tcacctctga ggcatcctcc atcgctggca cccagcagct gggcaacete 600 atcgtgttct gggatgacaa ccgcatctcc atcgaagaca acactgagat cgctttcaac 660 gaggacgttg ttgctcgtta caaggcttac ggctggcaga ccattgaggt tgaggctggc 720 gaggacgttg cagcaatcga agctgcagtg gctgaggcta agaaggacac caagcgacct 780  ttgacgctgt cacctgaact tcaggcgctc actgtacgca attacccctc tgattggtcc 60 gatgtggaca ccaaggctgt agacactgtt cgtgtcctcg ctgcagacgc tgtagaaaac 120 tgtggctccg gccacccagg caccgcaatg agcctggctc cccttgcata eaecttgtac 180 cagcgggtta tgaacgtaga tccacaggac accaactggg caggccgtga ccgcttcgtt 240 ctttcttgtg gccactcctc tttgacccag tacatccagc tttacttggg tggattcggc 300 cttgagatgg atgacctgaa ggctctgcgc acctgggatt ccttgacccc aggacaccct 360 gagtaccgcc acaccaaggg cgttgagatc accactggcc gggtcttgca ctcttggcca 420 tctgcagttg gtatggccat ggctgctcgt cgtgagcgtg gcctattcga cccaaccgct 480 gctgagggcg aatccccatt cgaccaccac atctacgtca ttgcttctga tggtgacctg 540 tcacctctga caggaaggtg ggcatcctcc atcgctggca cccagcagct gggcaacete 600 gggatgacaa atcgtgttct ccgcatctcc atcgaagaca acactgagat cgctttcaac 660 gaggacgttg ttgctcgtta caaggcttac ggctggcaga ccattgaggt tgaggctggc 720 gaggacgttg cagcaatcga agctgcagtg gctgaggcta agaaggacac caagcgacct 780 
+ 
+ 
+   accttcatcc gcgttcgcac catcatcggc ttcccagctc caactatgat gaacaccggt 840 gctgtgcacg gtgctgctct tggcgcagct gaggttgcag caaccaagac tgagcttgga 900 ttcgatcctg aggctcactt cgcgatcgac gatgaggtta tcgctcacac ccgctccctc 960 gcagagcgcg ctgcacagaa gaaggctgca tggcaggtca agttcgatga gtgggcagct 1020 gccaaccctg agaacaaggc tctgttcgat cgcctgaact cccgtgagct tccagcgggc 1080 tacgctgacg agctcccaac atgggatgca gatgagaagg gcgtcgcaac tcgtaaggct 1140 tccgaggctg cacttcaggc actgggcaag acccttcctg agctgtgggg cggttccgct 1200 gacctcgcag gttccaacaa caccgtgatc aagggctccc cttccttcgg ccctgagtcc 1260 atctccaccg agacctggtc tgctgagcct tacggccgta acctgcactt cggtatccgt 1320 gagcacgcta tgggatccat cctcaacggc atttccctcc acggtggcac ccgcccatac 1380 ggcggaacct tcctcatctt ctccgactac atgcgtcctg cagttcgtct tgcagctctc 1440 atggagaccg acgcttacta cgtctggacc cacgactcca tcggtctggg cgaagatggc 1500 ccaacccacc agcctgttga aaccttggct gcactgcgcg ccatcccagg tctgtccgtc 1560 ctgcgtcctg cagatgcgaa cgagaccgcc caggcttggg ctgcagcact tgagtacaag 1620 gaaggcccta agggtcttgc actgacccgc cagaacgttc ctgttctgga aggcaccaag 1680 gagaaggctg ctgaaggcgt tcgccgcggt ggctacgtcc tggttgaggg ttccaaggaa 1740 accccagatg tgatcctcat gggctccggc tccgaggttc agcttgcagt taacgctgcg 1800 aaggctctgg aagctgaggg cgttgcagct cgcgttgttt ccgttccttg catggattgg 1860 ttccaggagc aggacgcaga gtacatcgag tccgttctgc ctgcagctgt gaccgctcgt 1920 gtgtctgttg aagctggcat cgcaatgcct tggtaccgct tcttgggcac ccagggccgt 1980 gctgtctccc ttgagcactt cggtgcttct gcggattacc agaccctgtt tgagaagttc 2040 ggcatcacca ccgatgcagt cgtggcagcg gccaaggact ccattaacgg ttaa 2094 accttcatcc gcgttcgcac catcatcggc ttcccagctc caactatgat gaacaccggt 840 gctgtgcacg gtgctgctct tggcgcagct gaggttgcag caaccaagac tgagcttgga 900 ttcgatcctg aggctcactt cgcgatcgac gatgaggtta tcgctcacac ccgctccctc 960 ctgcacagaa gcagagcgcg tggcaggtca gaaggctgca agttcgatga gtgggcagct 1020 gccaaccctg agaacaaggc tctgttcgat cgcctgaact cccgtgagct tccagcgggc 1080 tacgctgacg agctcccaac atgggatgca gatgagaagg gcgtcgcaac tcgtaaggct 1140 tccgaggctg cacttcaggc actgggcaag acccttcctg agctgtgggg cggttccgct 1200 gacctcgcag gttccaacaa caccgtgatc aagggctccc cttccttcgg ccctgagtcc 1260 atctccaccg agacctggtc tgctgagcct tacggccgta acctgcactt cggtatccgt 1320 gagcacgcta tgggatccat cctcaacggc atttccctcc acggtggcac ccgcccatac 1380 ggcggaacct tcctcatctt ctccgactac atgcgtcctg cagttcgtct tgcagctctc 1440 atggagaccg acgcttacta cgtctggacc cacgactcca tcggtctggg cgaagatggc 1500 ccaacccacc agcctgttga aaccttggct gcactgcgcg ccatcccagg tctgtccgtc 1560 ctgcgtcctg cagatgcgaa cgagaccgcc caggcttggg ctgcagcact tgagtacaag 1620 gaaggccct to agggtcttgc actgacccgc cagaacgttc ctgttctgga aggcaccaag 1680 gagaaggctg ctgaaggcgt tcgccgcggt ggctacgtcc tggttgaggg ttccaaggaa 1740 accccagatg tgatcctcat gggctccggc tccgaggttc agcttgcagt taacgctgcg 1800 aaggctctgg aagctgaggg cgttgcagct cgcgttgttt ccgttccttg catggattgg 1860 ttccaggagc aggacgcaga gtacatcgag tccgttctgc ctgcagctgt gaccgctcgt 1920 gtgtctgttg aagctggcat cgcaatgcct tggtaccgct tcttgggcac ccagggccgt 1980 gctgtctccc ttgagcactt cggtgcttct gcggattacc agaccctgtt tgagaagttc 2040 ggcatcacca ccgatgcagt cgtggcagcg gccaaggact ccattaacgg ttaa 2094 
+ 
+ 
+ 
+   <210> 15 <210> 15 
+ 
+ 
+   <211> 3423 <211> 3423 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> pyc de  Corynebacterium glutamicum   <213> pyc of  Corynebacterium glutamicum   
+ 
+ 
+   <400> 15 <400> 15 
+ 
+   
+ 
+ 
+   gtgtcgactc acacatcttc aacgcttcca gcattcaaaa agatcttggt agcaaaccgc 60 ggcgaaatcg cggtccgtgc tttccgtgca gcactcgaaa ccggtgcagc cacggtagct 120 atttaccccc gtgaagatcg gggatcattc caccgctctt ttgcttctga agctgtccgc 180 attggtaccg aaggctcacc agtcaaggcg tacctggaca tcgatgaaat tatcggtgca 240 gctaaaaaag ttaaagcaga tgccatttac ccgggatacg gcttcctgtc tgaaaatgcc 300 cagcttgccc gcgagtgtgc ggaaaacggc attactttta ttggcccaac cccagaggtt 360  acacatcttc gtgtcgactc aacgcttcca gcattcaaaa agatcttggt agcaaaccgc 60 ggcgaaatcg cggtccgtgc tttccgtgca gcactcgaaa ccggtgcagc cacggtagct 120 atttaccccc gtgaagatcg gggatcattc caccgctctt ttgcttctga agctgtccgc 180 attggtaccg aaggctcacc agtcaaggcg tacctggaca tcgatgaaat tatcggtgca 240 gctaaaaaag ttaaagcaga tgccatttac ccgggatacg gcttcctgtc tgaaaatgcc 300 cagcttgccc gcgagtgtgc ggaaaacggc attactttta ttggcccaac cccagaggtt 360 
+ 
+ 
+   cttgatctca ccggtgataa gtctcgcgcg gtaaccgccg cgaagaaggc tggtctgcca 420 gttttggcgg aatccacccc gagcaaaaac ategatgaga tcgttaaaag cgctgaaggc 480 cagacttacc ccatctttgt gaaggcagtt gccggtggtg gcggacgcgg tatgcgtttt 540 gttgcttcac ctgatgagct tcgcaaatta gcaacagaag catctcgtga agctgaagcg 600 gctttcggcg atggcgcggt atatgtcgaa cgtgctgtga ttaaccctca gcatattgaa 660 gtgcagatcc ttggcgatca cactggagaa gttgtacacc tttatgaacg tgactgctca 720 ctgcagcgtc gtcaccaaaa agttgtcgaa attgcgccag cacagcattt ggatccagaa 780 ctgcgtgatc gcatttgtgc ggatgcagta aagttctgcc gctccattgg ttaccagggc 840 gcgggaaccg tggaattctt ggtcgatgaa aagggcaacc acgtcttcat cgaaatgaac 900 ccacgtatcc aggttgagca caccgtgact gaagaagtca ccgaggtgga cctggtgaag 960 gcgcagatgc gcttggctgc tggtgcaacc ttgaaggaat tgggtctgac ccaagataag 1020 atcaagaecc acggtgcagc actgcagtgc cgcatcacca cggaagatcc aaacaaeggc 1080 ttccgcccag ataccggaac tatcaccgcg taccgctcac caggcggagc tggcgttcgt 1140 cttgacggtg cagcteaget cggtggcgaa atcaccgcae actttgaetc catgctggtg 1200 aaaatgacct gccgtggttc cgactttgaa actgctgttg ctcgtgcaca gcgcgcgttg 1260 gctgagttca ccgtgtctgg tgttgcaacc aacattggtt tcttgcgtgc gttgctgcgg 1320 gaagaggact tcacttccaa gcgcatcgcc accggattca ttgccgatca cccgcacctc 1380 ottcaggctc cacctgctga tgatgagcag ggacgcatcc tggattactt ggcagatgtc 1440 accgtgaaca agcctcatgg tgtgcgtcca aaggatgttg cagctcctat cgataagctg 1500 cctaacatca aggatctgec actgccacgc ggttcccgtg accgcctgaa gcagcttggc 1560 ccagccgcgt ttgctcgtga tctccgtgag caggacgcac tggcagttac tgataccacc 1620 ttccgcgatg cacaccagtc tttgcttgcg acccgagtcc gctcattcgc actgaagcct 1680 gcggcagagg ccgtcgcaaa gctgactcct gagcttttgt ccgtggaggc ctggggcggc 1740 gcgacctacg atgtggcgat gcgtttcctc tttgaggatc cgtgggacag gctcgacgag 1800 ctgcgcgagg cgatgccgaa tgtaaacatt cagatgctgc ttcgcggccg caacaccgtg 1B60 ggatacaece cgtacccaga ctccgtctgc cgcgcgtttg ttaaggaagc tgccagctcc 1920 ggcgtggaca tcttccgcat cttcgacgcg cttaacgacg tctcccagat gcgtccagca 1980 ategaegeag tcctggagac caacaccgcg gtagccgagg tggctatggc ttattctggt 2040 gatetetetg atccaaatga aaagctctac accctggatt actacctaaa gatggcagag 2100 gagatcgtca agtctggcgc tcacatcttg geeattaagg atatggctgg tctgcttcgc 2160 ccagctgcgg taaccaagct ggtcaccgca ctgcgccgtg aattcgatct gccagtgcac 2220  cttgatctca ccggtgataa gtctcgcgcg gtaaccgccg cgaagaaggc tggtctgcca 420 gttttggcgg aatccacccc gagcaaaaac ategatgaga tcgttaaaag cgctgaaggc 480 cagacttacc ccatctttgt gaaggcagtt gccggtggtg gcggacgcgg tatgcgtttt 540 gttgcttcac ctgatgagct tcgcaaatta gcaacagaag catctcgtga agctgaagcg 600 gctttcggcg atggcgcggt atatgtcgaa ttaaccctca cgtgctgtga gcatattgaa 660 ttggcgatca gtgcagatcc cactggagaa gttgtacacc tttatgaacg tgactgctca 720 ctgcagcgtc gtcaccaaaa agttgtcgaa attgcgccag cacagcattt ggatccagaa 780 ctgcgtgatc gcatttgtgc ggatgcagta aagttctgcc gctccattgg ttaccagggc 840 gcgggaaccg tggaattctt ggtcgatgaa aagggcaacc acgtcttcat cgaaatgaac 900 aggttgagca ccacgtatcc gaagaagtca caccgtgact ccgaggtgga cctggtgaag 960 gcgcagatgc gcttggctgc tggtgcaacc ttgaaggaat tgggtctgac ccaagataag 1020 atcaagaecc acggtgcagc actgcagtgc cgcatcacca cggaagatcc aaacaaeggc 1080 ttccgcccag ataccggaac tatcaccgcg taccgctcac caggcggagc tggcgttcgt 1140 cttgacggtg cagcteaget cggtggcgaa atcaccgcae actttgaetc catgctggtg 1200 aaaatgacct gccgt ggttc cgactttgaa actgctgttg ctcgtgcaca gcgcgcgttg 1260 gctgagttca ccgtgtctgg tgttgcaacc aacattggtt tcttgcgtgc gttgctgcgg 1320 tcacttccaa gaagaggact gcgcatcgcc accggattca ttgccgatca cccgcacctc 1380 ottcaggctc cacctgctga tgatgagcag ggacgcatcc tggattactt ggcagatgtc 1440 accgtgaaca agcctcatgg tgtgcgtcca aaggatgttg cagctcctat cgataagctg 1500 cctaacatca aggatctgec actgccacgc ggttcccgtg accgcctgaa gcagcttggc 1560 ccagccgcgt ttgctcgtga tctccgtgag caggacgcac tggcagttac tgataccacc 1620 ttccgcgatg cacaccagtc tttgcttgcg acccgagtcc gctcattcgc actgaagcct 1680 gcggcagagg ccgtcgcaaa gctgactcct gagcttttgt ccgtggaggc ctggggcggc 1740 gcgacctacg atgtggcgat gcgtttcctc tttgaggatc cgtgggacag gctcgacgag 1800 ctgcgcgagg cgatgccgaa tgtaaacatt cagatgctgc ttcgcggccg caacaccgtg 1B60 ggatacaece cgtacccaga ctccgtctgc cgcgcgtttg ttaaggaagc tgccagctcc 1920 ggcgtggaca tcttccgcat cttcgacgcg cttaacgacg tctcccagat gcgtccagca 1980 ategaegeag tcctggagac caacaccgcg gtagccgagg tggctatggc ttattctggt 2040 atccaaatga gatetetetg aaagctctac accctggatt actacctaaa gatggcagag 2100 gagatcgtca agtctggcgc tcacatcttg geeattaagg atatggctgg tctgcttcgc 2160 ccagctgcgg taaccaagct ggtcaccgca ctgcgccgtg aattcgatct gccagtgcac 2220 
+ 
+ 
+   gtgcacaccc acgacactgc gggtggccag ctggcaacct actttgctgc agctcaagct 2280 ggtgcagatg ctgttgacgg tgcttccgca ccactgtctg gcaccacctc ccagccatcc 2340 ctgtctgcca ttgttgctgc attcgcgcac acccgtcgcg ataccggttt gagcctcgag 2400 gctgtttctg acctcgagcc gtactgggaa gcagtgcgcg gactgtacct gccatttgag 2460 tctggaaccc caggcccaac cggtcgcgtc taccgccacg aaatcccagg cggacagttg 2520 tccaacctgc gtgcacaggc caccgcactg ggccttgcgg atcgtttcga actcatcgaa 2580 gacaactacg cagccgttaa tgagatgctg ggacgcccaa ccaaggtcac cccatcctcc 2640 aaggttgttg gcgacctcgc actccacctc gttggtgcgg gtgtggatcc agcagacttt 2700 gctgccgatc cacaaaagta cgacatccca gactctgtca tcgcgttcct gcgcggcgag 2760 cttggtaacc ctccaggtgg ctggccagag ccactgcgca cccgcgcact ggaaggccgc 2320 tccgaaggca aggcacctct gacggaagtt cctgaggaag agcaggcgca cctcgacgct 2380 gatgattcca aggaacgtcg caatagcctc aaccgcctgc tgttcccgaa gccaaccgaa 2940 gagttcctcg agcaccgtcg ccgcttcggc aacacctctg cgctggatga tcgtgaattc 3000 ttctacggcc tggtcgaagg ccgcgagact ttgatccgcc tgccagatgt gcgcacccca 3060 ctgcttgttc gcctggatgc gatctctgag ccagacgata agggtatgcg caatgttgtg 3120 gccaacgtca acggccagat ccgcccaatg cgtgtgcgtg accgctccgt tgagtctgtc 3180 accgcaaccg cagaaaaggc agattcctcc aacaagggcc atgttgctgc accattcgct 3240 ggtgttgtca ccgtgactgt tgctgaaggt gatgaggtca aggctggaga tgcagtcgca 3300 atcatcgagg ctatgaagat ggaagcaaca atcactgctt ctgttgacgg caaaatcgat 3360 cgcgttgtgg ttcctgctgc aacgaaggtg gaaggtggcg acttgatcgt cgtcgtttcc 3420 taa 3423 gtgcacaccc acgacactgc gggtggccag ctggcaacct actttgctgc agctcaagct 2280 ggtgcagatg ctgttgacgg tgcttccgca ccactgtctg gcaccacctc ccagccatcc 2340 ctgtctgcca ttgttgctgc attcgcgcac acccgtcgcg ataccggttt gagcctcgag 2400 gctgtttctg acctcgagcc gtactgggaa gcagtgcgcg gactgtacct gccatttgag 2460 tctggaaccc caggcccaac cggtcgcgtc taccgccacg aaatcccagg cggacagttg 2520 tccaacctgc gtgcacaggc caccgcactg ggccttgcgg atcgtttcga actcatcgaa 2580 gacaactacg cagccgttaa tgagatgctg ggacgcccaa ccaaggtcac cccatcctcc 2640 aaggttgttg gcgacctcgc actccacctc gttggtgcgg gtgtggatcc agcagacttt 2700 cacaaaagta gctgccgatc cgacatccca gactctgtca tcgcgttcct gcgcggcgag 2760 cttggtaacc ctccaggtgg ctggccagag ccactgcgca cccgcgcact ggaaggccgc 2320 tccgaaggca aggcacctct gacggaagtt cctgaggaag agcaggcgca cctcgacgct 2380 gatgattcca aggaacgtcg caatagcctc aaccgcctgc tgttcccgaa gccaaccgaa 2940 gagttcctcg agcaccgtcg ccgcttcggc aacacctctg cgctggatga tcgtgaattc 3000 ttctacggcc tggtcgaagg ccgcgagact ttgatccgcc tgccagatgt gcgcacccca 3060 ctgctt GTTC gcctggatgc gatctctgag ccagacgata agggtatgcg caatgttgtg 3120 gccaacgtca acggccagat ccgcccaatg cgtgtgcgtg accgctccgt tgagtctgtc 3180 accgcaaccg cagaaaaggc agattcctcc aacaagggcc atgttgctgc accattcgct 3240 ccgtgactgt ggtgttgtca tgctgaaggt gatgaggtca tgcagtcgca aggctggaga 3300 atcatcgagg ctatgaagat ggaagcaaca atcactgctt ctgttgacgg caaaatcgat 3360 cgcgttgtgg ttcctgctgc aacgaaggtg gaaggtggcg acttgatcgt cgtcgtttcc 3420 taa 3423 
+ 
+ 
+ 
+   <210> 16 <210> 16 
+ 
+ 
+   <211> 1266 <211> 1266 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> lysC con el codón de inicio sustituido <223> lysC with the start codon replaced 
+ 
+ 
+   <400> 16 
+ <400> 16  
+ 
+ 
+ 
+   atggccctgg tcgtacagaa atatggcggt tcctcgcttg agagtgcgga acgcattaga €0 aacgtcgctg aacggatcgt tgccaccaag aaggctggaa atgatgtcgt ggttgtctgc 120 tccgcaatgg gagacaccac ggatgaactt ctagaacttg cagcggcagt gaatcccgtt 180 ccgccagctc gtgaaatgga tatgctcctg actgctggtg agcgtatttc taacgctctc 240 gtcgccatgg ctattgagtc ccttggcgca gaagcccaat ctttcacggg ctctcaggct 300 atggccctgg tcgtacagaa atatggcggt tcctcgcttg agagtgcgga acgcattaga € 0 aacgtcgctg aacggatcgt tgccaccaag aaggctggaa atgatgtcgt ggttgtctgc 120 tccgcaatgg gagacaccac ggatgaactt ctagaacttg cagcggcagt gaatcccgtt 180 ccgccagctc gtgaaatgga tatgctcctg actgctggtg agcgtatttc taacgctctc 240 gtcgccatgg ctattgagtc ccttggcgca gaagcccaat ctttcacggg ctctcaggct 300 
+ 
+ 
+   
+ 
+     ggtgtgotca ccaccgagcg ccacggaaac gcacgcattg ttgatgtcac tccaggtcgt 360 gtgcgtgaag cactcgatga gggcaagatc tgcattgttg ctggtttcca gggtgttaat 420 aaagaaaccc gcgatgtcac cacgttgggt cgtggtggtt ctgacaccac tgcagttgcg 480 ttggcagctg ctttgaacgc tgatgtgtgt gagatttact cggacgttga cggtgtgtat 540 accgctgacc cgcgcatcgt tcctaatgca cagaagctgg aaaagctcag cttcgaagaa 600 atgctggaac ttgctgctgt tggctccaag attttggtgc tgcgcagtgt tgaatacgct 660 cgtgcattca atgtgccact tcgcgtacgc tcgtcttata gtaatgatcc cggcactttg 720 attgccggct ctatggagga tattcctgtg gaagaagcag tccttaccgg tgtcgcaacc 780 gacaagtccg aagccaaagt aaccgttctg ggtatttccg ataagccagg cgaggctgcg 840 aaggttttcc gtgcgttggc tgatgcagaa atcaacattg aoatggttct geagaacgtc 900 tcttctgtag aagacggcac caccgacatc accttcacct gccctcgttc cgacggccgc 960 cgcgcgatgg agatcttgaa gaagcttcag gttcagggca actggaccaa tgtgctttac 1020 gacgaccagg tcggcaaagt ctccotcgtg ggtgctggca tgaagtctca cccaggtgtt 1080 accgcagagt tcatggaagc tctgcgcgat gtcaacgtga acatcgaatt gatttccacc 1140 tctgagattc gtatttccgt gctgatccgt gaagatgatc tggatgctgc tgcacgtgca 1200 ttgcatgagc agttccagct gggcggcgaa gacgaagccg tcgtttatgc aggcaccgga 1260 cgctaa 1266  <210> 17   ggtgtgotca ccaccgagcg ccacggaaac gcacgcattg ttgatgtcac tccaggtcgt 360 gtgcgtgaag cactcgatga gggcaagatc tgcattgttg ctggtttcca gggtgttaat 420 aaagaaaccc gcgatgtcac cacgttgggt cgtggtggtt ctgacaccac tgcagttgcg 480 ttggcagctg ctttgaacgc tgatgtgtgt gagatttact cggacgttga cggtgtgtat 540 accgctgacc cgcgcatcgt tcctaatgca cagaagctgg aaaagctcag cttcgaagaa 600 atgctggaac ttgctgctgt tggctccaag attttggtgc tgcgcagtgt tgaatacgct 660 cgtgcattca atgtgccact tcgcgtacgc tcgtcttata gtaatgatcc cggcactttg 720 attgccggct ctatggagga tattcctgtg gaagaagcag tccttaccgg tgtcgcaacc 780 gacaagtccg aagccaaagt aaccgttctg ggtatttccg ataagccagg cgaggctgcg 840 aaggttttcc gtgcgttggc tgatgcagaa atcaacattg aoatggttct geagaacgtc 900 tcttctgtag aagacggcac caccgacatc accttcacct gccctcgttc cgacggccgc 960 cgcgcgatgg agatcttgaa gaagcttcag gttcagggca actggaccaa tgtgctttac 1020 gacgaccagg tcggcaaagt ctccotcgtg tgaagtctca ggtgctggca cccaggtgtt 1080 accgcagagt tcatggaagc tctgcgcgat gtcaacgtga acatcgaatt gatttccacc 1140 tctgagattc gtattt ccgt gctgatccgt gaagatgatc tggatgctgc tgcacgtgca 1200 ttgcatgagc agttccagct gggcggcgaa gacgaagccg tcgtttatgc aggcaccgga 1260 cgctaa 1266  <210> 17 
+ 
+ 
+   <211> 2094 <211> 2094 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> tkt con el codón de inicio sustituido <223> tkt with the start codon replaced 
+ 
+ 
+   <400> 17 
+ <400> 17  
+ 
+ 
+     atgacgctgt cacctgaact tcaggcgctc actgtacgca attacccctc tgattggtcc 60 gatgtggaca ccaaggctgt agacactgtt cgtgtcctcg ctgcagacgc tgtagaaaac 120 tgtggctccg gccacccagg caccgcaatg agcctggctc cccttgcata caccttgtac 180 cagcgggtta tgaacgtaga tccacaggac accaactggg caggccgtga ccgcttcgtt 240 ctttcttgtg gccactcctc tttgacccag tacatccagc tttacttggg tggattcggc 300 cttgagatgg atgacctgaa ggctctgcgc acctgggatt ccttgacccc aggacaccct 360 gagtaccgcc acaccaaggg cgttgagatc accactggcc ctcttggcca gggtcttgca 420 tctgcagttg gtatggccat ggctgctcgt cgtgagcgtg gcctattcga cccaaccgct 480 gctgagggcg aatccccatt cgaccaccac atctacgtea ttgcttctga tggtgacctg 540    caggaaggtg tcacctctga ggcatcctcc atcgctggca cccagcagct gggcaacctc 600 atcgtgttct gggatgacaa ccgcatctcc atcgaagaca acactgagat cgctttcaac 660 gaggacgttg ttgctcgtta caaggcttac ggctggcaga ccattgaggt tgaggctggc 720 gaggacgttg cagcaatcga agctgcagtg gctgaggcta agaaggacac caagcgacct 780 accttcatcc gcgttcgcac catcatcggc ttcccagctc caactatgat gaacaccggt 840 gctgtgcacg gtgctgctct tggcgcagct gaggttgcag caaccaagac tgagcttgga 900 ttcgatcctg aggctcactt cgcgatcgac gatgaggtta tcgctcacac ccgctccctc 960 gcagagcgcg ctgcacagaa gaaggctgca tggcaggtca agttcgatga gtgggcagct 1020 gccaaccctg agaacaaggc tctgttcgat cgcctgaact cccgtgagct tccagcgggc 1080 tacgctgaog agctcccaac atgggatgca gatgagaagg gcgtcgcaac tcgtaaggct 1140 tccgaggctg cacttcaggc actgggcaag acccttcctg agctgtgggg cggttccgct 1200 gacctcgcag gttccaacaa caccgtgatc aagggctccc cttccttcgg ccctgagtcc 1260 atctccaccg agacctggtc tgctgagcct tacggccgta acctgcactt cggtatccgt 1320 gagcacgcta tgggatccat cctcaacggc atttccctcc acggtggcac ccgcccatac 1380 ggcggaacct tcctcatctt ctccgactac atgcgtcctg cagttcgtct tgcagctctc 1440 atggagaccg aegcttaeta cgtctggacc cacgactcca tcggtctggg cgaagatggc 1500 ccaacccacc agcctgttga aaccttggct gcactgcgcg ccatcccagg tctgtccgtc 1560 ctgcgtcctg cagatgcgaa cgagaccgcc caggcttggg ctgcagcact tgagtacaag 1620 gaaggcccta agggtcttgc actgacccgc cagaacgttc ctgttctgga aggcaccaag 1680 gagaaggctg ctgaaggcgt tcgccgcggt ggctacgtcc tggttgaggg ttccaaggaa 1740 accccagatg tgatcctcat gggctccggc tccgaggttc agcttgcagt taacgctgcg 1800 aaggctctgg aagctgaggg cgttgcagct cgcgttgttt ccgttccttg catggattgg 1860 ttccaggagc aggacgcaga gtacatcgag tccgttctgc ctgcagctgt gaccgctcgt 1920 gtgtctgttg aagctggcat cgcaatgcct tggtaccgct tcttgggcac ccagggccgt 1980 gctgtctccc ttgagcactt cggtgcttct gcggattacc agaccctgtt tgagaagttc 2040 ggcatcacoa ccgatgcagt cgtggcagcg gccaaggact ccattaacgg ttaa 2094  <210> 18   atgacgctgt cacctgaact tcaggcgctc actgtacgca attacccctc tgattggtcc 60 gatgtggaca ccaaggctgt agacactgtt cgtgtcctcg ctgcagacgc tgtagaaaac 120 tgtggctccg gccacccagg caccgcaatg agcctggctc cccttgcata caccttgtac 180 cagcgggtta tgaacgtaga tccacaggac accaactggg caggccgtga ccgcttcgtt 240 ctttcttgtg gccactcctc tttgacccag tacatccagc tttacttggg tggattcggc 300 cttgagatgg atgacctgaa ggctctgcgc acctgggatt ccttgacccc aggacaccct 360 gagtaccgcc acaccaaggg cgttgagatc accactggcc gggtcttgca ctcttggcca 420 tctgcagttg gtatggccat ggctgctcgt cgtgagcgtg gcctattcga cccaaccgct 480 gctgagggcg aatccccatt cgaccaccac atctacgtea ttgcttctga tggtgacctg 540   caggaaggtg tcacctctga ggcatcctcc atcgctggca cccagcagct gggcaacctc 600 atcgtgttct gggatgacaa ccgcatctcc atcgaagaca acactgagat cgctttcaac 660 gaggacgttg ttgctcgtta caaggcttac ggctggcaga ccattgaggt tgaggctggc 720 gaggacgttg cagcaatcga agctgcagtg gctgaggcta agaaggacac caagcgacct 780 accttcatcc gcgttcgcac catcatcggc ttcccagctc caactatgat gaacaccggt 840 gctgtgcacg gtgctgctct tggcgcagct gaggttgcag caaccaagac tgagcttgga 900 ttcgatcctg aggctcactt cgcgatcgac gatgaggtta tcgctcacac ccgctccctc 960 gcagagcgcg ctgcacagaa tggcaggtca gaaggctgca agttcgatga gtgggcagct 1020 gccaaccctg agaacaaggc tctgttcgat cgcctgaact cccgtgagct tccagcgggc 1080 tacgctgaog agctcccaac atgggatgca gatgagaagg gcgtcgcaac tcgtaaggct 1140 tccgaggctg cacttcaggc actgggcaag acccttcctg agctgtgggg cggttccgct 1200 gacctcgcag gttccaacaa caccgtgatc aagggctccc cttccttcgg ccctgagtcc 1260 atctccaccg agacctggtc tgctgagcct tacggccgta acctgcactt cggtatccgt 1320 gagcacgcta tgggatccat cctcaacggc atttccctcc acggtggcac ccgcccatac 1380 ggcggaacct tc ctcatctt ctccgactac atgcgtcctg cagttcgtct tgcagctctc 1440 atggagaccg aegcttaeta cgtctggacc cacgactcca tcggtctggg cgaagatggc 1500 ccaacccacc agcctgttga aaccttggct gcactgcgcg ccatcccagg tctgtccgtc 1560 ctgcgtcctg cagatgcgaa cgagaccgcc caggcttggg ctgcagcact tgagtacaag 1620 gaaggcccta agggtcttgc actgacccgc cagaacgttc ctgttctgga aggcaccaag 1680 gagaaggctg ctgaaggcgt tcgccgcggt ggctacgtcc tggttgaggg ttccaaggaa 1740 accccagatg tgatcctcat gggctccggc tccgaggttc agcttgcagt taacgctgcg 1800 aaggctctgg aagctgaggg cgttgcagct cgcgttgttt ccgttccttg catggattgg 1860 ttccaggagc aggacgcaga gtacatcgag tccgttctgc ctgcagctgt gaccgctcgt 1920 gtgtctgttg aagctggcat cgcaatgcct tggtaccgct tcttgggcac ccagggccgt 1980 gctgtctccc ttgagcactt cggtgcttct gcggattacc agaccctgtt tgagaagttc 2040 ggcatcacoa ccgatgcagt cgtggcagcg gccaaggact ccattaacgg ttaa 2094  <210> 18 
+ 
+ 
+   <211> 3423 <211> 3423 
+ 
+ 
+   < 212> ADN <212> DNA 
+ 
+ 
+   <213> Secuencia artificial <213> Artificial sequence 
+ 
+ 
+   <220> <220> 
+ 
+ 
+   <223> pyc con el codón de inicio sustituido <223> pyc with the start codon replaced 
+ 
+ 
+   <400> 18 
+ <400> 18  
+ 
+ 
+ 
+   atgtcgactc acacatcttc aacgcttcca gcattcaaaa agatcttggt agcaaaccgc 60 ggcgaaatcg cggtccgtgc tttcogtgca gcaotcgaaa ccggtgcagc cacggtagct 120 atttaccccc gtgaagatcg gggatcattc saccgctctt ttgcttctga agctgtccgc 180 attggtaccg aaggctcacc agtcaaggcg tacctggaca tcgatgaaat tatcggtgca 240 gctaaaaaag ttaaagcaga tgccatttac ccgggatacg gcttcctgtc tgaaaatgcc 300 cagcttgccc gcgagtgtgc ggaaaacggc attactttta ttggcccaac cccagaggtt 360 cttgatctca ccggtgataa gtotogcgcg gtaaccgccg cgaagaaggc tggtctgcca 420 gttttggcgg aatccacccc gagcaaaaac atcgatgaga tcgttaaaag cgctgaaggc 480 cagacttacc ccatctttgt gaaggcagtt gccggtggtg gcggacgcgg tatgcgtttt 540 gttgcttcac ctgatgagct tcgcaaatta gcaacagaag catctcgtga agctgaagcg 600 gctttcggcg atggcgcggt atatgtcgaa cgtgctgtga ttaaccctca gcatattgaa 660 gtgcagatcc ttggcgatca cactggagaa gttgtacacc tttatgaacg tgactgctca 720 ctgcagcgtc gtcaccaaaa agttgtcgaa attgcgccag cacagcattt ggatccagaa 780 ctgcgtgatc gcatttgtgc ggatgcagta aagttctgcc gctccattgg ttaccagggc 840 gcgggaaccg tggaattctt ggtcgatgaa aagggcaacc acgtcttcat cgaaatgaac 900 ccacgtatcc aggttgagca caccgtgact gaagaagtca ccgaggtgga cctggtgaag 960 gcgcagatgc gcttggctgc tggtgcaacc ttgaaggaat tgggtctgac ccaagataag 1020 atcaagaccc acggtgcagc actgcagtgc cgcatcacca cggaagatcc aaacaacggc 1080 ttccgcccag ataccggaac tatcaccgcg taccgctcac caggcggagc tggcgttcgt 1140 cttgacggtg cagctcagct cggtggcgaa atcaccgcac actttgactc catgctggtg 1200 aaaatgacct gccgtggttc cgactttgaa actgctgttg ctcgtgcaca gcgcgcgttg 1260 gctgagttca ccgtgtctgg tgttgcaacc aacattggtt tcttgcgtgc gttgctgcgg 1320 gaagaggact tcacttccaa gcgcatcgcc accggattca ttgccgatca cccgcacctc 1380 cttcaggctc cacctgctga tgatgagcag ggacgcatcc tggattactt ggcagatgtc 1440 accgtgaaca agcctcatgg tgtgcgtcca aaggatgttg cagctcctat cgataagctg 1500 cctaacatca aggatctgcc actgccacgc ggttcccgtg accgcctgaa gcagcttggc 1560 ccagccgcgt ttgctcgtga tctccgtgag caggacgcac tggcagttac tgataccacc 1620 ttccgcgatg cacaccagtc tttgcttgcg acccgagtcc gctcattcgc actgaagcct 1680 gcggcagagg ccgtcgcaaa gctgactcct gagcttttgt ccgtggaggc ctggggcggc 1740 gcgacctacg atgtggcgat gcgtttcctc tttgaggatc cgtgggacag gctcgacgag 1800 ctgcgcgagg cgatgccgaa tgtaaacatt cagatgctgc ttcgcggccg caacaccgtg 1860 ggatacaccc cgtacccaga ctccgtctgc cgcgcgtttg ttaaggaagc tgccagctcc 1920  atgtcgactc acacatcttc aacgcttcca gcattcaaaa agatcttggt agcaaaccgc 60 ggcgaaatcg cggtccgtgc tttcogtgca gcaotcgaaa ccggtgcagc cacggtagct 120 atttaccccc gtgaagatcg gggatcattc saccgctctt ttgcttctga agctgtccgc 180 attggtaccg aaggctcacc agtcaaggcg tacctggaca tcgatgaaat tatcggtgca 240 gctaaaaaag ttaaagcaga tgccatttac ccgggatacg gcttcctgtc tgaaaatgcc 300 cagcttgccc gcgagtgtgc ggaaaacggc attactttta ttggcccaac cccagaggtt 360 ccggtgataa cttgatctca gtotogcgcg gtaaccgccg cgaagaaggc tggtctgcca 420 gttttggcgg aatccacccc gagcaaaaac atcgatgaga tcgttaaaag cgctgaaggc 480 cagacttacc ccatctttgt gaaggcagtt gccggtggtg gcggacgcgg tatgcgtttt 540 gttgcttcac ctgatgagct tcgcaaatta gcaacagaag catctcgtga agctgaagcg 600 gctttcggcg atggcgcggt atatgtcgaa ttaaccctca cgtgctgtga gcatattgaa 660 ttggcgatca gtgcagatcc cactggagaa gttgtacacc tttatgaacg tgactgctca 720 ctgcagcgtc gtcaccaaaa agttgtcgaa attgcgccag cacagcattt ggatccagaa 780 ctgcgtgatc gcatttgtgc ggatgcagta aagttctgcc gctccattgg ttaccagggc 840 gcgggaaccg tggaattctt ggtcgatgaa aagggcaacc acgtcttcat cgaaatgaac 900 aggttgagca ccacgtatcc gaagaagtca caccgtgact ccgaggtgga cctggtgaag 960 gcgcagatgc gcttggctgc tggtgcaacc ttgaaggaat tgggtctgac ccaagataag 1020 atcaagaccc acggtgcagc actgcagtgc cgcatcacca cggaagatcc aaacaacggc 1080 ttccgcccag ataccggaac tatcaccgcg taccgctcac caggcggagc tggcgttcgt 1140 cttgacggtg cagctcagct cggtggcgaa atcaccgcac actttgactc catgctggtg 1200 aaaatgacct gccgtggttc cgactttgaa actgctgttg ctcgtgcaca gcgcgcgttg 1260 gctgagttca ccgtgtctgg tgttgcaacc aacattggtt tcttgcgtgc gttgctgcgg 1320 tcacttccaa gaagaggact gcgcatcgcc accggattca ttgccgatca cccgcacctc 1380 cacctgctga cttcaggctc tgatgagcag ggacgcatcc tggattactt ggcagatgtc 1440 accgtgaaca agcctcatgg tgtgcgtcca aaggatgttg cagctcctat cgataagctg 1500 cctaacatca aggatctgcc actgccacgc ggttcccgtg accgcctgaa gcagcttggc 1560 ccagccgcgt ttgctcgtga tctccgtgag caggacgcac tggcagttac tgataccacc 1620 ttccgcgatg cacaccagtc tttgcttgcg acccgagtcc gctcattcgc actgaagcct 1680 gcggcagagg ccgtcgcaaa gctgact cct gagcttttgt ccgtggaggc ctggggcggc 1740 gcgacctacg atgtggcgat gcgtttcctc tttgaggatc cgtgggacag gctcgacgag 1800 ctgcgcgagg cgatgccgaa tgtaaacatt cagatgctgc ttcgcggccg caacaccgtg 1860 ggatacaccc cgtacccaga ctccgtctgc cgcgcgtttg ttaaggaagc tgccagctcc 1920 
+ 
+ 
+   ggcgtggaca tcttccgcat cttcgacgcg cttaacgacg tctcccagat gcgtccagca 1980 atcgacgcag tcctggagac caacaccgcg gtagccgagg tggctatggc ttattctggt 2040 gatctctctg atccaaatga aaagctctac accctggatt actacctaaa gatggcagag 2100 gagatcgtca agtctggcgc tcacatcttg gccattaagg atatggctgg tctgcttcgc 2160 ccagctgcgg taaccaagct ggtcaccgca ctgcgccgtg aattcgatct gccagtgcac 2220 gtgcacaccc acgacactgc gggtggccag ctggcaacct actttgctgc agctcaagct 2280 ggtgcagatg ctgttgacgg tgcttccgca ccactgtctg gcaccacctc ccagccatcc 2340 ctgtctgcca ttgttgctgc attcgcgcac acccgtcgcg ataccggttt gagcctcgag 2400 gctgtttctg acctcgagcc gtactgggaa gcagtgcgcg gactgtacct gccatttgag 2460 tctggaaccc caggcccaac cggtcgcgtc taccgccacg aaatcccagg cggacagttg 2520 tccaacctgc gtgcacaggc caccgcactg ggccttgcgg atcgtttcga actcatcgaa 2580 gacaactacg cagccgttaa tgagatgctg ggacgcccaa ccaaggtcac cccatcctcc 2640 aaggttgttg gcgacctcgc actccacctc gttggtgcgg gtgL-ggatcc agcagacttt 2700 gctgccgatc cacaaaagta cgacatccca gactctgtca tcgcgttcct gcgcggcgag 2760 cttggtaacc ctccaggtgg ctggccagag ccactgcgca cccgcgcact ggaaggccgc 2820 tccgaaggea aggcacctct gacggaagtt cctgaggaag agcaggcgca cctcgacgct 2830 gatgattcca aggaacgtcg caatagcctc aaccgcctgc tgttcccgaa gccaaccgaa 2940 gagttcctcg agcaccgtcg ccgcttcggc aacacctctg cgctggatga tcgtgaattc 3000 ttctacggcc tggtcgaagg ccgcgagact ttgatccgcc tgccagatgt gcgcacccca 3060 ctgcttgttc gcctggatgc gatctctgag ccagacgata agggtatgcg caatgttgtg 3120 gccaacgtca acggccagat ccgcccaatg cgtgtgcgtg accgctccgt tgagtctgtc 3180 accgcaacag cagaaaaggc agattcctcc aacaagggcc atgttgctgc accattcgct 3240 ggtgttgtca ccgtgactgt tgctgaaggt gatgaggtca aggctggaga tgcagtcgca 3300 atcatcgagg ctatgaagat ggaagcaaca atcactgctt ctgttgacgg caaaatcgat 3360 cgcgttgtgg ttcctgctgc aacgaaggtg gaaggtggcg acttgatcgt cgtcgtttcc 3420 taa 3423  ggcgtggaca tcttccgcat cttcgacgcg cttaacgacg tctcccagat gcgtccagca 1980 atcgacgcag tcctggagac caacaccgcg gtagccgagg tggctatggc ttattctggt 2040 gatctctctg atccaaatga aaagctctac accctggatt actacctaaa gatggcagag 2100 gagatcgtca agtctggcgc tcacatcttg gccattaagg atatggctgg tctgcttcgc 2160 ccagctgcgg taaccaagct ggtcaccgca ctgcgccgtg aattcgatct gccagtgcac 2220 gtgcacaccc acgacactgc gggtggccag ctggcaacct actttgctgc agctcaagct 2280 ggtgcagatg ctgttgacgg tgcttccgca ccactgtctg gcaccacctc ccagccatcc 2340 ctgtctgcca ttgttgctgc attcgcgcac acccgtcgcg ataccggttt gagcctcgag 2400 gctgtttctg acctcgagcc gtactgggaa gcagtgcgcg gactgtacct gccatttgag 2460 tctggaaccc caggcccaac cggtcgcgtc taccgccacg aaatcccagg cggacagttg 2520 tccaacctgc gtgcacaggc caccgcactg ggccttgcgg atcgtttcga actcatcgaa 2580 gacaactacg cagccgttaa tgagatgctg ggacgcccaa ccaaggtcac cccatcctcc 2640 aaggttgttg gcgacctcgc actccacctc gttggtgcgg gtgL-ggatcc agcagacttt 2700 cacaaaagta gctgccgatc cgacatccca gactctgtca tcgcgttcct gcgcggcgag 2760 cttgg TAACC ctccaggtgg ctggccagag ccactgcgca cccgcgcact ggaaggccgc 2820 tccgaaggea aggcacctct gacggaagtt cctgaggaag agcaggcgca cctcgacgct 2830 gatgattcca aggaacgtcg caatagcctc aaccgcctgc tgttcccgaa gccaaccgaa 2940 gagttcctcg agcaccgtcg ccgcttcggc aacacctctg cgctggatga tcgtgaattc 3000 ttctacggcc tggtcgaagg ccgcgagact ttgatccgcc tgccagatgt gcgcacccca 3060 ctgcttgttc gcctggatgc gatctctgag ccagacgata agggtatgcg caatgttgtg 3120 gccaacgtca acggccagat ccgcccaatg cgtgtgcgtg accgctccgt tgagtctgtc 3180 accgcaacag cagaaaaggc agattcctcc aacaagggcc atgttgctgc accattcgct 3240 ggtgttgtca ccgtgactgt tgctgaaggt gatgaggtca tgcagtcgca aggctggaga 3300 atcatcgagg ctatgaagat ggaagcaaca atcactgctt ctgttgacgg caaaatcgat 3360 cgcgttgtgg ttcctgctgc aacgaaggtg gaaggtggcg acttgatcgt taa cgtcgtttcc 3420 3423 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

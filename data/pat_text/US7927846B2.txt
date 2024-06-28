@@ -1,0 +1,1785 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FIELD OF THE INVENTION 
+ This invention relates to the field of organic acid synthesis, molecular biology, and microbiology. More specifically, a process is provided to protect and/or increase the specific activity of an enzyme catalyst comprising a polypeptide having nitrilase activity when converting glycolonitrile to glycolic acid by conducting the reaction in the presence of an amine protectant. 
+ BACKGROUND OF THE INVENTION 
+ Glycolic acid (HOCH 2 COOH; CAS Registry Number is 79-14-1) is the simplest member of the α-hydroxy acid family of carboxylic acids. Its properties make it ideal for a broad spectrum of consumer and industrial applications, including use in water well rehabilitation, the leather industry, the oil and gas industry, the laundry and textile industry, as a monomer in the preparation of polyglycolic acid (PGA), and as a component in personal care products. Glycolic acid also is a principle ingredient for cleaners in a variety of industries (dairy and food processing equipment cleaners, household and institutional cleaners, industrial cleaners [for transportation equipment, masonry, printed circuit boards, stainless steel boiler and process equipment, cooling tower/heat exchangers], and metals processing [for metal pickling, copper brightening, etching, electroplating, electropolishing]). Recently, it has been reported that polyglycolic acid is useful as a gas barrier material (i.e., exhibits high oxygen barrier characteristics) for packing foods and carbonated drinks (WO 2005/106005 A1). However, traditional chemical synthesis of glycolic acid produces a significant amount of impurities that must be removed prior to use in preparing polyglycolic acid for gas barrier materials. New technology to commercially produce glycolic acid, especially one that produces glycolic acid in high purity and at low cost; would be eagerly received by industry. 
+ Microbial catalysts can hydrolyze a nitrile (e.g., glycolonitrile) directly to the corresponding carboxylic acids (e.g., glycolic acid) using a nitrilase (EC 3.5.5.7), where there is no intermediate production of the corresponding amide (Equation 1), or by a combination of nitrile hydratase (EC 4.2, 1.84) and amidase (EC 3.5.1.4) enzymes, where a nitrile hydratase (NHase) initially converts a nitrile to an amide, and then the amide is subsequently converted by the amidase to the corresponding carboxylic acid (Equation 2): 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ Enzymatic synthesis of glycolic acid typically requires a substantially pure form of glycolonitrile. Methods to synthesize glycolonitrile by reacting aqueous solutions of formaldehyde and hydrogen cyanide have previously been reported (U.S. Pat. Nos. 2,175,805; 2,890,238; and 5,187,301; Equation 3). 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ However, these methods typically result in an aqueous glycolonitrile reaction product that requires significant purification (e.g., distillative purification) as many of the impurities and/or byproducts of the reaction (including excess reactive formaldehyde) may interfere with the enzymatic conversion of glycolonitrile to glycolic acid, including suppression of catalyst activity (i.e., decreased specific activity). In particular, it is well known that formaldehyde can create undesirable modifications in proteins by reacting with amino groups from N-terminal amino acid residues and the side chains of arginine, cysteine, histidine, and lysine residues (Metz et al.,  J. Biol. Chem.,  279 (8): 6235-6243 (2004)). Suppression of catalyst activity decreases the overall productivity of the catalyst (i.e., total grams of glycolic acid formed per gram of catalyst), adding a significant cost to the overall process that may make enzymatic production economically non-viable when compared to chemical synthesis. As such, reaction conditions are needed that can help to protect the enzymatic activity against undesirable impurities reported decrease the activity of the catalyst. 
+ A method of producing high purity glycolonitrile has been reported by subjecting the formaldehyde to a heat treatment prior to the glycolonitrile synthesis reaction (U.S. Ser. No. 11/314,386 and U.S. Ser. No. 11/314,905; Equation 3). However, glycolonitrile can reversibly disassociate into formaldehyde and hydrogen cyanide. As such, there remains a need to protect a catalyst having nitrilase activity against the undesirable effects of free formaldehyde. 
+ Various methods are known for preparing α-hydroxy acids using the corresponding α-hydroxy nitrile as the starting material and a microorganism as the catalyst. Examples of α-hydroxy acids produced include: glycolic acid, lactic acid, 2-hydroxyisobutyric acid, 2-hydroxy-2-phenyl propionic acid, mandelic acid, 2-hydroxy-3,3-dimethyl-4-butyrolactone, and 4-methylthiobutyric acid. These products are synthesized using microorganisms, such as those belonging to the genera  Nocardia, Bacillus, Brevibacterium, Aureobacterium, Pseudomonas, Caseobacter, Alcaligenes, Acinetobacter, Enterobacter, Arthrobacter, Escherichia, Micrococcus, Streptomyces, Flavobacterium, Aeromonas, Mycoplana, Cellulomonas, Erwinia, Candida, Bacteridium, Aspergillus, Penicillium, Cochliobolus, Fusarium, Rhodopseudomonas, Rhodococcus, Coynebacterip, Microbacterium, Obsumbacterium  and  Gordona . (JP-A-4-99495, JP-A-4-99496 and JP-A-4-218385 corresponding to U.S. Pat. No. 5,223,416; JP-A-4-99497 corresponding to U.S. Pat. No. 5,234,826; JP-A-5-95795 corresponding to U.S. Pat. No. 5,296,373; JP-A-5-21987; JP-A-5-192189 corresponding to U.S. Pat. No. 5,326,702; JP-A-6-237789 corresponding to EP-A-0610048; JP-A-6-284899 corresponding to EP-A-0610049; JP-A-7-213296 corresponding to U.S. Pat. No. 5,508,181). 
+ However, most known methods for preparing α-hydroxy acids from the corresponding α-hydroxy nitriles as mentioned above do not produce and accumulate a product at a sufficiently high concentration to meet commercial needs. This is frequently a result of enzyme inactivation early in the reaction period. U.S. Pat. No. 5,756,306 teaches that “When an α-hydroxy nitrite is enzymatically hydrolyzed or hydrated using nitrilase or nitrite hydratase to produce an α-hydroxy acid or α-hydroxy amide, a problem occurs in that the enzyme is inactivated within a short period of time. It is therefore difficult to obtain the α-hydroxy acid or α-hydroxy amide in high concentration and high yield.” (col. 1, lines 49-54). Maintaining the aldehyde concentration (formed by the disassociation of α-hydroxy nitrile to aldehyde and hydrogen cyanide) and/or the α-hydroxy nitrite concentration in the reaction mixture within a specified range is one method to avoid this problem. 
+ U.S. Pat. No. 5,508,181 addresses further difficulties relating to rapid enzyme inactivation. Specifically, U.S. Pat. No. 5,508,181 mentions that α-hydroxy nitrite compounds partially disassociate into the corresponding aldehydes, according to the disassociation equilibrium. These aldehydes were reported to inactivate the enzyme within a short period of time by binding to the protein, thus making it difficult to obtain α-hydroxy acid or α-hydroxy amide in a high concentration with high productivity from α-hydroxy nitriles (col. 2, lines 16-29). As a solution to prevent enzyme inactivation due to accumulation of aldehydes, phosphate or hypophosphite ions were added to the reaction mixture. U.S. Pat. No. 5,326,702 reports the use of sulfite, disulfite, or dithionite ions to sequester aldehyde and prevent enzyme inactivation, but concludes that the concentration of α-hydroxy acid produced and accumulated even by using such additives as described above is not great. 
+ U.S. Pat. No. 6,037,155 teaches that low accumulation of α-hydroxy acid product is related to enzyme inactivation within a short time due to the disassociated-aldehyde accumulation. These inventors suggest that enzymatic activity is inhibited in the presence of hydrogen cyanide (Asano et al.,  Agricultural Biological Chemistry , Vol. 46, pages 1165-1174 (1982)) generated in the partial disassociation of the α-hydroxy nitrile in water together with the corresponding aldehyde or ketone (Mowry, David T.,  Chemical Reviews , Vol. 42, pages 189-283 (1948)). The inventors solved the problem of aldehyde-induced enzyme inactivation by using microorganisms whose enzyme activity could be improved by adding a cyanide substance to the reaction mixture. The addition of a cyanide substance limited the disassociation of α-hydroxy nitrite to aldehyde and hydrogen cyanide. 
+ With specific respect to the production of glycolic acid, glycolonitrile is known to reversibly disassociate to hydrogen cyanide and formaldehyde, either of which may be involved in reducing catalyst activity. U.S. Pat. No. 3,940,316 describes a process for preparing an organic acid from the corresponding nitrile using bacteria with “nitrilasic” activity, and lists glycolonitrile as a substrate. In particular, this patent describes the use of  Bacillus, Bacteridium, Micrococcus , and  Brevibacterium  for this purpose. Though described as having nitrilasic activity,  Brevibacterium  R312 is the only strain used in all of the U.S. Pat. No. 3,940,316 examples.  Brevibacterium  R312 is known to have nitrile hydratase and amidase activities, but no nitrilase activity (Tourneix et al.,  Antonie van Leeuwenhoek,  52:173-182 (1986)). 
+ A method for preparing lactic acid, glycolic acid, and 2-hydroxyisobutyric acid by using a microorganism belonging to  Corynebacterium  spp. is disclosed in Japanese Patent Laid-open No. Sho 61-56086. JP 09028390 discloses a method for manufacturing glycolic acid from glycolonitrile by the action of  Rhodococcus  or  Gordona  hydrolase. Selectivity for glycolic acid is reported as almost 100%, without formation of glycolic acid amide. U.S. Pat. No. 6,037,155 discloses examples of methods for producing α-hydroxy acids from α-hydroxy nitriles, including glycolic acid. This disclosure acknowledges that not all microbial catalysts can produce high concentrations of glycolic acid due to the aforementioned problems and instructs that screening studies must be conducted in order to find industrially advantageous microorganisms. U.S. Pat. No. 6,037,155 specifically identifies  Variovorax  spp. and  Arthrobacter  spp. microorganisms that are resistant to the suppressing effect of α-hydroxy nitrite or α-hydroxy acid, have durable activity, and can produce the desired product at high concentration. 
+   Acidovorax facilis  72W (ATCC 55746) is characterized by aliphatic nitrilase (EC 3.5.5.7) activity, as well as a combination of nitrite hydratase (EC 4.2.1.84) and amidase (EC 3.5.1.4) activities. The gene encoding the  A. facilis  72W (ATCC 55746) nitrilase has been cloned and recombinantly expressed (WO 01/75077 corresponding to U.S. Pat. No. 6,870,038) and Chauhan et al.,  Appl Microbiol Biotechnol,  61:118-122 (2003)). 
+ The  A. facilis  72W nitrilase converts α-hydroxynitriles to the corresponding α-hydroxycarboxylic acids in high yield (U.S. Pat. No. 6,383,786), including glycolic acid (U.S. Pat. No. 6,416,980). An improved process to produce glycolic acid from glycolonitrile using mutants derived from the  A. facilis  72W nitrilase is disclosed in WO2006/068110 and WO2006/069114 (corresponding to U.S. Pat. No. 7,198,927 and U.S. patent application Ser. No. 11/314,905, respectively). In co-pending and commonly owned U.S. patent application Ser. No. 11/314,905, various means to improve production of glycolic acid are disclosed including (1) the use of  A. facilis  72W mutants having improved activity, (2) the addition of at least one stabilizing agent (e.g. potassium thiosulfate, sodium dithionite, excess HCN), (3) running the reaction under oxygen free conditions, (4) controlling the glycolonitrile feed rate, and (5) the use of high purity glycolonitrile. Even though many of these means improved glycolic acid productivity, a decrease in enzymatic activity was generally observed over time. This decrease in activity is typically attributed, at least in part, to the presence of formaldehyde (albeit at low levels) in the reaction mixture. A process to protect the specific activity of an enzyme catalyst having nitrilase activity when converting glycolonitrile to glycolic acid in the presence of formaldehyde would significantly improve the economics of glycolic acid synthesis. 
+ The problem to be solved is to provide a process to stabilize and/or increase the specific activity of an enzyme catalyst having nitrilase activity when converting glycolonitrile to glycolic acid in the presence of formaldehyde. 
+ SUMMARY OF THE INVENTION 
+ The present problem has been solved by providing a process for stabilizing and/or increasing the specific activity of a nitrilase catalyst comprising a polypeptide having nitrilase activity when enzymatically converting glycolonitrile to glycolic acid, said process comprising:
+         (a) providing a set of reaction components comprising:
+           (i) an aqueous solution of glycolonitrile comprising at least 0.01 ppm formaldehyde;   (ii) an enzyme catalyst comprising a polypeptide having nitrilase activity wherein said polypeptide comprises a catalytic signature motif of SEQ ID NO: 1; wherein said enzyme catalyst comprises a specific activity for hydrolyzing glycolonitrile to glycolic acid; and   (iii) an effective amount of at least one amine protectant selected from the group consisting of:
+               a) a compound of the formula
+ 
+[R 3 ] (1+x) —NH (2−X)  
+   
+   wherein X is 0 or 1 and R 3  is independently C1 to C20 hydrocarbyl group or substituted hydrocarbyl group; wherein R 3  optionally comprises one or more ether linkages; with the proviso that (i) the substituted group is preferably not a cyano group capable of reacting with the enzyme catalyst and (ii) R 3  is not a carbonyl group,
+               b) a polyamine polymer comprising an effective number of free amine groups; and   c) an amine-functionalized material comprising an effective number of free amine groups;   
+   wherein the amine protectant is not naturally-produced by said enzyme catalyst;   
+   (b) combining the set of reaction components under suitable aqueous reaction conditions whereby glycolic acid is produced; wherein said specific activity is increased by the addition of said at least one amine protectant; and   (c) recovering the glycolic acid or salt thereof produced in (b).       
+ 
+ BRIEF DESCRIPTION OF THE FIGURE, SEQUENCE LISTING, AND THE BIOLOGICAL DEPOSITS 
+ The invention can be more fully understood from the sequence listing, the biological deposits, the Figure, and the detailed description that together form this application. 
+ FIGURE 
+   FIG. 1 , panels A-G, is a CLUSTALW alignment (version 1.83 using default parameters) of various nitrilase sequences. The conserved catalyst signature sequence surrounding the catalyst cysteine residue is highlighted in gray shading. The amino acids representing the catalytic triad (Glu 48 , Lys 130 , and Cys 164 ; numbering based on the amino acid sequence SEQ ID NO: 4) are underlined. 
+ 
+ SEQUENCE LISTING 
+ The following sequence descriptions and sequences listings attached hereto comply with the rules governing nucleotide and/or amino acid sequence disclosures in patent applications as set forth in 37 C.F.R. §1.821-1.825. The Sequence Descriptions contain the one letter code for nucleotide sequence characters and the three letter codes for amino acids as defined in conformity with the IUPAC-IYUB standards described in  Nucleic Acids Research  13:3021-3030 (1985) and in the  Biochemical Journal  219 (No. 2):345-373 (1984) which are herein incorporated by reference. The symbols and format used for nucleotide and amino acid sequence data comply with the rules set forth in 37 C.F.R. §1.822. 
+ SEQ ID NO: 1 is the amino acid sequence of the catalytic signature motif encompassing the essential cysteine residue of nitrilase enzymes (Formula 1). 
+ SEQ ID NO: 2 is the amino acid sequence of a preferred catalyst signature motif encompassing the essential cysteine residue of nitrilase enzymes (Formula 2). 
+ SEQ ID NO: 3 is the nucleotide sequence of the  Acidovorax facilis  72W nitrilase coding sequence comprising a change in the start codon from TTG to ATG to facilitate recombinant expression in  E. coli.    
+ SEQ ID NO: 4 is the deduced amino acid sequence of the  Acidovorax facilis  72W nitrilase (ATCC 55746). 
+ SEQ ID NO: 5 is the amino acid sequence of the  Alcaligenes faecalis  JM3 nitrilase (GENBANK® BAA02684.1). 
+ SEQ ID NO: 6 is the amino acid sequence of the  Rhodococcus rhodochrous  J1 nitrilase (GENBANK® Q03217). 
+ SEQ ID NO: 7 is the amino acid sequence of the  Rhodococcus rhodochrous  K22 nitrilase (GENBANK® Q02068). 
+ SEQ ID NO: 8 is the amino acid sequence of the  Nocardia  sp. C-14-1 nitrilase (GENBANK® AAX18182.1). 
+ SEQ ID NO: 9 is the amino acid sequence of the  Bordetella bronchiseptica  RB50 nitrilase (GENBANK® NP — 887662.1). 
+ SEQ ID NO: 10 is the amino acid sequence of the  Arabidopsis thaliana  nitrilase (GENBANK® AAB60275.1 and AAA19627.1). 
+ SEQ ID NO: 11 is the amino acid sequence of the  Synechococcus elongatus  PCC 7942 nitrilase (GENBANK® YP399857.1). 
+ SEQ ID NO: 12 is the amino acid sequence of the  Synechococcus elongatus  PCC 6301 nitrilase (GENBANK® YP — 171411.1). 
+ SEQ ID NO: 13 is the amino acid sequence of the  Synechocystis  sp. PCC 6803 nitrilase (GENBANK® NP — 442646.1). 
+ SEQ ID NO: 14 is the amino acid sequence of the  Pseudomonas entomophila  L48 nitrilase (GENBANK® YP — 6090481.1). 
+ SEQ ID NO: 15 is the amino acid sequence of the  Zymomonas moblis  nitrilase (GENBANK® YP — 162942.1). 
+ SEQ ID NO: 16 is the amino acid sequence of the  Bacillus  sp. OxB-1 nitrilase (GENBANK® BAA90460.1). 
+ SEQ ID NO: 17 is the amino acid sequence of the  Comamonas testosteroni  nitrilase (GENBANK® AAA82085.1). 
+ SEQ ID NO: 18 is the amino acid sequence of the  Synechococcus  sp. CC9605 nitrilase (GENBANK® YP — 381420.1). 
+ SEQ ID NO: 19 is the amino acid sequence of the    Pseudomonas fluorescens      Pf  5 nitrilase (GENBANK® YP — 260015.1). 
+ SEQ ID NO: 20 is the amino acid sequence of the  Nocardia farcinica  IFM 10152 nitrilase (GENBANK® YP — 119480.1). 
+ SEQ ID NO: 21 is the amino acid sequence of the  Alcaligenes faecalis  1650 nitrilase (GENBANK® AAY06506.1). 
+ SEQ ID NO: 22 is the amino acid sequence of the  Pseudomonas syringae  pv.  syringae  B728a nitrilase (GENBANK® AAY35081.1). 
+ SEQ ID NO: 23 is the amino acid sequence of the  Bradyrhizobium  sp. BTAiI nitrilase (GENBANK® ZP — 00859948.1). 
+ SEQ ID NO: 24 is the amino acid sequence of the  Rhodococcus rhodochrous  NCIMB 11216 nitrilase (GENBANK® CAC88237). 
+ SEQ ID NO: 25 is the amino acid sequence of  Rhodococcus rhodochrous  ATCC™ 39484 
+ SEQ ID NO: 26 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201Q; Leu→Gln). 
+ SEQ ID NO: 27 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 26) comprising a single amino acid substitution at residue position 201 (Leu201→Gln) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 28 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201A; Leu→Ala). 
+ SEQ ID NO: 29 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO; 28) comprising a single amino acid substitution at residue position 201 (Leu201→Ala) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 30 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201C; Leu→Cys). 
+ SEQ ID NO: 31 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 30) comprising a single amino acid substitution at residue position 201 (Leu201→Cys) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 32 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201T; Leu→Thr). 
+ SEQ ID NO; 33 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 32) comprising a single amino acid substitution at residue position 201 (Leu201→Thr) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 34 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201G; Leu→Gly). 
+ SEQ ID NO: 35 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 34) comprising a single amino acid substitution at residue position 201 (Leu201→Gly) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 36 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201H; Leu→His). 
+ SEQ ID NO: 37 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 36) comprising a single amino acid substitution at residue position 201 (Leu201→His) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 38 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201K; Leu→Lys). 
+ SEQ ID NO: 39 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 38) comprising a single amino acid substitution at residue position 201 (Leu201→Lys) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 40 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201N; Leu→Asn). 
+ SEQ ID NO: 41 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 40) comprising a single amino acid substitution at residue position 201 (Leu201→Asn) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 42 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 201 (L201S; Leu→Ser). 
+ SEQ ID NO: 43 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 42) comprising a single amino acid substitution at residue position 201 (Leu201→Ser) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 44 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 168 (F168K; Phe→Lys). 
+ SEQ ID NO: 45 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 44) comprising a single amino acid substitution at residue position 168 (Phe168→Lys) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 46 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 168 (F168M; Phe→Met). 
+ SEQ ID NO: 47 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 46) comprising a single amino acid substitution at residue position 168 (Phe168→Met) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 48 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 168 (F168T; Phe→Thr). 
+ SEQ ID NO: 49 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 48) comprising a single amino acid substitution at residue position 168 (Phe168 →Thr) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 50 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 168 (F168V; Phe→Val). 
+ SEQ ID NO: 51 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO:50) comprising a single amino acid substitution at residue position 168 (Phe168→Val) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 52 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 168 (T210A; Thr→Ala). 
+ SEQ ID NO: 53 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 52) comprising a single amino acid substitution at residue position 210 (Thr210→Ala) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 54 is the nucleotide sequence of an  A. facilis  72W nitrilase mutant comprising a codon change which resulted in a single amino acid substitution at residue position 168 (T210C; Thr→Cys). 
+ SEQ ID NO: 55 is the deduced amino acid sequence of the mutant nitrilase (SEQ ID NO: 54) comprising a single amino acid substitution at residue position 210 (Thr210→Cys) of the  A. facilis  72W nitrilase. 
+ SEQ ID NO: 56 is the nucleotide sequence of the  A. facilis  72W nitrilase expressed in  E. coli  strain SS1001 (ATCC PTA-1177). 
+ SEQ ID NO: 57 is the deduced amino acid sequence of the mutant  A. facilis  72W nitrilase expressed in  E. coli  SS1001 (ATCC PTA-1177). 
+ BIOLOGICAL DEPOSITS 
+ The following biological deposits have been made under the terms of the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure: 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Depositor Identification 
+ Int'l. Depository 
+   
+ 
+ 
+   
+ Reference 
+ Designation 
+ Date of Deposit 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+   Acidovorax facilis  72W 
+ ATCC 55746 
+ 8 Mar. 1996 
+ 
+ 
+   
+   E. coli  SS1001 
+ ATCC PTA-1177 
+ 11 Jan. 2000 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As used herein, “ATCC” refers to the American Type Culture Collection International Depository Authority located at ATCC, 10801 University Blvd., Manassas, Va. 20110-2209, USA. The “International Depository Designation” is the accession number to the culture on deposit with ATCC. 
+ The listed deposits will be maintained in the indicated international depository for at least thirty (30) years and will be made available to the public upon the grant of a patent disclosing it. The availability of a deposit does not constitute a license to practice the subject invention in derogation of patent rights granted by government action. 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ A process is provided to stabilize and/or increase the specific activity of an enzyme catalyst having nitrilase activity when converting glycolonitrile to glycolic acid under suitable aqueous reaction conditions, wherein the reaction conditions includes an effective amount of at least one amine protectant. 
+ Definitions 
+ In this disclosure, a number of terms and abbreviations are used. The following definitions apply unless specifically stated otherwise. 
+ As used herein, the term “comprising” means the presence of the stated features, integers, steps, or components as referred to in the claims, but that it does not preclude the presence or addition of one or more other features, integers, steps, components or groups thereof. 
+ As used herein, the term “about” modifying the quantity of an ingredient or reactant of the invention employed refers to variation in the numerical quantity that can occur, for example, through typical measuring and liquid handling procedures used for making concentrates or use solutions in the real world; through inadvertent error in these procedures; through differences in the manufacture, source, or purity of the ingredients employed to make the compositions or carry out the methods; and the like. 
+ The term “about” also encompasses amounts that differ due to different equilibrium conditions for a composition resulting from a particular initial mixture. Whether or not modified by the term “about”, the claims include equivalents to the quantities. In one embodiment, the term “about” means within 10% of the reported numerical value, preferably within 5% of the reported numerical value. 
+ As used herein, the terms “amine protectant”, “exogenously added amine protectant”, and “protectant” are used interchangeably to refer to a compound included in the reaction mixture that is not naturally-produced, isolated, or a naturally a portion of the nitrilase catalyst, wherein the amine protectant comprises an effective amount of at least one primary amine group (R—NH 2 ) and/or secondary amine group (R—NH—R 2 ) wherein R and R 1  may be the same or different and wherein neither R or R 2  are carbonyl groups (i.e., the primary or secondary amine group is not part of an amide group). In a preferred embodiment, the amine protectant comprises an effective number of primary amine groups. In one embodiment, the amine protectant is elected from the group consisting of polyamine polymers and amine-functionalized materials including amine-functionalized support materials and amine-functionalized polymers. 
+ As used herein, the term “effective amount of an amine protectant” or “effective amount of at least one amine protectant” will refer to an amount of the amine protectant that improves the nitrilase catalyst stability, specific activity, and/or catalytic productivity when converting glycolonitrile to glycolic acid (or the ammonium salt thereof). In one embodiment, the “effective amount of amine protectant” refers to the amount of amine protectant present in the reaction mixture that results in a measured increase in the catalyst's specific activity when compared to the specific activity of the same catalyst in the absence of the amine protectant under identical reaction conditions. It is known that an aqueous solution of glycolonitrile typically contains free formaldehyde and formaldehyde-derived impurities produced during the synthesis of glycolonitrile or generated as the result of glycolonitrile dissociation. It is understood that the amine protectant will have an “effective amount of free primary and/or secondary amine groups” capable of reacting with the formaldehyde or formaldehyde-derived impurities. By proviso, the amine protectant does not include compounds naturally produced by or naturally present in the nitrilase catalyst (for example, natural compounds produced by or within a whole cell catalyst or those found within a whole cell extract). 
+ As used herein, the term “amine-functionalized” or “amine functionalized material” refers to a compound or material that has been chemically modified to have one or more primary and/or secondary amine groups. In one embodiment, the amine-functionalized material is selected from the group consisting of amine-functionalized support materials and amine-functionalized polymers. Means to chemically-functionalize compounds to contain one or more amine groups are well-known in the art (see, for example, Bickerstaff, G. F.,  Immobilization of Enzymes and Cells, Methods in Biotechnology ,  Volume  1. 1997. Humana Press, Totowa, N.J., and Wong, S. S.,  Chemistry of Protein Conjugation and Crosslinking,  1991. CRC Press, Boca Raton, Fla.). 
+ As used herein, “amine-functionalized support materials” include, but are not limited to inorganic materials such as controlled pore glass and glass beads (e.g. aminopropylsilated glass beads), silica, magnetite, and alumina as well as support materials often used weakly basic anion exchange resins as well as ω-aminohexylagarose, ω-aminododecylagarose, and ω-aminoethylagarose. In one embodiment, the amine-functionalized material comprises polyethylenimine (i.e. “a polyethylenimine-functionalized material”). 
+ As used herein, the term “amine-functionalized polymers” refers to polymers that have been modified to include one or more primary and/or secondary amine groups. Typically, the non-functionalized polymer does not normally contain an effective number of free amine groups. 
+ As used herein, the terms “free amine group” refers to a primary amine group (R—NH 2 ) and/or a secondary amine group (R—NH—R 2 ) on the amine protectant that is capable of reacting with formaldehyde. 
+ As used herein, the term “polyamine polymers” refers to polymers comprising one or more free amine groups. Polyamine polymers are prepared from at least one monomer comprising at least one primary and/or at least one secondary amine group. In one embodiment, the polyamine polymers include copolymers comprising at least one free amine group. Polyamine polymers may range in size from oligomers (typically less than 1,000 Daltons) to higher molecule weight polymers ranging from 1,000 Daltons to 10,000,000 Daltons, preferably from 1,000 Daltons to 2,000,000 Daltons, more preferably 1,000 Daltons to 1,000,000 Daltons, and more preferably from 10,000 Daltons to 1,000,000 Daltons. 
+ As used herein, the term “glycolonitrile” is abbreviated as “GLN” and is synonymous with hydroxyacetonitrile, 2-hydroxyacetonitrile, hydroxymethylnitrile, and all other synonyms of CAS Registry Number 107-16-4. 
+ As used herein, the term “glycolic acid” is abbreviated as “GLA” and is synonymous with hydroxyacetic acid, hydroxyethanoic acid, and all other synonyms of CAS Registry Number 79-14-1. The glycolic acid produced by the present processes may in the form of the protonated carboxylic acid and/or the corresponding ammonium salt. 
+ As used herein, the term “ammonium glycolate” is abbreviated “NH 4 GLA”. 
+ As used herein, the term “glycolamide” is the amide derived from the reaction of ammonia with glycolic acid and refers to all other synonyms of compounds having CAS Registry Number 598-42-5. 
+ As used herein, the term “glycolide” refers to the compound of CAS Registry Number 502-97-6. 
+ As used herein, the term “formaldehyde” is abbreviated as “FA” and is synonymous with formic aldehyde, methyl aldehyde, oxomethane, and all other synonyms of CAS Registry Number 50-00-0. Commercially available formaldehyde is typically comprised of a mixture of monomeric formaldehyde (“free formaldehyde”) and various oligomers of formaldehyde along with some methanol (typically about 1 wt % to about 15 wt %). 
+ As used herein, the term “hydrogen cyanide” is synonymous with prussic acid, hydrocyanic acid, and all other synonyms of CAS Registry Number 200-821-6. 
+ As used herein, the term “recovering” means isolating, purifying, or transferring the product formed by the present process. Methods to isolate and purify the product(s) from the reaction mixture are well known in the art may include, but are not limited to selective precipitation, crystallization, filtration, reactive solvent extraction, ion exchange, electrodialysis, polymerization, distillation, thermal decomposition, alcoholysis, column chromatography, and combinations thereof. In one embodiment, the term “recovering” may also include transferring the product mixture (typically after filtering out the enzyme catalyst) to another reaction to create one or more additional products. In a preferred embodiment, ion exchange is used to recover the glycolic acid. 
+ As used herein, the terms “enzyme catalyst”, “nitrilase catalyst” or “microbial cell catalyst” refers to a catalyst that is characterized by a nitrilase activity (i.e., comprises at least one polypeptide having nitrilase activity) for converting glycolonitrile to glycolic acid and ammonia. A nitrilase enzyme directly converts a nitrite (preferably, an aliphatic nitrile) to the corresponding carboxylic acid, without forming the corresponding amide as intermediate (see Equation 1). Nitrilases share several conserved signature domains known in the art including a signature domain herein referred to as the “catalytic signature sequence” or “signature sequence”. This region comprises an essential cysteine residue (e.g., Cys 164  of SEQ ID NO: 4). As such, polypeptides having nitrilase activity can be identified by the existence of the catalytic domain signature sequence (SEQ ID NO: 1). In a preferred embodiment, the signature sequence is SEQ ID NO: 2. The enzyme catalyst may be in the form of a whole microbial cell, permeabilized microbial cell(s), one or more cell components of a microbial cell extract, partially purified enzyme, or purified enzyme. The enzyme catalyst can be free (unimmobilized) or immobilized in or on a soluble or insoluble support. As used herein, “recycled enzyme catalyst” refers to an enzyme catalyst that is reused as an enzyme catalyst in batch reactions. In a preferred embodiment, the enzyme catalyst is a transformed microbial host cell recombinantly expressing at least one enzyme having nitrilase activity; wherein said enzyme comprises the catalytic signature motif of SEQ ID NO: 1 or SEQ ID NO: 2. 
+ As used herein, the terms “ Acidovorax facilis ” and “ A. facilis ” are used interchangeably and refer to  Acidovorax facilis  72W deposited to the American Type Culture Collection (an international depository authority) having accession number 55746 (“ATCC 55746”). The mutant nitrilases derived from  A. facilis  72W characterized by improved nitrilase activity when converting glycolonitrile to glycolic acid have been previously reported (see co-owned U.S. Pat. No. 7,198,927). Examples of these  A. facilis  72W-derived mutant nitrilases are provide by SEQ ID NOs: 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, and 55. 
+ As used herein, the terms “ Escherichia coli ” and “ E. coli ” are used interchangeably. Several strains of  E. coli  suitable for recombinant expression are described herein including, but not limited to  E. coli  MG1655 having international depository number ATCC 47076,  E. coli  FM5 having international depository number ATCC 53911,  E. coli  W3110 having international depository number ATCC 27325,  E. coli  MC4100 having international depository number ATCC 35695, and  E. coli  W1485 having international depository number ATCC 12435. In one embodiment, suitable  Escherichia coli  strains include  E. coli  FM5 (ATCC 53911) and  E. coli  MG1655 (ATCC 47076). 
+ As used herein, the terms “ E. coli  SS1001” or “SS1001” refer to a transformed  E. coli  strain expressing the  Acidovorax facilis  72W nitrilase having ATCC Accession No. PTA-1177 (see U.S. Pat. No. 6,870,038; herein incorporated in its entirety by reference). The recombinantly expressed  E. coli  SS1001 nitrilase (SEQ ID NO: 57) contains 2 minor sequence changes in comparison to the wild-type 72W nitrilase sequence (SEQ ID NO: 4). The start codon was changed from GTG to ATG to facilitate recombinant expression and an artifact was introduced during cloning that resulted in a single amino acid change near the C-terminal (Pro367 [CCA]→Ser [TCA]). 
+ As used herein, the terms “suitable aqueous glycolonitrile reaction mixture”, “suitable aqueous reaction mixture”, and “suitable reaction conditions” refer to the materials (including at least one amine protectant) and reaction conditions under which the present process is conducted. The components of the suitable aqueous reaction mixture are provided herein and those skilled in the art appreciate the range of component variations suitable for this process. 
+ As used herein, the terms “aqueous ammonium glycolate solution”, “aqueous solution comprising ammonium glycolate”, and “aqueous solution of ammonium glycolate” will be used to describe an aqueous solution comprising ammonium glycolate produced by the enzymatic hydrolysis of glycolonitrile under typical enzymatic reaction conditions (i.e., a pH range of about 6 to about 8). The aqueous solution of ammonium glycolate comprises ammonium glycolate at a concentration of at least about 0.1 weight percent (wt %) to about 99 wt % ammonium glycolate. In another embodiment, the aqueous solution of ammonium glycolate is comprised of at least about 10 wt % to about 75 wt % ammonium glycolate. In a further embodiment, the aqueous solution of ammonium glycolate is comprised of at least about 20 wt % to about 50 wt % ammonium glycolate. The pH of the aqueous solution of ammonium glycolate can be about 2 to about 12, preferably 5 to about 10, more preferably 6 to about 8. The pH may be adjusted as needed prior to initiating process steps related to recovering glycolic acid (in the form of the acid or salt) from the aqueous ammonium glycolate solution. 
+ As used herein, the terms “catalyst productivity” and “enzyme catalyst productivity” refer to the total amount of product produced per gram of catalyst. In the present process, the catalyst comprises a nitrilase enzyme (EC 3.5.5.7) and the product formed is glycolic acid and/or ammonium glycolate (depending upon the pH of the reaction). In general, the present methods are conducted under essentially pH neutral conditions so that the glycolic acid produced is predominantly in the form of the corresponding salt of glycolic acid (i.e. ammonium glycolate). Generally, in batch reactions with catalyst recycle, the catalyst activity decreases with each recycle reaction (enzyme inactivation). As shown in Example 6, and in one embodiment, the specific activity of the catalyst is increased over multiple recycle reactions, resulting in an increase in catalyst productivity. 
+ The terms “catalyst specific activity”, “specific activity”, and “nitrilase specific activity” refers to the enzyme activity per unit mass (for example, milligram) of protein, dry cell weight, or bead weight (immobilized catalyst) when converting glycolonitrile to glycolic acid (or the corresponding ammonium glycolate). Comparisons in nitrilase activity were measured proportional to the dry cell weight or bead weight. Since the same catalyst and expression system was used to compare the specific activity between reactions with or without (i.e. the control) the amine protectant, comparisons and reported improvements/increases in nitrilase specific activity were measured relative to dry cell weight (dcw) or bead weight (bw). As used herein, the term “improved catalyst specific activity”, and “improved specific activity” refers to the increase in specific activity observed relative to the specific activity of the corresponding control. The improvement in specific activity is measured under identical reaction conditions wherein the only different is the inclusion or omission of the amine protectant. In one embodiment, the improvement in specific activity is measured over multiple recycle reactions. In another embodiment, the improvement or increase in catalyst specific activity using the present process is increased at least 1%, preferably at least 5%, more preferably at least 10%, even more preferably at least 25%. 
+ As used herein, the term “one unit of enzyme activity” or “one unit of nitrilase activity” or “U” is defined as the amount of enzyme activity required for the production of 1 μmmol of glycolic acid product per minute (GLA U/g dry cell weight or bead weight) at a specified temperature (e.g. 25° C.). 
+ As used herein, the terms “recombinant organism”, “transformed host cell”, “host cell”, “transformant”, “transgenic organism”, and “transformed microbial host” refer to a host organism having been transformed with heterologous or foreign DNA. The recombinant organisms of the present invention express foreign coding sequences or genes that encode active nitrilase enzyme. “Transformation” refers to the transfer of a DNA fragment into the host organism. The transferred DNA fragment can be chromosomally or extrachromosomally incorporated (i.e., via a vector) into the host organism. As used herein, the term “transformation cassette” refers to a specific fragment of DNA containing a set of genetic elements conveniently arranged for insertion into a host cell, usually as part of a plasmid. As used herein, the term “expression cassette” refers to a specific fragment of DNA containing a set of genetic elements conveniently arranged for insertion into a host cell, usually as part of a plasmid, which also allows for enhanced gene expression in the host. 
+ As used herein, the terms “nucleic acid fragment” and “nucleic acid molecule” refer to DNA molecule that may encode an entire gene, coding sequence, and/or regulatory sequences preceding (5′, upstream) or following (3′, downstream) the coding sequence. In one aspect, the present nucleic acid molecules encode for polypeptides having nitrilase activity. 
+ As used herein, the term “gene” refers to a nucleic acid molecule that expresses a specific protein. As used herein, it may or may not including regulatory sequences preceding (5′ non-coding sequences) and following (3′ non-coding sequences) the coding sequence. “Chimeric gene” refers to any gene that is not a native gene, comprising regulatory and coding sequences that are not found together in nature. Accordingly, a chimeric gene may comprise regulatory sequences and coding sequences that are derived from different sources, or regulatory sequences and coding sequences derived from the same source, but arranged in a manner different than that found in nature. “Endogenous gene” refers to a native gene in its natural location in the genome of an organism. A “foreign” gene refers to a gene not normally found in the host organism, but that is introduced into the host organism by gene transfer. Foreign genes can comprise native genes inserted into a non-native organism, or chimeric genes. A “transgene” is a gene that has been introduced into the genome by a transformation procedure. 
+ As used herein, the term “coding sequence” refers to a DNA sequence that codes for a specific amino acid sequence. As used herein, “suitable regulatory sequences” refer to nucleotide sequences located upstream (5′ non-coding sequences), within, or downstream (3′ non-coding sequences) of a coding sequence, and which influence the transcription, RNA processing or stability, or translation of the associated coding sequence. Regulatory sequences may include promoters, translation leader sequences, introns, polyadenylation recognition sequences, RNA processing sites, effector binding sites, and stem-loop structures. 
+ “Promoter” refers to a DNA sequence capable of controlling the expression of a coding sequence or functional RNA. In general, a coding sequence is located 3′ to a promoter sequence. Promoters may be derived in their entirety from a native gene, or be composed of different elements derived from different promoters found in nature, or even comprise synthetic DNA segments. Promoters that cause a gene to be expressed in most cell types at most times or under most environmental conditions are commonly referred to as “constitutive promoters”. Promoters that cause a gene to be expressed only in the presence of a particular compound or environmental condition are commonly referred to as “inducible promoters”. Since in most cases the exact boundaries of regulatory sequences have not been completely defined, DNA fragments of different lengths may have identical promoter activity. 
+ As used herein, the term “operably linked” refers to the association of nucleic acid sequences on a single nucleic acid molecule so that the function of one sequence is affected by the other. For example, a promoter is operably linked with a coding sequence when it is capable of affecting the expression of that coding sequence (i.e., that the coding sequence is under the transcriptional control of the promoter). Coding sequences can be operably linked to regulatory sequences in sense or antisense orientation. 
+ As used herein, the term “3′ non-coding sequences” refers to DNA sequences located downstream of a coding sequence and include polyadenylation recognition sequences (normally limited to eukaryotes) and other sequences encoding regulatory signals capable of affecting mRNA processing or gene expression. The polyadenylation signal (normally limited to eukaryotes) is usually characterized by affecting the addition of polyadenylic acid tracts to the 3′ end of the mRNA precursor. 
+ The skilled artisan is well aware of the “codon-bias” exhibited by a specific host cell in using nucleotide codons to specify a given amino acid. Therefore, when synthesizing a gene for improved expression in a host cell, it is desirable to design the gene such that its codon usage reflects the preferred codon bias of the host cell. A survey of genes derived from the host cell where sequence information is available can determine its codon bias. Codon-optimization is well known in the art and has been described for various systems including, but not limited to yeast (Outchkourov et al.,  Protein Expr Purif,  24(1):18-24 (2002)) and  E. coli  (Feng et al., Biochemistry, 39(50):15399-15409 (2000)). 
+ Nitrilase Catalysts 
+ All nitrilases (EC 3.5.5.7) share a conserved catalytic triad (Glu, Lys, and Cys) (Chauhan et al.,  Appl. Microbial. Biotechnol.  61:118-122 (2003); Pace, H. and Brenner, C.,  Genome Biol.  2(1):reviews0001.1-0001.9 (2001)). All known nitrilases have a nucleophilic cysteine in the enzyme active site (Cowan et al,  Extremophiles,  2:207-216 (1998); Pace, H. and Brenner, C., supra; and Chauhan et al., supra) and all are susceptible to inactivation by thiol reagents (1.0 mM concentrations of copper chloride, silver nitrate, mercuric acetate, or ferric chloride each produced major decreases in  A. facilis  72W nitrilase enzyme activity). Cysteine residues are also capable of being irreversibly oxidized to sulfinic acids, resulting in a loss of enzyme activity. Despite the sensitivity of nitrilase enzymes to various inactivating mechanisms, immobilized  A. facilis  72W cells are robust, capable of retaining much of their nitrilase activity after numerous recycle reactions (U.S. Pat. No. 6,870,038; U.S. Pat. No. 7,148,051; U.S. Pat. No. 7,198,927; and Chauhan et al., supra). Nitrilase catalysts derived from the  A. facilis  72W nitrilase also been shown to catalyze the conversion of α-hydroxynitriles (i.e., glycolonitrile) to α-hydroxycarboxylic acids (i.e., glycolic acid) (see U.S. Pat. No. 6,383,786; U.S. Pat. No. 6,416,980; and U.S. Pat. No. 7,198,927). 
+ Sequence comparisons of the  A. facilis  72W nitrilase to other bacterial nitrilases have been reported (U.S. Pat. No. 6,870,038; Chauhan et al., supra). The 72W nitrilase has several conserved signature domains including a 16-amino acid region near the amino terminus (amino acid residues 40-55 of SEQ ID NO: 4) and a 12 amino acid catalytic region (amino acid residues 160-171 of SEQ ID NO: 4) containing the essential cysteine residue. This essential cysteine residue (Cys 164  of SEQ ID NO: 4), along with conserved glutamic acid (Glu 48  of SEQ ID NO:4) and lysine residues (Lys 130  of SEQ ID NO:4), form the catalytic triad motif found in all nitrilases (Pace, H., and Brenner, C., supra). 
+ The regions surrounding each of the catalytic triad residues are highly conserved, especially the region surrounding the catalytic cysteine residue. The essential catalytic cysteine residue is located with a highly conserved region referred to as the “catalytic signature motif” or “signature motif”. As such, the present process is useful for protecting the enzymatic activity of any nitrilase comprising the catalytic signature motif defined by Formula 1 (bold indicates strictly conserved amino acid residues, italicized residues are those that exhibit minimal variability [i.e. minimal variation of 3 or fewer amino acid residues], the catalytic cysteine residue is underlined): 
+               Formula 1 (SEQ ID NO: 1).             Gly -Xaa 1 -Xaa 2 -Xaa 3 -   Cys   - Trp - Glu -Xaa 4 -Xaa 5 -Xaa 6 -                       Xaa 7 -Xaa 8             
+wherein
+ 
+ Xaa 1 =Ala or Gly; 
+ Xaa 2 =Leu, Val, or Ala; 
+ Xaa 3 =Ala, Asn, Ile, Cys, Val, or Gln; 
+ Xaa 4 =His or Asn; 
+ Xaa 5 =Leu, Tyr, Phe, Ala, Met, Lys, Val, Thr, or Arg; 
+ Xaa 6 =Asn, Gln, Met, Leu, or Ser; 
+ Xaa 7 =Pro or Thr; and 
+ Xaa 6 =Leu or Val. 
+ In a preferred embodiment, the nitrilase signature motif of  Formula  1 is Xaa 1 =Ala or Gly; Xaa 2 =Leu; Xaa 3 =Ala, Mn, Ile, Cys, Val, or Gln; Xaa 4 =His; Xaa 5 =Leu, Tyr, Phe, Ala, Met, Lys, Val, Thr or Arg; Xaa 6 =Ser, Gln, Asn, or Met; Xaa 7 =Pro; and Xaa 8 =Leu; resulting in the catalytic signature motif represented by the following: 
+ 
+ 
+ 
+ 
+ 
+ (SEQ ID NO: 2) 
+ 
+ 
+ 
+ 
+ Gly-Xaa 1 -Leu-Xaa 3 -Cys-Trp-Glu-His-Xaa 5 -Xaa 6 -Pro- 
+ 
+ 
+   
+ 
+ 
+ Leu 
+ 
+ 
+ 
+ 
+ 
+ Examples of nitrilases, including the sequences and position of the corresponding catalytic signature motif sequence, are provided in Table 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+ 
+   
+ 
+ 
+ Conserved Catalytic Cysteine Region-Catalytic 
+ 
+ 
+ Signature Motifs 
+ 
+ 
+ 
+ 
+   
+   
+ Amino 
+ Sequence of 
+ 
+ 
+   
+   
+ Acid 
+ Signature Motif 
+ 
+ 
+   
+ GenBank ® 
+ SEQ 
+ (amino acid 
+ 
+ 
+ Nitrilase 
+ Accession 
+ ID 
+ residue 
+ 
+ 
+ Source 
+ Number 
+ NO. 
+ positions) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acidovorax 
+ 
+ ABD98457.1 
+ 4 
+ GGLNCWEHFQPL 
+ 
+ 
+   Facilis  72W 
+   
+   
+ (160-171) 
+ 
+ 
+   
+ 
+ 
+ 
+ Alcaligenes 
+ 
+ BAA02684.1 
+ 5 
+ GALCCWEHLSPL 
+ 
+ 
+   faecalis  JM3 
+   
+   
+ (159-170) 
+ 
+ 
+   
+ 
+ 
+ 
+   Rhodococcus     
+     Q03217     
+ 6 
+ GALNCWEHFQTL 
+ 
+ 
+ 
+ rhodochrous 
+ 
+   
+   
+ (161-172) 
+ 
+ 
+   J1       
+   
+ 
+ 
+ 
+ Rhodococcus 
+ 
+ Q02068         
+ 7 
+ GGLNCWEHFQPL 
+ 
+ 
+ 
+ rhodochrous 
+ 
+   
+   
+ (154-165) 
+ 
+ 
+ K22 
+ 
+ 
+   
+ 
+ 
+ 
+ Nocardia 
+ 
+ AAX18182.1 
+ 8 
+ GGLNCWEHFQPL 
+ 
+ 
+ sp. C-14-1 
+   
+   
+ (154-165) 
+ 
+ 
+   
+ 
+ 
+ 
+ Bordetella 
+ 
+ NP_887662.1 
+ 9 
+ GAVVCWENYMPL 
+ 
+ 
+ 
+ bronchiseptica 
+ 
+   
+   
+ (161-172) 
+ 
+ 
+ RB50 
+ 
+ 
+   
+ 
+ 
+ 
+ Arabidopsis 
+ 
+ AAB60275.1 
+ 10 
+ GAAICWENRMPL 
+ 
+ 
+ 
+ thaliana 
+ 
+ AAA19627.1 
+   
+ (175-186) 
+ 
+ 
+   
+ 
+ 
+ 
+ Synechococcus 
+ 
+ YP_399557.1 
+ 11 
+ GALACWEHYNPL 
+ 
+ 
+   elongatus  PCC 
+   
+   
+ (157-168) 
+ 
+ 
+ 7942 
+ 
+ 
+   
+ 
+ 
+ 
+ Synechococcus 
+ 
+ YP_171411.1 
+ 12 
+ GALACWEHYNPL 
+ 
+ 
+   elongatus  PCC 
+   
+   
+ (157-168) 
+ 
+ 
+ 6301 
+ 
+ 
+   
+ 
+ 
+ 
+ Synechocystis 
+ 
+ NP_442646.1 
+ 13 
+ GALACWEHYNPL 
+ 
+ 
+ sp. PCC 6803 
+   
+   
+ (165-176) 
+ 
+ 
+   
+ 
+ 
+ 
+ Pseudomonas 
+ 
+ YP_609048I.1 
+ 14 
+ GAAVCWENYMPL 
+ 
+ 
+ 
+ entomophila 
+ 
+   
+   
+ (161-172) 
+ 
+ 
+ L48 
+ 
+ 
+   
+ 
+ 
+ 
+ Zymomonas 
+ 
+ YP_162942.1 
+ 15 
+ GAAICWENYMPV 
+ 
+ 
+ 
+ moblis 
+ 
+   
+   
+ (161-172) 
+ 
+ 
+   
+ 
+ 
+   Bacillus  sp. 
+ BAA90460.1 
+ 16 
+ GGLQCWEHFLPL 
+ 
+ 
+ OxB-1 
+   
+   
+ (158-169) 
+ 
+ 
+   
+ 
+ 
+ 
+ Comamonas 
+ 
+ AAA82085.1 
+ 17 
+ GGLQCWEHALPL 
+ 
+ 
+ 
+ testosteroni 
+ 
+   
+   
+ (159-170) 
+ 
+ 
+   
+ 
+ 
+ 
+ Synechococcus 
+ 
+ YP_381420.1 
+ 18 
+ GALACWEHYNPL 
+ 
+ 
+ sp. CC9605 
+   
+   
+ (156-167) 
+ 
+ 
+   
+ 
+ 
+ 
+ Pseudomonas 
+ 
+ YP_260015.1 
+ 19 
+ GAVICWENMMPL 
+ 
+ 
+ 
+ fluorescens 
+ 
+   
+   
+ (161-172) 
+ 
+ 
+ Pf-5 
+ 
+ 
+   
+ 
+ 
+ 
+ Nocardia 
+ 
+ YP_119480.1 
+ 20 
+ GALCCWEHLQPL 
+ 
+ 
+ 
+ farcinica 
+ 
+   
+   
+ (159-170) 
+ 
+ 
+ IFM 10152 
+ 
+ 
+   
+ 
+ 
+ 
+ Alcaligenes 
+ 
+ AAY06506.1 
+ 21 
+ GALCCWEHLSPL 
+ 
+ 
+ 
+ faecalis 
+ 
+   
+   
+ (159-170) 
+ 
+ 
+ 1650 
+ 
+ 
+   
+ 
+ 
+ 
+ Pseudomonas 
+ 
+ AAY35081.1 
+ 22 
+ GALCCWEHLQPL 
+ 
+ 
+   syringae  pv. 
+   
+   
+ (157-168) 
+ 
+ 
+ 
+ syringae 
+ 
+ 
+ 
+ B728a 
+ 
+ 
+   
+ 
+ 
+ 
+ Bradyrhizobium 
+ 
+ ZP_00859948.1 
+ 23 
+ GALCCWEHLQPL 
+ 
+ 
+ sp. BTAiI 
+   
+   
+ (163-174) 
+ 
+ 
+   
+ 
+ 
+ 
+   Rhodococcus     
+     CAC88237     
+ 24 
+ GALNCWEHFQTL 
+ 
+ 
+ 
+ rhodochrous 
+ 
+   
+   
+ (161-172) 
+ 
+ 
+ NCIMB 11216 
+ 
+ 
+   
+ 
+ 
+ 
+ Rhodococcus 
+ 
+ N/ A   
+ 25 
+ GALNCWEHFQTL 
+ 
+ 
+ 
+ rhodochrous 
+ 
+   
+   
+ (161-172) 
+ 
+ 
+ ATCC 
+ 
+ 
+ 39484 ™ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ In one embodiment, the nitrilase catalyst comprises a polypeptide having nitrilase activity isolated from a genera selected from the group consisting of  Acidovorax, Rhodococcus, Nocardia, Bacillus , and  Alcaligenes . In one embodiment, the nitrilase catalyst comprises a polypeptide having nitrilase activity isolated from a genera selected from the group consisting of  Acidovorax  and  Rhodococcus.    
+ In another embodiment, the polypeptide having nitrilase activity is derived from  Acidovorax facilis  72W (ATCC 55746) or a polypeptide (having nitrilase activity) that is substantially similar to the  Acidovorax facilis  72W nitrilase (SEQ ID NO: 4) or the  A. facilis  72W derived enzyme represented by SEQ ID NO: 51. 
+ In one embodiment, the nitrilase catalyst is a microbial host cell transformed to express at least one polypeptide having nitrilase activity. In one embodiment the transformed host cell is selected from the group consisting of  Comamonas  sp.,  Corynebacterium  sp.,  Brevibacterium  sp.,  Rhodococcus  sp.,  Azotobacter  sp.,  Citrobacter  sp.,  Enterobacter  sp.,  Clostridium  sp.,  Klebsiella  sp.,  Salmonella  sp.,  Lactobacillus  sp.,  Aspergillus  sp.,  Saccharomyces  sp.,  Yarrowia Zygosaccharomyces  sp.,  Pichia  sp.,  Kluyveromyces  sp.,  Candida  sp.,  Hansenula  sp.,  Dunaliella  sp.,  Debaryomyces  sp.,  Mucor  sp.,  Torulopsis  sp.,  Methylobacteria  sp.,  Bacillus  sp.,  Escherichia  sp.,  Pseudomonas  sp.,  Rhizobium  sp., and  Streptomyces  sp. In a preferred embodiment, the microbial host cell is selected from the group consisting of  Bacillus  sp.,  Pseudomonas  sp., and  Escherichia  sp. In a preferred embodiment, the catalyst is an  Escherichia coli  host cell recombinantly expressing one or more of the polypeptides having nitrilase activity. 
+ In another embodiment, the nitrilase catalyst comprises a polypeptide having nitrilase activity wherein said polypeptide having nitrilase activity has at least 60% identity to SEQ ID NO: 51, preferably at least 70% identity to SEQ ID NO: 51, even more preferably at least 80% identity to SEQ ID NO: 51, yet even more preferably at least 90% identity to SEQ ID NO: 51, and most preferably at least 95% identity to SEQ ID NO: 51. 
+ Working examples of several catalysts having nitrilase activity derived from various sources are described herein, including a catalyst derived from the  A. facilis  72W nitrilase. Various mutants derived from the  Acidovorax facilis  72W nitrilase enzyme have been reported in the art (U.S. Pat. No. 7,148,051 and U.S. Pat. No. 7,198,927). 
+ In one embodiment, the polypeptide having nitrilase activity is selected from the group consisting of SEQ ID NOs: 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, and 57. In another embodiment, the polypeptide having nitrilase activity is selected from the group consisting of 4, 24, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, and 57. In another embodiment, the polypeptide having nitrilase activity is selected from the group consisting of 4, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, and 57. n another embodiment, the polypeptide having nitrilase activity is selected from the group consisting of 4, 24, 25, and 51. In another embodiment, the nitrilase catalyst comprises the polypeptide of SEQ ID NO: 51. 
+ Amine Protectants 
+ The amine protectant is any compound exogenously added to the aqueous reaction mixture (e.g., not naturally produced by, naturally found with, or naturally isolated from the enzyme catalyst) comprising at least one primary amine group (R—NH 2 ) and/or secondary amine group (R—NH—R 2 ) capable of reacting with formaldehyde wherein R and R 1  may be the same or different and wherein neither R or R 2  are carbonyl groups (i.e. not an amide group). It is also understood that the present enzyme catalyst hydrolyzes nitrile groups, and thus, the amine protectant preferably does not include a nitrile group capable of being hydrolyzed by a nitrilase catalyst. In a preferred embodiment, the amine protectant is an exogenously added compound or component in the reaction mixture comprising at least one primary amine group. 
+ In one embodiment of the present invention, an effective amount of at least one amine protectant is added to the reaction mixture. As used herein, “an effective amount of an amine protectant” is the amount of amine protectant necessary to result in a detectable improvement in catalyst specific activity, stability, or catalytic productivity when enzymatically converting glycolonitrile to glycolic acid. It is well within the skill of one in the art to adjust the amount of amine protectant in the aqueous reaction mixture in order to achieve the desired effect. In one aspect, the amount of amine protectant added to the reaction mixture comprises a molar excess of free amine groups relative to the amount of formaldehyde present in the reaction mixture. In one aspect, the reaction mixture comprises at least 0.01 ppm formaldehyde. In another aspect, the amount of amine protectant in the reaction mixture comprises a molar ratio of free amine groups (primary, secondary, or a combination thereof) relative to the amount of free formaldehyde (HCHO) present in the reaction mixture ranging from 0.001:1.0 to 1.0:0.001, preferably at least 0.5:1.0. 
+ In one aspect, the amine protectant is selected from the group consisting of:
+         a) a compound of the formula
+ 
+[R 3 ] (1+x) —NH (2−X)  
+       
+ wherein X is 0 or 1 and R 3  is independently C1 to C20 hydrocarbyl group or substituted hydrocarbyl group, wherein R 3  is optionally comprising one or more ether linkages with the proviso that (i) the substituted group is preferably not a cyano group capable of reacting with the nitrilase catalyst, and (ii) R 3  is not a carbonyl group,
+         b) a polyamine polymer comprising an effective number of free amine groups; and   c) an amine-functionalized material comprising an effective number of free amine groups;       
+ wherein the amine protectant is not naturally-produced by the enzyme catalyst. 
+ The hydrocarbyl group of R 3  can be linear, branched, cyclic, polycyclic, or aromatic. As used herein, the terms “hydrocarbyl”, “hydrocarbyl group”, and “hydrocarbyl moiety” is meant a straight chain, branched or cyclic arrangement of carbon atoms connected by single, double, or triple carbon to carbon bonds and/or by ether linkages, and substituted accordingly with hydrogen atoms. Such hydrocarbyl groups may be aliphatic and/or aromatic. Examples of hydrocarbyl groups include methyl, ethyl, propyl, isopropyl, butyl, isobutyl, t-butyl, cyclopropyl, cyclobutyl, pentyl, cyclopentyl, methylcyclopentyl, hexyl, cyclohexyl, benzyl, and phenyl. In a preferred embodiment, the hydrocarbyl moiety is a straight chain, branched or cyclic arrangement of carbon atoms connected by single carbon to carbon bonds and/or by ether linkages, and substituted accordingly with hydrogen atoms. As used herein, “substituted hydrocarbyl” means a group that is substituted and contains one or more substituent groups that do not cause the substrate, catalyst, or product to be unstable or unsuitable for the use or reaction intended. Substituent groups which are generally useful include ether, ester, halo, amino (including primary, secondary and tertiary amine groups), hydroxy, vinylidene or substituted vinylidene, silyl or substituted silyl, nitro, nitroso, sulfonyl, sulfonic acid alkali metal salt, boranyl or substituted boranyl, and thioether. 
+ In one embodiment, the amine protectant is a polyamine polymer comprising an effective number of free amine groups. In another embodiment, polyamine polymers include copolymers comprising an effective number of free amine groups. Polyamine polymers may range in size from oligomers (typically less than 1,000 Daltons) to higher molecule weight polymers ranging from 1,000 Daltons to 10,000,000 Daltons, preferably from 1,000 Daltons to 2,000,000 Daltons, more preferably 1,000 Daltons to 1,000,000 Daltons, and more preferably from 10,000 Daltons to 1,000,000 Daltons. 
+ In one embodiment, the polyamine polymer is selected from the group consisting of 2-amino-2-deoxy-(1→4)-β-D-glucopyranan (i.e. chitosan), polyalkyleneamine polymers having alkylene moieties of 2 to 12 carbon atoms, polyethylenimine, polyallylamine, polyvinyl alcohol/polyvinylamine copolymers, D-polylysine, L-polylysine, mixtures of D/L polylysine, polyethylenimine cross-linked with glutaraldehyde, and mixtures thereof. In a preferred embodiment, the polyamine polymer is polyethyleneimine polymer (linear or branched) and copolymers comprising polyethylenimine. In another preferred embodiment, the polyamine polymer is polyethylenimine cross-linked with glutaraldehyde. In a further preferred embodiment, the enzyme catalyst is immobilized in or on a particle or bead comprising polyethylenimine cross-linked with glutaraldehyde. 
+ The amine protectant may be soluble or insoluble in the aqueous reaction mixture. Soluble amine protectants can be separated from the subsequent product mixture using any number of separation methodologies well known in the art (for example, ion exchange or chromatographic techniques). Depending upon the chemical nature of the soluble amine protectant, one of skill in the art may separate the amine protectant from the glycolic acid (or ammonium glycolate) product by adjusting the post reaction processing conditions to selectively precipitate or adsorb one or more components from the product mixture. For certain applications, it may not be necessary to remove the soluble amine protectant from the product mixture, especially for applications where high purity glycolic acid and/or ammonium glycolate is not required. 
+ In a preferred embodiment, the amine protectant is substantially insoluble in the aqueous reaction mixture. The use of an insoluble amine protectant facilitates simple separation/isolation (i.e. filtration, centrifugation, etc.) from the resulting aqueous product mixture. In another preferred embodiment, the amine protectant is a polyamine polymer that is insoluble in the aqueous reaction mixture. 
+ In another embodiment, the amine protectant is an insoluble amine-functionalized material and may include amine-functionalized support materials and amine-functionalized polymers. Methods to chemically modify insoluble materials to include at least one primary amino group are well-known in the art (for example, see Bickerstaff, G. F.,  Immobilization of Enzymes and Cells, Methods in Biotechnology ,  Volume  1. 1997. Humana Press, Totowa, N.J., and Wong, S. S.,  Chemistry of Protein Conjugation and Crosslinking,  1991. CRC Press, Boca Raton, Fla.). 
+ The amine-functionalized material comprising an effective number of free amine groups (or functionalized to contain an effective number free amine groups) useful in the present process may include, but is not limited to polysaccharides that have been chemically functionalized to contain one or more amino groups (for example, amine-functionalized glycans, agarose, carrageenan, alginate, dextran, and cellulose), methacrylates, polyurethanes, polyesters, nylons, alumina, silica, polystyrene, polyvinyl alcohols, magnetite, and controlled pore glass. Polyalkyleneamine polymers (typically having alkylene moieties of 2 to 12 carbon atoms) and polyalkyleneamine-functionalized support materials may be used, as may soluble or insoluble polyethyleneamine polymers, polyethyleneamine-functionalized supports materials, polyethylenimine, polyethylenimine polymers (linear or branched), polyethylenimine cross-linked with glutaraldehyde, polyethylenimine ion exchange resins, weakly basic anion exchange resins (for example, AMBERLITE® weakly basic anion exchange resins IRA-95, IRA-96, IRA-67, and IRA-92 (available from Rohm and Haas, Philadelphia, Pa.), and DIAION® WA20 or WA21J (available from Mitsubishi Chemical, Tokyo, Japan), polyethylenimine-cellulose, polyethyleneimine-silica, polyallylamine, polyvinyl alcohol/polyvinylamine copolymers, polylysine (D, L, or D/L mixtures), ω-aminohexylagarose, ω-aminododecylagarose, ω-aminoethylagarose, aminopropylsilated glass beads, and combinations thereof. In a preferred embodiment, the amine protectant does not include a cyano group capable of being hydrolyzed by the nitrilase catalyst. 
+ In one embodiment, amino alkyl-, amino(hydroxyalkyl)-, aminoalkyl-ether-, and amino(hydroxyalkyl)-ether derivatives of cellulose, chitin and other naturally-occurring carbohydrates are preferably selected from the group consisting of: 
+ H 2 N—(CH 2 ) n -[carbohydrate] where n=1-10, including alkyl isomers, 
+ H 2 N—(CH 2 ) m —CHOH—(CH 2 ) n -[carbohydrate], where m=0-10 and n=0-10, 
+ H 2 N—(CH 2 ) n —O—[carbohydrate] where n=1-10, and 
+ H 2 N—(CH 2 ) m —CHOH—(CH 2 ) n —O—[carbohydrate] where m=0-10 and n=0-10. 
+ In another embodiment, aminophenyl or aminobenzyl derivatives of cellulose, chitin or other naturally occurring carbohydrates are preferably selected from the group consisting of: 
+ H 2 N—C 6 H 4 —(CH 2 ) n [carbohydrate], 
+ H 2 N—CH 2 —C(CH 2 ) n -[carbohydrate], 
+ H 2 N—C 6 H 4 —(CH 2 ) n —O—[carbohydrate] where n=0-10, and 
+ H 2 N—C 6 H 4 —(CH 2 ) m —CHOH—(CH 2 ) n —O—[carbohydrate], 
+ wherein m=0-10 and n=0-10, including p-, o- and m-benzene ring amino-isomers, aminomethyl-isomers and alkyl group isomers thereof. 
+ Amine-functionalized materials may additionally be prepared as mixed polysaccharide-polymeric derivatives wherein primary amine, aminoalkyl (one to ten carbons per alkyl group), aminohydroxyalkyl (one to ten carbons per alkyl group and one to ten hydroxyl groups per alkyl group), aminobenzene and/or aminoalkylbenzene (one to ten carbons per alkyl group) functional groups are covalently attached to matrices such as epichlorohydrin copolymers of cellulose or chitin and wherein hydrocarbon spacer groups may include alkene as well as alkyl groups. 
+ Non-polysaccharide polymeric derivatives wherein primary amine, aminoalkyl (one to ten carbons per alkyl group), aminohydroxyalkyl (one to ten carbons per alkyl group and one to ten hydroxyl groups per alkyl group), aminobenzene and/or aminoalkylbenzene (one to ten carbons per alkyl group) functional groups are covalently attached to any one of a wide variety of synthetic polymers including polystyrene, styrene-divinylbenzene copolymer, polyvinyl alcohol and cross-linked derivatives thereof, and wherein hydrocarbon spacer groups may include alkene as well as alkyl groups. 
+ In another embodiment, the enzyme catalyst is immobilized in a matrix comprising at least one amine protectant. In another embodiment, the enzyme catalyst is immobilized in an insoluble matrix comprising an effective number of free amine groups. In a preferred embodiment, the insoluble matrix provides and effective number of primary amine groups (i.e. carrageenan beads crosslinked with glutaraldehyde and polyethylenimine). 
+ In those applications where an insoluble amine protectant additive need not be removed from the final product, or where said additive is readily removed from the product mixture (for instance by ion exchange or distillation), then soluble amine protectants may be used. Examples of soluble amine protectants may include, but are not limited to soluble forms of the above mentioned insoluble polymers (e.g., soluble low molecular monomers), C 1 -C 12  aliphatic, cycloaliphatic, or aromatic compounds comprising one or more primary amino groups, 1-amino-2-ethanol, 1-amino-2-propanol, Tris buffer, ethylenediamine and similar soluble amine protectants comprising at least one primary amino group. 
+ In a preferred embodiment, the amine protectant is polyethylenimine. In a further preferred embodiment, the nitrilase catalyst is immobilized in an insoluble matrix crosslinked with glutaraldehyde and polyethylenimine. 
+ One of skill in the art can adjust the amount of amine protectant in the reaction mixture to achieve the desired effect (i.e. an improved in nitrilase activity; also referred to herein as an “effective amount”). In one embodiment, the concentration of amine protectant is at least 0.01 mg/mL, preferably at least 0.1 mg/L, more preferably at least 1 mg/mL, and most preferably at least 5 mg/mL. 
+ Hydrolysis of Glycolonitrile to Glycolic Acid Using a Nitrilase Catalyst 
+ The enzymatic conversion of glycolonitrile to glycolic acid (in the form of the acid and/or the corresponding ammonium salt) was performed by contacting an enzyme catalyst (comprising a polypeptide having nitrilase activity) with a suitable aqueous reaction mixture comprising glycolonitrile using a suitable set of enzymatic reaction conditions (pH range, temperatures, concentrations, etc.) described below. In one embodiment, whole recombinant microbial cells can be used as an enzyme catalyst without any pretreatment. In another embodiment, the microbial cell catalyst can be added directly to a reaction mixture, or maintained separately from the bulk reaction mixture using hollow-fiber membrane cartridges or ultrafiltration membranes. In a further embodiment, the microbial cells can be immobilized in a polymer matrix (e.g., carrageenan or polyacrylamide gel (PAG) particles) or on an insoluble solid support (e.g., celite) to facilitate recovery and reuse of the enzyme catalyst (U.S. Pat. No. 6,870,038; herein incorporated by reference). In yet a further embodiment, purified or partially-purified enzyme(s) can also be isolated from the whole cells and used directly as a catalyst, or the enzyme(s) can be immobilized in a polymer matrix or on an insoluble support. Methods for the immobilization of cells or for the isolated enzymes have been widely reported and are well known to those skilled in the art (Methods in Biotechnology, Vol. 1:  Immobilization of Enzymes and Cells ; Gordon F. Bickerstaff, Editor; Humana Press, Totowa, N.J., USA; 1997). The immobilization of the  A. facilis  72W nitrilase catalyst has previously been reported (U.S. Pat. No. 6,870,038). 
+ The concentration of enzyme catalyst in the aqueous reaction mixture depends on the specific activity of the enzyme catalyst and is chosen to obtain the desired rate of reaction. The wet cell weight of the microbial cells used as catalyst in hydrolysis reactions typically ranges from 0.001 grams to 0.250 grams of wet cells per mL of total reaction volume, preferably from 0.002 grams to 0.050 grams of wet cells per mL. 
+ The temperature of the glycolonitrile hydrolysis reaction is chosen to control both the reaction rate and the stability of the enzyme catalyst activity. The temperature of the reaction may range from just above the freezing point of the reaction mixture (approximately 0° C.) to about 65° C., with a preferred range of reaction temperature of from about 5° C. to about 35° C. The microbial cell catalyst suspension may be prepared by suspending the cells in distilled water, or in a aqueous solution of a buffer which will maintain the initial pH of the reaction between about 5.0 and about 10.0, preferably between about 5.5 and about 8.0, more preferably between about 5.5 and about 7.7, and most preferably about 6.0 to about 7.7. As the reaction proceeds, the pH of the reaction mixture may change due to the formation of an ammonium salt of the carboxylic acid from the corresponding nitrile functionality. The reaction can be run to complete conversion of glycolonitrile with no pH control, or a suitable acid or base can be added over the course of the reaction to maintain the desired pH. 
+ Glycolonitrile was found to be completely miscible with water in all proportions at 25° C. In cases where reaction conditions are chosen such that the solubility of the substrate (i.e., an α-hydroxynitrile) is also dependent on the temperature of the solution and/or the salt concentration (buffer or product glycolic acid ammonium salt, also known as ammonium glycolate) in the aqueous phase, the reaction mixture may initially be composed of two phases: an aqueous phase containing the enzyme catalyst and dissolved α-hydroxynitrile, and an organic phase (the undissolved α-hydroxynitrile). As the reaction progresses, the α-hydroxynitrile dissolves into the aqueous phase, and eventually a single phase product mixture is obtained. The reaction may also be run by adding the α-hydroxynitrile to the reaction mixture at a rate approximately equal to the enzymatic hydrolysis reaction rate, thereby maintaining a single-phase aqueous reaction mixture, and avoiding the potential problem of substrate inhibition of the enzyme at high starting material concentrations. 
+ Glycolic acid may exist in the product mixture as a mixture of the protonated carboxylic acid and/or its corresponding ammonium salt (dependent on the pH of the product mixture; pKa of glycolic acid is about 3.83), and may additionally be present as a salt of the carboxylic acid with any buffer that may additionally be present in the product mixture. Typically, the glycolic acid produced is primarily in the form of the ammonium salt (pH of the glycolonitrile hydrolysis reaction is typically between about 5.5 and about 7.7). The glycolic acid product may be isolated from the reaction mixture as the protonated carboxylic acid, or as a salt of the carboxylic acid, as desired. 
+ The final concentration of glycolic acid in the product mixture at complete conversion of glycolonitrile may range from 0.001 M to the solubility limit of the glycolic acid product. In one embodiment, the concentration of glycolic acid will range from about 0.10 M to about 5.0 M. In another embodiment, the concentration of glycolic acid will range from about 0.2 M to about 3.0 M. 
+ Glycolic acid may be recovered in the form of the acid or corresponding salt using a variety of techniques including, but not limited to ion exchange, electrodialysis, reactive solvent extraction, polymerization, thermal decomposition, alcoholysis, and combinations thereof (see co-pending U.S. Patent Application Publication No. 2006-0247467). 
+ Microbial Expression 
+ The nitrilase catalyst may be produced in heterologous host cells, preferably in microbial hosts. Particularly useful in the present invention will be cells that are readily adaptable to large-scale fermentation methods. Such organisms are well known in the art of industrial bioprocessing, examples of which may be found in  Recombinant Microbes for Industrial and Agricultural Applications , Murooka et al., eds., Marcel Dekker, Inc., New York, N.Y. (1994), and include fermentative bacteria as well as yeast and filamentous fungi. Host cells may include, but are not limited to  Comamonas  sp.,  Corynebacterium  sp.,  Brevibacterium  sp.,  Rhodococcus  sp.,  Azotobacter  sp.,  Citrobacter  sp.,  Enterobacter  sp.,  Clostridium  sp.,  Klebsiella  sp.,  Salmonella  sp.,  Lactobacillus  sp.,  Aspergillus  sp.,  Saccharomyces  sp.,  Yarrowia  sp.,  Zygosaccharomyces  sp.,  Pichia  sp.,  Kluyveromyces  sp.,  Candida  sp.,  Hansenula  sp.,  Dunaliella  sp.,  Debaryomyces  sp.,  Mucor  sp.,  Torulopsis  sp.,  Methylobacteria  sp.,  Bacillus  sp.,  Escherichia  sp.,  Pseudomonas  sp.,  Rhizobium  sp., and  Streptomyces  sp. Particularly preferred is  E. coli . Examples of suitable  E. coli  host cells in which a mutant nitrilase gene can be expressed include, but are not limited to, host cells specified herein and MG1655 (ATCC 47076), FM5 (ATCC 53911), W3110 (ATCC 27325), MC4100 (ATCC 35695), W1485 (ATCC 12435), and their derivatives. In another aspect, the preferred  E. coli  host strains are MG1655 (ATCC 47076) or FM5 (ATCC 53911), 
+ Heterologous expression of the  A. facilis  72W nitrilase has previously been reported (Chauhan et al., supra; U.S. Pat. No. 6,870,038; U.S. Pat. No. 7,148,051; and U.S. Pat. No. 7,198,927). Chauhan et al. report an  E. coli  strain ( E. coli  551001 (ATCC PTA-1177)) that expressed active  A. facilis  72W nitrilase (SEQ ID NO: 57). The coding sequence of the recombinantly expressed ( E. coli SS 1001) nitrilase contained two minor sequence changes in comparison to the wild-type 72W nitrilase sequence (SEQ ID NOs: 3 and 4). The start codon was changed from GTG to ATG to facilitate recombinant expression and an artifact was introduced during cloning that resulted in a single amino acid change near the C-terminal (Pro367 [CCA]→Ser [TCA]). 
+ Recombinant expression in an industrially-suitable host has several advantages. First, the genetic toolbox for many of the commonly used production hosts is usually well developed in comparison to the genetic tools available for many of the microorganisms from which the gene of interest was obtained. Recombinant expression in these hosts is normally more cost effective than expression in the native host. For example, it has been shown that  A. facilis  72W cells grow on glycerol, a relatively expensive carbon substrate, when grown by fermentation, and have not been successfully grown using inexpensive glucose. In contrast,  E. coli  transformants can be grown on glucose to the same cell density as  A. facilis  72W cells in about half the time significantly reducing biocatalyst production costs (U.S. Pat. No. 6,870,038). 
+ Microbial expression systems and expression vectors containing regulatory sequences that direct high level expression of foreign proteins are well-known to those skilled in the art. These could be used to construct chimeric genes for production of the gene products. These chimeric genes could then be introduced into appropriate microorganisms via transformation to provide high level expression of the desired nitrilase. 
+ Chimeric genes will be effective in altering the properties of a host cell. For example, introducing at least one copy of chimeric genes encoding the present nitrilases under the control of the appropriate promoters into a host cell gives the host cell an improved ability to convert glycolonitrile to glycolic acid. The chimeric genes will comprise suitable regulatory sequences useful for driving gene expression of the present mutant nitrilase sequences. Suitable regulatory sequences may include, but are not limited to promoters, translation leader sequences, and ribosomal binding sites. It is preferred if these sequences are derived from the host organism; however, the skilled person will recognize that heterologous regulatory sequences may also be used. 
+ Chimeric genes can be introduced into an appropriate host by cloning it into a suitable expression vector. Vectors or cassettes useful for the transformation of suitable host cells are well known in the art. Typically, the vector or cassette contains sequences directing transcription and translation of the relevant gene, a selectable marker, and sequences allowing autonomous replication or chromosomal integration. Suitable vectors comprise a  region  5′ of the coding sequence that harbors transcriptional initiation controls and a region 3′ of the DNA fragment which controls transcriptional termination. It is most preferred when both control regions are derived from genes homologous to the host cell, although such control regions need not be derived from the genes native to the specific species chosen as a production host. 
+ In one embodiment, the regulatory sequences will include a promoter. Promoters may be constitutive or inducible. Inducible promoters are generally responsive to a specific stimulus (e.g., IPTG or lactose inducing the lac promoter). Inducible promoters may be responsive to a variety of stimuli, including, chemicals, growth cycle, changes in temperature, changes in pH and changes in osmolarity, to name only a few. 
+ Initiation control regions or promoters that are useful to drive expression of the nitrilase in the desired host cell are numerous and familiar to those skilled in the art, including but not limited to CYC1 , HIS 3, GAL1, GAL10, ADH1, PGK, PH05, GAPDH, ADC1, TRP1, URA3, LEU2, ENO, TH (useful for expression in  Saccharomyces ); AOX1 (useful for expression in  Pichia ); and lac, trp, IP L , IP R , T7, tac, P BAD , npr, and trc (particularly useful for expression in  Escherichia coli ). Additional examples of promoters particularly suitable for driving expression in  E. coli  include, but are not limited to the tryptophan operon promoter Ptrp of  E. coli , a lactose operon promoter Plac of  E. coli , a Ptac promoter of  E. coli , a phage lambda right promoter P R , a phage lambda left promoter P L , a 77 promoter, and a promoter of the GAP gene from  Pichia pastoris , or is at least one promoter isolated from the group of microorganisms selected from the group consisting of  Comamonas, Corynebacterium, Brevibacterium, Rhodococcus, Azotobacter, Citrobacter, Enterobacter, Clostridium, Klebsiella, Salmonella, Lactobacillus, Aspergillus, Saccharomyces, Pichia, Zygosaccharomyces, Kluyveromyces, Candida, Hansenula, Dunaliella, Debaryomyces, Mucor, Torulopsis, Methylobacteria, Bacillus, Escherichia, Pseudomonas, Rhizobium , and  Streptomyces.    
+ Termination control regions may also be derived from various genes native to the preferred hosts. Optionally, a termination site may be unnecessary; however, it is most preferred if included. 
+ Additionally, the inserted genetic material may include a ribosome binding site (RBS). The ribosome binding site may be from a phage lambda CII gene or is selected from the group consisting of ribosome binding sites from a gene of  Comamonas, Corynebacterium, Brevibacterium, Rhodococcus, Azotobacter, Citrobacter, Enterobacter, Clostridium, Klebsiella, Salmonella, Lactobacillus, Aspergillus, Saccharomyces, Zygosaccharomyces, Pichia, Kluyveromyces, Candida, Hansenula, Dunaliella, Debaryomyces, Mucor, Torulopsis, Methylobacteria, Bacillus, Escherichia, Pseudomonas, Rhizobium , and  Streptomyces.    
+ Optionally, the gene products may preferably be a secreted product of the transformed host. Secretion of desired proteins into the growth media simplifies purification procedures and reduces costs. Secretion signal sequences are often useful in facilitating the active transport of expressible proteins across cell membranes. A transformed host capable of secretion may be created by incorporating in the host a DNA sequence that codes for a secretion signal. Methods for choosing appropriate signal sequences are well known in the art (see for example EP 546049; WO 93/24631). The secretion signal DNA may be located between the expression-controlling DNA and the instant coding sequence or coding sequence fragment, and in reading frame with the latter. 
+ Industrial Production of the Microbial Catalyst 
+ Where commercial production of the nitrilase catalyst is desired, a variety of culture methodologies may be used. Fermentation runs may be conducted in batch, fed-batch, or continuous mode, methods well-known in the art (Thomas D. Brock in  Biotechnology: A Textbook of Industrial Microbiology , Second Edition (1989) Sinauer Associates, Inc., Sunderland, Mass., (1989); Deshpande, Mukund V.,  Appl. Biochem. Biotechnol.  36(3): 227-234 (1992)). 
+ A classical batch culturing method is a closed system where the composition of the media is set at the beginning of the culture and not subject to artificial alterations during the culturing process. Thus, at the beginning of the culturing process the media is inoculated with the desired organism or organisms and growth or metabolic activity is permitted to occur adding nothing to the system. Typically, however, a “batch” culture is batch with respect to the addition of carbon source and attempts are often made at controlling factors such as pH and oxygen concentration. In batch systems the metabolite and biomass compositions of the system change constantly up to the time the culture is terminated. Within batch cultures cells moderate through a static lag phase to a high growth log phase and finally to a stationary phase where growth rate is diminished or halted. If untreated, cells in the stationary phase will eventually die. Cells in log phase are often responsible for the bulk of production of end product or intermediate in some systems. Stationary or post-exponential phase production can be obtained in other systems. 
+ A variation on the standard batch system is the Fed-Batch system. Fed-Batch culture processes are also suitable in the present invention and comprise a typical batch system with the exception that the substrate is added in increments as the culture progresses. Fed-Batch systems are useful when catabolite repression is apt to inhibit the metabolism of the cells and where it is desirable to have limited amounts of substrate in the media. Measurement of the actual substrate concentration in Fed-Batch systems is difficult and is therefore estimated on the basis of the changes of measurable factors such as pH, dissolved oxygen, and the partial pressure of waste gases such as CO 2 . Batch and Fed-Batch culturing methods are common and well known in the art and examples may be found in Brock (supra) and Deshpande (supra). 
+ Commercial production of the nitrilase catalysts may also be accomplished with a continuous culture. Continuous cultures are an open system where a defined culture media is added continuously to a bioreactor and an equal amount of conditioned media is removed simultaneously for processing. Continuous cultures generally maintain the cells at a constant high-liquid-phase density where cells are primarily in log phase growth. Alternatively, continuous culture may be practiced with immobilized cells where carbon and nutrients are continuously added and valuable products, by-products or waste products are continuously removed from the cell mass. Cell immobilization may be performed using a wide range of solid supports composed of natural and/or synthetic materials. 
+ Continuous or semi-continuous culture allows for the modulation of one factor or any number of factors that affect cell growth or end cell concentration. For example, one method will maintain a limiting nutrient such as the carbon source or nitrogen level at a fixed rate and allow all other parameters to moderate. In other systems a number of factors affecting growth can be altered continuously while the cell concentration, measured by media turbidity, is kept constant. Continuous systems strive to maintain steady-state growth conditions and thus the cell loss due to media being drawn off must be balanced against the cell growth rate in the culture. Methods of modulating nutrients and growth factors for continuous culture processes, as well as techniques for maximizing the rate of cell formation, are well known in the art of industrial microbiology and a variety of methods are detailed by Brock (supra). 
+ Fermentation media in the present invention must contain suitable carbon substrates. Suitable substrates may include, but are not limited to monosaccharides such as glucose and fructose, disaccharides such as lactose or sucrose, polysaccharides such as starch or cellulose or mixtures thereof, and unpurified mixtures from renewable feedstocks such as cheese whey permeate, cornsteep liquor, sugar beet molasses, and barley malt. Hence, it is contemplated that the source of carbon utilized in the present invention may encompass a wide variety of carbon-containing substrates and will only be limited by the choice of organism. 
+ Applicants specifically incorporate the entire contents of all cited references in this disclosure. Further, when an amount, concentration, or other value or parameter is given either as a range, preferred range, or a list of upper preferable values and lower preferable values, this is to be understood as specifically disclosing all ranges formed from any pair of any upper range limit or preferred value and any lower range limit or preferred value, regardless of whether ranges are separately disclosed. Where a range of numerical values is recited herein, unless otherwise stated, the range is intended to include the endpoints thereof, and all integers and fractions within the range. It is not intended that the scope of the invention be limited to the specific values recited when defining a range. 
+ General Methods 
+ The following examples are provided to demonstrate preferred embodiments of the invention. It should be appreciated by those of skill in the art that the techniques disclosed in the examples which follow represent techniques discovered by the inventor to function well in the practice of the invention, and thus can be considered to constitute preferred modes for its practice. However, those of skill in the art should, in light of the present disclosure, appreciate that many changes can be made in the specific embodiments which are disclosed and still obtain a like or similar result without departing from the spirit and scope of the invention. 
+ Materials and methods suitable for the maintenance and growth of bacterial cultures are well known in the art. Techniques suitable for use in the following examples may be found as set out in  Manual of Methods for General Bacteriology  (1994) (Phillipp Gerhardt, R. G. E. Murray, Ralph N. Costilow, Eugene W. Nester, Willis A. Wood, Noel R. Krieg and G. Briggs Phillips, eds.), American Society for Microbiology, Washington, D.C.) or by Thomas D. Brock, in  Biotechnology: A Textbook of Industrial Microbiology , (1989) Second Edition, (Sinauer Associates, Inc., Sunderland, M A). Methods to immobilize enzymatic catalysts can be found in Bickerstaff, G. F., supra). 
+ Procedures required for genomic DNA preparation, PCR amplification, DNA modifications by endo- and exo-nucleases for generating desired ends for cloning of DNA, ligations, and bacterial transformation are well known in the art. Standard recombinant DNA and molecular cloning techniques used here are well known in the art and are described by Maniatis, supra; and by T. J. Silhavy, M. L. Berman, and L. W. Enquist,  Experiments with Gene Fusions , (1984) Cold Spring Harbor Laboratory Press, Cold Spring, N.Y.; and by Ausubel, F. M. et al.,  Current Protocols in Molecular Biology , (1994-1998) John Wiley & Sons, Inc., New York. 
+ All reagents and materials were obtained from Aldrich Chemicals (Milwaukee, Wis.), DIFCO Laboratories (Detroit, Mich.), GIBCO/BRL (Gaithersburg, Md.), or Sigma/Aldrich Chemical Company (St. Louis, Mo.) unless otherwise specified. 
+ The abbreviations in the specification correspond to units of measure, techniques, properties, or compounds as follows: “sec” means second(s), “min” means minute(s), “h” or “hr” means hour(s), “d” means density in “μL” means microliters, “mL” means milliliters, “L” means liters, “mM” means millimolar, “M” means molar, “mw” means average molecule weight, “mmol” means millimole(s), “wt” means weight, “wt %” means weight percent, “g” means grams, “μg” means micrograms, HPLC” means high performance liquid chromatography, “O.D.” means optical density at the designated wavelength, “dcw” means dry cell weight, “U” means units of nitrilase activity, “EDTA” means ethylenediaminetetraacetic acid, “DTT” means dithiothreitol, “DI” means distilled and deionized”, and “NCIMB” means National Collections of Industrial Food and Marine Bacteria, Bucksburn, Aberdeen, Scotland, UK. One U of nitrilase activity corresponds to the hydrolysis of 1 μmol glycolonitrile/min. 
+ Analytical Methodology 
+ HPLC Analysis 
+ Unless otherwise noted, the following HPLC method was used. The reaction product mixtures were analyzed by the following HPLC method. Aliquots (0.01 mL) of the reaction mixture were added to 1.50 mL of water, and analyzed by HPLC(HPX 87H column, 30 cm×7.8 mm; 0.01 N H 2 SO 4  mobile phase; 1.0 mL/min flow at 50° C.; 10 μL injection volume; RI detector, 20 min analysis time). The method was calibrated for glycolonitrile at a series of concentrations using commercially available glycolonitrile purchased from Aldrich. 
+ EXAMPLE 1 
+ Dependence of Nitrilase Specific Activity of Unimmobilized  E. coli  MG1655/pSW138-168V on Added Polyethylenimine 
+ To a 20-mL glass vial with magnetic stir bar was added 1.0 mL of a 25.0 mg (dry cell wt.)/mL suspension of  E. coli  MG1655/pSW138-168V (SEQ ID NO: 51) in 0.1 M KH 2 PO 4  buffer (pH 7.5), and either 1.0 ml of 0.3 M KH 2 PO 4  buffer (pH 7.5) or 1.0 mL of a 10.2 mg/mL solution of polyethylenimine (BASF LUPASOL® PS, 750,000 mw; BASF Aktiengesellschaft, Ludwigshafen, Germany) in 0.3 M KH 2 PO 4  buffer (pH 7.5) at 25° C. With stirring, 2.0 mL of an aqueous solution containing glycolonitrile (1.0 M) and formaldehyde (8 mM, 1 mM, or 0.04 mM) in distilled, deionized water at 25° C. was added, and the reaction mixture maintained at 25° C. with a temperature bath. At 5, 10, 15, and 30 minutes, a 100 μl aliquot of the reaction mixture was removed and mixed with 100 μl of water, 10 μl of 6.0 N HCl and 200 μl of 0.25 M n-propanol in water (HPLC external standard), the mixture centrifuged, and the resulting supernatant analyzed by HPLC to determine the initial reaction rate and catalyst specific activity (U/g dcw) (Table 2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+ 
+   
+ 
+ 
+ Dependence of biocatalyst specific activity on concentration of 
+ 
+ 
+ formaldehyde with and without added polyethylenimine (PEI). 
+ 
+ 
+ 
+ 
+   
+ glycolonitrile 
+ formaldehyde 
+ PEI 
+ specific activity 
+ 
+ 
+   
+ (mM) 
+ (mM) 
+ (mg/mL) 
+ (U/g dcw) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ 500 
+ 4.0 
+ 0 
+ 471 
+ 
+ 
+   
+ 500 
+ 4.0 
+ 5.1 
+ 1484 
+ 
+ 
+   
+ 500 
+ 0.50 
+ 0 
+ 1344 
+ 
+ 
+   
+ 500 
+ 0.50 
+ 5.1 
+ 1726 
+ 
+ 
+   
+ 500 
+ 0.02 
+ 0 
+ 1742 
+ 
+ 
+   
+ 500 
+ 0.02 
+ 5.1 
+ 1629 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE 2 
+ Preparation of Copoly(Vinylalcohol/Vinylamine) 
+ A solution of 0.2 g sodium dodecylbenzenesulfonate (Sigma-Aldrich Catalog# 289957) and 0.2 g sodium dihydrogen phosphate in 80 mL deionized water was placed in a 250-mL, 4-neck RB flask with condenser and nitrogen inlet, thermometer, dropping funnel and magnetic stirrer. The flask was swept with nitrogen and was stirred in a 72° C. water bath until the solution temperature was 65° C.; then 0.1 g VAZO®-64 (2,2′-azobisisobutyronitrile; mw:164.2; Sigma-Aldrich catalog #441090) initiator was added. A solution of 40 g vinyl acetate (Sigma-Aldrich catalog #V1503, filtered through basic alumina to remove inhibitor), 4 g N-vinylformamide (Sigman-Aldrich catalog #447331, used without further purification) and 0.3 g VAZO® 64 was placed in the dropping funnel and 5 mL of this monomer solution was added to the flask. The mixture was stirred 20 min and another 5 mL of monomer was added. Five-mL aliquots of monomer were added every 20 min until 20 mL had been added (at 1 hr); then the mixture was stirred at 70° C. for 1 hr. After this the remainder of the monomer was added at a rate of 5 mL every 20 min. Monomer addition was complete at 4 h, and then the mixture was stirred at 70° C. for 3 h and allowed to cool to room temperature (approximately 22° C.). The resulting polymer beads were washed several times with hot water and then allowed to stand in water for 72 hr. The beads were then washed with diethyl ether and allowed to stand in ether for 15 min to extract vinyl monomers, followed by filtration and drying under vacuum with a nitrogen blanket, then dried overnight at 70° C. in a vacuum oven at 350 mm Hg with a nitrogen sweep to yield 39.0 g of poly(vinylacetate-vinlyformamide)copolymer. 
+ Poly(vinylacetate-vinlyformamide)copolymer (25.1 g) was stirred at reflux with 200 mL methanol containing 6 mL concentrated HCl and 5 mL water for 5 h, yielding a clear solution which was allowed to stand at RT overnight. The solution became a rubbery gel; this was blended with several changes of acetone to precipitate the hydrolyzed polymer HCl salt, which was dried under nitrogen in the vacuum oven at 75° C. (yield: 15 g). Analysis by  1 H NMR (DMSO-d 6 ) indicated about 20% of the acetates remained unhydrolyzed, so the product was stirred at reflux with a mixture of 150 mL methanol and 5 mL conc. HCl overnight to complete hydrolysis. The methanol was filtered off, and the rubbery, methanol-insoluble product was stirred with 100 mL DI water at 90° C.; this solution was filtered first through a screen to remove a small amount of gel and then through a Millipore cellulose prefilter (Millipore Corp., Bedford, Mass.) under pressure. The filtered solution was basified to pH 9.0 with 10% NaOH and then dialyzed overnight against DI water in a MEMBRA-CEL® 3.5K molecular weight cut-off dialysis membrane tube (Viskase Co., Willowbrooke, Ill.). Lyophilization yielded 8.7 g of copoly(vinylalcohol/vinylamine). 
+ EXAMPLE 3 
+ Dependence of Nitrilase Specific Activity of Unimmobilized  E. coli  MG1655/pSW138-168V on Added Amine Protectants 
+ To a 20-mL glass vial with magnetic stir bar was added 20 mg to 400 mg of amine protectant (see Table 2), followed by 1.825 mL of deionized water and 1.0 mL of 0.3 M KH 2 PO 4  buffer (pH 7.5). The pH of the resulting mixture was checked and re-adjusted to pH 7.5 with 6 N HCl. When the pH of the resulting mixture was stable at pH 7.5, 1.0 mL of a ca. 25.0 mg (dry cell wt.)/mL suspension of  E. coli  MG1655/pSW138-168V (SEQ ID NO: 51) in 0.1 M KH 2 PO 4  buffer (pH 7.5) was added, then the reaction was initiated by the addition of 0.175 mL (0.187 g) of aqueous glycolonitrile (61 wt % GLN in water, 2.00 mmol of glycolonitrile in solution also containing either 0.80 mol % or 0.10 mol % formaldehyde relative to glycolonitrile), and the reaction mixture maintained at 25° C. with a temperature bath. At 5, 10, 15, and 30 minutes, a 100 μl aliquot of the reaction mixture was removed and mixed with 100 μl of water, 10 μl of 6.0 N HCl and 200 μl of 0.25 M n-propanol in water (HPLC external standard), the mixture centrifuged, and the resulting supernatant analyzed by HPLC to determine the initial reaction rate and catalyst specific activity (U/g dcw) (Table 3). Each set of experiments listed in Table 3 were performed with a freshly-prepared cell suspension (cell suspensions A-G), where the differences in the specific activity of the cells in the control reaction for each cell suspension were due to differences in the dry cell weight concentrations of the individual cell suspensions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+ 
+   
+ 
+ 
+ Dependence of biocatalyst specific activity on concentration 
+ 
+ 
+ of formaldehyde with and without added amine protectant. 
+ 
+ 
+ 
+ 
+   
+   
+   
+   
+ amine 
+   
+ 
+ 
+ cell 
+ glycolo- 
+ formal- 
+   
+ pro- 
+ specific 
+ 
+ 
+ suspen- 
+ nitrile 
+ dehyde 
+ amine 
+ tectant 
+ activity 
+ 
+ 
+ sion 
+ (mM) 
+ (mM) 
+ protectant 
+ (mg/mL) 
+ (U/g dcw) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ A 
+ 500 
+ 4.0 
+ PEI/silica 
+ 100 
+ 491 
+ 
+ 
+   
+   
+   
+ (Aldrich 
+ 
+ 
+   
+   
+   
+ 24675-1) 
+ 
+ 
+ A 
+ 500 
+ 4.0 
+ PEI/cellulose 
+ 100 
+ 1212 
+ 
+ 
+   
+   
+   
+ (Sigma P6883) 
+ 
+ 
+ A 
+ 500 
+ 4.0 
+ none (control) 
+ 0 
+ 385 
+ 
+ 
+ B 
+ 500 
+ 4.0 
+ 3-aminopropyl 
+ 100 
+ 799 
+ 
+ 
+   
+   
+   
+ silica gel 
+ 
+ 
+   
+   
+   
+ (Sigma A1409) 
+ 
+ 
+ B 
+ 500 
+ 4.0 
+ none (control) 
+ 0 
+ 481 
+ 
+ 
+ C 
+ 500 
+ 4.0 
+ Long-chain alkyl 
+ 100 
+ 1136 
+ 
+ 
+   
+   
+   
+ amine controlled 
+ 
+ 
+   
+   
+   
+ pore glass 
+ 
+ 
+   
+   
+   
+ (Sigma L8638) 
+ 
+ 
+ C 
+ 500 
+ 4.0 
+ none (control) 
+ 0 
+ 527 
+ 
+ 
+ D 
+ 500 
+ 0.5 
+ Long-chain alkyl 
+ 100 
+ 1891 
+ 
+ 
+   
+   
+   
+ amine controlled 
+ 
+ 
+   
+   
+   
+ pore glass 
+ 
+ 
+   
+   
+   
+ (Sigma L8638) 
+ 
+ 
+ D 
+ 500 
+ 0.5 
+ none (control) 
+ 0 
+ 1325 
+ 
+ 
+ E 
+ 500 
+ 4.0 
+ polyallylamine 
+ 5 
+ 598 
+ 
+ 
+   
+   
+   
+ (Aldrich 
+ 
+ 
+   
+   
+   
+ 47914-4) 
+ 
+ 
+ E 
+ 500 
+ 4.0 
+ polyallylamine 
+ 10 
+ 648 
+ 
+ 
+   
+   
+   
+ (Aldrich 
+ 
+ 
+   
+   
+   
+ 47914-4) 
+ 
+ 
+ E 
+ 500 
+ 4.0 
+ PVOH/poly- 
+ 70 
+ 1541 
+ 
+ 
+   
+   
+   
+ vinylamine 
+ 
+ 
+   
+   
+   
+ (Example 2) 
+ 
+ 
+ E 
+ 500 
+ 4.0 
+ Poly-D-lysine 
+ 11 
+ 502 
+ 
+ 
+   
+   
+   
+ (Sigma P0296) 
+ 
+ 
+ E 
+ 500 
+ 4.0 
+ none (control) 
+ 0 
+ 464 
+ 
+ 
+ F 
+ 500 
+ 0.5 
+ PVOH/poly- 
+ 70 
+ 1786 
+ 
+ 
+   
+   
+   
+ vinylamine 
+ 
+ 
+   
+   
+   
+ (Example 2) 
+ 
+ 
+ F 
+ 500 
+ 0.5 
+ Poly-D-lysine 
+ 11 
+ 1388 
+ 
+ 
+   
+   
+   
+ (Sigma P0296) 
+ 
+ 
+ F 
+ 500 
+ 0.5 
+ none (control) 
+ 0 
+ 1220 
+ 
+ 
+ G 
+ 500 
+ 4.0 
+ DIAION ® WA20 
+ 100 
+ 1128 
+ 
+ 
+   
+   
+   
+ (Mitsubishi 
+ 
+ 
+   
+   
+   
+ Chemical) 
+ 
+ 
+ G 
+ 500 
+ 4.0 
+ DIAION ® WA21J 
+ 100 
+ 1073 
+ 
+ 
+   
+   
+   
+ (Mitsubishi 
+ 
+ 
+   
+   
+   
+ Chemical) 
+ 
+ 
+ G 
+ 500 
+ 4.0 
+ none (control) 
+ 0 
+ 508 
+ 
+ 
+ G 
+ 500 
+ 0.5 
+ DIAION ® WA20 
+ 100 
+ 1335 
+ 
+ 
+   
+   
+   
+ (Mitsubishi 
+ 
+ 
+   
+   
+   
+ Chemical) 
+ 
+ 
+ G 
+ 500 
+ 0.5 
+ DIAION ® WA21J 
+ 100 
+ 1339 
+ 
+ 
+   
+   
+   
+ (Mitsubishi 
+ 
+ 
+   
+   
+   
+ Chemical) 
+ 
+ 
+ G 
+ 500 
+ 0.5 
+ none (control) 
+ 0 
+ 1182 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE 4 
+ Preparation of GA/PEI-crosslinked Carrageenan/ E. coli  MG1655/DNM18-168V Beads 
+ With rapid stirring, 12 g of carrageenan (FMC GP911; FMC Corp., Philadelphia, Pa.) was slowly added to 228 g deionized distilled water at 50° C., the resulting mixture heated to 80° C. until the carrageenan was completely dissolved, and the resulting solution cooled with stirring to 52° C. In a separate beaker equipped with stir bar, 83.2 g of frozen  E. coli  MG1655/pNM18-168V (SEQ ID NO: 51) cells (25.2% dcw) was added to 84.8 g of 0.35 M Na 2 HPO 4  (pH 7.3) at ca. 25° C. and mixed until the cells were suspended, then a deoxyribonuclease I solution (10 μl of 12,500 U/mL DNase (Sigma-Aldrich)/100 mL of cell suspension) was added. The cell suspension was filtered consecutively through a 230 micron and 140 micron NUPRO® TF strainer (Swagelok Company, Solon, Ohio) element filter, and heated with stirring to 50° C. With stirring, 160.0 g of  E. coli E. coli  MG1655/pNM18-168V cell suspension at 50° C. was added to the carrageenan solution at 52° C., and the resulting cell/carrageenan suspension was pumped through an electrically-heated 20 gauge needle at 47° C. and dripped into 0.25 M KHCO 3  (pH=7.3) with stirring at ca. 37-38° C.); the flow rate through the needle was set at 5-8 mL/min. The resulting beads were allowed to harden in this same buffer for 1 h at room temperature with stirring, and were stored in 0.25 M potassium bicarbonate (pH 7.3). 
+ Chemical cross-linking of a portion of the immobilized cell/carrageenan beads was performed by addition of 1.0 g of 25% glutaraldehyde (GA) in water (Sigma M 752-07) to 20 g beads suspended in 48 mL of 0.25 M potassium bicarbonate (pH 7.3), and stirring for 1 h at room temperature. To the suspension of beads was then added 4.0 g of 12.5 wt % polyethylenimine (PEI, BASF LUPASOL® PS) in water, and the bead suspension stirred for an additional 18 h at room temperature. The GA/PEI-crosslinked beads were recovered from the suspension, stirred twice for 15 min in 48 mL of 0.25 M potassium bicarbonate (pH 7.3), then stored in 1.0 M ammonium bicarbonate (pH 7.3) at 5° C. Prior to use, the beads were washed twice for 15 min with 180 mL of 0.1 M ammonium glycolate (pH 7.0) at room temperature. 
+ EXAMPLE 5 
+ Dependence of Biocatalyst Specific Activity on Glutaraldehyde/Polyethylenimine Cross-Linking of Carrageenan-immobilized  E. coli  MG1655/DSW138-168V Transformants Expressing  A. facilis  72W Nitrilase 
+ In a typical procedure, a 50-mL jacketed reaction vessel equipped with overhead stirring and temperature control was charged with 4.0 g of GA/PEI cross-linked  E. coli  MG1655/pSW138-168V/carrageenan beads (prepared using the process as described in Example 4) containing 5% (dcw) transformant expressing the  A. facilis  72W nitrilase mutant F168V (SEQ ID NO: 51). To the vessel was then added 10.85 mL of distilled water and 3.0 mL of aqueous ammonium glycolate (4.0 M, pH 7.0). The mixture was stirred at 25° C. while 1.75 mL of 60.8 wt % glycolonitrile (GLN) in water (1.876 g, 20.0 mmol GLN, 0.160 mmol formaldehyde; stabilized with 0.7 wt % glycolic acid)) and 0.40 mL of aqueous ammonium hydroxide (1.875 wt % NH 3 ) was added simultaneously (final pH 7.5). Four 0.050-mL reaction samples were removed at pre-determined times after the GLN addition and analyzed by HPLC to determine the initial reaction rate and the catalyst specific activity (μmol glycolic acid/min/g dcw biocatalyst). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+ 
+   
+ 
+ 
+ Dependence of immobilized biocatalyst specific activity 
+ 
+ 
+ on glutaraldehyde/polyethylenimine cross-linking. 
+ 
+ 
+ 
+ 
+   
+   
+   
+ specific 
+ specific 
+ 
+ 
+ glycolonitrile 
+ formaldehyde 
+ GA/PEI 
+ activity 
+ activity 
+ 
+ 
+ (mM) 
+ (mM) 
+ cross-linked 
+ (U/g beads) 
+ (U/g dcw) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 1000 
+ 8.0 
+ no 
+ 36.2 
+ 723 
+ 
+ 
+ 1000 
+ 8.0 
+ yes 
+ 68.2 
+ 1364 
+ 
+ 
+ 1000 
+ 1.0 
+ no 
+ 58.4 
+ 1169 
+ 
+ 
+ 1000 
+ 1.0 
+ yes 
+ 99.7 
+ 1994 
+ 
+ 
+ 1000 
+ 0.04 
+ no 
+ 68.8 
+ 1375 
+ 
+ 
+ 1000 
+ 0.04 
+ yes 
+ 90.1 
+ 1801 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE 6 
+ Comparison of Biocatalyst Specific Activity for Uncross-linked and Glutaraldehyde/polyethylenimine Cross-linked Carrageenan-immobilized  E. coli  MG1655/pSW138-168V Transformants Expressing  A. facilis  72W Nitrilase in Consecutive Batch Reactions with Catalyst Recycle 
+ A 50-mL jacketed reaction vessel equipped with overhead stirring and temperature control was charged with 8 g of GA/PEI-crosslinked  E. coli  MG1655/pSW138-168V/carrageenan beads (prepared using the process as described in Example 4) containing 5% (dcw) transformant expressing the  A. facilis  72W nitrilase mutant F168V (SEQ ID NO: 51). To the vessel was then added 14.78 mL of distilled water and 6.0 mL of aqueous ammonium glycolate (4.0 M, pH 7.0), and the reaction vessel flushed with nitrogen. The mixture was stirred at 25° C. while programmable syringe pumps were used to simultaneously add 1.07 mL of 60 wt % glycolonitrile (GLN) in water (12.0 mmol GLN, 0.084 mmol formaldehyde; Fluka (redistilled, stabilized with 0.5 wt % glycolic acid, available from Sigma-Aldrich) and 0.150 mL of aqueous ammonium hydroxide (1.875 wt %); one equivalent volume of GLN and ammonium hydroxide solutions was added simultaneously every 2 h to maintain the concentration of GLN at ≦400 mM and the pH within a range of 6.5-7.5. Four 0.050-mL reaction samples were removed at pre-determined times after the first GLN addition and analyzed by HPLC to determine the initial reaction rate and the catalyst specific activity (μmol glycolic acid/min/g dcw biocatalyst). At completion of the reaction, there was 100% conversion of GLN to produce glycolic acid (as the ammonium salt) in >99% yield, and the concentration of ammonium glycolate produced from added GLN was approximately 2.5 M (3.1 M total ammonium glycolate when including initial ammonium glycolate buffer in a final reaction volume of ca. 38.0 mL). 
+ At the end of the first reaction, the aqueous product mixture was decanted from the catalyst (under nitrogen), leaving ca. 10.3 g of a mixture of immobilized cell catalyst (8.0 g) and remaining product mixture (ca. 2.3 g). To the reaction vessel then added 20.78 mL of distilled, deionized water, and a second reaction was performed at 25° C. by the addition of aliquots of aqueous GLN and ammonium hydroxide as described immediately above. The specific activity of recovered biocatalyst in consecutive batch reactions with catalyst recycle are listed in Table 5. To compare the effect of glutaraldehyde/polyethylenimine cross-linking of carrageenan-immobilized cells on specific activity, a second series of recycle reactions was performed as described above, except that the  E. coli  MG16551pSW138-168V/carrageenan beads were not chemically-crosslinked with glutaraldehyde and polyethylenimine (Table 5). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 5 
+ 
+ 
+ 
+   
+ 
+ 
+ Dependence of biocatalyst specific activity on glutaraldehyde/PEI 
+ 
+ 
+ cross-linking of carrageenan-immobilized microbial catalyst 
+ 
+ 
+ in consecutive batch reactions with catalyst recycle 
+ 
+ 
+ 
+ 
+   
+ biocatalyst specific activity (U/g dcw) 
+   
+ 
+ 
+ 
+ 
+ 
+ Reaction 
+ with GA/PEI 
+ without GA/PEI 
+ 
+ 
+   Number     cross-linking 
+ cross-linking     
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 1 
+ 1312 
+ 215 
+ 
+ 
+ 2 
+ 871 
+ 385 
+ 
+ 
+ 3 
+ 897 
+ 270 
+ 
+ 
+ 4 
+ 816 
+ 
+ 
+ 5 
+ 898 
+ 296 
+ 
+ 
+ 6 
+ 697 
+ 
+ 
+ 7 
+ 663 
+ 
+ 
+ 8 
+ 792 
+ 
+ 
+ 9 
+ 732 
+ 
+ 
+ 10 
+ 760 
+ 393 
+ 
+ 
+ 11 
+ 539 
+ 
+ 
+ 12 
+ 495 
+ 373 
+ 
+ 
+ 13 
+ 396 
+ 
+ 
+ 14 
+ 560 
+ 
+ 
+ 15 
+ 324 
+ 443 
+ 
+ 
+ 16 
+ 426 
+ 
+ 
+ 17 
+ 500 
+ 366 
+ 
+ 
+ 18 
+ 722 
+ 394 
+ 
+ 
+ 19 
+ 489 
+ 
+ 
+ 20 
+ 
+ 
+ 21 
+   
+ 283 
+ 
+ 
+ 22 
+ 444 
+ 
+ 
+ 23 
+   
+ 325 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 501 
+ 
+ 
+ 26 
+ 508 
+ 285 
+ 
+ 
+ 27 
+ 487 
+ 224 
+ 
+ 
+ 28 
+ 349 
+ 
+ 
+ 29 
+ 371 
+ 
+ 
+ 30 
+ 345 
+ 224 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE 7 
+ Dependence of Nitrilase Specific Activity of Unimmobilized  Rhodococcus  sp. (ATCC 39484™) on Added Polyethylenimine 
+ A lyophilized culture of  Rhodococcus  sp. ATCC 39484 (SEQ ID NO: 25) was suspended in 5 ml of nutrient broth (Difco; catalog #0003-01-6) in a 50-mL conical test tube and revived following incubation at 30° C. for 3 days at 60 rpm, followed by storage at −80° C. after addition of glycerol (10% v/v). The revived culture (1 mL) was inoculated into a 125-mL unbaffled shake flask containing 50 mL of Miller's Luria-Bertani broth (Mediatech, Inc.; 46-050-CM; Manassas, Va.) and grown for 16 h at 30° C. and 200 rpm to an OD of 9.0 at 600 nm, then glycerol (10% v/v) was added and the inoculum stored at −80° C. The inoculum (2 mL) was transferred to a 1-L unbaffled shake flask containing 200 mL of a medium consisting of 1 g polypeptone (Becton-Dickinson; catalog #11910; Franklin Lakes, N.J.), 0.6 g malt extract (Difco; 0186-02-4), 0.6 g yeast extract (Difco; 0127-17), 2 g glycerol, and 0.2 mL of isovaleronitrile (T. Nagasawa, M. Kobayashi, H. Yamada,  Archives of Microbiology , (1988) 150:89-94) at pH 7.0, followed by growth at 30° C. with 200 rpm agitation. At 50 hr and 70 hr the culture was fed with 0.1% (v/v) and 0.2% (v/v) of isovaleronitrile, respectively. The cell paste was harvested at 96 h by centrifugation at 13,000×g (5° C.) and stored at −80° C. 
+ To a 20-mL glass vial with magnetic stir bar was added 1.0 mL of a 73.0 mg (dry cell wt.)/mL suspension of  Rhodococcus  sp. (ATCC 39484™) in 0.1 M KH 2 PO 4  buffer (pH 7.5), and either 1.0 ml of 0.3 M KH 2 PO 4  buffer (pH 7.5) or 1.0 mL of a 10.2 mg/mL solution of polyethylenimine (BASF LUPASOL® PS, 750,000 mw) in 0.3 M KH 2 PO 4  buffer (pH 7.5) at 25° C. With stirring, 2.0 mL of an aqueous solution containing glycolonitrile (1.0 M) and formaldehyde (8 mM or 0.04 mM) in distilled, deionized water at 25° C. was added, and the reaction mixture maintained at 25° C. At 5, 10, 15, and 30 minutes, a 100 μl aliquot of the reaction mixture was removed and mixed with 100 μl of water, 10 μl of 6.0 N HCl and 200 μl of 0.25 M n-propanol in water (HPLC external standard), the mixture centrifuged, and the resulting supernatant analyzed by HPLC to determine the initial reaction rate and catalyst specific activity (U/g dcw) (Table 6). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 6 
+ 
+ 
+ 
+   
+ 
+ 
+ Dependence of  Rhodococcus  sp. (ATCC 39484 ™) nitrilase 
+ 
+ 
+ specific activity on concentration of formaldehyde 
+ 
+ 
+ with and without added polyethylenimine (PEI). 
+ 
+ 
+ 
+ 
+   
+ glycolonitrile 
+ formaldehyde 
+ PEI 
+ specific activity 
+ 
+ 
+   
+ (mM) 
+ (mM) 
+ (mg/mL) 
+ (U/g dcw) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ 500 
+ 4.0 
+ 0 
+ 598 
+ 
+ 
+   
+ 500 
+ 4.0 
+ 5.0 
+ 780 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ EXAMPLE 8 
+ Dependence of Nitrilase Specific Activity of Unimmobilized  Rhodococcus rhodochrous  (NCIMB 11216) on Added Polyethylenimine 
+   Rhodococcus rhodochrous  (NCIMB 11216; SEQ ID NO: 24) was revived following suspension of the preserved culture in 100 μL of normal saline, followed by streaking of the normal saline cell suspension onto plates containing nutrient agar (Difco catalog# 0001-01-8) supplemented with yeast extract (2 g/L; Difco catalog# 0127-17) and sodium chloride (5 g/L). The sequence of the nitrilase from  R. rhodochrous  NCIMB 11216 has been reported (U.S. Patent Application Publication No. 2003/0157672 and GENBANK® Accession No. CAC88237; SEQ ID NO: 24) The plates were incubated at 30° C. for 48 h and colonies were inoculated into aqueous E2 basal medium supplemented with adipic acid (0.8 wt %; carbon source) and propionitrile (0.2 wt %; nitrogen source) and incubated for 48 h at 30° C. with 200 rpm agitation. The E2 basal medium consisted of: KH 2 PO 4 , 1.4 g/L; NaH 2 PO 4 , 0.69 g/L; Sodium citrate, 0.1 g/L; CaCl 2 .2H 2 O, 0.025 g/L; KCl, 0.5 g/L; NaCl, 1.0 g/L, MgSO 4 .7H 2 O, 0.5 g/L; FeSO 4 .7H 2 O, 0.05 g/L; CoCl 2 .6H 2 O, 0.01 g/L; MnCl 2 .4H 2 O, 0.001 g/L; ZnCl 2 , 0.0005 g/L; NaMoO 4 .2H 2 O, 0.0025 g/L; NiCl 2 .6H 2 O, 0.01 g/L; CuSO 4 .2H 2 O, 0.005 g/L; Biotin, 0.0002 g/L; Folic Acid, 0.0002 g/L; Pyridoxine.HCl, 0.001 g/L; Riboflavine, 0.0005 g/L; Thiamine.NCl, 0.00005 g/L; Nicotinic Acid, 0.0005 g/L; Pantothenic Acid, 0.0005 g/L; Vitamin B 12 , 0.00001 g/L, p-Aminobenzoic Acid, 0.0005 g/L. Following 48 h of growth, 1.59 g of wet cell paste was harvested by centrifugation at 13,000×g, and the resulting cell paste was stored at −80° C. 
+ To a 20-mL glass vial with magnetic stir bar was added 1.0 mL of a 79.0 mg (dry cell wt.)/mL suspension of  Rhodococcus rhodochrous  (NCIMB 11216) in 0.1 M KH 2 PO 4  buffer (pH 7.5), and either 1.0 ml of 0.3 M KH 2 PO 4  buffer (pH 7.5) or 1.0 mL of a 10.2 mg/mL solution of polyethylenimine (BASF LUPASOL® PS, 750,000 mw) in 0.3 M KH 2 PO 4  buffer (pH 7.5) at 25° C. With stirring, 2.0 mL of an aqueous solution containing glycolonitrile (1.0 M) and formaldehyde (8 mM or 0.04 mM) in distilled, deionized water at 25° C. was added, and the reaction mixture maintained at 25° C. At 5, 10, 15, and 30 minutes, a 100 μl aliquot of the reaction mixture was removed and mixed with 100 μl of water, 10 μl of 6.0 N HCl and 200 μl of 0.25 M n-propanol in water (HPLC external standard), the mixture centrifuged, and the resulting supernatant analyzed by HPLC to determine the initial reaction rate and catalyst specific activity (U/g dcw) (Table 7). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 7 
+ 
+ 
+ 
+   
+ 
+ 
+ Dependence of  Rhodococcus rhodochrous  (NCIMB 11216) 
+ 
+ 
+ nitrilase specific activity on concentration of formaldehyde 
+ 
+ 
+ with and without added polyethylenimine (PEI). 
+ 
+ 
+ 
+ 
+   
+ glycolonitrile 
+ formaldehyde 
+ PEI 
+ specific activity 
+ 
+ 
+   
+ (mM) 
+ (mM) 
+ (mg/mL) 
+ (U/g dcw) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ 500 
+ 4.0 
+ 0 
+ 37.9 
+ 
+ 
+   
+ 500 
+ 4.0 
+ 5.0 
+ 45.4 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

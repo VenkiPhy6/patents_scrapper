@@ -1,0 +1,569 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technical Field 
+   
+    
+    [0001]
+     The present invention relates to a transformed microorganism producing an L-amino acid with a high yield using sucrose as a main carbon source, and a method for producing an L-amino acid using the same. 
+   Background Art 
+   
+    
+    [0002]
+     Due to growing demand for bio-fuel production and crop failures caused by unusual climate, the price of starch sugar used as a fermentation feedstock has rapidly increased. Alternatively, the use of sucrose or molasses containing a high concentration of sucrose, cheaper than starch sugar, as a carbon source in industrial fermentation, is advantageous to ensure the cost competitiveness. Approximately 50% of the E. coli isolated from nature is able to metabolize sucrose, but E.coli K12 strain, B strain and C strain usually used in industrial fermentation, have no ability to assimilate sucrose ( Mol. Microbiol. (1998) 2:1-8 ,  Can. J. Microbiol. (1999) 45:418-422 ). Therefore, among the most important challenges in the fermentation industry is the investigation of genes involved in sucrose assimilation, the establishment of enhanced sucrose assimilation-related genes by improvement, and the application of the genes to the sucrose non-assimilative, industrial E.coli strains for the production of desired metabolites. 
+     
+    
+    [0003]
+     To impart sucrose-assimilating ability to industrial E.coli strains, methods of introducing a sucrose assimilation gene or gene cluster derived from microorganisms having a sucrose-assimilating ability have been generally used. For example, a method of imparting sucrose-assimilating ability to E.coli K12 by transformation with the  scr  regulon present in the species  Salmonella  belonging to the family  Enterobacteriaceae  ( J. Bacteriol. (1982) 151:68-76 ,  Mol. Microbiol. (1998) 2:1-8 ,  J. Bacteriol. (1991) 173:7464-7470 ,    US patent No. 7,179,623   ),  Klebsiella pneumoniae  ( J. Gen. Microbiol. (1988) 134:1635-1644 ),  Erwinia amylovora  ( J. Bacteriol. (2000) 182:5351-5358 ) has been well known in the art. Introduction of the csc regulon derived from non-K12 E.coli having the sucrose-assimilating ability or pathogenic E.coli ( Appl. Environ. Microbiol. (1992) 58:2081-2088 ,    US patent No. 6,960,455   ), introduction of sucrose assimilation gene that is present in conjugative plasmid scr53 isolated from E.coli AB1281 (   US patent No. 4,806,480   ), and introduction of  scr  regulon and sac operon derived from Gram-positive microorganisms,  Streptococcus mutans  ( J. Bacteriol. (1989) 171:263-271 ) and  Bacillus subtilis  ( J. Bactreriol. (1989) 171:1519-1523 ) are also known. 
+     
+    
+    [0004]
+     Conventionally, L-amino acid has been industrially produced by fermentation methods using microorganism strains isolated from nature or artificial mutants of said bacterial strains, which have been modified in such a way that the L-amino acid production yield is enhanced. Many techniques to enhance L-amino acid production yields have been reported. For example, techniques for enhancing production yields include increasing the activities of enzymes involved in amino acid biosynthesis or desensitizing the target enzymes of the feedback inhibition by the resulting L-amino acid. Meanwhile, amino acid production yields of L-amino acid-producing strains can be improved by enhancing L-amino acid excretion activity. For example, bacteria belonging to the genus  corynebacterium  in which expression of an L-lysine secretion gene is increased have been used. In addition, expression of genes coding for the efflux proteins which act to enhance secretion of L-cysteine, L-cystine, N-acetylserine, or thiazolidine derivatives is regulated to increase L-amino acid production activity. 
+     
+    
+    [0005]
+     The sucrose utilization system is largely divided into the Scr-PTS system and the Scr-non PTS system. Most microorganisms capable of utilizing sucrose have the Scr-PTS (phosphoenolpyruvate dependent sucrose phosphotransferase) system. The Scr-PTS system allows efficient uptake of a low level of sucrose, but the sucrose uptake process requires PEP (phosphoenolpyruvate) consumption to reduce the intracellular PEP pool. The Scr-non PTS system is a system using proton symport-type sucrose permease, exemplified by the well known  csc  gene clusters containing  cscB  coding for sucrose permease. csc regulon consists of  cscB  (sucrose permease or proton symport-type sucrose permease),  cscK  (fructokinase),  cscA  (sucrose hydolase), and  cscR  (sucrose transcriptional regulator), and is negatively controlled by two operons,  cscKB  and  cscR  ( Jahreis K et al., J. Bacteriol. (2002) 184:5307-5316 ). 
+     
+    
+    [0006]
+     PEP is a key metabolite in the central metabolic pathway, and functions as a phosphate donor of the sugar PTS system. PEP is also involved in ATP synthesis catalyzed by pyruvate kinase, and functions as a direct precursor of several amino acids or oxaloacetate (OAA) ( Metab. Eng. (2002) 4:124-137 ,  Microb. Cell Fact. (2005) 4:14 ). In particular, OAA is used as a carbon skeleton of amino acids such as threonine, isoleucine, methionine, lysine, asparagine and aspartic acid (   US patent No. 6,960,455   ). PEP is known to be mostly consumed via the sugar PTS system. Up to 50% of the total PEP is consumed via the glucose PTS system in a minimal medium containing glucose as a carbon source ( Microb. Cell Fact. (2005) 4:14 ). Therefore, if using a sugar non-PTS system instead of sugar PTS system, intracellular PEP pool can be increased, and the increased PEP can be used for biosynthesis of fermentation products, thereby improving productivity and yield. 
+     
+    
+    [0007]
+     In sucrose utilization, the Scr-non PTS system, which requires no PEP consumption upon sucrose uptake, is also more preferred than Scr-PTS system. Practically, Ajinomoto Co. has introduced methods of making threonine, isoleucine and tryptophan using E. coli transformed with EC3132-derived  cscBKA  (   US patent No. 6,960,455   ). DuPont has also produced tyrosine using E.coli K12 transformed with E.coli ATCC13281-derived  cscBKAR  and sucrose ( Appl. Microbiol. Biotechol. (2007) 74:1031-1040 ). 
+     
+    
+    [0008]
+     Meanwhile, mannokinase (Mak) has a kinase activity that converts hexose, including mannose and fructose, to 6-phospho-ester by ATP consumption. In particular, a gene ( mak  or yajF) encoding the wild-type Mak (Mak-o) of enteric bacteria is known as a cryptic gene, and its activity is greatly increased by sequence mutation in the promoter -35 region of  mak  (Mak+) ( Kornberg HL, J.Mol. Microbiol. Biotechnol. (2001) 3:355-359 ;  Miller BG & Raines RT, Biochemistry (2005) 44:10776-10783 ). Mak is also able to phosphorylate other substrates such as glucose, sorbose, and glucosamine, in addition to mannose and fructose. However, there have been no reports that Mak affects sucrose metabolism. 
+   Disclosure 
+ Technical Problem 
+   
+    
+    [0009]
+     To develop microorganisms capable of utilizing sucrose with high efficiency, the present inventors had investigated genes expected to be involved in sucrose metabolism, and they found that mannokinase plays an important role in sucrose metabolism, that is, even though E.coli having inactivated mannokinase is introduced with the intact csc regulon, its sucrose utilization rate is reduced in comparison to the wild type E.coli, thereby completing the present invention. 
+   Technical Solution 
+   
+    
+    [0010]
+     An object of the present invention is to provide a microorganism belonging to the genus  Escherichia  that has the improved L-amino acid productivity and sucrose-assimilating ability, which is prepared by imparting the activities of sucrose permease, sucrose hydrolase and sucrose transcriptional regulator to a sucrose non-assimilative microorganism and enhancing mannokinase activity. 
+     
+    
+    [0011]
+     Another object of the present invention is to provide a method for producing an L-amino acid using the microorganism belonging to the genus  Escherichia.   
+   Advantageous Effects 
+   
+    
+    [0012]
+     When the microorganism belonging to the genus  Escherichia  that has the improved L-amino acid productivity and sucrose-assimilating ability according to the present invention is used for the production of L-amino acids, sucrose can be used as a main carbon source instead of starch sugar usually used in industrial fermentation, thereby coping with the rapid rise in global prices of grain as well as producing L-amino acids with high yield. 
+   Description of Drawings 
+   
+    
+    [0013]
+     
+     
+   FIG. 1  is a schematic diagram showing the  scr  regulon, in which p represents promoters, Ko1 and Yo2o3 represent operators, and t represents terminators; and 
+   FIG.2  shows the construction of recombinant plasmid pAcscBAR'-mak containing cscBAR'-mak. 
+ 
+ Best Mode 
+   
+    
+    [0014]
+     In an aspect, to achieve the above objects, the present invention relates to a microorganism belonging to the genus  Escherichia  that has improved L-amino acid productivity and sucrose-assimilating ability, which is prepared by imparting the activities of sucrose permease (cscB), sucrose hydrolase (cscA) and sucrose transcriptional regulator (cscR) to a sucrose non-assimilative microorganism and enhancing mannokinase activity. 
+     
+    
+    [0015]
+     In the present invention, sucrose permease is a peptide having an activity of importing extracellular sucrose, sucrose hydrolase has an activity of hydrolyzing sucrose to glucose and fructose, and sucrose transcriptional regulator has an activity of regulating transcription of genes that encode sucrose permease and sucrose hydrolase. The activities of sucrose permease, sucrose hydrolase and sucrose transcriptional regulator are present in microorganisms having sucrose-assimilating ability, but not present in microorganisms belonging to the genus  Escherichia,  in particular, industrial strains such as E.coli K12 strain, B strain and C strain. 
+     
+    
+    [0016]
+     The methods of imparting the activities of sucrose permease, sucrose hydrolase and sucrose transcriptional regulator to the sucrose non-assimilative  Escherichia  may be performed by a variety of methods well known in the art. Preferably, the method is to introduce the genes encoding sucrose permease, sucrose hydrolase and sucrose transcriptional regulator into a vector, and to transform the sucrose non-assimilative  Escherichia  having L- amino acid productivity with the recombinant vector. The gene encoding sucrose permease, the gene encoding sucrose hydrolase, and the gene encoding sucrose transcriptional regulator may be derived from a microorganism having a sucrose-assimilating ability, preferably the genus Escherichia having a sucrose-assimilating ability, and more preferably E.coli having a sucrose-assimilating ability. Examples of E.coli having a sucrose-assimilating ability include E.coli ATCC9637 ( Alterthum F & Ingram LO, Appl. Environ. Microbiol. (1989) 55:1943-1948 ) or the like. The gene ( cscB ) encoding sucrose permease, the gene ( cscA ) encoding sucrose hydrolase, and the gene ( cscR ) encoding sucrose transcriptional regulator that are obtained from the E.coli ATCC9637 7 are represented by SEQ ID NOs. 4, 6, and 7, respectively. 
+     
+    
+    [0017]
+     In a specific embodiment, the present inventors may introduce a  cscBAR  gene encoding sucrose permease, sucrose hydrolase and sucrose transcriptional regulator, which includes the  cscB, cscA,  and  cscR  genes of SEQ ID NOs. 4, 6 and 7 derived from the csc regulon, into a vector, and then transform the sucrose non-assimilative  Escherichia  having L-amino acid productivity with the recombinant vector. 
+     
+    
+    [0018]
+     In the present invention, mannokinase refers to a peptide having an activity of converting hexose such as mannose to 6-phospho-ester using ATP. The present invention is characterized in that the sucrose non-assimilative  Escherichia  has enhanced (or increased) mannokinase activity in comparison to the intrinsic activity of mannokinase. The "intrinsic activity" means an activity of the sucrose non-assimilative  Escherichia,  which is not modified by any genetic manipulation or alteration. In addition, the "enhanced" or "increased" means an improvement in the intrinsic activity of the sucrose non-assimilative  Escherichia.   
+     
+    
+    [0019]
+     The method of enhancing (or increasing) the mannokinase activity may be performed by a variety of methods well known in the art. Examples of the method include, but are not limited to, a method of increasing the copy number of base sequence encoding mannokinase by additionally inserting a polynucleotide containing a base sequence encoding mannokinase into a chromosome, or introducing the polynucleotide into a vector system, a method of replacement with a strong promoter, a method of introducing mutations in the promoter, and a method of gene mutation. In a specific embodiment, to enhance the mannokinase activity of the microorganism belonging to the genus  Escherichia  that has amino acid productivity, the mannokinase-encoding gene is introduced into a vector to transform the microorganism belonging to the genus  Escherichia,  thereby increasing the copy number of the gene. 
+     
+    
+    [0020]
+     The mannokinase-encoding gene is any gene that has a base sequence being operable in the sucrose non-assimilative  Escherichia,  and preferably a  mak  gene encoding the wild-type Mak of enteric bacteria (Mak-o). In a specific embodiment, a polynucleotide having a base sequence of SEQ ID NO. 15 (GenBank accession number AC000091) derived from E.coli was preferably used. Meanwhile, it will be apparent to those skilled in the art that the mannokinase-encoding gene can be modified to some degree as long as it retains its activity. It will be readily understood by those skilled in the art that the base sequence retaining 70% or more homology by the artificial modification is equivalent to that derived from the base sequence of the present invention, as long as it retains the activity desired in the present invention. 
+     
+    
+    [0021]
+     In the present invention, to additionally improve the L-amino acid productivity and sucrose-assimilating ability, a method of increasing the copy number of the gene that encodes a peptide having activities of mannokinase, sucrose permease, sucrose hydrolase and sucrose transcriptional regulator, a method of improving a promoter, random mutagenesis, or site-directed mutagenesis may be used. In the specific embodiment of the present invention, random mutagenesis was induced in the gene cluster containing the base sequences encoding mannokinase, sucrose permease, sucrose hydrolase and sucrose transcriptional regulator by hydroxylamine treatment ( Sikorski RS & Boeke JD, Methods Enzymol. (1991) 194:302-318 ). 
+     
+    
+    [0022]
+     Therefore, in one preferred embodiment, the present invention relates to a microorganism belonging to the genus  Escherichia  having improved L-amino acid productivity and sucrose-assimilating ability, in which the mutation in its base sequence or amino acid sequence is induced by the above mutagenesis. Preferably, the mutant is a mutant having one or more mutations in the base sequences of mannokinase, sucrose permease, sucrose hydrolase and sucrose transcriptional regulator. More preferably, the mutant is a mutant having one or more mutations in the amino acid sequences of mannokinase, sucrose permease, sucrose hydrolase and sucrose transcriptional regulator. Preferably, the mutant has a mutated sucrose transcriptional regulator, encoded by the base sequence represented by SEQ ID NO. 17. 
+     
+    
+    [0023]
+     A microorganism belonging to the genus  Escherichia  that has improved L-amino acid productivity and sucrose-assimilating ability according to the present invention may be provided by introducing the mutant into the vector, and transforming the sucrose non-assimilative  Escherichia  having L-amino acid productivity with the recombinant vector. In a specific embodiment, the present inventors used a pAcscBAR'-mak plasmid containing a base sequence represented by SEQ ID NO. 18 to transform the sucrose non-assimilative  Escherichia  into a microorganism belonging to the genus  Escherichia  that has improved L-amino acid productivity and sucrose-assimilating ability. 
+     
+    
+    [0024]
+     As used herein, the term "vector" is a nucleic acid compound used for the preparation of the microorganism belonging to the genus  Escherichia  according to the present invention, prepared by introducing the genes encoding sucrose permease, sucrose hydrolase, sucrose transcriptional regulator and mannokinase into a host cell, sucrose non-assimilative  Escherichia,  and the vector includes typical essential expression factors for the expression of desired protein. Specifically, the vector includes expression regulatory elements such as a promoter, an operator, an initiation codon, a termination codon, and a polyadenylation signal, which can be modified in various forms. In addition, the vector may include an enhancer sequence or secretory sequence. Examples of the commonly used vectors may include natural or recombinant plasmids, cosmids, viruses, and bacteriophages. For example, the phage vector or cosmid vector may include pWE15, M13, λEMBL3, λEMBL4, λFIXII, λDASHII, λZAPII, λgt10, Agt11, Charon4A, and Charon21A, and the plasmid vector include pBR, pUC, pBluescriptII, pGEM, pTZ, pCL and pET-type plasmids. The vectors to be used are not particularly limited, and any known expression vectors may be used. pACYC177, pACYC184, pCL, pECCG117, pUC19, pBR322 and pMW118 vectors are preferred. 
+     
+    
+    [0025]
+     As used herein, the term "transformation" means a method in which a gene is introduced into a host cell to be expressed in the host cell. The transformed genes, if they are in the state of being expressed in the host cell, comprise any of the genes inserted in the chromosome of the host cell or positioned in other parts of the chromosome. In addition, the gene comprises DNA and RNA as a polynucleotide capable of encoding a polypeptide. As long as the gene can be introduced in the host cell and expressed therein, the gene is introduced in any type. For example, the gene can be introduced into the host cell in the type of expression cassette which is polynucleotide expressome comprising by it self whole elements for expressing the gene. The expression cassette comprises a promoter which is operably connected to the gene, transcription termination signal, ribosome binding site and translation termination signal. The expression cassette can be in the type of the expression vector capable of self cloning. The gene also can be introduced into the host cell by itself or in the type of polynucleotide expressome to be operably connected to the sequence necessary for expression in the host cell. 
+     
+    
+    [0026]
+     The microorganism of the present invention refers to a microorganism belonging to the genus  Escherichia  having both improved L-amino acid productivity and sucrose-assimilating ability, which is prepared by imparting the activities of sucrose permease, sucrose hydrolase and sucrose transcriptional regulator to a sucrose non-assimilative microorganism having L-amino acid productivity, and enhancing the mannokinase activity. The microorganism of the present invention is preferably E.coli. 
+     
+    
+    [0027]
+     In the present invention, "L-amino acid" is L-threonine, O-succinyl-homoserine, O-acetyl-homoserine, L-methionine, L-lysine, L-homoserine, L-isoleucine, L-valine, L-tryptophan or the like. Preferably, the L-amino acid is L-threonine, O-succinyl-homoserine, O-acetyl-homoserine, and L-tryptophan. 
+     
+    
+    [0028]
+     In one specific embodiment, the present inventors transformed the E.coli ABA5G strain having L-threonine productivity using a vector having a base sequence of SEQ ID NO. 18, which contains the  cscBAR'-mak  gene cluster of E.coli having L-threonine productivity. The prepared strain was designated as E.coli CA03-0308, and deposited in the international depository authority, Korean Culture Center of Microorganisms, which is the Subsidiary Culture Collection of the Korean Federation of Culture Collections, (located at 361-221, Hongje-1-dong, Seodaemon-gu, Seoul, Korea) on Dec. 23, 2008, and assigned accession number KCCM-10978P. 
+     
+    
+    [0029]
+     In another aspect, the present invention relates to a method for producing L-amino acids using the microorganism belonging to the genus  Escherichia  in a medium containing sucrose as a carbon source, comprising the steps of inoculating and culturing the microorganism having sucrose-assimilating ability and L-amino acid productivity in a culture medium that totally or partially contains sucrose as a carbon source; and separating L-amino acids from the culture medium. 
+     
+    
+    [0030]
+     The culturing procedures used in the present invention may be conducted in suitable media and under culture conditions known in the art. According to strains used, the culturing procedures can be readily adjusted by those skilled in the art. Examples of the culturing procedures include batch type, continuous type and fed-batch type manners, but are not limited thereto. The media used in the culture method should preferably meet the requirements of a specific strain. 
+     
+    
+    [0031]
+     The medium used in the present invention contains sucrose as a main carbon source. The sucrose used as a main carbon source may be supplied in the form of molasses containing a high concentration of sucrose, and the medium may contain a proper amount of various carbon sources without limitation, in addition to sucrose or molasses. The nitrogen source may be used either singly or in combinations. To the medium, phosphorus sources such as potassium dihydrogen phosphate, dipotassium hydrogen phosphate or corresponding sodium-containing salts may be added. In addition, the medium may contain metal salts such as magnesium sulfate and ferrous sulfate. Further, the medium may be supplemented with amino acids, vitamins, and appropriate precursors. These media or precursors may be added to cultures by a batch type or continuous type method. 
+     
+    
+    [0032]
+     During cultivation, ammonium hydroxide, potassium hydroxide, ammonia, phosphoric acid, and sulfuric acid may be properly added so as to adjust the pH of the cultures. Defoaming agents such as fatty acid polyglycol ester may be properly added so as to reduce the formation of foams in cultures. To maintain the cultures in aerobic states, oxygen or oxygen-containing gas may be injected into the cultures. To maintain the cultures in anaerobic and microaerobic states, no gas may be injected or nitrogen, hydrogen, or carbon dioxide gas may be injected into the cultures. The cultures are maintained at 27 to 37°C, and preferably at 30 to 35°C. The cultivation may be continued until a desired amount of the desired material is obtained, and preferably for 10 to 100 hrs. 
+     
+    
+    [0033]
+     The method of collecting and recovering the amino acids produced in the cultivation step used in the present invention may be performed by a proper method known in the art, depending on the culturing procedures, for example, batch type, continuous type or fed-batch type, so as to collect the desired amino acid from the culture medium. 
+   Mode for Invention 
+   
+    
+    [0034]
+     Hereinafter, the present invention will be described in more detail with reference to Examples. However, these Examples are for illustrative purposes only, and the invention is not intended to be limited by these Examples. 
+   
+ 
+ Example 1: Establishment and Cloning of Sucrose-assimilative gene,  csc  regulon 
+ 
+ 
+   
+    
+    [0035]
+     A regulon containing the cscBKAR gene (GenBank accession number X81461) encoding the Scr-non PTS system which requires no PEP (phosphoenolpyruvate) consumption upon sucrose uptake was amplified by PCR using a genomic DNA of E.coli W strain (ATCC9637, USA) as a template. A primer of SEQ ID NO. 1, having the  EagI  restriction site and a primer of SEQ ID NO. 2 having the  XbaI  restriction site were used to amplify four types of genes, which are consecutively present on the genome, as a single polynucleotide.
+       SEQ ID NO.. 1: 5'-CTTACGGCCGGAGTACATTTGAGCGACTGT-3'   SEQ ID NO.. 2: 5'-CGACTCTAGACTCGTTGGCGAGAACAGAGG-3'   
+   
+    
+    [0036]
+     PCR was performed under the conditions including denaturation at 94°C for 3 min, 25 cycles of denaturation at 94°C for 30 sec, annealing at 56°C for 30 sec, and polymerization of at 72°C for 5 min, and then polymerization for at 72°C for 7 min. As a result, a polynucleotide of 5199 bp was obtained. The obtained polynucleotide was treated with  EagI  and  XbaI  restriction enzymes, and then cloned into a pACYC184 vector. Thereafter, E.coli DH5α was transformed with the vector, and spread on a MacConkey agar plate containing 1% sucrose. Of colonies, deep purple colonies were selected, and then a plasmid was obtained from the colonies. 
+   
+ 
+ Example 2. Determination of Base Sequence of obtained  cscBKAR  gene 
+ 
+ 
+   
+    
+    [0037]
+     The obtained plasmid was designated as pAcscBKAR, and the DNA base sequence (SEQ ID NO. 3) of  cscBKAR  cloned into the  EagI  and  XbaI  sites were analyzed. It was determined that the positions 141 to 1388 of the base sequence  were cscB (SEQ ID NO. 4), the positions 1460 to 2374  cscK  (SEQ ID NO. 5), the positions 2590 to 4023  cscA  (SEQ ID NO.. 6), and the positions 4031 to 5026  cscR (SEQ ID NO. 7). 
+   
+ 
+ Example 3. Construction of MG1655 mak gene-deleted strain 
+ 
+ 
+   
+    
+    [0038]
+     To investigate crucial genes involved in sucrose metabolism, candidate genes expected to be involved in sucrose metabolism were selected, and mutant E.coli K12 having each deleted gene was constructed. One-step inactivation ( Proc. Natl. Acad. Sci. (2000) 97:6640-6645 ) was performed to delete each gene, thereby constructing the mutant E.coli K12, and an antibiotic resistance marker gene was removed. In particular, to construct a  mak -deleted strain, PCR was performed using a pair of primers of SEQ ID NOs. 8 and 9 and a pKD4 plasmid (GenBank No. AY048743). The obtained DNA fragment was electroporated into a competent cell, the wild-type E.coli K12 containing pKD46 (GenBank No. AY048746). Then, the strains showing a resistance to kanamycin were subjected to PCR, and the deletion of  mak  gene was examined. A pCP20 plasmid was introduced to remove an antibiotic resistance marker gene.
+   
+   
+ 
+ Example 4. Introduction of pAcscBKAR into MG1655  mak  gene-deleted strain and Analysis of Sucrose Assimilation 
+ 
+ 
+   
+    
+    [0039]
+     E.coli K12 with a deletion of  mak  gene that was expected to affect sucrose metabolism was constructed according to Example 3, and then transformed with pAcscBKAR plasmid. The pAcscBKAR plasmid-introduced transformant was cultured on a LB solid media in a 33°C incubator overnight. One loop of the strain was inoculated in 25 mL of a titration medium containing sucrose of Table 1, and then cultured in a 33°C incubator at 200 rpm for 36 hrs. OD value and sugar consumption of the culture medium was measured, and the results are shown in Table 2.
+   Table 1         Composition       Concentration (per liter)           Sucrose   70 g       KH 2 PO 4     2 g       (NH 4 ) 2 SO 4     25 g       MgSO 4 ·7H 2 O   1 g       FeSO 4 ·7H 2 O   5 mg       MnSO 4 ·4H 2 O   5 mg       Yeast Extract   2 g       Calcium carbonate   30 g       pH   6.8         
+   Table 2       Strain   OD   Sugar consumption (g/L)         MG1655/pAcscBKAR   26.0   33.1       MG1655Δmak/pAcscBKAR   24.2   24.9           
+     
+    
+    [0040]
+     As shown in Table 2, it was found that the  mak -deleted, csc regulon-introduced strain utilized 24.9 g/L of sucrose for 36 hrs, and non- mak -deleted, csc regulon-introduced wild-type strain utilized 33.1 g/L of sucrose, indicating that the sucrose consumption rate of the  mak -deleted strain is approximately 1.3 times less than that of non- mak -deleted strain. Therefore, it was suggested that  mak  is a crucial gene in sucrose metabolism. 
+   
+ 
+ Example 5. pAcscBAR-mak Construction 
+ 
+ 
+   
+    
+    [0041]
+     To develop efficient sucrose-assimilative strains, a vector overexpressing both  mak  and csc regulon was constructed. At this time,  cscK  was excluded from the csc regulon. First, pAcscBAR was constructed, and the  mak  gene was cloned into pAcscBAR. 
+     
+    
+    [0042]
+     Specifically, a pair of primers of SEQ ID NOs. 10 and 11 was used to perform PCR under the conditions of Example 1 to amplify a polynucleotide of  cscB  region, where  cscK  was removed. As a result, a polynucleotide of 1521 bp was obtained.
+   
+     
+    
+    [0043]
+     The obtained polynucleotide and pAcscBKAR were treated with the restriction enzymes  EcoRV  and  EagI,  respectively and connected to each other to construct a pAcscBAR plasmid. E.coli DH5α was transformed with the vector, and colonies containing pAcscBAR were screened from the colonies on LB medium by PCR, so as to obtain a pAcscBAR plasmid. The base sequence (SEQ ID NO. 12) of  cscBAR  linked at the  Xba I and  Eag I restriction sites of the obtained pAcscBAR plasmid was analyzed, and no mutation was found. 
+     
+    
+    [0044]
+     Subsequently, PCR was performed using the genomic DNA of E.coli W3110 as a template and a pair of primers of SEQ ID NOs. 13 and 14 in the same manners as in Example 1 to amplify the polynucleotide containing  mak . A polynucleotide of 1388 bp was obtained, and the PCR product was cloned at the  Pst I and  Eag I restriction sites of pAcscBAR to construct  pAcscBAR-mak. 
+       SEQ ID NO. 13: 5'-CACTGCAGTGGGGTAAATGCCATCG-3'   SEQ ID NO. 14: 5'-AACGGCCGTCTCGGTGCTCATTACT-3'   
+   
+    
+    [0045]
+     E.coli DH5α was transformed with pAcscBAR, and colonies containing pAcscBAR-mak were screened from the colonies on LB medium by PCR, so as to obtain a pAcscBAR-mak plasmid. The base sequence (SEQ ID NO. 16) of  cscBAR-mak  linked at the  XbaI  and  EagI  restriction sites of the obtained pAcscBAR-mak plasmid was analyzed, and no mutation was found. 
+   
+ 
+ Example 6. Introduction of pAcscBAR-mak into threonine-producing strain 
+ 
+ 
+   
+    
+    [0046]
+     In order to confirm whether threonine-producing E.coli grows on sucrose and efficiently produces threonine by transformation of pAcscBAR-mak, a threonine-producing strain, ABA5G (KFCC 10718) was transformed with the plasmid. Colonies having the plasmid containing the sucrose assimilation-related gene were screened from the obtained colonies by PCR. The screened colonies were incubated on LB solid medium in a 33°C incubator overnight. One loop of the strain was inoculated in 25 mL of a titration medium of Table 1, and then cultured in a 33°C incubator at 200 rpm for 30 hrs. Subsequently, OD value and sugar consumption of the culture medium was measured, and the results are shown in Table 3.
+   Table 3       Parental strain   OD   Sugar consumption (g/L)   L-threonine (g/L)         pAcscBKAR   9.2   18.7   6.0       pAcscBAR-mak   10.8   27.7   9.7           
+     
+    
+    [0047]
+     As shown in Table 3, when the ABA5G strain containing pAcscBKAR was cultured for 30 hrs, it utilized 18.7 g/L of sucrose, and produced 6.0 g/L of L-threonine, but the ABA5G strain containing pAcscBAR-mak utilized 27.7 g/L of sucrose, and produced 9.7 g/L of L-threonine. That is, the sucrose consumption rate of the ABA5G containing pAcscBAR-mak was approximately 1.5 times more than that of the ABA5G containing pAcscBKAR, and the threonine productivity of the ABA5G containing pAcscBAR-mak increased to 3.7 g/L more than that of the ABA5G containing pAcscBKAR. 
+   
+ 
+ Example 7. Enhancement of Mak activity by introduction of  cscBAR-mak   
+ 
+ 
+   
+    
+    [0048]
+     To confirm an increase or enhancement in the mannokinase activity of the ABA5G strain containing pAcscBAR-mak as compared to the parental strain ABA5G, the fructokinase activity was measured ( Copeland L et al., Plant Physiol. (1978) 62:291-294 ). This measurement of fructokinase activity is a method of measuring the fructokinase activity of mannokinase through coupling reaction using mannokinase, phosphoglucose isomerase and glucose-6-phosphate dehydrogenase and using a fructose as an initial substrate. The supernatant was obtained by sonication and centrifugation of the ABA5G strains containing each of pAcscBAR and pAcscBAR-mak cultured in LB for 24 hrs, and used as an enzyme liquid. Protein concentration was determined by the Bradford assay. Enzyme reaction was maintained for 30 min, and the change in absorbance was measured at OD 340 nm to measure NADPH produced by the coupling reaction. The activity was calculated using NADPH absorption coefficient of 6.22 cm -1  mM -1 . 1 unit of mannokinase is defined as an amount of enzyme that catalyzes 1 mg of total protein per 1 min to produce 1 nM NADPH by the above enzyme activity measurement. The result is shown in Table 4.
+   Table 4       Parental strain ABA5G   Units (nM/mg/Min)         pAcscBAR   0.3       pAcscBAR-mak   3.7           
+     
+    
+    [0049]
+     As shown in Table 4, the mannokinase activity of ABA5G containing pAcscBAR-mak was increased or enhanced approximately 12 times more than that of ABA5G containing pAcscBAR only. 
+   
+ 
+ Example 8. Introduction of  cscBAR-mak  mutation 
+ 
+ 
+   
+    
+    [0050]
+     To improve sucrose assimilation and threonine productivity, chemical random mutagenesis was performed to obtain a mutated sucrose-assimilating gene by treatment of hydroxylamine ( Sikorski RS & Boeke JD, Methods Enzymol. (1991) 194:302-318 ). First, 1 M hydroxylamine, 2 mM EDTA, 100 mM sodium chloride, and 50 mM sodium pyrophosphate were added to prepare a mutagenesis solution, and then 25 µl of target DNA (0.2 mg/ml) was added to 1 ml of mutagenesis solution. The DNA fragment containing 5887 bp of  cscBAR-mak,  which was obtained from the pAcscBAR-mak plasmid using restriction enzymes  EagI  and  XbaI,  was used as the target DNA. 500 µl of the DNA fragment in the mutagenesis solution was purified at 75°C at 30 min, 1 hr, 2 hr, and 4 hr using a purification column. DNA treated with hydroxylamine and the pACYC184 vector treated with restriction enzymes  EagI  and  XbaI  were linked to each other using a T4 DNA ligase, and transformed into the threonine-producing strain ABA5G. The transformed strain was spread on a MacConkey agar plate containing 0.1% low concentration of sucrose, and cultured at 37°C for a day. Of colonies, deep purple colonies were selected. 
+     
+    
+    [0051]
+     The selected colonies were cultured in the titration medium of Table 1, and threonine productivity and sucrose utilization rate were evaluated. Finally, the strain showing excellent threonine productivity and sucrose utilization was selected. A plasmid was obtained from the selected strain, and base sequence analysis was performed. As a result, substitution of C to T at position 388 in  cscR  of the strain was observed, and therefore a mutation from histidine to tyrosine occurred at position 130 of the amino acid sequence. The sucrose transcriptional regulator cscR having the mutation was encoded by the base sequence of SEQ ID NO. 17. 
+   
+ 
+ Example 9. Improvement of L-threonine productivity by introduction of pAcscBAR'-mak 
+ 
+ 
+   
+    
+    [0052]
+     The pAcscBAR'-mak (SEQ ID NO. 18) plasmid containing  cscR  mutation (SEQ ID NO. 17) was transformed into ABA5G to perform a flask titration test. The strain was cultured on LB solid medium and in a 33°C incubator overnight. One loop of the strain was inoculated in 25 mL of a titration medium of Table 1, and then cultured in a 33°C incubator at 200 rpm for 30 hrs. The results are shown in Table 5.
+   Table 5       Parental strain ABA5G   OD   Sugar consumption (g/L)   L-threonine (g/L)         pAcscBKAR   9.2   18.7   6.0       pAcscBAR-mak   10.8   27.7   9.7       pAcscBAR'-mak   10.3   33.4   12.4           
+     
+    
+    [0053]
+     As shown in Table 5, when the strains were cultured for 30 hrs, the ABA5G strain containing pAcscBKAR utilized 18.7 g/L of sucrose and produced 6.0 g/L of L-threonine, but the ABA5G strain containing pAcscBAR'-mak was utilized 33.4 g/L of sucrose and produced 12.4 4 g/L of L-threonine. That is, the sucrose utilization rate and threonine productivity of the ABA5G strain containing pAcscBAR'-mak increased approximately 1.8 times and 6.4 g/L more than those of the ABA5G strain containing pAcscBKAR, respectively. In addition, the sucrose utilization rate and threonine productivity of the ABA5G strain containing pAcscBAR'-mak increased approximately 1.2 times and 2.7 g/L more than those of the ABA5G strain containing pAcscBAR-mak, respectively. Therefore, the recombinant strain containing  cscBAR'-mak  was found to show the improved sucrose utilization and L-threonine productivity. The transformed microorganism was designated as CA03-0308, and deposited in the international depository authority, Korean Culture Center of Microorganisms, which is the Subsidiary Culture Collection of the Korean Federation of Culture Collections, (located at 361-221, Hongje-1-dong, Seodaemon-gu, Seoul, Korea) on Dec. 23, 2008, and assigned accession number KCCM-10978P. 
+   
+ 
+ Example 10. Improvement of O-succinyl-homoserine productivity by introduction of pAcscBAR'-mak 
+ 
+ 
+   
+    
+    [0054]
+     The O-succinyl-homoserine-producing strain, CJM-11A (KCCM-10922P) disclosed in    US patent No. 2009/0253187    was transformed with pAcscBAR'-mak constructed in Example 8, and spread on a MacConkey agar plate containing 0.1% low concentration of sucrose, followed by cultivation at 37°C for one day. Of colonies, deep purple colonies were selected. 
+     
+    
+    [0055]
+     The selected transformant was cultured on LB solid medium and in a 33°C incubator overnight. One loop of the strain was inoculated in 25 mL of a titration medium containing sucrose of Table 1, and then cultured in a 33°C incubator at 200 rpm. The results are shown in Table 6.
+   Table 6       Parental strain CJM-11A   OD   Sugar consumption (g/L)   O-Succinyl-homoserine (g/L)         pAcscBKAR   6.8   30.2   12.3       pAcscBAR-mak   6.8   44.8   18.2       pAcscBAR'-mak   7.5   50.4   20.5           
+     
+    
+    [0056]
+     As shown in Table 6, when the strains were cultured for 48 hrs, the parental strain, CJM-11A containing pAcscBKAR utilized 30.2 g/L of sucrose and produced 12.3 g/L of 0-succinyl-homoserine, but the CJM-11A strain containing pAcscBAR'-mak utilized 50.4 g/L of sucrose and produced 20.5 g/L of O-succinyl-homoserine, indicating that the sucrose utilization rate and O-succinyl-homoserine productivity increased approximately 1.7 times and 8.2 g/L more than those of the CJM-11A strain containing pAcscBKAR, respectively. That is, the recombinant strain containing  cscBAR'-mak  was found to show improved sucrose utilization and O-succinyl-homoserine productivity. 
+   
+ 
+ Example 11. Improvement of O-acetyl-homoserine productivity by introduction of pAcscBAR'-mak 
+ 
+ 
+   
+    
+    [0057]
+     The O-acetyl-homoserine-producing strain, CJM-X (KCCM-10921P) disclosed in    US patent No. 2009/0253186    was transformed with the pAcscBAR'-mak constructed in Example 8, and spread on a MacConkey agar plate containing 0.1% low concentration of sucrose, followed by cultivation at 37°C for one day. Of colonies, deep purple colonies were selected. 
+     
+    
+    [0058]
+     The selected transformant was cultured on LB solid medium and in a 33°C incubator overnight. One loop of the strain was inoculated in 25 mL of a titration medium containing sucrose of Table 1, and then cultured in a 33°C incubator at 200 rpm. The results are shown in Table 7.
+   Table 7       Parental strain CJM-x   OD   Sugar consumption (g/L)   O-acetyl-homoserine (g/L)         pAcscBKAR   13.5   29.9   10.7       pAcscBAR-mak   12.3   42.9   15.4       pAcscBAR'-mak   13.6   53.5   19.5           
+     
+    
+    [0059]
+     As shown in Table 7, when the strains were cultured for 48 hrs, the parental strain, CJM-X containing pAcscBKAR utilized 29.9 g/L of sucrose and produced 10.7 g/L of 0-acetyl-homoserine (hereinbelow, referred to as OAH), but the CJM-X strain containing pAcscBAR'-mak utilized 53.5 g/L of sucrose and produced 15.4 g/L of OAH, indicating that the sucrose utilization rate and OAH productivity increased approximately 1.8 times and 8.8 g/L more than those of the CJM-X strain containing pAcscBKAR, respectively. That is, the recombinant strain containing  cscBAR'-mak  was found to show improved sucrose utilization and OAH productivity. 
+   
+ 
+ Example 12. Improvement of L-tryptophan productivity by introduction of pAcscBAR'-mak 
+ 
+ 
+   
+    
+    [0060]
+     The L-tryptophan-producing strain, CJ285 (KCCM-10534, deposited in Korean Culture Center of Microorganisms on Nov. 28, 2003) was transformed with the pAcscBAR'-mak constructed in Example 8, and spread on a MacConkey agar plate containing 0.1% low concentration of sucrose, followed by cultivation at 37°C for one day. Of colonies, deep purple colonies were selected. 
+     
+    
+    [0061]
+     The selected transformant was cultured on LB solid medium and in a 37°C incubator overnight. One loop of the strain was inoculated in 25 mL of a titration medium containing sucrose of Table 8, and then cultured in a 37°C incubator at 200 rpm. The results are shown in Table 9.
+   Table 8         Composition       Concentration (per liter)           Sucrose   60 g       KH 2 PO 4     2 g       (NH 4 ) 2 SO 4     20 g       MgSO 4 ·7H 2 O   1 g       Na 3 C 6 H 5 O 7 ·2H 2 O   5 g       NaCl   1 g       Yeast Extract   2.5 g       Calcium carbonate   40 g         
+   Table 9       Parental strain CJ285   OD   Sugar consumption (g/L)   L-tryptophan (g/L)         pAcscBKAR   19.6   24.7   4.9       pAcscBAR-mak   22.8   33.2   6.8       pAcscBAR'-mak   24.1   37.1   8.9           
+     
+    
+    [0062]
+     As shown in Table 9, when the strains were cultured for 60 hrs, the parental strain, CJ285 containing pAcscBKAR utilized 24.7 g/L of sucrose and produced 4.9 g/L of L-tryptophan, but the CJ285 strain containing pAcscBAR'-mak utilized 37.1 g/L of sucrose and produced 8.9 g/L of L-tryptophan, indicating that the sucrose utilization rate and L-tryptophan productivity increased approximately 1.5 times and 4.0 g/L more than those of the CJ285 strain containing pAcscBKAR, respectively. That is, the recombinant strain containing  cscBAR'-mak  was found to show improved sucrose utilization and L-tryptophan productivity. 
+   Industrial Applicability 
+   
+    
+    [0063]
+     When the microorganism belonging to the genus  Escherichia  that has the improved L-amino acid productivity and sucrose-assimilating ability according to the present invention is used for the production of L-amino acids, sucrose can be used as a main carbon source instead of starch sugar usually used in industrial fermentation, thereby coping with the rapid rise in global prices of grain as well as producing L-amino acids with high yield. 
+   Sequence Listing 
+   
+    
+    [0064]
+     
+     
+ <110> CJ cheilJedang Corporation 
+ <120> Microorganisms for Producing L-Amino Acids and Process for Producing L-Amino 
+Acids Using Them 
+ <130> OPA10013 
+ <150>    KR10-2009-0012048     
+<151> 2009-02-13 
+ <160> 18 
+ <170> KopatentIn 1.71 
+ <210> 1 
+<211> 30 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(30) 
+<223> primer for amplification of cscBKAR 
+ <400> 1 
+cttacggccg gagtacattt gagcgactgt   30 
+ <210> 2 
+<211> 30 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(30) 
+<223> primer for amplification of cscBKAR 
+ <400> 2 
+cgactctaga ctcgttggcg agaacagagg   30 
+ <210> 3 
+<211> 5179 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) 
+ <220> 
+<221> gene 
+<222> (1)..(5179) 
+<223> polynucleotide containing cscBKAR regulon 
+ <400> 3
+ 
+ 
+ 
+   
+ <210> 4 
+<211> 1248 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) 
+ <220> 
+<221> gene 
+<222> (1)..(1248) 
+<223> cscB 
+ <400> 4
+ 
+   
+ <210> 5 
+<211> 915 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) 
+ <220> 
+<221> gene 
+<222> (1)..(915) 
+<223> cscK 
+ <400> 5
+   
+ <210> 6 
+<211> 1443 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) 
+ <220> 
+<221> gene 
+<222> (1)..(1443) 
+<223> cscA 
+ <400> 6
+ 
+   
+ <210> 7 
+<211> 996 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) 
+ <220> 
+<221> gene 
+<222> (1)..(996) 
+<223> cscR 
+ <400> 7
+ 
+   
+ <210> 8 
+<211> 71 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(71) 
+<223> primer for deletion cassette of mak 
+ <400> 8
+   
+ <210> 9 
+<211> 71 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(71) 
+<223> primer for deletion cassette of mak 
+ <400> 9
+   
+ <210> 10 
+<211> 55 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(55) 
+<223> primer for amplification of cscB to construct pAcscBAR 
+ <400> 10 
+cgcgatatct agcatatgcc gggtaccgca ctagttgaga agtaaacggc gaagt   55 
+ 
+   <210> 11 
+<211> 46 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(46) 
+<223> primer for amplification of cscB to construct pAcscBAR 
+ <400> 11 
+attcggccgg agccctgcag gtgcacgagt acatttgagc gactgt   46 
+ <210> 12 
+<211> 4520 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) 
+ <220> 
+<221> gene 
+<222> (1)..(4520) 
+<223> polynucleotide containing cscBAR 
+ <400> 12
+ 
+ 
+   
+ <210> 13 
+<211> 25 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(13) 
+<223> primer for amplification of mak released from reference sequence, AP009048 on GeneBank 
+ <400> 13 
+cactgcagtg gggtaaatgc catcg   25 
+ <210> 14 
+<211> 25 
+<212> DNA 
+<213> Artificial sequence 
+ <220> 
+<221> gene 
+<222> (1)..(14) 
+<223> primer for amplification of mak released from reference sequence, AP009048 on GeneBank 
+ <400> 14 
+aacggccgtc tcggtgctca ttact   25 
+ 
+   <210> 15 
+<211> 1388 
+<212> DNA 
+<213> Escherichia coli K12 W3110 
+ <220> 
+<221> gene 
+<222> (1)..(1388) 
+<223> polynucleotide containing mak, amplified using sequence number 13 and 14 
+ <400> 15
+   
+ <210> 16 
+<211> 5887 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) and K12 W3110 
+ <220> 
+<221> gene 
+<222> (1)..(5887) 
+<223> polynucleotide containing cscBAR-mak 
+ <400> 16
+ 
+ 
+   
+ <210> 17 
+<211> 996 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) 
+ <220> 
+<221> gene 
+<222> (1)..(996) 
+<223> cscR mutated tyrosine on 388th amino acid 
+ <400> 17
+   
+ <210> 18 
+<211> 9129 
+<212> DNA 
+<213> Escherichia coli (ATCC9637) and K12 W3110 
+ <220> 
+<221> gene 
+<222> (1)..(9129) 
+<223> pAcscBAR'-mak 
+ <400> 18
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

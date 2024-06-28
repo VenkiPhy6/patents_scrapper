@@ -1,0 +1,1069 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This application claims the benefit of U.S. Provisional Application No. 60/519,413 filed Nov. 12, 2003. 
+ FIELD OF THE INVENTION 
+ The invention relates to the field of molecular biology and microbiology. More specifically, a gene involved in carotenoid biosynthesis has been isolated from  Pantoea stewartii , altered by error-prone PCR, and expressed in a recombinant host to produce 3,4,3′,4′-tetradehydrolycopene (TDHL). The present invention also relates to a process for a producing TDHL. 
+ BACKGROUND OF THE INVENTION 
+ Carotenoids represent one of the most widely distributed and structurally diverse classes of natural pigments, producing light yellow to orange to deep red color. Eye-catching examples of carotenogenic tissues include carrots, tomatoes, red peppers, and the petals of daffodils and marigolds. Carotenoids are synthesized by all photosynthetic organisms, as well as some bacteria and fungi. These pigments have important functions in photosynthesis, nutrition, and protection against photooxidative damage. For example, animals do not have the ability to synthesize carotenoids and must obtain these nutritionally important compounds through their dietary sources. Structurally, carotenoids are 40-carbon (C 40 ) terpenoids derived from the isoprene biosynthetic pathway and its five-carbon universal isoprene building block, isopentenyl pyrophosphate (IPP). 
+ Although more than 600 different carotenoids have been identified in nature, only a few are used industrially for food colors, animal feed additives, vitamin A precursors, pharmaceuticals, and cosmetics. Presently, most of the carotenoids used for industrial purposes are produced by chemical synthesis; however, these compounds are very difficult to make chemically (Nelis and Leenheer,  Appl. Bacteriol.,  70:181–191 (1991)). Natural carotenoids can either be obtained by extraction of plant material or by microbial synthesis. At the present time, only a few plants are widely used for commercial carotenoid production. 
+ Carotenoid production by microbial fermentation is a potential way to produce a variety of carotenoids in significant quantities. However, carotenoid production in non-carotenogenic microorganisms requires the ability to genetically engineer genes involved in carotenoid biosynthesis into industrially-useful microorganisms. Recently, carotenoid biosynthesis genes have been isolated from  Pantoea stewartii  and engineered into recombinant production hosts (WO 02/079395 A2 and commonly owned WO 03/016503 A2 corresponding to U.S. Ser. No. 10/218,118; hereby incorporated by reference). Methods are described for the production of carotenoids such as lycopene, zeaxanthin, canthaxanthin, β-carotene, lutein, and astaxanthin to name a few. 
+ Commercial production of carotenoids not found in nature, or at least ones not naturally produced in commercially-suitable amounts, may also be accomplished by genetic engineering. Production hosts, such as  Escherichia coli , can be engineered to produce various novel carotenoids through biochemical pathway engineering. These novel carotenoids may be have superior attributes in comparison to carotenoids currently used in a variety of applications. One such carotenoid is 3,4,3′,4′-tetradehydrolycopene (TDHL). 
+ Most carotenoids exhibit distinct color and can be viewed as natural pigments or colorants. Carotenoids are required elements of aquaculture and are also used in the poultry industry. Salmon and shrimp aquacultures are particularly useful applications as carotenoid pigmentation is critically important for the value of these organisms (Shahidi and Brown,  Crit Rev Food Sci,  38(1):1–67 (1998)). Well-known examples of carotenoids used in the aquaculture industry are β-carotene and astaxanthin. 
+ It is also known that carotenoids have utility as intermediates in the synthesis of cosmetics, flavors, and fragrances and compounds with potential electro-optic applications. Tetradehydrolycopene is particularly desirable for electro-optic applications. For example, electrical, optical, and redox characteristics of a polyene are a function of the length of the polyene run. Optical absorption red-shifts as the polyene run becomes longer, and the oxidation and reduction potentials become smaller as the polyene run becomes longer. These properties are believed to approach a limiting value when the polyene has 20 double bonds (W. Vetter et al., in  Carotenoids  (ed. O. Isler) Birkhäuser, Basel 1971). Tetradehydrolycopene has a run of 15 double bonds extending the entire length of the molecule, while lycopene only has 11 double bonds. 
+ Carotenoids, such as lycopene, are used as antioxidants due to their large number of conjugated double bonds, making inclusion of these compounds in the diet desirable in view of their reported health benefits. Antioxidant potency is attributed to several factors, one being the length of the conjugated polyene chain in acyclic carotenoids (Miller et al.,  FEBS Letters,  384:240–242 (1996); Albrecht et al.,  Nature Biotechnology , (18):843–846 (2000)). A carotenoid having a long conjugated double-bond system, such as TDHL, has better antioxidant properties in comparison to carotenoids having a shorter conjugated polyene chain, such as lycopene. 
+ Additionally, the bulk electrical properties of polyenes, such as carotenoids, are determined by the spacing between molecules in the solid state. Lycopene has a sterically bulky pentenyl end group on each side of the molecule, while TDHL does not. This is expected to allow closer interaction of all trans TDHL in the solid state compared to lycopene (Broszeit et al.,  Liebigs Ann./Recueil,  2205–13 (1997); Heinze et al.,  J. Solid State Electrochem,  2:102–9 (1998)). 
+ Chemical synthesis of TDHL is not practical and the most direct biological route to this carotenoid species involves the desaturation of phytoene-like substrates by phytoene desaturases. Phytoene desaturase genes have been cloned, expressed, and sequenced from fungal species ( Neurospora crassa ), cyanobacteria ( Synechococcus ), bacterial species ( Rhodobacter capsulatus, Erwinia uredovora, Erwinia herbicola , and  Pantoea stewartii ) as well as plant species ( Arabidopsis thaliana  (Linden et al., supra; Bartley et al.,  J. Biol. Chem.,  265:16020–16024 (1990); Scolnick et al.,  Plant Physiol.,  108: 1343, Bartely et al.,  Eur. J. Biochem.,  265:396–403 (1999); and Hausmann and Sandmann,  Fungal Genet. Biol.,  30:147–153 (2000)). In addition, oscillaxanthin, a 1,1′-dihydroxy-2,2′-di-β-L-rhamnosyl-1,2,1′,2′-tetrahydro-3,4,3′,4′-tetradehydrolycopene has been characterized from a blue green algae ( Arthrospira ). Although no genetic data is available, this species presumably contains a gene encoding a phytoene desaturase-type enzyme (Hertzber and Liaaen-Jensen,  Phytochemistry , (8):1281–1292 (1969)). 
+ Biological production of TDHL (in trace amounts) in a recombinant host has been reported (Schmidt-Dannert et al.,  Nature Biotechnology , (18):750–753 (2000); U.S. 2002/0051998 A1)). A mutant phytoene desaturase, synthesized by gene shuffling fragments of the phytoene desaturase genes (crtI) from  Erwinia uredovora  and  Erwinia herbicola , was expressed in  E. coli , producing trace amounts of TDHL. 
+ Linden et al. ( Z. Naturforsch , (46c):1045–1091 (1991)) expressed the phytoene desaturase (crtI) gene from  E. uredovora  in  E. coli , reporting the production of trace amounts of TDHL. Fraser et al. ( J Biol Chem,  267(28):19891–19895 (1992)) reported sporadic production of trace amounts of TDHL when expressing the crtl gene from  E. uredovora  in  E. coli . None of these references teach how to produce TDHL in industrially-suitable amounts in a recombinant host using genes from sources other than  E. uredovora  or  E. herbicola.    
+ Although small amounts of tetradehydrolycopene have been prepared chemically and trace amounts have been formed in biological systems, no means for economical production of significant amounts of TDHL exists (Hengartner et al.,  Helvetica Chimica Acta ., (75):1848–1865 (1992); Albrecht et al., supra; and Schmidt-Dannert et al., supra). The problem to be solved, therefore, is to provide materials and methods useful for producing industrially-suitable amounts of TDHL in a recombinant production host. 
+ Applicants have solved the stated problem by mutating crtl from  Pantoea stewartii  and expressing the mutated crtl genes along with other carotenoid biosynthetic enzymes in a recombinant host to produce industrially-suitable amounts of TDHL. 
+ SUMMARY OF THE INVENTION 
+ The invention relates to mutant polypeptides and nucleic acid molecules encoding the same for the conversion of phytoene desaturase substrates to TDHL. Preferred phytoene desaturase substrates include, but are not limited to phytoene, phytofluene, ξ-carotene, neurosporene, and lycopene. 
+ Accordingly, the invention provides an isolated nucleic acid molecule encoding a mutant phytoene desaturase comprising:
+         a) a nucleic acid molecule encoding the amino acid sequence selected from the group consisting of SEQ ID NOs:18 and 20; or   b) is completely complementary to (a).       
+ Additionally the invention provides polypeptides encoded by the genes of the invention as well as genetic chimera and transformed host cells comprising the same. 
+ In another embodiment the invention provides a method for the production of tetradehydrolycopene comprising:
+         a) providing a recombinant host cell comprising:
+           i) an isolated nucleic acid molecule encoding a mutant phytoene desaturase having the amino acid sequence selected from the group consisting of SEQ ID NO:18 and SEQ ID NO:20;   ii) a phytoene desaturase substrate;   
+   b) growing the recombinant host cell of (a) under conditions whereby the isolated nucleic acid molecule of (a)(i) is expressed and the phytoene desaturase substrate is converted to tetradehydrolycopene; and   c) optionally recovering the tetradehydrolycopene.       
+ In a preferred embodiment the invention provides a method for the production of tetradehydrolycopene comprising:
+         a) providing a recombinant host cell comprising:
+           i) a functional isoprenoid biosynthesis pathway, said isoprenoid biosynthesis pathway comprising at least one copy of the genes dxs, ispC, ispD, ispE, ispF, ispG, ispH, idi, and ispA; wherein one or more of the isoprenoid pathway genes is upregulated;   ii) a functional carotenoid biosynthesis pathway, said carotenoid biosynthesis pathway comprising at least one copy of the genes crtE, crtB, and crtl; wherein one or more of the carotenoid biosynthesis genes are upregulated;   iii) an isolated nucleic acid molecule encoding a mutant phytoene desaturase having the amino acid sequence selected from the group consisting of SEQ ID NO:18 and SEQ ID NO:20; said isolated nucleic acid molecule operably linked to suitable regulatory sequence; and   
+   b) growing the recombinant host cell of (a) under conditions whereby the isolated nucleic acid molecule of (a) is expressed and tetradehydrolycopene is produced; and
+ 
+c) optionally recovering the tetradehydrolycopene.
+       
+ Alternatively the invention provides a method of producing tetradehydrolycopene in vitro comprising
+         a) contacting a phytoene desaturase substrate with a mutant phytoene desaturase polypeptide selected from the group consisting of SEQ ID NO:18 and SEQ ID NO:20 under suitable reaction conditions whereby tetradehydrolycopene is produced; and   b) optionally recovering the tetradehydrolycopene produced in step (a).       
+ 
+ BRIEF DESCRIPTION OF THE DRAWINGS SEQUENCE DESCRIPTIONS AND 
+   FIG. 1  shows the chemical structures involved in the present carotenoid pathway. 
+   FIG. 2  shows the gene cluster containing the carotenoid biosynthetic genes crtEXYIB from  Pantoea stewartii.    
+   FIG. 3  shows the tracing of HPLC separation of carotenoids produced by the engineered Crtl strain. 
+   FIG. 4  shows the isoprenoid pathway for the production of carotenoids in  E. coli.    
+   FIG. 5  shows the two PCR fragment method for integration of a strong promoter upstream of isoprenoid genes in the  E. coli  chromosome (U.S. Ser. No. 10/734,936 and U.S. Ser. No. 10/735,442). 
+   FIG. 6  shows the strategy for integration of crtEIB into the  E. coli  chromosome. 
+   FIG. 7  shows the position of nucleotide primers used to confirm promoter replacements and chromosomal integrations. 
+   FIG. 8  shows the spectrum of tetradehydrolycopene produced by fermentation. 
+ 
+ The invention can be more fully understood from the following detailed description and the accompanying sequence descriptions which form a part of this application. 
+ The following sequences are in conformity with 37 C.F.R. 1.821–1.825 (“Requirements for Patent Applications Containing Nucleotide Sequences and/or Amino Acid Sequence Disclosures—the Sequence Rules”) and consistent with World Intellectual Property Organization (WIPO) Standard ST.25 (1998) and the sequence listing requirements of the EPO and PCT (Rules 5.2 and 49.5(a-bis), and Section 208 and Annex C of the Administrative Instructions). The symbols and format used for nucleotide and amino acid sequence data comply with the rules set forth in 37 C.F.R. §1.822. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Gene/Protein 
+   
+ Nucleotide 
+ Amino Acid 
+ 
+ 
+ Product 
+ Source 
+ SEQ ID NO 
+ SEQ ID NO 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ CrtE 
+ 
+ Pantoea stewartii 
+ 
+ 1 
+ 2 
+ 
+ 
+   CrtX     
+ Pantoea stewartii         
+ 
+ 3 
+ 4 
+ 
+ 
+ CrtY 
+ 
+ Pantoea stewartii 
+ 
+ 5 
+ 6 
+ 
+ 
+ Crtl 
+ 
+ Pantoea stewartii 
+ 
+ 7 
+ 8 
+ 
+ 
+ CrtB 
+ 
+ Pantoea stewartii 
+ 
+ 9 
+ 10 
+ 
+ 
+ CrtZ 
+ 
+ Pantoea stewartii 
+ 
+ 11 
+ 12 
+ 
+ 
+ Crtl-514 variant 
+ Artificial sequence 
+ 17 
+ 18 
+ 
+ 
+ Crtl-515 variant 
+ Artificial sequence 
+ 19 
+ 20 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ SEQ ID NOs:13–14 are oligonucleotide primers used to amplify the carotenoid biosynthetic genes from  P. stewartii.    
+ SEQ ID NOs:15–16 are oligonucleotide primers used to amplify  P. stewartii  crtl in error-prone PCR. 
+ SEQ ID NO:17 is the nucleic acid sequence of the mutant phytoene desaturase variant crtl-514. 
+ SEQ ID NO:18 is the deduced amino acid sequence of the mutant phytoene desaturase variant crtl-514. 
+ SEQ ID NO:19 is the nucleic acid sequence of the mutant phytoene desaturase variant crtl-515. 
+ SEQ ID NO:20 is the deduced amino acid sequence of the mutant phytoene desaturase variant crtl-515. 
+ SEQ ID NO:21 is the nucleic acid sequence of primer 5′-kan(dxs). 
+ SEQ ID NO:22 is the nucleic acid sequence of primer 5′-kan(idi). 
+ SEQ ID NO:23 is the nucleic acid sequence of primer 5′-kan(ispDF). 
+ SEQ ID NO:24 is the nucleic acid sequence of primer 5′-kan(ispAdxs). 
+ SEQ ID NO:25 is the nucleic acid sequence of  primer  3′-kan. 
+ SEQ ID NO:26 is the nucleic acid sequence of primer 5′-T5. 
+ SEQ ID NO:27 is the nucleic acid sequence of  primer  3′-T5(dxs). 
+ SEQ ID NO:28 is the nucleic acid sequence of  primer  3′-T5(idi). 
+ SEQ ID NO:29 is the nucleic acid sequence of  primer  3′-T5(ispDF). 
+ SEQ ID NO:30 is the nucleic acid sequence of  primer  3′-T5(ispAdxs). 
+ SEQ ID NO:31 is the nucleic acid sequence of primer T-kan. 
+ SEQ ID NO:32 is the nucleic acid sequence of primer B-dxs. 
+ SEQ ID NO:33 is the nucleic acid sequence of primer T-T5. 
+ SEQ ID NO:34 is the nucleic acid sequence of primer B-idi. 
+ SEQ ID NO:35 is the nucleic acid sequence of primer B-ispDF. 
+ SEQ ID NO:36 is the nucleic acid sequence of primer T1(crtE). 
+ SEQ ID NO:37 is the nucleic acid sequence of primer B1(crtE). 
+ SEQ ID NO:38 is the nucleic acid sequence of primer T2(crtE). 
+ SEQ ID NO:39 is the nucleic acid sequence of primer B2(crtE). 
+ SEQ ID NO:40 is the nucleic acid sequence of primer T10. 
+ SEQ ID NO:41 is the nucleic acid sequence of primer T13. 
+ SEQ ID NO:42 is the nucleic acid sequence of primer B1(crtlB). 
+ SEQ ID NO:43 is the nucleic acid sequence of primer T2(crtlB). 
+ SEQ ID NO:44 is the nucleic acid sequence of primer B2(crtlB). 
+ SEQ ID NO:45 is the nucleic acid sequence of primer T2. 
+ SEQ ID NO:46 is the nucleic acid sequence of primer T2(T5). 
+ SEQ ID NO:47 is the nucleic acid sequence of primer T12. 
+ SEQ ID NO:48 is the nucleic acid sequence of primer T11. 
+ SEQ ID NO:49 is the nucleotide sequence for plasmid pPCB15. 
+ SEQ ID NO:50 is the nucleotide sequence for plasmid pKD46. 
+ SEQ ID NO:51 is the nucleotide sequence for plasmid psUH5. 
+ SEQ ID NO:52 is the nucleotide sequence for the PT5 promoter. 
+ BRIEF DESCRIPTION OF BIOLOGICAL DEPOSITS 
+ Applicants made the following biological deposit under the terms of the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the purposes of Patent Procedure: 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Depositor Identification 
+ Int'l. Depository 
+   
+ 
+ 
+ Reference 
+ Designation 
+ Date of Deposit 
+ 
+ 
+   
+ 
+ 
+ 
+ Plasmid pCP20 
+ ATCC# PTA-4455 
+ Jun. 13, 2002 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ As used herein, “ATCC” refers to the American Type Culture Collection International Depository Authority located at ATCC, 10801 University Blvd., Manassas, Va. 20110-2209, USA. The “International Depository Designation” is the accession number to the culture on deposit with ATCC. 
+ The listed deposit will be maintained in the indicated international depository for at least thirty (30) years and will be made available to the public upon the grant of a patent disclosing it. The availability of a deposit does not constitute a license to practice the subject invention in derogation of patent rights granted by government action. 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ The claimed genes and their expression products are useful for the production of recombinant organisms having the ability to produce TDHL at industrially-suitable quantities. TDHL has industrial applications in the optics and electrical industries and may be used as an antioxidant in dietary supplements. 
+ The disclosure below provides a detailed description of the isolation of carotenoid synthesis genes from  Pantoea stewartii  subsp.  stewartii , modification of these genes by genetic engineering, and their insertion into compatible plasmids suitable for cloning and recombinant expression in bacteria, yeasts, fungi, and higher plants. Also disclosed are methods for preparation of the appropriate enzymes and the methods for TDHL production in these various hosts. 
+ In this disclosure, a number of terms and abbreviations are used. The following definitions are provided. 
+ The term “tetradehydrolycopene” is abbreviated TDHL and refers to the      compound      3,4,3′,4′-tetradehydrolycopene, also known as bisdehydrolycopene. 
+ The term “ Pantoea agglomerans ” is used interchangeably with the name  Erwinia herbicola  (Beji et al.,  Int. J. Syst. Bacteriol.,  38:77–88 (1988) and Gavini et al.,  Int. J. Syst. Bacteriol.,  39:337–345 (1989)). 
+ The term “ Pantoea ananatis ” is used interchangeably with the name  Erwinia uredovora  (Mergaert et al.,  Int. J. Syst. Bacteriol.,  43:162–173 (1993)). 
+ The term “ Pantoea stewartii  subsp.  stewartii ” is abbreviated as “ Pantoea stewartil ” or “ P. stewartii ” and is used interchangeably with  Erwinia stewartii  (Mergaert et al., supra). 
+ The term “carotenoid” means any lipophilic isoprenoid compound, produced either synthetically or naturally. All carotenoids are synthesized from molecules of isopentenyl pyrophosphate (IPP) as the universal isoprene building block. 
+ The term “CrtE” refers to a geranylgeranyl pyrophosphate synthase enzyme encoded by crtE gene represented in SEQ ID NO:1, which converts trans-trans-farnesyl diphosphate+isopentenyl diphosphate to pyrophosphate+geranylgeranyl diphosphate. Preferred in the present invention is a crtE gene isolated from  Pantoea stewartii  having a gene cluster arranged as shown in  FIG. 2 . 
+ The term “CrtY” refers to a lycopene cyclase enzyme encoded by crtY gene represented in SEQ ID NO:5, which converts lycopene to β-carotene. Preferred in the present invention is a crtY gene isolated from  Pantoea stewartii  having a gene cluster arranged as shown in  FIG. 2 . 
+ The term “Crtl” refers to a phytoene desaturase enzyme encoded by crtl gene represented in SEQ ID NO:7, which converts phytoene into lycopene via the intermediates phytofluene, zeta-carotene, and neurosporene by the introduction of 4 double-bonds. Preferred in the present invention is a crtl gene isolated from  Pantoea stewartii  having a gene cluster arranged as shown in  FIG. 2 . 
+ The term “mutant Crtl” refers to a phytoene desaturase created by error-prone PCR which is shown to catalyze the production of 3,4,3′,4′-tetradehydrolycopene in significantly higher amounts in comparison to the unmodified phytoene desaturase as represented in SEQ ID NO:7. The “mutant crtl” phytoene desaturases of the present invention are represented by the amino acid sequences of SEQ ID NOs:18 and 20. 
+ As used herein, the term “desaturase substrate” or “phytoene desaturase substrate” refers to any substrate capable of being desaturated by a mutant crtl of the present invention including, but not limited to phytoene, phytofluene, ξ-carotene, neurosporene, and lycopene. 
+ The term “CrtB” refers to a phytoene synthase enzyme encoded by crtB gene represented in SEQ ID NO:9, which catalyses reaction from prephytoene diphosphate to phytoene. Preferred in the present invention is a crtB gene isolated from  Pantoea stewartii  having a gene cluster arranged as shown in  FIG. 2 . 
+ The term “CrtZ” refers to a β-carotene hydroxylase enzyme encoded by crtZ gene represented in SEQ ID NO:11, which catalyses hydroxylation reaction from β-carotene to zeaxanthin. 
+ The terms “upper isoprenoid pathway”, “upper pathway”, “isoprenoid pathway”, and “ E. coli  isoprenoid biosynthetic pathway” will be use interchangeably and will refer to enzymes involved in converting pyruvate and glyceraldehyde-3-phosphate (G3P) to farnesyl pyrophosphate (FPP) ( FIG. 4 ). These enzymes are encoded by genes that include, but are not limited to: the “dxs” gene (encoding 1-deoxyxylulose-5-phosphate synthase); the “ispC” gene (encoding 1-deoxyxylulose-5-phosphate reductoisomerase; also known at dxr); the “ispD” gene (encoding a 2C-methyl-D-erythritol cytidyltransferase enzyme; also known as ygbP); the “ispE” gene (encoding 4-diphosphocytidyl-2-C-methylerythritol kinase; also known as ychB); the “ispF” gene (encoding a 2C-methyl-D- erythritol  2,4-cyclodiphosphate synthase; also known as ygbB); the “pyrG” gene (encoding a CTP synthase); the “ispH” gene (also known as lytB) involved in the formation of dimethylallyl diphosphate; the “ispG” gene (also known as gcpE) involved in the synthesis of 2-C-methyl-D-erythritol 4-phosphate; the “idi” gene (responsible for the intramolecular conversion of IPP to dimethylallyl pyrophosphate); and the “ispA” gene (encoding geranyltransferase or farnesyl diphosphate synthase). 
+ The terms “lower carotenoid biosynthetic pathway”, “carotenoid biosynthesis pathway”, and “lower pathway” will be used interchangeably and refer to those enzymes which convert FPP to a suite of carotenoids ( FIG. 4 ). These enzymes are encoded by genes that include, but are not limited to: crtE, crtX, crtY, crtl, crtB, crtZ, crtW, crtO, and crtU. Finally, the term “lower carotenoid biosynthetic enzyme” is an inclusive term referring to any and all of the enzymes in the present lower pathway including, but not limited to: CrtE, CrtX, CrtY, Crtl, CrtB, CrtW, CrtO, CrtU, and CrtZ. 
+ The term “pKD46” refers to the plasmid (SEQ ID NO:50) that was constructed by Datsenko and Wanner (PNAS., 97:6640–6645 (2000)). 
+ The term “psUH5” refers to the plasmid (SEQ ID NO:51) that was constructed by cloning a phage T5 promoter (P T5 ) region into the NdeI restriction endonuclease site of pKD4 (Datsenko and Wanner, supra). It was used as a template plasmid for PCR amplification of a fused kanamycin selectable marker/phage T5 promoter linear nucleic acid molecule. 
+ The terms “P T5  promoter” and “T5 promoter” refer to the nucleic acid molecule (SEQ ID NO:52) that comprises the −10 and −35 consensus sequences, lactose operator (lacO), and ribosomal binding site (rbs) from phage T5. 
+ The term “helper plasmid” refers to either pKD46 (encoding λ-Red recombinase) or pCP20 (ATCC PTA4455; encoding FLP site-specific recombinase (Datsenko and Wanner, supra)). 
+ The terms “λ-Red recombinase system”, “λ-Red system”, and “λ-Red recombinase” are used interchangeably and refer to three essential genes, exo, bet, and gam, that are contained on a helper plasmid, pKD46 (Datsenko and Wanner, supra.; SEQ ID NO:50). 
+ The term “homology arm” refers to a portion of a nucleic acid molecule having a nucleotide sequence that enables homologous recombination between two nucleic acids having substantially the same nucleotide sequence in a particular region of two different nucleic acids. The preferred size range of the homology arm is from about 10 to about 50 nucleotides in length. 
+ The term “triple homologous recombination” in the present invention refers to a genetic recombination between two linear DNA nucleotides and the target chromosome via their homologous sequences resulting in chromosomal integration of two linear nucleic acid molecules into the target of chromosome. 
+ The term “site-specific recombinase” is used in the present invention to describe a system comprised of one or more enzymes which recognize specific nucleotide sequences (recombination target sites) and which catalyze recombination between the recombination target sites. Site-specific recombination provides a method to rearrange, delete, or introduce exogenous DNA. Examples of site-specific recombinases and their associated recombination target sites are flippase (FLP/FRT), Cre-lox, R/RS, Gin/gix, Xer/dif, and Int/att. In the present invention, a site-specific recombinase was used to remove selectable markers. Antibiotic resistance markers, flanked on both sides by FRT recombination target sites, are removed by expression of the FLP site-specific recombinase. This method is used so that the numbers of chromosomal modifications necessary for microbial pathway engineering is not limited to the number of available selection markers (Huang et al.,  J. Bacteriol.,  179(19): 6076–6083 (1997)). 
+ The terms “transduction” and “generalized transduction” are used interchangeably and refer to a phenomenon in which bacterial DNA is transferred from one bacterial cell (the donor) to another (the recipient) by a phage particle containing bacterial DNA. 
+ As used herein, the terms “P1 donor cell” and “donor cell” are used interchangeably and refer to a bacterial strain susceptible to infection by a bacteriophage or virus, and which serves as a source for the nucleic acid molecules packaged into the transducing particles. Typically, the genetic make up of the donor cell is similar or identical to the “recipient cell” which serves to receive P1 lysate containing transducing phage or virus produced by the donor cell. 
+ As used herein, the terms “P1 recipient cell” and “recipient cell” are used interchangeably and refer to a bacterial strain susceptible to infection by a bacteriophage or virus and which serves to receive lysate containing transducing phage or virus produced by the donor cell. 
+ As used herein, the terms “stacking”, “combinatorial stacking”, “chromosomal stacking”, and “trait stacking” are used interchangeably and refer to the repeated process of stacking multiple genetic traits into one  E. Coli  host using the bacteriophage P1 in combination with the site-specific recombinase system for removal of selection markers (U.S. Ser. No. 10/734,778; hereby incorporated by reference). 
+ The terms “parallel combinatorial fashion” and “combinatorial fashion” are used interchangeably and refer to the P1 transduction with the P1 lysate mixture made from various donor cells, so that multiple genetic traits can be moved to the recipient cell in parallel (U.S. Ser. No. 10/734,778). 
+ The terms “integration cassette” and “recombination element” refer to a linear nucleic acid construct useful for the transformation of a recombination proficient bacterial host. Recombination elements of the invention may include a variety of genetic elements such as selectable markers, functional DNA fragments, and recombination regions having homology to regions on a bacterial chromosome or on other recombination elements. Functional DNA fragments can include coding sequences, genes, gene clusters, sequences encoding functional RNA, promoters, and other regulatory elements specifically engineered into the recombination element to impart a desired phenotypic change upon recombination. 
+ The terms “inter-operon chromosomal integration site” or “inter-operon region” refer to a chromosomal site where integration of exogenous DNA using the current invention is targeted and where integration of the exogenous DNA will not disrupt the functionality of an endogenous operon within the host. 
+ As used herein, the terms “industrially-suitable amount” and “commercially significant amount” are defined as a titer of tetradehydrolycopene of at least 150 ppm (based on dry cell weight). 
+ “Open reading frame” is abbreviated ORF. 
+ “Polymerase chain reaction” is abbreviated PCR. 
+ “High Performance Liquid Chromatography” is abbreviated HPLC. 
+ As used herein, an “isolated nucleic acid molecule” is a polymer of RNA or DNA that is single- or double-stranded, optionally containing synthetic, non-natural or altered nucleotide bases. An isolated nucleic acid molecule in the form of a polymer of DNA may be comprised of one or more segments of cDNA, genomic DNA or synthetic DNA. 
+ A nucleic acid molecule is “hybridizable” to another nucleic acid molecule, such as a cDNA, genomic DNA, or RNA, when a single stranded form of the nucleic acid molecule can anneal to the other nucleic acid molecule under the appropriate conditions of temperature and solution ionic strength. Hybridization and washing conditions are well known and exemplified in Sambrook, J., Fritsch, E. F. and Maniatis, T.  Molecular Cloning: A Laboratory Manual , Second Edition, Cold Spring Harbor Laboratory Press, Cold Spring Harbor (1989), particularly Chapter 11 and Table 11.1 therein (entirely incorporated herein by reference). The conditions of temperature and ionic strength determine the “stringency” of the hybridization. Stringency conditions can be adjusted to screen for moderately similar fragments, such as homologous sequences from distantly related organisms, to highly similar fragments, such as genes that duplicate functional enzymes from closely related organisms. Post-hybridization washes determine stringency conditions. One set of preferred conditions uses a series of washes starting with 6×SSC, 0.5% SDS at room temperature for 15 min, then repeated with 2×SSC, 0.5% SDS at 45° C. for 30 min, and then repeated twice with 0.2×SSC, 0.5% SDS at 50° C. for 30 min. A more preferred set of stringent conditions uses higher temperatures in which the washes are identical to those above except for the temperature of the final two 30 min washes in 0.2×SSC, 0.5% SDS was increased to 60° C. Another preferred set of highly stringent conditions uses two final washes in 0.1×SSC, 0.1% SDS at 65° C. Hybridization requires that the two nucleic acids contain complementary sequences, although depending on the stringency of the hybridization, mismatches between bases are possible. The appropriate stringency for hybridizing nucleic acids depends on the length of the nucleic acids and the degree of complementation, variables well known in the art. The greater the degree of similarity or homology between two nucleotide sequences, the greater the value of Tm for hybrids of nucleic acids having those sequences. The relative stability (corresponding to higher Tm) of nucleic acid hybridizations decreases in the following order: RNA:RNA, DNA:RNA, DNA:DNA. For hybrids of greater than 100 nucleotides in length, equations for calculating Tm have been derived (see Sambrook et al., supra, 9.50–9.51). For hybridizations with shorter nucleic acids, i.e., oligonucleotides, the position of mismatches becomes more important, and the length of the oligonucleotide determines its specificity (see Sambrook et al., supra, 11.7–11.8). In one embodiment, the length for a hybridizable nucleic acid is at least about 10 nucleotides. Preferably, a minimum length for a hybridizable nucleic acid is at least about 15 nucleotides; more preferably at least about 20 nucleotides; and most preferably the length is at least 30 nucleotides. Furthermore, the skilled artisan will recognize that the temperature and wash solution salt concentration may be adjusted as necessary according to factors such as length of the probe. 
+ The term “complementary” is used to describe the relationship between nucleotide bases that are capable to hybridizing to one another. For example, with respect to DNA, adenosine is complementary to thymine and cytosine is complementary to guanine. Accordingly, the instant invention also includes isolated nucleic acid molecules that are complementary to the complete sequences as reported in the accompanying Sequence Listing. 
+ The term “percent identity”, as known in the art, is a relationship between two or more polypeptide sequences or two or more polynucleotide sequences, as determined by comparing the sequences. In the art, “identity” also means the degree of sequence relatedness between polypeptide or polynucleotide sequences, as the case may be, as determined by the match between strings of such sequences. “Identity” and “similarity” can be readily calculated by known methods including, but not limited to, those described in:  Computational Molecular Biology  (Lesk, A. M., ed.) Oxford University Press, NY (1988);  Biocomputinq: Informatics and Genome Projects  (Smith, D. W., ed.) Academic Press, NY (1993);  Computer Analysis of Sequence Data, Part I  (Griffin, A. M., and Griffin, H. G., eds.) Humana Press, N.J. (1994);  Sequence Analysis in Molecular Biology  (von Heinje, G., ed.) Academic Press (1987); and  Sequence Analysis Primer  (Gribskov, M. and Devereux, J., eds.) Stockton Press, NY (1991). Preferred methods to determine identity are designed to give the best match between the sequences tested. Methods to determine identity and similarity are codified in publicly available computer programs. Sequence alignments and percent identity calculations may be performed using the Megalign program of the LASERGENE bioinformatics computing suite (DNASTAR Inc., Madison, Wis.). Multiple alignment of the sequences was performed using the Clustal method of alignment (Higgins and Sharp,  CABIOS.,  5:151–153 (1989)) with the default parameters (GAP PENALTY=10, GAP LENGTH PENALTY=10). Default parameters for pairwise alignments using the Clustal method were KTUPLE=1, GAP PENALTY=3, WINDOW=5 and DIAGONALS SAVED=5. 
+ “Codon degeneracy” refers to the nature in the genetic code permitting variation of the nucleotide sequence without effecting the amino acid sequence of an encoded polypeptide. Accordingly, the instant invention relates to any nucleic acid molecule that encodes the amino acid sequence encoding the instant microbial polypeptides as set forth in SEQ ID NOs:18 and 20. The skilled artisan is well aware of the “codon-bias” exhibited by a specific host cell in usage of nucleotide codons to specify a given amino acid. Therefore, when synthesizing a gene for improved expression in a host cell, it is desirable to design the gene such that its frequency of codon usage approaches the frequency of preferred codon usage of the host cell. 
+ “Synthetic genes” can be assembled from oligonucleotide building blocks that are chemically synthesized using procedures known to those skilled in the art. These building blocks are ligated and annealed to form gene segments which are then enzymatically assembled to construct the entire gene. “Chemically synthesized”, as related to a sequence of DNA, means that the component nucleotides were assembled in vitro. Manual chemical synthesis of DNA may be accomplished using well-established procedures, or automated chemical synthesis can be performed using one of a number of commercially available machines. Accordingly, the genes can be tailored for optimal gene expression based on optimization of nucleotide sequence to reflect the codon bias of the host cell. The skilled artisan appreciates the likelihood of successful gene expression if codon usage is biased towards those codons favored by the host. Determination of preferred codons can be based on a survey of genes derived from the host cell where sequence information is available. 
+ “Gene” refers to a nucleic acid molecule that expresses a specific protein, including regulatory sequences preceding (5′ non-coding sequences) and following (3′ non-coding sequences) the coding sequence. “Native gene” refers to a gene as found in nature with its own regulatory sequences. “Chimeric gene” refers to any gene that is not a native gene, comprising regulatory and coding sequences that are not found together in nature. Accordingly, a chimeric gene may comprise regulatory sequences and coding sequences that are derived from different sources, or regulatory sequences and coding sequences derived from the same source, but arranged in a manner different than that found in nature. “Endogenous gene” refers to a native gene in its natural location in the genome of an organism. A “foreign” gene refers to a gene not normally found in the host organism, but that is introduced into the host organism by gene transfer. Foreign genes can comprise native genes inserted into a non-native organism, or chimeric genes. A “transgene” is a gene that has been introduced into the genome by a transformation procedure. 
+ “Coding sequence” refers to a DNA sequence that codes for a specific amino acid sequence. “Suitable regulatory sequences” refer to nucleotide sequences located upstream (5′ non-coding sequences), within, or downstream (3′ non-coding sequences) of a coding sequence, and which influence the transcription, RNA processing or stability, or translation of the associated coding sequence. Regulatory sequences may include promoters, translation leader sequences, introns, polyadenylation recognition sequences, RNA processing site, effector binding site and stem-loop structure. 
+ “Promoter” refers to a DNA sequence capable of controlling the expression of a coding sequence or functional RNA. In general, a coding sequence is located 3′ to a promoter sequence. Promoters may be derived in their entirety from a native gene, or be composed of different elements derived from different promoters found in nature, or even comprise synthetic DNA segments. It is understood by those skilled in the art that different promoters may direct the expression of a gene in different tissues or cell types, or at different stages of development, or in response to different environmental or physiological conditions. Promoters which cause a gene to be expressed in most cell types at most times are commonly referred to as “constitutive promoters”. It is further recognized that since in most cases the exact boundaries of regulatory sequences have not been completely defined, DNA fragments of different lengths may have identical promoter activity. 
+ The “3′ non-coding sequences” refer to DNA sequences located downstream of a coding sequence and include polyadenylation recognition sequences (normally limited to eukaryotes) and other sequences encoding regulatory signals capable of affecting mRNA processing or gene expression. The polyadenylation signal is usually characterized by affecting the addition of polyadenylic acid tracts to the 3′ end of the mRNA precursor (normally limited to eukaryotes). 
+ “RNA transcript” refers to the product resulting from RNA polymerase-catalyzed transcription of a DNA sequence. When the RNA transcript is a perfect complementary copy of the DNA sequence, it is referred to as the primary transcript or it may be a RNA sequence derived from post-transcriptional processing of the primary transcript and is referred to as the mature RNA. “Messenger RNA (mRNA)” refers to the RNA that is without introns and that can be translated into protein by the cell. “cDNA” refers to a double-stranded DNA that is complementary to and derived from mRNA. “Sense” RNA refers to RNA transcript that includes the mRNA and so can be translated into protein by the cell. “Antisense RNA” refers to a RNA transcript that is complementary to all or part of a target primary transcript or mRNA and that blocks the expression of a target gene (U.S. Pat. No. 5,107,065; WO 9928508). The complementarity of an antisense RNA may be with any part of the specific gene transcript, i.e., at the 5′ non-coding sequence, 3′ non-coding sequence, or the coding sequence. “Functional RNA” refers to antisense RNA, ribozyme RNA, or other RNA that is not translated yet has an effect on cellular processes. 
+ The term “operably linked” refers to the association of nucleic acid sequences on a single nucleic acid molecule so that the function of one is affected by the other. For example, a promoter is operably linked with a coding sequence when it is capable of affecting the expression of that coding sequence (i.e., that the coding sequence is under the transcriptional control of the promoter). Coding sequences can be operably linked to regulatory sequences in sense or antisense orientation. 
+ The term “expression”, as used herein, refers to the transcription and stable accumulation of sense (mRNA) or antisense RNA derived from the nucleic acid molecule of the invention. Expression may also refer to translation of mRNA into a polypeptide. 
+ “Transformation” refers to the transfer of a nucleic acid molecule into the genome of a host organism, resulting in genetically stable inheritance. As used herein, the host cell genome includes both chromosomal or extrachromosomal (i.e. a vector) genes with the host cell. Host organisms containing the transformed nucleic acid molecules are referred to as “transgenic” or “recombinant” or “transformed” organisms. 
+ The terms “plasmid”, “vector” and “cassette” refer to an extra chromosomal element often carrying genes which are not part of the central metabolism of the cell, and usually in the form of circular double-stranded DNA fragments. Such elements may be autonomously replicating sequences, genome integrating sequences, phage or nucleotide sequences, linear or circular, of a single- or double-stranded DNA or RNA, derived from any source, in which a number of nucleotide sequences have been joined or recombined into a unique construction which is capable of introducing a promoter fragment and DNA sequence for a selected gene product along with appropriate 3′ untranslated sequence into a cell. “Transformation cassette” refers to a specific vector containing a foreign gene and having elements in addition to the foreign gene that facilitate transformation of a particular host cell. “Expression cassette” refers to a specific vector containing a foreign gene and having elements in addition to the foreign gene that allow for enhanced expression of that gene in a foreign host. 
+ The term “sequence analysis software” refers to any computer algorithm or software program that is useful for the analysis of nucleotide or amino acid sequences. “Sequence analysis software” may be commercially available or independently developed. Typical sequence analysis software will include but is not limited to the GCG suite of programs (Wisconsin Package Version 9.0, Genetics Computer Group (GCG), Madison, Wis.), BLASTP, BLASTN, BLASTX (Altschul et al.,  J. Mol. Biol.  215:403–410 (1990), and DNASTAR (DNASTAR, Inc. 1228 S. Park St. Madison, Wis. 53715 USA), and the FASTA program incorporating the Smith-Waterman algorithm (W. R. Pearson,  Comput. Methods Genome Res., [Proc. Int. Symp.] ( 1994), Meeting Date 1992, 111–20. Editor(s): Suhai, Sandor. Publisher: Plenum, New York, N.Y.). Within the context of this application it will be understood that where sequence analysis software is used for analysis, that the results of the analysis will be based on the “default values” of the program referenced, unless otherwise specified. As used herein “default values” will mean any set of values or parameters (set by the software manufacturer) which originally load with the software when first initialized. 
+ Standard recombinant DNA and molecular cloning techniques used here are well known in the art and are described by Sambrook et al. (supra); Silhavy, T. J., Bennan, M. L. and Enquist, L. W.,  Experiments with Gene Fusions , Cold Spring Harbor Laboratory Cold Press Spring Harbor, N.Y. (1984); and by Ausubel, F. M. et al.,  Current Protocols in Molecular Biology , published by Greene Publishing Assoc. and Wiley-Interscience (1987). 
+ The present invention provides Crtl phytoene desaturases having the ability to convert phytoene desaturase substrates to tetradehydrolycopene (TDHL). Genes encoding these polypeptides may be expressed in recombinant hosts comprising various elements of the carotenoid biosynthetic pathway for the production of TDHL. It is contemplated that the carotenoid biosynthetic pathway may be manipulated in many hosts to optimize production of this carotenoid product. 
+ Construction of Crtl Mutants 
+ The present Crtl mutants were derived from crtl genes isolated from  Pantoea stewartii  and were subjected to mutagenesis by error-prone PCR. Mutants were selected on the basis of their ability to convert phytoene to 3,4,3′,4′-tetradehydrolycopene. The relevant crtl genes were isolated by polymerase chain reaction using primers appropriately designed on the basis of the known  Pantoea stewartii  sequence, disclosed herein as SEQ ID NO:7. The method of error-prone PCR was chosen as the vehicle for mutagenesis for its facility, however the skilled artisan will appreciate that other common mutagenesis methods are equally applicable. 
+ Error-Prone PCR 
+ Error-prone PCR is a method for introducing mutations into DNA using low stringency PCR amplification conditions. This can be achieved by modifying the PCR conditions such as altering the ratios of dNTPs or adding various amounts of manganese chloride in the reaction (Fromant et al.,  Anal Biochem,  224(1):347–53 (1995); Lin-Goerke et al.,  Biotechniques,  23(3):409–12 (1997); Melnikov et al.,  Nucleic Acids Research,  27(4):1056–1062 (1999); Leung et al.,  Techniques,  1:11–15 (1989); and Zhou et al.,  Nucleic Acids Res.  19:6052—6052 (1991)). The pool of mutated DNA fragments are then cloned to yield a library of mutated plasmids that can then be screened following expression in a host such as  E. coli . In the filed of carotenoids this approach has been described in U.S. Pat. No. 6,040,165; U.S. Pat. No. 5,807,725; Ohnuma et al.,  J Biol Chem,  269(20):14792–7 (1994); Ohnuma et al.,  J Biol Chem,  271(17):10087–95 (1996); Ohnuma et al.,  J Biol Chem,  271:18831–18837 (1996); Ohnuma et al.,  J Biol Chem,  272:5192–5198 (1997); and Okada et al.,  Eur J Biochem,  255:52–59 (1998). 
+ Microbial Recombinant Gene Expression 
+ The present mutant crtl genes may be produced in heterologous host cells, particularly in the cells of microbial hosts. Preferred heterologous host cells for expression of the present nucleic acid molecules are microbial hosts that can be found broadly within the yeast, algal, fungal or bacterial families and which grow over a wide range of temperature, pH values, and solvent tolerances. For example, it is contemplated that any of bacteria, algae, yeast, or filamentous fungi will be suitable hosts for expression of the present nucleic acid molecules. Because of transcription, translation and the protein biosynthetic apparatus is the same irrespective of the cellular feedstock, functional genes are expressed irrespective of carbon feedstock used to generate cellular biomass. Large-scale microbial growth and functional gene expression may utilize a wide range of simple or complex carbohydrates, organic acids and alcohols, saturated hydrocarbons such as methane or carbon dioxide in the case of photosynthetic or chemoautotrophic hosts. However, the functional genes may be regulated, repressed or depressed by specific growth conditions, which may include the form and amount of nitrogen, phosphorous, sulfur, oxygen, carbon or any trace micro-nutrient including small inorganic ions. In addition, the regulation of functional genes may be achieved by the presence or absence of specific regulatory molecules that are added to the culture and are not typically considered nutrient or energy sources. Growth rate may also be an important regulatory factor in gene expression. 
+ Examples of host strains include, but are not limited to, bacterial species including but not limited to  Salmonella, Bacillus, Acinetobacter, Rhodococcus, Streptomyces, Escherichia, Pseudomonas, Methylomonas, Methylobacter, Alcaligenes, Synechocystis, Anabaena, Thiobacillus, Methanobacterium, Klebsiella, Burkholderia, Sphingomonas, Paracoccus, Pandoraea, Delftia , and  Comamonas ; species of yeast, including but not limited to  Aspergillus, Trichoderma, Saccharomyces, Pichia, Candida , and  Hansenula ; and algal species including but not limited to  Spirulina, Haemotacoccus , and  Dunalliela.    
+ Microbial expression systems and expression vectors containing regulatory sequences that direct high-level expression of foreign proteins are well known to those skilled in the art. Any of these could be used to construct chimeric genes for production of the mutant crtl genes of the invention. These chimeric genes could then be introduced into appropriate microorganisms via transformation to provide high-level expression of the enzymes. 
+ Vectors or cassettes useful for the transformation of suitable host cells are well known in the art. Typically, the vector or cassette contains sequences directing transcription and translation of the relevant gene, a selectable marker, and sequences allowing autonomous replication or chromosomal integration. Suitable vectors comprise a region 5′ of the gene which harbors transcriptional initiation controls and a  region  3′ of the DNA fragment which controls transcriptional termination. It is most preferred when both control regions are derived from genes homologous to the transformed host cell, although it is to be understood that such control regions need not be derived from the genes native to the specific species chosen as a production host. 
+ In a preferred embodiment, the recombinant hosts are chromosomally engineered for the expression of the mutant crtl genes and the production of 3,4,3′,4′-tetradehydrolycopene. Chromosomal engineering is preferred since the use of multi-copy vectors to express a gene of interest under the control of a strong or conditional promoter has several drawbacks. It is sometimes difficult to maintain the vectors due to segregational instability. Deleterious effects on cell viability and growth are often observed due to the vector burden. It is also difficult to control the optimal expression level of desired genes on a vector. To avoid the undesirable effects of using a multi-copy vector, a chromosomal integration approach using homologous recombination via a single insertion of bacteriophage λ, transposons, or other suitable vectors containing the gene of interest is preferred. Where the desired host cell is a bacterium, a particularly suitable method is disclosed in commonly owned U.S. Ser. No. 10/734,936. 
+ Initiation control regions or promoters, which are useful to drive expression of the instant ORF's in the desired host cell, are numerous and familiar to those skilled in the art. Virtually any promoter capable of driving these genes is suitable for the present invention including, but not limited to, CYC1, HIS3, GAL1, GAL10, ADHI, PGK, PHO5, GAPDH, ADC1, TRP1, URA3, LEU2, ENO, TPI (useful for expression in  Saccharomyces ); AOX1 (useful for expression in  Pichia ); and lac, ara, tet, trp, IP L , IP R , T5, T7, tac, and trc (useful for expression in  Escherichia coli ) as well as the amy, apr, npr promoters and various phage promoters useful for expression in  Bacillus.    
+ Termination control and mRNA stabilizing regions may also be derived from various genes native to the preferred hosts. Optionally, a termination site may be unnecessary, however, it is most preferred if included. 
+ Accordingly, it is expected that introduction of chimeric genes encoding the instant bacterial enzymes under the control of the appropriate promoters will demonstrate increased production of 3,4,3′,4′-tetradehydrolycopene. It is additionally expected that introduction of chimeric genes encoding one or more of the instant sequences will lead to production of carotenoid compounds in the host microbe of choice. Basis for this expectation is found in the ubiquity of the isoprene biosynthetic pathway in microbes. With an appropriate genetic transformation system, it should be possible to genetically engineer a variety of non-carotenogenic hosts. This has been shown, for example, using  E. herbicola  crt genes, to produce various carotenoids in the hosts  E. coli, Agrobacterium tumefaciens, S. cerevisiae, Pichia pastoris  (yeast),  Aspergillus nidulans  (fungi),  Rhodobacter sphaeroides , and higher plants (U.S. Pat. No. 5,656,472). 
+ Recombinant Production—Plants 
+ Plants are also known to produce carotenoid compounds. The nucleic acid molecules of the instant invention may be used to create transgenic plants having the ability to express the microbial protein (Fraser, P. and Bramley, P.,  Progress in Lipid Research,  43:228–265 (2004)). Preferred plant hosts will be any variety that will support a high production level of the instant proteins. Suitable green plants will include but are not limited to soybean, rapeseed ( Brassica napus, B. campestris ), sunflower ( Helianthus annus ), cotton ( Gossypium hirsutum ), corn, tobacco ( Nicotiana tabacum ), alfalfa ( Medicago sativa ), wheat ( Triticum  sp), barley ( Hordeum vulgare ), oats ( Avena sativa , L), sorghum ( Sorghum bicolor ), rice ( Oryza sativa ),  Arabidopsis , cruciferous vegetables (broccoli, cauliflower, cabbage, parsnips, etc.), melons, carrots, celery, parsley, tomatoes, potatoes, strawberries, peanuts, grapes, grass seed crops, sugar beets, sugar cane, beans, peas, rye, flax, hardwood trees, softwood trees, and forage grasses. Overexpression of the carotenoid compounds may be accomplished by first constructing chimeric genes of present invention in which the coding region are operably linked to promoters capable of directing expression of a gene in the desired tissues at the desired stage of development. For reasons of convenience, the chimeric genes may comprise promoter sequences and translation leader sequences derived from the same genes. 3′ Non-coding sequences encoding transcription termination signals must also be provided. The instant chimeric genes may also comprise one or more introns in order to facilitate gene expression. 
+ Any combination of any promoter and any terminator capable of inducing expression of a coding region may be used in the chimeric genetic sequence. Some suitable examples of promoters and terminators include those from nopaline synthase (nos), octopine synthase (ocs) and cauliflower mosaic virus (CaMV) genes. One type of efficient plant promoter that may be used is a high-level plant promoter. Such promoters, in operable linkage with the genetic sequences or the present invention, should be capable of promoting expression of the present gene product. Examples of high-level plant promoters that may be used in this invention include the promoter of the small subunit (ss) of the ribulose-1,5-bisphosphate carboxylase from soybean (Berry-Lowe et al.,  J. Molecular and App. Gen.,  1:483–498 (1982)) and the promoter of the chlorophyll a/b binding protein. These two promoters are known to be light-induced in plant cells (see, for example,  Genetic Engineering of Plants, an Agricultural Perspective , A. Cashmore, Plenum, N.Y. (1983), pages 29–38; Coruzzi, G. et al.,  J. Biol. Chem.,  258:1399 (1983), and Dunsmuir, P. et al.,  J. Mol. Appl. Genet.,  2:285 (1983)). 
+ Plasmid vectors comprising the instant chimeric genes can then constructed. The choice of plasmid vector depends upon the method that will be used to transform host plants. The skilled artisan is well aware of the genetic elements that must be present on the plasmid vector in order to successfully transform, select, and propagate host cells containing the chimeric gene. The skilled artisan will also recognize that different independent transformation events will result in different levels and patterns of expression (Jones et al.,  EMBO J.,  4:2411–2418 (1985); De Almeida et al.,  Mol. Gen. Genetics,  218:78–86 (1989)), and thus multiple events must be screened in order to obtain lines displaying the desired expression level and pattern. Such screening may be accomplished by Southern analysis of DNA blots (Southern,  J. Mol. Biol.,  98:503 (1975)). Northern analysis of mRNA expression (Kroczek,  J., Chromatogr. Biomed. Appl.,  618 (1–2):133–145 (1993)), Western analysis of protein expression, or phenotypic analysis. 
+ For some applications it will be useful to direct the instant proteins to different cellular compartments. It is thus envisioned that the chimeric genes described above may be further supplemented by altering the coding sequences to encode enzymes with appropriate intracellular targeting sequences such as transit sequences (Keegstra, K.,  Cell,  56:247–253 (1989)), signal sequences or sequences encoding endoplasmic reticulum localization (Chrispeels, J. J.,  Ann. Rev. Plant Phys. Plant Mol. Biol.,  42:21–53 (1991)), or nuclear localization signals (Raikhel, N.,  Plant Phys., 100:1627–1632 (1992)). While the references cited give examples of each of these, the list is not exhaustive and more targeting signals of utility may be discovered in the future that are useful in the invention. 
+ Desaturation of Phytoene and Phytoene Desaturase Genes 
+ The activity of the present mutant Crtl polypeptides result in the production of 3,4,3′,4′-tetradehydrolycopene from phytoene, and other phytoene desaturase substrates. The formation of phytoene (7,8,11,12,7′,8′,11′,12′-ω-octahydro-ω, ω-carotene), a colorless carotenoid, represents the first step unique to biosynthesis of carotenoids ( FIG. 1 ). Phytoene is converted to more oxidized carotenoids by the action of phytoene desaturases. These enzymes catalyze the sequential dehydrogenation of the carbon backbone, which leads to an increase in the number of conjugated double bonds along the molecule. 
+ Phytoene desaturases are iterative enzymes. Iterative enzymes carry out the same biochemical reaction multiple times on the same molecule, using the product of one reaction as the substrate for the following round of catalysis. The extent of the desaturation on the carotenoid backbone reflects the specificity, affinity, and catalytic efficiency of the enzyme for each intermediate. 
+ Phytoene desaturases either introduce two double bonds in phytoene to produce γ-carotene, as in most plants and cyanobacteria, three double bonds to produce neurosporene, as in  Rhodobacter , or four double bonds to produce lycopene, as in  Erwinia  and other photosynthetic bacteria. The product of the  Erwinia  phytoene desaturase (Crtl) is lycopene, a red carotenoid with 11 conjugated double bonds ( FIG. 1 ). The Al-1 desaturase from  Neurospora crassa  introduces five double bonds into phytoene to synthesize 3,4-didehydrolycopene (DDHL). A desaturase capable of introducing six double bonds into phytoene would lead to the production of the fully-conjugated      carotenoid      3,4,3′,4′-tetradehydrolycopene, also known and bisdehydrolycopene. 
+ Because the final product of the iterative activity of phytoene desaturase depends on the activity of each enzyme with a specific intermediate, it is hypothesized that mutations leading to changes in the peptide sequence of these enzymes may lead to altered specificity, either increasing or decreasing the number of successive desaturations. 
+ Structural, genetic, and enzymatic studies have shown that phytoene is desaturated in a stepwise manner to lycopene (Goodwin, T. W.,  Methods Enzym,  214: 331–345 (1993)). The compounds phytofluene, ξ-carotene, neurosporene, and lycopene are successively formed by the removal of hydrogen atoms. The phytoene desaturase enzyme mediates this dehydrogenase-electron transferase activity. Thus, in the context of the present invention it will be appreciated that the present mutant Crtl polypeptides will have the ability to act on a variety of substrates including, but not limited to phytoene, phytofluene, ξ-carotene, neurosporene, and lycopene. 
+ Carotenoid Biosynthesis 
+ The present Crtl desaturase will be useful when incorporated into the carotenoid enzymatic pathways existing in various hosts. Several reviews discuss the genetics of carotenoid pigment biosynthesis (Armstrong, G., in  Comprehensive Natural Products Chemistry , Elsevier Press,  volume  2, pp 321–352 (1999); Lee, P., and Schimdt-Dannert, C.,  Appl. Micrbiol Biotechnol.  60(1–2):1–11 (2002)) with a focussed discussion on biosynthesis in plants and nutritional uses by Fraser, P. and Bramley, P. (supra)). This pathway is extremely well studied in the Gram-negative, pigmented bacteria of the genera  Pantoea , formerly known as  Erwinia . In both  E. herbicola  EHO-10 (ATCC 39368) and  E. uredovora  20D3 (ATCC 19321), the crt genes are clustered in two operons, crt Z and crt EXYIB (U.S. Pat. No. 5,656,472; U.S. Pat. No. 5,545,816; U.S. Pat. No. 5,530,189; U.S. Pat. No. 5,530,188; and U.S. Pat. No. 5,429,939). Despite the similarity in operon structure, the DNA sequences of  E. uredovora  and  E. herbicola  show no homology by DNA—DNA hybridization (U.S. Pat. No. 5,429,939). It should be noted that the former genus  Erwinia  has undergone substantial reclassification within the last few decades, following extensive analysis. The current classification of  Pantoea ananatis  (formerly  Erwinia uredovora ),  Pantoea stewartii  subsp.  stewartii  (formerly  Erwinia stewartii ), and  Pantoea agglomerans  (formerly  Erwinia herbicola ) are described in Mergaert et al. ( Int. J. Syst. Bacteriol.,  43:162–173 (1993)). 
+ It will be appreciated that for the present mutant crtl genes to be effective in the production of carotenoids, it will be necessary for the host cell to have suitable levels of isopentenyl pyrophosphate (IPP) within the cell. IPP levels may be increased by genetic manipulation of native or introduced genes. IPP may be synthesized through well-known acetate/mevalonate pathway. However, recent studies have demonstrated that the mevalonate-dependent pathway does not operate in all living organisms. An alternate mevalonate-independent for IPP biosynthesis has been characterized in bacteria and in green algae and higher plants (Horbach et al.,  FEMS Microbiol. Lett.,  111:135–140 (1993); Rohmer et al.,  Biochem.,  295: 517–524 (1993); Schwender et al.,  Biochem.,  316: 73–80 (1996); and Eisenreich et al.,  PNAS USA,  93: 6431–6436 (1996)). 
+ Many steps in isoprenoid biosynthesis are known. For example, the initial steps of the alternate pathway involve the condensation of 3-carbons (private and C1 aldehyde group, D-glyceraldehyde 3-Phosphate), to yield 5-carbon compound (D-1-deoxyxylulose-5-phosphate). The dxs gene, encoding D-1-deoxyxylulose-5-phosphate synthase (Dxs), catalyzes the synthesis of D-1-deoxyxylulose-5-phosphate ( FIG. 4 ). 
+ Next, the isomerization and reduction of D-1-deoxyxylulose-5-phosphate yields 2-C-methyl-D-erythritol-4-phosphate. One of the enzymes involved in the isomerization and reduction process is D-1-deoxyxylulose-5-phosphate reductoisomerase (Dxr). The gene product of dxr that catalyzes the formation of 2-C-methyl-D-erythritol4-phosphate. Recently, dxr gene was renamed as ispC as a part of isp gene cluster (GenBank® Accession No. AAC73284). 
+ Steps converting 2-C-methyl-D-erythritol-4-phosphate to isopentenyl monophosphate are not well characterized although some steps are known. 2-C-methyl-D-erythritol-4-phosphate is then converted into 4-diphosphocytidyl-2C-methyl-D-erythritol in a CTP dependent reaction by the enzyme encoded by non-annotated gene ygbP. Recently, ygbP gene was renamed as ispD as a part of isp gene cluster (SwissProt #Q46893) ( FIG. 4 ). 
+ Next, the 2nd position hydroxy group of 4-diphosphocytidyl-2C-methyl-D-erythritol can be phosphorylated in an ATP dependent reaction by the enzyme encoded by ychB gene. The ychB gene product phosphorylates 4-diphosphocytidyl-2C-methyl-D-erythritol resulting in 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate. Recently, ychB gene was renamed as ispE as a part of isp gene cluster (SwissProt #P24209). 
+ The product of ygbB gene converts 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate to 2C-methyl-D- erythritol  2,4-cyclodiphosphate. 2C-methyl-D- erythritol  2,4-cyclodiphosphate can be further converted into carotenoids in carotenoid biosynthesis pathway. Recently, ygbB gene was renamed as ispF as a part of isp gene cluster (SwissProt #P36663). The reaction catalyzed by YgbP enzyme is carried out in CTP dependent manner. 
+ The enzymes encoded by the lytB and gcpE genes (and perhaps others) are thought to participate in the reactions leading to formation of isopentenyl pyrophosphate (IPP) and dimethylallyl pyrophosphate (DMAPP). IPP may be isomerized to DMAPP via isopentenyl diphosphate isomerase (or “IPP isomerase”), encoded by the idi gene; however, this enzyme is not essential for survival and may be absent in some bacteria using the 2-C-methyl-D-erythritol 4-phosphate (MEP) pathway. Recent evidence suggests that the MEP pathway branches before IPP and separately produces IPP and DMAPP via the lytB gene product. Recently, lytB gene was renamed as ispH as a part of isp gene cluster (SwissProt #P62623). A lytB knockout mutation is lethal in  E. coli  except in media supplemented with both IPP and DMAPP. 
+ The synthesis of FPP occurs via the isomerization of IPP to dimethylallyl pyrophosphate (DMAPP). This reaction is followed by a sequence of two prenyltransferase reactions catalyzed by ispA, leading to the creation of geranyl pyrophosphate (GPP; a 10-carbon molecule) and farnesyl pyrophosphate (FPP; a 15-carbon molecule), respectively. Typically, the formation of phytoene represents the first step unique to biosynthesis of C 40  carotenoids ( FIGS. 1 and 4 ). Phytoene itself is a colorless carotenoid and occurs via isomerization of IPP to dimethylallyl pyrophosphate (DMAPP) by isopentenyl pyrophosphate isomerase (encoded by the gene idi). The reaction is followed by a sequence of 3 prenyltransferase reactions in which geranyl pyrophosphate (GPP), farnesyl pyrophosphate (FPP), and geranylgeranyl pyrophosphate (GGPP) are formed. The gene crtE, encoding GGPP synthetase, is responsible for this latter reaction. Finally, two molecules of GGPP condense to form phytoene (PPPP), catalyzed by CrtB, encoding phytoene synthase. 
+ Lycopene is a “colored” carotenoid produced from phytoene. Lycopene imparts the characteristic red color of ripe tomatoes and has great utility as a food colorant and antioxidant. It is also an intermediate in the biosynthesis of other carotenoids in some bacteria, fungi and green plants. Lycopene is prepared biosynthetically from phytoene through four sequential dehydrogenation reactions by the removal of eight atoms of hydrogen, catalyzed by the gene crtl (encoding phytoene desaturase). Intermediaries in this reaction are phytofluene, ζ-carotene, and neurosporene. 
+ Lycopene cyclase (CrtY) converts lycopene to β-carotene. β-carotene is a typical carotene with a color spectrum ranging from yellow to orange. It is used as a colorant for margarine and butter, as a source for vitamin A production, and recently as a compound with potential preventative effects against certain kinds of cancers. 
+ β-carotene is converted to zeaxanthin via a hydroxylation reaction resulting from the activity of β-carotene hydroxylase (encoded by the crtZ gene). For example, it is the yellow pigment which is present in the seeds of maize. Zeaxanthin is contained in feeds for hen or colored carp and is an important pigment source for their coloration. 
+ In addition to the carotenoid biosynthetic genes and enzymes responsible for creation of phytoene, lycopene, β-carotene, and zeaxanthin, various other crt genes are known which enable the intramolecular conversion of C 40  compounds to produce numerous other functionalized carotenoid compounds by: (i) hydrogenation, (ii) dehydrogenation, (iii) cyclization, (iv) oxidation, (v) esterification/glycosylation, or any combination of these processes. 
+ It is contemplated therefore that where a specific host cell does not have the genetic machinery to produce FPP or sufficient amounts of FPP, it is well within the grasp of the skilled person to obtain any members of the above described pathway and engineer these genes into the host to produce suitable amounts of the FPP. 
+ Pathway Modulation 
+ Knowledge of the sequence of the carotenoid biosynthesis genes will be useful in manipulating the carotenoid biosynthetic pathways in any organism having such a pathway. Methods of manipulating genetic pathways are common and well known in the art. Selected genes in a particularly pathway may be up-regulated or down-regulated by variety of methods. Additionally, competing pathways organism may be disrupted, eliminated or attenuated by similar techniques. 
+ Once a key genetic pathway has been identified and sequenced, specific genes may be up-regulated to increase the output of the pathway. For example, additional copies of the targeted genes may be introduced into the host cell on multicopy plasmids such as pBR322. Alternatively, the target genes may be modified so as to be under the control of non-native promoters. Where it is desired that a pathway operate at a particular point in a cell cycle or during a fermentation run, regulated or inducible promoters may used to replace the native promoter of the target gene. Similarly, in some cases the native or endogenous promoter may be modified to increase gene expression. For example, endogenous promoters can be altered in vivo by mutation, deletion, and/or substitution (U.S. Pat. No. 5,565,350; PCT/US93/03868). 
+ Alternatively, it may be necessary to reduce or eliminate the expression of certain genes in the target pathway or in competing pathways that may serve as competing sinks for energy or carbon. Methods of down-regulating genes for this purpose have been explored. Where sequence of the gene to be disrupted is known, one of the most effective methods gene down regulation is targeted gene disruption where foreign DNA is inserted into a structural gene so as to disrupt transcription. This can be effected by the creation of genetic cassettes comprising the DNA to be inserted (often a genetic marker) flanked by sequence having a high degree of homology to a portion of the gene to be disrupted. Introduction of the cassette into the host cell results in insertion of the foreign DNA into the structural gene via the native DNA replication mechanisms of the cell. (See for example Hamilton et al.,  J. Bacteriol.,  171:46174622 (1989); Balbas et al.,  Gene,  136:211–213 (1993); Gueldener et al.,  Nucleic Acids Res.,  24:2519–2524 (1996); and Smith et al.,  Methods Mol. Cell. Biol.,  5:270–277(1996)). 
+ Antisense technology is another method of down regulating genes where the sequence of the target gene is known. To accomplish this, a nucleic acid segment from the desired gene is cloned and operably linked to a promoter such that the anti-sense strand of RNA will be transcribed. This construct is then introduced into the host cell and the antisense strand of RNA is produced. Antisense RNA inhibits gene expression by preventing the accumulation of mRNA which encodes the protein of interest. The person skilled in the art will know that special considerations are associated with the use of antisense technologies in order to reduce expression of particular genes. For example, the proper level of expression of antisense genes may require the use of different chimeric genes utilizing different regulatory elements known to the skilled artisan. 
+ Although targeted gene disruption and antisense technology offer effective means of down regulating genes where the sequence is known, other less specific methodologies have been developed that are not sequence based. For example, cells may be exposed to a UV radiation and then screened for the desired phenotype. Mutagenesis with chemical agents is also effective for generating mutants and commonly used substances include chemicals that affect nonreplicating DNA such as HNO 2  and NH 2 OH, as well as agents that affect replicating DNA such as acridine dyes, notable for causing frameshift mutations. Specific methods for creating mutants using radiation or chemical agents are well documented in the art. See, for example, Thomas D. Brock in Biotechnology:  A Textbook of Industrial Microbiology , Second Edition (1989) Sinauer Associates, Inc., Sunderland, Mass. (Hereinafter “Brock”), or Deshpande, Mukund V.,  Appl. Biochem. Biotechnol.,  36:227 (1992) (Hereinafter “Deshpande”). 
+ Another non-specific method of gene disruption is the use of transposable elements or transposons. Transposons are genetic elements that insert randomly in DNA but can be latter retrieved on the basis of sequence to determine where the insertion has occurred. Both in vivo and in vitro transposition methods are known. Both methods involve the use of a transposable element in combination with a transposase enzyme. When the transposable element or transposon, is contacted with a nucleic acid molecule in the presence of the transposase, the transposable element will randomly insert into the nucleic acid molecule. The technique is useful for random mutageneis and for gene isolation, since the disrupted gene may be identified on the basis of the sequence of the transposable element. Kits for in vitro transposition are commercially available (see, for example, The Primer Island Transposition Kit, available from Perkin Elmer Applied Biosystems, Branchburg, N.J., based upon the yeast Ty1 element; The Genome Priming System, available from New England Biolabs, Beverly, Mass., based upon the bacterial transposon Tn7; and the EZ::TN Transposon Insertion Systems, available from Epicentre Technologies, Madison, Wis., based upon the Tn5 bacterial transposable element). 
+ Within the context of the present invention, it may be useful to modulate the expression of the identified carotenoid pathway by any one of the above described methods. In the present invention a number of genes are provided which encode key enzymes in the carotenoid pathway leading to the production of pigments and smaller isoprenoid compounds. 
+ Industrial Production 
+ Where commercial production of TDHL is desired, a variety of culture methodologies may be applied. For example, large-scale production of a specific gene product, overexpressed from a recombinant microbial host, may be produced by both Batch and continuous culture methodologies. 
+ A classical batch culturing method is a closed system where the composition of the media is set at the beginning of the culture and not subject to artificial alterations during the culturing process. Thus, at the beginning of the culturing process the media is inoculated with the desired organism or organisms and growth or metabolic activity is permitted to occur adding nothing to the system. Typically, however, a “batch” culture is batch with respect to the addition of carbon source and attempts are often made at controlling factors such as pH and oxygen concentration. In batch systems the metabolite and biomass compositions of the system change constantly up to the time the culture is terminated. Within batch cultures cells moderate through a static lag phase to a high growth log phase and finally to a stationary phase where growth rate is diminished or halted. If untreated, cells in the stationary phase will eventually die. Cells in log phase are often responsible for the bulk of production of end product or intermediate in some systems. Stationary or post-exponential phase production can be obtained in other systems. 
+ A variation on the standard batch system is the Fed-Batch system. Fed-Batch culture processes are also suitable in the present invention and comprise a typical batch system with the exception that the substrate is added in increments as the culture progresses. Fed-Batch systems are useful when catabolite repression is apt to inhibit the metabolism of the cells and where it is desirable to have limited amounts of substrate in the media. Measurement of the actual substrate concentration in Fed-Batch systems is difficult and is therefore estimated on the basis of the changes of measurable factors such as pH, dissolved oxygen and the partial pressure of waste gases such as CO 2 . Batch and Fed-Batch culturing methods are common and well known in the art and examples may be found in Brock (supra) or Deshpande (supra), herein incorporated by reference. 
+ Commercial production of the instant proteins and/or TDHL may also be accomplished with a continuous culture. Continuous cultures are an open system where a defined culture media is added continuously to a bioreactor and an equal amount of conditioned media is removed simultaneously for processing. Continuous cultures generally maintain the cells at a constant high liquid phase density where cells are primarily in log phase growth. Alternatively continuous culture may be practiced with immobilized cells where carbon and nutrients are continuously added, and valuable products, by-products or waste products are continuously removed from the cell mass. Cell immobilization may be performed using a wide range of solid supports composed of natural and/or synthetic materials. 
+ Continuous or semi-continuous culture allows for the modulation of one factor or any number of factors that affect cell growth or end product concentration. For example, one method will maintain a limiting nutrient such as the carbon source or nitrogen level at a fixed rate and allow all other parameters to moderate. In other systems a number of factors affecting growth can be altered continuously while the cell concentration, measured by media turbidity, is kept constant. Continuous systems strive to maintain steady state growth conditions and thus the cell loss due to media being drawn off must be balanced against the cell growth rate in the culture. Methods of modulating nutrients and growth factors for continuous culture processes as well as techniques for maximizing the rate of product formation are well known in the art of industrial microbiology and a variety of methods are detailed by Brock, supra. 
+ Fermentation media in the present invention must contain suitable carbon substrates. Suitable substrates may include, but are not limited to, monosaccharides such as glucose and fructose, disaccharides such as lactose or sucrose, polysaccharides such as starch or cellulose or mixtures thereof and unpurified mixtures from renewable feedstocks such as cheese whey permeate, cornsteep liquor, sugar beet molasses, and barley malt. Additionally, the carbon substrate may also be one-carbon substrates such as carbon dioxide, methane or methanol for which metabolic conversion into key biochemical intermediates (including in the production of carotenoids) has been demonstrated (U.S. Ser. No. 09/941,947; hereby incorporated by reference). In addition to one and two carbon substrates, methylotrophic organisms are also known to utilize a number of other carbon containing compounds such as methylamine, glucosamine and a variety of amino acids for metabolic activity. For example, methylotrophic yeast are known to utilize the carbon from methylamine to form trehalose or glycerol (Bellion et al.,  Microb. Growth  C1-Compd., [Int. Symp.], 7th (1993), 415–32. Editor(s): Murrell, J. Collin; Kelly, Don P. Publisher: Intercept, Andover, UK). Similarly, various species of  Candida  will metabolize alanine or oleic acid (Sulter et al.,  Arch. Microbiol.,  153:485489 (1990)). Hence, it is contemplated that the source of carbon utilized in the present invention may encompass a wide variety of carbon containing substrates and will only be limited by the choice of organism. 
+ DESCRIPTION OF THE PREFERRED EMBODIMENTS 
+ Production of industrially-suitable amounts of tetradehydrolycopene is shown in the present invention. The carotenoid biosynthesis gene cluster was isolated from  Pantoea stewartii  (ATCC 8199) (Example 1). The isolated phytoene desaturase gene (crtl) was modified using error-prone PCR (Example 2). Crtl variants were assayed for their ability to produce increased amounts of TDHL. Caparisons between the wild type and variant phytoene desaturases of the present invention were conducted, illustrating the increased ability of the variants to produce TDHL. Preferred phytoene desaturase variants are those having the represented by the amino acid sequence of SEQ ID NO:18 (crtl-514 variant) and SEQ ID NO:20 (crtl-515 variant). 
+ Tetradehydrolycopene production using the crtl variants was increased by chromosomally engineering a strong promoter upstream of various isoprenoid biosynthesis genes (Example 5). Preferred isoprenoid biosynthesis genes targeted for chromosomal promoter replacement include dxs, ispC, ispD, ispE, ispF, ispG, ispH, pyrG, idi, and ispA. More preferred as isoprenoid biosynthesis genes dxs, idi, and ispDF. Preferred microbial promoters suitable for driving the genes of the present invention include CYC1, HIS3, GAL1, GAL10, ADH1, PGK, PHO5, GAPDH, ADC1, TRP1, URA3, LEU2, ENO, TPI (useful for expression in  Saccharomyces ); AOX1 (useful for expression in  Pichia ); and lac, ara, tet, trp, IP L , IP R , P T5 , T7, tac, and trc (useful for expression in  Escherichia coli ) as well as the amy, apr, npr promoters and various phage promoters useful for expression in  Bacillus . More preferred is the phage T5 promoter (P T5 ) Increasing expression of isoprenoid biosynthesis genes resulted in isopentenyl pyrophosphate (IPP) synthesis. 
+ The chromosomally-modified isoprenoid biosynthesis genes were integrated into a single strain using P1 transduction and trait stacking (Examples 6 and 7). Preferred transformed hosts are those comprising multiple promoter replacements on isoprenoid biosynthesis genes. More preferred are transformed hosts comprising promoter replacements to the idi, dxs, and ispDF genes (Example 7). Most preferred transformed hosts are  E. coli  strains comprising P T5  promoter replacements to the idi, dxs, and ispDF genes. 
+ Carotenoid biosynthesis genes useful for converting farnesyl pyrophosphate to various suitable carotenoid substrates were chromosomally-integrated into the transformed host cells (Examples 8 and 9). Preferred carotenoid biosynthesis genes include crfE, crtl and crtB. More preferred hosts are those comprising multiple chromosomally-integrated carotenoid biosynthesis genes. Even more preferred are hosts comprising both chromosomally-modified isoprenoid and carotenoid biosynthesis genes. Most preferred are  E. coli  strains comprising promoter modified isoprenoid genes dxs, idi, and ispDF and the carotenoid biosynthesis gene cluster P T5 -CrtEIB (Example 10). Optionally, no functional lycopene cyclase gene (crtY) should be present in the TDHL production host. For those production hosts which naturally harbor a functional lycopene cyclase, expression of the crtY gene should be disrupted or removed by methods known-in-the-art. 
+ The tetradehydrolycopene produced in the present invention is preferably produced in the production host at levels exceeding 10% of the total carotenoids produced. More preferred is TDHL levels exceeding 20% of the total carotenoid produced by the cell. Most preferred host are those exhibiting TDHL levels exceeding 25% of the total carotenoids produced. In a further preferred embodiment, host cells producing at least 150 ppm TDHL are preferred (Example 11). 
+ EXAMPLES 
+ The present invention is further defined in the following Examples. It should be understood that these Examples, while indicating preferred embodiments of the invention, are given by way of illustration only. From the above discussion and these Examples, one skilled in the art can ascertain the essential characteristics of this invention, and without departing from the spirit and scope thereof, can make various changes and modifications of the invention to adapt it to various usages and conditions. 
+ General Methods 
+ Standard recombinant DNA and molecular cloning techniques used in the Examples are well known in the art and are described by Sambrook, J., Fritsch, E. F. and Maniatis, T.  Molecular Cloning: A Laboratory Manual ; Cold Spring Harbor Laboratory Press: Cold Spring Harbor, (1989) (Maniatis) and by T. J. Silhavy, M. L. Bennan, and L. W. Enquist, Experiments with Gene Fusions, Cold Spring Harbor Laboratory, Cold Spring Harbor, N.Y. (1984) and by Ausubel, F. M. et al., Current Protocols in Molecular Biology, pub. by Greene Publishing Assoc. and Wiley-Interscience (1987). 
+ Materials and methods suitable for the maintenance and growth of bacterial cultures are well known in the art. Techniques suitable for use in the following examples may be found as set out in  Manual of Methods for General Bacteriology  (Phillipp Gerhardt, R. G. E. Murray, Ralph N. Costilow, Eugene W. Nester, Willis A. Wood, Noel R. Krieg and G. Briggs Phillips, eds), American Society for Microbiology, Washington, D.C. (1994)) or by Thomas D. Brock in  Biotechnology: A Textbook of Industrial Microbiology , Second Edition, Sinauer Associates, Inc., Sunderland, Mass. (1989). All reagents, restriction enzymes and materials used for the growth and maintenance of bacterial cells were obtained from Aldrich Chemicals (Milwaukee, Wis.), DIFCO Laboratories (Detroit, Mich.), GIBCO/BRL (Gaithersburg, Md.), or Sigma Chemical Company (St. Louis, Mo.) unless otherwise specified. 
+ Manipulations of genetic sequences were accomplished using the suite of programs available from the Genetics Computer Group Inc. (Wisconsin Package Version 9.0, Genetics Computer Group (GCG), Madison, Wis.). Where the GCG program “Pileup” was used the gap creation default value of 12, and the gap extension default value of 4 were used. Where the CGC “Gap” or “Bestfit” programs were used the default gap creation penalty of 50 and the default gap extension penalty of 3 were used. In any case where GCG program parameters were not prompted for, in these or any other GCG program, default values were used. 
+ The meaning of abbreviations is as follows: “h” means hour(s), “min” means minute(s), “sec” means second(s), “d” means day(s), “mL” means milliliters, “L” means liters, “μL” means microliters, “kB” means kilobase(s), “g” means grams, “μg” means micrograms, and “nm” means nanometers. 
+ Example 1 
+ Cloning of Genes from  Pantoea stewartii    
+ Because of the relatedness between  P. stewartii  and  E. uredovora, P. stewartii  carotenoid synthesis genes can be amplified by PCR using primers based on the published sequence of the  E. uredovora  crt genes (GenBank® Accession No. D90087, Misawa et al., J. Bacteriol., V172: 6704 (1990)). This was demonstrated previously for the crtE, crtB and crtl genes (Scolink and Bartley,  Plant Physiol.,  108:1343 (1995)). Using the same approach, primers were designed using the sequence from  Erwinia uredovora  to amplify a fragment by PCR containing the crt genes. These sequences included 5′-3′: 
+ 
+ 
+ 
+ 
+ 
+   
+ ATGACGGTCTGCGCAAAAAAACACG 
+ SEQ ID NO:13 
+   
+ 
+ 
+   
+   
+ 
+ 
+   
+ GAGAAATTATGTTGTGGATTTGGAATGC 
+ SEQ ID NO:14 
+ 
+ 
+ 
+ 
+ 
+ Chromosomal DNA was purified from  Pantoea stewartii  (ATCC No. 8199) and Pfu Turbo polymerase (Stratagene, La Jolla, Calif.) was used in a PCR amplification reaction under the following conditions: 94° C., 5 min; 94° C. (1 min)60° C. (1 min)–72° C. (10 min) for 25 cycles, and 72° C. for 10 min. A single product of approximately 6.5 kb was observed following gel electrophoresis. Taq polymerase (Perkin Elmer) was used (10 min, 72° C. reaction) to add 3′ adenosine nucleotides to the end of the PCR fragment which was then ligated into pCR4-TOPO vector (Invitrogen, Carlsbad, Calif.) to produce pPCB13.  E. coli  DH5α (Life Technologies, Rockville, Md.) was transformed by electroporation with the ligation mixture and bright yellow colonies were isolated. Their color indicated the production of a carotenoid compound. Following plasmid isolation as instructed by the manufacturer using the Qiagen (Valencia, Calif.) miniprep kit, the plasmid containing the 6.5 kb amplified fragment was transposed with pGPS1.1 using the GPS-1 Genome Priming System kit (New England Biolabs, Inc., Beverly, Mass.) A number of these transposed plasmids were sequenced from each end of the transposon. Sequence was generated on an ABI Automatic sequencer using dye terminator technology (U.S. Pat. No. 5,366,860; EP 272007) using transposon specific primers. Sequence assembly was performed with the Sequencher program (Gene Codes Corp., Ann Arbor, Mich.). 
+ Example 2 
+ Generation of Variant crtl Genes by Error-Prone PCR 
+ In order to generate a phytoene desaturase with the ability to fully desaturate phytoene to TDHL, error-prone PCR was performed on the  P. stewartii  crtl gene (SEQ ID NO:7). 
+ The oligonucleotides, crtl-F (ATGAAACCAACTACGGTAA; SEQ ID NO: 15) and crtl-R (TCAAATCAGATCCTCCAGC; SEQ ID NO: 16) corresponding to the ends of the crtl gene, were used to amplify the entire crtl gene using error-prone PCR. Eleven PCR reactions were set up, each containing a different concentration of MnCl 2  to increase the level of nucleotides mis-incorporated (indicated in Table 1) (Fromant et al.,  Anal Biochem,  224(1):347–53 (1995); Lin-Goerke et al.,  Biotechniques,  23(3):409–12 (1997)). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+ 
+   
+ 
+ 
+ Error-Prone PCR Reaction Components 
+ 
+ 
+ 
+ 
+   
+ Component (μL) 
+ 
+ 
+ 
+ 
+   
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   10x buffer   
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 
+ 
+ 25  mM MgCl2   
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 
+ 
+ 1 mM MnCl2 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 7.5 
+ 10 
+ 15 
+ 20 
+ 25 
+ 
+ 
+ Primers each 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 
+ 
+ (10 μM) 
+ 
+ 
+   template DNA   
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 
+ 
+ (1 ρM) 
+ 
+ 
+ Water 
+ 77 
+ 76 
+ 75 
+ 74 
+ 73 
+ 72 
+ 69.5 
+ 67 
+ 62 
+ 57 
+ 52 
+ 
+ 
+ dNTPs 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 
+ 
+ (2.5 mM 
+ 
+ 
+ each) 
+ 
+ 
+   Taq   
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 
+ 
+ polymerase 
+ 
+ 
+   Total volume   
+ 100 
+ 100 
+ 100 
+ 100 
+ 100 
+ 100 
+ 100 
+ 100 
+ 100 
+ 100 
+ 100 
+ 
+ 
+ (μl) 
+ 
+ 
+ MnCl2 
+ 0 
+ 10 
+ 20 
+ 30 
+ 40 
+ 50 
+ 75 
+ 100 
+ 150 
+ 200 
+ 250 
+ 
+ 
+ concentration 
+ 
+ 
+ (μM) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Products of the eleven error-prone PCR amplifications were cloned in the pTrcHis2-TOPO vector (Invitrogen) and the resulting constructs transferred to  E. coli  TOP10 cells (Invitrogen). Transformants were spread on LB-Amp plates. After an overnight incubation, the plasmids carrying the mutagenized crtl genes were isolated from the pooled colonies. This plasmid pool was used to transform an  E. coli  MG1655 strain containing the pDCQ51 plasmid. This plasmid carried a Tn5 transposon cassette in the crtY lycopene cyclase gene of pCRT1 and directs the production of lycopene. Colonies of pDCQ51 cells are pink. The pCRT1 construct was formed by cloning of the entire crt gene cluster of  P. stewartii , obtained as described in Example 1, to the EcoRI site of broad host range cloning vector pBHR1 (MoBiTec, Goettingen, Germany) such that expression of the genes of the crt operon was controlled by the promoter of the chloramphenicol resistance gene. An unexpected large proportion of the transformants (more than 2%) exhibited a deeper pink color from that of the control pDCQ51 colonies. Ten of these colonies were cultured in liquid media in order to isolate the carotenoids formed. The UV-Visible absorbance spectra of acetone extracts from the cells pellets of these cultures were recorded between 300 to 600 nm. Several of these transformants exhibited a shoulder around 540 nm, a longer wavelength absorbance than that of the lycopene absorption peaks (444, 470 and 502 nm) that indicated some tetradehydrolycopene had been formed. 
+ The pTrcHis2-TOPO plasmids carrying the variant crtl genes from two transformants, DPR 514 and DPR515, which produced tetradehydrolycopene were isolated and the inserts sequenced. Sequencing of pTrcHis2 Crtl-514 from DPR 514 crtl variant (SEQ ID NO:17) indicated that five nucleotide bases were different in this sequence as compared to the  P. stewartii  crtl wild-type sequence. These five base changes resulted in three amino acid changes in the deduced amino acid sequence of crtl-514 (SEQ ID NO:18) which were leucine residue 28 to serine, threonine residue 84 to serine, and lysine residue 138 to glutamate. The pTrcHis2 Crtl-515 from DPR515 crtl sequence (SEQ ID NO:19) contained seven nucleotide base changes from the wild-type  P. stewartii  crtl sequence. These resulted in only one change in the deduced amino acid sequence of crtl-515 (SEQ ID NO:20) where a leucine at residue 81 was changed to methionine. 
+ Example 3 
+ Shake-Flasks Production of Tetradehydrolycopene in a Crt +  cells 
+   E. coli  strains DPR514 and DPR515 were grown in 100 mL of Luria-Bertani (LB) medium containing 50 μg/mL kanamycin and 100 μg/mL ampicillin at 27° C. for 24 hr. The cells were harvested by centrifugation, extracted with acetone, the acetone was evaporated and the carotenoid containing residue resuspended in methanol in preparation HPLC analysis. The formation of 18–22% of the carotenoid in the form of tetradehydrolycopene was observed as shown in Table 2. The remainder of the carotenoid formed in these strains was lycopene. 
+ A Beckman System Gold® HPLC with Beckman Gold Nouveau Software (Columbia, Md.) was used for the study. A sample of 0.1 mL of the crude acetone extraction was loaded onto a 25 cm×4.6 mm Discovery® C18 (5 μm particles) column with corresponding guard column from Supelco (Bellefonte, Pa.). The flow rate was 2 mL/min. Two Buffers were used. Buffer A was 100% Acetonitrile, buffer B was 100% Acetone. Solvent program was: 0–20 min linear gradient of 100% buffer A to 40% buffer A. 20–25  min  100% buffer A. The spectrum data was collected by Beckman photodiode array detector (model 168) and is presented in  FIG. 8 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+ 
+   
+ 
+ 
+ Tetradehydrolycopene formed in    E. coli               
+ 
+ 
+   
+ peak         
+      1 
+   
+   peak  1 
+   peak  2 
+   peak  2 
+   peak  2 
+ 
+ 
+   Strain     time 
+ peak    1 component 
+ area % 
+ time 
+ component 
+ area % 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ DPR514 
+ 7.88 
+ tetradehydrolycopene 
+ 18.3 
+ 9.75 
+ lycopene 
+ 69.7 
+ 
+ 
+ DPR515 
+ 7.80 
+ tetradehydrolycopene 
+ 22.3 
+ 9.62 
+ lycopene 
+ 67.43 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Example 4 
+ Production of Tetradehydrolycopene in Crtl 31   Cells 
+ Production of tetradehydrolycopene from was also investigated in a cell background lacking endogenous Crtl activity. 
+ Plasmid pDCQ52 was constructed by insertion of a Tn5 transposon in the crtl coding sequence of the plasmid pBHR-crt+using the EZ::TN Transposon Insertion System (Epicentre Technologies, Madison, Wis.). Colonies of cells containing plasmid pDCQ52 are colorless and accumulate phytoene. The pBHR-crt+ was constructed by cloning the carotenoid gene cluster amplified in Example 1 into the EcoRI site of pBHR1 (MoBiTec, Goettingen, Germany) such that the crt genes were expressed from the chloramphenicol resistance gene promoter. 
+ Plasmids pTrcHis2 Crtl-514 and pTrcHis2 Crtl-515 carrying mutagenized crtl genes were each transferred along with pDCQ52 into  E. coli  DH10B (Invitrogen) by electroporation, yielding  E. coli  strains DPR 589 and DPR 588, respectively. 
+ To investigate the effect of overexpression of the wild-type crtl gene from the multicopy pTrcHis2-TOPO vector, the  P. stewartii  wild-type crtl gene was cloned into pTrcHis2-TOPO from a DNA product amplified by PCR using the crtl-F (SEQ ID NO:15) and crtl-R (SEQ ID NO:16) primers with  P. stewartii  chromosomal DNA as template. The resulting plasmid pTrcHis2-Crtl was transferred along with pDCQ52 into  E. coli  DH10B by electroporation, yielding  E. coli  strains DPR 571. 
+ Strains DPR 571, DPR 588 and DPR 589 were grown in shake-flasks and their carotenoids analyzed as described in Example 3. As shown in Table 3, overexpression of wild-type Crtl resulted in a low level of tetradehydrolycopene synthesis. However, the fraction of tetradehydrolycopene is greatly increased by overexpression of the variant crtl genes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+ 
+   
+ 
+ 
+ Tetradehydrolycopene Formation by Wild-type and Variant ctrl 
+ 
+ 
+ 
+ 
+ strain 
+ % lycopene 
+ % tetradehydrolycopene 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ DPR 571 
+ 96 
+ 4 
+ 
+ 
+ ( E. coli  DH10B pTrcHis2-Crtl) 
+ 
+ 
+ DPR 589 
+ 86 
+ 14 
+ 
+ 
+ ( E. coli  DH10B 
+ 
+ 
+ pTrcHis2 Crtl-514) 
+ 
+ 
+ DPR 588 
+ 89 
+ 11 
+ 
+ 
+ ( E. coli  DH10B 
+ 
+ 
+ pTrcHis2Crtl-515) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Example 5 
+ Construction of  E. coli  Strains with the Phage T5 Strong Promoter Chromosomally Integrated Upstream of Isoprenoid Genes 
+ The native promoters of the  E. coli  isoprenoid genes, dxs, idi, ispDispF, and ispAdxs, ( FIG. 4 ) were replaced with the phage T5 (P T5 ) strong promoter using the “two PCR-fragments” chromosomal integration method as shown in  FIG. 5 . The method for replacement is based on homologous recombination via the λ Red recombinase encoded on a helper plasmid. Recombination occurs between the  E. coli  chromosome and two PCR fragments that contain 20–50 bp homology patches at both ends of PCR fragments ( FIG. 5 ). For integration of the T5 strong promoter upstream of these genes, a two-PCR-fragment method was employed. In this method, the two fragments were comprised of a linear DNA fragment (1489 bp) containing a kanamycin selectable marker flanked by site-specific recombinase target sequences (FRT) and a linear DNA fragment (154 bp) containing a phage T5 promoter (P T5 ; SEQ ID NO:52) comprising the −10 and −35 consensus promoter sequences, lac operator (lacO), and a ribosomal binding site (RBS). 
+ By using the two PCR fragment method, the kanamycin selectable marker and phage T5 promoter (kan-P T5 ) were integrated upstream of the dxs, idi, ispDF and ispAdxs genes, yielding kan-P T5 -dxs, kan-P T5 -idi, kan-P T5 -ispDF, and kan-P T5 -ispAdxs. The linear DNA fragment (1489 bp) which contained a kanamycin selectable marker, flanked by site-specific recombination sequences, was synthesized by PCR from plasmid pKD4 (Datsenko and Wanner, PNAS., 97:6640–6645 (2000)) with primer pairs as follows in Table 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+ 
+   
+ 
+ 
+ Primers for Amplification of 
+   
+ 
+ 
+ the Kanamycin Selectable Marker 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ SEQ ID 
+   
+ 
+ 
+ Primer Name 
+ Primer Sequence 
+ NO: 
+ 
+ 
+   
+ 
+ 
+ 5′-kan(dxs) 
+ 
+ TGGAAGCGCTAGCGGACTACATCATCCAGCGTAA 
+ 
+ 21 
+   
+ 
+ 
+   
+   TAAATAA CGTCTTGAGCGATTGTGTAG 1   
+ 
+ 
+   
+ 
+ 
+ 5′-kan(idi) 
+ 
+ TCTGATGCGCAAGCTGAAGAAAAATGAGCATGGA 
+ 
+ 22 
+ 
+ 
+   
+   GAATAATATGA CGTCTTGAGCGATTGTGTAG 1   
+ 
+ 
+   
+ 
+ 
+ 5′-kan(ispDF) 
+ 
+ GACGCGTCGAAGCGCGCACAGTCTGCGGGGCAA 
+ 
+ 23 
+ 
+ 
+   
+   AACAATCGATAA CGTCTTGAGCGATTGTGTAG 1   
+ 
+ 
+   
+ 
+ 
+ 5′-kan(ispAdxs) 
+ 
+ ACCATGACGGGGCGAAAAATATTGAGAGTCAGAC 
+ 
+ 24 
+ 
+ 
+   
+     ATTCAT     GTGTAGGCTGGAGCTGCTTC       1   
+ 
+ 
+   
+ 
+ 
+ 3′- kan     
+ GAAGACGAAAGGGCCTCGTGATACGCCTATTTTTA         
+ 
+ 25 
+ 
+ 
+   
+   TAGGTTA TATGAATATCCTCCTTAGTTCC 2   
+ 
+ 
+   
+ 
+ 
+   1 The underlined sequences illustrate each respective homology arm chosen to match sequences in the upstream region of the chromosomal integration site, while the remainder is the priming sequence) 
+ 
+ 
+   2 The underlined sequences illustrate homology arm chosen to match sequences in the 5′-end region of the T5 promoter DNA fragment 
+ 
+ 
+ 
+ 
+ 
+ The second linear DNA fragment (154 bp) containing a phage T5 promoter was synthesized by PCR from pQE30 (QIAGEN, Inc., Valencia, Calif.) with primer pairs as follows in Table 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 5 
+ 
+ 
+ 
+   
+ 
+ 
+ Primers for Amplification of the T5 Promoter 
+ 
+ 
+ 
+ 
+   
+   
+ SEQ ID 
+   
+ 
+ 
+ Primer Name 
+ Primer Sequence 
+ NO: 
+ 
+ 
+   
+ 
+ 
+ 5′-T5 
+   CTAAGGAGGATATTCATA TAACCTATAAAAATAGGC 
+ 26 
+   
+ 
+ 
+   
+   GTATCACGAGGCCC       1   
+ 
+ 
+   
+ 
+ 
+ 3′-T5(dxs) 
+ 
+ GGAGTCGACCAGTGCCAGGGTCGGGTATTTGGCAA 
+ 
+ 27 
+ 
+ 
+   
+     TATCAAAACTCAT     AGTTAATTTCTCCTCTTTAATG       2   
+ 
+ 
+   
+ 
+ 
+ 3′-T5(idi) 
+ 
+ TGGGAACTCCCTGTGCATTCAATAAAATGACGTGTT 
+ 
+ 28 
+ 
+ 
+   
+     CCGTTTGCAT     AGTTAATTTCTCCTCTTTAATG       2   
+ 
+ 
+   
+ 
+ 
+ 3′-T5(ispDF) 
+ 
+ CGGCCGCCGGAACCACGGCGCAAACATCCAAATGA 
+ 
+ 29 
+ 
+ 
+   
+     GTGGTTGCCAT     AGTTAATTTCTCCTCTTTAATG       2   
+ 
+ 
+   
+ 
+ 
+ 3′-T5(ispAdxs) 
+ 
+ CCTGCTTAACGCAGGCTTCGAGTTGCTGCGGAAAG 
+ 
+ 30 
+ 
+ 
+   
+   TCCAT AGTTAATTTCTCCTCTTTAATG 2   
+ 
+ 
+   
+ 
+ 
+   1 The underlined sequences illustrate homology arm chosen to match sequences in the 3′-end region of the kanamycin DNA fragment 
+ 
+ 
+   2 The underlined sequences illustrate each respective homology arm chosen to match sequences in the downstream region of the chromosomal integration site 
+ 
+ 
+ 
+ 
+ 
+ Standard PCR conditions were used to amplify the linear DNA fragments with AmpliTaq Gold® polymerase (Applied Biosystems, Foster City, Calif.) as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ PCR reaction: 
+ PCR reaction mixture: 
+ 
+ 
+   
+ 
+ 
+ 
+ Step1 94° C. 3 min 
+ 0.5 μL plasmid DNA 
+ 
+ 
+ Step2 93° C. 30 sec 
+   5 μL 10X  PCR buffer 
+ 
+ 
+ Step3 55° C. 1  min   
+   1 μL dNTP mixture (10 mM) 
+ 
+ 
+ Step4 72° C. 3  min   
+   1 μL 5′-primer (20 μM) 
+ 
+ 
+ Step5 Go To Step2, 30  cycles   
+   1  μl  3′-primer (20 μM) 
+ 
+ 
+ Step6 72° C. 5 min 
+ 0.5 μL AmpliTaq Gold ® polymerase 
+ 
+ 
+   
+  41 μL sterilized dH 2 O 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ After completing the PCR reactions, 50 μL of each PCR reaction mixture was run on a 1% agarose gel and the PCR products were purified using the QIAquick Gel Extraction Kit™ as per the manufacturer's instructions (Cat. # 28704, QIAGEN). The PCR products were eluted with 10 μL of distilled water. The DNA Clean & Concentrator™ kit (Zymo Research, Orange, Calif.) was used to further purify the PCR product fragments as per the manufacturer's instructions. The PCR products were eluted with 6–8 μL of distilled water to a concentration of 0.5–1.0 μg/μL. 
+ The  E. coli  MC1061 strain, carrying a λ Red recombinase expression plasmid pKD46 (amp R ) (Datsenko and Wanner, supra; SEQ ID NO:50), was used as a host strain for the chromosomal integration of the PCR fragments. The strain was constructed by transformation of  E. coli  strain MC1061 with the λ Red recombinase expression plasmid, pKD46 (amp R ). The λ-Red recombinase in pKD46 is comprised of three genes exo, bet, and gam expressed under the control of an arabinose-inducible promoter. Transformants were selected on 100 μg/mL of ampicillin LB plates at 30° C. 
+ For transformation, electroporation was performed using 5–10 μg of the purified PCR products carrying the kanamycin marker and phage T5 promoter. Approximately one-half of the cells transformed were spread on LB plates containing 25 μg/mL of kanamycin in order to select antibiotic-resistant transformants. After incubating the plate at 37° C. overnight, antibiotic-resistance transformants were selected as follows: 10 colonies of kan-P T5 -dxs, 12 colonies of kan-P T5 -idi, 10 colonies of kan-P T5 -ispDF, and 19 colonies of kan-P T5 -ispAdxs. 
+ PCR analysis was used to confirm the integration of both the kanamycin selectable marker and the phage T5 promoter (P T5 )(SEQ ID NO:52) in the correct location on the  E. coli  chromosome. For PCR, a colony was resuspended in 50 μL of PCR reaction mixture containing 200 μM dNTPs, 2.5 U AmpliTaq™ (Applied Biosytems), and 0.4 μM of specific primer pairs. Test primers were chosen to match sequences of the regions located in the kanamycin (5′-primer) and the early coding-region of each isoprenoid gene (3′-primer). The PCR reaction was performed as described in above. The resultant  E. coli  strains carrying each kan-P T5 -isoprenoid gene fusion on the chromosome were used for stacking multiple kan-P T5 -isoprenoid gene fusions on the chromosome to construct  E. coli  strain for increasing carotenoid production. 
+ Example 6 
+ Construction of  E. coli  P T5 -dXs P T5 -idi Strain 
+ In order to characterize the effect of the chromosomal integration of T5 strong promoter in the front of the dxs and idi genes on β-carotene production, a strain,  E. coli  P T5 -dxs P T5 -idi, capable of producing β-carotene, was constructed. 
+ P1 lysate was made with the  E. coli  kan-P T5 -dxs strain was transduced into the recipient strain,  E. coli  MG1655 containing a β-carotene biosynthesis expression plasmid pPCB15 (cam R ) (SEQ ID NO:49). The pPCB15 plasmid was constructed from ligation of Smal digested pSU18 (Bartolome et al.,  Gene,  102:75-78 (1991)) vector with a blunt-ended Pmel/Notl fragment carrying crtEXYIB from pPCB13 (Example 1). The lysate of the  E coli  kan-P T5 -dxs strain was prepared by infecting a growing culture of bacteria with the P1 phage and allowing the cells to lyse. For P1 infection,  E. coli  kan-P T5 -dxs strain was inoculated in 4 mL LB medium with 25 μg/mL of kanamycin, grown at 37° C. overnight, and then sub-cultured with 1:100 dilution of an overnight culture in 10 mL LB medium containing 5 mM CaCl 2 . After 20–30 min of growth at 37° C., 10 7  p1 vir  phage particles were added. The cell-phage mixture was aerated for 2–3 hr at 37° C. until lysed. Several drops of chloroform were added and the mixture vortexed for 30 sec and incubated for an additional 30 min at room temp. The mixture was then centrifuged for 10 min at 4500 rpm and the supernatant transferred into a new tube to which several drops of chloroform were added. 
+ Sixteen kanamycin-resistance transductants were selected. The kanamycin selectable marker was eliminated from the chromosome of the transductant using a FLP recombinase expression system. To eliminate kanamycin selectable marker from the chromosome, a FLP recombinase expression plasmid pCP20 (amp R ) (ATCC PTA-4455; Cherepanov and Wackernagel,  Gene,  158:9–14 (1995)), which has a temperature-sensitive replication of origin, was transiently transformed into one of the kanamycin-resistant transductants by electroporation. Cells were spread onto LB agar containing 100 μg/mL of ampicillin and 25 μg/mL of chloramphenicol plates and grown at 30° C. for 1 day. Colonies were picked and streaked on 25 μg/mL of chloramphenicol LB plates without ampicillin antibiotics and incubated at 43° C. overnight. Plasmid pCP20 has a temperature sensitive origin of replication and was cured from the host cells by culturing them at 43° C. The colonies were tested for ampicillin and kanamycin sensitivity to test loss of pCP20 and the kanamycin selectable marker by streaking colonies on 100 μg/mL of ampicillin LB plate or 25 μg/mL of kanamycin LB plate yielding  E. coli  P T5 -dxs strain. 
+ In order to stack kan-P T5 -idi on chromosome of  E. coli  P T5 -dxs, P1 lysate made on  E. coli  kan-P T5 -idi strain was transduced into the recipient strain,  E. coli  P T5 -dxs, as described above. Approximately 450 kanamycin-resistance transductants were selected. After transduction, the kanamycin selectable marker was eliminated from the chromosome as described above, yielding  E. coli  P T5 -dxs P T5 -idi strain. 
+ For the  E. coli  P T5 -dxs P T5 -idi strain, the correct integration of the phage T5 promoter upstream of dxs and idi genes on the  E. coli  chromosome and elimination of the kanamycin selectable marker were confirmed by PCR analysis. A colony of the  E. coli  P T5 -dxs P T5 -idi strain was tested by PCR with different combination of specific primer pairs, T-kan (SEQ ID NO:31) and B-dxs (SEQ ID NO:32), T-T5 (SEQ ID NO:33) and B-dxs, T-kan and B-idi(SEQ ID NO:34), T-T5 and B-idi. Test primers were chosen to amplify regions located either in the kanamycin or the phage T5 promoter and the downstream region of the chromosomal integration site as shown on  FIG. 7 . The PCR reaction was performed as described in Example 5. The PCR results indicated the elimination of the kanamycin selectable marker from the  E. coli  chromosome. The chromosomal integration of the phage T5 promoter fragment upstream of the dxs and idi gene was confirmed based on the expected sizes of PCR products, 229 bp and 274 bp, respectively. 
+ Example 7 
+ Construction of  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF 
+ In order to create a bacterial strain capable of increased carotenoid production, the P T5 -ispDF gene was further stacked into the  E. coli  P T5 -dxs P T5 -idi strain by P1 transduction in combination with the FLP recombination system. P1 lysate was with  E. coli  kan-P T5 -ispDF strain was transduced into the recipient strain,  E. coli  P T5 -dxs P T5 -idi containing a p-carotene biosynthesis expression plasmid pPCB15 (cam R ), as described in Example 6. Twenty-one kanamycin-resistance transductants were selected. The kanamycin selectable marker was eliminated from the chromosome of the transductant using a FLP recombinase expression system as described above, yielding  E. coli  P T5 -dxs P T5 -idi P T5 -iSPDF strain. 
+ For the  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain, the correct integration of the phage T5 promoter upstream of dxs, idi, and ispDF genes on the  E. coli  chromosome and elimination of the kanamycin selectable marker were confirmed by PCR analysis. A colony of the  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain was tested by PCR with different combination of specific primer pairs, T-kan (SEQ ID NO:31) and B-dxs(SEQ ID NO:32), T-T5 (SEQ ID NO:33) and B-dxs, T-kan and B-idi(SEQ ID NO:34), T-T5 and B-idi, T-kan and B-ispDF (5′-CCAGCAGCGCATGCACCGAGTGTTC-3′; SEQ ID NO:35), T-T5 and B-ispDF. Test primers were chosen to amplify regions located either in the kanamycin or the phage T5 promoter and the downstream region of the chromosomal integration site. The PCR reaction was performed as described in Example 5. The PCR results indicated the elimination of the kanamycin selectable marker from the  E. coli  chromosome. The chromosomal integration of the phage T5 promoter fragment upstream of the dxs, idi, and ispDF genes was confirmed based on the expected sizes of PCR products, 229 bp, 274 bp, and 296 bp, respectively. 
+ Example 8 
+ Chromosomal Integration of the  P. stewartii  crtE Gene in  E. coli    
+ This example describes the chromosomal integration of  P. stewartii  crtE and crtlB genes into the inter-operon region located at 81.2 min of  E. coli  chromosome by integration of  P. stewartii  crtE and  P. stewartii  crtlB. The crtE, crtl, and crtB genes encode geranylgeranyl pyrophosphate synthase, phytoene dehydrogenase, and phytoene synthase, respectively. 
+ The linear DNA fragment containing fused kanamycin selectable marker-phage T5 promoter was synthesized by PCR from psUH5 (SEQ ID NO:51) with primer pairs, T1(crtE) (5′- AGCCGTCGCAGGAGGAACAACTCATATCATCATTGCGATCTCGAC CG TCTTGAGCGATTGTGTAG-3′; SEQ ID NO:36) which contains a h10 homology arm (underlined, 45 bp) chosen to match a sequence in the inter-operon region located at 81.2 min of  E. coli  chromosome and a priming sequence (20 bp) and B1(crtE) (5′- TGAACGTGTTTTTTTGCGCAGACCGTCAT AGTTAATTTCTCCTCTTTA ATG-3′; SEQ ID NO:37) which contains an h11 homology arm (underlined, 29 bp) chosen to match a sequence in the downstream region of the crtE start codon and a priming sequence (22 bp). The linear DNA fragment containing  P. stewartii  crtE gene was synthesized by PCR from pPCB15 (SEQ ID NO:49) with primer pairs, T2(crtE) (5′- ACAGAATTCATTAAAGAGGAGAAATTAACT ATGACGGTCTGCGCAAA AAAACACG-3′; SEQ ID NO:38) which contains an h8 homology arm (underlined, 30 bp) chosen to match a sequence in the 3′-end region of the fused kanamycin selectable marker-phage T5 promoter and a priming sequence (25 bp) and B2(crtE) (5′- AGAATGACCAGCTGGATGCATTATCTTTATTTGGATCATTGAGGG TTA ACTGACGGCAGCGAGTT-3′; SEQ ID NO:39) which contains an h12 homology arm (underlined, 45 bp) chosen to match a sequence in the inter-operon region located at 81.2 min of the  E. coli  chromosome and a priming sequence (20 bp)( FIG. 6 ). The underlined sequences illustrate each respective homology arm, while the remainder is the priming sequences for hybridization to complementary nucleotide sequences on the template DNA for the PCR reaction. The two resultant PCR fragments were the fused kanamycin selectable marker-phage T5 promoter containing the homology arms (h10 and h11) and the  P. stewartii  crtE gene containing the homology arms (h8 and h12) as illustrated in  FIG. 6 . 
+ The PCR amplification, purification, and electro-transformation were performed as in Example 5 except that the transformation of the reporter plasmid pPCB15 into  E coli . strain was omitted. Both fused kanamycin marker-phage T5 promoter PCR products (5–10 μg) and the  P. stewartii  crtE PCR products (5–10 μg) were co-transformed into an  E. coli  host strain (MC1061) expressing the λ-Red recombinase system by electroporation. Transformants were selected on 25 g/mL of kanamycin LB plates at 37° C. After incubating the plate at 37° C. overnight, two kanamycin (kan R ) transformants were selected. 
+ Two kan R  transformants were analyzed by PCR with T10 (5′-CCATGACCCTACATTGTGATCTATAG-3′; SEQ ID NO:40) and T13 (5′-GGAACCATTGAACTGGACCCTMCG-3′; SEQ ID NO:41) primer pair. PCR analysis was performed under same PCR reaction condition as described in Example 5. PCR testing with T10/T13 on two transformants exhibited the expected size, 2883 bp, based on a 1% agarose gel. The result indicated the correct integration of the fused kanamycin selectable marker-phage T5 promoter DNA fragment along with  P. stewartii  crtE gene into the inter-operon region located at 81.2 min of  E. coli  chromosome, yielding  E. coli  kan-P T5 -crtE. 
+ Example 9 
+ Chromosomal Integration of the  P. stewartii  crtl and crtB Genes in  E. coli  P T5 -crtE for Construction of  E. coli  P T5 -crtEIB 
+ The linear DNA fragment containing the fused kanamycin selectable marker-phage T5 promoter- P. stewartii  crtE gene was synthesized by PCR from the genomic DNA of  E. coli  kan-P T5 -crtE with primer pairs, T10 (SEQ ID NO:40) which contains a priming sequence (26 bp) corresponding to the 162 bases in the upstream region of the integration site of the fused kanamycin selectable marker-phage T5 promoter-crtE gene in  E. coli  and B1(crtlB) (5′- TCCTCCAGCATTAAGCCTGCCGTCGCCTT TTAACTGACGGCAGCG AGTTTTTTGTC-3′; SEQ ID NO:42) which contains an h13 homology arm (underlined, 29 bp) chosen to match sequences in the downstream region of the crt/start codon and a priming sequence (27 bp)( FIG. 6 ). The linear DNA fragment containing  P. stewartii  crtlB gene was synthesized by PCR from pPCB15 (SEQ ID NO:49) with primer pairs, T2(crtlB) (5′- TTTGACAAAAAACTCGCTGCCGTCAGTTAA AAGGCGACGGCAGGCTT AATGCTG-3′; SEQ ID NO:43) which contains an h14 homology arm ( FIG. 6 ) (underlined, 30 bp) chosen to match a sequence in the 3′-end region of the fused kanamycin selectable marker-phage T5 promoter-crtE gene and a priming sequence (24 bp) and B2(crtlB) (5′- AGAATGACCAGCTGGATGCATTATCTTTATTTGGATCATTGAGGG CTA GATCGGGCGCTGCCAGA-3′; SEQ ID NO:44) which contains an h12 homology arm (underlined, 45 bp) ( FIG. 6 ) chosen to match a sequence in the inter-operon region located at 81.2 min of the  E. coli  chromosome and a priming sequence (20 bp). The underlined sequences illustrate each respective homology arm, while the remainder is the priming sequences for hybridization to complementary nucleotide sequences on the template DNA for the PCR reaction. The two resultant PCR fragments were the fused kanamycin selectable marker-phage T5 promoter- P. stewartii  crtE gene containing the homology region (162 bp) at the 5′-end and homology arm (h13), and the  P. stewartii  crtlB genes containing the homology arms (h14 and h12) as illustrated in  FIG. 6 . 
+ The PCR amplification, purification, and electro-transformation were performed as described above except for the omission of transforming the host cell with the reporter plasmid, pPCB15. Both the fused kanamycin selectable marker-phage T5 promoter- P. stewartii  crtE gene PCR products (5–10 μg) and the  P. stewartii  crtlB PCR products (5–10 μg) were co-transformed into an  E. coli  host cell expressing the λ-Red recombinase system by electroporation as previously described. Transformants were selected on 25 μg/mL of kanamycin LB plates at 37° C. After incubating the plate at 37° C. overnight, one kanamycin resistant transformant was selected. The kanamycin selectable marker was eliminated as described in Example 6. 
+ The selected transformant was PCR analyzed with different combinations of specific primer pairs, T10 and T2 (5′-CAGTCATAGCCGAATAGCCT-3′; SEQ ID NO:45), T2(T5) (5′-CGGTGCCCTGAATGAACTGC-3′; SEQ ID NO:46) and T12 (5′-CTAGATCGGGCGCTGCCAGAGATGA-3′; SEQ ID NO:47), T11(5′-ACACGTTCACCTTACTGGCATTTCG-3′; SEQ ID NO:48) and T13, and T10 and T13. Test primers were chosen to amplify sequences located either in the vicinity of the integration region of the kanamycin selectable marker-phage T5 promoter-crtE fragment or the crtlB genes as shown on  FIG. 7 . PCR analysis was performed under same PCR reaction condition as described in Example 5. PCR test with T10 and T2, T2(T5) and T12, T11 and T13, and T10 and T13 exhibited the expected sizes, 676 bp, 3472 bp, 3478 bp and 5288 bp on 1% agarose gel, respectively. The elimination of the kanamycin selectable marker was confirmed by PCR fragment analysis. PCR fragment analysis with primer pair T10 and T2 exhibited no product formation as expected. PCR analysis with primer pairs T2(T5) and T12, T 11 and T13, and T10 and T13 exhibited the expected PCR product sizes of 3472 bp, 3478 bp, and 3895 bp on 1% agarose gel, respectively. The results indicated the correct integration of the fused phage P T5  promoter- P. stewartii  crtE gene DNA fragment and  P. stewartii  crtlB genes into the inter-operon region located at 81.2 min of  E. coli  chromosome, yielding  E. coli  P T5 -crtEIB. 
+ The functional expression of the constructed  E. coli  P T5 -crtEIB was tested by the synthesis of lycopene based on the production of pink pigment. After extracting lycopene with acetone as described in Example 3, the lycopene production by  E. coli  P T5 -crtEIB strain also was confirmed by measuring the spectra of lycopene with its characteristic λ max  peaks at 444, 470 and 502 nm. 
+ Example 10 
+ Production of Tetradehydrolycopene in 
+ E. coli P T5 -dxs, P T5 -idi, P T5 -ispDF P T5 -crtEIB 
+   E. coli  P T5 -dxs, P T5 -idi, P T5 -ispDF, P T5 -crtEIB was constructed by P1 transduction in combination with the FLP recombination system. P1 lysate from the  E. coli  kan-P T5 -crtEIB strain was transduced into the recipient strain,  E. coli  P T5 -dxs P T5 -idi, P T5  ispDF as described in Example 6. Sixteen kanamycin-resistance transductants were selected. The kanamycin selectable marker was eliminated from the chromosome of the transductant using a FLP recombinase expression system as described above, yielding  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF P T5 -crtEIB strain (WS156). WS156 (MG1655 P T5 -dxs, P T5 -idi, P T5 -ispDF, P T5 -crtEIB) exhibited darker pink color and produced much more lycopene since it also contained additional copies of upstream isoprenoid pathway genes on the chromosome that increased the flux of carotenoid synthesis. WS156 (Kan s ) was thus chosen as the host for tetradehydrolycopene production. Plasmid pTrcHis2-crtl-515, expressing a mutated crtl gene on pTrcHis2, was transformed into WS156 (Kan s ) and transformants were selected on plates with 100 μg/mL ampicillin. Cells were grown in 100 mL TB (Terrific Broth) shaking at 37° C. for 20 hours and harvested by centrifugation. Cell pellets were extracted with acetone and analyzed by HPLC as described previously. WS156 (Kan s ) host alone produced only one pigment that eluted at 11.6 min with absorption spectra as 447 nm, 470 nm, and 502 nm. This is identical to that of the authentic lycopene standard. WS156 (Kan s ) containing pTrcHis2-crtl-515 produced two major pigments. The new peak, comprising 44% of the total pigments, eluted at 10.2 min with absorption spectra as 485 nm, 509 nm, 543 nm. This spectra is consistent with that of tetradehydrolycopene. The other peak that eluted at 11.6 min was lycopene. 
+ Example 11 
+ Production of Tetradehydrolycopene By Fermentation 
+ The plasmids pTrcHis2-Crtl-515 and pDCQ51 were transferred by electroporation into  E. coli  P T5 -dxs, P T5 -idi, P T5 -ispDF (WS140), resulting in the  E. coli  strain DPR646. 
+ DPR646 was pre-cultured for seeding a fermentor in 500 mL of 2×YT medium (10 g/L yeast extract, 16 g/L tryptone, 10 g/L NaCl and 20 g/L glucose) in a 2 L Erlenmeyer flask, containing 100 mg/mL ampicillin and 50 mg/mL kanamycin. The seed culture was started from a single colony on LB agar +100 mg/mL ampicillin and 50 mg/mL kanamycin. The seed culture was grown at 35° C. in a shaker at 300 rpm until an absorbance at 550 nm of 4–8 was reached. This initial culture was used to seed the fermentor. 
+ The following components were sterilized together in the fermentor vessel: 10 mL/L Modified Balch's Trace element solution, 5 g/L yeast extract, 0.2 g/L CaCl 2 .2H 2 O, 0.3 g/L ferric ammonium citrate, 2 g/L MgSO 4 .7H 2 O, 2 g/L citric acid, 7.5 g/L KH 2 PO 4 , 1.2 g/L sulfuric acid and 0.8 mL/L Mazu DF204 as an antifoam. After sterilization, the pH was raised to 6.8 with 40% NH 4 OH. The concentration of ampicillin was brought to 100 g/L and the concentration of kanamycin was brought to 50 mg/mL. Two hundred forty six grams of a 65% glucose solution was added post vessel sterilization to give a 20 g/L initial concentration in the fermentor. Modified Balch's Trace elements contained 4 g/L citric acid.H 2 0, 3 g/L MnSO 4 .H 2 0, 1 g/L NaCl, 0.1 g/L FeSO 4 .7H 2 O, 0.1 g/L ZnSO 4 .7H 2 O, 0.001 g/L CuSO 4 .5H 2 O, 0.001 g/L H 3 BO 3 , and 0.001 g/L NaMoO 4 .2H 2 O. After inoculation, the volume was 8 L and the glucose concentration was 20 g/L. 
+ A 10-L stirred tank fermentor was prepared with the medium described above. Eight hours into the fermentation run, when the glucose concentration fell below 1 g/L, a 10% fructose bolus was added at a rate of 20 mL/min until 1 L was added. The temperature was controlled at 37° C. and the pH was maintained at 6.8 with NH 4 OH and H 3 PO 4 . Back pressure was manually controlled at 0.5 bar (7.5 psig). The dissolved oxygen set point was 10%. Nine liters of cell culture was harvested. 
+ In order to calculate the amount of tetradehydrolycopene formed during fermentation, the molar absorbance (ε M ) at 550 nm was estimated since no values have been published. Based on the hyperchromic effect of the increasing number of double bonds in the carotenoid backbone and on the molar absorbance of the highest peak II of carotenoids with an increasing number of conjugated double bonds (phytoene, 3 conjugated double bonds, ε M= =68,000 M −1 ; phytofluene, 5 conjugated double bonds, ε M= =73,000 M −1 ; zeta-carotene, 7 conjugated double bonds, ε M= =138,000 M −1 ; neurosporene, 9 conjugated double bonds, ε M= =157,000 M −1  and lycopene,11 conjugated double bonds, ε M= =185,000 M −1 ) the molar absorbance for the middle peak (peak 11) of tetradehydrolycopene (15 conjugated double bonds can be estimated to be around 240,000 M −1 ). Knowing that the absorbance of tetradehydrolycopene at the third peak (peak III, 509 nm) is 85% of the absorbance at 550 nm, a wavelength where the absorption of lycopene is negligible ( FIG. 8 ), the molar absorbance of tetradehydrolycopene at 550 nm is estimated to be around 200,000 M −1 . 
+ For quantification of the tetradehydrolycopene formed, 0.5 g of cell slurry (20% dry weight, 0.1 g dry weight) was extracted with 8 mL of acetone. The absorbance of the acetone fraction at 550 nm measured to be 0.8 AU, corresponding to a tetradehydrolycopene concentration of 170 μg per gram of dry cells. In the 10-L fermentor, 114 g of cells (dry weight) were produced corresponding to a total amount of 19 mg of tetradehydrolycopene (167 ppm). The acetone was dried under nitrogen and the carotenoids were resuspended in 1 mL of methanol for HPLC analysis. The HPLC analysis was carried out as described above. There were two major peaks, and two minor peaks seen by HPLC ( FIG. 3 ). The first major peak,  peak  2, which accounted for 26.3% of the total carotenoid, was tetradehydrolycopene. The spectra for tetradehydrolycopene, from 450 nm −600 nm is seen in  FIG. 8 . The second major peak,  peak  4, which accounted for 65.2% of the total carotenoid, was lycopene. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

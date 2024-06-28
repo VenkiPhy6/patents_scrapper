@@ -1,0 +1,548 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  本開示は、フェノール産生微生物およびこれを用いたフェノールの製造方法に関する。より詳しくは、増強されたフェノール産生能を示す遺伝子変異微生物等に関する。
+ 
+  The present disclosure relates to a phenol-producing microorganism and a method for producing phenol using the same. More specifically, the present invention relates to genetically modified microorganisms and the like that exhibit enhanced phenol-producing ability.
+ 
+ 
+ 
+ 
+ 
+   
+  化学品製造分野において、石油由来の原料からバイオマス由来の原料への転換が図られている。特許文献１には、糖代謝経路が改変された微生物を用いてグルコースからフェノールを発酵生産する技術が開示されている。この技術によるフェノールの生産量は、バッチ生産で1 g/L程度とされている。
+ 
+  In the field of chemical manufacturing, efforts are being made to switch from petroleum-derived raw materials to biomass-derived raw materials. Patent Document 1 discloses a technology for fermentatively producing phenol from glucose using a microorganism with a modified sugar metabolic pathway. The production amount of phenol using this technology is estimated to be around 1 g/L in batch production.
+ 
+ 
+ 
+ 
+ 
+ 
+   再表２０１７－０３３９６５号 Retable No. 2017-033965 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  本開示は、バイオマスからのフェノールの製造に利用可能な技術を提供することを主な目的とする。
+ 
+  The main objective of the present disclosure is to provide a technology that can be used for the production of phenol from biomass.
+ 
+ 
+ 
+ 
+ 
+   
+  上記課題解決のため、本開示は、以下の［１］－［１８］を提供する。 
+［１］  フェノール産生能を有する微生物を親株とし、該親株に対して導入された遺伝子変異を有する変異株であり、 
+  フェノールを含有する培地での培養で、前記親株よりも改善された生育を示し、 
+  バイオマスの発酵に用いられて、前記親株よりも増強されたフェノール産生能を示す、フェノール産生微生物。 
+［２］  フェノールを含有する培地での培養開始48時間後に、前記親株に比して180%以上改善された生育を示す、［１］のフェノール産生微生物。 
+［３］  バイオマスの発酵開始70時間後に、前記親株に比して150%以上増強されたフェノール産生能を示す、［１］又は［２］のフェノール産生微生物。 
+［４］  バイオマスの発酵開始70時間後の培地中へのフェノール蓄積量が1.2g/L以上である、［１］－［３］のいずれかのフェノール産生微生物。 
+［５］  バイオマスの発酵におけるフェノールの空時収率が0.01gL -1 h -1 以上である、［１］－［４］のいずれかのフェノール産生微生物。 
+［６］  前記親株が、発現可能に導入された７－ホスホ－２－デヒドロ－３－デオキシアラビノヘプトン酸アルドラーゼ（aroG）遺伝子、トランスケトラーゼ（tktA）遺伝子、コリスミ酸ムターゼ／プレフェン酸デヒドロゲナーゼ（tyrA）遺伝子、ホスホエノールピルビン酸シンターゼ（ppsA）遺伝子およびチロシンフェノールリアーゼ（TPL）遺伝子を有する、［１］－［５］のいずれかのフェノール産生微生物。
+ In order to solve the above problems, the present disclosure provides the following [1] to [18].  [1] A mutant strain that uses a microorganism capable of producing phenol as a parent strain and has a genetic mutation introduced into the parent strain,  exhibiting improved growth than the parent strain when cultured in a medium containing phenol;  A phenol-producing microorganism that is used for fermentation of biomass and exhibits enhanced phenol production ability than the parent strain.  [2] The phenol-producing microorganism according to [1], which exhibits growth that is 180% or more improved compared to the parent strain 48 hours after the start of culture in a medium containing phenol.  [3] The phenol-producing microorganism according to [1] or [2], which exhibits a phenol-producing ability that is 150% or more enhanced compared to the parent strain 70 hours after the start of biomass fermentation.  [4] The phenol-producing microorganism according to any one of [1] to [3], wherein the amount of phenol accumulated in the medium 70 hours after the start of biomass fermentation is 1.2 g/L or more.  [5] The phenol-producing microorganism according to any one of [1] to [4], which has a space-time yield of phenol in fermentation of biomass of 0.01 gL  -1  h  -1  or more.  [6] The parent strain has 7-phospho-2-dehydro-3-deoxyarabinoheptonate aldolase (aroG) gene, transketolase (tktA) gene, chorismate mutase/prephenate dehydrogenase ( tyrA) gene, a phosphoenolpyruvate synthase (ppsA) gene, and a tyrosine phenollyase (TPL) gene, the phenol-producing microorganism according to any one of [1] to [5]. 
+ 
+ 
+   
+［７］  フェノール産生能を有する親株に遺伝子変異を導入して変異株を得る工程と、 
+  前記変異株をフェノールを含有する培地で培養する工程と、 
+  前記培養において、前記親株よりも改善された生育を示す変異株をフェノール産生微生物として選択する工程と、により得られ、 
+バイオマスの発酵に用いられて、前記親株よりも増強されたフェノール産生能を示す、 
+フェノール産生微生物。 
+［８］  フェノールを含有する培地での培養開始48時間後に、前記親株に比して180%以上改善された生育を示す、［７］のフェノール産生微生物。 
+［９］  バイオマスの発酵開始70時間後に、前記親株に比して150%以上増強されたフェノール産生能を示す、［８］又は［９］のフェノール産生微生物。 
+［１０］  バイオマスの発酵開始70時間後の培地中へのフェノール蓄積量が1.2g/L以上である、［７］－［９］のいずれかのフェノール産生微生物。 
+［１１］  バイオマスの発酵におけるフェノールの空時収率が0.01gL -1 h -1 以上である、［７］－［１０］のいずれかのフェノール産生微生物。 
+［１２］  前記親株が、発現可能に導入された７－ホスホ－２－デヒドロ－３－デオキシアラビノヘプトン酸アルドラーゼ（aroG）遺伝子、トランスケトラーゼ（tktA）遺伝子、コリスミ酸ムターゼ／プレフェン酸デヒドロゲナーゼ（tyrA）遺伝子、ホスホエノールピルビン酸シンターゼ（ppsA）遺伝子およびチロシンフェノールリアーゼ（TPL）遺伝子を有する、［７］－［１１］のいずれかのフェノール産生微生物。
+ [7] Obtaining a mutant strain by introducing a genetic mutation into a parent strain having phenol-producing ability;  Cultivating the mutant strain in a medium containing phenol;  In the culture, selecting a mutant strain showing improved growth than the parent strain as a phenol-producing microorganism,  used for fermentation of biomass and exhibits enhanced phenol production ability than the parent strain;  Phenol-producing microorganisms.  [8] The phenol-producing microorganism according to [7], which shows growth that is 180% or more improved compared to the parent strain 48 hours after the start of culture in a medium containing phenol.  [9] The phenol-producing microorganism according to [8] or [9], which exhibits a phenol-producing ability that is 150% or more enhanced compared to the parent strain 70 hours after the start of biomass fermentation.  [10] The phenol-producing microorganism according to any one of [7] to [9], wherein the amount of phenol accumulated in the medium 70 hours after the start of biomass fermentation is 1.2 g/L or more.  [11] The phenol-producing microorganism according to any one of [7] to [10], which has a space-time yield of phenol in biomass fermentation of 0.01 gL  -1  h  -1  or more.  [12] The parent strain has 7-phospho-2-dehydro-3-deoxyarabinoheptonate aldolase (aroG) gene, transketolase (tktA) gene, chorismate mutase/prephenate dehydrogenase ( tyrA) gene, a phosphoenolpyruvate synthase (ppsA) gene, and a tyrosine phenollyase (TPL) gene, the phenol-producing microorganism according to any one of [7] to [11]. 
+ 
+ 
+   
+［１３］  大腸菌MCP1.1株（受領番号：ＮＩＴＥ  ＡＢＰ－０３８３３）。 
+［１４］  大腸菌MCP1.1.1株（受領番号：ＮＩＴＥ  ＡＢＰ－０３８１５）。 
+［１５］  大腸菌MCP1.1株又はMCP1.1.1株の変異株又は組換え株であって、フェノール産生能を有する大腸菌株。
+ [13] Escherichia coli MCP1.1 strain (receipt number: NITE ABP-03833).  [14] Escherichia coli MCP1.1.1 strain (receipt number: NITE ABP-03815).  [15] An E. coli strain that is a mutant or recombinant strain of E. coli MCP1.1 or MCP1.1.1 and has phenol-producing ability. 
+ 
+ 
+   
+［１６］  ［１］－［１５］のいずれかのフェノール産生微生物を用いてバイオマスの発酵によりフェノールを製造する方法。 
+［１７］  ［１６］の製造方法により得られるフェノール。 
+［１８］  構成炭素原子10 12 個あたり炭素14放射性同位体が0.8個以上含まれる、［１７］のフェノール。
+ [16] A method for producing phenol by fermentation of biomass using the phenol-producing microorganism according to any one of [1] to [15].  [17] Phenol obtained by the production method of [16].  [18] The phenol of [17], which contains 0.8 or more carbon-14 radioactive isotopes per 10  to 12  constituent carbon atoms. 
+ 
+ 
+ 
+ 
+   
+  本開示により、バイオマスからのフェノールの製造に利用可能な技術が提供される。
+ 
+  The present disclosure provides techniques that can be used to produce phenol from biomass.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   フェノール産生株MCP1のフェノール蓄積量の経時的な測定結果を示す（実施例１）。 The results of measuring the amount of phenol accumulated over time in the phenol-producing strain MCP1 are shown (Example 1). 
+ 
+ 
+   フェノール高産生株MCP1.1のフェノール存在下での菌体増殖の経時的な測定結果を示す（実施例２）。 The results of measuring cell growth over time in the presence of phenol of the high phenol producing strain MCP1.1 are shown (Example 2). 
+ 
+ 
+   フェノール高産生株MCP1.1のフェノール蓄積量の経時的な測定結果を示す（実施例２）。 The results of measuring the amount of phenol accumulated over time in the high phenol producing strain MCP1.1 are shown (Example 2). 
+ 
+ 
+   フェノール高産生株MCP1.1.1のフェノール存在下での菌体増殖の経時的な測定結果を示す（実施例３）。 The results of measuring cell growth over time in the presence of phenol of the high phenol producing strain MCP1.1.1 are shown (Example 3). 
+ 
+ 
+   フェノール高産生株MCP1.1.1のフェノール蓄積量の経時的な測定結果を示す（実施例３）。 The results of measuring the amount of phenol accumulated over time in the high phenol producing strain MCP1.1.1 are shown (Example 3). 
+ 
+ 
+ 
+ 
+ 
+   
+  以下、本開示を実施するための好適な形態について説明する。なお、以下に説明する実施形態は、本開示の代表的な実施形態の一例を示したものであり、これにより本開示の範囲が狭く解釈されることはない。
+ 
+  Hereinafter, preferred forms for carrying out the present disclosure will be described. Note that the embodiment described below is an example of a typical embodiment of the present disclosure, and the scope of the present disclosure should not be interpreted narrowly thereby.
+ 
+ 
+ 
+   
+  本開示に係るフェノール高産生微生物は、以下の特徴を備える。 
+（１）フェノール産生能を有する微生物を親株とし、該親株に対して導入された遺伝子変異を有する。 
+（２）フェノールを含有する培地での培養で、前記親株よりも改善された生育を示す。 
+（３）バイオマスの発酵に用いられて、前記親株よりも増強されたフェノール産生能を示す。
+ The high phenol producing microorganism according to the present disclosure has the following characteristics.  (1) A microorganism capable of producing phenol is used as a parent strain, and a genetic mutation is introduced into the parent strain.  (2) Shows improved growth compared to the parent strain when cultured in a medium containing phenol.  (3) It is used for biomass fermentation and exhibits enhanced phenol production ability than the parent strain. 
+ 
+ 
+   
+［親株］ 
+  親株は、フェノール産生能を有する微生物であればよく特に限定されない。 
+  フェノール産生能を有する野生株としては、例えば以下の微生物が挙げられる。 
+  Escherichia coliなどのEscherichia属細菌；Pseudomonas putidaなどのPseudomonas属細菌；Corynebacterium glutamicumなどのCorynebacterium属細菌；Bacillus subtilisなどのBacillus属細菌；Pichia pastorisなどのPichia属酵母；Saccharomyces cerevisiaeなどのSaccharomyces属酵母；Aspergillus oryzae、Aspergillus nidulans及びAspergillus nigerなどのAspergillus属糸状菌。 
+  微生物には、これらから選択される１種を単独で、又は２種以上を組み合わせて使用できる。また、微生物は、市販の株あるいは野生株に限定されず、UV照射や化学処理等の通常用いられる変異処理により得られる変異株、細胞融合もしくは遺伝子組換え法などの遺伝学的手法により誘導される組換え株などのいずれの株であっても良い。
+ [Parent stock]  The parent strain is not particularly limited as long as it is a microorganism capable of producing phenol.  Examples of wild strains having phenol-producing ability include the following microorganisms.  Escherichia genus bacteria such as Escherichia coli; Pseudomonas genus bacteria such as Pseudomonas putida; Corynebacterium genus bacteria such as Corynebacterium glutamicum; Bacillus genus bacteria such as Bacillus subtilis; Pichia genus yeast such as Pichia pastoris; Saccharomyces genus yeast such as Saccharomyces cerevisiae; Aspergillus oryzae , Aspergillus nidulans and Aspergillus niger.  As the microorganism, one type selected from these can be used alone, or two or more types can be used in combination. In addition, microorganisms are not limited to commercially available strains or wild-type strains, but also mutant strains obtained by commonly used mutation treatments such as UV irradiation and chemical treatments, and those induced by genetic methods such as cell fusion or genetic recombination methods. Any strain such as a recombinant strain may be used. 
+ 
+ 
+   
+  親株は、フェノール産生能を増強するための遺伝子改変が施された変異株であってもよい。 
+  このような遺伝子改変としては、チロシンの生成に関与する酵素の活性強化、チロシンのフェノールへの変換に関与する酵素の活性強化、チロシン及びフェノールを分解する酵素をコードする遺伝子の破壊、生成物を細胞外へ排出する輸送蛋白質の発現強化などが挙げられる。
+ The parent strain may be a mutant strain that has been genetically modified to enhance phenol production ability.  Such genetic modifications include enhancement of the activity of enzymes involved in the production of tyrosine, enhancement of the activity of enzymes involved in the conversion of tyrosine to phenol, disruption of genes encoding enzymes that degrade tyrosine and phenol, and destruction of genes encoding enzymes that degrade tyrosine and phenol. Examples include enhancing the expression of transport proteins that are excreted to the outside of cells. 
+ 
+ 
+   
+  酵素の活性強化は、該酵素をコードする遺伝子の導入により遺伝子の発現量を増大させること、遺伝子のプロモーター活性を強化することによって遺伝子を強発現させること、あるいは遺伝子のリプレッサー活性を低減化又は不活化することによって発現量を増大させることを含む。 
+  遺伝子導入等は従来公知の分子生物学的手法に従って行うことができる。酵素活性の強化、およびフィードバック阻害の解除の有無は、微生物の無細胞抽出液あるいは精製酵素を用いた活性測定により確認できる。
+ Enhancement of enzyme activity can be achieved by increasing the expression level of the gene by introducing a gene encoding the enzyme, strongly expressing the gene by strengthening the promoter activity of the gene, or reducing or reducing the repressor activity of the gene. This includes increasing the expression level by inactivation.  Gene introduction etc. can be performed according to conventionally known molecular biological techniques. Enzyme activity enhancement and release of feedback inhibition can be confirmed by activity measurement using a cell-free microbial extract or purified enzyme. 
+ 
+ 
+   
+  チロシン生成能を増強するための遺伝子改変として、７－ホスホ－２－デヒドロ－３－デオキシアラビノヘプトン酸アルドラーゼ（aroG）遺伝子、トランスケトラーゼ（tktA）遺伝子、コリスミ酸ムターゼ／プレフェン酸デヒドロゲナーゼ（tyrA）遺伝子及びホスホエノールピルビン酸シンターゼ（ppsA）遺伝子の活性強化が挙げられる。
+ 
+  Genetic modifications to enhance tyrosine production ability include the 7-phospho-2-dehydro-3-deoxyarabinoheptonate aldolase (aroG) gene, the transketolase (tktA) gene, and the chorismate mutase/prephenate dehydrogenase (tyrA) gene. ) gene and the phosphoenolpyruvate synthase (ppsA) gene.
+ 
+ 
+ 
+   
+  ７－ホスホ－２－デヒドロ－３－デオキシアラビノヘプトン酸アルドラーゼ（aroG）は、Ｄ－エリスロース－４－リン酸、ホスホエノールピルビン酸及び水から、７－ホスホ－２－デヒドロ－３－デオキシアラビノヘプトン酸及び無機リン酸を生じる酵素遺伝子である。本酵素は、フェニルアラニンにより活性が阻害されることが知られている。本開示に用いられる７－ホスホ－２－デヒドロ－３－デオキシアラビノヘプトン酸アルドラーゼには、フェニルアラニンによる阻害を解除するための変異が導入されていることが望ましい。そのような変異としては公知のものが利用できるが、例えば、Escherichia coli由来の酵素（uniport id: P0AB91）におけるD146N変異、F209S変異などが挙げられる。
+ 
+  7-phospho-2-dehydro-3-deoxyarabinoheptonate aldolase (aroG) is a 7-phospho-2-dehydro-3-deoxy This is an enzyme gene that produces arabinoheptonic acid and inorganic phosphate. It is known that the activity of this enzyme is inhibited by phenylalanine. The 7-phospho-2-dehydro-3-deoxyarabinoheptonate aldolase used in the present disclosure preferably has a mutation introduced therein to relieve inhibition by phenylalanine. Known mutations can be used as such mutations, such as the D146N mutation and F209S mutation in the enzyme derived from Escherichia coli (uniport ID: P0AB91).
+ 
+ 
+ 
+   
+  トランスケトラーゼ（tktA）は、フルクトース－６－リン酸とグリセルアルデヒド－３－リン酸から、エリスロース－４－リン酸及びキシルロース－５－リン酸を生じる酵素である。
+ 
+  Transketolase (tktA) is an enzyme that generates erythrose-4-phosphate and xylulose-5-phosphate from fructose-6-phosphate and glyceraldehyde-3-phosphate.
+ 
+ 
+ 
+   
+  コリスミ酸ムターゼ／プレフェン酸デヒドロゲナーゼ（tyrA）は、コリスミ酸とNAD+から、３－（４－ヒドロキシフェニル）ピルビン酸、NADH及び二酸化炭素を生じる酵素である。本酵素は、チロシンにより活性が阻害されることが知られている。本開示に用いられるコリスミ酸ムターゼ／プレフェン酸デヒドロゲナーゼには、チロシンによる阻害を解除するための変異が導入されていることが望ましい。そのような変異としては公知のものが利用できるが、例えば、Escherichia coli由来の酵素（uniport id: P07023）におけるM53I変異、A354V変異などが挙げられる。
+ 
+  Chorismate mutase/prephenate dehydrogenase (tyrA) is an enzyme that generates 3-(4-hydroxyphenyl)pyruvate, NADH, and carbon dioxide from chorismate and NAD+. It is known that the activity of this enzyme is inhibited by tyrosine. It is desirable that a mutation is introduced into the chorismate mutase/prephenate dehydrogenase used in the present disclosure to release inhibition by tyrosine. Known mutations can be used as such mutations, such as the M53I mutation and A354V mutation in the enzyme derived from Escherichia coli (uniport ID: P07023).
+ 
+ 
+ 
+   
+  ホスホエノールピルビン酸シンターゼ（ppsA）は、ピルビン酸、ATP及び水から、ホスホエノールピルビン酸、AMP及び無機リン酸を生じる酵素である。
+ 
+  Phosphoenolpyruvate synthase (ppsA) is an enzyme that generates phosphoenolpyruvate, AMP, and inorganic phosphate from pyruvate, ATP, and water.
+ 
+ 
+ 
+   
+  フェノール生成能を増強するための遺伝子改変として、チロシンフェノールリアーゼ（TPL）遺伝子の活性強化が挙げられる。TPL（EC 4.1.99.2）は、ピリドキサールリン酸を補酵素とし、チロシンの炭素―炭素結合を開裂してフェノール、ピルビン酸及びアンモニアを生じる酵素である。 
+  チロシンフェノールリアーゼは、特に限定されないが、例えばEnterobacteriaceae、Clostridiaceae、Fusobacteriaceae、Morganellaceae、Pasteurellaceaeのいずれかの科に属する微生物由来の酵素が挙げられる。 
+  また、チロシンフェノールリアーゼは、環境メタゲノム等から見出された配列であって、上記能力を有する酵素であっても良い。
+ Genetic modification to enhance phenol production ability includes enhancing the activity of the tyrosine phenol lyase (TPL) gene. TPL (EC 4.1.99.2) is an enzyme that uses pyridoxal phosphate as a coenzyme and cleaves the carbon-carbon bond of tyrosine to produce phenol, pyruvate, and ammonia.  Examples of tyrosine phenol lyase include, but are not limited to, enzymes derived from microorganisms belonging to any of the families Enterobacteriaceae, Clostridiaceae, Fusobacteriaceae, Morganellaceae, and Pasteurellaceae.  Further, tyrosine phenol lyase may be an enzyme having the above-mentioned ability, which is a sequence found from environmental metagenomics or the like. 
+ 
+ 
+   
+  Enterobacteriaceaeに属する微生物は、Citrobacter属、Pantoea属、Klebsiella属のいずれかの属に属する微生物であってよい。 
+  Citrobacter属に属する微生物として、C. freundii、C. koseri、C. youngaeが挙げられる。 
+  Pantoea属に属する微生物として、P. ananatis、P. allii、P. agglomeransが挙げられる。 
+  Klebsiella属に属する微生物として、K. oxytoca、K. africana、K. quasivariicola、K. werkmaniiが挙げられる。
+ The microorganism belonging to Enterobacteriaceae may be a microorganism belonging to any one of the genus Citrobacter, Pantoea, and Klebsiella.  Examples of microorganisms belonging to the genus Citrobacter include C. freundii, C. koseri, and C. youngae.  Microorganisms belonging to the genus Pantoea include P. ananatis, P. allii, and P. agglomerans.  Microorganisms belonging to the genus Klebsiella include K. oxytoca, K. africana, K. quasivariicola, and K. werkmanii. 
+ 
+ 
+   
+  Clostridiaceaeに属する微生物は、Clostridium属、Tindallia属のいずれかの属に属する微生物であってよい。 
+  Clostridium属に属する微生物として、C. saccharolyticum、C. tetani、 C. tetanomorphum、 C. malenominatum、C. cochlearium、C. liquoris、C. pascui、C. cadaverisが挙げられる。 
+  Tindallia属に属する微生物として、T. cariforniensis、T. magadiensis、T. texcoconensisが挙げられる。
+ The microorganism belonging to Clostridiaceae may be a microorganism belonging to either the genus Clostridium or the genus Tindallia.  Microorganisms belonging to the genus Clostridium include C. saccharolyticum, C. tetani, C. tetanomorphum, C. malenominatum, C. cochlearium, C. liquoris, C. pascui, and C. cadaveris.  Microorganisms belonging to the genus Tindallia include T. cariforniensis, T. magadiensis, and T. texcoconensis. 
+ 
+ 
+   
+  Fusobacteriaceaeに属する微生物は、Fusobacterium属に属する微生物であってよい。 
+  Fusobacteriumに属する微生物として、F. varium、F. necrophorum、F. nucleatum、F.russiiが挙げられる。
+ The microorganism belonging to Fusobacteriaceae may be a microorganism belonging to the genus Fusobacterium.  Microorganisms belonging to Fusobacterium include F. varium, F. necrophorum, F. nucleatum, and F. russii. 
+ 
+ 
+   
+  Morganellaceaeに属する微生物は、Morganella属に属する微生物であってよい。 
+  Morganella属に属する微生物として、M. morganii、M. psychrotoleransが挙げられる。
+ The microorganism belonging to Morganellaceae may be a microorganism belonging to the genus Morganella.  Microorganisms belonging to the genus Morganella include M. morganii and M. psychrotolerans. 
+ 
+ 
+   
+  Pasteurellaceaeに属する微生物は、Aggregatibacter属、Pasteurella属のいずれかに属する微生物であってよい。 
+  Aggregatibacter属に属する微生物として、A. actinomycetemcomitans、A. aphrophilus、A. kilianiiが挙げられる。 
+  Pasteurella属に属する微生物として、P. multocida、P. skyensisが挙げられる。
+ The microorganism belonging to Pasteurellaceae may be a microorganism belonging to either the genus Aggregatibacter or the genus Pasteurella.  Examples of microorganisms belonging to the genus Aggregatibacter include A. actinomycetemcomitans, A. aphrophilus, and A. kilianii.  Examples of microorganisms belonging to the genus Pasteurella include P. multocida and P. skyensis. 
+ 
+ 
+   
+  チロシンフェノールリアーゼは、上述の種に由来する野生型酵素にアミノ酸変異を導入し、チロシンからフェノールへの反応を触媒する活性を付与あるいは増強した変異型酵素であってもよい。
+ 
+  Tyrosine phenol lyase may be a mutant enzyme in which amino acid mutations are introduced into the wild-type enzyme derived from the above-mentioned species to impart or enhance the activity of catalyzing the reaction from tyrosine to phenol.
+ 
+ 
+ 
+   
+［フェノール高産生微生物］ 
+  上述のフェノール産生能を有する親株に遺伝子変異を導入し、フェノール存在下での培養により親株に比して改善された生育を示す変異株を選択することにより、フェノール高産生微生物を得ることができる。
+ [High phenol producing microorganisms]  A high phenol-producing microorganism can be obtained by introducing a genetic mutation into the above-mentioned parent strain with phenol-producing ability and selecting a mutant strain that exhibits improved growth compared to the parent strain when cultured in the presence of phenol. . 
+ 
+ 
+   
+  親株への遺伝子変異の導入は、従来公知の手法によって行うことができ、例えばUV変異原を用いた突然変異処理法や、エチルメタンスルホン酸（EMS）等の化学的変異原を用いた突然変異処理法を適用できる。
+ 
+  Genetic mutations can be introduced into the parent strain by conventionally known methods, such as mutation treatment using UV mutagens or mutation using chemical mutagens such as ethyl methanesulfonic acid (EMS). Processing methods can be applied.
+ 
+ 
+ 
+   
+  本開示に係るフェノール高産生微生物が変異を有し得る遺伝子としては以下が挙げられる。 
+  コイリスミ酸ピルビン酸－リアーゼ（Chorismate pyruvate-lyase） 
+  4-ヒドロキシ安息香酸デカルボキシラーゼ（4-hydroxybenzoate decarboxylase） 
+  イソコリスミン酸シンターゼ（Isochorismate synthase） 
+  イソコリスミ酸ピルビン酸－リアーゼ（Isochorismate pyruvate-lyase） 
+  サリチル酸デカルボキシラーゼ（Salicylate decarboxylase） 
+  チロシンフェノール-リアーゼ（tyrosine phenol-lyase） 
+  グルコキナーゼ（Glucokinase） 
+  ホスホフルクトキナーゼ（6-phosphofructokinase） 
+  トランスケトラーゼ（Transaldolase B） 
+  3-デヒドロキネートデヒドラターゼ（3-dehydroquinate dehydratase） 
+  3-デヒドロキネートシンターゼ（3-dehydroquinate synthase） 
+  シキミ酸デヒドロゲナーゼ（Shikimate dehydrogenase） 
+  シキミ酸キナーゼ（Shikimate kinase） 
+  3-ホスホシキミ酸-1-カルボキシビニルトランスフェラーゼ（3-phosphoshikimate 1-carboxyvinyltransferase） 
+  コリスミ酸シンターゼ（chorismate synthase） 
+  ピルビン酸キナーゼ（Pyruvate kinase） 
+  多剤耐性蛋白質（Multiple antibiotic resistance protein） 
+  病原性関連外膜蛋白質（Outer membrane protein） 
+  多剤輸送蛋白質（Multidrug export protein）
+ Examples of genes in which the high phenol-producing microorganism according to the present disclosure may have mutations include the following.  Chorismate pyruvate-lyase  4-hydroxybenzoate decarboxylase  Isochorismate synthase  Isochorismate pyruvate-lyase  Salicylate decarboxylase  tyrosine phenol-lyase  Glucokinase  Phosphofructokinase (6-phosphofructokinase)  Transketolase (Transaldolase B)  3-dehydroquinate dehydratase  3-dehydroquinate synthase  Shikimate dehydrogenase  Shikimate kinase  3-phosphoshikimate 1-carboxyvinyltransferase (3-phosphoshikimate 1-carboxyvinyltransferase)  chorismate synthase  Pyruvate kinase  Multiple antibiotic resistance protein  Pathogenesis-related outer membrane protein  Multidrug export protein 
+ 
+ 
+   
+  本開示に係るフェノール高産生微生物の具体例として、大腸菌MCP1.1株及びMCP1.1.1株が挙げられる。これらは、特許法施行規則第２７条の２及び３の規定に基づく寄託機関であり、微生物の寄託の国際的承認に関するブダペスト条約に基づく国際寄託当局である、独立行政法人製品評価技術基盤機構  特許微生物寄託センター（ＮＰＭＤ）（千葉県木更津市かずさ鎌足２－５－８  １２２号室）に国際寄託されている。受領番号は、それぞれＮＩＴＥ  ＡＢＰ－０３８３３（受領日２０２３年２月２２日）、ＮＩＴＥ  ＡＢＰ－０３８１５（受領日２０２３年１月３１日）である。 
+  本開示に係るフェノール高産生微生物は、大腸菌MCP1.1株及びMCP1.1.1株にさらなる遺伝子変異を導入した変異株あるいは遺伝子導入を行った組換え株であってもよい。変異株及び組換え株は、フェノール存在下での生育性をさらに向上させる、又は、フェノール産生能をさらに向上させる、変異遺伝子又は外部遺伝子を発現するものとされ得る。
+ Specific examples of the high phenol producing microorganism according to the present disclosure include Escherichia coli MCP1.1 strain and MCP1.1.1 strain. These are the National Institute of Technology and Evaluation, which is a depository institution pursuant to the provisions of Article 27-2 and 3 of the Patent Law Enforcement Regulations, and an international depositary authority pursuant to the Budapest Treaty on the International Recognition of the Deposit of Microorganisms. It has been internationally deposited at the Microbial Depository Center (NPMD) (Room 122, 2-5-8 Kazusa Kamatari, Kisarazu City, Chiba Prefecture). The receipt numbers are NITE ABP-03833 (received February 22, 2023) and NITE ABP-03815 (received January 31, 2023).  The high phenol-producing microorganism according to the present disclosure may be a mutant strain of E. coli MCP1.1 strain and MCP1.1.1 strain in which further genetic mutations have been introduced, or a recombinant strain in which a gene has been introduced. The mutant strain and recombinant strain may express a mutant gene or an external gene that further improves growth in the presence of phenol or further improves the ability to produce phenol. 
+ 
+ 
+   
+［フェノール高耐性］ 
+  本開示に係るフェノール高産生微生物は、フェノールを含有する培地での培養で親株よりも改善された生育を示す。
+ [High phenol resistance]  The high phenol producing microorganism according to the present disclosure exhibits improved growth over the parent strain when cultured in a medium containing phenol. 
+ 
+ 
+   
+  培地中のフェノール濃度は、例えば0.1-1.0％、好ましくは0.1-0.5%、より好ましくは0.1-0.3%、特には0.2%であってよい。
+ 
+  The phenol concentration in the medium may be, for example, 0.1-1.0%, preferably 0.1-0.5%, more preferably 0.1-0.3%, especially 0.2%.
+ 
+ 
+ 
+   
+  親株に対する生育の改善は、親株と同じ培養条件下において、親株に比して110%、120%、130%、140%、150%、好ましくは160%、170%、180%、190%、200%、より好ましくは210%、220%、230%、240%、250%、特には260%、270%、280%、290%、300%以上の増殖速度を意味する。 
+  増殖速度は、例えば培養中に培養液の濁度を経時的に測定することにより評価できる。 
+  本開示に係るフェノール高産生微生物は、培養開始48時間後に、親株に比して110%、120%、130%、140%、150%、好ましくは160%、170%、180%、190%、200%、より好ましくは210%、220%、230%、240%、250%、特には260%、270%、280%、290%、300%以上の培養液濁度を示し得る。
+ Growth improvement over the parent strain is 110%, 120%, 130%, 140%, 150%, preferably 160%, 170%, 180%, 190%, 200% compared to the parent strain under the same culture conditions as the parent strain. %, more preferably 210%, 220%, 230%, 240%, 250%, especially 260%, 270%, 280%, 290%, 300% or more.  The growth rate can be evaluated, for example, by measuring the turbidity of the culture solution over time during culture.  The high phenol producing microorganism according to the present disclosure is 110%, 120%, 130%, 140%, 150%, preferably 160%, 170%, 180%, 190%, compared to the parent strain, 48 hours after the start of culture. It can exhibit a culture solution turbidity of 200%, more preferably 210%, 220%, 230%, 240%, 250%, particularly 260%, 270%, 280%, 290%, 300% or more. 
+ 
+ 
+   
+［フェノール高産生］ 
+  本開示に係るフェノール高産生微生物は、バイオマスの発酵に用いられて、親株よりも増強されたフェノール産生能を示す。
+ [High phenol production]  The high phenol producing microorganism according to the present disclosure is used for fermentation of biomass and exhibits enhanced phenol production ability than the parent strain. 
+ 
+ 
+   
+  親株よりも増強されたフェノール産生能は、親株と同じ発酵条件下において、親株に比して110%、120%、130%、140%、150%、好ましくは160%、170%、180%、190%、200%、より好ましくは210%、220%、230%、240%、250%、特には260%、270%、280%以上のフェノール産生量を意味する。 
+  フェノール産生量は、菌体から培地あるいは発酵水性媒体中へ分泌されるフェノールの蓄積量を測定することにより評価できる。フェノールは、培地あるいは発酵水性媒体を高速液体クロマトグラフィー及びＬＣ／ＭＳなどに適用することにより測定できる。 
+  本開示に係るフェノール高産生微生物は、発酵開始70時間後に、親株に比して110%、120%、130%、140%、150%、好ましくは160%、170%、180%、190%、200%、より好ましくは210%、220%、230%、240%、250%、特には260%、270%、280%以上の発酵水性媒体中へフェノール蓄積量を示し得る。 
+  また、本開示に係るフェノール高産生微生物は、発酵開始70時間後に、1.0g/L、1.1 g/L、1.2 g/L、好ましくは1.3 g/L、1.4 g/L、1.5 g/L、より好ましくは1.6 g/L、1.7 g/L、1.8 g/L、さらに好ましくは1.9 g/L、2.0 g/L、2.1 g/L、特に好ましくは2.2 g/L、2.3g/Lあるいはそれ以上の発酵水性媒体中へフェノール蓄積量を示し得る。
+ The phenol production ability enhanced over the parent strain is 110%, 120%, 130%, 140%, 150%, preferably 160%, 170%, 180%, compared to the parent strain under the same fermentation conditions as the parent strain. It means a phenol production amount of 190%, 200%, more preferably 210%, 220%, 230%, 240%, 250%, particularly 260%, 270%, 280% or more.  The amount of phenol produced can be evaluated by measuring the accumulated amount of phenol secreted from the bacterial cells into the culture medium or fermentation aqueous medium. Phenol can be measured by applying a culture medium or fermentation aqueous medium to high performance liquid chromatography, LC/MS, and the like.  The high phenol-producing microorganism according to the present disclosure is 110%, 120%, 130%, 140%, 150%, preferably 160%, 170%, 180%, 190%, compared to the parent strain 70 hours after the start of fermentation. 200%, more preferably 210%, 220%, 230%, 240%, 250%, especially 260%, 270%, 280% or more of phenol accumulation in the fermentation aqueous medium.  Further, the high phenol-producing microorganism according to the present disclosure can produce 1.0 g/L, 1.1 g/L, 1.2 g/L, preferably 1.3 g/L, 1.4 g/L, 1.5 g/L, 70 hours after the start of fermentation. More preferably 1.6 g/L, 1.7 g/L, 1.8 g/L, even more preferably 1.9 g/L, 2.0 g/L, 2.1 g/L, particularly preferably 2.2 g/L, 2.3 g/L or more. The amount of phenol accumulated in the fermentation aqueous medium can be shown as above. 
+ 
+ 
+   
+  本開示に係るフェノール高産生微生物は、0.01gL -1 h -1 、0.015gL -1 h -1 、好ましくは0.02 gL -1 h -1 、0.025gL -1 h -1 、より好ましくは0.03gL -1 h -1 あるいはそれ以上のフェノールの空時収率を示し得る。より具体的には、フェノールの空時収率は、バイオマスの発酵開始70時間後において、0.01gL -1 h -1 、0.015gL -1 h -1 、好ましくは0.02gL -1 h -1 、0.025gL -1 h -1 、より好ましくは0.03gL -1 h -1 あるいはそれ以上である。 
+  空時収率は、フェノールの蓄積量（g/L）を発酵開始後の時間（h）で除した値として算出される。
+ The high phenol producing microorganism according to the present disclosure has a production capacity of 0.01 gL  -1  h  -1  , 0.015 gL  -1  h  -1  , preferably 0.02 gL  -1  h  -1  , 0.025 gL  -1  h  -1  , more preferably 0.03 gL  -1  Space-time yields of phenol of  1  h  -1  or higher can be demonstrated. More specifically, the space-time yield of phenol is 0.01 gL  -1  h  -1  , 0.015 gL  -1  h  -1  , preferably 0.02 gL  -1  h  -1  , 0.025 70 hours after the start of biomass fermentation. gL  −1  h  −1  , more preferably 0.03 gL  −1  h  −1  or more.  The space-time yield is calculated as the accumulated amount of phenol (g/L) divided by the time (h) after the start of fermentation. 
+ 
+ 
+   
+［フェノール製造方法］ 
+  本開示は、上述のフェノール高産生微生物を用いてバイオマスの発酵によりフェノールを製造する方法をも提供する。
+ [Phenol production method]  The present disclosure also provides a method of producing phenol by fermentation of biomass using the above-described high phenol producing microorganism. 
+ 
+ 
+   
+  バイオマスは、動植物由来の有機性資源であって、エネルギーや物質に再生が可能であり、かつ、化石資源を除く資源を意味する。本開示において、バイオマスは、微生物の発酵に供され得る発酵性糖質を含む資源を特に意味する。発酵性糖質としては、特に限定されないが、グルコース、キシロース、スクロース、デンプン、廃糖蜜、グリセロール、リビトール、及びエリスリトールなどが挙げられる。バイオマスは、これらの発酵性糖質から誘導され得る又はこれらの発酵性糖質の代謝によって生じ得る、脂質、アミノ酸、有機酸及びアルコールを含んでもよい。これらのバイオマスは、１種を単独で、又は２種以上を組み合わせて使用することができる。
+ 
+  Biomass refers to organic resources derived from plants and animals that can be recycled into energy and materials, excluding fossil resources. In this disclosure, biomass specifically refers to resources containing fermentable carbohydrates that can be subjected to microbial fermentation. Examples of fermentable carbohydrates include, but are not limited to, glucose, xylose, sucrose, starch, blackstrap molasses, glycerol, ribitol, and erythritol. The biomass may include lipids, amino acids, organic acids, and alcohols that may be derived from or generated by the metabolism of these fermentable carbohydrates. These biomass can be used alone or in combination of two or more.
+ 
+ 
+ 
+   
+  発酵は、従来公知の手法により微生物を培養することによって行えばよく、微生物によるバイオマスの代謝によりフェノールが発酵水性媒体中へ分泌、蓄積される。 
+  培養に用いられるバイオマスを含む水性媒体（培地）は、微生物が増殖可能な、少なくとも一種類の炭素源を含む十分な栄養素を含む固形培地又は液体培地とされる。 
+  培地中のバイオマス原料の濃度は、フェノールを産生することができれば特に限定されない。濃度は、例えば、０．０５～２０（ｗ／ｖ）％、好ましくは０．１～１５（ｗ／ｖ）％、より好ましくは０．２～１０（ｗ／ｖ）％とされる。０．２（ｗ／ｖ）％以上用いるのは微生物のチロシン産生能が上昇するからであり、１０（ｗ／ｖ）％以下とするのはそれ以上添加しても飛躍的な効果の上昇が認められないからである。 
+  また、反応の進行に伴うバイオマスの減少にあわせ、バイオマスの追加添加を行っても良い。
+ Fermentation may be carried out by culturing microorganisms by a conventionally known method, and phenol is secreted and accumulated in the fermentation aqueous medium through the metabolism of biomass by the microorganisms.  The aqueous medium (medium) containing biomass used for culture is a solid medium or liquid medium containing sufficient nutrients, including at least one type of carbon source, in which microorganisms can grow.  The concentration of the biomass raw material in the medium is not particularly limited as long as it can produce phenol. The concentration is, for example, 0.05 to 20 (w/v)%, preferably 0.1 to 15 (w/v)%, more preferably 0.2 to 10 (w/v)%. The reason for using 0.2 (w/v)% or more is because the tyrosine production ability of microorganisms increases, and the reason for using 10 (w/v) or less is that even if it is added more than that, the effect will increase dramatically. This is because it is not recognized.  Furthermore, additional biomass may be added as the biomass decreases as the reaction progresses. 
+ 
+ 
+   
+  微生物による発酵プロセスは、生菌の増殖を伴うプロセスであっても、予め培養した菌を用いた休止菌体反応によるプロセスであってもよい。休止菌体反応には、予め培養した微生物の培養液をそのまま用いるか、あるいはろ過又は遠心分離などで回収した菌体を用いればよい。培養及び休止菌体反応は、従来公知の手法によって行えばよい。
+ 
+  The fermentation process using microorganisms may be a process that involves the growth of live bacteria or a process that involves a dormant cell reaction using previously cultured bacteria. For the dormant cell reaction, a culture solution of a microorganism cultured in advance may be used as it is, or cells recovered by filtration or centrifugation may be used. Cultivation and resting cell reaction may be performed by conventionally known methods.
+ 
+ 
+ 
+   
+［フェノール］ 
+  本開示は、上述したフェノールの製造方法によって得られるフェノールをも提供する。 
+  生成したフェノール及びその生成量は、高速液体クロマトグラフィー及びＬＣ／ＭＳなどの通常の方法を用いて検出し、測定することができる。フェノールは、ろ過、遠心分離、真空濃縮、イオン交換又は吸着クロマトグラフィー、溶媒抽出、蒸留及び結晶化などの周知の操作を必要に応じて適宜組み合わせて用いることにより分離・精製できる。
+ [Phenol]  The present disclosure also provides phenol obtained by the above-described method for producing phenol.  The produced phenol and its produced amount can be detected and measured using conventional methods such as high performance liquid chromatography and LC/MS. Phenol can be separated and purified by appropriately combining well-known operations such as filtration, centrifugation, vacuum concentration, ion exchange or adsorption chromatography, solvent extraction, distillation, and crystallization as necessary. 
+ 
+ 
+   
+  本開示に係るフェノールの製造方法において、出発原料としてバイオマスを用いる場合、得られるフェノールには、原料のバイオマスに由来する炭素14放射性同位体が含まれる。フェノールに含まれる炭素14放射性同位体の含量は、原料中のバイオマスと同等の水準となる。具体的には、構成炭素原子10 12 個あたり、0.8個以上、好ましくは1個以上の炭素14放射性同位体を含む。 
+  炭素14放射性同位体含量の測定には、公知の手法が利用できるが、例えばガスプロポーショナルカウンティング法、液体シンチレーションカウンティング法、加速器質量分析装置 (AMS）などが利用できる。石油資源を出発原料として得られるメチルフェノールは、炭素14放射性同位体を含まない。
+ In the method for producing phenol according to the present disclosure, when biomass is used as a starting material, the obtained phenol contains a carbon-14 radioactive isotope derived from the biomass as the raw material. The content of carbon-14 radioisotope contained in phenol is at the same level as the biomass in the raw material. Specifically, it contains 0.8 or more, preferably 1 or more, carbon-14 radioactive isotope per 10  12  constituent carbon atoms.  Known techniques can be used to measure the carbon-14 radioactive isotope content, such as gas proportional counting, liquid scintillation counting, and accelerator mass spectrometry (AMS). Methylphenol obtained from petroleum resources does not contain carbon-14 radioisotope. 
+ 
+ 
+ 
+   
+［実施例１：フェノール産生微生物の作製］ 
+  本実施例では、所定の各酵素として表１のものを用いた。
+ [Example 1: Production of phenol-producing microorganism]  In this example, those in Table 1 were used as each predetermined enzyme. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+（１）チロシン高産生株Tyr0の構築 
+  コリスミ酸ムターゼ／プレフェン酸デヒドロゲナーゼ（tyrA）変異遺伝子（A354V/M531L）、７－ホスホ－２－デヒドロ－３－デオキシアラビノヘプトン酸アルドラーゼ（aroG）変異遺伝子（D146N）、トランスケトラーゼ（tktA）遺伝子、ホスホエノールピルビン酸シンターゼ（ppsA）遺伝子の4つの遺伝子について、T7プロモーターおよび20塩基の相同配列を付加した配列番号6、7、8、9で示される塩基配列、および、配列番号10で示されるカナマイシン耐性遺伝子を有するIntegrationマーカーを合成した。 
+  得られた遺伝子断片を等モル量混合したものを鋳型とし、表２に記載された連結primer_for及び連結primer_revを用いたPCR反応を行って、各遺伝子が直列に結合した長鎖遺伝子断片を合成した。
+ (1) Construction of Tyr0, a high tyrosine producer D146N), transketolase (tktA) gene, and phosphoenolpyruvate synthase (ppsA) gene, the T7 promoter and bases shown in SEQ ID NOs: 6, 7, 8, and 9 with 20 bases of homologous sequence added. An integration marker having the sequence and kanamycin resistance gene shown in SEQ ID NO: 10 was synthesized.  A mixture of equimolar amounts of the obtained gene fragments was used as a template, and a PCR reaction was performed using the linked primer_for and linked primer_rev listed in Table 2 to synthesize long-chain gene fragments in which each gene was linked in series. . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  長鎖遺伝子断片を、大腸菌BL21(DE3)株の転写調節因子tyrRをコードするゲノム領域に挿入した。フリッパーゼの発現によりカナマイシンマーカー脱落させることで、チロシン高生産株Tyr0を得た。
+ 
+  The long gene fragment was inserted into the genomic region encoding the transcriptional regulator tyrR of E. coli BL21(DE3) strain. A high tyrosine producing strain Tyr0 was obtained by removing the kanamycin marker by expressing flippase.
+ 
+ 
+ 
+   
+  チロシン高生産株Tyr0のフリーズストックから一白金耳分を試験管に調製した3mLのLB培地に植菌し、30℃、180rpmで20時間振盪培養した。得られた培養液を200mLの三角フラスコに調製したLB培地40mLに植菌量2%となるように植菌し、30℃、180rpmで培養した。OD600が1.0に達した際に、IPTGが終濃度0.3mMになるよう培地に添加し、30℃、180rpmで40時間培養した。培養液を高速液体クロマトグラフィーにより分析したところ、3g/Lのチロシン蓄積量を有することが示された。
+ 
+  One platinum loopful of frozen stock of the high tyrosine producing strain Tyr0 was inoculated into 3 mL of LB medium prepared in a test tube, and cultured with shaking at 30°C and 180 rpm for 20 hours. The obtained culture solution was inoculated into 40 mL of LB medium prepared in a 200 mL Erlenmeyer flask so that the inoculum amount was 2%, and cultured at 30° C. and 180 rpm. When OD600 reached 1.0, IPTG was added to the medium to a final concentration of 0.3 mM, and cultured at 30°C and 180 rpm for 40 hours. Analysis of the culture fluid by high performance liquid chromatography showed that it had an accumulated amount of tyrosine of 3 g/L.
+ 
+ 
+ 
+   
+（２）フェノール産生株MCP1の作製 
+  Citrobacter freundii由来のチロシンフェノールリアーゼ（TPL）をコ一ドするDNA（配列番号１３）を合成した。合成したDNAを、発現ベクターpET28b(+) (Novagen)を表３に記載のプライマーVector_for及びVector_revで増幅することにより得られた線形ベクターに結合した。DNAを結合したベクターを用いて、大腸菌JM109(タカラバイオ)を形質転換し、培養した。コロニーを回収後、プラスミド抽出を行った。得られたプラスミドベクターを「TPL発現プラスミド」と命名した。
+ (2) Creation of phenol-producing strain MCP1  DNA (SEQ ID NO: 13) encoding tyrosine phenol lyase (TPL) derived from Citrobacter freundii was synthesized. The synthesized DNA was ligated to a linear vector obtained by amplifying the expression vector pET28b(+) (Novagen) with the primers Vector_for and Vector_rev listed in Table 3. Escherichia coli JM109 (Takara Bio) was transformed using the DNA-bound vector and cultured. After collecting colonies, plasmid extraction was performed. The obtained plasmid vector was named "TPL expression plasmid". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  チロシン高生産株Tyr0を氷上で融解し、（２）で作製したTPL発現プラスミドの溶液を混合して氷上で10分間静置した。42℃で20秒間ヒートショックを加えた後、再度氷冷し、SOC培地を添加した。37℃で1時間振盪培養を行った後、LB寒天培地（カナマイシン硫酸塩50mg/L含有）に塗布し、37℃で20時間静置培養を行った。得られたコロニーをLB培地（カナマイシン硫酸塩50mg/L含有）が10mL入った50mL培養チューブにとり、30℃、180rpmで20時間振盪培養した。得られた培養液を2×YT培地(1.6% Bacto Tryptone、1% Yeast extract、4% グルコース)400mLを含む1Lジャーファーメンター（エイブル）に植菌量2%となるように植菌し、培養温度30℃、撹拌回転数500rpm、通気量1vvm(volume per volume per minute)、pH=7.0に制御した条件にて70時間培養した。中和剤としては1M NaOH水を用いた。
+ 
+  The high tyrosine producing strain Tyr0 was thawed on ice, and the solution of the TPL expression plasmid prepared in (2) was mixed and allowed to stand on ice for 10 minutes. After applying heat shock at 42°C for 20 seconds, the mixture was cooled on ice again and SOC medium was added. After culturing with shaking at 37°C for 1 hour, it was applied to an LB agar medium (containing 50 mg/L of kanamycin sulfate), and statically cultured at 37°C for 20 hours. The obtained colony was placed in a 50 mL culture tube containing 10 mL of LB medium (containing 50 mg/L of kanamycin sulfate), and cultured with shaking at 30° C. and 180 rpm for 20 hours. The obtained culture solution was inoculated into a 1 L jar fermenter (Able) containing 400 mL of 2×YT medium (1.6% Bacto Tryptone, 1% Yeast extract, 4% glucose) so that the inoculum amount was 2%, and cultured. Culture was carried out for 70 hours at a temperature of 30°C, stirring speed of 500 rpm, aeration rate of 1 vvm (volume per volume per minute), and pH = 7.0. 1M NaOH water was used as a neutralizing agent.
+ 
+ 
+ 
+   
+（３）フェノール蓄積量の測定 
+  培地中のフェノール蓄積量の測定は、UPLC-MS(Waters)を用いて行なった。カラムにはAcquity UPLC BEH C18 1.7μm 2.1×50mm(Waters)を使用した。移動相として0.1%ギ酸を含む水とアセトニトリル(流速0.2mL/min、カラム温度40℃)を用いて表４に示すグラジエントプログラムにより溶出させ、271nmのUV吸収をモニタリングすることでフェノールを検出、定量した。
+ (3) Measurement of phenol accumulation amount The phenol accumulation amount in the medium was measured using UPLC-MS (Waters). Acquity UPLC BEH C18 1.7 μm 2.1×50 mm (Waters) was used as the column. Elute with the gradient program shown in Table 4 using water containing 0.1% formic acid and acetonitrile (flow rate 0.2 mL/min, column temperature 40 °C) as the mobile phase, and detect and quantify phenol by monitoring UV absorption at 271 nm. did. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  培養25－70時間のフェノール蓄積量の経時的な測定結果を図１に示す。培養終点でのフェノール酸蓄積量は、制御pH=7.0の条件で0.8g/Lであった。得られた株をMCP1株と命名した。
+ 
+  Figure 1 shows the results of measuring the amount of phenol accumulated over time during 25-70 hours of culture. The amount of phenolic acid accumulated at the end of the culture was 0.8 g/L under the control pH=7.0 condition. The obtained strain was named MCP1 strain.
+ 
+ 
+ 
+   
+［実施例２：フェノール高産生微生物の作製とフェノール生産］ 
+（１）UV変異原を用いた突然変異処理法によるフェノール高産生株MCP1.1の作製 
+  実施例１で作製したフェノール産生株MCP1を親株として、紫外線を用いた突然変異処理法によりフェノール高耐性を示す変異株を取得した。
+ [Example 2: Creation of highly phenol-producing microorganisms and phenol production]  (1) Creation of high phenol producing strain MCP1.1 by mutation treatment method using UV mutagen Using the phenol producing strain MCP1 created in Example 1 as the parent strain, high phenol tolerance was developed by mutation treatment method using ultraviolet light. The mutant strains shown were obtained. 
+ 
+ 
+   
+  MCP1株を紫外光にて処理後、30℃、20時間、遮光振盪培養した。培養液をLB寒天培地に塗布し、37℃で2日間静地培養した。コロニーを単離し、各ウェル0.2%フェノールを含む500μLのLB培地が入った96ウェルプレートに植菌し、48時間培養し、濁度(OD600)を測定した。親株と比較して1.4倍以上の濁度を示した変異株2株を、0.2%フェノールを含む2mLのLB培地が入った15mL培養チューブに植菌し、37℃、72時間振盪培養した。
+ 
+  After treating the MCP1 strain with ultraviolet light, it was cultured with shaking at 30°C for 20 hours in the dark. The culture solution was applied to an LB agar medium and statically cultured at 37°C for 2 days. Colonies were isolated and inoculated into a 96-well plate containing 500 μL of LB medium containing 0.2% phenol in each well, cultured for 48 hours, and turbidity (OD600) was measured. Two mutant strains that exhibited turbidity 1.4 times higher than the parent strain were inoculated into 15 mL culture tubes containing 2 mL of LB medium containing 0.2% phenol, and cultured with shaking at 37°C for 72 hours.
+ 
+ 
+ 
+   
+  培養24－72時間の濁度の経時的な測定結果を図２に示す。培養開始48時間時点で変異株は親株と比較して1.8倍の増殖速度を有することが示された。得られた株をMCP1.1株と命名した。 
+  MCP1.1株は、特許法施行規則第２７条の２及び３の規定に基づく寄託機関であり、微生物の寄託の国際的承認に関するブダペスト条約に基づく国際寄託当局である、独立行政法人製品評価技術基盤機構  特許微生物寄託センター（ＮＰＭＤ）（千葉県木更津市かずさ鎌足２－５－８  １２２号室）に国際寄託されている。上記株の受領番号はＮＩＴＥ  ＡＢＰ－０３８３３であり、受領日は２０２３年２月２２日である。
+ Figure 2 shows the results of measuring turbidity over time during 24-72 hours of culture. At 48 hours after the start of culture, the mutant strain was shown to have a growth rate 1.8 times that of the parent strain. The obtained strain was named MCP1.1 strain.  The MCP1.1 strain is a depository institution based on the provisions of Article 27-2 and 3 of the Patent Law Enforcement Regulations, and an international depositary authority based on the Budapest Treaty on the International Recognition of the Deposit of Microorganisms. It has been internationally deposited at the Japan Patent Microorganism Depositary Center (NPMD) (Room 122, 2-5-8 Kazusa Kamatari, Kisarazu City, Chiba Prefecture). The receipt number of the above stock is NITE ABP-03833 and the date of receipt is February 22, 2023. 
+ 
+ 
+   
+（２）フェノール高産生株MCP1.1によるフェノール生産 
+  MCP1.1株のフリーズストックから一白金耳分を試験管に調製したLB培地（カナマイシン硫酸塩50mg/L含有）が10mL入った50mL培養チューブにとり、30℃、180rpmで20時間振盪培養した。得られた培養液を2×YT培地(1.6% Bacto Tryptone、1% Yeast extract、4% グルコース)400mLを含む1Lジャーファーメンター（エイブル）に植菌量2%となるように植菌し、培養温度30℃、撹拌回転数500rpm、pH=7.0に制御した条件にて、70時間培養した。中和剤としては1M NaOH水を用いた。
+ (2) Phenol production by high phenol producing strain MCP1.1  One platinum loopful of the frozen stock of MCP1.1 strain was placed in a 50 mL culture tube containing 10 mL of LB medium (containing 50 mg/L of kanamycin sulfate) prepared in a test tube, and cultured with shaking at 30°C and 180 rpm for 20 hours. The obtained culture solution was inoculated into a 1 L jar fermenter (Able) containing 400 mL of 2×YT medium (1.6% Bacto Tryptone, 1% Yeast extract, 4% glucose) so that the inoculum amount was 2%, and cultured. Culture was carried out for 70 hours at a temperature of 30°C, stirring speed of 500 rpm, and pH=7.0. 1M NaOH water was used as a neutralizing agent. 
+ 
+ 
+   
+  培養25－70時間のフェノール蓄積量の経時的な測定結果を図３に示す。培養終点（培養開始70時間時点）でのフェノール酸蓄積量は、制御pH=7.0の条件で1.2g/Lであった。フェノールの空時収率は、0.017gL -1 h -1 であった。
+ Figure 3 shows the results of measuring the amount of phenol accumulated over time during 25-70 hours of culture. The amount of phenolic acid accumulated at the end of the culture (70 hours after the start of culture) was 1.2 g/L under the condition of controlled pH=7.0. The space-time yield of phenol was 0.017 gL  -1  h  -1  . 
+ 
+ 
+   
+［実施例３：フェノール高産生微生物の作製とフェノール生産２］ 
+（１）化学的変異原を用いた突然変異処理法によるフェノール高産生株MCP1.1.1の作製 
+  実施例２で作製したフェノール高産生株MCP1.1を親株として、化学変異原を用いた突然変異処理法によりフェノール高耐性を示す変異株を取得した。
+ [Example 3: Creation of high phenol producing microorganisms and phenol production 2]  (1) Production of high phenol producing strain MCP1.1.1 by mutation treatment method using chemical mutagen Using the high phenol production strain MCP1.1 prepared in Example 2 as the parent strain, mutation treatment using chemical mutagen A mutant strain exhibiting high phenol tolerance was obtained by the method. 
+ 
+ 
+   
+  MCP1.1株をエチルメタンスルホン酸(EMS)にて処理した後、菌を洗浄した。菌体懸濁液をLB培地に植菌し、37℃で20時間振盪培養した。培養液をLB寒天培地に塗布し、37℃で20時間静置培養した。コロニーを単離し、0.2%フェノールを含む2mLのLB培地が入った15mL培養チューブに植菌し、37℃、72時間振盪培養した。
+ 
+  After treating the MCP1.1 strain with ethyl methanesulfonic acid (EMS), the bacteria were washed. The bacterial cell suspension was inoculated into LB medium and cultured with shaking at 37°C for 20 hours. The culture solution was applied to an LB agar medium and cultured stationary at 37°C for 20 hours. A colony was isolated, inoculated into a 15 mL culture tube containing 2 mL of LB medium containing 0.2% phenol, and cultured with shaking at 37°C for 72 hours.
+ 
+ 
+ 
+   
+  培養24－72間の濁度の経時的な測定結果を図４に示す。培養開始48時間時点でMCP1株と比較して3倍の増殖速度を有することが示された。得られた株をMCP1.1.1株と命名した。 
+  MCP1.1.1株は、特許法施行規則第２７条の２及び３の規定に基づく寄託機関であり、微生物の寄託の国際的承認に関するブダペスト条約に基づく国際寄託当局である、独立行政法人製品評価技術基盤機構  特許微生物寄託センター（ＮＰＭＤ）（千葉県木更津市かずさ鎌足２－５－８  １２２号室）に国際寄託されている。上記株の受領番号はＮＩＴＥ  ＡＢＰ－０３８１５であり、受領日は２０２３年１月３１日である。
+ Figure 4 shows the measurement results of turbidity over time during culture 24-72. It was shown that the growth rate was 3 times that of the MCP1 strain at 48 hours after the start of culture. The obtained strain was named MCP1.1.1 strain.  The MCP1.1.1 strain is a depository institution based on the provisions of Article 27-2 and 3 of the Patent Law Enforcement Regulations, and an international depository authority based on the Budapest Treaty on the International Recognition of the Deposit of Microorganisms. It has been internationally deposited at the Japan Patent Microorganism Depositary Center (NPMD) (Room 122, 2-5-8 Kazusa Kamatari, Kisarazu City, Chiba Prefecture). The receipt number of the above stock is NITE ABP-03815 and the date of receipt is January 31, 2023. 
+ 
+ 
+   
+（２）フェノール高産生株MCP1.1.1によるフェノール生産 
+  MCP1.1.1株のフリーズストックから一白金耳分を試験管に調製したLB培地（カナマイシン硫酸塩50mg/L含有）が10mL入った50mL培養チューブにとり、30℃、180rpmで20時間振盪培養した。得られた培養液を2×YT培地(1.6% Bacto Tryptone、1% Yeast extract、4% グルコース)400mLを含む1Lジャーファーメンター（エイブル）に植菌量2%となるように植菌し、培養温度30℃、撹拌回転数500rpm、pH=7.0に制御した条件にて、74時間培養した。中和剤としては1M NaOH水を用いた。
+ (2) Phenol production by high phenol producing strain MCP1.1.1  A loopful of the frozen stock of MCP1.1.1 strain was placed in a 50 mL culture tube containing 10 mL of LB medium (containing 50 mg/L of kanamycin sulfate) prepared in a test tube, and cultured with shaking at 180 rpm at 30°C for 20 hours. The obtained culture solution was inoculated into a 1 L jar fermenter (Able) containing 400 mL of 2×YT medium (1.6% Bacto Tryptone, 1% Yeast extract, 4% glucose) so that the inoculum amount was 2%, and cultured. Culture was carried out for 74 hours at a temperature of 30°C, a stirring speed of 500 rpm, and a pH of 7.0. 1M NaOH water was used as a neutralizing agent. 
+ 
+ 
+   
+  培養20－74時間のフェノール蓄積量の経時的な測定結果を図５に示す。培養開始70時間時点でのフェノール酸蓄積量は、制御pH=7.0の条件で2.3g/Lであった。フェノールの空時収率は、0.033gL -1 h -1 であった。
+ Figure 5 shows the results of measuring the amount of phenol accumulated over time during 20-74 hours of culture. The amount of phenolic acid accumulated at 70 hours from the start of culture was 2.3 g/L under the control pH=7.0 condition. The space-time yield of phenol was 0.033 gL  -1  h  -1  . 
+ 
+ 
+ 
+ 
+ 
+   
+配列番号１：Escherichia coli由来変異型tyrAのアミノ酸配列 
+配列番号２：Escherichia coli由来変異型aroGのアミノ酸配列 
+配列番号３：Escherichia coli由来野生型tktAのアミノ酸配列 
+配列番号４：Escherichia coli由来野生型ppsAのアミノ酸配列 
+配列番号５：Citrobacter freundii由来野生型チロシンフェノールリアーゼのアミノ酸配列 
+配列番号６：Escherichia coli由来変異型tyrA遺伝子発現カセットの塩基配列 
+配列番号７：Escherichia coli由来変異型aroG遺伝子発現カセットの塩基配列 
+配列番号８：Escherichia coli由来野生型tktA遺伝子発現カセットの塩基配列 
+配列番号９：Escherichia coli由来野生型ppsA遺伝子発現カセットの塩基配列 
+配列番号１０：カナマイシン耐性遺伝子発現カセットの塩基配列 
+配列番号１１：連結用プライマーprimer_forの塩基配列 
+配列番号１２：連結用プライマーprimer_revの塩基配列 
+配列番号１３：TPLインサートの塩基配列 
+配列番号１４：プライマーVector_forの塩基配列 
+配列番号１５：プライマーVector_revの塩基配列
+ SEQ ID NO: 1: Amino acid sequence of mutant tyrA derived from Escherichia coli SEQ ID NO: 2: Amino acid sequence of mutant aroG derived from Escherichia coli SEQ ID NO: 3: Amino acid sequence of wild type tktA derived from Escherichia coli SEQ ID NO: 4: Amino acid sequence of wild type ppsA derived from Escherichia coli Amino acid sequence SEQ ID NO: 5: Amino acid sequence of wild type tyrosine phenol lyase derived from Citrobacter freundii SEQ ID NO: 6: Base sequence of mutant tyrA gene expression cassette derived from Escherichia coli SEQ ID NO: 7: Base sequence of mutant aroG gene expression cassette derived from Escherichia coli No. 8: Base sequence of wild type tktA gene expression cassette derived from Escherichia coli SEQ ID NO: 9: Base sequence of wild type ppsA gene expression cassette derived from Escherichia coli SEQ ID NO: 10: Base sequence of kanamycin resistance gene expression cassette SEQ ID NO: 11: Primer for ligation Base sequence of primer_for SEQ ID NO: 12: Base sequence of ligation primer primer_rev SEQ ID NO: 13: Base sequence of TPL insert SEQ ID NO: 14: Base sequence of primer Vector_for SEQ ID NO: 15: Base sequence of primer Vector_rev 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

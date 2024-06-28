@@ -1,0 +1,1673 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This application is a Continuation-In-Part of U.S. patent application Ser. No. 11/265,761, filed Nov. 2, 2005, and claims the benefit of U.S. Provisional Application No. 60/624,812, filed Nov. 4, 2004, the disclosures of which are hereby incorporated by reference in their entirety. 
+ FIELD OF THE INVENTION 
+ This invention is in the field of biotechnology. More specifically, this invention pertains to the identification of a nucleic acid fragment isolated from  Mortierella alpina  encoding a lysophosphatidic acid acyltransferase (LPAAT). This enzyme (identified herein as “MaLPAAT1”) is useful for altering the C 18  to C 20  elongation conversion efficiency and/or Δ4 desaturation conversion efficiency in oleaginous organisms expressing C 18/20  elongase and/or Δ4 desaturase for synthesis of long-chain polyunsaturated fatty acids [“LC-PUFAs”]. 
+ BACKGROUND OF THE INVENTION 
+ Glycerophospholipids, the main component of biological membranes, contain a glycerol core with fatty acids attached as R groups at the sn-1 position and sn-2 position, and a polar head group joined at the sn-3 position via a phosphodiester bond. The specific polar head group (e.g., phosphatidic acid, chlorine, ethanolamine, glycerol, inositol, serine, cardiolipin) determines the name given to a particular glycerophospholipid, thus resulting in phosphatidylcholines [“PC”], phosphatidylethanolamines [“PE”], phosphatidylglycerols [“PG”], phosphatidylinositols [“PI”], phosphatidylserines [“PS”] and cardiolipins [“CL”]. Glycerophospholipids possess tremendous diversity, not only resulting from variable phosphoryl head groups, but also as a result of differing chain lengths and degrees of saturation of their fatty acids. Generally, saturated and monounsaturated fatty acids are esterified at the sn-1 position, while polyunsaturated fatty acids are esterified at the sn-2 position. 
+ Glycerophospholipid biosynthesis is complex. Table 1 below summarizes the steps in the de novo pathway, originally described by Kennedy and Weiss ( J. Biol. Chem.,  222.193-214 (1956)): 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+   
+ 
+ 
+ General Reactions Of de Novo Glycerophospholipid Biosynthesis 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ sn-Glycerol-3-Phosphate 
+ Glycerol-3-phosphate acyltransferase (GPAT) [E.C. 
+ 
+ 
+ → Lysophosphatidic Acid 
+ 2.3.1.15] esterifies 1st acyl-CoA to sn-1 position of 
+ 
+ 
+ (1-acyl-sn-glycerol 3- 
+ sn-glycerol 3-phosphate 
+ 
+ 
+ phosphate or “LPA”) 
+ 
+ 
+ LPA → Phosphatidic Acid 
+ Lysophosphatidic acid acyltransferase (LPAAT) [E.C. 
+ 
+ 
+ (1,2-diacylglycerol 
+ 2.3.1.51] esterifies 2nd acyl-CoA to sn-2 position of 
+ 
+ 
+ phosphate or “PA”) 
+ LPA 
+ 
+ 
+ PA → 1,2-Diacylglycerol 
+ Phosphatidic acid phosphatase [E.C. 3.1.3.4] 
+ 
+ 
+ (“DAG”) 
+ removes a phosphate from PA; DAG can 
+ 
+ 
+ Or 
+ subsequently be converted to PC, PE or 
+ 
+ 
+ PA → Cytidine Diphosphate 
+ triacylglycerols [“TAG”], wherein TAG synthesis 
+ 
+ 
+ Diacylglycerol 
+ requires either a diacylglycerol acyltransferase 
+ 
+ 
+ (“CDP-DG”) 
+ (DGAT) [E.C. 2.3.1.20] or a 
+ 
+ 
+   
+ phospholipid: diacylglycerol acyltransferase (PDAT) 
+ 
+ 
+   
+ [E.C.2.3.1.158] 
+ 
+ 
+   
+ CDP-diacylglycerol synthase [EC 2.7.7.41] causes 
+ 
+ 
+   
+ condensation of PA and cytidine triphosphate, with 
+ 
+ 
+   
+ elimination of pyrophosphate; CDP-DG can subsequently 
+ 
+ 
+   
+ be converted to PI, PS, PG or CL 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Following their de novo synthesis, glycerophospholipids can undergo rapid turnover of the fatty acyl composition at the sn-2 position. This “remodeling”, or “acyl editing”, is important for membrane structure and function, biological response to stress conditions, and manipulation of fatty acid composition and quantity in biotechnological applications. Specifically, the remodeling has been attributed to deacylation of the glycerophospholipid and subsequent reacylation of the resulting lysophospholipid. 
+ In the Lands' cycle (Lands, W. E.,  J. Biol. Chem.,  231:883-888 (1958)), remodeling occurs through the concerted action of a phospholipase, such as phospholipase A 2 , that releases fatty acids from the sn-2 position of phosphatidylcholine and acyl-CoA:lysophospholipid acyltransferases [“LPLATs”], such as lysophosphatidylcholine acyltransferase [“LPCAT”] that reacylates the Iysophosphatidylcholine [“LPC”] at the sn-2 position. Other glycerophospholipids can also be involved in the remodeling with their respective lysophospholipid acyltransferase activity, including LPLAT enzymes having lysophosphatidylethanolamine acyltransferase [“LPEAT”] activity, lysophosphatidylserine acyltransferase [“LPSAT”] activity, lysophosphatidylglycerol acyltransferase [“LPGAT”] activity and lysophosphatidylinositol acyltransferase [“LPIAT”] activity. In all cases, LPLATs are responsible for removing acyl-CoA fatty acids from the cellular acyl-CoA pool and acylating various lysophospholipid substrates at the sn-2 position in the phospholipid pool. Finally, LPLATs also include LPAAT enzymes that are involved in the de novo biosynthesis of PA from LPA. 
+ Several recent reviews by Shindou et al. provide an overview of glycerophospholipid biosynthesis and the role of LPLATs ( J. Biol. Chem.,  284(1):1-5 (2009);  J. Lipid Res.,  50:S46-S51 (2009)). Numerous LPLATs have been reported in public and patent literature, based on a variety of conserved motifs. 
+ The effect of LPLATs on polyunsaturated fatty acid [“PUFA”] production has also been contemplated, since fatty acid biosynthesis requires rapid exchange of acyl groups between the acyl-CoA pool and the phospholipid pool. Specifically, desaturations occur mainly at the sn-2 position of phospholipids, while elongation occurs in the acyl-CoA pool. For example, Example 16 of Intl. App. Pub. No. WO 2004/087902 (Renz et al.) describes the isolation of  Mortierella alpina  LPAAT-like proteins (encoded by the proteins of SEQ ID NO:31 and SEQ ID NO:33, having 417 amino acids in length or 389 amino acids in length, respectively) that are identical except for an N-terminal extension of 28 amino acid residues in SEQ ID NO:31. Intl. App. Pub. No. WO 2004/087902 also reports an increase in the efficiency of C 18  to C 20  elongation, an increase in Δ6 desaturation, and an increase in long-chain PUFA biosynthesis when one of these  Mortierella alpina  LPAAT-like proteins was expressed in an engineered strain of  Saccharomyces cerevisiae  that was fed exogenous 18:2 and α-linolenic [“ALA”; 18:3] fatty acids, that resulted in a large amount of the fatty acid substrates. Intl. App. Pub. No. WO 2004/087902 teaches that these improvements are due to reversible LPCAT activity in the LPAAT-like proteins and that not all LPAAT-like proteins have the LPCAT activity. Similar results were obtained upon expression of a LPCAT from  Caenorhabditis elegans  (clone T06E8.1) (Example 4 of Intl. App. Pub. No. WO 2004/087902; see also Intl. App. Pub. No. WO 2004/076617). 
+ Numerous other references generally describe benefits of co-expressing LPLATs with PUFA biosynthetic genes, to increase the amount of a desired fatty acid in the oil of a transgenic organism, increase total oil content or selectively increase the content of desired fatty acids (e.g., Intl. App. Pub. Nos. WO 2004/076617, WO 2006/069936, WO 2006/052870, WO 2009/001315, WO 2009/014140). 
+ Considerable efforts have focused on isolating LPLATs from the filamentous fungus,  Mortierella alpina . In addition to the LPAAT proteins set forth as SEQ ID NO:31 and SEQ ID NO:33 (supra, isolated from Intl. App. Pub. No. WO 2004/087902), a variety of additional LPAAT homologs from  Mortierella alpina  have been described. For example, MaLPAAT3 (329 amino acids in length; SEQ ID NO:34 [SEQ ID NO:2 therein]) and MaLPAAT4 (313 amino acids in length; SEQ ID NO:35 [SEQ ID NO:4 therein]) are described in Intl. App. Pub. No. WO 2008/146745 (Suntory). U.S. Pat. No. 7,189,559 also describes a LPAAT homolog from  Mortierella alpina  of 308 amino acid residues (SEQ ID NO:37 [SEQ ID NO:2 therein]). 
+ Despite the work described above, a novel LPAAT gene from the filamentous fungus  Mortierella alpina  is described herein. This gene is clearly differentiated from those  M. alpina  LPAAT-like sequences provided in the art and its expression has been demonstrated to improve the C 18  to C 20  elongation conversion efficiency, Δ4 desaturation conversion efficiency, and production of LC-PUFAs in oleaginous organisms expressing C 18/20  elongase and Δ4 desaturase for synthesis of long-chain PUFAs. 
+ SUMMARY OF THE INVENTION 
+ In one embodiment the invention concerns an isolated nucleic acid molecule encoding a polypeptide having lysophosphatidic acid acyltransferase activity, selected from the group consisting of:
+         (a) an isolated nucleic acid molecule encoding the amino acid sequence substantially as set forth in SEQ ID NO:2;   (b) an isolated nucleic acid molecule that hybridizes with (a) under the following hybridization conditions: 0.1×SSC, 0.1% SDS, 65° C. and washed with 2×SSC, 0.1% SDS followed by 0.1×SSC, 0.1% SDS; or,   (c) an isolated nucleic acid molecule that is completely complementary to (a) or (b).       
+ In a second embodiment, the invention concerns an isolated nucleic acid molecule comprising at least one nucleotide sequence selected from the group consisting of: 
+ (a) a nucleotide sequence encoding a lysophosphatidic acid acyltransferase enzyme of at least 314 amino acids that has at least 44% identity based on the BLAST method of alignment when compared to a polypeptide having the sequence as set forth in SEQ ID NO:2; and 
+ (b) a nucleotide sequence comprising the complement of (a). 
+ In a third embodiment, the invention concerns a recombinant DNA construct comprising the isolated nucleic acid molecule of the invention operably linked to at least one regulatory sequence. 
+ In a fourth embodiment, the invention concerns a transformed host cell comprising the recombinant DNA construct of the invention. Suitable host cells can be selected from the group consisting of bacteria, yeast, algae, stramenopiles, oomycetes, euglenoids, fungi and plants. In a preferred embodiment, the yeast is an oleaginous yeast and the oleaginous yeast can be selected from the group consisting of:  Yarrowia, Candida, Rhodotorula, Rhodospordium, Cryptococcus, Trichosporon  and  Lipomyces . More specifically, the host cell is  Yarrowia lipolytica.    
+ BIOLOGICAL DEPOSITS 
+ The following biological material was made under the terms of the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure: 
+                             Biological Material   Accession Number   Date of Deposit                           Yarrowia lipolytica  Y4128   ATCC PTA-8614   Aug. 23, 2007                       
+As used herein, “ATCC” refers to the American Type Culture Collection International Depository Authority located at ATCC, 10801 University Blvd., Manassas, Va. 20110-2209, U.S.A. The listed deposit will be maintained in the indicated international depository for at least 30 years and will be made available to the public upon the grant of a patent disclosing it. The availability of a deposit does not constitute a license to practice the subject invention in derogation of patent rights granted by government action.
+ 
+ 
+ BRIEF DESCRIPTION OF THE DRAWINGS AND SEQUENCE DESCRIPTIONS 
+ The invention can be more fully understood from the following detailed description and the accompanying sequence descriptions, which form a part of this application. 
+   FIG. 1A  and  FIG. 1B  illustrate the ω-3/ω-6 fatty acid biosynthetic pathway, and should be viewed together when considering the description of this pathway below. 
+   FIG. 2A ,  FIG. 2B  and  FIG. 2C , when viewed together, provide an alignment of various  Mortierella alpina  LPAATs described herein and in Intl. App. Pub. Nos. WO 2004/087902 and WO 2008/146745 and U.S. Pat. No. 7,189,559. 
+   FIG. 3  provides plasmid maps for the following: (A) pY201, comprising a chimeric YAT1::ScAle1S::Lip1 gene; and, (B) pY208, comprising a chimeric YAT1::MaLPAAT1S::Lip1 gene. 
+   FIG. 4  diagrams the development of  Yarrowia lipolytica  strain Y5037, producing 18.6 EPA % TFAs, 22.8 DPA % TFAs and 9.7 DHA % TFAs. 
+   FIG. 5  provides plasmid maps for the following: (A) pZKL4-220EA41B; and, (B) pZKUM. 
+   FIG. 6  provides plasmid maps for the following: (A) pZKL3-4GER44; and, (B) pZKLY-G20444. 
+ 
+ The following sequences comply with 37 C.F.R. §1.821-1.825 (“Requirements for Patent Applications Containing Nucleotide Sequences and/or Amino Acid Sequence Disclosures—the Sequence Rules”) and are consistent with World Intellectual Property Organization (WIPO) Standard ST.25 (1998) and the sequence listing requirements of the EPO and PCT (Rules 5.2 and 49.5(a-bis), and Section 208 and Annex C of the Administrative Instructions). The symbols and format used for nucleotide and amino acid sequence data comply with the rules set forth in 37 C.F.R. §1.822. 
+ SEQ ID NOs:1-65 are ORFs encoding genes or proteins (or portions thereof), primers or plasmids, as identified in Table 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+ 
+   
+ 
+ 
+ Summary Of Nucleic Acid And Protein SEQ ID Numbers 
+ 
+ 
+ 
+ 
+   
+ Nucleic 
+ Protein 
+ 
+ 
+ Description and Abbreviation 
+ acid SEQ ID NO. 
+ SEQ ID NO. 
+ 
+ 
+   
+ 
+ 
+   Mortierella alpina  lysophosphatidic acid 
+  1 
+  2 
+ 
+ 
+ acyltransferase CDS [“MaLPAAT1”] 
+ (945 bp) 
+ (314 AA) 
+ 
+ 
+ Synthetic lysophosphatidic acid 
+  3 
+  4 
+ 
+ 
+ acyltransferase derived from  Mortierella   
+ (955 bp) 
+ (314 AA) 
+ 
+ 
+   alpina , codon-optimized for expression in 
+ 
+ 
+   Yarrowia lipolytica  [“MaLPAAT1S”] 
+ 
+ 
+   Mortierella alpina  LPAAT1 internal cDNA 
+  5 
+ — 
+ 
+ 
+ fragment 
+ (211 bp) 
+ 
+ 
+ Primer MaLP1_5-1 
+  6 
+ — 
+ 
+ 
+ Primer MaLP2_5-1 
+  7 
+ — 
+ 
+ 
+ Primer MaLP1_3-2 
+  8 
+ — 
+ 
+ 
+ Primer MaLP2_3-2 
+  9 
+ — 
+ 
+ 
+ T7 oligo 
+ 10 
+ — 
+ 
+ 
+ M13-28Rev 
+ 11 
+ — 
+ 
+ 
+ Primer MaLP3R1-1 
+ 12 
+ — 
+ 
+ 
+ Primer MaLP3R1-2 
+ 13 
+ — 
+ 
+ 
+ CDSIII/3′ PCR primer from 
+ 14 
+ — 
+ 
+ 
+ BD-Clontech Creator Smart ® 
+ 
+ 
+ cDNA library kit 
+ 
+ 
+   Mortierella alpina  LPAAT1, 3′end 
+ 15 
+ — 
+ 
+ 
+   
+ (669 bp) 
+ 
+ 
+ Top strand of Genome Walker adaptor 
+ 16 
+ — 
+ 
+ 
+ Bottom strand of Genome Walker adaptor 
+ 17 
+ — 
+ 
+ 
+ Primer MaLPAT2-5-1 
+ 18 
+ — 
+ 
+ 
+ Primer AP1 
+ 19 
+ — 
+ 
+ 
+ Primer MaLPAT2-5-2 
+ 20 
+ — 
+ 
+ 
+ Primer AP2 
+ 21 
+ — 
+ 
+ 
+   Mortierella alpina  LPAAT1-5′end, genomic 
+ 22 
+ — 
+ 
+ 
+   
+ (1947 bp)  
+ 
+ 
+ 5′-CDSIII Primer 
+ 23 
+ — 
+ 
+ 
+   Mortierella alpina  LPAAT1-5′end, cDNA 
+ 24 
+ — 
+ 
+ 
+   
+ (502 bp) 
+ 
+ 
+   Mortierella alpina  LPAAT1, intron 
+ 25 
+ — 
+ 
+ 
+   
+ (189 bp) 
+ 
+ 
+   Mortierella alpina  LPAAT1, composite 
+ 26 
+ — 
+ 
+ 
+   
+ (2756 bp)  
+ 
+ 
+ Primer MaLP1_5NotI 
+ 27 
+ — 
+ 
+ 
+ Primer MaLP1_3NotI 
+ 28 
+ — 
+ 
+ 
+ Plasmid pLF109 
+ 29 
+ — 
+ 
+ 
+   
+ (3981 bp) 
+ 
+ 
+   Mortierella alpina  LPAAT (corresponding to 
+ 30 
+ 31 
+ 
+ 
+ SEQ ID NOs: 16 and 17 within Intl. App. Pub. 
+ (1254 bp)  
+ (417 AA) 
+ 
+ 
+ No. WO 2004/087902) 
+ 
+ 
+   Mortierella alpina  LPAAT (corresponding to 
+ 32 
+ 33 
+ 
+ 
+ SEQ ID NOs: 18 and 19 within Intl. App. Pub. 
+ (1170 bp)  
+ (389 AA) 
+ 
+ 
+ No. WO 2004/087902) 
+ 
+ 
+   Mortierella alpina  LPAAT3 (corresponding to 
+ — 
+ 34 
+ 
+ 
+ SEQ ID NO: 2 within Intl. App. Pub. No. WO 
+   
+ (329 AA) 
+ 
+ 
+ 2008/146745) 
+ 
+ 
+   Mortierella alpina  LPAAT4 (corresponding to 
+ — 
+ 35 
+ 
+ 
+ SEQ ID NO: 4 within Intl. App. Pub. No. WO 
+   
+ (313 AA) 
+ 
+ 
+ 2008/146745) 
+ 
+ 
+   Mortierella alpina  LPAAT2 homolog 
+ 36 
+ 37 
+ 
+ 
+ (corresponding to SEQ ID NOs: 1 and 2 within 
+ (1086 bp)  
+ (308 AA) 
+ 
+ 
+ U.S. Pat. No. 7,189,559) 
+ 
+ 
+ 1-acyl-sn-glycerol-3-phosphate 
+ — 
+ 38 
+ 
+ 
+ acyltransferase motif NHxxxxD 
+ 
+ 
+ 1-acyl-sn-glycerol-3-phosphate 
+ — 
+ 39 
+ 
+ 
+ acyltransferase motif EGTR 
+ 
+ 
+   Saccharomyces cerevisiae  Ale1 (“ScAle1”) 
+ 40 
+ 41 
+ 
+ 
+   
+ (1860 bp)  
+ (619 AA) 
+ 
+ 
+ Synthetic Ale1 derived from  Saccharomyces   
+ 42 
+ 43 
+ 
+ 
+   cerevisiae , codon-optimized for expression in 
+ (1870 bp)  
+ (619 AA) 
+ 
+ 
+   Yarrowia lipolytica  (“ScAle1S”) 
+ 
+ 
+ Plasmid pY201 
+ 44 
+ — 
+ 
+ 
+   
+ (9641 bp)  
+ 
+ 
+   Escherichia coli  LoxP recombination site, 
+ 45 
+ — 
+ 
+ 
+ recognized by a Cre recombinase enzyme 
+ (34 bp) 
+ 
+ 
+ Plasmid pY208 
+ 46 
+ — 
+ 
+ 
+   
+ (8726 bp)  
+ 
+ 
+ Plasmid pZKL4-220EA41B 
+ 47 
+ — 
+ 
+ 
+   
+ (16,424 bp)   
+ 
+ 
+ Synthetic C 20  elongase derived from    Euglena     
+ 48 
+ 49 
+ 
+ 
+   anabaena , codon-optimized for expression in 
+ (900 bp) 
+ (299 AA) 
+ 
+ 
+   Yarrowia lipolytica  (“EaC20ES”) 
+ 
+ 
+ Synthetic C 20  elongase derived from    Euglena     
+ 50 
+ 51 
+ 
+ 
+   gracilis , codon-optimized for expression in 
+ (912 bp) 
+ (303 AA) 
+ 
+ 
+   Yarrowia lipolytica  (“EgC20ES”) 
+ 
+ 
+ Truncated synthetic Δ4 desaturase derived 
+ 52 
+ 53 
+ 
+ 
+ from  Euglena anabaena , codon-optimized for 
+ (1644 bp)  
+ (547 AA) 
+ 
+ 
+ expression in  Yarrowia lipolytica  (“EaD4S-1”) 
+ 
+ 
+ Truncated synthetic Δ4 desaturase (version B) 
+ 54 
+ 55 
+ 
+ 
+ derived from  Euglena anabaena , codon- 
+ (1644 bp)  
+ (547 AA) 
+ 
+ 
+ optimized for expression in  Yarrowia lipolytica   
+ 
+ 
+ (“EaD4SB”) 
+ 
+ 
+ Plasmid pZKUM 
+ 56 
+ — 
+ 
+ 
+   
+ (4313 bp)  
+ 
+ 
+ Plasmid pZKL3-4GER44 
+ 57 
+ — 
+ 
+ 
+   
+ (17,088 bp)   
+ 
+ 
+ Synthetic Δ4 desaturase derived 
+ 58 
+ 59 
+ 
+ 
+ from  Eutreptiella  cf_gymnastica CCMP1594, codon- 
+ (1548 bp)  
+ (515 AA) 
+ 
+ 
+ optimized for expression in  Yarrowia lipolytica   
+ 
+ 
+ (“E1594D4S”) 
+ 
+ 
+ Truncated synthetic Δ4 desaturase derived 
+ 60 
+ 61 
+ 
+ 
+ from  Euglena gracilis , codon-optimized for 
+ (1542 bp)  
+ (513 AA) 
+ 
+ 
+ expression in  Yarrowia lipolytica  (“EgD4S-1”) 
+ 
+ 
+ Plasmid pZKLY-G20444 
+ 62 
+ — 
+ 
+ 
+   
+ (15,617 bp)   
+ 
+ 
+ Synthetic DHA synthase derived from  Euglena   
+ 63 
+ 64 
+ 
+ 
+   gracilis , codon-optimized for expression in 
+ (2382 bp)  
+ (793 AA) 
+ 
+ 
+   Yarrowia lipolytica  (“EgDHAsyn1S”) 
+ 
+ 
+ Lewin, T. W. et al. & Yamashita et al. 1-acyl- 
+ — 
+ 65 
+ 
+ 
+ sn-glycerol-3-phosphate acyltransferase motif 
+ 
+ 
+ GxxFI-[D/R]-R 
+ 
+ 
+ Lewin, T. W. et al. 1-acyl-sn-glycerol-3- 
+ — 
+ 66 
+ 
+ 
+ phosphate acyltransferase motif [V/I]-[P/X]- 
+ 
+ 
+ [I/V/L]-[I/V]-P-[V/I] 
+ 
+ 
+ Yamashita et al. 1-acyl-sn-glycerol-3- 
+ — 
+ 67 
+ 
+ 
+ phosphate acyltransferase motif IVPIVM 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ The disclosure of each reference set forth herein is hereby incorporated by reference in its entirety. 
+ Identified herein is a novel  Mortierella alpina  lysophosphatidic acid acyltransferase [“LPAAT”] enzyme and gene encoding the same that may be used for the manipulation of biochemical pathways for the production of healthful long-chain polyunsaturated fatty acids [“LC-PUFAs”]. Thus, the subject invention finds many applications. 
+ LC-PUFAs, or derivatives thereof, are used as dietary substitutes, or supplements, particularly infant formulas, for patients undergoing intravenous feeding or for preventing or treating malnutrition. Alternatively, the purified LC-PUFAs (or derivatives thereof) may be incorporated into cooking oils, fats or margarines formulated so that in normal use the recipient would receive the desired amount for dietary supplementation. The LC-PUFAs may also be incorporated into infant formulas, nutritional supplements or other food and drink products and may find use as cardiovascular-protective, anti-depression, anti-inflammatory or cholesterol lowering agents. Optionally, the compositions may be used for pharmaceutical use, either human or veterinary. 
+ In this disclosure, a number of terms and abbreviations are used. The following definitions are provided. 
+ “Open reading frame” is abbreviated as “ORF”. 
+ “Polymerase chain reaction” is abbreviated as “PCR”. 
+ “American Type Culture Collection” is abbreviated as “ATCC”. 
+ “Polyunsaturated fatty acid(s)” is abbreviated as “PUFA(s)”. 
+ “Acyl-CoA:lysophospholipid acyltransferase” is abbreviated as “LPLAT”. 
+ “Lysophosphatidic acid acyltransferase” is abbreviated as “LPAAT”. 
+ “Triacylglycerols” are abbreviated as “TAGs”. 
+ “Co-enzyme A” is abbreviated as “CoA”. 
+ “Total fatty acids” are abbreviated as “TFAs”. 
+ “Fatty acid methyl esters” are abbreviated as “FAMEs”. 
+ “Dry cell weight” is abbreviated as “DCW”. 
+ The term “invention” or “present invention” as used herein is not meant to be limiting to any one specific embodiment of the invention but applies generally to any and all embodiments of the invention as described in the claims and specification. 
+ The term “glycerophospholipids” refers to a broad class of molecules, having a glycerol core with fatty acids at the sn-1 position and sn-2 position, and a polar head group (e.g., phosphate, choline, ethanolamine, glycerol, inositol, serine, cardiolipin) joined at the sn-3 position via a phosphodiester bond. Glycerophospholipids thus include phosphatidylcholines [“PC”], phosphatidylethanolamines [“PE”], phosphatidylglycerols [“PG”], phosphatidylinositols [“PI”], phosphatidylserines [“PS”] and cardiolipins [“CL”]. 
+ “Lysophospholipids” are derived from glycerophospholipids, by deacylation of the sn-2 position fatty acid. Lysophospholipids include, e.g., lysophosphatidic acid [“LPA”], lysophosphatidylcholine [“LPC”], lysophosphatidyletanolamine [“LPE”], lysophosphatidylserine [“LPS”], lysophosphatidylglycerol [“LPG”] and lysophosphatidylinositol [“LPI”]. 
+ The term “acyltransferase” refers to an enzyme responsible for transferring an acyl group from a donor lipid to an acceptor lipid molecule. 
+ The term “acyl-CoA:lysophospholipid acyltransferase” [“LPLAT”] refers to a broad class of acyltransferases, having the ability to acylate a variety of lysophospholipid substrates at the sn-2 position. More specifically, LPLATs include LPA acyltransferases [“LPAATs”] having the ability to catalyze conversion of LPA to PA, LPC acyltransferases [“LPCATs”] having the ability to catalyze conversion of LPC to PC, LPE acyltransferases [“LPEATs”] having the ability to catalyze conversion of LPE to PE, LPS acyltransferases [“LPSATs”] having the ability to catalyze conversion of LPS to PS, LPG acyltransferases [“LPGATs”] having the ability to catalyze conversion of LPG to PG, and LPI acyltransferases [“LPIATs”] having the ability to catalyze conversion of LPI to PI. Standardization of LPLAT nomenclature has not been formalized, so various other designations have been previously used in the art. Additionally, it is important to note that some LPLATs, such as the  Saccharomyces cerevisiae  Ale1 (ORF YOR175C; SEQ ID NO:40), have broad specificity and thus a single enzyme may be capable of catalyzing several LPLAT reactions, including LPAAT, LPCAT and LPEAT reactions (Tamaki, H. et al.,  J. Biol. Chem.,  282:34288-34298 (2007); Ståhl, U. et al.,  FEBS Letters,  582:305-309 (2008); Chen, Q. et al.,  FEBS Letters,  581:5511-5516 (2007); Benghezal, M. et al.,  J. Biol. Chem.,  282:30845-30855 (2007); Riekhof, et al.,  J. Biol. Chem.,  282:28344-28352 (2007)). 
+ The term “LPAAT” refers to a lysophosphatidic acid acyltransferase enzyme (EC 2.3.1.51). This enzyme is responsible for the transfer of an acyl-CoA group onto 1-acyl-sn-glycerol 3-phosphate [“LPA”] to produce CoA and 1,2-diacyl-sn-glycerol 3-phosphate [“PA”]. The literature also refers to LPAAT as acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-O-acyltransferase, 1-acyl-sn-glycerol-3-phosphate acyltransferase and/or 1-acylglycerolphosphate acyltransferase (abbreviated as AGAT). LPAATs described herein will possess a 1-acyl-sn-glycerol-3-phosphate acyltransferase family motif selected from the group consisting of: NHxxxxD (SEQ ID NO:38) and EGTR (SEQ ID NO:39). 
+ The term “MaLPAAT1” refers to a LPAAT (SEQ ID NO:2) isolated from  Mortierella alpina , encoded by the nucleotide sequence set forth as SEQ ID NO:1. In contrast, the term “MaLPAAT1S” refers to a synthetic LPAAT derived from  M. alpina  that is codon-optimized for expression in  Yarrowia lipolytica  (i.e., SEQ ID NOs:3 and 4). 
+ The term “conserved domain” or “motif” means a set of amino acids conserved at specific positions along an aligned sequence of evolutionarily related proteins. While amino acids at other positions can vary between homologous proteins, amino acids that are highly conserved at specific positions likely indicate amino acids that are essential in the structure, the stability, or the activity of a protein. Because they are identified by their high degree of conservation in aligned sequences of a family of protein homologues, they can be used as identifiers, or “signatures”, to determine if a protein with a newly determined sequence belongs to a previously identified protein family. 
+ The term “oil” refers to a lipid substance that is liquid at 25° C. and usually polyunsaturated. In oleaginous organisms, oil constitutes a major part of the total lipid. Oil is composed primarily of triacylglycerols [“TAGs”] but may also contain other neutral lipids, phospholipids and free fatty acids. The fatty acid composition in the oil and the fatty acid composition of the total lipid are generally similar; thus, an increase or decrease in the concentration of PUFAs in the total lipid will correspond with an increase or decrease in the concentration of PUFAs in the oil, and vice versa. 
+ “Neutral lipids” refer to those lipids commonly found in cells in lipid bodies as storage fats and are so called because at cellular pH, the lipids bear no charged groups. Generally, they are completely non-polar with no affinity for water. Neutral lipids generally refer to mono-, di-, and/or triesters of glycerol with fatty acids, also called monoacylglycerol, diacylglycerol or triacylglycerol, respectively, or collectively, acylglycerols. A hydrolysis reaction must occur to release free fatty acids from acylglycerols. 
+ The term “triacylglycerols” [“TAGs”] refers to neutral lipids composed of three fatty acyl residues esterified to a glycerol molecule. TAGs can contain LC-PUFAs and saturated fatty acids, as well as shorter chain saturated and unsaturated fatty acids. 
+ The term “total fatty acids” [“TFAs”] herein refer to the sum of all cellular fatty acids that can be derivitized to fatty acid methyl esters [“FAMEs”] by the base transesterification method (as known in the art) in a given sample, which may be the biomass or oil, for example. Thus, total fatty acids include fatty acids from neutral lipid fractions (including diacylglycerols, monoacylglycerols and TAGs) and from polar lipid fractions (including the PC and the PE fractions) but not free fatty acids. 
+ The term “total lipid content” of cells is a measure of TFAs as a percent of the dry cell weight [“DCW”]. Thus, total lipid content [“TFAs % DCW”] is equivalent to, e.g., milligrams of total fatty acids per 100 milligrams of DCW. 
+ The concentration of a fatty acid in the total lipid is expressed herein as a weight percent of TFAs [“% TFAs”], e.g., milligrams of the given fatty acid per 100 milligrams of TFAs. Unless otherwise specifically stated in the disclosure herein, reference to the percent of a given fatty acid with respect to total lipids is equivalent to concentration of the fatty acid as % TFAs (e.g., % EPA of total lipids is equivalent to EPA % TFAs). 
+ In some cases, it is useful to express the content of a given fatty acid(s) in a cell as its weight percent of the dry cell weight [“% DCW”]. Thus, for example, eicosapentaenoic acid % DCW would be determined according to the following formula: (eicosapentaenoic acid % TFAs)*(TFAs % DCW)]/100. 
+ The terms “lipid profile” and “lipid composition” are interchangeable and refer to the amount of individual fatty acids contained in a particular lipid fraction, such as in the total lipid or the oil, wherein the amount is expressed as a weight percent of TFAs. The sum of each individual fatty acid present in the mixture should be 100. 
+ The term “fatty acids” refers to long chain aliphatic acids (alkanoic acids) of varying chain lengths, from about C 12  to C 22 , although both longer and shorter chain-length acids are known. The predominant chain lengths are between C 16  and C 22 . The structure of a fatty acid is represented by a simple notation system of “X:Y”, where X is the total number of carbon [“C”] atoms in the particular fatty acid and Y is the number of double bonds. Additional details concerning the differentiation between “saturated fatty acids” versus “unsaturated fatty acids”, “monounsaturated fatty acids” versus “polyunsaturated fatty acids” [“PUFAs”], and “omega-6 fatty acids” [“ω-6” or “n-6”] versus “omega-3 fatty acids” [“ω-3” or “n-3”] are provided in U.S. Pat. No. 7,238,482, which is hereby incorporated herein by reference. 
+ Nomenclature used to describe PUFAs herein is given in Table 3. In the column titled “Shorthand Notation”, the omega-reference system is used to indicate the number of carbons, the number of double bonds and the position of the double bond closest to the omega carbon, counting from the omega carbon, which is numbered 1 for this purpose. The remainder of the Table summarizes the common names of ω-3 and ω-6 fatty acids and their precursors, the abbreviations that will be used throughout the specification and the chemical name of each compound. 
+             TABLE 3                 Nomenclature of Polyunsaturated Fatty Acids And Precursors                       Shorthand       Common Name   Abbreviation   Chemical Name   Notation               Myristic   —   tetradecanoic   14:0       Palmitic   Palmitate   hexadecanoic   16:0       Palmitoleic   —   9-hexadecenoic   16:1       Stearic   —   octadecanoic   18:0       Oleic   —   cis-9-octadecenoic   18:1       Linoleic   LA   cis-9,12-octadecadienoic   18:2 ω-6       γ-Linolenic   GLA   cis-6,9,12-octadecatrienoic   18:3 ω-6       Eicosadienoic   EDA   cis-11,14-eicosadienoic   20:2 ω-6       Dihomo-γ-   DGLA   cis-8,11,14-eicosatrienoic   20:3 ω-6       Linolenic       Arachidonic   ARA   cis-5,8,11,14-   20:4 ω-6               eicosatetraenoic       α-Linolenic   ALA   cis-9,12,15-   18:3 ω-3               octadecatrienoic       Stearidonic   STA   cis-6,9,12,15-   18:4 ω-3               octadecatetraenoic       Eicosatrienoic   ETrA   cis-11,14,17-eicosatrienoic   20:3 ω-3       Sciadonic   SCI   cis-5,11,14-eicosatrienoic   20:3b ω-6       Juniperonic   JUP   cis-5,11,14,17-   20:4b ω-3               eicosatetraenoic       Eicosa-   ETA   cis-8,11,14,17-   20:4 ω-3       tetraenoic       eicosatetraenoic       Eicosa-   EPA   cis-5,8,11,14,17-   20:5 ω-3       pentaenoic       eicosapentaenoic       Docosatrienoic   DRA   cis-10,13,16-docosatrienoic   22:3 ω-6       Docosa-   DTA   cis-7,10,13,16-   22:4 ω-6       tetraenoic       docosatetraenoic       Docosa-   DPAn-6   cis-4,7,10,13,16-   22:5 ω-6       pentaenoic       docosapentaenoic       Docosa-   DPA   cis-7,10,13,16,19-   22:5 ω-3       pentaenoic       docosapentaenoic       Docosa-   DHA   cis-4,7,10,13,16,19-   22:6 ω-3       hexaenoic       docosahexaenoic                   
+Although the ω-3/ω6 PUFAs listed in Table 3 are the most likely to be accumulated in the oil fractions of oleaginous yeast using the methods described herein, this list should not be construed as limiting or as complete.
+ 
+ The term “long-chain polyunsaturated fatty acid” [“LC-PUFA”] refers to those PUFAs that have chain lengths of C 20  or greater. Thus, the term LC-PUFA includes at least EDA, DGLA, ARA, ETrA, ETA, EPA, DTA, DPAn-6, DPA and DHA. 
+ The term “PUFA biosynthetic pathway” refers to a metabolic process that converts oleic acid to ω-6 fatty acids such as LA, EDA, GLA, DGLA, ARA, DRA, DTA and DPAn-6 and ω-3 fatty acids such as ALA, STA, ETrA, ETA, EPA, DPA and DHA. This process is well described in the literature (e.g., see Intl. App. Pub. No. WO 2006/052870). Briefly, this process involves elongation of the carbon chain through the addition of carbon atoms and desaturation of the molecule through the addition of double bonds, via a series of special elongation and desaturation enzymes termed “PUFA biosynthetic pathway enzymes” that are present in the endoplasmic reticulum membrane. More specifically, “PUFA biosynthetic pathway enzymes” refer to any of the following enzymes (and genes which encode said enzymes) associated with the biosynthesis of a PUFA, including: Δ4 desaturase, Δ5 desaturase, Δ6 desaturase, Δ12 desaturase, Δ15 desaturase, Δ17 desaturase, Δ9 desaturase, Δ8 desaturase, Δ9 elongase, C 14/16  elongase, C 16/18  elongase, C 18/20  elongase and/or C 20/22  elongase. 
+ The term “desaturase” refers to a polypeptide that can desaturate, i.e., introduce a double bond, in one or more fatty acids to produce a fatty acid or precursor of interest. Despite use of the omega-reference system throughout the specification to refer to specific fatty acids, it is more convenient to indicate the activity of a desaturase by counting from the carboxyl end of the substrate using the delta-system. Of particular interest herein are Δ8 desaturases, Δ5 desaturases, Δ17 desaturases, Δ12 desaturases, Δ15 desaturases, Δ9 desaturases, Δ6 desaturases and Δ4 desaturases. Δ17 desaturases, and also Δ15 desaturases, are also occasionally referred to as “omega-3 desaturases”, “w-3 desaturases”, and/or “ω-3 desaturases”, based on their ability to convert ω-6 fatty acids into their ω-3 counterparts. 
+ The term “elongase” refers to a polypeptide that can elongate a fatty acid carbon chain to produce an  acid  2 carbons longer than the fatty acid substrate that the elongase acts upon. This process of elongation occurs in a multi-step mechanism in association with fatty acid synthase, as described in Intl. App. Pub. No. WO 2005/047480. Examples of reactions catalyzed by elongase systems are the conversion of GLA to DGLA, STA to ETA, ARA to DTA and EPA to DPA. In general, the substrate selectivity of elongases is somewhat broad but segregated by both chain length and the degree and type of unsaturation. For example, a C 14/16  elongase will utilize a C 14  substrate (e.g., myristic acid), a C 16/18  elongase will utilize a C 16  substrate (e.g., palmitate), a C 18/20 elongase will utilize a C 18  substrate (e.g., LA, ALA, GLA, STA) and a C 20/22  elongase (also known as a Δ5 elongase as the terms can be used interchangeably) will utilize a C 20  substrate (e.g., ARA, EPA). For the purposes herein, two distinct types of C 18/20  elongases can be defined: a Δ6 elongase will catalyze conversion of GLA and STA to DGLA and ETA, respectively, while a Δ9 elongase is able to catalyze the conversion of LA and ALA to EDA and ETrA, respectively. 
+ The terms “conversion efficiency” and “percent substrate conversion” refer to the efficiency by which a particular enzyme, such as a desaturase or elongase, can convert substrate to product. The conversion efficiency is measured according to the following formula: ([product]/[substrate+product])*100, where ‘product’ includes the immediate product and all products in the pathway derived from it. 
+ The terms “Δ9 elongation conversion efficiency” and “Δ9 elongase conversion efficiency” refer to the efficiency by which Δ9 elongase can convert C 18  substrates (i.e., LA, ALA) to C 20  products (i.e., EDA, ETrA). 
+ The terms “Δ4 desaturation conversion efficiency” and “Δ4 desaturase conversion efficiency” refer to the efficiency by which Δ4 desaturase can convert substrates (i.e., DTA, DPAn-3) to products (i.e., DPAn-6, DHA). 
+ The term “oleaginous” refers to those organisms that tend to store their energy source in the form of oil (Weete, In: Fungal Lipid Biochemistry, 2 nd  Ed., Plenum, 1980). Generally, the cellular oil content of oleaginous microorganisms follows a sigmoid curve, wherein the concentration of lipid increases until it reaches a maximum at the late logarithmic or early stationary growth phase and then gradually decreases during the late stationary and death phases (Yongmanitchai and Ward,  Appl. Environ. Microbiol.,  57:419-25 (1991)). It is not uncommon for oleaginous microorganisms to accumulate in excess of about 25% of their dry cell weight as oil. The term “oleaginous yeast” refers to those microorganisms classified as yeasts that can make oil. Examples of oleaginous yeast include, but are no means limited to, the following genera:  Yarrowia, Candida, Rhodotorula, Rhodosporidium, Cryptococcus, Trichosporon  and  Lipomyces.    
+ The terms “polynucleotide”, “polynucleotide sequence”, “nucleic acid sequence”, “nucleic acid fragment” and “isolated nucleic acid fragment” are used interchangeably herein. These terms encompass nucleotide sequences and the like. A polynucleotide may be a polymer of RNA or DNA that is single- or double-stranded, that optionally contains synthetic, non-natural or altered nucleotide bases. A polynucleotide in the form of a polymer of DNA may be comprised of one or more segments of cDNA, genomic DNA, synthetic DNA, or mixtures thereof. Nucleotides (usually found in their 5′-monophosphate form) are referred to by a single letter designation as follows: “A” for adenylate or deoxyadenylate (for RNA or DNA, respectively), “C” for cytidylate or deoxycytidylate, “G” for guanylate or deoxyguanylate, “U” for uridylate, “T” for deoxythymidylate, “R” for purines (A or G), “Y” for pyrimidines (C or T), “K” for G or T, “H” for A or C or T, “I” for inosine, and “N” for any nucleotide. 
+ A nucleic acid fragment is “hybridizable” to another nucleic acid fragment, such as a cDNA, genomic DNA, or RNA molecule, when a single-stranded form of the nucleic acid fragment can anneal to the other nucleic acid fragment under the appropriate conditions of temperature and solution ionic strength. Hybridization and washing conditions are well known and exemplified in Sambrook, J., Fritsch, E. F. and Maniatis, T.  Molecular Cloning: A Laboratory Manual,  2 nd  ed., Cold Spring Harbor Laboratory: Cold Spring Harbor, N.Y. (1989), which is hereby incorporated herein by reference, particularly Chapter 11 and Table 11.1. The conditions of temperature and ionic strength determine the “stringency” of the hybridization. Stringency conditions can be adjusted to screen for moderately similar fragments (such as homologous sequences from distantly related organisms), to highly similar fragments (such as genes that duplicate functional enzymes from closely related organisms). Post-hybridization washes determine stringency conditions. One set of preferred conditions uses a series of washes starting with 6×SSC, 0.5% SDS at room temperature for 15 min, then repeated with 2×SSC, 0.5% SDS at 45° C. for 30 min, and then repeated twice with 0.2×SSC, 0.5% SDS at 50° C. for 30 min. A more preferred set of stringent conditions uses higher temperatures in which the washes are identical to those above except for the temperature of the final two 30 min washes in 0.2×SSC, 0.5% SDS was increased to 60° C. Another preferred set of highly stringent conditions uses two final washes in 0.1×SSC, 0.1% SDS at 65° C. An additional set of stringent conditions include hybridization at 0.1×SSC, 0.1% SDS, 65° C. and washes with 2×SSC, 0.1% SDS followed by 0.1×SSC, 0.1% SDS, for example. 
+ Hybridization requires that the two nucleic acids contain complementary sequences, although depending on the stringency of the hybridization, mismatches between bases are possible. The appropriate stringency for hybridizing nucleic acids depends on the length of the nucleic acids and the degree of complementation, variables well known in the art. The greater the degree of similarity or homology between two nucleotide sequences, the greater the value of Tm for hybrids of nucleic acids having those sequences. The relative stability, corresponding to higher Tm, of nucleic acid hybridizations decreases in the following order: RNA:RNA, DNA:RNA, DNA:DNA. For hybrids of greater than 100 nucleotides in length, equations for calculating Tm have been derived (see Sambrook et al., supra, 9.50-9.51). For hybridizations with shorter nucleic acids, i.e., oligonucleotides, the position of mismatches becomes more important, and the length of the oligonucleotide determines its specificity (see Sambrook et al., supra, 11.7-11.8). In one embodiment the length for a hybridizable nucleic acid is at least about 10 nucleotides. Preferably a minimum length for a hybridizable nucleic acid is at least about 15 nucleotides; more preferably at least about 20 nucleotides; and most preferably the length is at least about 30 nucleotides. Furthermore, the skilled artisan will recognize that the temperature and wash solution salt concentration may be adjusted as necessary according to factors such as length of the probe. 
+ A “substantial portion” of an amino acid or nucleotide sequence is that portion comprising enough of the amino acid sequence of a polypeptide or the nucleotide sequence of a gene to putatively identify that polypeptide or gene, either by manual evaluation of the sequence by one skilled in the art, or by computer-automated sequence comparison and identification using algorithms such as BLAST (Basic Local Alignment Search Tool; Altschul, S. F., et al.,  J. Mol. Biol.,  215:403-410 (1993)). In general, a sequence of ten or more contiguous amino acids or thirty or more nucleotides is necessary in order to putatively identify a polypeptide or nucleic acid sequence as homologous to a known protein or gene. Moreover, with respect to nucleotide sequences, gene specific oligonucleotide probes comprising 20-30 contiguous nucleotides may be used in sequence-dependent methods of gene identification (e.g., Southern hybridization) and isolation (e.g., in situ hybridization of bacterial colonies or bacteriophage plaques). In addition, short oligonucleotides of 12-15 bases may be used as amplification primers in PCR in order to obtain a particular nucleic acid fragment comprising the primers. Accordingly, a “substantial portion” of a nucleotide sequence comprises enough of the sequence to specifically identify and/or isolate a nucleic acid fragment comprising the sequence. The disclosure herein teaches the complete amino acid and nucleotide sequence encoding particular fungal proteins. The skilled artisan, having the benefit of the sequences as reported herein, may now use all or a substantial portion of the disclosed sequences for purposes known to those skilled in this art. Accordingly, the complete sequences as reported in the accompanying Sequence Listing, as well as substantial portions of those sequences as defined above, are encompassed in the present disclosure. 
+ The term “complementary” is used to describe the relationship between nucleotide bases that are capable of hybridizing to one another. For example, with respect to DNA, adenosine is complementary to thymine and cytosine is complementary to guanine. Accordingly, isolated nucleic acid fragments that are complementary to the complete sequences as reported in the accompanying Sequence Listing, as well as those substantially similar nucleic acid sequences, are encompassed in the present disclosure. 
+ As used herein, the terms “homology” and “homologous” are used interchangeably. They refer to nucleic acid fragments wherein changes in one or more nucleotide bases do not affect the ability of the nucleic acid fragment to mediate gene expression or produce a certain phenotype. These terms also refer to modifications of the nucleic acid fragments such as deletion or insertion of one or more nucleotides that do not substantially alter the functional properties of the resulting nucleic acid fragment relative to the initial, unmodified fragment. 
+ Moreover, the skilled artisan recognizes that homologous nucleic acid sequences are also defined by their ability to hybridize, under moderately stringent conditions, e.g., 0.5×SSC, 0.1% SDS, 60° C., with the sequences exemplified herein, or to any portion of the nucleotide sequences disclosed herein and which are functionally equivalent thereto. Stringency conditions can be adjusted to screen for moderately similar fragments, such as homologous sequences from distantly related organisms, to highly similar fragments, such as genes that duplicate functional enzymes from closely related organisms. Post-hybridization washes determine stringency conditions. An extensive guide to the hybridization of nucleic acids is found in Tijssen,  Laboratory Techniques in Biochemistry and Molecular Biology - Hybridization with Nucleic Acid Probes , Part I,  Chapter  2 “Overview of principles of hybridization and the strategy of nucleic acid probe assays”, Elsevier, NY (1993); and  Current Protocols in Molecular Biology ,  Chapter  2, Ausubel et al., Eds., Greene Publishing and Wiley-Interscience, New York (1995). 
+ The term “percent identity” refers to a relationship between two or more polypeptide sequences or two or more polynucleotide sequences, as determined by comparing the sequences. “Percent identity” also means the degree of sequence relatedness between polypeptide or polynucleotide sequences, as the case may be, as determined by the percentage of match between compared sequences. “Percent identity” and “percent similarity” can be readily calculated by known methods, including but not limited to those described in: 1)  Computational Molecular Biology  (Lesk, A. M., Ed.) Oxford University: NY (1988); 2)  Biocomputing: Informatics and Genome Projects  (Smith, D. W., Ed.) Academic: NY (1993); 3)  Computer Analysis of Sequence Data, Part I  (Griffin, A. M., and Griffin, H. G., Eds.) Humania: NJ (1994); 4)  Sequence Analysis in Molecular Biology  (von Heinje, G., Ed.) Academic (1987); and, 5)  Sequence Analysis Primer  (Gribskov, M. and Devereux, J., Eds.) Stockton, N.Y. (1991). 
+ Preferred methods to determine percent identity are designed to give the best match between the sequences tested. Methods to determine percent identity and percent similarity are codified in publicly available computer programs. Sequence alignments and percent identity calculations may be performed using the MegAlign™ program of the LASERGENE bioinformatics computing suite (DNASTAR Inc., Madison, Wis.). Multiple alignment of the sequences is performed using the “Clustal method of alignment” which encompasses several varieties of the algorithm including the “Clustal V method of alignment” and the “Clustal W method of alignment” (described by Higgins and Sharp,  CABIOS,  5:151-153 (1989); Higgins, D. G. et al.,  Comput. Appl. Biosci.,  8:189-191(1992)) and found in the MegAlign™ (version 8.0.2) program of the LASERGENE bioinformatics computing suite (DNASTAR Inc.). After alignment of the sequences using either Clustal program, it is possible to obtain a “percent identity” by viewing the “sequence distances” table in the program. 
+ For multiple alignments using the Clustal V method of alignment, the default values correspond to GAP PENALTY=10 and GAP LENGTH PENALTY=10. Default parameters for pairwise alignments and calculation of percent identity of protein sequences using the Clustal V method are KTUPLE=1, GAP PENALTY=3, WINDOW=5 and DIAGONALS SAVED=5. For nucleic acids these parameters are KTUPLE=2, GAP PENALTY=5, WINDOW=4 and DIAGONALS SAVED=4. Default parameters for multiple alignment using the Clustal W method of alignment correspond to GAP PENALTY=10, GAP LENGTH PENALTY=0.2, Delay Divergent Seqs(%)=30, DNA Transition Weight=0.5, Protein Weight Matrix=Gonnet Series, DNA Weight Matrix=IUB. 
+ It is well understood by one skilled in the art that various measures of sequence percent identity are useful in identifying polypeptides, from other species, wherein such polypeptides have the same or similar function or activity. Suitable nucleic acid fragments, i.e., isolated polynucleotides according to the disclosure herein, encode polypeptides that are at least about 70-85% identical, while more preferred nucleic acid fragments encode amino acid sequences that are at least about 85-95% identical to the amino acid sequences reported herein. Although preferred ranges are described above, useful examples of percent identities include any integer percentage from 44% to 100%, such as 45%, 46%, 47%, 48%, 49%, 50%, 51%, 52%, 53%, 54%, 55%, 56%, 57%, 58%, 59%, 60%, 61%, 62%, 63%, 64%, 65%, 66%, 67%, 68%, 69%, 70%, 71%, 72%, 73%, 74%, 75%, 76%, 77%, 78%, 79%, 80%, 81%, 82%, 83%, 84%, 85%, 86%, 87%, 88%, 89%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% or 99%. Also, of interest is any full-length or partial complement of this isolated nucleotide fragment. 
+ Suitable nucleic acid fragments not only have the above homologies but typically encode a polypeptide having at least 50 amino acids, preferably at least 100 amino acids, more preferably at least 150 amino acids, still more preferably at least 200 amino acids, and most preferably at least 250 amino acids. 
+ “Codon degeneracy” refers to the nature in the genetic code permitting variation of the nucleotide sequence without affecting the amino acid sequence of an encoded polypeptide. Accordingly, described herein is any nucleic acid fragment that encodes all or a substantial portion of the amino acid sequence encoding the fungal polypeptide substantially as set forth in SEQ ID NO:2. The skilled artisan is well aware of the “codon-bias” exhibited by a specific host cell in usage of nucleotide codons to specify a given amino acid. Therefore, when synthesizing a gene for improved expression in a host cell, it is desirable to design the gene such that its frequency of codon usage approaches the frequency of preferred codon usage of the host cell. 
+ “Synthetic genes” can be assembled from oligonucleotide building blocks that are chemically synthesized using procedures known to those skilled in the art. These oligonucleotide building blocks are annealed and then ligated to form gene segments that are then enzymatically assembled to construct the entire gene. Accordingly, the genes can be tailored for optimal gene expression based on optimization of nucleotide sequence to reflect the codon bias of the host cell. The skilled artisan appreciates the likelihood of successful gene expression if codon usage is biased towards those codons favored by the host. Determination of preferred codons can be based on a survey of genes derived from the host cell, where sequence information is available. For example, the codon usage profile for  Yarrowia lipolytica  is provided in U.S. Pat. No. 7,125,672. 
+ “Gene” refers to a nucleic acid fragment that expresses a specific protein, and which may refer to the coding region alone or may include regulatory sequences preceding (5′ non-coding sequences) and following (3′non-coding sequences) the coding sequence. “Native gene” refers to a gene as found in nature with its own regulatory sequences. “Chimeric gene” refers to any gene that is not a native gene, comprising regulatory and coding sequences that are not found together in nature. Accordingly, a chimeric gene may comprise regulatory sequences and coding sequences that are derived from different sources, or regulatory sequences and coding sequences derived from the same source, but arranged in a manner different than that found in nature. “Endogenous gene” refers to a native gene in its natural location in the genome of an organism. A “foreign” gene refers to a gene that is introduced into the host organism by gene transfer. Foreign genes can comprise native genes inserted into a non-native organism, native genes introduced into a new location within the native host, or chimeric genes. A “transgene” is a gene that has been introduced into the genome by a transformation procedure. A “codon-optimized gene” is a gene having its frequency of codon usage designed to mimic the frequency of preferred codon usage of the host cell. 
+ “Coding sequence” refers to a DNA sequence which codes for a specific amino acid sequence. “Suitable regulatory sequences” refer to nucleotide sequences located upstream (5′ non-coding sequences), within, or downstream (3′ non-coding sequences) of a coding sequence, and which influence the transcription, RNA processing or stability, or translation of the associated coding sequence. Regulatory sequences may include promoters, enhancers, silencers, 5′ untranslated leader sequence (e.g., between the transcription start site and the translation initiation codon), introns, polyadenylation recognition sequences, RNA processing sites, effector binding sites and stem-loop structures. 
+ “Promoter” refers to a DNA sequence capable of controlling the expression of a coding sequence or functional RNA. In general, a coding sequence is located 3′ to a promoter sequence. Promoters may be derived in their entirety from a native gene, or be composed of different elements derived from different promoters found in nature, or even comprise synthetic DNA segments. It is understood by those skilled in the art that different promoters may direct the expression of a gene in different tissues or cell types, or at different stages of development, or in response to different environmental or physiological conditions. Promoters that cause a gene to be expressed in most cell types at most times are commonly referred to as “constitutive promoters”. It is further recognized that since in most cases the exact boundaries of regulatory sequences have not been completely defined, DNA fragments of different lengths may have identical promoter activity. 
+ The terms “3′ non-coding sequence” and “transcription terminator” refer to DNA sequences located downstream of a coding sequence. This includes polyadenylation recognition sequences and other sequences encoding regulatory signals capable of affecting mRNA processing or gene expression. The polyadenylation signal is usually characterized by affecting the addition of polyadenylic acid tracts to the 3′ end of the mRNA precursor. The 3′ region can influence the transcription, RNA processing or stability, or translation of the associated coding sequence. 
+ “RNA transcript” refers to the product resulting from RNA polymerase-catalyzed transcription of a DNA sequence. When the RNA transcript is a perfect complementary copy of the DNA sequence, it is referred to as the primary transcript or it may be a RNA sequence derived from post-transcriptional processing of the primary transcript and is referred to as the mature RNA. “Messenger RNA” or “mRNA” refers to the RNA that is without introns and which can be translated into protein by the cell. “cDNA” refers to a double-stranded DNA that is complementary to, and derived from, mRNA. 
+ The term “operably linked” refers to the association of nucleic acid sequences on a single nucleic acid fragment so that the function of one is affected by the other. For example, a promoter is operably linked with a coding sequence when it is capable of affecting the expression of that coding sequence, i.e., the coding sequence is under the transcriptional control of the promoter. Coding sequences can be operably linked to regulatory sequences in sense or antisense orientation. 
+ The term “expression”, as used herein, refers to the transcription and stable accumulation of sense (mRNA) or antisense RNA. Expression may also refer to translation of mRNA into a polypeptide. Thus, the term “expression”, as used herein, also refers to the production of a functional end-product (e.g., an mRNA or a protein [either precursor or mature]). 
+ “Transformation” refers to the transfer of a nucleic acid molecule into a host organism, resulting in genetically stable inheritance. The nucleic acid molecule may be a plasmid that replicates autonomously, for example, or, it may integrate into the genome of the host organism. Host organisms containing the transformed nucleic acid fragments are referred to as “transgenic” or “recombinant” or “transformed” or “transformant” organisms. 
+ The term “recombinant” refers to an artificial combination of two otherwise separated segments of sequence, e.g., by chemical synthesis or by the manipulation of isolated segments of nucleic acids by genetic engineering techniques. 
+ A “plasmid” or “vector” is an extra chromosomal element often carrying genes that are not part of the central metabolism of the cell, and usually in the form of circular double-stranded DNA fragments. Such elements may be autonomously replicating sequences, genome integrating sequences, phage or nucleotide sequences, linear or circular, of a single- or double-stranded DNA or RNA, derived from any source, in which a number of nucleotide sequences have been joined or recombined into a unique construction which is capable of introducing an expression cassette(s) into a cell. 
+ “Transformation cassette” refers to a fragment of DNA containing a foreign gene and having elements in addition to the foreign gene that facilitate transformation of a particular host cell. 
+ The term “expression cassette” refers to a fragment of DNA containing a foreign gene and having elements in addition to the foreign gene that allow for enhanced expression of that gene in a foreign host. Generally, an expression cassette will comprise the coding sequence of a selected gene and regulatory sequences preceding (5′ non-coding sequences) and following (3′ non-coding sequences) the coding sequence that are required for expression of the selected gene product. Thus, an expression cassette is typically composed of: 1) a promoter sequence; 2) a coding sequence [“ORF”]; and, 3) a 3′ untranslated region (i.e., a terminator) that, in eukaryotes, usually contains a polyadenylation site. The expression cassette(s) is usually included within a vector, to facilitate cloning and transformation. Different expression cassettes can be transformed into different organisms including bacteria, yeast, plants and mammalian cells, as long as the correct regulatory sequences are used for each host. 
+ The terms “recombinant construct”, “expression construct”, “chimeric construct”, “construct”, and “recombinant DNA construct” are used interchangeably herein. A recombinant construct comprises an artificial combination of nucleic acid fragments, e.g., regulatory and coding sequences that are not found together in nature. For example, a recombinant construct may comprise regulatory sequences and coding sequences that are derived from different sources, or regulatory sequences and coding sequences derived from the same source, but arranged in a manner different than that found in nature. Such a construct may be used by itself or may be used in conjunction with a vector. If a vector is used, then the choice of vector is dependent upon the method that will be used to transform host cells as is well known to those skilled in the art. For example, a plasmid vector can be used. The skilled artisan is well aware of the genetic elements that must be present on the vector in order to successfully transform, select and culture host cells comprising any of the isolated nucleic acid fragments of the invention. The skilled artisan will also recognize that different independent transformation events will result in different levels and patterns of expression (Jones et al.,  EMBO J.  4:2411-2418 (1985); De Almeida et al.,  Mol. Gen. Genetics  218:78-86 (1989)), and thus that multiple transformants must be screened in order to obtain strains displaying the desired expression level and pattern. Such screening may be accomplished by Southern analysis of DNA blots, Northern analysis of mRNA expression, Western analysis of protein expression, or phenotypic analysis, among others. 
+ The term “sequence analysis software” refers to any computer algorithm or software program that is useful for the analysis of nucleotide or amino acid sequences. “Sequence analysis software” may be commercially available or independently developed. Typical sequence analysis software will include, but is not limited to: 1) the GCG suite of programs (Wisconsin Package Version 9.0, Genetics Computer Group (GCG), Madison, Wis.); 2) BLASTP, BLASTN, BLASTX (Altschul et al.,  J. Mol. Biol.,  215:403-410 (1990)); 3) DNASTAR (DNASTAR, Inc. Madison, Wis.); 4) Sequencher (Gene Codes Corporation, Ann Arbor, Mich.); and, 5) the FASTA program incorporating the Smith-Waterman algorithm (W. R. Pearson,  Comput. Methods Genome Res ., [Proc. Int. Symp.] (1994), Meeting Date 1992, 111-20. Editor(s): Suhai, Sandor. Plenum: New York, N.Y.). Within this description, whenever sequence analysis software is used for analysis, the analytical results are based on the “default values” of the program referenced, unless otherwise specified. As used herein “default values” will mean any set of values or parameters that originally load with the software when first initialized. 
+ Standard recombinant DNA and molecular cloning techniques used herein are well known in the art and are described by Sambrook, J., Fritsch, E. F. and Maniatis, T.,  Molecular Cloning: A Laboratory Manual,  2 nd  ed., Cold Spring Harbor Laboratory: Cold Spring Harbor, N.Y. (1989) (hereinafter “Maniatis”); by Silhavy, T. J., Bennan, M. L. and Enquist, L. W.,  Experiments with Gene Fusions , Cold Spring Harbor Laboratory: Cold Spring Harbor, N.Y. (1984); and by Ausubel, F. M. et al.,  Current Protocols in Molecular Biology , published by Greene Publishing Assoc. and Wiley-Interscience, Hoboken, N.J. (1987). 
+ Genes encoding LPLATs are found in eukaryotic cells, based on their intimate role in de novo synthesis and remodeling of glycerophospholipids, wherein LPLATs remove acyl-CoA fatty acids from the cellular acyl-CoA pool and acylate various lysophospholipid substrates at the sn-2 position in the phospholipid pool. The present disclosure relates to a nucleotide sequence (SEQ ID NO:1) isolated from  Mortierella alpina , encoding a LPAAT (SEQ ID NO:2). This nucleotide and corresponding protein sequence, designated herein as “MaLPAAT1”, were previously described as SEQ ID NOs:80 and 81, respectively, in U.S. patent application Ser. No. 11/265,761, filed Nov. 2, 2005 (the priority of which is claimed herein), corresponding to U.S. Pat. Appl. Pub. No. 2006-0115881-A1 and Intl. App. Pub. No. WO 2006/052870. 
+ Comparison of the MaLPAAT1 nucleotide base and deduced amino acid sequences to public databases reveals that the most similar known sequences are about 44% identical to the amino acid sequence of MaLPAAT1 reported herein over a length of 314 amino acids using a BLASTP method of alignment (Altschul, S. F., et al.,  Nucleic Acids Res.,  25:3389-3402 (1997) and  FEBS J.,  272:5101-5109 (2005); provided by the National Center for Biotechnology Information [“NCBI”]). 
+ More preferred amino acid fragments are at least about 70%-80% identical to the sequences herein, where those sequences that are at least about 80%-90% identical are particularly suitable and those sequences that are at least about 90%-95% identical are most preferred. Similarly, preferred MaLPAAT1 encoding nucleic acid sequences corresponding to the ORF are those encoding active proteins and which are at least about 70%-80% identical to the nucleic acid sequences of MaLPAAT1 reported herein, where those sequences that are at least about 80%-90% identical are particularly suitable and those sequences that are at least about 90%-95% identical are most preferred. 
+ In alternate embodiments, the MaLPAAT1 sequence can be codon-optimized for expression in a particular host organism. As is well known in the art, this can be a useful means to further optimize the expression of the enzyme in the alternate host, since use of host-preferred codons can substantially enhance the expression of the foreign gene encoding the polypeptide. In general, host-preferred codons can be determined within a particular host species of interest by examining codon usage in proteins, preferably those expressed in the largest amount, and determining which codons are used with highest frequency. Then, the coding sequence for a polypeptide of interest having e.g., desaturase activity can be synthesized in whole or in part using the codons preferred in the host species. 
+ Thus, MaLPAAT1 was codon-optimized for expression in  Yarrowia lipolytica . This was possible based on previous determination of the  Y. lipolytica  codon usage profile, identification of those codons that were preferred, and determination of the consensus sequence around the ‘ATG’ initiation codon (see U.S. Pat. No. 7,238,482 and U.S. Pat. No. 7,125,672). The codon-optimized synthetic gene (SEQ ID NO:3), designated herein as “MaLPAAT1S”, encoded the protein as set forth in SEQ ID NO:4. SEQ ID NO:4 identical to that of the wildtype protein sequence (i.e., SEQ ID NO:2). 
+ One skilled in the art would be able to use the teachings herein to create various other codon-optimized LPAAT proteins suitable for optimal expression in alternate hosts (i.e., other than  Yarrowia lipolytica ), based on the wildtype MaLPAAT1 sequence. Accordingly, the disclosure herein relates to any codon-optimized LPAAT protein that is derived from the wildtype MaLPAAT1, that is, encoded by SEQ ID NO:2. This includes, but is not limited to, the nucleotide sequence set forth in SEQ ID NO:3, which encodes a synthetic LPAAT protein (i.e., MaLPAAT1S as set forth in SEQ ID NO:4) that was codon-optimized for expression in  Y. lipolytica.    
+ Any of the instant LPAAT sequences (i.e., MaLPAAT, MaLPAAT1S) or portions thereof may be used to search for LPLAT homologs in the same or other bacterial, algal, fungal, oomycete, yeast, stramenopiles, euglenoid, plant or animal species using sequence analysis software. In general, such computer software matches similar sequences by assigning degrees of homology to various substitutions, deletions, and other modifications. Use of software algorithms, such as the BLASTP method of alignment with a low complexity filter and the following parameters: Expect value=10, matrix=Blosum 62 (Altschul, et al.,  Nucleic Acids Res.  25:3389-3402 (1997)), is well-known for comparing any LPAAT protein against a database of nucleic or protein sequences and thereby identifying similar known sequences within a preferred host organism. 
+ Use of a software algorithm to comb through databases of known sequences is particularly suitable for the isolation of homologs having a relatively low percent identity to publicly available LPAAT sequences, such as those described in SEQ ID NO:2. It is predictable that isolation would be relatively easier for LPAAT homologs of at least about 70%-85% identity to publicly available LPAAT sequences. Further, those sequences that are at least about 85%-90% identical would be particularly suitable for isolation and those sequences that are at least about 90%-95% identical would be the most facilely isolated. 
+ LPAAT homologs can also be identified by the use of motifs unique to the LPLAT enzymes. These motifs likely represent regions of the LPLAT protein that are essential to the structure, stability or activity of the protein and these motifs are useful as diagnostic tools for the rapid identification of novel LPLAT genes. 
+ A variety of LPLAT motifs have been proposed, with slight variation based on the specific species that are included in analyzed alignments. For example, Lewin, T. W. et al. ( Biochemistry,  38:5764-5771 (1999) and Yamashita et al., ( Biochim, Biophys. Acta,  1771:1202-1215 (2007)) proposed the following 1-acyl-sn-glycerol-3-phosphate acyltransferase [(“LPAAT”] family motifs to be important for LPLAT activity, based on alignment of sequences from bacteria, yeast, nematodes and mammals: NHxxxxD (SEQ ID NO:38), GxxFI-[D/R]-R (SEQ ID NO:65), EGTR (SEQ ID NO:39) and either [V/I]-[P/X]-[I/V/L]-[I/V]-P-[V/I] (SEQ ID NO:66) or IVPIVM (SEQ ID NO:67). The NHxxxxD and EGTR motifs are present in MaLPAAT1 (SEQ ID NO:2), but the other motifs are not. Based on the presence of these motifs, MaLPAAT1 (SEQ ID NO:2) is expected to have LPAAT activity. 
+ Alternatively, any of the instant LPAAT sequences or portions thereof may be hybridization reagents for the identification of homologs. The basic components of a nucleic acid hybridization test include a probe, a sample suspected of containing the gene or gene fragment of interest and a specific hybridization method. Probes are typically single-stranded nucleic acid sequences that are complementary to the nucleic acid sequences to be detected. Probes are hybridizable to the nucleic acid sequence to be detected. Although the probe length can vary from 5 bases to tens of thousands of bases, typically a probe length of about 15 bases to about 30 bases is suitable. Only part of the probe molecule need be complementary to the nucleic acid sequence to be detected. In addition, the complementarity between the probe and the target sequence need not be perfect. Hybridization does occur between imperfectly complementary molecules with the result that a certain fraction of the bases in the hybridized region are not paired with the proper complementary base. 
+ Hybridization methods are well defined. Typically the probe and sample must be mixed under conditions that will permit nucleic acid hybridization. This involves contacting the probe and sample in the presence of an inorganic or organic salt under the proper concentration and temperature conditions. The probe and sample nucleic acids must be in contact for a long enough time that any possible hybridization between the probe and sample nucleic acid may occur. The concentration of probe or target in the mixture will determine the time necessary for hybridization to occur. The higher the probe or target concentration, the shorter the hybridization incubation time needed. Optionally, a chaotropic agent may be added, such as guanidinium chloride, guanidinium thiocyanate, sodium thiocyanate, lithium tetrachloroacetate, sodium perchlorate, rubidium tetrachloroacetate, potassium iodide or cesium trifluoroacetate. If desired, one can add formamide to the hybridization mixture, typically 30-50% (v/v) [“by volume”]. 
+ Various hybridization solutions can be employed. Typically, these comprise from about 20 to 60% volume, preferably 30%, of a polar organic solvent. A common hybridization solution employs about 30-50% v/v formamide, about 0.15 to 1 M sodium chloride, about 0.05 to 0.1 M buffers (e.g., sodium citrate, Tris-HCl, PIPES or HEPES (pH range about 6-9)), about 0.05 to 0.2% detergent (e.g., sodium dodecylsulfate), or between 0.5-20 mM EDTA, FICOLL (Pharmacia Inc.) (about 300-500 kdaI), polyvinylpyrrolidone (about 250-500 kdaI), and serum albumin. Also included in the typical hybridization solution will be unlabeled carrier nucleic acids from about 0.1 to 5 mg/mL, fragmented nucleic DNA (e.g., calf thymus or salmon sperm DNA, or yeast RNA), and optionally from about 0.5 to 2% wt/vol [“weight by volume”] glycine. Other additives may also be included, such as volume exclusion agents that include a variety of polar water-soluble or swellable agents (e.g., polyethylene glycol), anionic polymers (e.g., polyacrylate or polymethylacrylate) and anionic saccharidic polymers, such as dextran sulfate. 
+ Nucleic acid hybridization is adaptable to a variety of assay formats. One of the most suitable is the sandwich assay format. The sandwich assay is particularly adaptable to hybridization under non-denaturing conditions. A primary component of a sandwich-type assay is a solid support. The solid support has adsorbed to it or covalently coupled to it immobilized nucleic acid probe that is unlabeled and complementary to one portion of the sequence. 
+ Any of the LPAAT nucleic acid fragments or any identified homologs may be used to isolate genes encoding homologous proteins from the same or other bacterial, algal, fungal, oomycete, yeast, stramenopiles, euglenoid, plant or animal species. Isolation of homologous genes using sequence-dependent protocols is well known in the art. Examples of sequence-dependent protocols include, but are not limited to: 1) methods of nucleic acid hybridization; 2) methods of DNA and RNA amplification, as exemplified by various uses of nucleic acid amplification technologies such as polymerase chain reaction [“PCR”] (U.S. Pat. No.4,683,202); ligase chain reaction [“LCR”] (Tabor, S. et al.,  Proc. Natl. Acad. Sci. U.S.A.,  82:1074 (1985)); or strand displacement amplification [“SDA”] (Walker, et al.,  Proc. Natl. Acad. Sci. U.S.A.,  89:392 (1992)); and, 3) methods of library construction and screening by complementation. 
+ For example, genes encoding similar proteins or polypeptides to the LPAATs described herein could be isolated directly by using all or a portion of the nucleic acid fragments as DNA hybridization probes to screen libraries from any desired organism using well known methods. Specific oligonucleotide probes based upon the nucleic acid sequences can be designed and synthesized by methods known in the art (Maniatis, supra). Moreover, the entire sequences can be used directly to synthesize DNA probes by methods known to the skilled artisan, such as random primers DNA labeling, nick translation or end-labeling techniques, or RNA probes using available in vitro transcription systems. In addition, specific primers can be designed and used to amplify a part of or the full length of the LPAAT sequences. The resulting amplification products can be labeled directly during amplification reactions or labeled after amplification reactions, and used as probes to isolate full-length DNA fragments under conditions of appropriate stringency. 
+ Typically, in PCR-type amplification techniques, the primers have different sequences and are not complementary to each other. Depending on the desired test conditions, the-sequences of the primers should be designed to provide for both efficient and faithful replication of the target nucleic acid. Methods of PCR primer design are common and well known (Thein and Wallace, “The use of oligonucleotides as specific hybridization probes in the Diagnosis of Genetic Disorders”, in  Human Genetic Diseases: A Practical Approach , K. E. Davis Ed., (1986) pp 33-50, IRL: Herndon, Va.; and Rychlik, W., In  Methods in Molecular Biology , White, B. A. Ed., (1993) Vol. 15, pp 31-39, PCR Protocols: Current Methods and Applications. Humania: Totowa, N.J.). 
+ Generally two short segments of the LPAAT sequences may be used in PCR protocols to amplify longer nucleic acid fragments encoding homologous genes from DNA or RNA. PCR may also be performed on a library of cloned nucleic acid fragments wherein the sequence of one primer is derived from the disclosed nucleic acid fragments. The sequence of the other primer takes advantage of the presence of the polyadenylic acid tracts to the 3′ end of the mRNA precursor encoding eukaryotic genes. 
+ Alternatively, the second primer sequence may be based upon sequences derived from the cloning vector. For example, the skilled artisan can follow the RACE protocol (Frohman et al.,  Proc. Natl Acad. Sci. U.S.A.,  85:8998 (1988)) to generate cDNAs by using PCR to amplify copies of the region between a single point in the transcript and the 3′ or 5′ end. Primers oriented in the 3′ and 5′ directions can be designed from the disclosed sequences. Using commercially available 3′ RACE or 5′ RACE systems (e.g., Gibco/BRL, Gaithersburg, Md.), specific 3′ or 5′ cDNA fragments can be isolated (Ohara et al.,  Proc. Natl Acad. Sci. U.S.A.,  86:5673 (1989); Loh et al.,  Science,  243:217 (1989)). 
+ Alternately, any of the LPAAT nucleic acid fragments described herein (or any homologs identified thereof) may be used for creation of new and improved LPLATs. As is well known in the art, in vitro mutagenesis and selection, chemical mutagenesis, “gene shuffling” methods or other means can be employed to obtain mutations of naturally occurring acyltransferase genes. Furthermore, improved LPAATs may be synthesized by domain swapping, wherein a functional domain from any of the LPAAT nucleic acid fragments described herein is exchanged with a functional domain in an alternate LPLAT gene to thereby result in a novel protein. 
+ Based on any of these well-known methods just discussed, it would be possible to identify and/or isolate LPLAT gene homologs in any preferred eukaryotic organism of choice. The activity of any putative LPAAT gene can readily be confirmed by expression of the gene within a LC-PUFA-producing host organism, since the C 18  to C 20  elongation and/or Δ4 desaturation are increased relative to those within an organism lacking the LPAAT transgene. 
+ Methods useful for manipulating biochemical pathways are well known to those skilled in the art. It is expected that introduction of chimeric genes encoding the LPAATs described herein (i.e., MaLPAAT1, MaLPAAT1S or other mutant enzymes, codon-optimized enzymes or homologs thereof, under the control of the appropriate promoters, will be useful for manipulating LC-PUFA biosynthesis in various host cells. 
+ It has been previously hypothesized that LPCATs could be important in the accumulation of EPA in the TAG fraction of  Yarrowia lipolytica  (U.S. Pat. Appl. Pub. No. 2006-0115881-A1). As described therein, this hypothesis was based on the following studies: 1) Stymne S. and A. K. Stobart ( Biochem J.  223(2):305-14(1984)), who hypothesized that the exchange between the acyl-CoA pool and PC pool may be attributed to the forward and backward reaction of LPCAT; 2) Domergue, F. et al. ( J. Bio. Chem  278:35115 (2003)), who suggested that accumulation of GLA at the sn-2 position of PC and the inability to efficiently synthesize ARA in yeast was a result of the elongation step involved in PUFA biosynthesis occurring within the acyl-CoA pool, while Δ5 and Δ6 desaturation steps occurred predominantly at the sn-2 position of PC; 3) Abbadi, A. et al. ( The Plant Cell,  16:2734-2748 (2004)), who suggested that LPCAT plays a critical role in the successful reconstitution of a Δ6 desaturase/Δ6 elongase pathway, based on analysis on the constraints of PUFA accumulation in transgenic oilseed plants; and, 4) Intl. App. Pub. No. WO 2004/076617 A2 (Renz, A. et al.), who provided a gene encoding LPCAT from  Caenorhabditis elegans  (T06E8.1) that substantially improved the efficiency of elongation in a genetically introduced Δ6 desaturase/Δ6 elongase pathway in  S. cerevisiae  fed with exogenous fatty acid substrates suitable for Δ6 elongation. Renz, A. et al. concluded that LPCAT allowed efficient and continuous exchange of the newly synthesized fatty acids between phospholipids and the acyl-CoA pool, since desaturases catalyze the introduction of double bonds in PC-coupled fatty acids while elongases exclusively catalyze the elongation of CoA esterified fatty acids (acyl-CoAs). 
+ Herein, it is demonstrated that LPAAT is indeed important in the accumulation of EPA and DHA in the TAG fraction of  Yarrowia lipolytica . Surprisingly, it was found that over-expression of MaLPAAT1S can result in an improvement in both the Δ9 elongase conversion efficiency and Δ4 desaturase conversion efficiency. As previously defined, conversion efficiency is a term that refers to the efficiency by which a particular enzyme, such as a Δ4 desaturase or Δ9 elongase, can convert substrate to product. Thus, improvement in Δ9 elongase and/or Δ4 desaturase conversion efficiency in a strain engineered to produce DHA was demonstrated to result in increased EPA % TFAs, DHA % TFAs and the ratio of DHA % TFAs to DPA % TFAs. 
+ PUFA desaturations occur on phospholipids, while fatty acid elongations occur on acyl-CoAs. Based on previous studies, it was therefore expected that LPLAT over-expression would result in improved desaturations due to improved substrate availability in phospholipids, while expression of LPLATs was not expected to result in improved elongations that require improved substrate availability in the CoA pool. 
+ Despite these assumptions, Example 6 demonstrates that MaLPAAT1S expression did not improve the conversion efficiency of all desaturations in strains of  Yarrowia  producing DHA, in a comparable manner. Specifically, the conversion efficiency of Δ4 desaturase was selectively improved (118% improvement with respect to the control), while similar improvements were not found in Δ8, Δ5 or Δ17 desaturations. It is hypothesized that Δ4 desaturase was therefore limiting as a result of limited availability of the DPA substrate in phospholipids. 
+ Additionally, Example 6 demonstrates that MaLPAAT1S expression improved the Δ9 elongase conversion efficiency in strains of  Yarrowia  producing DHA (104% improvement with respect to the control). Surprisingly, however, MaLPAAT1S did not also result in a comparable improvement in the efficiency of the C 20/22  elongation of EPA to DPA. 
+ On the basis of the above discussion, methods for improving either C 18  to C 20  elongation conversion efficiency or Δ4 desaturation conversion efficiency in a LC-PUFA-producing recombinant oleaginous microbial host cell are described in Applicant's Assignee's co-filed U.S. Patent Application No. 61,XXXXXX. 
+ Based on the above improvements, one of skill in the art will appreciate the value of expressing a LPLAT, such as MaLPAAT1 or MaLPAAT1S or other mutant enzymes, codon-optimized enzymes or homologs thereof, in a recombinant host cell that is producing LC-PUFAs, such EDA, DGLA, ARA, DTA, DPAn-6, ETrA, ETA, EPA, DPA and DHA, if it is desirable to optimize the production of these fatty acids. 
+ In alternative embodiments, it may be useful to disrupt a host organism's native LPAAT, based on the complete sequences described herein, the complement of those complete sequences, substantial portions of those sequences, codon-optimized desaturases derived therefrom and those sequences that are substantially homologous thereto. 
+ It is necessary to create and introduce a recombinant construct comprising an open reading frame encoding an LPLAT (i.e., MaLPAAT, MaLPAAT1S or other mutant enzymes, codon-optimized enzymes or homologs thereof into a suitable host cell. One of skill in the art is aware of standard resource materials that describe: 1) specific conditions and procedures for construction, manipulation and isolation of macromolecules, such as DNA molecules, plasmids, etc.; 2) generation of recombinant DNA fragments and recombinant expression constructs; and, 3) screening and isolating of clones. See, Sambrook, J., Fritsch, E. F. and Maniatis, T., Molecular Cloning: A Laboratory Manual, 2 nd  ed., Cold Spring Harbor Laboratory: Cold Spring Harbor, N.Y. (1989) (hereinafter “Maniatis”); by Silhavy, T. J., Bennan, M. L. and Enquist, L. W., Experiments with Gene Fusions, Cold Spring Harbor Laboratory: Cold Spring Harbor, N.Y. (1984); and by Ausubel, F. M. et al., Current Protocols in Molecular Biology, published by Greene Publishing Assoc. and Wiley-Interscience, Hoboken, N.J. (1987). 
+ In general, the choice of sequences included in the construct depends on the desired expression products, the nature of the host cell and the proposed means of separating transformed cells versus non-transformed cells. The skilled artisan is aware of the genetic elements that must be present on the plasmid vector to successfully transform, select and propagate host cells containing the chimeric gene. Typically, however, the vector or cassette contains sequences directing transcription and translation of the relevant gene(s), a selectable marker and sequences allowing autonomous replication or chromosomal integration. Suitable vectors comprise a  region  5′ of the gene that controls transcriptional initiation, i.e., a promoter, the gene coding sequence, and a  region  3′ of the DNA fragment that controls transcriptional termination, i.e., a terminator. It is most preferred when both control regions are derived from genes from the transformed host cell, although they need not be derived from genes native to the production host. 
+ Transcription initiation control regions or promoters useful for driving expression of heterologous genes or portions of them in the desired host cell are numerous and well known. These control regions may comprise a promoter, enhancer, silencer, intron sequences, 3′ UTR and/or 5′ UTR regions, and protein and/or RNA stabilizing elements. Such elements may vary in their strength and specificity. Virtually any promoter, i.e., native, synthetic, or chimeric, capable of directing expression of these genes in the selected host cell is suitable, although transcriptional and translational regions from the host species are particularly useful. Expression in a host cell can occur in an induced or constitutive fashion. Induced expression occurs by inducing the activity of a regulatable promoter operably linked to the LPLAT gene of interest, while constitutive expression occurs by the use of a constitutive promoter. 
+ 3′ non-coding sequences encoding transcription termination regions may be provided in a recombinant construct and may be from the 3′ region of the gene from which the initiation region was obtained or from a different gene. A large number of termination regions are known and function satisfactorily in a variety of hosts when utilized in both the same and different genera and species from which they were derived. Termination regions may also be derived from various genes native to the preferred hosts. The termination region is usually selected more for convenience rather than for any particular property. 
+ Particularly useful termination regions for use in yeast are derived from a yeast gene, particularly  Saccharomyces, Schizosaccharomyces, Candida, Yarrowia  or  Kluyveromyces . The 3′-regions of mammalian genes encoding γ-interferon and α-2 interferon are also known to function in yeast. The 3′-region can also be synthetic, as one of skill in the art can utilize available information to design and synthesize a 3′-region sequence that functions as a transcription terminator. A termination region may be unnecessary, but is highly preferred. 
+ The vector may also comprise a selectable and/or scorable marker, in addition to the regulatory elements described above. Preferably, the marker gene is an antibiotic resistance gene such that treating cells with the antibiotic results in growth inhibition, or death, of untransformed cells and uninhibited growth of transformed cells. For selection of yeast transformants, any marker that functions in yeast is useful with resistance to kanamycin, hygromycin and the amino glycoside G418 and the ability to grow on media lacking uracil, lysine, histine or leucine being particularly useful. 
+ Merely inserting a gene (e.g., encoding a LPLAT such as MaLPAAT1, MaLPAAT1S or other mutant enzymes, codon-optimized enzymes or homologs thereof) into a cloning vector does not ensure its expression at the desired rate, concentration, amount, etc. In response to the need for a high expression rate, many specialized expression vectors have been created by manipulating a number of different genetic elements that control transcription, RNA stability, translation, protein stability and location, oxygen limitation, and secretion from the host cell. Some of the manipulated features include: the nature of the relevant transcriptional promoter and terminator sequences, the number of copies of the cloned gene and whether the gene is plasmid-borne or integrated into the genome of the host cell, the final cellular location of the synthesized protein, the efficiency of translation and correct folding of the protein in the host organism, the intrinsic stability of the mRNA and protein of the cloned gene within the host cell and the codon usage within the cloned gene, such that its frequency approaches the frequency of preferred codon usage of the host cell. Each of these may be used in the methods and host cells described herein to further optimize expression of LPLAT genes. 
+ For example, LPLAT expression can be increased at the transcriptional level through the use of a stronger promoter (either regulated or constitutive) to cause increased expression, by removing/deleting destabilizing sequences from either the mRNA or the encoded protein, or by adding stabilizing sequences to the mRNA (U.S. Pat. No. 4,910,141). Alternately, additional copies of the LPLAT genes may be introduced into the recombinant host cells to thereby increase LC-PUFA production and accumulation, either by cloning additional copies of genes within a single expression construct or by introducing additional copies into the host cell by increasing the plasmid copy number or by multiple integration of the cloned gene into the genome. 
+ After a recombinant construct is created comprising at least one chimeric gene comprising a promoter, a LPLAT open reading frame [“ORF”] and a terminator, it is placed in a plasmid vector capable of autonomous replication in the host cell or is directly integrated into the genome of the host cell. Integration of expression cassettes can occur randomly within the host genome or can be targeted through the use of constructs containing regions of homology with the host genome sufficient to target recombination with the host locus. Where constructs are targeted to an endogenous locus, all or some of the transcriptional and translational regulatory regions can be provided by the endogenous locus. 
+ When two or more genes are expressed from separate replicating vectors, each vector may have a different means of selection and should lack homology to the other construct(s) to maintain stable expression and prevent reassortment of elements among constructs. Judicious choice of regulatory regions, selection means and method of propagation of the introduced construct(s) can be experimentally determined so that all introduced genes are expressed at the necessary levels to provide for synthesis of the desired products. 
+ Constructs comprising the gene(s) of interest may be introduced into a host cell by any standard technique. These techniques include transformation, e.g., lithium acetate transformation ( Methods in Enzymology,  194:186-187 (1991)), biolistic impact, electroporation, microinjection, vacuum filtration or any other method that introduces the gene of interest into the host cell. 
+ For convenience, a host cell that has been manipulated by any method to take up a DNA sequence, for example, in an expression cassette, is referred to herein as “transformed” or “recombinant” or “transformant”. The transformed host will have at least one copy of the expression construct and may have two or more, depending upon whether the gene is integrated into the genome, amplified, or is present on an extrachromosomal element having multiple copy numbers. 
+ The transformed host cell can be identified by selection for a marker contained on the introduced construct. Alternatively, a separate marker construct may be co-transformed with the desired construct, as many transformation techniques introduce many DNA molecules into host cells. 
+ Typically, transformed hosts are selected for their ability to grow on selective media, which may incorporate an antibiotic or lack a factor necessary for growth of the untransformed host, such as a nutrient or growth factor. An introduced marker gene may confer antibiotic resistance, or encode an essential growth factor or enzyme, thereby permitting growth on selective media when expressed in the transformed host. Selection of a transformed host can also occur when the expressed marker protein can be detected, either directly or indirectly. Additional selection techniques are described in U.S. Pat. Nos. 7,238,482 and 7,259,255. 
+ Following transformation, substrates suitable for LPLATs (and, optionally other LC-PUFA enzymes that are co-expressed within the host cell) may be produced by the host either naturally or transgenically, or they may be provided exogenously. 
+ Regardless of the selected host or expression construct, multiple transformants must be screened to obtain a strain displaying the desired expression level and pattern. For example, Juretzek et al. ( Yeast,  18:97-113 (2001)) note that the stability of an integrated DNA fragment in  Yarrowia lipolytica  is dependent on the individual transformants, the recipient strain and the targeting platform used. Such screening may be accomplished by Southern analysis of DNA blots (Southern,  J. Mol. Biol.,  98:503 (1975)), Northern analysis of mRNA expression (Kroczek,  J. Chromatogr. Biomed. Appl.,  618(1-2):133-145 (1993)), Western analysis of protein expression, phenotypic analysis or GC analysis of the PUFA products. 
+ A variety of eukaryotic organisms are suitable as host, to thereby yield a transformant comprising a LPAAT as described herein, including bacteria, yeast, algae, stramenopile, oomycete, euglenoid and/or fungus. This is contemplated because transcription, translation and the protein biosynthetic apparatus is highly conserved. Thus, suitable hosts may include those that grow on a variety of feedstocks, including simple or complex carbohydrates, fatty acids, organic acids, oils, glycerols and alcohols, and/or hydrocarbons over a wide range of temperature and pH values. 
+ Preferred microbial hosts are oleaginous organisms. These oleaginous organisms are naturally capable of oil synthesis and accumulation, wherein the total oil content can comprise greater than about 25% of the dry cell weight, more preferably greater than about 30% of the dry cell weight, and most preferably greater than about 40% of the dry cell weight. Various bacteria, algae, euglenoids, moss, fungi, yeast and stramenopiles are naturally classified as oleaginous. In alternate embodiments, a non-oleaginous organism can be genetically modified to become oleaginous, e.g., yeast such as  Saccharomyces cerevisiae.    
+ In more preferred embodiments, the microbial host cells are oleaginous yeast. Genera typically identified as oleaginous yeast include, but are not limited to:  Yarrowia, Candida, Rhodotorula, Rhodosporidium, Cryptococcus, Trichosporon  and  Lipomyces . More specifically, illustrative oil-synthesizing yeast include:  Rhodosporidium toruloides, Lipomyces starkeyii, L. lipoferus, Candida revkaufi, C. pulcherrima, C. tropicalis, C. utilis, Trichosporon pullans, T. cutaneum, Rhodotorula glutinus, R. graminis  and  Yarrowia lipolytica  (formerly classified as  Candida lipolytica ). Most preferred is the oleaginous yeast  Yarrowia lipolytica ; and, in a further embodiment, most preferred are the  Y. lipolytica  strains designated as ATCC #76982,  ATCC # 20362, ATCC #8862, ATCC #18944 and/or LGAM S(7)1 (Papanikolaou S., and Aggelis G.,  Bioresour. Technol.,  82(1):43-9 (2002)). 
+ Most preferably, the host organism will be capable of producing LC-PUFAs, comprising at least one of the biosynthetic pathways described below (although this pathway can be native to the host cell or can be genetically engineered), in addition to being oleaginous. 
+ The metabolic process wherein oleic acid is converted to LC-PUFAs involves elongation of the carbon chain through the addition of carbon atoms and desaturation of the molecule through the addition of double bonds. This requires a series of special desaturation and elongation enzymes present in the endoplasmic reticulum membrane. However, as seen in  FIG. 1  and as described below, multiple alternate pathways exist for LC-PUFA production. 
+ Specifically,  FIG. 1  depicts the pathways described below. All pathways require the initial conversion of oleic acid to linoleic acid [“LA”], the first of the ω-6 fatty acids, by a Δ12 desaturase. Then, using the “Δ9 elongase/Δ8 desaturase pathway” and LA as substrate, long-chain ω-6 fatty acids are formed as follows: 1) LA is converted to eicosadienoic acid [“EDA”] by a Δ9 elongase; 2) EDA is converted to dihomo-γ-linolenic acid [“DGLA”] by a Δ8 desaturase; 3) DGLA is converted to arachidonic acid [“ARA”] by a Δ5 desaturase; 4) ARA is converted to docosatetraenoic acid [“DTA”] by a C 20/22  elongase; and, 5) DTA is converted to docosapentaenoic acid [“DPAn-6”] by a Δ4 desaturase. 
+ The “Δ9 elongase/Δ8 desaturase pathway” can also use α-linolenic acid [“ALA”] as substrate to produce long-chain ω-3 fatty acids as follows: 1) LA is converted to ALA, the first of the ω-3 fatty acids, by a Δ15 desaturase; 2) ALA is converted to eicosatrienoic acid [“ETrA”] by a Δ9 elongase; 3) ETrA is converted to eicosatetraenoic acid [“ETA”] by a Δ8 desaturase; 4) ETA is converted to eicosapentaenoic acid [“EPA”] by a Δ5 desaturase; 5) EPA is converted to docosapentaenoic acid [“DPA”] by a C 20/22  elongase; and, 6) DPA is converted to docosahexaenoic acid [“DHA”] by a Δ4 desaturase. Optionally, ω-6 fatty acids may be converted to ω-3 fatty acids. For example, ETA and EPA are produced from DGLA and ARA, respectively, by Δ17 desaturase activity. 
+ Alternate pathways for the biosynthesis of ω-3/ω-6 fatty acids utilize a Δ6 desaturase and C 18/20  elongase, that is, the “Δ6 desaturase/Δ6 elongase pathway”. More specifically, LA and ALA may be converted to GLA and stearidonic acid [“STA”], respectively, by a Δ6 desaturase; then, a Δ6 elongase converts GLA to DGLA and/or STA to ETA. Downstream PUFAs are subsequently formed as described above. 
+ The LC-PUFA-producing oleaginous host cell will preferably be capable of producing at least about 2-5% LC-PUFAs in the total lipids of the recombinant host cell, more preferably at least about 5-15% LC-PUFAs in the total lipids, more preferably at least about 15-35% LC-PUFAs in the total lipids, more preferably at least about 35-50% LC-PUFAs in the total lipids, more preferably at least about 50-65% LC-PUFAs in the total lipids and most preferably at least about 65-75% LC-PUFAs in the total lipids. The structural form of the LC-PUFAs is not limiting; thus, for example, the EPA or DHA may exist in the total lipids as free fatty acids or in esterified forms such as acylglycerols, phospholipids, sulfolipids or glycolipids. 
+ A variety of organisms naturally produce LC-PUFAs. For example, ARA, EPA and/or DHA is produced via  Cyclotella  sp.,  Crypthecodinium  sp.,  Mortierella  sp.,  Nitzschia  sp.,  Pythium, Thraustochytrium  sp. and  Schizochytrium  sp. Thus, for example, transformation of  Mortierella alpina , which is commercially used for production of ARA, with MaLPAAT1 or MaLPAAT1S under the control of inducible or regulated promoters could yield a transformant capable of synthesizing increased quantities of ARA. The method of transformation of  M. alpina  is described by Mackenzie et al. ( Appl. Environ. Microbiol.,  66:4655 (2000)). Similarly, methods for transformation of Thraustochytriales microorganisms (e.g.,  Thraustochytrium, Schizochytrium ) are disclosed in U.S. Pat. No. 7,001,772. 
+ Alternately, the preferred host cell can be engineered to produce LC-PUFAs. For example, specific teachings applicable for engineering ARA, EPA and DHA production in the oleaginous yeast,  Yarrowia lipolytica , are provided in U.S. Pat. Appl. Pub. No. 2006-0094092-A1, U.S. Pat. Appl. Pub. No. 2006-0115881-A1, U.S. Pat. Appl. Pub. No. 2009-0093543-A1 and U.S. Pat. Appl. Pub. No. 2006-0110806-A1, respectively. These references also describe the preferred method of expressing genes in  Y. lipolytica  by integration of a linear DNA fragment into the genome of the host, preferred promoters, termination regions, integration loci and disruptions, and preferred selection methods when using this particular host species. 
+ One of skill in the art would be able to use the cited teachings in U.S. Pat. Appl. Pub. Nos. 2006-0094092-A1, 2006-0115881-A1, 2009-0093543-A1 and 2006-0110806-A1 to recombinantly engineer other host cells for LC-PUFA production. 
+ In alternate embodiments, suitable hosts may be plants or other animals. For example, oilseed plants that can be readily engineered for LC-PUFA production include: soybean ( Glycine  and  Soja  sp.), corn ( Zea mays ), flax ( Linum  sp.), rapeseed ( Brassica  sp.), primrose, canola, maize, cotton, safflower ( Carthamus  sp.) and sunflower ( Helianthus  sp.). See, for example, U.S. Pat. Appl. Pub. No. 2007-0237876 A1. One of skill in the art will appreciate the value of co-expressing a LPLAT (i.e., MaLPAAT1, MaLPAAT1S or other mutant enzymes, codon-optimized enzymes or homologs thereof), with genes encoding a LC-PUFA biosynthetic pathway, based on the disclosure herein. 
+ The transformed recombinant host cell is grown under conditions that optimize expression of chimeric genes (e.g., encoding LPLATs, etc.) and preferably produce the greatest and the most economical yield of LC-PUFA(s). In general, media conditions may be optimized by modifying the type and amount of carbon source, the type and amount of nitrogen source, the carbon-to-nitrogen ratio, the amount of different mineral ions, the oxygen level, growth temperature, pH, length of the biomass production phase, length of the oil accumulation phase and the time and method of cell harvest. 
+ Microorganisms of interest, such as oleaginous yeast, are generally grown in a complex media such as yeast extract-peptone-dextrose broth (YPD) or a defined minimal media that lacks a component necessary for growth and thereby forces selection of the desired expression cassettes (e.g., Yeast Nitrogen Base (DIFCO Laboratories, Detroit, Mich.)). 
+ Fermentation media for the methods and host cells described herein must contain a suitable carbon source, such as are taught in U.S. Pat. No. 7,238,482. Although it is contemplated that the source of carbon utilized may encompass a wide variety of carbon-containing sources, preferred carbon sources are sugars, glycerol and/or fatty acids. Most preferred is glucose and/or fatty acids containing between 10-22 carbons. 
+ Nitrogen may be supplied from an inorganic (e.g., (NH 4 ) 2 SO 4 ) or organic (e.g., urea or glutamate) source. In addition to appropriate carbon and nitrogen sources, the fermentation media must also contain suitable minerals, salts, cofactors, buffers, vitamins and other components known to those skilled in the art suitable for the growth of LC-PUFA(s)-producing host cells and the promotion of the enzymatic pathways for LC-PUFA production. Particular attention is given to several metal ions, such as Fe +2 , Cu +2 , Mn +2 , Co +2 , Zn +2  and Mg +2 , that promote synthesis of lipids and PUFAs (Nakahara, T. et al.,  Ind. Appl. Single Cell Oils , D. J. Kyle and R. Colin, eds. pp 61-97 (1992)). 
+ Preferred growth media for the methods and host cells described herein are common commercially prepared media, such as Yeast Nitrogen Base (DIFCO Laboratories, Detroit, Mich.). Other defined or synthetic growth media may also be used and the appropriate medium for growth of  Yarrowia lipolytica  will be known by one skilled in the art of microbiology or fermentation science. A suitable pH range for the fermentation is typically between about pH 4.0 to pH 8.0, wherein pH 5.5 to pH 7.5 is preferred as the range for the initial growth conditions. The fermentation may be conducted under aerobic or anaerobic conditions, wherein microaerobic conditions are preferred. 
+ Typically, accumulation of high levels of LC-PUFAs in oleaginous yeast cells requires a two-stage process, since the metabolic state must be “balanced” between growth and synthesis/storage of fats. Thus, most preferably, a two-stage fermentation process is necessary for the production of LC-PUFAs in  Yarrowia lipolytica . This approach is described in U.S. Pat. No. 7,238,482, as are various suitable fermentation process designs (i.e., batch, fed-batch and continuous) and considerations during growth. 
+ In some aspects, the primary product is oleaginous yeast biomass. As such, isolation and purification of the LC-PUFA-containing oils from the biomass may not be necessary (i.e., wherein the whole cell biomass is the product). 
+ However, certain end uses and/or product forms may require partial and/or complete isolation/purification of the LC-PUFA-containing oil from the biomass, to result in partially purified biomass, purified oil, and/or purified LC-PUFAs. Fatty acids, including PUFAs, may be found in the host microorganisms as free fatty acids or in esterified forms such as acylglycerols, phospholipids, sulfolipids or glycolipids. These fatty acids may be extracted from the host cells through a variety of means well-known in the art. One review of extraction techniques, quality analysis and acceptability standards for yeast lipids is that of Z. Jacobs ( Critical Reviews in Biotechnology,  12(5/6):463-491 (1992)). A brief review of downstream processing is also available by A. Singh and O. Ward ( Adv. Appl. Microbiol.,  45:271-312 (1997)). 
+ In general, means for the purification of fatty acids (including LC-PUFAs) may include extraction (e.g., U.S. Pat. Nos. 6,797,303 and 5,648,564) with organic solvents, sonication, supercritical fluid extraction (e.g., using carbon dioxide), saponification and physical means such as presses, or combinations thereof. See U.S. Pat. No. 7,238,482. 
+ EXAMPLES 
+ The present invention is further defined in the following Examples. It should be understood that these Examples, while indicating preferred embodiments of the invention, are given by way of illustration only. From the above discussion and these Examples, one skilled in the art can ascertain the essential characteristics of this invention, and without departing from the spirit and scope thereof, can make various changes and modifications of the invention to adapt it to various usages and conditions. 
+ General Methods 
+ Standard recombinant DNA and molecular cloning techniques used in the Examples are well known in the art and are described by: 1.) Sambrook, J., Fritsch, E. F. and Maniatis, T.  Molecular Cloning: A Laboratory Manual ; Cold Spring Harbor Laboratory: Cold Spring Harbor, N.Y. (1989) (Maniatis); 2.) T. J. Silhavy, M. L. Bennan, and L. W. Enquist, Experiments with Gene Fusions; Cold Spring Harbor Laboratory: Cold Spring Harbor, N.Y. (1984); and, 3.) Ausubel, F. M. et al., Current Protocols in Molecular Biology, published by Greene Publishing Assoc. and Wiley-Interscience (1987). 
+ Materials and methods suitable for the maintenance and growth of microbial cultures are well known in the art. Techniques suitable for use in the following Examples may be found as set out in  Manual of Methods for General Bacteriology  (Phillipp Gerhardt, R. G. E. Murray, Ralph N. Costilow, Eugene W. Nester, Willis A. Wood, Noel R. Krieg and G. Briggs Phillips, Eds), American Society for Microbiology: Washington, D.C. (1994)); or by Thomas D. Brock in  Biotechnology: A Textbook of Industrial Microbiology,  2 nd  ed., Sinauer Associates: Sunderland, Mass. (1989). All reagents, restriction enzymes and materials used for the growth and maintenance of microbial cells were obtained from Aldrich Chemicals (Milwaukee, Wis.), DIFCO Laboratories (Detroit, Mich.), GIBCO/BRL (Gaithersburg, Md.) or Sigma Chemical Company (St. Louis, Mo.), unless otherwise specified. 
+   E. coli  TOP10 cells were obtained from Invitrogen (Carlsbad, Calif.).  E. coli  (XL1-Blue) competent cells were purchased from the Stratagene Company (San Diego, Calif.).  E. coil  strains were typically grown at 37° C. on Luria Bertani (LB) plates. 
+ General molecular cloning was performed according to standard methods (Sambrook et al., supra). Oligonucleotides were synthesized by Sigma-Genosys (Spring, Tex.). PCR products were cloned into Promega's pGEM-T-easy vector (Madison, Wis.). 
+ DNA sequence was generated on an ABI Automatic sequencer using dye terminator technology (U.S. Pat. No. 5,366,860; EP 272,007) using a combination of vector and insert-specific primers. Sequence editing was performed in Sequencher (Gene Codes Corporation, Ann Arbor, Mich.). All sequences represent coverage at least two times in both directions. Comparisons of genetic sequences were accomplished using DNASTAR software (DNASTAR, Inc., (Madison, Wis.). 
+ The meaning of abbreviations is as follows: “sec” means second(s), “min” means minute(s), “h” means hour(s), “d” means day(s), “μl” means microliter(s), “mL” means milliliter(s), “L” means liter(s), “μM” means micromolar, “mM” means millimolar, “M” means molar, “mmol” means millimole(s), “μmole” mean micromole(s), “g” means gram(s), “μg” means microgram(s), “ng” means nanogram(s), “U” means unit(s), “bp” means base pair(s) and “kB” means kilobase(s). 
+ Nomenclature for Expression Cassettes 
+ The structure of an expression cassette will be represented by a simple notation system of “X::Y::Z”, wherein X describes the promoter fragment, Y describes the gene fragment, and Z describes the terminator fragment, which are all operably linked to one another. 
+ Transformation and Cultivation of  Yarrowia lipolytica    
+   Yarrowia lipolytica    strain ATCC # 20362 was purchased from the American Type Culture Collection (Rockville, Md.).  Yarrowia lipolytica  strains were routinely grown at 28-30° C. in several media (e.g., YPD agar medium, Basic Minimal Media [“MM”], Minimal Media+5-Fluoroorotic Acid [“MM+5-FOA”], High Glucose Media [“HGM”] and Fermentation medium [“FM”]), as described in U.S. Pat. Appl. Pub. No. 2009-0093543-A1. 
+ Transformation of  Y. lipolytica  was performed as described in U.S. Pat. Appl. Pub. No. 2009-0093543-A1. 
+ Fatty Acid Analysis of  Yarrowia lipolytica    
+ For fatty acid [“FA”] analysis, cells were collected by centrifugation and lipids were extracted as described in Bligh, E. G. & Dyer, W. J. (Can.  J. Biochem. Physiol.,  37:911-917 (1959)). Fatty acid methyl esters [“FAMEs”] were prepared by transesterification of the lipid extract with sodium methoxide (Roughan, G., and Nishida I.  Arch Biochem Biophys.,  276(1):38-46 (1990)) and subsequently analyzed with a Hewlett-Packard 6890 GC fitted with a 30-m×0.25 mm (i.d.) HP-INNOWAX (Hewlett-Packard) column. The oven temperature was from 170° C. (25 min hold) to 185° C. at 3.5° C./min. 
+ For direct base transesterification,  Yarrowia  cells (0.5 mL culture) were harvested, washed once in distilled water, and dried under vacuum in a Speed-Vac for 5-10 min. Sodium methoxide (100 μl of 1%) and a known amount of C15:0 triacylglycerol (C15:0 TAG; Cat. No. T-145, Nu-Check Prep, Elysian, Minn.) was added to the sample, and then the sample was vortexed and rocked for 30 min at 50° C. After adding 3 drops of 1 M NaCl and 400 μl hexane, the sample was vortexed and spun. The upper layer was removed and analyzed by GC. 
+ FAME peaks recorded via GC analysis were identified by their retention times, when compared to that of known fatty acids, and quantitated by comparing the FAME peak areas with that of the internal standard (C15:0 TAG) of known amount. Thus, the approximate amount (μg) of any fatty acid FAME [“μg FAME”] is calculated according to the formula: (area of the FAME peak for the specified fatty acid/area of the standard FAME peak)*(μg of the standard C15:0 TAG), while the amount (μg) of any fatty acid [“μg FA”] is calculated according to the formula: (area of the FAME peak for the specified fatty acid/area of the standard FAME peak)*(μg of the standard C15:0 TAG)*0.9503, since 1 μg of C15:0 TAG is equal to 0.9503 μg fatty acids. Note that the 0.9503 conversion factor is an approximation of the value determined for most fatty acids, which range between 0.95 and 0.96. 
+ The lipid profile, summarizing the amount of each individual fatty acid as a weight percent of TFAs, was determined by dividing the individual FAME peak area by the sum of all FAME peak areas and multiplying by 100. 
+ Example 1 
+ Construction of  Mortierella alpina  cDNA 
+ The construction of cDNA from  Mortierella alpina  strain ATCC #16266 using the BD-Clontech Creator Smart® cDNA library kit (Mississauga, ON, Canada) is described in U.S. Pat. No. 7,189,559, although the newly created cDNA was not subjected to digestion with SfiI for the purposes herein. 
+ Example 2 
+ Identification of a Partial Internal Lysophosphatidic Acid Acyltransferase Sequence from  Mortierella alpina    
+ The present Example describes the identification of an internal 211 bp cDNA fragment (SEQ ID NO:5) of a  M. alpina  lysophosphatidic acid acyltransferase [“LPAAT”] using degenerate oligonucleotides and PCR. 
+ Based on an amino acid alignment of fungal LPAAT homologs, 5′ degenerate oligonucleotide primers MaLP1 — 5-1 (SEQ ID NO:6) and  MaLP2       — 5 — 1 (SEQ ID NO:7) and 3′ degenerate oligonucleotide primers MaLP1 — 3-2 (SEQ ID NO:8) and MaLP2 — 3-2 (SEQ ID NO:9) were synthesized. 
+ The cDNA (2 μl) described in Example 1 was used as the template for PCR amplification with all combinations of the degenerate oligonucleotide primers described above. In addition to 1 μl each of 100  μM  5′ and 3′ degenerate primers, 1 μL of PCR nucleotide mix (10 mM, Promega, Madison, Wis.), 5 μL of 10× PCR buffer (Invitrogen), 1.5 μL of MgCl 2  (50 mM, Invitrogen), 0.5 μL of Taq polymerase (Invitrogen) and water to 50 μL was added to each of the 4 PCR reactions. Amplification was carried out as follows: initial denaturation at 94° C. for 3 min, followed by 35 cycles of denaturation at 94° C. for 45 sec, annealing at 50° C. for 45 sec and elongation at 72° C. for 1 min. A final elongation cycle at 72° C. for 7 min was carried out, followed by reaction termination at 4° C. The PCR products were separated by agarose gel electrophoresis and each DNA band was purified using the Zymoclean™ Gel DNA Recovery Kit (Zymo Research, Orange, Calif.) following the manufacturer's protocol. The resulting DNA was cloned into the pGEM®-T Easy Vector (Promega) following the manufacturer's protocol. Multiple clones were sequenced using T7 (SEQ ID NO:10) and M13-28Rev (SEQ ID NO:11) primers. A consensus sequence combining all of the individual sequences obtained (after removing sequence resulting from the degenerate oligonucleotides themselves) is shown in SEQ ID NO:5. This sequence was determined to be an internal cDNA fragment of a  M. alpina  lysophosphatidic acid acyltransferase, designated herein as “MaLPAAT1”. 
+ Example 3 
+ Identification of the 3′ End Sequence of a Lysophosphatidic Acid Acyltransferase from  Mortierella alpina    
+ The present Example describes the identification of the 3′ end sequence of the  M. alpina  lysophosphatidic acid acyltransferase [“MaLPAAT1”] identified in Example 2, via PCR. 
+ Oligonucleotide primers MaLP3R1-1 (SEQ ID NO:12) and MaLP3R1-2 (SEQ ID NO:13) were designed for PCR of the 3′ end of MaLPAAT1, based on the internal sequence fragment obtained in Example 2 (SEQ ID NO:5). These two primers were alternately paired with the CDS III/3′ PCR Primer (SEQ ID NO:14), used in creation of the library (BD-Clontech, Mississauga, ON, Canada) for the PCR. Specifically, 2 separate reactions were prepared comprising either MaLP3R1-1 (SEQ ID NO:12) and CDS III/3′ PCR Primer (SEQ ID NO:14) or MaLP3R1-2 (SEQ ID NO:13) and CDS III/3′ PCR Primer (SEQ ID NO:14). 
+ Thus, each PCR reaction contained: 2 μl of cDNA (Example 1), 1 μl of 100 μM of each primer, 1 μL of PCR nucleotide mix (10 mM, Promega), 5 μL of 10× PCR buffer (Invitrogen), 1.5 μL of MgCl 2  (50 mM, Invitrogen), 0.5 μL of Taq polymerase (Invitrogen) and water to 50 μL. Amplification, purification of each PCR product, cloning and sequencing using T7 (SEQ ID NO:10) and M13-28Rev (SEQ ID NO:11) primers was carried out according to the conditions described in Example 2. A 669 bp consensus sequence for the 3′ end of MaLPAAT1 combining all of the individual sequences obtained (after removing sequence resulting from the oligonucleotides themselves) is shown in SEQ ID NO:15. 
+ Example 4 
+ Identification of the 5′ End Sequence of a Lysophosphatidic Acid Acyltransferase from  Mortierella alpina    
+ The present Example describes the identification of the 5′ end sequence of the  M. alpina  lysophosphatidic acid acyltransferase [“MaLPAAT1”] identified in Example 2, using genome walking. 
+ Preparation of Genomic DNA from  Mortierella alpina    
+ Genomic DNA was isolated from  Mortierella alpina  (ATCC #16266) using a QiaPrep Spin Miniprep Kit (Qiagen, Catalog #627106). Cells grown on a YPD agar plate (2% Bacto-yeast extract, 3% Bactor-peptone, 2% glucose, 2.5% bacto-agar) were scraped off and resuspended in 1.2 mL of kit buffer P1. The resuspended cells were placed in two 2.0 mL screw cap tubes, each containing 0.6 mL glass beads (0.5 mm diameter). The cells were homogenized at the HOMOGENIZE setting on a Biospec (Bartlesville, Okla.) mini bead beater for 2 min. The tubes were then centrifuged at 14,000 rpm in an Eppendorf microfuge for 2 min. The supernatant (0.75 mL) was transferred to three 1.5 mL microfuge tubes. Equal volumes of kit buffer P2 were added to each tube. After mixing the tubes by inversion three times, 0.35 mL of buffer N3 was added to each tube. The contents of each tube were again mixed by inversion for a total of five times. The mixture was centrifuged at 14,000 rpm in an Eppendorf microfuge for 5 min. The supernatant from each tube was transferred individually into 3 separate kit spin columns. The columns were then subjected to the following steps: centrifugation (1 min at 14,000 rpm), wash once with buffer PE, centrifugation (1 min at 14,000 rpm), and then a final centrifugation (1 min at 14,000 rpm). Buffer EB (50 μl) was added to each column and let stand for 1 min. The genomic DNA was then eluted by centrifugation at 14,000 rpm for 1 min. 
+ Genome Walking 
+ A Clontech Universal GenomeWalker™ kit was used to obtain a piece of genomic DNA corresponding to the 5′-end region of MaLPAAT1. Briefly, 2.5 μg each of  M. alpina  genomic DNA was digested with DraI, EcoRV, PvuII or StuI individually, the digested DNA samples were purified using Qiagen Qiaquick PCR purification kits and eluted with 30 μl each of kit buffer EB, and the purified samples were then ligated with Genome Walker adaptor (SEQ ID NOs:16 [top strand] and 17 [bottom strand]). 
+ Each ligation reaction mixture contained 1.9 μl of 25 μM Genome Walker adaptor, 1.6 μl 10× ligation buffer, 0.5 μl T4 DNA ligase and 4 μl of one of the purified digested genomic DNA samples. The reaction mixtures were incubated at 16° C. overnight. The reaction was terminated by incubation at 70° C. for 5 min. Then, 72 μl of 10 mM TrisHCl, 1 mM EDTA, pH 7.4 buffer was added to each ligation reaction mix. 
+ Four separate PCR reactions were performed, each using one of the four ligation mixtures as template. The PCR reaction mixtures contained 1 μl of ligation mixture, 0.5 μl of 20 μM MaLPAT2-5-1 (SEQ ID NO:18), 1 μl of 10 μM kit primer AP1 (SEQ ID NO:19), 22.5 μl water, and 25 μl  ExTaq premix Taq  2× PCR solution (TaKaRa Bio Inc., Otsu, Shiga, 520-2193, Japan). The PCR reactions were carried out for 30 cycles using the following conditions: denaturation at 94° C. for 30 sec, annealing at 55° C. for 30 sec, and elongation at 72° C. for 180 sec. A final elongation cycle at 72° C. for 7 min was carried out, followed by reaction termination at 4° C. 
+ The products of each PCR reaction were diluted 1:50 individually and used as templates for a second round of PCR. Each reaction mixture contained 1 μl of one of the diluted PCR products as template, 0.5 μl of 20 μM MaLPAT2-5-2 (SEQ ID NO:20), 1 μl of 10 μM kit primer AP2 (SEQ ID NO:21), 22.5 μl water and 25 μl of  ExTaq premix Taq  2× PCR solution (TaKaRa). PCR reactions were carried out for 30 cycles using the same thermocycler conditions described above. 
+ A DNA fragment was obtained from the second round of PCR with the StuI digested genomic DNA template. This fragment was purified and cloned into pCR2.1-TOPO and sequenced. Sequence analysis showed that the 1947 bp fragment (SEQ ID NO:22) was the 5′-end of the  M. alpina  LPAAT1. This fragment extends beyond the start of the ORF and includes 1401 bp of the 5′ untranslated region. 
+ Separately, double-stranded cDNA of  M. alpina  was used as the template for amplification of the 5′-end of the MaLPAAT1 cDNA. In the first round of PCR amplification, the oligonucleotide primers consisted of MaLPAT2-5-1 (SEQ ID NO:18) and the  generic oligonucleotide  5′-CDSIII primer (SEQ ID NO:23) from the BD-Clontech Creator™ SMART™ cDNA Library Kit. The PCR amplifications were carried out in a 50 μl total volume, comprising: 1 μl of 1:10 diluted  M. alpina  cDNA as template (Example 1), 1 μl of each primer (20 μM), 22 μl water and 25  μl ExTaq  2× premix (TaKaRa). Amplification was carried out as follows: initial denaturation at 94° C. for 90 sec, followed by 30 cycles of denaturation at 94° C. for 30 sec, annealing at 55° C. for 30 sec and elongation at 72 ° C. for 1 min. A final elongation cycle at 72° C. for 7 min was carried out. 
+ The second round of PCR amplification used 1 μl of diluted product (1:50) from the first round PCR reaction as template. Primers consisted of a gene specific oligonucleotide, i.e., MaLPAT2-5-2 (SEQ ID NO:20) and the  oligonucleotide  5′-CDSIII (SEQ ID NO:23). Amplification was conducted as described above. 
+ The products of the second round PCR reaction were electrophoresed in 1% (w/v) agarose and appeared as a diffused band spanning the size range of ˜500 bp. It was purified using the Qiagen Gel purification kit according to the manufacturer's protocol, cloned into pCR2.1-TOPO (Invitrogen), and transformed into  E. coli . Transformants were selected on LB agar containing ampicillin (100 μg/mL). 
+ Sequence analysis of the plasmid DNA from one transformant revealed a fragment of 502 bp (SEQ ID NO:24). This fragment extends beyond the start of the ORF and includes 156 bp of the 5′ untranslated region. 
+ Comparison of the sequences of the 1947 bp genomic fragment (SEQ ID NO:22) and the 502 bp cDNA fragment (SEQ ID NO:24) revealed the presence of a 189 bp intron (SEQ ID NO:25, corresponding to bases 1412-1600 of SEQ ID NO:22), excised from within the 4 th  codon of the translated protein. 
+ Example 5 
+ Identification of a Full-Length Lysophosphatidic Acid Acyltransferase cDNA Sequence from  Mortierella alpina    
+ The present Example describes the identification of the complete cDNA sequence of the  M. alpina  lysophosphatidic acid acyltransferase [“MaLPAAT1”]. 
+ The 5′ genomic sequence (SEQ ID NO:22, Example 4), the internal cDNA sequence (SEQ ID NO:5, Example 2) and the 3′ cDNA sequence (SEQ ID NO:15, Example 3) were aligned using Sequencher™ (Version 4.2, Gene Codes Corporation, Ann Arbor, Mich.). The complete 2756 bp hybrid sequence is shown in SEQ ID NO:26. Bases 1-1401 of SEQ ID NO:26 correspond to the 5′ untranslated region, the ‘ATG’ translation initiation codon is located at bases 1402-1404, the intron corresponds to bases 1412-1600 of the hybrid sequence, the ‘TAG’ termination codon is located at bases 2533-2535, and the remaining 221 bases of the sequence correspond to 3′ untranslated region. 
+ Oligonucleotide primers MaLP1 — 5NotI (SEQ ID NO:27) and MaLP1 — 3NotI (SEQ ID NO:28) were designed to PCR the complete MaLPAAT1 coding sequence from the cDNA. MaLP1 — 5NotI (SEQ ID NO:27) spans the predicted intron in the 5′ genomic sequence. 
+ The composition of the PCR reaction was as described in Example 3. Amplification, purification of the cDNA product and cloning into pGEM®-T Easy Vector was carried out according to the conditions described in Example 2. 
+ Multiple clones were sequenced using T7 (SEQ ID NO:10) and M13-28Rev (SEQ ID NO:11) primers. The done designated as “pLF109” (SEQ ID NO:29) confirmed the coding sequence and corresponding amino acid sequence for MaLPAAT1 to be as set forth in SEQ ID NO:1 and SEQ ID NO:2, respectively. 
+ Identity of the MaLPAAT1 sequence was confirmed by conducting BLAST (Basic Local Alignment Search Tool) searches of the MaLPAAT1 sequence for similarity to all publicly available protein sequences contained in the BLAST non-redundant “nr” protein sequences database. Specifically, SEQ ID NO:2 was compared for similarity to the “nr” database, using the BLASTP 2.2.20+ algorithm (Altschul, S. F., et al.,  Nucleic Acids Res.,  25:3389-3402 (1997) and  FEBS J.,  272:5101-5109 (2005)) provided by the National Center for Biotechnology Information [“NCBI”]. 
+ The results of the BLAST comparison summarizing the sequence to which SEQ ID NO:2 has the most similarity are reported according to the % identity, % similarity and Expectation value. “% Identity” is defined as the percentage of amino acids that are identical between the two proteins. “% Similarity” is defined as the percentage of amino acids that are identical or conserved between the two proteins. “Expectation value” estimates the statistical significance of the match, specifying the number of matches, with a given score, that are expected in a search of a database of this size absolutely by chance. Thus, the amino acid sequence of SEQ ID NO:2 had 44% identity and 62% similarity with the hypothetical protein UM06426.1 sequence of  Ustilago maydis  521 (GenBank Accession No. XP — 762573.1), with an expectation value of 2e-59; additionally, SEQ ID NO:2 had 44% identity and 62% similarity with a 1-acylglycerol-3-phosphate O-acyltransferase from  Cryptococcus neoformans  var.  neoformans  JEC21 (GenBank Accession No. XP — 567944.1), with an expectation value of 7e-59. 
+ As several variant LPAAT-like sequences have been isolated from  Mortierella alpina , in addition to the sequence described herein as SEQ ID NO:2, a multiple sequence alignment was performed using default parameters [gap opening penalty=10, gap extension penalty=0.05, and gap separation penalty range=8] of Vector NTI® Advance 9.1.0 AlignX program (Invitrogen Corporation, Carlsbad, Calif.). Specifically, the following additional sequences were aligned: SEQ ID NO:17 of Intl. App. Pub. No. WO 2004/087902, corresponding to SEQ ID NO:31 herein, and having 417 amino acids [“AAs”] in length; SEQ ID NO:19 of Intl. App. Pub. No. WO 2004/087902, corresponding to SEQ ID NO:33 herein, and having 389 AAs in length; SEQ ID NO:2 of Intl. App. Pub. No. WO 2008/146745, corresponding to SEQ ID NO:34 herein, and having 329 AAs in length; SEQ ID NO:4 of Intl. App. Pub. No. WO 2008/146745, corresponding to SEQ ID NO:35 herein, and having 313 AAs in length; and, SEQ ID NO:2 of U.S. Pat. No. 7,189,559, corresponding to SEQ ID NO:37 herein, and having 308 AAs in length. 
+ As was noted above, the nucleotide sequence (SEQ ID NO:1) isolated from  Mortierella alpina , and the encoded LPAAT (SEQ ID NO:2), designated herein as “MaLPAAT1”, were previously described as SEQ ID NOs:80 and 81, respectively, in U.S. patent application Ser. No. 11/265,761, filed Nov. 2, 2005 (the priority of which is claimed herein), corresponding to U.S. Pat. Appl. Pub. No. 2006-0115881-A1 and Intl. App. Pub. No. WO 2006/052870. Accordingly, it should be clear that these sequences, SEQ ID NO:1 and SEQ ID NO:2, are entitled to a priority date that is well before the disclosure of SEQ ID NO:2 of Intl. App. Pub. No. WO 2008/146745, corresponding to SEQ ID NO:34 herein, and SEQ ID NO:4 of Intl. App. Pub. No. WO 2008/146745, corresponding to SEQ ID NO:35 herein. 
+ The resulting alignment is shown in  FIG. 2 . Those amino acid residues that are conserved in all 6 of the aligned proteins are highlighted in bold text. The 1-acyl-sn-glycerol-3-phosphate acyltransferase [“LPAAT”] family motifs NHxxxxD (SEQ ID NO:38) and EGTR (SEQ ID NO:39), proposed by Lewin, T. W. et al. ( Biochemistry,  38:5764-5771 (1999) and Yamashita et al., ( Biochim, Biophys. Acta,  1771:1202-1215 (2007)) as important for LPLAT activity, are indicated with a double underline. The NHxxxxD motif was completely conserved in all 6 of the sequences aligned, while the EGTR motif was only partially conserved. Based on the presence of both motifs in MaLPAAT1 (SEQ ID NO:2), it was concluded that is likely a LPAAT having lysophosphatidic acid acyltransferase activity. 
+ To analyze the percent identity between and among each of the variant LPAAT-like sequences isolated from  Mortierella alpina  (supra), the sequences were aligned using the method of Clustal W (slow, accurate, Gonnet option; Thompson et al.,  Nucleic Acids Res.,  22:4673-4680 (1994)) of the MegAlign™ program (version 8.0.2) of the LASERGENE bioinformatics computing suite (DNASTAR, Inc., Madison, Wis.). The percent identities are shown in Table 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+ 
+   
+ 
+ 
+ Percent Identity Between And Among Various LPAAT Sequences Isolated 
+ 
+ 
+ From  Mortierella alpina   
+ 
+ 
+ 
+ 
+   
+ SEQ ID 
+ SEQ ID 
+ SEQ ID 
+ SEQ ID 
+   
+ SEQ ID 
+ 
+ 
+   
+ NO: 17 of 
+ NO: 19 of 
+ NO: 2 of 
+ NO: 2 of 
+ SEQ ID 
+ NO: 4 of 
+ 
+ 
+   
+ WO 
+ WO 
+ U.S. Pat. No. 
+ WO 
+ NO: 2 
+ WO 
+ 
+ 
+   
+ 2004/087902 
+ 2004/087902 
+ 7,189,559 
+ 2008/146745 
+ (MaLPAAT1) 
+ 2008/146745 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ SEQ ID NO: 17 
+ — 
+ 100 
+ 20.3 
+ 14.9 
+ 14.6 
+ 14.3 
+ 
+ 
+ of WO 
+ 
+ 
+ 2004/087902 
+ 
+ 
+ SEQ ID NO: 19 
+   
+ — 
+ 20.3 
+ 14.6 
+ 14.4 
+ 14.1 
+ 
+ 
+ of WO 
+ 
+ 
+ 2004/087902 
+ 
+ 
+ SEQ ID NO: 2 
+   
+   
+ — 
+ 14.9 
+ 15.0 
+ 14.7 
+ 
+ 
+ of U.S. Pat. No. 
+ 
+ 
+ 7,189,559 
+ 
+ 
+ SEQ ID NO: 2 
+   
+   
+   
+ — 
+ 73.2 
+ 73.2 
+ 
+ 
+ of WO 
+ 
+ 
+ 2008/146745 
+ 
+ 
+ SEQ ID NO: 2 
+   
+   
+   
+   
+ — 
+ 95.2 
+ 
+ 
+ (MaLPAAT1) 
+ 
+ 
+ SEQ ID NO: 4 
+   
+   
+   
+   
+   
+ — 
+ 
+ 
+ of WO 
+ 
+ 
+ 2008/146745 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Example 6 
+ Expression of a Codon-Optimized Lysophosphatidic Acid Acyltransferase Gene (“MaLPAAT1S”) in  Yarrowia lipolytica    
+   Yarrowia lipolytica  strain Y5037U, a Ura3− strain of Y5037 producing about 18.6% EPA, 22.8% DPA and 9.7% DHA relative to the total lipids, was used to functionally characterize the effects of overexpression of the  Mortierella alpina  LPAAT1, following its integration into the  Yarrowia  host chromosome. This was in spite of the host containing its native LPLATs, i.e., Ale1 and LPAAT1. 
+ Construction of PY201, comprising a Codon-Optimized  Saccharomyces cerevisiae  Ale1 Gene 
+ The  Saccharomyces cerevisiae  ORF designated as “ScAle1” (SEQ ID NO:40; ORF “YOR175C”; GenBank Accession No. NP — 014818; Pat. Appl. Pub. No. US-20080145867 and corresponding to Intl. App. Pub. No. WO 2008/076377; Intl. App. Pub. No. WO 2009/001315) was optimized for expression in  Yarrowia lipolytica , by DNA 2.0 (Menlo Park, Calif.). In addition to codon optimization, 5′ Pci1 and 3′ Not1 cloning sites were introduced within the synthetic gene (i.e., ScAle1S; SEQ ID NO:42). None of the modifications in the ScAle1S gene changed the amino acid sequence of the encoded protein (i.e., the protein sequence encoded by the codon-optimized gene [i.e., SEQ ID NO:43] is identical to that of the wildtype protein sequence [i.e., SEQ ID NO:41]). ScAle1S was cloned into pJ201 (DNA 2.0) to result in pJ201:ScAle1S. 
+ A 1863 bp Pci1/Not1 fragment comprising ScAle1S was excised from pJ201:ScAle1S and used to create pY201 (SEQ ID NO:44; Table 5;  FIG. 3A ). In addition to comprising a chimeric YAT1::ScAle1S::Lip1 gene, pY201 also contains a  Yarrowia lipolytica  URA3 selection marker flanked by LoxP sites for subsequent removal, if needed, by Cre recombinase-mediated recombination. Both the YAT1::ScAle1S::Lip1 chimeric gene and the URA3 gene were flanked by fragments having homology to 5′ and 3′ regions of the  Yarrowia lipolytica  Pox3 gene to facilitate integration by double homologous recombination, although integration into  Y. lipolytica  is known to usually occur without homologous recombination. Thus, construct pY201 thereby contained the following components: 
+             TABLE 5                 Description of Plasmid pY201 (SEQ ID NO: 44)           RE Sites And           Nucleotides Within       SEQ ID NO: 44   Description Of Fragment And Chimeric Gene Components               BsiW1/Sbf1   LoxP::Ura3::LoxP, comprising:       (1-1706 bp)   LoxP sequence (SEQ ID NO: 45)             Yarrowia lipolytica  Ura3 gene (GenBank Accession No.           AJ306421);           LoxP sequence (SEQ ID NO: 45)       Sbf1/ Sph1     3′ portion of  Yarrowia lipolytica  POX3 Acyl-CoA oxidase 3       (1706-3043 bp)   (GenBank Accession No. YALI0D24750g) (i.e., bp 2215-3038 in           pY201)       Sph1/Asc1   ColE1 plasmid origin of replication;       (3043-5743 bp)   Ampicillin-resistance gene (Amp R ) for selection in  E. coli  (i.e.,           bp 3598-4758 [complementary] in pY201);             E. coli  f1 origin of replication       AscI/ BsiWI     5′ portion of  Yarrowia lipolytica  POX3 Acyl-CoA oxidase 3       (5743-6513 bp)   (GenBank Accession No. YALI0D24750g) (i.e., bp 5743-6512 in           pY201)       BsiWI/BsiWI   YAT1::ScAle1S::Lip1, comprising:       (6514-1 bp)   YAT1:  Yarrowia lipolytica  YAT1 promoter (Pat. Appl. Pub. No.       [a Not1 site, located   US 2006/0094102-A1) (i.e., bp 6514-7291 in pY201)       between ScAle1S   ScAle1S: codon-optimized Ale1 (SEQ ID NO: 42) derived from       and Lip1 is present     Saccharomyces cerevisiae  YOR175C (i.e., bp 7292-9151 in       at bp   pY201; labeled as “Sc LPCATs ORF” in Figure);       9154 bp]   Lip1: Lip1 terminator sequence from  Yarrowia  Lip1 gene           (GenBank Accession No. Z50020) (i.e., bp 9160-9481 pY201;           labeled as “Lip1-3′” in Figure)                   
+Construction of pY208, comprising a Codon-Optimized  Mortierella alpina  LPAAT1
+ 
+ The  Mortierella alpina  ORF designated as MaLPAAT1 (SEQ ID NO:1) was optimized for expression in  Yarrowia lipolytica , by DNA 2.0 (Menlo Park, Calif.). In addition to codon optimization, 5′ Pci1 and 3′ Not1 cloning sites were introduced within the synthetic gene (i.e., MaLPAAT1S; SEQ ID NO:3). None of the modifications in the MaLPAAT1S gene changed the amino acid sequence of the encoded protein (i.e., the protein sequence encoded by the codon-optimized gene [i.e., SEQ ID NO:4] is identical to that of the wildtype protein sequence [i.e., SEQ ID NO:2]). MaLPAAT1S was cloned into pJ201 (DNA 2.0) to result in pJ201: MaLPAAT1S. 
+ A 945 bp Pci1/Not1 fragment comprising MaLPAAT1S was excised from pJ201:MaLPAAT1S and used to create pY208 (SEQ ID NO:46), in a 3-way ligation with two fragments of pY201 (SEQ ID NO:44). Specifically, the MaLPAAT1 fragment was ligated with a 3530 bp Sph-NotI pY201 fragment and a 4248 bp NcoI-SphI pY201 fragment to result in pY208. The components present in pY208 ( FIG. 3B ; SEQ ID NO:46) are identical to those present in pY201, with the exception of the YAT1::MaLPAAT1S::Lip1 gene in pY208, instead of the YAT1::ScAle1S::Lip1 gene in pY201 ( FIG. 3A ). 
+ Functional Characterization of MaLPAAT1S in DHA-Producing  Y. lipolytica  Strain Y5037U 
+   Yarrowia lipolytica  strain Y5037U (construction described in Example 7, infra) was individually transformed with linear SphI-AscI fragments of pY208 (YAT::MaLPAAT1S::Lip1) according to the General Methods. 
+ The transformation mix was plated on MM agar plates and clone #6 of strain Y5037U transformed with expression vector pY208 (designated as “Y5037U::MaLPAAT1S”) was selected to examine the effect of MaLPAAT1S overexpression on lipid content, fatty acid composition and conversion efficiencies. Additionally, strain Y5037 (a Ura+ strain that was parent to strain Y5037 (Ura−)) was used as a control. 
+ More specifically, control strain Y5037 was compared to strain Y5037U::MaLPAAT1S after 2 days of growth in FM medium (Biomyx Cat. No. CM4681, Biomyx Technology, San Diego, Calif.) containing per L: 6.7 g Difco Yeast Nitrogen Base without amino acids, 5 g Yeast Extract, 6 g KH 2 PO 4 , 2 g K 2 HPO 4 , 1.5 g MgSO 4 .7H 2 0, 1.5 mg thiamine.HCl, and 20 g glucose) on a shaker at 200 rpm and 30° C., followed by 3 days of incubation in 3 mL HGM medium. 
+ One mL aliquots of the cultures were then harvested by centrifugation and analyzed by GC. Specifically, the cultured cells were collected by centrifugation for 1 min at 13,000 rpm, total lipids were extracted, and fatty acid methyl esters [“FAMEs”] were prepared by trans-esterification, and subsequently analyzed with a Hewlett-Packard 6890 GC (General Methods). 
+ The lipid content and fatty acid composition was quantified for the control Y5037 strain and the transformant Y5037U strain. Additionally, data is presented as a % of the Y5037 control. Table 6 below summarizes the concentration of each fatty acid as a weight percent of TFAs [“% TFAs”]. More specifically, fatty acids are identified as 16:0 (palmitate), 16:1 (palmitoleic acid), 18:0 (stearic acid),18:1 (oleic acid), 18:2 (LA), ALA, EDA, DGLA, ARA, ETrA, ETA, EPA, DPA, DHA and EDD (corresponding to the sum of EPA plus DPA plus DHA). Additionally, the ratio of DHA % TFAs/DPA % TFAs is provided. 
+ Table 7 summarizes the conversion efficiency of each desaturase and elongase functioning in the PUFA biosynthetic pathway and which are required for DHA production. Specifically, the Δ12 desaturase conversion efficiency [“Δ12 CE”], Δ8 desaturase conversion efficiency [“Δ8 CE”], Δ5 desaturase conversion efficiency [“Δ5 CE”], Δ17 desaturase conversion efficiency [“Δ17 CE”], Δ4 desaturase conversion efficiency [“Δ4 CE”], Δ9 elongase conversion efficiency [“Δ9e CE”] and Δ5 elongase conversion efficiency [“Δ5e CE”] are provided for the control Y5037 strain and strain Y5037U::MaLPAAT1S; data for strain Y5037U::MaLPAAT1S is also presented as a % of the Y5037 control. Conversion efficiency was calculated according to the formula: product(s)/(product(s)+substrate)*100, where product includes both product and product derivatives. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 6 
+ 
+ 
+ 
+   
+ 
+ 
+ Lipid Content and Composition In MaLPAAT1 Transformant Strains Of  Yarrowia lipolytica  Y5037 
+ 
+ 
+ 
+ 
+   
+ % TFAs 
+ 
+ 
+ 
+ 
+ Strain 
+ Replicates 
+ 16:0 
+ 16:1 
+ 18:0 
+ 18:1 
+ 18:2 
+ ALA 
+ EDA 
+ DGLA 
+ ARA 
+ ETrA 
+ ETA 
+ EPA 
+ DPA 
+ DHA 
+ EDD 
+ DHA/DPA 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Y5037* 
+ 1 
+ 5.1 
+ 1.3 
+ 1.6 
+ 4.7 
+ 22.5 
+ 2.7 
+ 3.9 
+ 1.9 
+ 1.4 
+ 1.3 
+ 1.7 
+ 20.4 
+ 20.7 
+ 8.9 
+ 50.1 
+ 0.4 
+ 
+ 
+ Y5037U:: 
+ 1 
+ 6.1 
+ 1.5 
+ 1.8 
+ 4.5 
+ 21.1 
+ 2.2 
+ 4.0 
+ 2.1 
+ 1.5 
+ 1.2 
+ 1.7 
+ 23.4 
+ 19.5 
+ 10.7 
+ 53.7 
+ 0.6 
+ 
+ 
+ MaLPAT1 
+ % Ctrl 
+ 120 
+ 115 
+ 113 
+ 96 
+ 94 
+ 81 
+ 103 
+ 111 
+ 107 
+ 92 
+ 100 
+ 115 
+ 94 
+ 120 
+ 107 
+ 150 
+ 
+ 
+   
+ 
+ 
+ *Note: The lipid profile for Y5037 in this Table is not identical to that described in Example 7, based on different growth conditions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 7 
+ 
+ 
+ 
+   
+ 
+ 
+ Desaturase And Elongase Conversion Efficiency In MaLPAAT1 Transformant 
+ 
+ 
+ Strains Of  Yarrowia lipolytica  Y5037 
+ 
+ 
+ 
+ 
+ 
+ 
+ Strain 
+ Replicates 
+ Δ12 CE 
+ Δ9e CE 
+ Δ8 CE 
+ Δ5 CE 
+ Δ17 CE 
+ Δ5e CE 
+   Δ4 CE       
+   
+ 
+   
+ 
+ 
+ Y5037         
+       
+ 1 
+ 95 
+ 70 
+ 91 
+ 93 
+ 88 
+ 59 
+ 30 
+ 
+ 
+ Y5037U:: 
+ 1 
+ 95 
+ 73 
+ 92 
+ 93 
+ 88 
+ 56 
+ 36 
+ 
+ 
+   MaLPAT1     % Ctrl     
+ 100 
+ 104 
+ 101 
+ 100 
+ 100 
+ 95 
+ 118 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Based on the data in Table 6 and Table 7, overexpression of MaLPAAT1S in DHA strain Y5037U::MaLPAAT1S resulted in reduction of the concentration of LA as a weight % of TFAs [“LA % TFAs”], an increase in the concentration of EPA as a weight % of TFAs [“EPA % TFAs”], an increase in the concentration of DHA as a weight % of TFAs [“DHA % TFAs”], an increase in the concentration of EPA+DPA+DHA as a weight % of TFAs [“EDD % TFAs”], an increase in the ratio of DHA % TFAs to DPA % TFAs [“DHA/DPA”], and an increase in the conversion efficiencies of the Δ9 elongation and Δ4 desaturation. 
+ More specifically, overexpression of MaLPAAT1 in Y5037U::MaLPAAT1S can reduce LA % TFAs to 94%, increase EPA % TFAs to 115%, increase DHA % TFAs to 120%, increase Δ9e CE to 104%, and increase Δ4 desaturation CE to 118%, as compared to the control. 
+ Example 7 
+ Generation of  Yarrowia lipolytica  Strain Y5037 to Produce about 18.6% EPA, 22.8% DPA and 9.7% DHA of Total Fatty Acids 
+ The present Example describes the construction of strain Y5037, derived from  Yarrowia  lipolytica      ATCC # 20362, capable of producing about 18.6% EPA, 22.8% DPA and 9.7% DHA relative to the total lipids via expression of a Δ9 elongase/Δ8 desaturase pathway. 
+ Briefly, as diagrammed in  FIG. 4 , strain Y5037 was derived from  Yarrowia lipolytica  ATCC #20362 via construction of strain Y2224 (a FOA resistant mutant from an autonomous mutation of the Ura3 gene of wildtype  Yarrowia  strain ATCC #20362), strain Y4001 (producing 17% EDA with a Leu− phenotype), strain Y4001U1 (Leu− and Ura−), strain Y4036 (producing 18% DGLA with a Leu− phenotype), strain Y4036U (Leu− and Ura−), strain Y4070 (producing 12% ARA with a Ura− phenotype), strain Y4086 (producing 14% EPA), strain Y4086U1 (Ura3−), strain Y4128 (producing 37% EPA; deposited with the American Type Culture Collection on Aug. 23, 2007, bearing the designation ATCC PTA-8614), strain Y4128U3 (Ura−), strain Y4217 (producing 42% EPA), strain Y4217U2 (Ura−), strain Y4259 (producing 46.5% EPA), strain Y4259U2 (Ura−), strain Y4305 (producing 53.2% EPA), strain Y4305U3 (Ura−), strain Y5004 (producing 17% EPA, 18.7% DPA and 6.4% DHA), strain Y5004U1 (Ura−), strain Y5018 (producing 25.4% EPA, 11.4% DPA and 9.4% DHA), strain Y5018U1 (Ura−) and strain Y5037 (producing 18.6% EPA, 22.8% DPA and 9.7% DHA relative to the total TFAs). Further details regarding the construction of strains Y2224, Y4001, Y4001U, Y4036, Y4036U, Y4070, Y4086, Y4086U1, Y4128, Y4128U3, Y4217, Y4217U2, Y4259, Y4259U2, Y4305 and Y4305U3 are described in the General Methods of U.S. Pat. App. Pub. No. 2008-0254191 and in Examples 1-3 of U.S. Pat. App. Pub. No. 2009-0093543, hereby incorporated herein by reference. 
+ The complete lipid profile of strain Y4305,was as follows: 16:0 (2.8%), 16:1 (0.7%), 18:0 (1.3%), 18:1 (4.9%), 18:2 (17.6%), ALA (2.3%), EDA (3.4%), DGLA (2.0%), ARA (0.6%), ETA (1.7%), and EPA (53.2%). The total lipid content of cells [“TFAs % DCW”] was 27.5. 
+ The final genotype of strain Y4305 with respect to wild type  Yarrowia lipolytica  ATCC #20362 was SCP2-(YALI0E01298g), YALI0C18711g-, Pex10-, YALI0F24167g-, unknown 1-, unknown 3-, unknown 8-, GPD::FmD12::Pex20, YAT1::FmD12::OCT, GPM/FBAIN::FmD12S::OCT, EXP1::FmD12S::Aco, YAT1::FmD12S::Lip2, YAT1::ME3S::Pex16, EXP1::ME3S::Pex20 (3 copies), GPAT::EgD9e::Lip2, EXP1::EgD9eS::Lip1, FBAINm::EgD9eS::Lip2, FBA:: EgD9eS::Pex20, GPD::EgD9eS::Lip2, YAT1::EgD9eS::Lip2, YAT1::E389D9eS::OCT, FBAINm::EgD8M::Pex20, FBAIN::EgD8M::Lip1 (2 copies), EXP1::EgD8M::Pex16, GPDIN::EgD8M::Lip1, YAT1::EgD8M::Aco, FBAIN::EgD5::Aco, EXP1::EgD5S::Pex20, YAT1::EgD5S::Aco, EXP1::EgD5S::ACO, YAT1::RD5S::OCT, YAT1::PaD17S::Lip1, EXP1::PaD17::Pex16, FBAINm::PaD17::Aco, YAT1::YICPT1::ACO, GPD::YICPT1::ACO (wherein FmD12 is a  Fusarium moniliforme Δ 12 desaturase gene [U.S. Pat. No. 7,504,259]; FmD12S is a codon-optimized Δ12 desaturase gene, derived from  Fusarium moniliforme  [U.S. Pat. No. 7,504,259]; ME3S is a codon-optimized C 16/18  elongase gene, derived from  Mortierella alpina  [U.S. Pat. No. 7,470,532]; EgD9e is a  Euglena gracilis Δ 9 elongase gene [Intl. App. Pub. No. WO 2007/061742]; EgD9eS is a codon-optimized Δ9 elongase gene, derived from  Euglena gracilis  [Intl. App. Pub. No. WO 2007/061742]; E389D9eS is a codon-optimized Δ9 elongase gene, derived from  Eutreptiella  sp. CCMP389 [Intl. App. Pub. No. WO 2007/061742]; EgD8M is a synthetic mutant Δ8 desaturase [Intl. App. Pub. No. WO 2008/073271], derived from  Euglena gracilis  [U.S. Pat. No. 7,256,033]; EgD5 is a  Euglena gracilis Δ 5 desaturase [U.S. Pat. App. Pub. US 2007-0292924-A1]; EgD5S is a codon-optimized Δ5 desaturase gene, derived from  Euglena gracilis  [U.S. Pat. App. Pub. No. 2007-0292924]; RD5S is a codon-optimized Δ5 desaturase, derived from  Pendinium  sp. CCMP626 [U.S. Pat. App. Pub. No. 2007-0271632]; PaD17 is a  Pythium aphanidermatum Δ 17 desaturase [Intl. App. Pub. No. WO 2008/054565]; PaD17S is a codon-optimized Δ17 desaturase, derived from  Pythium aphanidermatum  [Intl. App. Pub. No. WO 2008/054565]; and, YICPT1 is a  Yarrowia lipolytica  diacylglycerol cholinephosphotransferase gene [Intl. App. Pub. No. WO 2006/052870]). 
+ Strain Y4305U3 (Ura3-) was generated via integrating a Ura3 mutant gene into the Ura3 gene of strain Y4305. 
+ Generation of Y5004 Strain to Produce about 17.0% EPA, 18.7% DPA and 6.4% DHA of TFAs 
+ Construct pZKL4-220EA41B ( FIG. 5A ; SEQ ID NO:47) was constructed to integrate two C 20/22  elongase genes and two Δ4 desaturase genes into the lipase 4-like locus (GenBank Accession No. XM — 503825) of strain Y4305U3. The pZKL4-220EA41B plasmid contained the following components: 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 8 
+ 
+ 
+ 
+   
+ 
+ 
+ Components Of Plasmid pZKL4-220EA41B (SEQ ID NO: 47) 
+ 
+ 
+ 
+ 
+ RE Sites And 
+   
+ 
+ 
+ Nucleotides 
+ 
+ 
+ Within SEQ ID 
+ 
+ 
+ NO: 47 
+ Description Of Fragment And Chimeric Gene Components 
+ 
+ 
+   
+ 
+ 
+ Asc I/BsiW I 
+ 745  bp  5′ portion of the  Yarrowia  Lipase 4-like gene 
+ 
+ 
+ (9777-9025) 
+ (GenBank Accession No. XM_503825; labeled as “Lip4” in Figure) 
+ 
+ 
+ PacI/SphI 
+ 782  bp  3′ portion of  Yarrowia Lipase  4 like gene (GenBank 
+ 
+ 
+ (13273-12485) 
+ Accession No. XM_503825; labeled as “Lip4-3′” in Figure) 
+ 
+ 
+ SwaI/BsiW I 
+ FBAINm::EaC20ES::Pex20, comprising: 
+ 
+ 
+ (6882-9025) 
+ FBAINm:  Yarrowia lipolytica  FBAINm promoter (U.S. Pat. No. 
+ 
+ 
+   
+ 7,202,356) 
+ 
+ 
+   
+ EaC20ES: codon-optimized C20 elongase gene (SEQ ID 
+ 
+ 
+   
+ NO: 48), derived from  Euglena anabaena  (U.S. Pat. Appl. Pub. No. 
+ 
+ 
+   
+ 2008/0254191-A1); 
+ 
+ 
+   
+ Pex20: Pex20 terminator sequence from  Yarrowia  Pex20 
+ 
+ 
+   
+ gene (GenBank Accession No. AF054613) 
+ 
+ 
+ Pme I/Swa I 
+ YAT1::EgC20ES::Lip1, comprising: 
+ 
+ 
+ (4903-6882) 
+ YAT1:  Yarrowia lipolytica  YAT1 promoter (U.S. Pat. Appl. 
+ 
+ 
+   
+ Pub. No. 2006/0094102-A1); 
+ 
+ 
+   
+ EgC20ES: codon-optimized C20 elongase gene (SEQ ID 
+ 
+ 
+   
+ NO: 50), derived from  Euglena gracilis  (U.S. Pat. Appl. Pub. No. 2008/ 
+ 
+ 
+   
+ 0254191-A1); 
+ 
+ 
+   
+ Lip1: Lip1 terminator sequence from  Yarrowia  Lip1 gene 
+ 
+ 
+   
+ (GenBank Accession No. Z50020) 
+ 
+ 
+ Pme I/Cla I 
+ EXP1::EaD4S-1::Lip2, comprising: 
+ 
+ 
+ (4903-2070) 
+ EXP1:  Yarrowia lipolytica  export protein (EXP1) promoter 
+ 
+ 
+   
+ (Intl. App. Pub. No. WO 2006/052870); 
+ 
+ 
+   
+ EaD4S-1: codon-optimized truncated Δ4 desaturase (SEQ 
+ 
+ 
+   
+ ID NO: 52), derived from  Euglena anabaena  (U.S. Pat. Appl. 
+ 
+ 
+   
+ Pub. No. 2008/0254191-A1); 
+ 
+ 
+   
+ Lip2: Lip2 terminator sequence from  Yarrowia  Lip2 gene 
+ 
+ 
+   
+ (GenBank Accession No. AJ012632) 
+ 
+ 
+ Sal I/EcoR I 
+   Yarrowia  Ura3 gene (GenBank Accession No. AJ306421) 
+ 
+ 
+ (1620-1) 
+ 
+ 
+ EcoR I/Pac I 
+ GPDIN::EaD4SB::Aco, comprising: 
+ 
+ 
+ (1-14039) 
+ GPDIN:  Yarrowia lipolytica  GPDIN promoter (U.S. Pat. No. 
+ 
+ 
+   
+ 7,459,546); 
+ 
+ 
+   
+ EaD4SB: codon-optimized truncated Δ4 desaturase version 
+ 
+ 
+   
+ B (SEQ ID NO: 54), derived from  Euglena anabaena  (U.S. 
+ 
+ 
+   
+ Pat. Appl. Pub. No. 2008/0254191-A1); 
+ 
+ 
+   
+ Aco: Aco terminator sequence from  Yarrowia  Aco gene 
+ 
+ 
+   
+ (GenBank Accession No. AJ001300) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ The pZKL4-220EA41 B plasmid was digested with AscI/SphI, and then used for transformation of strain Y4305U3 (supra), according to the General Methods. The transformants were selected on MM plates. After 5 days growth at 30° C., 72 transformants grown on the MM plates were picked and re-streaked onto fresh MM plates. Once grown, these strains were individually inoculated into 3 mL liquid MM at 30° C. and shaken at 250 rpm/min for 2 days. The cells were collected by centrifugation, resuspended in HGM and then shaken at 250 rpm/min for 5 days. The cells were collected by centrifugation, lipids were extracted, and FAMEs were prepared by trans-esterification, and subsequently analyzed with a Hewlett-Packard 6890 GC. 
+ GC analyses showed the presence of DHA in the transformants with pZKL4-220EA41B, but not in the parent Y4305U strain. Most of the selected 72 strains produced about 22% EPA, 18% DPA and 5% DHA of TFAs.  Strain # 2 produced 17% EPA, 18.7% DPA and 6.4% DHA, while  strain # 33 produced 21.5% EPA, 21% DPA and 5.5% DHA. These two strains were designated as Y5004 and Y5005, respectively. 
+ Knockout of the lipase 4-like locus (GenBank Accession No. XM — 503825) was not confirmed in either strain Y5004 or Y5005. 
+ Generation of Strain Y5004U (Ura3−) 
+ In order to disrupt the Ura3 gene in strain Y5004, construct pZKUM ( FIG. 5B ; SEQ ID NO:56; described in Table 15 of U.S. Pat. App. Pub. No. 2009-0093543, hereby incorporated herein by reference) was used to integrate a Ura3 mutant gene into the Ura3 gene of strain Y5004. Plasmid pZKUM was digested with SalI/PacI, and then used to transform strain Y5004 according to the General Methods. Following transformation, cells were plated onto MM+5-FOA selection plates and maintained at 30° C. for 4 to 5 days. 
+ A total of 8 transformants grown on MM+5-FOA plates were picked and re-streaked onto MM plates and MM+5-FOA plates, separately. All 8 strains had a Ura− phenotype (i.e., cells could grow on MM+5-FOA plates, but not on MM plates). The cells were scraped from the MM+5-FOA plates, lipids were extracted, and FAMEs were prepared by trans-esterification, and subsequently analyzed with a Hewlett-Packard 6890 GC. 
+ GC analyses showed the presence of 14.8% EPA, 17.4% DPA and 0.4% DHA of TFAs in  transformant # 5 and 15.3% EPA, 17.2% DPA and 0.4% DHA in transformant #8. These two strains were designated as strains Y5004U1 and Y5004U2, respectively (collectively, Y5004U). 
+ Generation of Y5018 Strain to Produce about 25.4% EPA, 11.4% DPA and 9.4% DHA of TFAs 
+ Construct pZKL3-4GER44 ( FIG. 6A ; SEQ ID NO:57) was constructed to integrate one C 20/22  elongase gene and three Δ4 desaturase genes into the lipase 3-like locus (GenBank Accession No. XP — 506121) of strain Y5004U1. The pZKL3-4GER44 plasmid contained the following components: 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 9 
+ 
+ 
+ 
+   
+ 
+ 
+ Components Of Plasmid pZKL3-4GER44 (SEQ ID NO: 57) 
+ 
+ 
+ 
+ 
+ RE Sites And 
+   
+ 
+ 
+ Nucleotides 
+ 
+ 
+ Within SEQ ID 
+ 
+ 
+ NO: 57 
+ Description Of Fragment And Chimeric Gene Components 
+ 
+ 
+   
+ 
+ 
+ Asc I/BsiW I 
+ 887  bp  5′ portion of the  Yarrowia  Lipase 3-like gene (GenBank 
+ 
+ 
+ (10527-9640) 
+ Accession No. XP_506121) 
+ 
+ 
+ Pac I/Sph I 
+ 804  bp  3′ portion of  Yarrowia  Lipase 3-like gene (GenBank Accession 
+ 
+ 
+ (14039-13235) 
+ No. XP_506121) 
+ 
+ 
+ Swa I/BsiW I 
+ FBAINm::EgC20ES::Pex20, comprising: 
+ 
+ 
+ (7485-9640) 
+ FBAINm:  Yarrowia lipolytica  FBAINm promoter (U.S. Pat. No. 
+ 
+ 
+   
+ 7,202,356); 
+ 
+ 
+   
+ EgC20ES: codon-optimized C20 elongase gene (SEQ ID 
+ 
+ 
+   
+ NO: 50), derived from  Euglena gracilis  (U.S. Pat. Appl. Pub. 
+ 
+ 
+   
+ No. 2008-0254191-A1), 
+ 
+ 
+   
+ Pex20: Pex20 terminator sequence from  Yarrowia  Pex20 
+ 
+ 
+   
+ gene (GenBank Accession No. AF054613) 
+ 
+ 
+ Pme I/Swa I 
+ YAT1::EaD4S-1::Lip1, comprising: 
+ 
+ 
+ (4774-7485) 
+ YAT1:  Yarrowia lipolytica  YAT1 promoter (U.S. Pat. Appl. 
+ 
+ 
+   
+ Pub. No. 2006/0094102-A1); 
+ 
+ 
+   
+ EaD4S-1: codon-optimized truncated Δ4 desaturase (SEQ 
+ 
+ 
+   
+ ID NO: 52), derived from  Euglena anabaena  (U.S. Pat. Appl. 
+ 
+ 
+   
+ Pub. No. 2008/0254191-A1); 
+ 
+ 
+   
+ Lip1: Lip1 terminator sequence from  Yarrowia  Lip1 gene 
+ 
+ 
+   
+ (GenBank Accession No. Z50020) 
+ 
+ 
+ Cla I/Pme I 
+ EXP1::E1594D4S::Oct, comprising: 
+ 
+ 
+ (2070-4774) 
+ EXP1:  Yarrowia lipolytica  export protein promoter (Intl. App. 
+ 
+ 
+   
+ Pub. No. WO 2006/052870); 
+ 
+ 
+   
+ E1594D4S: codon-optimized Δ4 desaturase (SEQ ID 
+ 
+ 
+   
+ NO: 58), derived from  Eutreptiella  cf_gymnastica CCMP1594 
+ 
+ 
+   
+ (U.S. Patent Application No. 12/408,860) (labeled as “D4S- 
+ 
+ 
+   
+ 1594” in Figure); 
+ 
+ 
+   
+ OCT: OCT terminator sequence of  Yarrowia  OCT gene 
+ 
+ 
+   
+ (GenBank Accession No. X69988) 
+ 
+ 
+ Sal I/EcoR I 
+   Yarrowia  Ura3 gene (GenBank Accession No. AJ306421) 
+ 
+ 
+ (1620-1) 
+ 
+ 
+ EcoR I/Pac I 
+ GPDIN::EgD4S-1::Aco, comprising: 
+ 
+ 
+ (1-14039) 
+ GPDIN:  Yarrowia lipolytica  GPDIN promoter (U.S. Pat. No. 
+ 
+ 
+   
+ 7,459,546); 
+ 
+ 
+   
+ EgD4S-1: codon-optimized truncated Δ4 desaturase (SEQ 
+ 
+ 
+   
+ ID NO: 60), derived from  Euglena gracilis  (U.S. Pat. Appl. 
+ 
+ 
+   
+ Pub. No. 2008/0254191-A1); 
+ 
+ 
+   
+ Aco: Aco terminator sequence from  Yarrowia  Aco gene 
+ 
+ 
+   
+ (GenBank Accession No. AJ001300) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ The pZKL3-4GER44 plasmid was digested with AscI/SphI, and then used for transformation of strain Y5004U1, according to the General Methods. The transformants were selected on MM plates. After 5 days growth at 30° C., 96 transformants grown on the MM plates were picked and re-streaked onto fresh MM plates. Once grown, these strains were individually inoculated into 3 mL liquid MM at 30° C. and shaken at 250 rpm/min for 2 days. The cells were collected by centrifugation, resuspended in HGM and then shaken at 250 rpm/min for 5 days. The cells were subjected to fatty acid analysis, according to the General Methods. 
+ GC analyses showed that most of the selected 96 strains produced about 19% EPA, 22% DPA and 7% DHA of TFAs.  Strain # 1 produced 23.3% EPA, 13.7% DPA and 8.9% DHA, while strain #49 produced 25.2% EPA, 11.4% DPA and 9.4% DHA. These two strains were designated as Y5011 and Y5018, respectively. 
+ Knockout of the lipase 3-like locus (GenBank Accession No. XP — 506121) was not confirmed in strains Y5011 and Y5018. 
+ Generation of Strain Y5018U (Ura3−) 
+ In order to disrupt. the Ura3 gene in strain Y5018, construct pZKUM ( FIG. 5B ; SEQ ID NO:56; described in Table 15 of U.S. Pat. App. Pub. No. 2009-0093543-A1) was used to integrate a Ura3 mutant gene into the Ura3 gene of strain Y5018, in a manner similar to that described for pZKUM transformation of strain Y5004. A total of 18 transformants were grown and identified to possess a Ura− phenotype. 
+ GC analyses showed the presence of 16.6% EPA, 10.4% DPA and 0.0% DHA of TFAs in pZKUM- transformant strain # 2 and 17.0% EPA, 10.8% DPA and 0.0% DHA in pZKUM- transformant strain # 4. These two strains were designated as strains Y5018U1 and Y5018U2, respectively (collectively, Y5018U). 
+ Generation of Y5037 Strain to Produce about 18.6% EPA, 22.8% DPA and 9.7% DHA of TFAs 
+ Construct pZKLY-G20444 ( FIG. 6B ; SEQ ID NO:62) was constructed to integrate one DHA synthase and two Δ4 desaturase genes into the lipase 7-like locus (GenBank Accession No. AJ549519) of strain Y5018U1. A DHA synthase is a multizyme comprising a C20 elongase linked to a Δ4 desaturase (U.S. Pat. Appl. Pub. No. 2008/0254191-A1). The pZKLY-G20444 plasmid contained the following components: 
+             TABLE 10                 Components Of Plasmid pZKLY-G20444 (SEQ ID NO: 62)           RE Sites And           Nucleotides       Within SEQ ID       NO: 62   Description Of Fragment And Chimeric Gene Components               Asc I/BsiW I   887  bp  5′ portion of the  Yarrowia  Lipase 7-like gene (labeled as       (9370-8476)   “LipY-5′” in Figure; GenBank Accession No. AJ549519)       Pac I/Sph I   756  bp  3′ portion of  Yarrowia  Lipase 7-like gene (labeled as       (12840-12078)   “LipY-3′” in Figure; GenBank Accession No. AJ549519)       Pme I/Swa I   YAT1::EgDHAsyn1S::Lip1, comprising:       (4871-8320)   YAT1:  Yarrowia lipolytica  YAT1 promoter (U.S. Pat. Appl. Pub. No.           2006/0094102-A1);           EgDHAsyn1S: codon-optimized DHA synthase (SEQ ID           NO: 63), derived from  Euglena gracilis  (labeled as           “EgDHAase” in Figure; U.S. Pat. Appl. Pub. No.           2008/0254191-A1);           Lip1: Lip1 terminator sequence from  Yarrowia  Lip1 gene           (GenBank Accession No. Z50020)       Cla I/Pme I   EXP1::EaD4S-1::Pex16, comprising:       (2070-4871)   EXP1:  Yarrowia lipolytica  export protein (EXP1) promoter           (Intl. App. Pub. No. WO 2006/052870);           EaD4S-1: codon-optimized truncated Δ4 desaturase (SEQ           ID NO: 52), derived from  Euglena anabaena  (U.S. Pat. Appl.           Pub. No. 2008/0254191-A1);           Pex16: Pex16 terminator sequence from  Yarrowia  Pex16           gene (GenBank Accession No. U75433)       Sal I/EcoR I     Yarrowia  Ura3 gene (GenBank Accession No. AJ306421)       (1620-1)       EcoR I/Pme I   FBAINm::E1594D4S::Pex16, comprising:       (1-12871)   FBAINm:  Yarrowia lipolytica  FBAINm promoter (U.S. Pat. No.           7,202,356);           E1594D4S: codon-optimized Δ4 desaturase (SEQ ID           NO: 58), derived from  Eutreptiella  cf_ gymnastica  CCMP1594           (U.S. Patent Application No. 12/408,860) (labeled as “D4S-           1594” in Figure);           Pex16: Pex16 terminator sequence from  Yarrowia  Pex16           gene (GenBank Accession No. U75433)                   
+The pZKLY-G20444 plasmid was digested with AscI/SphI, and then used for transformation of strain Y5018U1, according to the General Methods. The transformants were selected on MM plates. After 5 days growth at 30° C., 96 transformants grown on the MM plates were picked and re-streaked onto fresh MM plates. Once grown, these strains were individually inoculated into 3 mL liquid MM at 30° C. and shaken at 250 rpm/min for 2 days. The cells were collected by centrifugation, resuspended in HGM and then shaken at 250 rpm/min for 5 days. The cells were subjected to fatty acid analysis, according to the General Methods.
+ 
+ GC analyses showed that most of the selected 96 strains produced about 19% EPA, 22% DPA and 9% DHA of TFAs.  Strain # 3 produced 18.6% EPA, 22.8% DPA and 9.7% DHA; strain #9 produced 18.4% EPA, 21% DPA and 9.6% DHA; strain #27 produced 17.8% EPA, 20.6% DPA and 10% DHA; and strain #40 produced 18.8% EPA, 21.2% DPA and 9.6% DHA. These four strains were designated as Y5037, Y5038, Y5039 and Y5040, respectively. 
+ Knockout of the lipase 7-like locus (GenBank Accession No, AJ549519) was not confirmed in strains Y5037, Y5038, Y5039 or Y5040. 
+ The final genotype of strains Y5037, Y5038, Y5039 and Y5040 with respect to wild type  Yarrowia lipolytica  ATCC #20362 was SCP2-(YALI1E01298g), YALI1C18711g-, Pex10-, YALI0F24167g-, unknown 1-, unknown 3-, unknown 8-, unknown 9-, unknown 10-, unknown 11-, GPD::FmD12::Pex20, YAT1::FmD12::OCT, GPM/FBAIN::FmD12S::OCT, EXP1::FmD12S::Aco, YAT1::FmD12S::Lip2, YAT1::ME3S::Pex16, EXP1::ME3S::Pex20 (3 copies), GPAT::EgD9e::Lip2, EXP1::EgD9eS::Lip1, FBAINm::EgD9eS::Lip2, FBA::EgD9eS::Pex20, GPD::EgD9eS::Lip2, YAT1::EgD9eS::Lip2, YAT1::E389D9eS::OCT, FBAINm::EgD8M::Pex20, FBAIN::EgD8M::Lip1 (2 copies), EXP1::EgD8M::Pex16, GPDIN::EgD8M::Lip1, YAT1::EgD8M::Aco, FBAIN::EgD5::Aco, EXP1::EgD5S::Pex20, YAT1::EgD5S::Aco, EXP1::EgD5S::ACO, YAT1::RD5S::OCT, YAT1::PaD17S::Lip1, EXP1::PaD17::Pex16, FBAINm::PaD17::Aco, YAT1::YICPT1::ACO, GPD::YICPT1::ACO, FBAINm::EaC20ES::Pex20, YAT1::EgC20ES::Lip1, FBAINm::EgC20ES::Pex20, EXP1::EaD4S-1::Lip2, EXP1::EaD4S-1::Pex16, YAT1::EaD4S-1::Lip1, GPDIN::EaD4SB::Aco, EXP1::E1594D4S::Oct, FBAINm::E1594D4S::Pex16, GPDIN::EgD4S-1::Aco, YAT::EgDHAsyn1S::Lip1. 
+ Generation of Strain Y5037U (Ura3−) 
+ In order to disrupt the Ura3 gene in strain Y5037, construct pZKUM ( FIG. 5B ; SEQ ID NO:56; described in Table 15 of U.S. Pat. App. Pub. No. 2009-0093543-A1) was used to integrate a Ura3 mutant gene into the Ura3 gene of strain Y5037, in a manner similar to that described for pZKUM transformation of strain Y5004. A total of 12 transformants were grown and identified to possess a Ura− phenotype. 
+ GC analyses showed the presence of 12.1% EPA, 10.2% DPA and 3.3% DHA or TFAs in pZKUM- transformant strain # 4 and 12.4% EPA, 10.3% DPA and 3.5% DHA in pZKUM-transformant strain #11. These two strains were designated as strains Y5037U1 and Y5037U2, respectively (collectively, Y5037U). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,603 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nitrile hydratases from R odococcus erythropolis and -their application 
+ The present invention is directed to polypeptides exhibiting nitrile hydratase activity and the respective encoding nucleic acids. Furthermore, micoorganisms, plasmids and vectors comprising the polypetides are also embraced by this invention. 
+ Amides and carboxylic acids, produced from corresponding nitriles, play more and more an important role as intermediates for production of chemical compounds in the field of fine organic chemistry. Especially amino acid amides and (proteogenic or non-proteogenic) amino acids are key intermediates for the synthesis of pharmaceutical and agrochemical products. Furthermore, amino acids can also serve as feed additives. 
+ α-Amino nitriles are precursors for appreciated products which can easily be synthesized by Strecker chemistry leading to a racemic mixture of these compounds . The nitriles can be converted subsequently into the corresponding amides or carboxylic acids by chemical saponification or with the help of enzymes. In the latter case, the amides can be synthesized e.g. via a non- enantioselective nitrile hydratase and then converted to an amino acid by an enantioselective or non-enantioselective a idase. 
+ The conversion of nitriles into amides and/or carboxylic acids catalyzed by the action of enzymes or whole cell catalysts helps to avoid the formation of large amounts of salts, which are produced during the neutralization step necessary for chemical saponification of nitriles. 
+ Therefore, enzymatic production of amino amides and/or amino acids from nitriles can lead into a sustainable production process of wanted compounds. 
+
+Enzymes converting nitriles to amides are called nitrile hydratases and belong to the group E.G. 4.2.1.84. They consist of α,β-subunits and may exist as multimeric polypeptides with up to 20 separable units (Bunch A. W. (1998), Nitriles, in: Biotechnology, Volume 8a, 
+ Biotransformations I, Chapter 6, Eds.: Rehm H.J., Reed G., Wiley-VCH, p. 277-324; Kobayashi, M. ; Shi izu, S. (1998) Metalloenzyme nitrile hydratase: structure, regulation, and application to biotechnology. Nature Biotechnology 16(8), 733-736) . 
+ Various documents show the enzymatic conversion of nitriles to the corresponding amides and/or carboxylic acids. For example, EP0362829 (Nitto) and DE4480132 (Institute Gniigenetika) claim the production of amides with the strains Rhodococcus rhodochrous Jl and R. rhodochrous M33, respectively. Patent 09832872 (Novus) claims the production of α-hydroxybutyroamides with Rhodococcus spec, and US5200331 describes the synthesis of amides by R. spec. (A-32, A-33) in general. Patents like DE3922137 and EP0445646 claim the sequences of nitrile hydratases of R. spec. N-774 and R. rhodochrous Jl, respectively. All these patents cover specific reactions with selected substrates and/or microorganisms. Up to now, there are no patents or publications available which describe the conversion of α-branched and other sterically challenging amino nitriles on technical scale. 
+ One of the main problems associated with α-amino nitriles as starting materials are their low stability at physiological pH around 7 in aqueous media. Under these conditions the nitriles decompose into ammonia, cyanide and the corresponding ketone or aldehyde, respectively (Taillades, J, Commeyras, A (1974) . Systemes de Strecker et apparentes-II: Mechanisme de formation en solution aqueuse des α-alcoylaminobutyronitrile a partir d' acetone, d'acide cyanhydrique et d' ammoniaque, methyl ou dimethylamine. 
+
+Tetrahedron 30:2493-2501; Weg an MA; Heinemann, U; Stolz, A; van Rantwijk, F; Sheldon, RA (2000) . Stereoretentive Nitrile Hydratase-Catalysed Hydration of D-Phenylglycine Nitrile. Organic Process Research & Development 4(5), 318- 322) . The formation of cyanide during this reaction is another disadvantage, because HCN inhibits the nitrile hydratase irreversibly. US6043061 tries to compensate this inhibition by reduction of the free CN-concentration in solution by chemical means. 
+ Therefore, the object of the present invention was to provide further polypeptides exhibiting nitrile hydratase activity, in particular those which were less prone to CN- inhibition compared to the ones already state of the art. Moreover, the enzymes should accept a broad range of nitriles and α-amino nitriles, preferably such with sterically demanding α-radicals. 
+ These objects and others which are not specified in greater detail, but which are obvious from the state of the art, are met according to the claims. Claims 1 to 3 protect nucleic acids encoding either the α- or β-subunits of a newly found nitrile hydratase which are subject to claims 4 to 6. Microorganisms and plasmids or vectors are covered by claims 7 and 8, primers are referred to in claim 9 and claims 10 to 12 are directed to a method of producing amides from nitriles by enzymatic conversion. Claim 13 provides a whole cell catalyst for the transformation of nitriles to acids. 
+ One embodiment of the present invention relates to isolated nucleic acid selected from the group consisting of: i) at least one nucleic acid sequence selected from the group containing odd SEQ. ID. NO.s 1 - 36 or a fragment thereof; ii) a nucleic acid that has at least 70% homology to the sequences under i) or a fragment thereof; iii) a nucleic acid that hybridyses to a sequence under i) 
+
+or ii) or its complementary sequences under stringent conditions comprise washing in 5X SSC at a temperature ranging from 50°C to 68 °C; iv) a nucleic acid obtained by: - a) mutagenizing a nucleic acid of i) , ii) or iii) , 
+ - b) cloning the mutagenized nucleic acid from (a) into a vector, 
+ - c) transferring the vector from (b) into an expression system, - d) expressing the nucleic acid in the expression system, 
+ - e) detecting the protein which have improved activity and/or selectivity, and 
+ - f) isolating the nucleic acid which encodes the protein detected in (e) , wherein said nucleic acid of (i) , (ii) , (iii) or (iv) encodes a polypeptide being part of an enzyme having nitrile hydratase activity. The details of the nucleic acids advantageously provide access to substances which make it possible to assure an adequate amount of the enzymes necessary for an enzyme- based industrial process, as mentioned at the outset, for the production of e.g. amino acids or carboxylic acids or amides. Via known recombinant techniques (see below) it is possible, with the nucleic acids according to the invention, to recover high yields of the enzymes from fast- growing host organisms. Moreover, the gene sequences according to the invention can be used to produce mutants which may exhibit further improvements. Said recombinant techniques, with which those skilled in the art are sufficiently familiar (see below) , provide access to organisms which are capable of providing the enzyme in question in an amount adequate for an industrial process. The rec-enzymes according to the invention are prepared by genetic engineering methods known to those skilled in the art (Sambrook et al. 1989, Molecular Cloning: A Laboratory Manual, 2nd edition, Cold Spring Harbor Laboratory Press; 
+
+Balbas P. & Bolivar F. 1990, Design and construction of expression plasmid vectors in E. coli, Methods Enzymology 185, 14-37; Vectors: A Survey of Molecular Cloning Vectors and Their Uses. R.L. Rodriguez & D.T. Denhardt, eds: 205- 225) . As regards the general procedure (PCR, cloning, expression etc.), reference may also be made to the following literature and the material cited therein: Sambrook J. , Fritsch E.F., Maniatis T. (1989). Molecular Cloning. Cold Spring Harbor Laboratory Press; Vectors: A Survey of Molecular Cloning Vectors and Their Uses. R.L. Rodriguez & D.T. Denhardt, II. 
+ Procedure for improving the enzymes according to the invention by mutagenesis methods are state of the art like e.g. saturation mutagenesis (A.R. Oliphant, A.L. Nussbaum, K. Struhl (1986) Cloning of random sequence oligonucleotides, Gene 44, 177-183) , random mutagenesis (R.C. Caldwell, G.F. Joyce (1992) Randomization of genes by PCR mutagenesis, PCR Methods Appl. 2, 28-33), recombination methods such as shuffling (W.P. Stemmer (1994) DNA shuffling by random fragmentation and reassembly: In vitro recombination for molecular evolution, Proc. Natl. Acad. Sci. USA 91, 10747-10751), L-shuffling (EP 1104457) or StEP (H. Zhao, L. Giver, Z. Shao, J. Affholter, F. Arnold (1998) Molecular evolution by staggered extension process (StEP) in vitro recombination, Nat. Biotechnol. 16, 258-261), and site-directed mutagenesis (S.N. Ho, H.D. Hunt, R.M. Horton, J.K. Pullen, L.R. Pease (1989) Site-directed mutagenesis by overlap extension using the polymerase chain reaction, Gene 77, 248-254) . The novel nucleic acid sequences obtained are preferably transferred into a host organism by the methods described below and the expressed enzymes are detected by suitable screening methods. 
+ Preferred are nucleic acid sequence comprising a nucleic acid according to the invention and optionally: a) a polynucleotide encoding one or more recombinant protein (s) in heterologous expression systems (Hashimoto, 
+
+Yoshihiro; Nishiyama, Makoto; Yu, Fujio; Watanabe, Ichiro; Horinouchi, Sueharu; Beppu, Teruhiko. Development of a host-vector system in a Rhodococcus strain and its use for expression of the cloned nitrile hydratase gene cluster. Journal of General Microbiology (1992), 138(5), 1003-10; Mizunashi, W.; Nishiyama, M. ; Horinouchi, S.; Beppu, T. Overexpression of high-molecular-mass nitrile hydratase from Rhodococcus rhodochrous Jl in recombinant Rhodococcus cells. Applied Microbiology and Biotechnology (1998), 49(5), 568-572; Kim, S.-H.; Oriel, P. Cloning and expression of the nitrile hydratase and amidase genes from Bacillus sp. BR449 into Escherichia coli. Enzyme and Microbial Technology (2000), 27(7), 492-501) or b) one or more nucleotide sequences selected from the group consisting of a promoter, a ribosome binding site or a regulatory region, or both (a) and (b) . (Bramucci, Michael G.; Cheng, Qiong; Kostichka, Kristy N.; Tomb, Jean- Francois . Plasmid encoding proteins for plasmid replication and stability isolated from Rhodococcus erythropolis and uses for cloning and construction of expression vectors. WO 0255709; Wu, S.; Fallon, R. D.; Payne, M. S. Engineering Pichia pastoris for stereoselective nitrile hydrolysis by co-producing three heterologous proteins. Applied Microbiology and Biotechnology (1999), 52(2), 186-190; Hashimoto, Yoshihiro; Nishiyama, Makoto; Horinouchi, Sueharu; Beppu, Teruhiko. Nitrile hydratase gene from Rhodococcus sp. N-774 requirement for its downstream region for efficient expression. Bioscience, Biotechnology, and Biochemistry (1994), 58(10), 1859-65) Also preferred are nucleic acid fragments that comprises at least 70% of the total nucleic acid sequence of the nucleic acids according to the invention. More preferred such fragments comprise more than 75%, 80%, 85%, 9.0%, 91%, 92%, 
+
+93%, 94%, 95%, 96%, 97%, 98%, 99% or 99,5% of the total nucleic acid sequence of the nucleic acids according to the invention. 
+ In another embodiment the present invention is directed to a polypeptide, encoded by a nucleic acid of the invention, being part of an enzyme having nitrile hydratase activity. The sequences of these peptides are depicted in even SEQ. ID NO: 1 - 36. These sequences are either the α- (even Seq. 1 - 18) or the β-subunits (even Seq. 19 - 36) of nitrile hydratses. 
+ Furthermore an enzyme consisting of an α-unit and/or a β- unit encoded by a nucleic acid sequences selected from the group consisting of odd SEQ. ID. NOs. 1 to 18 and 19 to 36, respectively, and having nitrile hydratse activity is an object of the present invention. 
+ Preferred are enzymes comprising an α- and a β-subunit combination encoded by nucleic acid sequences selected from the group consisting of 1/19, 3/21, 5/23, 7/25, 9/27, 11/29, 13/31, 15/33, 17/35, respectively, and having nitrile hydratase activity. In principle all combinations between the disclosed α- and β-subunits can be selected as long as a nitrile hydratase activity can be achieved. 
+ One further embodiment of the '  instant invention is directed to a microorganism comprising one or more nucleic acids of the invention. Embraced are either native or rec- microorganis s . The respective native microorganisms are desposited according to the Budapest Treaty at the Deutsche Sammlung fur Mikroorgansimen und Zellkulturenj, Mascheroder Weg 4, 38124 Braunschweig. The following table 1 depicts the microorganisms, their origins and deposit numbers 
+ (Brandao PFB, Clapp JP and Bull AT (2002) . Discrimination and taxonomy of geographically diverse strains of nitrile- metabolising actinomycetes using chemometric and molecular sequencing techniques. Environmental Microbiology 4, 262- 
+
+Tab: 1: List of isolated strains. TS: Terestrial soil, DS: deep-sea sediment, FW: freshwater sediment, BW: Brakish water sediment 
+ 
+ 
+ 
+ The rec-microorganisms into which the nucleic acids may be cloned are used for increasing and recovering a sufficient amount of the recombinant enzyme or polypeptide. The relevant processes are well known to those skilled in the art (Sambrook et al. 1989, Molecular cloning: A Laboratory Manual, 2nd Edition, Cold Spring Harbor Laboratory Press; Balbas P. & Bolivar F. 1990, Design and construction of expression plasmid vectors in E. coli, Methods Enzymology 185, 14-37; and above-cited bibliography relating to recombinant techniques) . In principle, the microorganisms used can be any of the organisms used for this purpose by those skilled in the art, e.g. prokaryotes or eukaryotes such as PseudomonaSj, Streptomyces, Arthrobacter, Bacillus „ Staphylococcus, Escherichia, Candida, Hansenula, Pichia and baculoviruses . It is preferable to use E. coli strains for this purpose, the following being very particularly preferred: E. coli NM 522, XL1 Blue, JM101, JM109, JM105, RR1, DH5α, TOP 10 "  or HB101. 
+ The invention further relates to plasmids or vectors containing one or more of the nucleic acids according to 
+
+the invention. 
+ In principle, suitable plasmids or vectors are any of the variants available for this purpose to those skilled in the art. Such plasmids and vectors can be found in Studier et al., Methods Enzymol. 1990, 185, 61-69, or in the brochures issued by Roche Biochemicals, Invitrogen, Novagen, Promega, New England Biolabs, Clontech or Gibco BRL. Particularly preferred plasmids and vectors can be found in DNA cloning: a practical approach, Volume I-III, edited by D.M. Glover, IRL Press Ltd., Oxford, Washington DC, 1985, 1987; 
+ Denhardt, D.T. and Colasanti, J. : A survey of vectors for regulating expression of cloned DNA in E. coli. In: Rodriguez, R.L. and Denhardt, D.T. (eds) . Vectors, Butterworth, Stoneham, MA, 1987, pp. 179-204; Gene expression technology. In: Goeddel, D.V. (eds) , Methods in Enzymology, Volume 185, Academic Press, Inc., San Diego, 1990; Sambrook, J., Fritsch, E.F. and Maniatis, T. 1989. Molecular cloning: a laboratory manual, 2nd ed. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y. Plasmids with which the gene construct containing the nucleic acid according to the invention can very particularly preferably be cloned into the host organism are: pKK-177-3H (Roche Biochemicals), pBTac (Roche Biochemicals) , pKK-233-3 (Amersham Pharmacia Biotech) , pLex (Invitrogen) or the vectors of the pET (Novagen) or pUC- series like pUC18 or pUC19, respectively. 
+ Modified plasmid pUC18/19 (Fig. 1 - plasmid map of pUC18/19 and the orientation of the nitrile hydratase α-, β- subunits, and orfP47K regarding the lac promoter) is exceedingly preferred. 
+ A further feature of the invention concerns primers for the preparation of the gene sequences according to the invention by means of all kinds of PCR selected from the group comprising: 5'-GCC CGC ATA AGA AAA GGT GAA (SEQ. ID NO. 37); 5'-TCA AAC GGT CTG GTC GGT ATA (SEQ. ID NO. 38); 
+
+5'-TCT ACG ACA CCA CCG CCG AAA CT (SEQ. ID NO. 39); 5'-GCA TGA CGT ACC TCT CGT AGT ACG (SEQ. ID NO. 40); 5'-GAC CAT GAT TTC CAG TGT CC (SEQ. ID NO. 41); 
+ They include the sense and antisense primers coding for the corresponding amino acid sequences. 
+ In principle, suitable primers can be obtained by methods known to those skilled in the art. The primers according to the invention are identified by comparison with known DNA sequences or by translation of the contemplated amino acid sequences into the codon of the organism in question (e.g. for Streptomyces: Wright et al., Gene 1992, 113, 55-65). Common characteristics in the amino acid sequence of proteins of so-called superfamilies are also useful for this purpose (Firestine et al., Chemistry & Biology 1996, 3, 779-783) . Further information on this subject can be found in Oligonucleotide synthesis: a practical approach, edited by M.J. Gait, IRL Press Ltd, Oxford, Washington DC, 1984; PCR Protocols: A guide to methods and applications, edited by M.A. Innis, D.H. Gelfound, J.J. Sninsky and T.J. White. Academic Press, Inc., San Diego, 1990. Primers which can simultaneously introduce the sequences important for restriction enzymes into the nucleic acid sequence to be synthesized are also preferred. 
+ In a further embodiment the present invention concerns a method for preparing an amide comprising converting a nitrile into an amide using a polypeptide of the invention, preferrably in enantiomerically enriched form. 
+ In particular a methode is preferred wherein the nitrile is an α-amino nitrile. Exceedingly preferred is a methode in which the α-amino nitrile is a compound of formula (I) 
+   
+wherein 
+ R 1  is the α-radical of a proteinogenic or non-proteinogenic amino acid 
+ R 2  is H, (Cχ-C 8 ) -alkyl, (C 2 -C 8 ) -alkenyl, (C 2 -C 8  ) -alkinyl, (Cε-Cis) -aryl, (C 7 -Cι 9 ) -aralkyl, (C 3 -Cι 8 ) -heteroaryl, (C 4 -C 19 ) -heteroaralkyl, (Cι-C 8 ) -alkyl- (C 6 -Cι 8 ) -aryl, 
+ (Cι-C 8  -alkyl- (C 3 -C 19 ) -heteroalkyl, (C 3 -C 8 ) -cycloalkyl, 
+ (Ci-Cβ -alkyl- (C 3 -C 8 ) -cycloalkyl, (C 3 -C 8  -cycloalkyl- (Cχ-C 8 ) -alkyl, (C 3 -C 8 ) -cycloalkenyl, (Cι-C 8  -alkyl- (C 3 -C 8 ) -cycloalkenyl, (C 3 -C 8  -cycloalkenyl- (Cι-C 8 ) -alkyl, (C 6 -C 8 ) -cycloalkinyl, (Ci-Cβ -alkyl- (C 6 -C 8 ) -cycloalkinyl or (C 6 -C 8  -cycloalkinyl- (Cι-C 8 ) -alkyl R 3  or R 4  are independently of each other H, mono or bidentate (Cι-C 8 ) -acyl, (Cι-C 8 ) -alkyloxycarbonyl, (C 6 -Cι 8 )- aryloxycarbonyl, (C-Cιg) -aralkyloxycabonylespecially N- protecting groups, like Boc, Moc, Eoc, Fmoc, Z, Acetyl, Formyl, Carbamoyl, phthalyl, .  phthaloyl or (C 7 -Ci9) -aralkyl, if R 3  is H than R 4  can be OH, OR 2 , NH 2 , NHR 2 , NR 2 R 2 , CONHNH 2  or SO 2 R 1  with R 2  not being H. Further groups can be depicted from Houben-Weyl, Synthese von Peptiden, Band 15/1, S. 46ff, 1974, Thiele. 
+ The invention also provides a whole cell catalyst comprising a cloned gene for a nitrile hydratase and a cloned gene for an amidase, wherein both enzymes are tuned according to their turnover rates, using preferably a rec- amidase from Variovorax or Rhizobium huatlense and a nitrile hydratase of the invention (DE 10230756 or DE 10037115.9 and bibliography cited therein). Those skilled in the art are familiar with the preparation of such an organism (PCT/EP00/08473; PCT/US00/08159; see below for bibliography) . 
+ The advantage of such rec-organism is the simultaneous expression of both enzyme systems even though only one rec- organism has to be used for the reaction of nitriles to corresponding acids (Kim, S.-H.; Oriel, P. (2000) Cloning 
+
+and expression of the nitrile hydratase and amidase genes from Bacillus sp. BR449 into Escherichia coli. Enzyme and Microbial Technology, 27(7), 492-501). To adjust the expression levels of the enzymes in question to their reaction rates or turnover rates, it is possible to accommodate the appropriately coding nucleic acid fragments on different plasmids with different copy numbers and/or to use promoters of different strengths for gene expressions with different expression levels. By adjusting enzyme systems in this way, there is advantageously no accumulation of an intermediate possibly having an inhibitory action, and the reaction in question can proceed at an optimum overall rate, this being sufficiently familiar to those skilled in the art (PCT/EP00/08473; Gellisse_n_et_ a-_._,_ Appl._ Microbiol_. Biotechnol. 1996, 46, 
+ 46-54) . With respect to a host organism a microorganism of DE10155928 is utmostly preferred. 
+ The DNA fragments with the nitrile hydratase genes from different R. erythropolis strains were obtained by aplifying the α- and β-subunits and the open reading frame P47K. The orfP47K is presumably responsible for a active expression of the NHase. Used primer pairs (see Tab. 2) were derived from sequences of R. erythropolis N-774 (Duran, R, Nishiyama, M, Horinouchi and S, Beppu, T. (1993) Characterization of nitrile hydratase genes cloned by DNA screening from Rhodococcus erythropolis. Bioscience, Biotechnology and Biochemistry 57(8) 1323-8; Hashimoto, Y; Nishiyama, M; Horinouchi , S and Beppu, T. (1994) Nitrile hydratase gene from Rhodococcus sp. N-774 requirement for its downstream region for efficient expression. Bioscience, Biotechnology, and Biochemistry 58(10) 1859-65). The amplified DNA fragments were ligated in pUC18 or 19 plasmids, transformed in suitable microorganisms and subsequently sequenced. Nitrile hydratases with an in-frame orientation regarding the lac promoter were used in heterologous expression in E. coli . 
+
+The enzymes in question can be used in free form as homogeneously purified compounds. Furthermore, the enzyme can also be used as a constituent of an intact host organism or in conjunction with the digested host organism cell mass purified to any desired degree. It is also possible to use the enzymes in an immobilized, form (Bhavender P. Sharma, Lorraine F. Bailey and Ralph A. Messing, "Immobilisierte Biomaterialien - Techniken und Anwendungen", Angew. Chem. 1982, 94, 836-852) . The immobilization is advantageously effected by lyophilization (Dordick et al., J. Am. Chem. Soc. 1994, 116, 5009-5010; Okahata et al., Tetrahedron Lett. 1997, 38, 1971-1974; Adlercreutz et al., Biocatalysis 1992, 6, 291-305). Lyophilization in the presence of surface-active  "  substances, such as Aerosol OT, polyvinylpyrrolidone, polyethylene glycol (PEG) or Brij 52 (diethylene glycol monocetyl ether) , is very particularly preferred (Goto et al., Biotechnol. Techniques 1997, 11, 375-378). It is also conceivable to use the enzymes as CLECs (St Clair et al., Angew. Chem. Int. Ed. Engl. 2000 Jan, 39(2), 380-383). 
+ The expression  λ stringent conditions' is understood herein like indicated by Sambrook et al. (Sambrook, J. ; Fritsch, E. F. und Maniatis, T. (1989) , Molecular cloning: a laboratory manual, 2 nd  ed., Cold Spring Harbor Laboratory Press, New York) . A stringent hybridisation is provided if washing for 1 h with 1 x SSC (150 mM sodium chloride, 15 M sodium citrate, pH 7.0) and 0,1 % SDS (sodium dodecylsulfate) at 50 °C, preferably at 55 °C, and more preferably at 62 °C and most preferably at 68 °C and further preferably for 1 h with 0,2 x SSC and 0,1 % SDS at 50 °C, more preferably at 55 °C, most preferably at 62 °C and utmostly preferably at 68 °C leads to a< positive hybridisation signal can be monitored. 
+ Within the framework of the invention, optically enriched (enantiomer-enriched, enantiomerically enriched) compounds 
+
+are understood as indicating the presence of one optical antipode in a mixture with the other in a proportion of >50 mol%. 
+ Proteinogenic amino acid is an amino acid as described in Beyer-Walter, Lehrbuch der organischen Chemie, S. Hirzel Verlag Stuttgart, 22nd edition, 1991, p. 822 et seq. However, corresponding non-proteinogenic α-amino acids, such as those listed e.g. in DE 19903268.8, are also embraced. 
+ The term ^nucleic acids'" encompasses both single stranded or double stranded DNA and RNA. 
+ Improved rec-enzymes are understood according to the Claims as meaning particularly rec-enzymes which are more active and/or more selective (in respect of the reaction) and/or more stable under the reaction conditions used. 
+ According to the invention, the claimed protein sequences and the nucleic acid sequences also include sequences which have a homology (exclusive of natural degeneracy) greater than 80%, preferably greater than 90%, 91%, 92%, 93% or 94%, particularly preferably greater than 95% or 96% and very particularly preferably greater than 97%, 98% or 99% to one of these sequences, provided the mode of action or the purpose of such a sequence is preserved. The expression ^homology' (or identity) as used here can be defined by the equation H (%) = [1 - V/X] x 100, where H denotes homology, X is the total number of nucleic acids/amino acids in the reference sequence and V is the number of different nucleic acids/amino acids in the sequence in question relative to the reference sequence. In any case, the expression  λ nucleic acids coding for amino acid sequences' includes all sequences which appear possible according to the degeneracy of the genetic code. 
+ A (Cι-C 8 ) -alkyl radical in the context of the invention is 
+
+understood as meaning a radical having 1 to 8 saturated C atoms, which can have any desired branchings. The radicals methyl, ethyl, n-propyl, isopropyl, n-butyl, isobutyl, sec- butyl, tert-butyl, pentyl, hexyl etc. can be subsumed, in particular, under this group. This group may be substituted one ore more times by Hal, especially fluorine. (Cι-C 8 )-Alkoxy is a (Cι-C 8 ) -alkyl group which is linked to the molecule in question via a oxygen. 
+ (Cι-C 8 )-Acyl is a residue embracing an (Cι-C 8 ) -alkyl group which linked to the molecule in question via a carbonyl function. (Cι-C 8 ) -Alkyloxycarbonyl represents an (Cχ-C 8 )- alkoxy radical linked to the molecule in question via a carbonyl function. 
+ A (C 2 -C 8 ) -alkenyl radical has the features mentioned for, the (Cι~C 8 ) -alkyl radical, where at least one double bond must be present within the radical. 
+ A (C 2 -C 8 ) -alkinyl radical has the features mentioned for the (Cι-C 8 ) -alkyl radical, where at least one triple bond must be present within the radical. 
+ A (C 6 -Cι 8 ) -aryl radical is understood as meaning an aromatic radical having 6 to 18 C atoms. This includes, in particular, compounds such as phenyl, naphthyl, anthryl, phenanthryl and biphenyl radicals. These radicals may be substituted one or more times by Hal, (Cι-C 8 ) -alkoxy, (Cι~ C 8 ) -alkyl. 
+ (Ce-Cis) -Aryloxycarbonyl is an (Cβ-Ciβ) -aryl radical bonded to the molecule in question via a -0 (C=0) -function. A (C7-C 19 ) -aralkyl radical is a (C 6 -Cι 8 ) -aryl radical bonded to the molecule via a (Cι-C 8 ) -alkyl radical, like benzyl or Ph 2 CH, naphthylmethyl, fluorenylmethyl etc.. 
+ (Cβ-Cis) -Aralkyloxycarbonyl means a (C7-C19) -aralkyl radical which is linked to the molecule in question through a - 0(C=0) -bondage. 
+
+In the context of the invention, a (C 3 -Cι 8 ) -heteroaryl radical designates a five-, six- or seven-membered aromatic ring system of 3 to 18 C atoms which contains heteroatoms such as e. g. nitrogen, oxygen or sulfur in the ring. Radicals such as 1-, 2- or 3-furyl, such as 1-, 2- or 3-pyrrolyl, l-,2- or 3-thienyl, 2-, 3- or 4-pyridyl, 2-, 3-, 4-, 5-, 6- or 7-indolyl, 3-, 4- or 5-pyrazolyl, 2-,4- or 5-imidazolyl, acridinyl, quinolinyl, phenanthridinyl or 2-, 4-, 5- or 6-pyrimidinyl, in particular, are regarded as such heteroaromatics. 
+ A (C-Cι 9 ) -heteroaralkyl is understood as meaning a heteroaromatic system corresponding to the (C 7 -Cιg) -aralkyl radical. 
+ In the context of the invention, a (C 3 -C 8 ) -cycloalkyl radical consequently designates a radical of the group of cyclic alkyl radicals having 3 to 8 C atoms and optionally any desired branching. The radicals cyclopropyl, cyclobutyl, cyclopentyl, cyclohexyl, cycloheptyl and cyclooctyl in particular are to be subsumed under this group. 
+ A (C 3 -C 8 ) -cycloalkenyl radical is a (C 3 -C 8 ) -cycloalkyl radical with one or more double bonds in the ring system. A (C§-C 8 ) -cycloalkinyl accordingly is a (C6-C 8 ) -cycloalkyl radical with a triple bond in the ring system. 
+ The aforementioned radicals may be substituted by one or more halogen (Hal) atoms. Hal is understood as meaning fluorine, chlorine, bromine or iodine. 
+ The structures and formulae shown relate to the individual enantiomers (R-, S-) and/or diastereomers and to the racemic derivatives if one or more stereogenic centres are present. 
+
+The literature references cited in this specification are to be considered as being incorporated in the disclosure. 
+
+ 
+ Examples : 
+ 1. Isolation and culture conditions 
+ Sediments were collected from marine sites in the NW Pacific Ocean and from terrestrial sources. Samples were collected aseptically and held at 180°C in liquid nitrogen or at 4°C until analyzed. Details of the locations and depths are given in Colquhoun et al. (Colquhoun JA, Mexson J, Goodfellow M, Ward AC, Horikoshi K and Bull AT (1998b) Novel rhodococci and other mycolate actinomycetes from the deep sea. Antonie van Leeuwenhoek 74: 27-40), Heald et al. (Heald SC, Brandao PFB, Hardicre R and Bull AT (2001)  '  Physiology, biochemistry and taxonomy of deep-sea nitrile metabolising Rhodococcus strains. Antonie van Leeuwenhoek 80, 69--183-)" ~ aπd -Bxamda-o- ' et—a-t-v- (-Brandao--PFB, -Glapp- J-P-and Bull AT (2002) . Discrimination and taxonomy of geographically diverse strains of nitrile-metabolising actinomycetes using chemometric and molecular sequencing techniques. Environmental Microbiology 4, 262-276) . 
+ The medium used for the enrichment procedures and growth was chelate mineral medium (CMM; Heald SC, Brandao PFB, 
+ Hardicre R and Bull AT (2001) Physiology, biochemistry and taxonomy of deep-sea nitrile metabolising Rhodococcus strains. Antonie van Leeuwenhoek 80, 169-183), which contained (g l "1 ) : 1.2, K 2 HP0 4 ; 0.624, KH 2 P0 4 ; 0.05, CaCl 2 '6H 2 0; 0.2, MgSO 4 '7H 2 0; 0.1, NaCl; 0.5, (NH 4 ) 2 S0 4 . 
+ Vitamin stock solution and trace element solution were added at 1 ml and 0.1 ml I -1 , respectively. The vitamin stock solution contained (mg l "1 ) : 25, thiamine hydrochloride; 250, calcium pantothenate; 250, nicotinic acid; 0.5, biotin; 250, riboflavin; 5, p-aminobenzoic acid; 12.5, cyanocobalamin (Bι 2 ) ; 500, folic acid; 500, pyridoxine hydrochloride (Be) • The mixture was filter sterilised (0.2 μ filter, Millipore, Bedford, USA) and stored at 4°C in the dark. The trace element solution contained (mg per 100 ml -1 ): 158, Na 2 EDTA.2H 2 0; 4.7, 
+
+NaMo0 4 -2H 2 0; 70, ZnSO"7H 2 0; 18, MnSO 4   * 4H 2 0; 16, FeSO 4 -7H 2 0; 4.7, CuSO 4 -5H 2 0; 5.2, CoCl 2 "6H 2 0. The solution was stored at 4°C in the dark. Solid media were prepared by adding 1.5% (w/v) agar (Agar No.l, Lab M, England) to liquid media before autoclaving. Isolations were routinely made at 30°C (Colquhoun et al. 1998) . Pure cultures were obtained by plating on glucose yeast extract (GYE) agar or CMM supplemented with 0.1% (v/v) of the relevant nitrile compound. GYE contained (g l -1 ) : 10, glucose; 10, yeast extract; 15, agar. Thiamine hydrochloride was added to autoclaved GYE to a final concentration of 4 mg l "1  from a filter sterilized stock (0.2 μm filter, Millipore) . Nitrile-utilising organisms were recovered by directly plating deep-sea sediments, diluted in potassium phosphate buffer (0.1 M, pH 7.0)^ onto CMM agar supplemented with the relevant nitrile compound. Acetonitrile and benzonitrile were supplied at a final concentration of 0.1% (v/v) unless stated otherwise.  '  Batch enrichments were established by adding 0.1-0.5 g wet weight of sediment to 50 ml liquid medium containing a nitrile compound and incubating at the desired temperature with agitation (150 rpm) . The primary enrichment culture (5 ml) was sequentially subcultured into 50 ml identical fresh medium at seven day intervals, at which time 0.1-ml aliquots were spread plated onto CMM agar containing the enrichment substrate. A dispersion and differential centrifugation technique also was used to isolate nitrile-degrading organisms from deep-sea sediments. Approximately 0.3 g sediment was suspended in 10 ml of a 0.1% (w/v) sodium cholate solution; this was then treated as described by Hopkins et al. (1991). Isolates were stored short-term at 4°C on agar plates or long-term at -70 °C in a sterile solution of 20% glycerol in CMM. To prepare resting bacterial cell suspensions bacteria were harvested during exponential phase growth by centrifugation at 17 000 x g for 10 min. Pellets were washed with 100 mM potassium phosphate buffer (pH 7.0) and resuspended in the same buffer to an optical density of 1.0 at 600 nm. 
+
+2. Taxonomic methods 
+ Reference strains 
+ The following validated species of the genus Rhodococcus (Goodfellow M, Alderson G and Chun J (1998) Rhodococcal systematics: problems and developments. Antonie van 
+ Leeuwenhoek 74: 3-20) were included as references in the taxonomic analysis: R. rhodochrous (type species) R. coprophiluS f  R. egui, R . erythropolis R. fascians, R. globeruluS f  R. marinonascens , R. - opacus, R. rhodnii  F  R. ruber; R. wratislavensis; together with R. luteus f  R. percolatus and R. zopfii . Also included in the taxonomic analyses were the - type species of other mycolate genera: Dietzia maris f  Gordonia bronchialis , Nocardia asteroides f   ' Tsukamurella pa-urometabola .- All- the -above—type strains, were. of terrestrial origin with the exception of JR. marinonascens and D. maris, which had a marine origin (Helmke E and Weyland H (1984) Rhodococcus marinonascens, an actinomycete from the sea. Int. J. Syst. Bacteriol. 34: 127-138; Rainey FA, Burghardt J, Kroppenstedt RM, Klatte S and Stackebrandt, E (1995) Phylogenetic analysis of the genera Rhodococcus and Nocardia and evidence for. the evolutionary origin of the genus Nocardia from within the radiation of Rhodococcus species. Microbiol. UK 141: 523- 528) . 
+ Mycolic acid analysis 
+ Extraction and detection of cell wall mycolic acids were performed according to Minnikin (Minnikin DE (1988). Isolation and purification of mycobacterial cellwall lipids. In: I. C. Hancock & I. C. Poxton (Eds) Bacterial Cell Surface Techniques (pp 95-184) . John Wiley and Sons, Winchester) . 
+
+Pyrolysis mass spectrometry (PyMS) 
+ Standardized growth conditions for deep-sea isolates and reference organisms were used for PyMS analysis. Cultures were prepared on GYE agar plates prepared from the same batch of constituents and incubated for 5 days at 30°C. All experimental and data analysis procedures are described in Colquhoun et al. (Colquhoun JA, Mexson J, Goodfellow M, Ward AC, Horikoshi K and Bull AT (1998b) Novel Rhodococci and other mycolate Actinomycetes from the deep sea. Antonie van Leeuwenhoek 74: 27-40). 
+ 16S rRNA preparation and sequencing 
+ Genomic DNA from the bacterial strains was extracted and purified according to Pitcher et al. (Pitcher, D: G.; Saunders, N. A.; Owen, R. J. (1989) Rapid extraction of bacterial genomic DNA with guanidium thiocyanate. Letters in Applied Microbiology, 8(4), 151-6 ), followed by a phenol-chloroform extraction to obtain DNA of sufficient purity for amplification by the polymerase chain reaction (PCR) . PCR amplification was performed using a DNA Thermal Cycler model 9600 (Perkin-Elmer Cetus, Norwalk, CT, USA) under the following conditions: 100 ng template DNA, 10 μl reaction buffer (100 mM Tris-HCl, 15 mM MgCl 2 , 500 mM KC1, pH 8.3 at 20°C, 2.5 U Taq DNA polymerase (Roche, Mannheim, Germany) , 1 nM upstream primer, 1 nM downstream primer, 200 nM dATP, 200 nM dCTP, 200 nM dGTP, 200 nM dTTP (dNTPs supplied as a 10 mM stock mix, Promega, Madison, WI, USA) , and PCR water (Sigma) combined in a total volume of 100 μl. Thirty amplification cycles were performed with template DNA denaturation at 95°C for 1.5 min, primer annealing at 55 °C for 1.5 min and primer extension at 72 °C for 1.5 min. The following oligonucleotide primer sequences were used (DeLong 1992): Eubac27F (5' -AGA GTT TGA TCC TGG CTC AG; Seq. ID No. 42) and Eubacl492R (5' -GGT TAC CTT GTT ACG ACT T; Seq. ID No. 43) . Amplified DNA was purified from the reaction mixture using a DNA recovery filter SUPREC-02 
+
+(Takara, Japan) and quantified spectrophotometrically. PCR , products were sequenced directly by the dideoxynucleotide chain-termination method using a Model373A DNA Sequencer (Perkin-El er/Applied Biosystems, Warrington, UK) according to the manufacturer's instructions. Sequencing was performed using the above primers, and by primer walking using the following oligonucleotide primers (Kato C, Li L, Tamaoha J and Horikoshi K (1997) Molecular analyses of the sediment of the 11000-m deep Mariana Trench. Extremophiles I: 117-123): 357F: TAC GGG AGG CAG CAG (Seq. ID No. 44 . (#343-357); 519R: GTA TTA CCG CGG CTG CTG (Seq. ID No. 45 (complementary to #536-519); 803F: GAT TAG ATA CCC TGG. TAG (Seq. ID No. 46) (#786-803); 909R: CCG TCA ATT CAT TTG AGT (Seq. ID No. 47) (complementary to #926-909); 1114F: GCA ACG AGC GCA ACC C (Seq. ID No. 48) (#1099-1114). Numbers in brackets correspond to the Escherichia coli 16S rDNA sequence (accession number J01695. 
+ 3. Growth conditions for Rhodococcus 
+ JR. erythropolis 870-AN019 cells were pre-cultivated in 50 ml CMM medium (Heald SC, Brandao PFB, Hardicre R and Bull AT (2001) . Physiology, biochemistry and taxonomy of deep- sea nitrile metabolising Rhodococcus strains. Antonie van Leeuwenhoek 80, 169-183) without ammonium sulphate addition (CMM "N ) supplemented with 20 mM acetonitrile (AN) , for 24 hours at 30°C and 110 rpm. After harvesting, cells were washed twice with sterile 100 mM phosphate buffer pH 7.0 and resuspended in 20 ml of the same buffer. For these procedures cell centrifugation was made at 4000 rpm at 4°C. For biotransformation assays cell cultures were prepared by inoculating 200 ml of CMM ~N  supplemented with 10 mM acetyl- valine-nitrile (Ac-ValCN) , lOmM glucose and 50 mg/L FeS04.7H20 in a 1000 ml Erlenmeyer flask, to a final optical density at 600 nm wavelength (OD 6 oo) of approximately 0,1 with sterile washed cells. Incubation was 
+
+made at 30°C and 110 rpm for 28 hours. The nitrile hydratase activity of the cells was determined using both valine nitrile (ValCN) and Mipkan as substrates. Under these conditions the specific activity of the nitrile hydratase in strain 870-AN019 towards ValCN and Mipkan (methyl isobutyl amino nitrile) was respectively 1,6 and 0,6 μmol amide formed/min/mg cell dry weight (units/mg cdw) . 
+ 4. General DNA manipulation techniques, DNA sequencing and analysis 
+ Preparation of chromosomal DNA of the actinomycetes, or plasmid DNA from E. coli strains, as well as the isolation of DNA fragments from agarose gels were prepared according to the instructions of the suppliers of the used kits (Qiagen, Germany) . Agarose gel electrophoresis and transformation of E. coli strains was described by Sambrook et al. (Sambrook, J. ; Fritsch, E. F. und Maniatis, T. (1989), Molecular cloning: a laboratory manual, 2 nd  ed., Cold Spring Harbor Laboratory Press, New York) . Restriction enzymes and T4 DNA-ligase (Roche Diagnostics, Germany) were used according to the instructions of the suppliers. 
+ Amplification of DNA fragments by polymerase chain reaction (PCR) 
+ The DNA fragments of the different nitrile hydratase genes were amplified by PCR using chromosomal DNA from the corresponding bacterial strains (Tab. 1) . All primers (Tab. 2) were synthesized by MWG-Biotech (Ebersberg, Germany) . 
+ Each reaction mixture contained 1 U Herculase DNA polymerase (Stratagene, Germany) , 10 nmol of each dNTP, 50 pmol of each primer and approx. 0.1-0.5 (g of genomic DNA in a final volume of 50 (1 with the appropriate buffer. PCR amplification was performed using a programmable 
+
+ thermocyler (Master Cycler; Eppendorf, Germany) . Amplifications proceeds with selected primer pairs (see Tab. 2) derived from the DNA sequence of R. erythropolis (Duran, R, Nishiyama, M, Horinouchi and S, Beppu, T. (1993) 5 Characterization of nitrile hydratase genes cloned by DNA screening from Rhodococcus erythropolis. Bioscience, Biotechnology and Biochemistry 57(8) 1323-8; Hashimoto, Y; Nishiyama, M; Horinouchi, S and Beppu, T. (1994) Nitrile hydratase gene from Rhodococcus sp. N-774 requirement for 
+ 10 its downstream region for efficient expression. Bioscience, Biotechnology, and Biochemistry 58(10) 1859-65). The amplified fragment contains the α-, β-subunit, and the orfP47K, which is presumably responsible for a active expression of the NHase. PCR were performed as follows: 
+ _15_ After prejdenaturating the genomic DNA at 98 °C for 5 min, Herculase DNA polymerase was added, and the denaturing temperature was changed to 95°C for 1 min. Thirty cycles were performed by an annealing temperature of the calculated Tm of the primer's (60°C) for 45 followed by an 
+ 20 elongation at 72°C for 3 min 70 s.. The elongation times were conform to the l kb DNA = 1 min' rule. 
+ Tab. 2: Oligonucleotides designed for PCR amplification of the NHase α- and β-subunit genes, and for sequencing the Nhase gene 
+ 
+ 
+ 
+ 
+ Construction of plasmids for NHase expression 
+ All DNA amplificates were cloned blunt end into Smal hydrolyzed pUCl8 vector, transformed into E. coli JM109 (DH5α) , and prepared for analysis of the DNA sequence of the PCR products. The general strategy was to fuse the NHase reading frame directly to the given (IPTG inducible) l_ac  ^ promoter of the pUC18/19 vector. For expression in E. coli the described vector construct was transformed in E: coli BL21 codon plus (Stratagene, Germany) . E. coli BL21 codon plus (RIL) contains extra copies of genes that encode t-RNA Λ s for codon' s in E. coli that are rarely used. The general plasmid map is shown in Fig.l. 
+ Using this expression system we were able to obtain an activity of about 280 U per cell-dry-weight (cdw) for benzonitrile as substrate with the recombinant NHase from strain 870-AN019. 
+ Biotransformation conditions 
+ Cultures of R. erythropolis 870-AN019 in 200 ml media as described above were used to obtain sufficient cells for the biotransformation assay. Cells were washed twice with sterile 100 mM phosphate buffer pH 7.0 and the total volume of the culture was concentrated and resuspended in 35 ml of the same buffer. The final ODeoo obtained was approximately 21 (approx. 9 g/L) . Biotransformation was performed with 30 ml of cells in the vessel of a potentiometric titration 
+
+unit (Titrino 719S, Metrohm, Switzerland) for automatic control of the reaction pH by addition of 1M HC1. Temperature in the reaction vessel was set at 20 °C and maintained by a recirculation water bath. Agitation was set at half velocity. The pH of the biotransformation culture was adjusted to pH 5.0 with 4 M HC1, and cells were left under these conditions for 10 min before the start of the nitrile conversion. Biotransformation was started by addition of 5 mM Mipkan (methyl isobutyl amino nitrile) . The nitrile was then added in portions of 5 mM every 10 min up to 120 min to a maximum input of 65 mM. The qualitative and quantitative compositions of the reaction solution were determined by high-pressure-liquid chromatography (HPLC) and by spectrophotometric assays. At 130 min 96% of the total Mipkan added was converted to ADB, while 4% was chemically degraded to cyanide. The amidase activity was zero or very low since the final ADB concentration remained constant for up to 1 hour after the Mipkan conversion was finished (see Fig. 2) . 
+ 6. Biotransformation assay 
+ Following assay was used for the determination of substrate specificity's of the different Rhodococcus strains: Cells were resuspended in 50 mM phosphate buffer pH 7.0 to a final concentration of ODeoo about 4 to 5 in a total volume of 10 ml. The reaction was started by adding of 2.5 - 50 mM (depending to the nitrile) of the substrate. The mixture was incubated then at 30 °C degrees for 1 to 4 hours. The activity of the NHases was determined by measuring metabolites by HPLC analysis (see below) . For results see table 3 and 4. 
+
+Tab. 3: Substrate specificity's of different Rhodococcus erythropolis strains with aliphatic compounds (Acetyl-tert- leucinonitrile, Acetyl-valinonitrile, Acetyl-Mipkan, Mipkan) 
+ 
+ 
+ 
+ (-, not detectable; (+) , detectable; +, low activity; ++, good activity; +++, very good activity) 
+
+Tab. 4: Substrate transformations of aromatic compounds with different Rhodococcus erythropolis strains (Benzonitrile, 2,6 Di-fluor benzonitrile) 
+ 
+ 
+ 
+ (-, not detectable; (+) , detectable; +, low activity; ++, good activity; +++, very good activity) 
+ Analytical procedures 
+ HPLC analysis 
+ For the qualitative and quantitative determination of Mipkan, ADB, and other amino amides or acids in biotransformation reactions a derivatisation procedure was used as followed: 100 μl of reaction sample was added to 900 μl of 1M potassium phosphate buffer at pH 7.5, mixed, followed by addition of 250 μl of 100 mM benzoyl chloride in acetonitrile; this mixture was incubated in a 
+
+thermomixer for 10 min at 20 °C and 1200 rpm, followed by 20 min at 50°C and 1200 rpm. After this incubation period, 250 μl of the derivatisation sample was added to a mixture of 100 μl 50% phosphoric acid and 750 μl HPLC eluent [0,1% (w/w) phosphoric acid : methanol (60:40)]. Samples were centrifuged for 5 min at 14000 rpm and supernatant (lOμl) injected on the HPLC. The column used was an Hypersil BDS C18; 250x4, 6mm, 5μm (Thermo Hypersil Keystone) equipped with a pre-column (UNIGARD) with the same column packaging and separation proceeded at room temperature. UV-detection was made at 210 nm. 
+ Cyanide detection 
+ The concentration of cyanide in biotransformation reactions was. measured -by__a_spectropho.tometric_ assay ^ using _a_ commercially available kit (Spectroquant® Cyanide, Merck) . 
+
+ 
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology Rodenbacher Chaussee 4 RECEIPT IN THE CASE OFA ORIG-NALDBPOSTT issued pursuant to Rule 7.1 by the 63457 Ha u-Wolfgang INTER ATIONALDEFOSITARY AUTHORITY identified at the bottom of this page 
+ I IDENTIFICATION OF THE MICROORGANISM 
+ MeatiScation reference givisn by the DEPOSITOH: Accession number given by the INTERNATIONAL DEPOSITARY AUTHORITY: 
+ 67-BEN001 
+ DSM 15256 
+ H. SCIENTIFIC DESCRIPTION AND/OR. PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I. above was accompanied by; 
+ ( ) a scientific description 
+ ( x)  s  pro osed taxonomic designation 
+ (Mark with a cross where applicable). 
+ m. RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under L above, which was received by it on 2002-10-22 (Date of the original deposit) 1 . """ — 
+ XV. RECEIPT OB REQUEST FOR, CONVERSION 
+ The πiorϋOϊgaHJεm identified under I stewe wcis received by t io IntcmδtienDl Depositary Aut ori y ea ( ate of originπl dog ssit) ond a request to convert the ongi sl deposit to a deposit under the Budap-st Treaty T/GS rcsc rs by st @a (date of rescipt of rcqiiεt for eonveisisa). 
+ V. INTERNATIONAL DEPOSITARY AUTHOSΪTY 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON Sign_tuιe(s) of person(s) having the powerto represent (he MKROORQANISMEN UND ZELL .ULTUREN GmbH International Depositary Authority or of authorized officials): 
+ Address: MascheroderWeg lb D-3S124 Braunschweig 
+ Date: 2002-10-25 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of mternational depositary authority was acquired. Form DSMZ-BP/4 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNΓΠON OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ DegussaAG 
+ Project House Biotechnology Ro enbacbsr Chaussee 4 
+ VIABILITY STATEMENT 63457 Hanau-Wolfgang . issued pursuant to Rule 10.2 by the EMTERNAπONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ 
+ 
+ 
+   1  Indicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date of the new deposit or date of the transfer). 
+   2  In the cases referred to in Rule 10.2(a) (ii) and (iii), refer to the most recent viability test.  5  Mark with a cross the applicable box. 
+ * Fill in if the information has beenrequested and if the results of the test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG __ 
+ Project House Biotechnology ode bacher_Chaussee 4 RECEIPT TN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 63457 Hanau-Wolfgang INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ L 1DENTIFICAΗON OF THE MICROORGANISM 
+ Identification reference given by the DEPOSITOR: Accession number given by the INTERNATIONAL DEPOSITARY AUTHORITY: 
+ AOT-AN007 
+ DSM 15257 
+ - H SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under L above was accompanied by. 
+ ( x a scientific description 
+ (  χ ) a proposed taxonomic designation 
+ (Mark with a cross where applicable). 
+ HL RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under L above, which was received by it on 2002-10-22 (Date of the original deposit) 1 .  *   
+ IV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I above vsss received by this International Depository Authority oa (date of original depsrit) and a request to convert the original deposit to o deposit under the Budapest Treaty was received by it on (date of receipt of reiaest for converc a.). 
+ V. INTERNATIONAL DEPOSITARY AUTHOEΪTY 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON Signatur ) of person(s) having_the power to represent the MKROORGANISMEN UND ZELL ULTUREN GmbH International Deposita y Authority or of authorized official^): 
+ Address: Mascheroder eg lb D-38124 Braunschweig 
+ Date: 2002-10-25 
+   1  Where Rule 6. (d) applies, such date is the date on which the status of international depositary authority was acquired. Form DSMZ-BP/4 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology 
+ Rodenbacher Chaussee 4 ?457 , H au-Wc f  M i _  ' ___ VIABILnΥ STATEMENT issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ 
+ 
+ 
+   1  Indicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date of the new deposit or date of the transfer). * h the cases referred to in Rule 10.2(a) (ii) and (iii), refer to the most recent viability test 
+   J  Mark with a cross the applicable box. 
+   4  Fill in if the information has been requested and if the results of the test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THEINTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology odenbacher Chaussee 4 RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 
+ 63457 Hωau :  olf ang_ m  ___ INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ 1 IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by the DEPOSITOR: Accession number given by the INTERNATIONAL DEPOSITARY AUTHORITY: 
+ 870-A 019 
+ DSM 15258 
+ H SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under I. above was accompanied by: 
+ ( ) a scientific description 
+ ( JJ) a proposed taxonomic designation 
+ (Mark with a cross where applicable). 
+ HI RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under L above, which was received by it on 2002-10-22 (Date of the original deposit) 1 . """ 
+ IV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I Ame TO received by this International Depositary Authority on _ (date of original dspasit) and a request to earned the original deposit to a deposit under &e Budapest Treaty vim iβoe red by it on (date of reseipt of request for conversion). 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON Signature^) of person^) having the power to represent the MKROORGANISMEN UND ZELLKULTUREN GmbH International Depositary Authority or of authorized official(_): 
+ Address: MascheroderWeg lb D-38124 Braunschweig 
+ Date: 2002-10-25 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of international depositary authority was acquired- Form DSMZ-BP/4 (sole page) 12 2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG___ 
+ Rodenbacher Cj^ssee 4 
+ VIABILΠΎ STATEMENT 6245J Bamy. r W l{gxoβ_ issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ L DEPOSITOR IL IDENTIFICATION OF THE MICROORGANISM 
+ Nome: Accession number given by the 
+ Project House Biolβctaoloj y , INTERNATIONAL DEPOSITARY AUTHORITY: 
+ [Ad πso: Rodeinbacher Chaussea 4  .   
+ DSM 15258 63457 Hanau-Wolfgang Date of the deposit at the transfer 1 : 2002-10-22„ 
+ HL VIABIHTY STATEMENT 
+ The viability of the microorganism identified under π above was tested on 2002-10-22 On that date, the said microorganism was ' 
+ (χ)» viable 
+ ( )* no longer viable 
+ TV. CONDITIONS UNDER WHICH THE VIABILITY TEST HAS BEEN PERFORMED* 
+ |V. INTERNATIONAL DEPOSITARY AUTHOS3TY 
+ Nome: DSM&DEUTSCHE SAMMLUNG VON Signature^) of person(s) havin the power to represssst fee 
+ MKROORGANISMEN UND ZELL ULTUREN International Depositary Authority or of authorised officiate): 
+ Ad ieEs: Mβscheroder eg l D-38124 Braunsohweig 
+ ' 
+ Date: 2002-10-25 
+ Indicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date of the new deposit or c of the transfer). * In the cases referred to in Rule 10.2(a) (ii) and (iii), refer to the most recent viability test 
+ Mark with a cross the applicable box. Fill in if the information has been requested and if the results of the test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology odenbacher Chaussee 4 RECEIPT IN THE CASE OF AN ORIGINAL DEPOSH issued pursuant to Rule 7.1 by the 63^7 Hanau-Wolfgang INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ I. roENTMCATΪON OF THE MICROORGANISM 
+ Identification reference given by the DEPOSITOR; Accession number given by the INTERNATIONAL DEPOSHARY AUTHORITY: 
+ ARG-AN024 
+ DS 15259 
+ IL SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNAΗON 
+ The microorganism identified under L above was accompanied by. 
+ ( x ) a scientific description 
+ (  χ ) a proposed taxonomic designation 
+ (Mark with a cross where applicable). 
+ El RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the micmoiganism identified under L above, which was received by it on 2002-10-22 (Date of the original deposit) 1 . """"" " 
+ IV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I above woo received by this ϊntematioid Depository Authority ea (date of o iginDl depssit) and o request to convert (he originnl deposit to a deposit under die Budapest Tieaty "tra received by it ea (date of eseipt of request fer εoavESSoa . 
+ V. INTERNATIONAL DEPOSITARY AUTHOHTTf 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON [s) of person(s) having the power to represent the MKROORGANISMEN UND ZELLKULTUREN GmbH lal Depositary Authority or of authorized officials): 
+ Address: Mascheroder eg lb D-38124 Braunschweig 
+ Date: 2002-10-25 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of intemational depositary authority was acquired. Form DSMZ-BP/4 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNΠION OF.THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology Rodenbacher Chaussee 4 
+ VIABILITY STATEMENT ' 63457 . Hanau-Wolfgang .  . issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ 
+ 
+ 
+   1  Indicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date of the new deposit or date of the transfer). 
+   2  In the cases referred to in Rule 10.2(a) (if) and (iii), refer to the most recent viability test  9  Mark with a cross the applicable box. 
+   4  Fill in if the informationhas been requested and if the results of the test were negative. 
+ Form DSMZ-BP/9 (sole pege) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG __ ___ 
+ Project House Biotechnology Rodenbacher Chaussee 4 RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 63457 Hanau-Wolfgan INTERNATIONAL DEPOSITARY AUTHORΠΎ identified at the bottom of this page 
+ 1 IDENTIFICATION OF THE MICROORGANISM 
+ Hentifieation reference given by the DEPOSITOR- Accession number g 
+ ' AUTHORITY: 
+ ARG-AN025 
+ DS 15260 
+ JL SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under L above was accompanied by: 
+ ( x) a scientific description 
+ ( a proposed taxonomic designation 
+ (Mark with a cross where applicable). 
+ HL RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under L above, which was received by it on 2002-10-22 (Date of the original deposit) 1 . '  •  """ 
+ IV. RECEIPTOFREQUESTFORCONVERSION 
+ The microorganism identified under I above was received by t sa International Depository Authority ©a (slate of original depssit) and a request to convert the original deposit to a deposit under the Budapest Treat ws recer/cd by It oa (date of receipt of re^ϋeα for coaf eroka). 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ DSMZ-DEUTSCHE SAMMLUNG VON Signature^) of perscm(s) having the power to represent the MKROORGANISMEN UND ZELLKULTUREN GmbH Intemational Depositary Authority or of authorized officials): 
+ Address: MasoheπjderWeg lb D-38124 Braunschweig 
+ Date: 2002-10-25 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of international depositary authority was acquired. Form DSMZ-BP/4 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Project House Biotechnology 
+ RodenbactøChaι^see4. 
+ VIABILΠΎ STATEMENT 
+ 63457 Ha u Wolfgang issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ 
+ 
+ 
+   1  Indicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date of the new deposit or date of the transfer). 
+   2  i the cases re erred to in Rule 10.2(a) (ii) and (iii), refer to the most recent viability test 
+   3  Mark with a cross the applicable box. 
+ * Fill in if the information has been requested and if the results of the test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology  •  Rodenbacher Chaussee 4 RECEIPT TN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 63457 H nau : Wol^n _ _ INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ t IDENTIFICATION OF THE MICROORGANISM 
+ IdentiGcatioa reference given by the DEPOSITOR: Accession number given by the INTERNATIONAL DEPOSITARY AUTHORITY: 
+ ENG-AW033 
+ DSM 15261 
+ VL SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under L above was accompanied by: 
+ ( x ) a scientific description 
+ ( χ a proposed taxonomic designation 
+ (Mark with a cross where applicable). 
+ EL RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under L above, which was received by it on 2002-10-22 (Date of the original deposit)'. " *   
+ XV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganicm ideatified under I above was reserved by this Intemafional Depositary Authority ea (date of origins! dejpsait) said a request to convert the original deposit to a deposit under the Budapest Treaty vsεz tessived by it ea (date of receipt of requsat fόrcoa^crcism). 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON Signature^) of person(s) having the power to represent the MKROORGANISMEN UND ZELLKULTUREN GmbH International Depositary Authority or of authorized officials): 
+ Address: MascheroderWeg lb D-38124 Braunschweig ^ £ e.' 
+ Date: 2002-10-25 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of international depositary authority was acquired. Form DSMZ-BP/4 (sole page) 12 2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology 
+ Rodenbacher Chaussee 4 
+ V-ABΓLΠY STATEMENT 6ϊ457 H mu- pl^ω^ issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ L DEPOSITOR H. IDENTIFICAΗON OF THE MICROORGANISM 
+ Naae: Degussa AG ; _ _ Accession number given by the 
+ Project Hoxiss Biotβchnologr . INTERNATIONAL DEPOSITARY AUTHOKIXY:  AddrB30:   , .R CT cteChausεs. _  ,  ._ .. 
+ DSM 15261 
+ _63457 Hmau :  o!f^g m  „ ..,.„  J . _.. 
+ Date of he deposit or the trsnϋfeA 2002^1:0722;. . . - - • - - - - -- - - m. VJABILΠΎ STATEMENT 
+ The viability ofthe microorganism identified under 11 above was tested on 2002-10-22 • On that date, the said microorganism was ~ " 
+ ( χ ) J  viable ' 
+ ( ) 3  no longer viable 
+ IV. CONDITIONS UNDER WHICH THE VIABILITY TES HAS BEEN PERFORMED 4   
+ -  '  •. 
+ V.1NTEKNATΪONAL DEPOSITARY AUTHOKΪTY 
+ Nasπe: DSMS-DEUTSCHE SAMMLUNG VOϊ-J Signature(o) of psrεon(s) having tiie power to represeat the 
+ MKROORGANISMEN UND ZELLKULTUREN GmbH International Depositary Authority er of authorised officiate): 
+ Addieca: Maschercder eg lfø 
+ D-33124 Braunafcfeig  '   
+ Date: 2002-10-25 
+   1  Indicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date ofthe new deposit or date of the transfer). 
+   2  In the cases referred to in Rule 10.2(a) (ii)and(iii),referto themostrecentviabilitytest 
+   3  Mark with a cross the applicable box. 
+ * Fill in if the information has been requested and if the results o the test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology Rodenbacher Chaussee 4 RECEIPT IN THE CASE OF AN ORIGINALDEPOSIT issued pursuant to Rule 7.1 by the 63457 Hanau-Wolfgang INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ L IDENTIFICATION OF THE MICROORGANISM 
+ HentiGcation reference given by the DEPOSITOR Accession number given by the INTERNATIONAL DEPOSITARY AUTHORITY: 
+ 871-AN053 
+ DS 15262 
+ E SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION 
+ The microorganism identified under L above was accompanied by. 
+ ( x ) a scientific description 
+ ( x) a proposed taxonomic designation 
+ (Mark with a cross where applicable). 
+ IE RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under L above, which was received by it on 2002-10-22 (Date ofthe original deposit) 1 . ~ " " 
+ W. RECEIPT OF REQUESTFOR CONVERSION 
+ The microorganism identified under I above i»jcs received by this Memotioiial Deposits ©a (dote of oriønal depssst) and o request to convert the original enses to o deposit under the Budapest Treaty /as ressr siea (dote of reαeipt of ΓC^KS for conversion). 
+ V. INTERNATIONAL DEPOSITARY AXJTHOBΪIΥ 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON Signature^) of person(s) having the power to represent the MKROORGANISMEN UND ZELLKULTUREN GmbH International Depositary Authority or of authorized officials): 
+ Address: MascheroderWeg lb D-3S124 Braunschweig 
+ Date: 2002-10-25 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of international depositary authority was acquired. Form DSMZ-BP/4 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG_ __ Project House Biotechnology Pvodenbacher Chaussee 4_ 
+ VIABILΠΎ STATEMENT 63457 Hanau-Wolfgang . issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ L DEPOSITOR π. ΓDENΠFICAΉON OF THE MICROORGANISM 
+ Hsme: Accession number given by the 
+ _Projeot House Bioteotaolo INTERNATIONAL DEPOSITARY AUTHORITY: Addieoo: 
+ DSM .15262 . 63457 Hm∞- olfgaag .. 
+ Date of hs eposit or the trsnsfer 1 : 
+ 2002=10-22  l HL VIABILΠΎ STATEMENT 
+ The viability ofthe microorganism identified under π above was tested on 2002-10-22 On that date, the said microorganism was ' 
+ (χ) 5  viable 
+ ( )' no longer viable rv. CONDITIONS UNDER WHICH THE VIABILΠY TES HAS BEEN PERFORMED* 
+ IV. WTERNAΉONALDEPOSIΓARY AUTHORITY 
+ Name DSMZ-DEUTSCHE SAMMLUNG VOW Signatures) of psrεoa ) having the pcrøsrto represent the MKROORGANISMEN UND ZELLKULTUREN GmbH Ihtemationόl Depository Authority or of authorised officidf ): 
+ Address: Masp eroderWeg Ife D-38124 BiauaE&ieiβ 
+ Date: 2002-10-25 
+   1  hidicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date ofthe new deposit or date ofthe transfer). 
+   2  i the cases referred to in Rule 10.2(a) (ii) and (iii); refer to the most recent viability test 
+   3  Mark with '  a cross the applicable box. Fill in if the information has been requested and if the results ofthe test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ E*gject House Biotechnology Rodenbacher Chaussee 4 RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 63457 Hanau-Wolfgan INTERNAΉONAL DEPOSITARY AUTHORITY: identified at the bottom of this page 
+ L IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by the DEPOSITOR: Accession number given by (he INTERNAΉONAL DEPOSITARY AUTHORITY: 
+ 122-AN065 
+ DS 15263 
+ π. SCIENTIFIC DESCRIPTION AND/OR PROPOSED AXONOMIC DESIGNATION - 
+ The microorganism identified under L above was accompanied by: 
+ ( X ) a scientific description 
+ ( x)  a  proposed taxonomic designation 
+ (Mark with a cross where applicable). 
+ HI, RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under I above, which was received by it on 2002-10-22 (Date of the original deposit)'. " " " 
+ IV. RECEIPT OF REQUEST FOR CONVERSEOH 
+ The microoiganiεm identified under I πbo?e vies rece red by this IntcπBtional Depositary Authority ta (dote of original defeat) and Q request to convert the original deposit to a deposit under the Eudnped Treaty visi reosive by ft ea .IKJHS t forconwrsio). 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON Signature^) of person(s) having the power to represeai tki MKROORGANISMEN UND ZELLKULTUREN GmbH International Depositary Authority or of authorized officis 
+ Address: Mascheroder ' Weg lb D-38124 Braunschweig 
+ 
+ 
+ Date: 2002-10-25 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of international depositary auttiority was acquired. Form DSMZ-BP/4 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnolog Itodenbacher Chaussee 4 
+ VIABILΠΎ STATEMENT 63457 Hanau : Wolfgan issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORITY identified at the bottom of this page 
+ L DEPOSITOR π. IDENΠFICATION OF THE MICROORGANISM 
+ Name: JDpgujsaAG  •  Accession number given by the 
+ Projest House! Biotechnolog INTERNATIONAL DEPOSITARY AUTHORITY: 
+ AdόteGB: Ro enbachβr Ctou^ss 4 
+ DS  , 15263 . Date o the deposit or the temfor': 
+ . _. _ _ _ .2002-10-22 
+ EL VIABILITY STATEMENT 
+ The viability ofthe microorganism identified under π above was tested on 2002-10-22 On that date, the said microorganism was ..... •> .-  „ ... — - 
+ ( X ) J  viable 
+ ( ) 3  no longer viable V. CONDITIONS UNDER WHICH THE V-ABIUTY TEST HAS BEEN PERFORMED* 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Nome: DSMZ-DEUTSCHE SAMMLUNG VON Signatøefc) of parson(s) having tlie power to represeat fee MIKROORGANISMEN UND ZELLKULTUREN taffl Ihtematioanl Depositary Authority or of authorised offi oϊjo): 
+ Addracs: Mβεchercder eg lb D-3S124 BtauaεotoeiC 
+ ^ (&  C '^ 
+ Date: 2002-10-25 
+   1  hidicate tlie date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date o the new deposit or date of the transfer). 
+   2  i the cases referred to in Rule 10.2(a) (ii) and ftϋ), refer to the most recent viability test ' Mark with a cross the applicable box. 
+   4  Fill in if the information has been requested and if the results of the test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ ProjertHou.se Biotechnology 
+ Rodenbacher Chaussee 4 RECEIPT IN THE CASE OF AN ORIGINAL DEPOSIT issued pursuant to Rule 7.1 by the 63457 Hanau- oljgan INTERNATIONAL DEPOSHARY AUTHORITY identified at the bottom of this page 
+ 1 IDENTIFICATION OF THE MICROORGANISM 
+ Identification reference given by the DEPOSITOR: Accession number given by the INTERNATIONAL DEPOSITARY AUTHORITY: 
+ 871-AN042 
+ DSM 15265 
+ IL SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC DESIGNATION  "   
+ The microorganism identified under L above was accompanied by; 
+ ( x ) a scientific description 
+ ( JJ) a proposed taxonomic designation 
+ ( arkwittt a cross where applicable). 
+ HL RECEIPT AND ACCEPTANCE 
+ This International Depositary Authority accepts the microorganism identified under L above, which was received by it on 2002-10-25 ( (DDaatete oof tthhee ooririgeiinnaall ddeepoαossiittV). " "" 
+ TV. RECEIPT OF REQUEST FOR CONVERSION 
+ The microorganism identified under I afes've vxs reserved by this International Depositary Authority ©3 (date of origjnal dsps3Jf) and a request to convert the origins! deposit to α depssit under me Budapest Treaty IKJ received by st ca (d3te ef receipt
+ 
+ for csmveraica). 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY 
+ Name: DSMZ-DEUTSCHE SAMMLUNG VON Signature^) of person(s) having the power to represent the MKROORGANISMEN UND ZELLKULTUREN GmbH Intemational Depositary Authority or of authorized officials): 
+ Address: Mascheroder eg lb D-38124 Braunschweig 
+ Date: 2002-10-28 
+   1  Where Rule 6.4 (d) applies, such date is the date on which the status of international depositary authority was acquired. Form DSMZ-BP/4 (sole page) 122001 
+
+ BUDAPEST TREATY ON THE INTERNATIONAL 
+ RECOGNITION OF THE DEPOSIT OF MICROORGANISMS 
+ FOR THE PURPOSES OF PATENT PROCEDURE 
+ INTERNATIONAL FORM 
+ Degussa AG 
+ Project House Biotechnology Rodenbacher Chaussee 4 
+ VIABILΠY STATEMENT 3457 Hanau : W lfgan  '  issued pursuant to Rule 10.2 by the INTERNATIONAL DEPOSITARY AUTHORΠY identified at the bottom of this page 
+ 
+ 
+ 
+   1  Indicate the date of original deposit or, where a new deposit or a transfer has been made, the most recent relevant date (date o the new deposit or date of he transfer). 
+   2  ]hme cases refeπedto mRule l0.2(a) (ii)and(iu),refertothemostreceιιtviabiBtytes  5  Mark with a cross the applicable box. 
+   4  Fill in if the information has been requested and if the results o the test were negative. 
+ Form DSMZ-BP/9 (sole page) 12/2001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1129 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CROSS-REFERENCE TO RELATED APPLICATIONS 
+ This application claims the benefit of Korean Patent Application Nos. 10-2013-0033875 filed on Mar. 28, 2013, and 10-2014-0033084 filed on Mar. 21, 2014, in the Korean Intellectual Property Office, the entire disclosures of which are hereby incorporated by reference. 
+ INCORPORATION-BY-REFERENCE OF MATERIAL SUBMITTED ELECTRONICALLY 
+ Incorporated by reference in its entirety herein is a computer-readable nucleotide/amino acid sequence listing submitted concurrently herewith and identified as follows: One 137,126 Byte ASCII (Text) file named “715782_ST25.TXT,” created on Mar. 26, 2014. 
+ BACKGROUND OF THE INVENTION 
+ 1. Field 
+ Provided are a composition for determining the effects of an anti-c-Met antibody including a marker gene, and a method for determining the effects of an anti-c-Met antibody using the marker gene. 
+ 2. Description of the Related Art 
+ c-Met, a typical receptor tyrosine kinase (RTK) present at the surface of cells, binds to its ligand, hepatocyte growth factor (HGF) to promote intracellular signal transduction thereby promoting the growth of cells. Additionally, c-Met is overexpressed in cancer cells, such that it is widely implicated in cancer incidence, cancer metastasis, cancer cell migration, cancer cell penetration, angiogenesis, etc. 
+ Anti-c-Met antibodies serve as anticancer drugs to suppress the increase of cancer cells. The suppression of the increase of cancer cells can be achieved when cell proliferation is delayed or apoptosis is facilitated. It has been reported that when EBC1 cells, a lung cancer cell line, were treated with an anti-c-Met antibody, their growth was reduced by the facilitation of apoptosis. In other words, anti-c-Met antibodies serve as anticancer drugs by facilitating apoptosis. 
+ In anticancer therapy using an anti-c-Met antibody, it is important to monitor whether the anti-c-Met antibody that is being used for treatment properly exhibits cancer cell apoptosis effects for efficient anticancer treatment. Accordingly, there is a need for the development of a biomarker capable of monitoring the cancer cell apoptosis effects of an anti-c-Met antibody. 
+ BRIEF SUMMARY OF THE INVENTION 
+ One embodiment provides a composition for determining the efficacy of an anti-c-Met antibody including one or more selected from the group consisting of particular marker genes and proteins encoded by the genes. 
+ Another embodiment provides a composition or a kit for determining the efficacy of an anti-c-Met antibody including a detection substance for detecting one or more selected from the group consisting of the particular marker genes and the proteins encoded by the genes. 
+ Another embodiment provides a method for determining the efficacy of an anti-c-Met antibody including measuring the expression level of the particular marker genes depending on the treatment concentration of the anti-c-Met antibody in a cell sample. In particular, the invention provides a method for determining the efficacy of an anti-c-Met antibody, comprising: treating the cell sample with the anti-c-Met antibody; measuring the expression of one or more genes selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, and a BCL2L1 gene in the cell sample treated with the anti-c-Met antibody; and optionally comparing the expression of the one or more genes with a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), wherein when the expression of one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene in the cell sample treated with the anti-c-Met antibody is increased relative to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), or the expression of one or more genes selected from the group consisting of the BCL2 gene and the BCL2L1 gene is decreased relative to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), then the anti-c-Met antibody exhibits its efficacy on the cell sample or a patient from which the cell sample is obtained. 
+ Still another embodiment provides a method for selecting a subject to which an anti-c-Met antibody is applied, including measuring the expression level of the particular marker genes depending on the treatment concentration of the c-Met antibody in a cell sample. In particular, the invention provides a method for selecting a subject which is a candidate for an anti-c-Met antibody therapy, comprising: (a) obtaining a cell sample from a subject, (b) treating the cell sample with the anti-c-Met antibody; (c) measuring the expression level of one or more genes selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, and a BCL2L1 gene in the cell sample treated with the anti-c-Met antibody, and optionally (d) comparing the expression of the one or more genes with a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), wherein when the expression of one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene in the cell sample treated with the anti-c-Met antibody is increased relative to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), or the expression of one or more genes selected from the group consisting of the BCL2 gene and the BCL2L1 gene is decreased relative to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), then the subject is a candidate for the anti-cMet antibody therapy. 
+ 
+ BRIEF DESCRIPTION OF THE DRAWINGS 
+   FIG. 1  is a schematic diagram showing a gene selection process related to the apoptosis effects of an anti-c-Met antibody. 
+   FIGS. 2A and 2B  are graphs showing a cell proliferation rate according to the treatment of anti-c-Met antibodies L3-1Y ( 2 A) and L3-1Y/IgG2 ( 2 B) in an EBC1 lung cancer cell line measured through CellTiter Glo assay. 
+   FIGS. 3A and 3B  are graphs showing an apoptosis rate according to the treatment of anti-c-Met antibodies L3-1Y ( 3 A) and L3-1Y/IgG2 ( 3 B) in an EBC1 lung cancer cell line measured through Caspase-3/7 Glo assay. 
+   FIG. 4  is a graph showing the results of verifying through qPCR a change in the relative transcript amount of a gene according to the treatment of an anti-c-Met antibody in an EBC1 lung cancer cell line. 
+   FIGS. 5A to 5E  are graphs showing the expression levels of selected genes according to antibody (L3-1Y) concentrations in an EBC1 lung cancer cell line, which were measured and compared through qPCR ( 5 A: CASP10,  5 B: TNFRSF21,  5 C: TP53,  5 D: BCL2L1, and  5 E: BCL2). 
+   FIGS. 6A to 6E  are graphs showing the expression levels of selected genes depending on antibody concentrations in an EBC1 lung cancer cell line using primers different from those of  FIGS. 5A to 5E , which were measured and compared through qPCR ( 6 A: CASP10,  6 B: TNFRSF21,  6 C: TP53,  6 D: BCL2L1, and  6 E: BCL2). 
+   FIG. 7  is a graph showing an apoptosis rate according to the treatment of an anti-c-Met antibody in Hs746T stomach cancer cells measured through Caspase-3/7 Glo assay. 
+   FIGS. 8A to 8C  are graphs showing the expression levels of selected genes depending on antibody concentrations in an Hs746T stomach cancer cell line, which were measured and compared through qPCR ( 8 A: TNFRSF21,  8 B: BCL2L1, and  8 C: BCL2). 
+   FIGS. 9A and 9B  are western blotting results showing a change in the expression of proteins encoded by selected genes depending in the treatment of anti-c-Met antibodies L3-1Y ( 9 A) and L3-1Y/IgG2 ( 9 B) in EBC1 lung cancer cells. 
+   FIGS. 10A to 10E  are graphs showing the expression levels of selected genes according to antibody (L3-1Y/IgG2) concentrations in an EBC1 lung cancer cell line, which were measured and compared through qPCR ( 10 A: CASP10,  10 B: TNFRSF21,  10 C: TP53,  10 D: BCL2L1, and  10 E: BCL2). 
+ 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ There is provided technology for evaluating the efficacy of an anti-c-Met antibody through a change in the expression level of a gene. In particular, technology is provided for identifying a gene which is overexpressed or suppressed in a cell line where an anti-c-Met antibody exhibits apoptosis effects when treated with an anti-c-Met antibody and to evaluate the efficacy of the anti-c-Met antibody by measuring the degree of the expression change of such a gene. This efficacy evaluation method using such a gene can be useful as a future PD (pharmacodynamics) marker of the anti c-Met antibodies. 
+ The anticancer effects of the anti-c-Met antibody are achieved by efficacies (functions) such as the degradation of a c-Met protein, the inhibition of the phosphorylation of Akt, the suppression of cancer cell proliferation, apoptosis induction in cancer cells, and the like. 
+ In one embodiment, the apoptosis effect and cell proliferation suppression efficacy of an anti-c-Met antibody were verified. When treating with an anti-c-Met antibody, a correlation between the expression level of a gene known to be related to apoptosis and the treatment concentration of the anti-c-Met antibody was examined. As a result, it was identified that the expression of a TNFRSF21 gene (known to facilitate apoptosis: J Biol Chem. 2012 Aug. 17; 287(34):29125-33), a CASP10 gene (known to facilitate apoptosis: PLoS One. 2010 Oct. 26; 5(10):e13638), a TP53 gene (known to facilitate apoptosis: Mol Cell. 2010 May 14; 38(3):356-68), a BCL2 gene (known to suppress apoptosis: PLoS One. 2011; 6(11):e27487. Epub 2011 Nov. 17), and a BCL2L1 gene (known to suppress apoptosis: Cell. 2011 Aug. 19; 146(4):607-20) appeared to be changed depending on the treatment concentration of the anti-c-Met antibody. Among them, the TNFRSF21 gene, the CASP10 gene, and the TP53 gene are genes known to facilitate apoptosis, and it was confirmed that as the treatment concentration of the anti-c-Met antibody increases, the expression of these genes increases (see  FIG. 5A  to  FIG. 5C  and  FIG. 6A  to  FIG. 6C ). The BCL2 gene and the BCL2L1 gene are genes known to suppress apoptosis, and it was confirmed that as the treatment concentration of the anti-c-Met antibody increases, the expression of these genes is decreased (see  FIG. 5D ,  FIG. 5E ,  FIG. 6D , and  FIG. 6E ). Therefore, 5 genes, a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, and a BCL2L1 gene, were selected as biomarkers. 
+ Accordingly, one embodiment provides a composition for determining the efficacy of an anti-c-Met antibody comprising one or more selected from the group consisting of biomarker genes and proteins encoded by the genes. 
+ In particular, there is provided a composition for determining the efficacy of an anti-c-Met antibody comprising one or more selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, a BCL2L1 gene, and the proteins encoded by the genes. The composition may comprise a control against which the expression of the one or more genes can be compared. 
+ Another embodiment provides a composition or a kit for determining the efficacy of an anti-c-Met antibody comprising a detection substance for detecting one or more selected from the group consisting of biomarker genes and the proteins encoded by the genes. The composition or the kit also may comprise a control against which the expression of the one or more genes can be compared. 
+ More particularly, there is provided a composition or a kit for determining the efficacy of an anti-c-Met antibody comprising a detection substance for detecting one or more selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, a BCL2L1 gene, and the proteins encoded by the genes. 
+ Another embodiment provides a method for determining the efficacy of an anti-c-Met antibody comprising measuring the expression level of the biomarker genes according to the treatment concentration of the c-Met antibody in a cell sample. Particularly, the method for determining the efficacy of an anti-c-Met antibody may include: 
+ (a) obtaining a cell sample (e.g., from a patient) 
+ (b) treating the cell sample with the anti-c-Met antibody; and 
+ (c) measuring the expression of one or more genes selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, and a BCL2L1 gene in the cell sample treated with the anti-c-Met antibody. 
+ The method may further include, subsequent to the step of measuring the expression level of the genes, a step of comparing the expression of the one or more genes to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), wherein when the expression of one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene in the cell sample treated with the anti-c-Met antibody is compared to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody) and increased (for example, depending on the treatment concentration of the anti-c-Met antibody), or the expression of one or more genes selected from the group consisting of the BCL2 gene and the BCL2L1 gene is compared to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody) and decreased (for example, depending on the treatment concentration of the anti-c-Met antibody), the anti-c-Met antibody exhibits its efficacy with regard to the cell sample, or a patient from which the cell sample is derived. 
+ In one embodiment, a composition or a kit for selecting a subject to which an anti-c-Met antibody should be applied (i.e., a candidate for anti-c-Met antibody therapy) is provided. The composition or the kit comprises a detection substance for detecting one or more selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, a BCL2L1 gene, and the proteins encoded by the genes. The kit also can comprise a control against which the expression of the one or more genes can be compared. 
+ Another embodiment provides a method for selecting a subject to which an anti-c-Met antibody is applied comprising measuring the expression level of the marker genes according to the treatment concentration of the c-Met antibody in a cell sample. 
+ Particularly, the method for selecting a subject to which an anti-c-Met antibody is applied may include: 
+ (a) obtaining a cell sample from the subject, 
+ (b) treating the cell sample with the anti-c-Met antibody; and 
+ (c) measuring the expression level of one or more genes selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, and a BCL2L1 gene in the cell sample treated with the anti-c-Met antibody. 
+ The method for selecting a subject to which an anti-c-Met antibody is applied may further include, subsequent to the step of measuring the expression level of the genes, a step of comparing the expression of the one or more genes to a control (e.g., a negative control, such as the cell sample that has not been treated with the anti-c-Met antibody), wherein when the expression of one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene in the cell sample treated with the anti-c-Met antibody is increased depending on the treatment concentration of the anti-c-Met antibody, or the expression of one or more genes selected from the group consisting of the BCL2 gene and the BCL2L1 gene is decreased depending on the treatment concentration of the anti-c-Met antibody, the cell sample or the subject from which the cell sample was obtained is identified as a subject to which the anti-c-Met antibody can be administered. 
+ The above methods may further include a step of measuring the expression of one or more genes selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, and a BCL2L1 gene in a control for comparison. 
+ In the above methods, the phrase “the expression is increased depending on the treatment concentration of the anti-c-Met antibody” may refer to a situation wherein when the anti-c-Met antibody is administered at two or more concentrations, the expression level of the one or more genes at a first concentration is higher than the expression level of the one or more genes at a second concentration which is lower than the first concentration among the treated concentrations. As used herein, the phrase “the expression is decreased depending on the treatment concentration of the anti-c-Met antibody” may refer to a situation wherein when the anti-c-Met antibody is administered at two or more concentrations, the expression level of the one or more genes at a first concentration is lower than the expression level of the one or more genes at a second concentration which is lower than the first concentration among the treated concentrations. 
+ In the above methods, the step of measuring the expression of one or more genes may be performed by measuring the amount of a transcript (e.g., mRNA) of the one or more genes, a cDNA corresponding to the transcript, or a protein encoded by the one or more genes. The measurement of the amount of a transcript, a cDNA, or a protein may be performed by any means known to the relevant art. 
+ For example, the step of measuring the expression of one or more genes may include: (i) adding a detection substance interacting with one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene to the cell sample treated with the anti-c-Met antibody, allowing reaction therebetween, thereby producing a reaction product, and (ii) analyzing the obtained reaction product, to quantify the one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene. In step (i), the detection substance interacting with one or more genes may be one or more selected from the group consisting of polynucleotides (e.g., primers, probes, aptamers, and the like), chemicals, and the like, which specifically bind to all or a part of the one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene. The detection substance may or may not be labeled with at least one labeling substance selected from the group consisting of chemiluminescences, fluorescences, coloring substances, and the like. In step (ii), the reaction product may be a complex produced by interaction (binding) between the detection substance and the one or more genes selected from the group consisting of the TNFRSF21 gene, the CASP10 gene, and the TP53 gene. The step of quantification may performed by quantifying the produced complex; measuring the labeling substance labeling the complex; or separating the one or more genes from the complex and then quantifying the separated one or more genes. 
+ The TNFRSF21 (Tumor necrosis factor receptor superfamily, member 21) gene may be derived from mammals such as primates including humans and monkeys and rodents including rats and mice. For example, it may be one or more selected from the group consisting of GenBank Accession Nos. NM_014452, XM_001103782, NM_178589, and NM_001108207. 
+ The CASP10 (Caspase 10) gene may be derived from mammals such as primates including humans and monkeys and rodents including rats and mice. For example, it may be one or more selected from the group consisting of GenBank Accession Nos. NM_001230, NM_001206524, NM_001206542, NM_032974, NM_032976, NM_032977, and XM_0010978040. 
+ The TP53 (Tumor protein p53) gene may be derived from mammals such as primates including humans and monkeys and rodents including rats and mice. For example, it may be one or more selected from the group consisting of GenBank Accession Nos. NM_000546, NM_001126112, NM_001126113, NM_001126114, NM_001126115, NM_001126116, NM_001126117, NM_001126118, NM_001047151, NM_001127233, NM_011640, and NM_030989. 
+ The BCL2 (B-cell CLL/lymphoma 2) gene may be derived from mammals such as primates including humans and monkeys and rodents including rats and mice. For example, it may be one or more selected from the group consisting of GenBank Accession Nos. NM_000633, NM_000657, NM_009741, and NM_177410, NM_016993. 
+ The BCL2L1 (BCL2-like 1) gene may be derived from mammals such as primates including humans and monkeys and rodents including rats and mice. For example, it may be one or more selected from the group consisting of GenBank Accession Nos. NM_138578, NM_001191, NM_001260717, NM_009743, NM_001033670, NM_001033671, NM_001033672, and NM_031535. 
+ The efficacy of the anti-c-Met antibody, which is a target to determine in the present invention, may include the degradation of a c-Met protein, the inhibition of the phosphorylation of Akt, the suppression of cancer cell proliferation, apoptosis induction in cancer cells, etc., and particularly, it may be apoptosis induction function in cancer cells. 
+ In the kits and methods for determining the efficacy of an anti-c-Met antibody, the detection substance for detecting one or more selected from the group consisting of a TNFRSF21 gene, a CASP10 gene, a TP53 gene, a BCL2 gene, a BCL2L1 gene, and the proteins encoded by the genes may be one or more selected from the group consisting of oligonucleotides and proteins specifically binding to the genes or proteins. 
+ For example, the detection substance may be one or more selected from the group consisting of probes, primers, aptamers, and the like. The probe may an oligonucleotide including nucleotide sequences complementary to 10 to 100, particularly 10 to 50, more particularly 10 to 30 consecutive nucleotides within the one or more genes selected from the group consisting of the TNFRSF21 gene, CASP10 gene, TP53 gene, BCL2 gene, and BCL2L1 gene, an aptamer specifically binding to the above one or more genes, an antibody binding to the proteins encoded by the above one or more genes, and an aptamer binding to the proteins encoded by the above one or more genes. The oligonucleotides including the complementary base sequences are referred to as including base sequences capable of hybridizing with the marker genes, and they may include sequences including the sequence homology/identity of 80% or more, particularly 90% or more, more particularly 95% or more, for example 99% or more, or 100% with the base sequences of the marker genes. The primer may be an oligonucleotide or a pair of oligonucleotides including nucleotide sequences complementary to 5 to 50, particularly 5 to 30, more particularly 5 to 25 consecutive nucleotides at one terminus or both termini of polynucleotide fragments including at least 50, at least 100, at least 150 or at least 200 consecutive nucleotides within the one or more genes selected from the group consisting of the TNFRSF21 gene, CASP10 gene, TP53 gene, BCL2 gene, and BCL2L1 gene. 
+ For example, the detection substance may be one or more selected from the group consisting of a primer pair for detecting the TNFRSF21 gene consisting of SEQ ID NO: 111 and SEQ ID NO: 112, a primer pair for detecting the CASP10 gene consisting of SEQ ID NO: 113 and SEQ ID NO: 114, a primer pair for detecting the TP53 gene consisting of SEQ ID NO: 115 and SEQ ID NO: 116, a primer pair for detecting the BCL2 gene consisting of SEQ ID NO: 117 and SEQ ID NO: 118, a primer pair for detecting the BCL2L1 gene consisting of SEQ ID NO: 119 and SEQ ID NO: 120, a primer pair for detecting the TNFRSF21 gene consisting of SEQ ID NO: 121 and SEQ ID NO: 122, a primer pair for detecting the CASP10 gene consisting of SEQ ID NO: 123 and SEQ ID NO: 124, a primer pair for detecting the TP53 gene consisting of SEQ ID NO: 125 and SEQ ID NO: 126, a primer pair for detecting the BCL2 gene consisting of SEQ ID NO: 127 and SEQ ID NO: 128, and a primer pair for detecting the BCL2L1 gene consisting of SEQ ID NO: 129 and SEQ ID NO: 130. 
+ In the kit and method for determining the efficacy of the anti-c-Met antibody, the detection substance may be present in the state of a mixture solution in a buffer, or in a form immobilized on a solid substrate. The solid substrate may be made of any materials such as a glass, a plastic, a polymer resin and a metal, but is not limited thereto. 
+ In the kit and method for determining the efficacy of the anti-c-Met antibody, a reaction between the detection substance specifically binding to the marker genes, and the marker genes and the proteins encoded thereby can be detected by any known ordinary methods. For example, the reaction between the detection substance and the marker genes may be measured by a method selected from the group consisting of polymerase chain reaction (PCR; e.g., RTPCR, qPCR, etc.), hybridization method (Northern blotting, Microarray, etc.), microarray, and Taq-based technology (SAGE, RNA-seq, etc.), but not limited thereto. 
+ The reaction between the detection substance and the proteins may be measured through an ordinary enzyme reaction, fluorescence, luminescence and/or radiation detection. In particular, it may be measured by a method selected from the group consisting of immunochromatography, immunohistochemistry, enzyme linked immunosorbent assay (ELISA), radioimmunoassay (RIA), enzyme immunoassay (EIA), fluorescence immunoassay (FIA), luminescence immunoassay (LIA), microarray, and western blotting, but not limited thereto. 
+ The cell samples to be used in the method for determining the efficacy of the anti-c-Met antibody may be those separated from a living body, or may be artificially cultured cells (e.g., cancer cells) or cells (cancer cells) separated from a patient or cultures thereof. In particular, in the case that the patient is being treated with the anti-c-Met antibody, the method for determining the efficacy of the anti-c-Met antibody can monitor the treatment efficacy of the anti-c-Met antibody in the patient. 
+ The cell samples to be used in the kit and method for selecting a subject to which the anti-c-Met antibody is applied may be cells (cancer cells) separated from a patient, for example, a patient which is a candidate to be treated with the anti-c-Met antibody, or cultures thereof. 
+ The cancer cell may be any kind of cancer cell (tumor cell) in which the anti-c-Met antibody can exhibit anticancer effects, e.g., apoptosis induction effects. The cancer may include any cancer caused by overexpression and/or abnormal activation of c-Met. For example, the cancer cell may be one or more selected from the group consisting of squamous cell carcinoma, small-cell lung cancer, non-small-cell lung cancer, adenocarcinoma of the lung, squamous cell carcinoma of the lung, peritoneal carcinoma, skin cancer, melanoma in the skin or eyeball, rectal cancer, cancer near the anus, esophagus cancer, small intestinal tumor, endocrine gland cancer, parathyroid cancer, adrenal cancer, soft-tissue sarcoma, urethral cancer, chronic or acute leukemia, lymphocytic lymphoma, hepatoma, gastrointestinal cancer, gastric cancer, pancreatic cancer, glioblastoma, cervical cancer, ovarian cancer, liver cancer, bladder cancer, breast cancer, colon cancer, large intestine cancer, endometrial carcinoma or uterine carcinoma, salivary gland tumor, kidney cancer, prostate cancer, vulvar cancer, thyroid cancer, head and neck cancers, and so on. In particular, the cancer cell may be one or more selected from the group consisting of lung cancer cells, stomach cancer cells, kidney cancer cells, large intestine cancer cells, and breast cancer cells. The cancer may include metastatic cancers as well as primary cancers. 
+ The patients may be mammals, for example, primates such as humans or monkeys, and rodents such as rats or mice. 
+ As used herein, the term “control” may refer to a cell which is not treated with the anti-c-Met antibody. The cell as a control may be the cell sample before being treated with the anti-c-Met antibody, or a part of the cell sample which is not treated with the anti-c-Met antibody. 
+ Depending on the concentration of the anti-c-Met antibody, a change in expression of one or more of the biomarker genes of two-fold or greater (e.g., three-fold, four-fold, five-fold, six-fold, seven-fold, eight-fold, nine-fold, ten-fold or more) relative to a control indicates that (i) the anti-c-Met antibody exhibits efficacy on the cell sample or patient from which the cell sample is derived and/or (ii) the patient from which the cell sample is applied is a candidate for therapy with the anti-c-Met antibody. 
+ Unless otherwise mentioned, the anti-c-Met antibody is used to refer to an antibody, an antigen binding fragment the antibody, or a variant of the antibody. The antigen-binding fragment of the anti-c-Met antibody may refer to a fragment including an antigen binding region of the anti-c-Met antibody, and can be selected from the group consisting of a complementarity determining region (CDR), fragment including CDR and Fc region, scFv, (scFv) 2 , Fab, Fab′, and F(ab′) 2  of the anti-c-Met antibody. The variant of the antibody may be any isotype of antibodies derived from human (e.g., IgA, IgD, IgE, IgG (IgG1, IgG2, IgG3, IgG4), IgM) and other animals found in nature and/or one including any Fc region of antibodies derived from human and other animals, having a mutated hinge wherein at least one (e.g., two, three, four, five, six, seven, eight, nine, ten, or more) amino acid is changed, deleted, inserted, or added. 
+ The anti c-Met antibody may be any antibody recognizing c-Met protein and capable of inducing apoptosis of cancer cells. The anti c-Met antibody may recognize a specific region of c-Met, e.g., a specific region in the SEMA domain, as an epitope. It may be any antibody or antigen-binding fragment that acts on c-Met to induce c-Met intracellular internalization and degradation. 
+ c-Met, a receptor for hepatocyte growth factor (HGF), may be divided into three portions: extracellular, transmembrane, and intracellular. The extracellular portion is composed of an α-subunit and a β-subunit which are linked to each other through a disulfide bond, and contains a SEMA domain responsible for binding HGF, a PSI domain (plexin-semaphorins-integrin homology domain) and an IPT domain (immunoglobulin-like fold shared by plexins and transcriptional factors domain). The SEMA domain of c-Met protein may comprise the amino acid sequence of SEQ ID NO: 79, and is an extracellular domain that functions to bind HGF. A specific region of the SEMA domain, that is, a region including the amino acid sequence of SEQ ID NO: 71, which corresponds to a range from amino acid residues 106 to 124 of the amino acid sequence of the SEMA domain (SEQ ID NO: 79) of c-Met protein, is a loop region between the second and the third propellers within the epitopes of the SEMA domain. The region acts as an epitope for the specific anti-c-Met antibody of the present invention. 
+ The term “epitope” as used herein, refers to an antigenic determinant, a part of an antigen recognized by an antibody. In one embodiment, the epitope may be a region comprising 5 or more contiguous (consecutive or non-consecutive) amino acid residues within the SEMA domain (SEQ ID NO: 79) of c-Met protein, for instance, 5 to 19 contiguous amino acid residues within the amino acid sequence of SEQ ID NO: 71. For example, the epitope may be a polypeptide comprising 5 to 19 contiguous amino acids selected from among partial combinations of the amino acid sequence of SEQ ID NO: 71, wherein the polypeptide essentially includes the amino sequence of SEQ ID NO: 73 (EEPSQ) serving as an essential element for the epitope. For example, the epitope may be a polypeptide comprising, consisting essentially of, or consisting of the amino acid sequence of SEQ ID NO: 71, SEQ ID NO: 72, or SEQ ID NO: 73. 
+ The epitope comprising the amino acid sequence of SEQ ID NO: 72 corresponds to the outermost part of the loop between the second and third propellers within the SEMA domain of a c-Met protein. The epitope comprising the amino acid sequence of SEQ ID NO: 73 is a site to which the antibody or antigen-binding fragment according to one embodiment most specifically binds. 
+ Thus, the anti-c-Met antibody may specifically bind to an epitope which comprises 5 to 19 contiguous amino acids selected from among partial combinations of the amino acid sequence of SEQ ID NO: 71 (EEPSQ), comprising SEQ ID NO: 73 as an essential element. For example, the anti-c-Met antibody may specifically bind to an epitope comprising the amino acid sequence of SEQ ID NO: 71, SEQ ID NO: 72, or SEQ ID NO: 73. 
+ In one embodiment, the anti-c-Met antibody may be an antibody or an antigen-binding fragment thereof, which comprises: 
+ (i) at least one heavy chain complementarity determining region (CDR) selected from the group consisting of (a) a CDR-H1 comprising the amino acid sequence of SEQ ID NO: 4; (b) a CDR-H2 comprising the amino acid sequence of SEQ ID NO: 5, the amino acid sequence of SEQ ID NO: 2, or an amino acid sequence comprising 8-19 consecutive amino acids within the amino acid sequence of SEQ ID NO: 2 including amino acid residues from the 3 rd  to 10 th  positions of the amino acid sequence of SEQ ID NO: 2; and (c) a CDR-H3 comprising the amino acid sequence of SEQ ID NO: 6, the amino acid sequence of SEQ ID NO: 85, or an amino acid sequence comprising 6-13 consecutive amino acids within the amino acid sequence of SEQ ID NO: 85 including amino acid residues from the 1 st  to 6 th  positions of the amino acid sequence of SEQ ID NO: 85, or a heavy chain variable region comprising the at least one heavy chain complementarity determining region; 
+ (ii) at least one light chain complementarity determining region (CDR) selected from the group consisting of (a) a CDR-L1 comprising the amino acid sequence of SEQ ID NO: 7, (b) a CDR-L2 comprising the amino acid sequence of SEQ ID NO: 8, and (c) a CDR-L3 comprising the amino acid sequence of SEQ ID NO: 9, the amino acid sequence of SEQ ID NO: 86, or an amino acid sequence comprising 9-17 consecutive amino acids within the amino acid sequence of SEQ ID NO: 89 including amino acid residues from the 1 st  to 9 th  positions of the amino acid sequence of SEQ ID NO: 89, or a light chain variable region comprising the at least one light chain complementarity determining region; 
+ (iii) a combination of the at least one heavy chain complementarity determining region and at least one light chain complementarity determining region; or 
+ (iv) a combination of the heavy chain variable region and the light chain variable region. 
+ Herein, the amino acid sequences of SEQ ID NOS: 4 to 9 are respectively represented by following Formulas I to VI, below: 
+ Formula I: Xaa 1 -Xaa 2 -Tyr-Tyr-Met-Ser (SEQ ID NO: 4), wherein Xaa 1  is absent or Pro or Ser, and Xaa 2  is Glu or Asp, 
+ Formula II: Arg-Asn-Xaa 3 -Xaa 4 -Asn-Gly-Xaa 5 -Thr (SEQ ID NO: 5), wherein Xaa 3  is Asn or Lys, Xaa 4  is Ala or Val, and Xaa 5  is Asn or Thr, 
+ Formula III: Asp-Asn-Trp-Leu-Xaa 6 -Tyr (SEQ ID NO: 6), wherein Xaa 6  is Ser or Thr, 
+ Formula IV: Lys-Ser-Ser-Xaa 7 -Ser-Leu-Leu-Ala-Xaa 8 -Gly-Asn-Xaa 9 -Xaa 10 -Asn-Tyr-Leu-Ala (SEQ ID NO: 7), wherein Xaa 7  is His, Arg, Gln, or Lys, Xaa 8  is Ser or Trp, Xaa 9  is His or Gln, and Xaa 10  is Lys or Asn, 
+ Formula V: Trp-Xaa 11 -Ser-Xaa 12 -Arg-Val-Xaa 13  (SEQ ID NO: 8), wherein Xaa 11  is Ala or Gly, Xaa 12  is Thr or Lys, and Xaa 13  is Ser or Pro, and 
+ Formula VI: Xaa 14 -Gln-Ser-Tyr-Ser-Xaa 15 -Pro-Xaa 16 -Thr (SEQ ID NO: 9), wherein Xaa 14  is Gly, Ala, or Gln, Xaa 15  is Arg, His, Ser, Ala, Gly, or Lys, and Xaa 16  is Leu, Tyr, Phe, or Met. 
+ In one embodiment, the CDR-H1 may comprise an amino acid sequence selected from the group consisting of SEQ ID NOS: 1, 22, 23, and 24. The CDR-H2 may comprise an amino acid sequence selected from the group consisting of SEQ ID NOS: 2, 25, and 26. The CDR-H3 may comprise an amino acid sequence selected from the group consisting of SEQ ID NOS: 3, 27, 28, and 85. 
+ The CDR-L1 may comprise an amino acid sequence selected from the group consisting of SEQ ID NOS: 10, 29, 30, 31, 32, 33, and 106. The CDR-L2 may comprise an amino acid sequence selected from the group consisting of SEQ ID NOS: 11, 34, 35, and 36. The CDR-L3 may comprise an amino acid sequence selected from the group consisting of SEQ ID NOS: 12, 13, 14, 15, 16, 37, 86, and 89. 
+ In another embodiment, the antibody or the antigen-binding fragment may comprise (i) a heavy variable region comprising (a) a polypeptide (CDR-H1) comprising an amino acid sequence selected from the group consisting of SEQ ID NOS: 1, 22, 23, and 24, (b) a polypeptide (CDR-H2) comprising an amino acid sequence selected from the group consisting of SEQ ID NOS: 2, 25, and 26, and (c) a polypeptide (CDR-H3) comprising an amino acid sequence selected from the group consisting of SEQ ID NOS: 3, 27, 28, and 85; and (ii) a light variable region comprising (a) a polypeptide (CDR-L1) comprising an amino acid sequence selected from the group consisting of SEQ ID NOS: 10, 29, 30, 31, 32, 33 and 106, (b) a polypeptide (CDR-L2) comprising an amino acid sequence selected from the group consisting of SEQ ID NOS: 11, 34, 35, and 36, and (c) a polypeptide (CDR-L3) comprising an amino acid sequence selected from the group consisting of SEQ ID NOS 12, 13, 14, 15, 16, 37, 86, and 89. 
+ The term “c-Met” or “c-Met protein” refers to a receptor tyrosine kinase (RTK) which binds hepatocyte growth factor (HGF). c-Met may be a c-Met protein from any species, particularly a mammal, for instance, primates such as human c-Met (e.g., NP_000236) or monkey c-Met (e.g.,  Macaca mulatta , NP_001162100), or rodents such as mouse c-Met (e.g., NP_032617.2) or rat c-Met (e.g., NP_113705.1), and the like. The c-Met protein may include a polypeptide encoded by the nucleotide sequence identified as GenBank Accession Number NM_000245, a polypeptide including the amino acid sequence identified as GenBank Accession Number NP_000236 or extracellular domains thereof. The receptor tyrosine kinase c-Met participates in various mechanisms, such as cancer development, metastasis, migration of cancer cell, invasion of cancer cell, angiogenesis, and the like. 
+ Animal-derived antibodies produced by immunizing non-immune animals with a desired antigen generally invoke immunogenicity when injected to humans for the purpose of medical treatment, and thus chimeric antibodies have been developed to inhibit such immunogenicity. Chimeric antibodies are prepared by replacing constant regions of animal-derived antibodies that cause an anti-isotype response with constant regions of human antibodies by genetic engineering. Chimeric antibodies are considerably improved in an anti-isotype response compared to animal-derived antibodies, but animal-derived amino acids still have variable regions, so that chimeric antibodies have side effects with respect to a potential anti-idiotype response. Humanized antibodies have been developed to reduce such side effects. Humanized antibodies are produced by grafting complementarity determining regions (CDR) which serve an important role in antigen binding in variable regions of chimeric antibodies into a human antibody framework. 
+ The most important thing in CDR grafting to produce humanized antibodies is choosing optimized human antibodies for accepting CDRs of animal-derived antibodies. Antibody databases, analysis of a crystal structure, and technology for molecule modeling are used. However, even when the CDRs of animal-derived antibodies are grafted to the most optimized human antibody framework, amino acids positioned in a framework of the animal-derived CDRs affecting antigen binding are present. Therefore, in many cases, antigen binding affinity is not maintained, and thus application of additional antibody engineering technology for recovering the antigen binding affinity is necessary. 
+ The anti-c-Met antibodies may be mouse-derived antibodies, mouse-human chimeric antibodies, humanized antibodies, or human antibodies. The antibodies or antigen-binding fragments thereof may be isolated from (i.e., not be originally present in) a living body or non-naturally occurring. The antibodies or antigen-binding fragments thereof may be synthetic or recombinant. 
+ An intact antibody includes two full-length light chains and two full-length heavy chains, in which each light chain is linked to a heavy chain by disulfide bonds. The antibody has a heavy chain constant region and a light chain constant region. The heavy chain constant region is of a gamma (γ), mu (μ), alpha (α), delta (δ), or epsilon (ε) type, which may be further categorized as gamma 1 (γ1), gamma 2(γ2), gamma 3(γ3), gamma 4(γ4), alpha 1(α1), or alpha 2(α2). The light chain constant region is of either a kappa (κ) or lambda (λ) type. 
+ As used herein, the term “heavy chain” refers to full-length heavy chain, and fragments thereof, including a variable region V H  that includes amino acid sequences sufficient to provide specificity to antigens, and three constant regions, C H1 , C H2 , and C H3 , and a hinge. The term “light chain” refers to a full-length light chain and fragments thereof, including a variable region V L  that includes amino acid sequences sufficient to provide specificity to antigens, and a constant region C L . 
+ The term “complementarity determining region (CDR)” refers to an amino acid sequence found in a hyper variable region of a heavy chain or a light chain of immunoglobulin. The heavy and light chains may respectively include three CDRs (CDRH1, CDRH2, and CDRH3; and CDRL1, CDRL2, and CDRL3). The CDR may provide contact residues that play an important role in the binding of antibodies to antigens or epitopes. The terms “specifically binding” and “specifically recognized” are well known to one of ordinary skill in the art, and indicate that an antibody and an antigen specifically interact with each other to lead to an immunological activity. 
+ The term “antigen-binding fragment” used herein refers to fragments of an intact immunoglobulin including portions of a polypeptide including antigen-binding regions having the ability to specifically bind to the antigen. In one embodiment, the antigen-binding fragment may be selected from the group consisting of scFv, (scFv) 2 , Fab, Fab′, and F(ab′) 2 . 
+ Among the antigen-binding fragments, Fab that includes light chain and heavy chain variable regions, a light chain constant region, and a first heavy chain constant region C H1 , has one antigen-binding site. 
+ The Fab′ fragment is different from the Fab fragment, in that Fab′ includes a hinge region with at least one cysteine residue at the C-terminal of C H1 . 
+ The F(ab′) 2  antibody is formed through disulfide bridging of the cysteine residues in the hinge region of the Fab′ fragment. Fv is the smallest antibody fragment with only a heavy chain variable region and a light chain variable region. Recombination techniques of generating the Fv fragment are widely known in the art. 
+ Two-chain Fv includes a heavy chain variable region and a light chain region which are linked by a non-covalent bond. Single-chain Fv generally includes a heavy chain variable region and a light chain variable region which are linked by a covalent bond via a peptide linker or linked at the C-terminals to have a dimer structure like the two-chain Fv. 
+ The antigen-binding fragments may be attainable using protease (for example, the Fab fragment may be obtained by restricted cleavage of a whole antibody with papain, and the F(ab′) 2  fragment may be obtained by cleavage with pepsin), or may be prepared by using a genetic recombination technique. 
+ The term “hinge region,” as used herein, refers to a region between CH1 and CH2 domains within the heavy chain of an antibody which functions to provide flexibility for the antigen-binding site. 
+ When an animal antibody undergoes a chimerization process, the IgG1 hinge of animal origin may be replaced with a human IgG1 hinge or IgG2 hinge while the disulfide bridges between two heavy chains are reduced from three to two in number. In addition, an animal-derived IgG1 hinge is shorter than a human IgG1 hinge. Accordingly, the rigidity of the hinge is changed. Thus, a modification of the hinge region may bring about an improvement in the antigen binding efficiency of the humanized antibody. The modification of the hinge region through amino acid deletion, addition, or substitution is well-known to those skilled in the art. 
+ In one embodiment, the anti-c-Met antibody or an antigen-binding fragment thereof may be modified by the deletion, insertion, addition, or substitution of at least one (e.g., two, three, four, five, six, seven, eight, nine, ten, or more) amino acid residue in the amino acid sequence of the hinge region so that it exhibits enhanced antigen-binding efficiency. For example, the antibody may include a hinge region including the amino acid sequence of SEQ ID NO: 100 (U7-HC6), 101 (U6-HC7), 102 (U3-HC9), 103 (U6-HC8), or 104 (U8-HC5), or a hinge region including the amino acid sequence of SEQ ID NO: 105 (non-modified human hinge). Preferably, the hinge region includes the amino acid sequence of SEQ ID NO: 100 or 101. 
+ In one embodiment of the anti-c-Met antibody or antigen-binding fragment, the variable domain of the heavy chain includes the amino acid sequence of SEQ ID NO: 17, 74, 87, 90, 91, 92, 93, or 94 and the variable domain of the light chain includes the amino acid sequence of SEQ ID NO: 18, 19, 20, 21, 75, 88, 95, 96, 97, 98, 99, or 107. 
+ In one embodiment, the anti-c-Met antibody may be a monoclonal antibody. The monoclonal antibody may be produced by the hybridoma cell line deposited with the Korean Cell Line Research Foundation, an international depository authority located at Yungun-Dong, Jongno-Gu, Seoul, Korea, on Oct. 9, 2009, under Accession No. KCLRF-BP-00220, which binds specifically to the extracellular region of c-Met protein (refer to Korean Patent Publication No. 2011-0047698, the entire disclosures of which are incorporated herein by reference). The anti-c-Met antibody may include all the antibodies defined in Korean Patent Publication No. 2011-0047698. 
+ By way of further example, the anti-c-Met antibody or the antibody fragment may include: 
+ (i) a heavy chain comprising the amino acid sequence selected from the group consisting of the amino acid sequence of SEQ ID NO: 62 (wherein the amino acid sequence from amino acid residues from the 1 st  to 17 th  positions is a signal peptide), or the amino acid sequence from the 18 th  to 462 nd  positions of the amino acid sequence of SEQ ID NO: 62, the amino acid sequence of SEQ ID NO: 64 (wherein the amino acid sequence from the 1 st  to 17 th  positions is a signal peptide), the amino acid sequence from the 18 th  to 461 st  positions of the amino acid sequence of SEQ ID NO: 64, the amino acid sequence of SEQ ID NO: 66 (wherein the amino acid sequence from the 1 st  to 17 th  positions is a signal peptide), and the amino acid sequence from the 18 th  to 460 th  positions of the amino acid sequence of SEQ ID NO: 66; and 
+ (ii) a light chain comprising the amino acid sequence selected from the group consisting of the amino acid sequence of SEQ ID NO: 68 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 68, the amino acid sequence of SEQ ID NO: 70 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 70, and the amino acid sequence of SEQ ID NO: 108. 
+ For example, the anti-c-Met antibody may be selected from the group consisting of: 
+ (a) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of the amino acid sequence of SEQ ID NO: 62, and a light chain comprising the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 68; 
+ (b) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of the amino acid sequence of SEQ ID NO: 64, and a light chain comprising the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 68; 
+ (c) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of the amino acid sequence of SEQ ID NO: 66, and a light chain comprising the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 68; 
+ (d) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of the amino acid sequence of SEQ ID NO: 62, and a light chain comprising the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 70; 
+ (e) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of the amino acid sequence of SEQ ID NO: 64 and a light chain comprising the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 70; 
+ (f) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of the amino acid sequence of SEQ ID NO: 66 and a light chain comprising the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of the amino acid sequence of SEQ ID NO: 70; 
+ (g) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of the amino acid sequence of SEQ ID NO: 62 and a light chain comprising the amino acid sequence of SEQ ID NO: 108; 
+ (h) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of the amino acid sequence of SEQ ID NO: 64 and a light chain comprising the amino acid sequence of SEQ ID NO: 108; and 
+ (i) an antibody comprising a heavy chain comprising the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of the amino acid sequence of SEQ ID NO: 66 and a light chain comprising the amino acid sequence of SEQ ID NO: 108. 
+ The polypeptide of SEQ ID NO: 70 is a light chain comprising human kappa (κ) constant region, and the polypeptide with the amino acid sequence of SEQ ID NO: 68 is a polypeptide obtained by replacing histidine at position 62 (corresponding to position 36 of the amino acid sequence of SEQ ID NO: 68 according to kabat numbering) of the polypeptide with the amino acid sequence of SEQ ID NO: 70 with tyrosine. The production yield of the antibodies may be increased by the replacement. The polypeptide with the amino acid sequence of SEQ ID NO: 108 is a polypeptide obtained by replacing serine at position 32 (position 27e according to kabat numbering in the amino acid sequence from amino acid residues 21 to 240 of the amino acid sequence of SEQ ID NO: 68; positioned within CDR-L1) of the amino acid sequence of SEQ ID NO: 108 with tryptophan. By such replacement, antibodies and antibody fragments comprising such sequences exhibits increased activities, such as c-Met biding affinity, c-Met degradation activity, Akt phosphorylation inhibition, and the like. 
+ In another embodiment, the anti c-Met antibody may include a light chain complementarity determining region comprising the amino acid sequence of SEQ ID NO: 106, a variable domain of a light chain comprising the amino acid sequence of SEQ ID NO: 107, or a light chain comprising the amino acid sequence of SEQ ID NO: 108. 
+ Through the method for determining the efficacy of the anti-c-Met antibody using the gene expression, the following effects can be expected. 
+ 1) By determining the efficacy of an anti-c-Met antibody through a gene expression change, an antibody having high efficacy can be quickly screened. Also, such a screening method can be applied to not only an antibody but also generally to a drug for suppressing c-Met functions. Through this, antibody-based new drugs having c-Met as their target can be developed at a speedy rate. 
+ 2) A gene expression change which appears during the treatment of an anti-c-Met antibody can be used as a PD marker (pharmacodynamic marker). The PD marker is a marker reflecting antibody reaction, which plays a major role in dose optimization for entry into preclinical and clinical phases. The genes of the present invention can be used as a PD marker and thus used as a basis for determining the concentration of a drug. 
+ 3) The marker gene group can be also used as a marker capable of determining whether a current patient is reacted well to the anti-c-Met antibody when administered with this antibody. A change in the marker can be utilized to predict further treatment effects of the antibody. 
+ 4) Since the apoptosis effects by the anti-c-Met antibody amplify an anticancer efficacy, the scope of drug application can expand by identifying on what types of cancers or cancer cell lines the anti-c-Met antibody has a great effect. 
+ In a lung cancer cell line where the anti-c-Met antibody suppresses cancer cell growth, it was elucidated through the previous research results that such the growth suppression is due to apoptosis. First, it is an object of the invention to figure out by what kind of mechanisms it affects the facilitation of apoptosis. It is an object to identify a gene which is changed by the treatment of an anti-c-Met antibody by using Superarray (Qiagen) capable of measuring an expression change in the gene related to apoptosis. It is an object to understand apoptosis mechanism by the anti-c-Met antibody by identifying and verifying whether this gene expression change serves to facilitate apoptosis. 
+ The pharmacodynamic marker (PD marker) is a kind of biomarker capable of measuring the reaction of a drug, and plays an important role in dose optimization research during preclinical and clinical phases. The development of such a PD marker is also important to develop an anti-c-Met antibody, but a differentiated molecule marker has not been developed yet. In this invention, a method of using a gene expression change as a marker has been designed. Genes capable of reflecting apoptosis, which is the action mechanism of anticancer efficacy, have been selected using a lung cancer cell line which exhibits great anticancer effects by the anti-c-Met antibody, and their potentials to be developed as a PD marker will be examined by identifying whether they show a dose response. Further, by examining whether the genes of the present invention will be changed in the same direction in a stomach cancer cell line which is another cell line where the effects of the anti-c-Met antibody are good and such anticancer effects result from apoptosis, their potentials to be expansively applicable as a marker will be investigated. 
+ EXAMPLES 
+ Reference Example 1 
+ Construction of Anti-c-Met Antibody 
+ 1.1. Production of “AbF46”, a Mouse Antibody to c-Met 
+ 1.1.1. Immunization of Mouse 
+ To obtain immunized mice necessary for the development of a hybridoma cell line, each of five BALB/c mice (Japan SLC, Inc.), 4 to 6 weeks old, was intraperitoneally injected with a mixture of 100 μg of human c-Met/Fc fusion protein (R&D Systems) and one volume of complete Freund's adjuvant. Two weeks after the injection, a second intraperitoneal injection was conducted on the same mice with a mixture of 50 μg of human c-Met/Fc protein and one volume of incomplete Freund's adjuvant. One week after the second immunization, the immune response was finally boosted. Three days later, blood was taken from the tails of the mice and the sera were 1/1000 diluted in PBS and used to examine a titer of antibody to c-Met by ELISA. Mice found to have a sufficient antibody titer were selected for use in the cell fusion process. 
+ 1.1.2. Cell Fusion and Production of Hybridoma 
+ Three days before cell fusion, BALB/c mice (Japan SLC, Inc.) were immunized with an intraperitoneal injection of a mixture of 50 μg of human c-Met/Fc fusion protein and one volume of PBS. The immunized mice were anesthetized before excising the spleen from the left half of the body. The spleen was meshed to separate splenocytes which were then suspended in a culture medium (DMEM, GIBCO, Invitrogen). The cell suspension was centrifuged to recover the cell layer. The splenocytes thus obtained (1×10 8  cells) were mixed with myeloma cells (Sp2/0) (1×10 8  cells), followed by spinning to yield a cell pellet. The cell pellet was slowly suspended, treated with 45% polyethylene glycol (PEG) (1 mL) in DMEM for 1 min at 37° C., and supplemented with 1 mL of DMEM. To the cells was added 10 mL of DMEM over 10 min, after which incubation was conducted in a water bath at 37° C. for 5 min. Then the cell volume was adjusted to 50 mL before centrifugation. The cell pellet thus formed was resuspended at a density of 1-2×10 5  cells/mL in a selection medium (HAT medium). 0.1 mL of the cell suspension was allocated to each well of 96-well plates which were then incubated at 37° C. in a CO 2  incubator to establish a hybridoma cell population. 
+ 1.1.3. Selection of Hybridoma Cells Producing Monoclonal Antibodies to c-Met Protein 
+ From the hybridoma cell population established in Reference Example 1.1.2, hybridoma cells which showed a specific response to c-Met protein were screened by ELISA using human c-Met/Fc fusion protein and human Fc protein as antigens. 
+ Human c-Met/Fc fusion protein was seeded in an amount of 50 μL (2 μg/mL)/well to microtiter plates and allowed to adhere to the surface of each well. The antibody that remained unbound was removed by washing. For use in selecting the antibodies that do not bind c-Met but recognize Fc, human Fc protein was attached to the plate surface in the same manner. 
+ The hybridoma cell culture obtained in Reference Example 1.1.2 was added in an amount of 50 μL to each well of the plates and incubated for 1 hour. The cells remaining unreacted were washed out with a sufficient amount of Tris-buffered saline and Tween 20 (TBST). Goat anti-mouse IgG-horseradish peroxidase (HRP) was added to the plates and incubated for 1 hour at room temperature. The plates were washed with a sufficient amount of TBST, followed by reacting the peroxidase with a substrate (OPD). Absorbance at 450 nm was measured on an ELISA reader. 
+ Hybridoma cell lines which secrete antibodies that specifically and strongly bind to human c-Met but not human Fc were selected repeatedly. From the hybridoma cell lines obtained by repeated selection, a single clone producing a monoclonal antibody was finally separated by limiting dilution. The single clone of the hybridoma cell line producing the monoclonal antibody was deposited with the Korean Cell Line Research Foundation, an international depository authority located at Yungun-Dong, Jongno-Gu, Seoul, Korea, on Oct. 9, 2009, with Accession No. KCLRF-BP-00220 according to the Budapest Treaty (refer to Korean Patent Laid-Open Publication No. 2011-0047698). 
+ 1.1.4. Production and Purification of Monoclonal Antibody 
+ The hybridoma cell line obtained in Reference Example 1.1.3 was cultured in a serum-free medium, and the monoclonal antibody (AbF46) was produced and purified from the cell culture. 
+ First, the hybridoma cells cultured in 50 mL of a medium (DMEM) supplemented with 10% (v/v) FBS (fetal bovine serum) were centrifuged and the cell pellet was washed twice or more with 20 mL of PBS to remove the FBS therefrom. Then, the cells were resuspended in 50 mL of DMEM and incubated for 3 days at 37° C. in a CO 2  incubator. 
+ After the cells were removed by centrifugation, the supernatant was stored at 4° C. before use or immediately used for the separation and purification of the antibody. An AKTA system (GE Healthcare) equipped with an affinity column (Protein G agarose column; Pharmacia, USA) was used to purify the antibody from 50 to 300 mL of the supernatant, followed by concentration with an filter (Amicon). The antibody was stored in PBS before use in the following examples. 
+ 1.2. Construction of chAbF46, a Chimeric Antibody to c-Met 
+ A mouse antibody is apt to elicit immunogenicity in humans. To solve this problem, chAbF46, a chimeric antibody, was constructed from the mouse antibody AbF46 produced in Reference Example 1.1.4 by replacing the constant region, but not the variable region responsible for antibody specificity, with an amino sequence of the human IgG1 antibody. 
+ In this regard, a gene was designed to include the nucleotide sequence of “EcoRI-signal sequence-VH-NheI-CH-TGA-XhoI” (SEQ ID NO: 38) for a heavy chain and the nucleotide sequence of “EcoRI-signal sequence-VL-BsiWI-CL-TGA-XhoI” (SEQ ID NO: 39) for a light chain and synthesized. Then, a DNA fragment having the heavy chain nucleotide sequence (SEQ ID NO: 38) and a DNA fragment having the light chain nucleotide sequence (SEQ ID NO: 39) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen), and a vector from the pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/mL, After 24 hours, when the cell number reached to 1×10 6  cells/mL, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 mL tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 mL of OptiPro™ SFM (Invitrogen) (A). In another 15 mL tube, 100 μL of Freestyle™ MAX reagent and 2 mL of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ Afterwards, the cells were incubated in DMEM supplemented with 10% (v/v) FBS for 5 hours at 37° C. under a 5% CO 2  condition and then in FBS-free DMEM for 48 hours at 37° C. under a 5% CO 2  condition. 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify a chimeric antibody AbF46 (hereinafter referred to as “chAbF46”). 
+ 1.3. Construction of Humanized Antibody huAbF46 from Chimeric Antibody chAbF46 
+ 1.3.1. Heavy Chain Humanization 
+ To design two domains H1-heavy and H3-heavy, human germline genes which share the highest identity/homology with the VH gene of the mouse antibody AbF46 purified in Reference Example 1.2 were analyzed. An Ig BLAST search (www.ncbi.nlm.nih.gov/igblast/) result revealed that VH3-71 has an identity/identity/homology of 83% at the amino acid level. CDR-H1, CDR-H2, and CDR-H3 of the mouse antibody AbF46 were defined according to Kabat numbering. A design was made to introduce the CDR of the mouse antibody AbF46 into the framework of VH3-71. Hereupon, back mutations to the amino acid sequence of the mouse AbF46 were conducted at positions 30 (S→T), 48 (V→L), 73 (D→N), and 78 (T→L). Then, H1 was further mutated at positions 83 (R→K) and 84 (A→T) to finally establish H1-heavy (SEQ ID NO: 40) and H3-heavy (SEQ ID NO: 41). 
+ For use in designing H4-heavy, human antibody frameworks were analyzed by a BLAST search. The result revealed that the VH3 subtype, known to be most stable, is very similar in framework and sequence to the mouse antibody AbF46. CDR-H1, CDR-H2, and CDR-H3 of the mouse antibody AbF46 were defined according to Kabat numbering and introduced into the VH3 subtype to construct H4-heavy (SEQ ID NO: 42). 
+ 1.3.2. Light Chain Humanization 
+ To design two domains H1-light (SEQ ID NO: 43) and H2-light (SEQ ID NO: 44), human germline genes which share the highest identity/homology with the VH gene of the mouse antibody AbF46 were analyzed. An Ig BLAST search result revealed that VK4-1 has an identity/homology of 75% at the amino acid level. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody AbF46 were defined according to Kabat numbering. A design was made to introduce the CDR of the mouse antibody AbF46 into the framework of VK4-1. Hereupon, back mutations to the amino acid sequence of the mouse AbF46 were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I). Only one back mutation was conducted at position 49 (Y→I) on H2-light. 
+ To design H3-light (SEQ ID NO: 45), human germline genes which share the highest identity/homology with the VL gene of the mouse antibody AbF46 were analyzed by a BLAST search. As a result, VK2-40 was selected. VL and VK2-40 of the mouse antibody AbF46 were found to have a identity/homology of 61% at an amino acid level. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody were defined according to Kabat numbering and introduced into the framework of VK4-1. Back mutations were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I) on H3-light. 
+ For use in designing H4-light (SEQ ID NO: 46), human antibody frameworks were analyzed. A BLAST search revealed that the Vk1 subtype, known to be the most stable, is very similar in framework and sequence to the mouse antibody AbF46. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody AbF46 were defined according to Kabat numbering and introduced into the Vk1 subtype. Hereupon, back mutations were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I) on H4-light. 
+ Thereafter, DNA fragments having the heavy chain nucleotide sequences (H1-heavy: SEQ ID NO: 47, H3-heavy: SEQ ID NO: 48, H4-heavy: SEQ ID NO: 49) and DNA fragments having the light chain nucleotide sequences (H1-light: SEQ ID NO: 50, H2-light: SEQ ID NO: 51, H3-light: SEQ ID NO: 52, H4-light: SEQ ID NO: 53) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) and a vector from the pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively, so as to construct recombinant vectors for expressing a humanized antibody. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/mL, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 mL tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 mL of OptiPro™ SFM (invtrogen) (A). In another 15 mL tube, 100 μL of Freestyle™ MAX reagent and 2 mL of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify a humanized antibody AbF46 (hereinafter referred to as “huAbF46”). The humanized antibody huAbF46 used in the following examples comprised a combination of H4-heavy (SEQ ID NO: 42) and H4-light (SEQ ID NO: 46). 
+ 1.4. Construction of scFV Library of huAbF46 Antibody 
+ For use in constructing an scFv of the huAbF46 antibody from the heavy and light chain variable regions of the huAbF46 antibody, a gene was designed to have the structure of “VH-linker-VL” for each of the heavy and the light chain variable region, with the linker comprising the amino acid sequence “GLGGLGGGGSGGGGSGGSSGVGS” (SEQ ID NO: 54). A polynucleotide sequence (SEQ ID NO: 55) encoding the designed scFv of huAbF46 was synthesized in Bioneer and an expression vector for the polynucleotide had the nucleotide sequence of SEQ ID NO: 56. 
+ After expression, the product was found to exhibit specificity to c-Met. 
+ 1.5. Construction of Library Genes for Affinity Maturation 
+ 1.5.1. Selection of Target CDRs and Synthesis of Primers 
+ The affinity maturation of huAbF46 was achieved. First, six complementary determining regions (CDRs) were defined according to Kabat numbering. The CDRs are given in Table 1 below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+   
+ 
+ 
+   
+ CDR 
+ Amino Acid Sequence 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ CDR-H1 
+ DYYMS (SEQ ID NO: 1) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-H2 
+ FIRNKANGYTTEYSASVKG (SEQ ID NO: 2) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-H3 
+ DNWFAY (SEQ ID NO: 3) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-L1 
+ KSSQSLLASGNQNNYLA (SEQ ID NO: 10) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-L2 
+ WASTRVS (SEQ ID NO: 11) 
+ 
+ 
+   
+ 
+ 
+   
+ CDR-L3 
+ QQSYSAPLT (SEQ ID NO: 12) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ For use in the introduction of random sequences into the CDRs of the antibody, primers were designed as follows. Conventionally, N codons were utilized to introduce bases at the same ratio (25% A, 25% G, 25% C, 25% T) into desired sites of mutation. In this experiment, the introduction of random bases into the CDRs of huAbF46 was conducted in such a manner that, of the three nucleotides per codon in the wild-type polynucleotide encoding each CDR, the first and second nucleotides conserved over 85% of the entire sequence while the other three nucleotides were introduced at the same percentage (each 5%) and that the same possibility was imparted to the third nucleotide (33% G, 33% C, 33% T). 
+ 1.5.2. Construction of a Library of huAbF46 Antibodies and Affinity for c-Met 
+ The construction of antibody gene libraries through the introduction of random sequences was carried out using the primers synthesized in the same manner as in Reference Example 1.5.1. Two PCR products were obtained using a polynucleotide covering the scFV of huAbF46 as a template, and were subjected to overlap extension PCR to give scFv library genes for huAbF46 antibodies in which only desired CDRs were mutated. Libraries targeting each of the six CDRs prepared from the scFV library genes were constructed. 
+ The affinity for c-Met of each library was compared to that of the wildtype. Most libraries were lower in affinity for c-Met, compared to the wild-type. The affinity for c-Met was retained in some mutants. 
+ 1.6. Selection of Antibody with Improved Affinity from Libraries 
+ After maturation of the affinity of the constructed libraries for c-Met, the nucleotide sequence of scFv from each clone was analyzed. The nucleotide sequences thus obtained are summarized in Table 2 and were converted into IgG forms. Four antibodies which were respectively produced from clones L3-1, L3-2, L3-3, and L3-5 were used in the subsequent experiments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+   
+ 
+ 
+   
+ Library  
+   
+ 
+ 
+   
+ con- 
+   
+ 
+ 
+ Clone 
+ structed 
+ CDR Sequence 
+ 
+ 
+   
+ 
+ 
+ 
+ H11-4 
+ CDR-H1 
+ PEYYMS (SEQ ID NO: 22) 
+ 
+ 
+   
+ 
+ 
+ YC151 
+ CDR-H1 
+ PDYYMS (SEQ ID NO: 23) 
+ 
+ 
+   
+ 
+ 
+ YC193 
+ CDR-H1 
+ SDYYMS (SEQ ID NO: 24) 
+ 
+ 
+   
+ 
+ 
+ YC244 
+ CDR-H2 
+ RNNANGNT (SEQ ID NO: 25) 
+ 
+ 
+   
+ 
+ 
+ YC321 
+ CDR-H2 
+ RNKVNGYT (SEQ ID NO: 26) 
+ 
+ 
+   
+ 
+ 
+ YC354 
+ CDR-H3 
+ DNWLSY (SEQ ID NO: 27) 
+ 
+ 
+   
+ 
+ 
+ YC374 
+ CDR-H3 
+ DNWLTY (SEQ ID NO: 28) 
+ 
+ 
+   
+ 
+ 
+ L1-1 
+ CDR-L1 
+ KSSHSLLASGNQNNYLA (SEQ ID NO: 29) 
+ 
+ 
+   
+ 
+ 
+ L1-3 
+ CDR-L1 
+ KSSRSLLSSGNHKNYLA (SEQ ID NO: 30) 
+ 
+ 
+   
+ 
+ 
+ L1-4 
+ CDR-L1 
+ KSSKSLLASGNQNNYLA (SEQ ID NO: 31) 
+ 
+ 
+   
+ 
+ 
+ L1-12 
+ CDR-L1 
+ KSSRSLLASGNQNNYLA (SEQ ID NO: 32) 
+ 
+ 
+   
+ 
+ 
+ L1-22 
+ CDR-L1 
+ KSSHSLLASGNQNNYLA (SEQ ID NO: 33) 
+ 
+ 
+   
+ 
+ 
+ L2-9 
+ CDR-L2 
+ WASKRVS (SEQ ID NO: 34) 
+ 
+ 
+   
+ 
+ 
+ L2-12 
+ CDR-L2 
+ WGSTRVS (SEQ ID NO: 35) 
+ 
+ 
+   
+ 
+ 
+ L2-16 
+ CDR-L2 
+ WGSTRVP (SEQ ID NO: 36) 
+ 
+ 
+   
+ 
+ 
+ L3-1 
+ CDR-L3 
+ QQSYSRPYT (SEQ ID NO: 13) 
+ 
+ 
+   
+ 
+ 
+ L3-2 
+ CDR-L3 
+ GQSYSRPLT (SEQ ID NO: 14) 
+ 
+ 
+   
+ 
+ 
+ L3-3 
+ CDR-L3 
+ AQSYSHPFS (SEQ ID NO: 15) 
+ 
+ 
+   
+ 
+ 
+ L3-5 
+ CDR-L3 
+ QQSYSRPFT (SEQ ID NO: 16) 
+ 
+ 
+   
+ 
+ 
+ L3-32 
+ CDR-L3 
+ QQSYSKPFT (SEQ ID NO: 37) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 1.7. Conversion of Selected Antibodies into IgG 
+ Respective polynucleotides encoding heavy chains of the four selected antibodies were designed to have the structure of “EcoRI-signal sequence-VH-NheI-CH-XhoI” (SEQ ID NO: 38). The heavy chains of huAbF46 antibodies were used as they were because their amino acids were not changed during affinity maturation. In the case of the hinge region, however, the U6-HC7 hinge (SEQ ID NO: 57) was employed instead of the hinge of human IgG1. Genes were also designed to have the structure of “EcoRI-signal sequence-VL-BsiWI-CL-XhoI” for the light chain. Polypeptides encoding light chain variable regions of the four antibodies which were selected after the affinity maturation were synthesized in Bioneer. Then, a DNA fragment having the heavy chain nucleotide sequence (SEQ ID NO: 38) and DNA fragments having the light chain nucleotide sequences (DNA fragment comprising L3-1-derived CDR-L3: SEQ ID NO: 58, DNA fragment comprising L3-2-derived CDR-L3: SEQ ID NO: 59, DNA fragment comprising L3-3-derived CDR-L3: SEQ ID NO: 60, and DNA fragment comprising L3-5-derived CDR-L3: SEQ ID NO: 61) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) and a vector from the pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively, so as to construct recombinant vectors for expressing affinity-matured antibodies. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/mL. After 24 hours, when the cell number reached to 1×10 6  cells/mL, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 mL tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 mL of OptiPro™ SFM (Invitrogen) (A). I In another 15 mL tube, 100 μL of Freestyle™ MAX reagent and 2 mL of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify four affinity-matured antibodies (hereinafter referred to as “huAbF46-H4-A1 (L3-1 origin), huAbF46-H4-A2 (L3-2 origin), huAbF46-H4-A3 (L3-3 origin), and huAbF46-H4-A5 (L3-5 origin),” respectively). 
+ 1.8. Construction of Constant Region- and/or Hinge Region-Substituted huAbF46-H4-A1 
+ Among the four antibodies selected in Reference Example 1.7, huAbF46-H4-A1 was found to be the highest in affinity for c-Met and the lowest in Akt phosphorylation and c-Met degradation degree. In the antibody, the hinge region, or the constant region and the hinge region, were substituted. 
+ The antibody huAbF46-H4-A1 (U6-HC7) was composed of a heavy chain comprising the heavy chain variable region of huAbF46-H4-A1, U6-HC7 hinge, and the constant region of human IgG1 constant region, and a light chain comprising the light chain variable region of huAbF46-H4-A1 and human kappa constant region. The antibody huAbF46-H4-A1 (IgG2 hinge) was composed of a heavy chain comprising a heavy chain variable region, a human IgG2 hinge region, and a human IgG1 constant region, and a light chain comprising the light chain variable region of huAbF46-H4-A1 and a human kappa constant region. The antibody huAbF46-H4-A1 (IgG2 Fc) was composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 hinge region, and a human IgG2 constant region, and a light chain comprising the light variable region of huAbF46-H4-A1 and a human kappa constant region. Hereupon, the histidine residue at position 36 on the human kappa constant region of the light chain was changed to tyrosine in all of the three antibodies to increase antibody production. 
+ For use in constructing the three antibodies, a polynucleotide (SEQ ID NO: 63) encoding a polypeptide (SEQ ID NO: 62) composed of the heavy chain variable region of huAbF46-H4-A1, a U6-HC7 hinge region, and a human IgG1 constant region, a polynucleotide (SEQ ID NO: 65) encoding a polypeptide (SEQ ID NO: 64) composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 hinge region, and a human IgG1 region, a polynucleotide (SEQ ID NO: 67) encoding a polypeptide (SEQ ID NO: 66) composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 region, and a human IgG2 constant region, and a polynucleotide (SEQ ID NO: 69) encoding a polypeptide (SEQ ID NO: 68) composed of the light chain variable region of huAbF46-H4-A1, with a tyrosine residue instead of histidine at position 36, and a human kappa constant region were synthesized in Bioneer. Then, the DNA fragments having heavy chain nucleotide sequences were inserted into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) while DNA fragments having light chain nucleotide sequences were inserted into a vector from the pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01) so as to construct vectors for expressing the antibodies. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/mL. After 24 hours, when the cell number reached to 1×10 6  cells/mL, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 mL tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 mL of OptiPro™ SFM (Invitrogen) (A). In another 15 mL tube, 100 μL of Freestyle™ MAX reagent and 2 mL of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to finally purify three antibodies (huAbF46-H4-A1 (U6-HC7), huAbF46-H4-A1 (IgG2 hinge), and huAbF46-H4-A1 (IgG2 Fc)). Among the three antibodies, huAbF46-H4-A1 (U6-HC7) and huAbF46-H4-A1 (IgG2 Fc) were representatively selected for the following examples, and referred as anti-c-Met antibody L3-1Y and L3-1Y/IgG2, respectively. 
+ Example 1 
+ Test of Cancer Cell Apoptosis Promotion of Anti c-Met Antibody 
+ When an EBC1 lung cancer cell line (JCRB, JCRB0820), one of the human lung squamous cell carcinoma cell lines, is treated with an anti-c-Met antibody, its cell proliferation is suppressed. 
+ In order to see whether such cell proliferation suppression results from apoptosis, Caspase-3/7 Glo assay (Promega, G8092) was performed. Apoptosis exhibits phenomena including reduction in cell volume, condensation of the nucleus, the breaking of cellular frame, DNA fragmentation by endonucleases, etc. and particularly, the disruption of electron transfer system and energy metabolism. The release of caspase activation protein occurring during the process of apoptosis may be the typical phenomena of apoptosis. 
+ In this example, the level of apoptosis was measured by the activation of caspase and in this regard, Caspase-3/7 Glo assay was performed. This method is to measure the amount of an activated caspase in a cell. When a proluminescent caspase-3/7 substrate which is contained in Caspase-3/7 assay is reacted with an activated caspase within the cell, it emits luminescence. By measuring this luminescence, the amount of the activated caspase can be measured. 
+ Particularly, EBC1 lung cancer cells (JCRB, JCRB0820) were mixed with an RPMI1640 medium (GIBCO) containing 10% (v/v) FBS (GIBCO), seeded at a density of 5×10 3  cells per well onto a 96-well plate, and cultured at 37° C. in 5% CO 2  conditions. After 24 hours, the cells were treated with an antibody L3-1Y (prepared from the above Reference Example), L3-1Y/IgG2 (prepared from the above Reference Example), or 5D5 (isolated and purified from ATCC Cat.# HB-11895 hybridoma cells obtained from American Type Culture Collection (ATCC, Manassas, Va.); positive control) diluted in a 10% (v/v) FBS-containing medium at various concentrations (0.0032, 0.016, 0.08, 0.4, 2 or 10 μg/mL). After the treated cells were cultured at 37° C. in 5% CO 2  conditions for 72 hours,  Caspase  3/7 Glo®solution (Promega) 100 μL was added to each well, followed by incubation at a room temperature for 30 min. Luminescence signals were recorded using Envision 2104 Multi-label Reader (Perkin Elmer). 
+ The measured luminescence signals indicate caspase activity, which reflects apoptosis. Since the anti-c-Met antibody suppresses cell proliferation, the caspase activity was calibrated by the number of remaining cells. For calibration, CellTiter Glo assay (Promega, G7572) was used. The obtained results are shown in  FIGS. 2A-2B . Also, apoptosis ratios were standardized into  Caspase  3/7 Glo assay (Promega) numerals and are shown in  FIGS. 3A-3B . 
+ As seen in  FIGS. 2A, 2B, 3A, and 3B , cell proliferation was suppressed and apoptosis was facilitated when the cells were treated with the anti-c-Met antibody L3-1Y or L3-1Y/IgG2; however 5D5 which is an anti-c-Met antibody having high agonism showed few effects in the EBC1 lung cancer cell line. 
+ Example 2 
+ Selection of Genes Related to Apoptosis of Anti c-Met Antibody 
+ In order to find out genes which induce the apoptosis of the anti-c-Met antibody in a lung cancer cell line, EBC1 cells were treated with the anti-c-Met antibody L3-1Y prepared in the above Reference Example, and Superarray of apoptosis-related genes was performed. The Superarray is a focused array which is divided into each cellular pathway and this example employed an Array (Qiagen, PAHS-012F) into which primers of 84 apoptosis-related genes are inserted. 
+ First, in order to extract RNA necessary for Superarray, the EBC1 cells (JCRB, JCRB0820) were mixed with an RPMI1640 medium (GIBCO) containing 10% (v/v) FBS (GIBCO), seeded at a concentration of 3.0×10 5  cells/well onto a 6-well plate, and cultured at 37° C., 5% CO 2  conditions for one day. The cultured cells were treated at a concentration of 5 μg/mL with a diluent obtained by diluting the anti-c-Met antibody L3-1Y prepared in the Reference Example in a 5% (v/v) FBS/RPMI1640 (GIBCO) medium for 24 hours. Then, RNA was extracted therefrom using RNeasy Mini kit (Qiagen, #74106) (antibody treatment group). As a negative control group, the group treated with no antibody was used (medium). cDNA was synthesized from 1.5 of total RNA using RT2 SYBR Green qPCR Master Mix (Qiagene, #330503). The synthesized cDNA was seeded onto Superarray plate (96 well plate) according to the manufacturer's protocol and qPCR was performed according to the following procedures. 
+ Step 1: 95° C., 10 min; Step 2 (45 cycles): Step 2-1: 95° C., 15 sec; Step 2-2: 60° C., 1 min; Step 3: 65° C., 15 sec; Step 4: 95° C., continuous (every 20° C.); Step 5: 40° C., 10 sec. 
+ For qPCR, LightCycler® 480 Real-Time PCR System (Roche) was used, and an average of B2M, HPRT1, RPL13A, GAPDH, and ACTB which are internal controls was used to calibrate the amount of RNA in a sample. The CT value of each plate was calibrated with the internal control and, then, the expression of the antibody treatment group was calculated on the basis of the expression of the control group treated with no antibody. When a fold change was compared,  genes showing differences  2 times or more have been selected as DEG (Differentially Expressed Gene). 
+ The obtained results are shown in Table 3 below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+   
+ 
+ 
+   
+   
+   
+ Fold change 
+ 
+ 
+ Representative 
+   
+ Gene 
+ (compared 
+ 
+ 
+ Public ID 
+ Gene Title 
+ Symbol 
+ to medium) 
+ 
+ 
+   
+ 
+ 
+ 
+ NM_000875 
+ Insulin- like growth factor  1 
+ IGF1R 
+ 2.56 
+ 
+ 
+   
+ receptor 
+ 
+ 
+ NM_003806 
+ Harakiri, BCL2 interacting 
+ HRK 
+ 2.41 
+ 
+ 
+   
+ protein (contains only 
+ 
+ 
+   
+ BH3 domain) 
+ 
+ 
+ NM_014452 
+ Tumor necrosis factor 
+ TNFRSF21 
+ 2.34 
+ 
+ 
+   
+ receptor superfamily, 
+ 
+ 
+   
+ member 21 
+ 
+ 
+   NM_001230     Caspase    10, apoptosis- 
+ CASP10 
+ 2.31 
+ 
+ 
+   
+ related cysteine peptidase 
+ 
+ 
+ NM_000546 
+ Tumor protein p53 
+ TP53 
+ 2.10 
+ 
+ 
+ NM_000633 
+ B-cell CLL/ lymphoma  2 
+ BCL2 
+ 0.33 
+ 
+ 
+ NM_003844 
+ Tumor necrosis factor 
+ TNFRSF10A 
+ 0.37 
+ 
+ 
+   
+ receptor superfamily, 
+ 
+ 
+   
+ member 10a 
+ 
+ 
+ NM_138578 
+ BCL2-like 1 
+ BCL2L1 
+ 0.40 
+ 
+ 
+ NM_002546 
+ Tumor necrosis factor 
+ TNFRSF11B 
+ 0.44 
+ 
+ 
+   
+ receptor superfamily, 
+ 
+ 
+   
+ member 11b 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in Table 3, 5 types of genes of which the expression increased (IGF1R, HRK, TNFRSF21, CASP10 and TP53) by the treatment of the antibody L3-1Y, and 4 types of genes of which the expression decreased (BCL2, TNFRSF10A, BCL2L1, and TNFRSF11B) were selected. 
+ Example 3 
+ Verification of Selected Genes 
+ An individual qPCR was performed to verify the genes selected using Superarray in Example 2. The genes to be verified are genes reflecting the apoptosis of anti c-Met antibodies, and only genes showing expression change in the direction of increasing apoptosis by the treatment of L3-1Y anti-c-Met antibody were included. When treated with anti-c-Met antibody L3-1Y, genes of which the expression increased were selected to be genes that facilitate apoptosis and genes of which the expression decreased to be genes that suppress apoptosis. 
+ IGF1R is a gene known to suppress apoptosis, and TNFRSF10A and TNFRSF11B are genes known to facilitate apoptosis. However, according to the results of Table 2 in Example 2, these three genes (IGF1R, TNFRSF10A, and TNFRSF11B) did not function in previously-known directions. Accordingly, they were excluded from gene selection and only 6 genes were used for verification. 
+ PCR primer sequences for each gene used for verification are shown in the following Table 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ PCR primer sequence (5′->3′) 
+ 
+ 
+ 
+ 
+ Repre- 
+   
+   
+   
+ Uni- 
+ 
+ 
+ sentative 
+ Gene 
+   
+   
+ versal 
+ 
+ 
+ Public ID 
+ Symbol 
+ sense 
+ antisense 
+ Probe # 
+ 
+ 
+   
+ 
+ 
+ NM_003806 
+ HRK 
+ tactggcct 
+ cacagggttt 
+ #71 
+ 
+ 
+   
+   
+ tggctgtgc 
+ tcaccaacct 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 109) 
+ NO: 110) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_014452 
+ TNFRSF21 
+ gcacatggaa 
+ agaagagtt 
+ #69 
+ 
+ 
+   
+   
+ acccatgaa 
+ ggattctgt 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ tgagttc 
+   
+ 
+ 
+   
+   
+ NO: 111) 
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+   
+ NO: 112) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_001230 
+ CASP10 
+ cccaggcta  
+ gatggataa 
+ #69 
+ 
+ 
+   
+   
+ tgtatcctt 
+ gatgtcttc 
+   
+ 
+ 
+   
+   
+ tcg 
+ atgtcttg 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 113) 
+ NO: 114) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_000546 
+ TP53 
+ aggccttgga 
+ ccctttttgg 
+ #12 
+ 
+ 
+   
+   
+ actcaaggat 
+ acttcaggtg 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 115) 
+ NO: 116) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_000633 
+ BCL2 
+ tacctgaac 
+ gccgtacagt 
+ #75 
+ 
+ 
+   
+   
+ cggcacctg 
+ tccacaaagg 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 117) 
+ NO: 118) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_138578 
+ BCL2L1 
+ agccttggat 
+ agcggttga 
+ #66 
+ 
+ 
+   
+   
+ ccaggagaa 
+ agcgttcct 
+   
+ 
+ 
+   
+   
+ (SEQ ID 
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 119) 
+ NO: 120) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ The qPCR for verification was carried out by the procedures of cell seeding, RNA extraction, cDNA synthesis, and qPCR reaction. First, in order to extract RNA, EBC1 cells (JCRB, JCRB0820) were seeded at a concentration of 6×10 5  cells/well onto a 6-well plate, and cultured for one day (see Example 2 for culture conditions). Then, the cells were treated with the anti-c-Met antibody L3-1Y prepared in the Reference Example diluted in a 5% (v/v) FBS/RPMI1640 (GIBCO) medium at a concentration of 5 μg/mL for 24 hours. After the treatment of 24 hours, RNA was extracted using RNeasy Mini kit (Qiagen, #74106), into 50 μL of RNase free DW. 12 μL of RNA was used to synthesize cDNA using Transcriptor First Strand cDNA synthesis kit (Roche, #04 896 866 001). The cDNA synthesis was performed according to the manufacturer's protocol. 
+ qPCR was performed using LC480 Probe Master (Roche, #04 887 301 001) and LightCycler® 480 Real-Time PCR System (Roche). GAPDH was used as an internal control to calibrate the amount of RNA in the sample, and qPCR proceeded with all the primers set forth in Table 2 according to the following procedures. 
+ Step 1: 95° C., 10 min; Step 2 (45 cycles): Step 2-1: 95° C., 10 sec; Step 2-2: 60° C., 30 sec; Step 2-3: 72° C., 1 sec; Step 3: 40° C., 30 sec. 
+ The results that verify the Superarray results through qPCR are shown in  FIG. 4  as relative amounts of transcripts in antibody treatment groups against the control group (no antibody treatment group). 
+ As seen in  FIG. 4 , the verified 6 genes showed changes in their expression by the anti-c-Met antibody L3-1Y, and the five genes (CASP10, TNFRSF21, TP53, BCL2, and BCL2L1) except HRK1 gene exhibited expression changes corresponding to the Superarray results of Example 2. 
+ Example 4 
+ Expression Change of Selected Genes According to Antibody Concentration 
+ With regard to the genes (CASP10, TNFRSF21, TP53, BCL2, and BCL2L1) selected and verified in Examples 2 and 3, whether the expression change of these genes reflects a change in antibody concentration was tested to examine their potentials as a pharmacodynamic marker (PD marker). 
+ In order to see whether antibody concentration change is reflected, RNA extraction and cDNA synthesis from EBC1 cells (JCRB, JCRB0820), and experiment using L3-1Y or L3-1Y/IgG2 were performed in reference to the methods set forth in Examples 2 and 3. The qPCR reaction was performed using LC480 Probe Master (Roche, #04 887 301 001) and LightCycler® 480 Real-Time PCR System (Roche). GAPDH was used as an internal control to calibrate the amount of RNA in the sample, and the qPCR proceeded with all the primers set forth in Table 2 according to the following procedures. 
+ Step 1: 95° C., 10 min; Step 2 (45 cycles): Step 2-1: 95° C., 10 sec; Step 2-2: 60° C., 30 sec; Step 2-3: 72° C., 1 sec; Step 3: 40° C., 30 sec. 
+ The expression levels of the selected genes according to antibody (L3-1Y or L3-1Y/IgG2) treatment concentration measured through qPCR are shown in  FIGS. 5A to 5E  (L3-1Y) and  10 A to  10 E (L3-1Y/IgG2) ( 5 A or  10 A: CASP10,  5 B or  10 B: TNFRSF21,  5 C or  10 C: TP53,  5 D or  10 D: BCL2, and  5 E or  10 E: BCL2L1). 
+ As seen in  FIGS. 5A to 5E and 10A to 10E , as antibody treatment concentrations went higher, the expression of activated genes such as CASP10, TNFRSF21, and TP53 increased and the expression of repressed genes such as BCL2 and BCL2L1 decreased, and their increase/decrease degrees were concentration-dependent. 
+ Example 5 
+ Verification Using Primers Having Different Amplification Site 
+ In order to determine whether the qPCR experiments of Examples 2 and 3 are conducted in a gene-specific manner, the qPCR was performed using primers of which the amplification locations are different from the primers of Table 2. The primers used in this Example are summarized in Table 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 5 
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ PCR primer sequence (5′->3′) 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+   
+ Uni- 
+ 
+ 
+ Repre- 
+   
+   
+   
+ versal 
+ 
+ 
+ sentative 
+ Gene 
+   
+   
+ Probe  
+ 
+ 
+ Public ID 
+ Symbol 
+ sense 
+ Antisense 
+ # 
+ 
+ 
+   
+ 
+ 
+ NM_014452 
+ TNFRSF21 
+ cccttctccg 
+ cgcaacactgt 
+ #42 
+ 
+ 
+   
+   
+ ctgtgactc 
+ gtccttcttt 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 121) 
+ NO: 122) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_001230 
+ CASP10 
+ caaggaagcc 
+ gtggttccgat 
+ #55 
+ 
+ 
+   
+   
+ gagtcgtatc 
+ tcatcctgta 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 123) 
+ NO: 124) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_000546 
+ TP53 
+ ctctccccag 
+ ctctcggaac 
+ #58 
+ 
+ 
+   
+   
+ ccaaagaag 
+ atctcgaagc 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 125) 
+ NO: 126) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_000633 
+ BCL2 
+ Acagaggat 
+ Ttatttcatg 
+  #6 
+ 
+ 
+   
+   
+ catgctgta 
+ aggcacgtta  
+   
+ 
+ 
+   
+   
+ cttaaaaa 
+ ttattag 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+ NO: 127) 
+ NO: 128) 
+   
+ 
+ 
+   
+ 
+ 
+ NM_138578 
+ BCL2L1 
+   gctgagtta     Ttctgaaggg 
+ #   10 
+ 
+ 
+   
+   
+ ccggcatcc 
+ agagaaagag 
+   
+ 
+ 
+   
+   
+ (SEQ ID  
+ attc  
+   
+ 
+ 
+   
+   
+ NO: 129) 
+ (SEQ ID  
+   
+ 
+ 
+   
+   
+   
+ NO: 130) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ In order to see whether expression change is affected by amplification locations, EBC1 cells (JCRB, JCRB0820) were used to perform RNA extraction and cDNA synthesis in reference to the methods set forth in Examples 2 and 3. The qPCR reaction was performed using LC480 Probe Master (Roche, #04 887 301 001) and LightCycler® 480 Real-Time PCR System (Roche). GAPDH was used as an internal control to calibrate the amount of RNA in the sample, and the qPCR proceeded with all the primers set forth in Table 5 according to the following procedures. 
+ Step 1: 95° C., 10 min; Step 2 (45 cycles): Step 2-1: 95° C., 10 sec; Step 2-2: 60° C., 30 sec; Step 2-3: 72° C., 1 sec; Step 3: 40° C., 30 sec. 
+ The results comparing the gene expression levels according to antibody treatment concentration measured through qPCR using the primers having different amplification locations are shown in  FIGS. 6A to 6E . As seen in  FIGS. 6A to 6E , even when different locations were amplified, the expression changes were maintained in a manner dependent upon the concentration of antibody treatment. In the case of relative fold changes, their absolute values might be changed by the intrinsic amplification efficiency of primers, but their tendency remained unchanged. 
+ Example 6 
+ Measurement of Expression Change of Selected Genes in Stomach Cancer Cell Line 
+ An Hs746T stomach cancer cell line (ATCC, HTB-135) was used to see whether the five selected genes are applicable to other cell lines. 
+ First, in order to see whether apoptosis is increased when the Hs746T cells are treated with L3-1Y antibody, like the EBC1 cells, apoptosis ratios were measured by Caspase-3/7 Glo assay in reference to the method of Example 1. 10000 Hs746T cells (ATCC, HTB-135) were seeded onto a 96-well plate and after 24 hours, and treated with the antibody. After 72 hours of the antibody treatment, their caspase activity was measured. Since L3-1Y antibody treatment reduces cell numbers, CellTiter Glo assay was performed for the calibration of cell numbers. Apoptosis ratios were standardized into  Caspase  3/7 Glo assay (Promega) numerals and are shown in  FIG. 7 . 
+ As seen in  FIG. 7 , apoptosis of the Hs746T stomach cancer cell line is facilitated by the treatment of the anti-c-Met antibody L3-1Y, similarly to EBC1 cells. 
+ Of the selected genes, it was tested whether TNFRSF21, BCL2, and BCL2L1 reflect a change in their expression amounts in Hs746T cells, reflecting the concentration of L3-1Y anti-c-Met antibody. For this, RNA extraction from the Hs746T cells, cDNA synthesis, and qPCR were performed, with reference to the method of Example 4. 
+ The results comparing the gene expression levels of the genes (TNFRSF21, BCL2L1, BCL2) according to antibody L3-1Y treatment concentration in the Hs746T stomach cancer cell line measured through the qPCR are shown in  FIGS. 8A to 8C . As seen in  FIGS. 8A to 8C , similarly to the EBC1 cells, as antibody treatment concentrations increased in the Hs746 stomach cancer cell line, changes in expression amounts increased. 
+ Example 7 
+ Measurement of Expression Change of Proteins Encoded by Selected Genes 
+ Western blotting was performed to analyze protein levels of the genes of which the expression is changed by L3-1Y or L3-1Y/IgG2 anti-c-Met antibody, verified in Example 4. 
+ In order to measure a change in the expression of proteins encoded by the selected genes, 2×10 6  EBC1 lung cancer cells (JCRB, JCRB0820) were mixed with an RPMI1640 medium (GIBCO) containing 10% (v/v) FBS (GIBCO), seeded into a 100 mm dish, and cultured at 37° C. in 5% CO 2  conditions for 1 day. The cultured cells were treated with a diluent produced by diluting the anti-c-Met antibody L3-1Y or L3-1Y/IgG2 prepared in the Reference Example in a 5% (v/v) FBS/RPMI1640 (GIBCO) medium at a concentration of 0.4 μg/mL for 72 hours, and cell extracts were obtained therefrom to perform Western blotting. 20 μg of the cell extracts were separated using Novex® NuPAGE® Bis-Tris Electrophoresis System (Invitrogen) and then transferred onto Nitrocellulose membrane (Invitrogen, cat. no #LC2006). 
+ After the membranes were blocked with 3% skim milk for one hour, they were reacted with Bcl2 antibody (Santa Cruz, cat. no. sc-7382) diluted in 1:250, and Bcl-xL (Cell Signaling, cat. no. #2764S) antibody diluted in 1:1000 at 4° C. for 18 hours or more. After the reaction, the membranes were sufficiently washed with TBS-T solutions to eliminate unreacted antibodies, followed by the reaction with goat anti-rabbit IgG-HRP or goat anti-mouse IgG-HRP at a room temperature for one hour, depending on the antibodies. The membranes were washed again sufficiently with TBS-T solutions and, then, the substrate solution of the peroxidase (Thermo Scientific Pierce ECL Western Blotting Substrate, cat. no. #32106) was added thereto to measure occurring chemiluminescence, which was then used to compare expression levels. 
+ The results, obtained from the above, comparing the expression change of Bcl2 and Bcl-xL which are proteins encoded by BCL2 and BCL2L1 of which the expression is reduced by L3-1Y or L3-1Y/IgG2 treatment are shown in  FIGS. 9A  (L3-1Y) and  9 B (L3-1Y/IgG2). As seen in  FIG. 9 , the Bcl2 and Bcl-xL proteins were reduced, compared to the control treated with no L3-1Y or L3-1Y/IgG2 antibody in EBC1 cells. Further, PARP cleavage, which is one of the phenomena occurring during apoptosis when treated with L3-1Y or L3-1Y/IgG2, occurred. That is, it was confirmed that apoptosis is facilitated under such treatment conditions. 
+ All references, including publications, patent applications, and patents, cited herein are hereby incorporated by reference to the same extent as if each reference were individually and specifically indicated to be incorporated by reference and were set forth in its entirety herein. 
+ The use of the terms “a” and “an” and “the” and “at least one” and similar referents in the context of describing the invention (especially in the context of the following claims) are to be construed to cover both the singular and the plural, unless otherwise indicated herein or clearly contradicted by context. The use of the term “at least one” followed by a list of one or more items (for example, “at least one of A and B”) is to be construed to mean one item selected from the listed items (A or B) or any combination of two or more of the listed items (A and B), unless otherwise indicated herein or clearly contradicted by context. The terms “comprising,” “having,” “including,” and “containing” are to be construed as open-ended terms (i.e., meaning “including, but not limited to,”) unless otherwise noted. Recitation of ranges of values herein are merely intended to serve as a shorthand method of referring individually to each separate value falling within the range, unless otherwise indicated herein, and each separate value is incorporated into the specification as if it were individually recited herein. All methods described herein can be performed in any suitable order unless otherwise indicated herein or otherwise clearly contradicted by context. The use of any and all examples, or exemplary language (e.g., “such as”) provided herein, is intended merely to better illuminate the invention and does not pose a limitation on the scope of the invention unless otherwise claimed. No language in the specification should be construed as indicating any non-claimed element as essential to the practice of the invention. 
+ Preferred embodiments of this invention are described herein, including the best mode known to the inventors for carrying out the invention. Variations of those preferred embodiments may become apparent to those of ordinary skill in the art upon reading the foregoing description. The inventors expect skilled artisans to employ such variations as appropriate, and the inventors intend for the invention to be practiced otherwise than as specifically described herein. Accordingly, this invention includes all modifications and equivalents of the subject matter recited in the claims appended hereto as permitted by applicable law. Moreover, any combination of the above-described elements in all possible variations thereof is encompassed by the invention unless otherwise indicated herein or otherwise clearly contradicted by context. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1144 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CROSS-REFERENCE TO RELATED APPLICATIONS 
+ This application claims the benefit of U.S. Provisional Application No. 62/715,571, filed Aug. 7, 2018, which is hereby incorporated by reference. 
+ FIELD OF THE INVENTION 
+ The invention relates to nucleic acid molecules comprising a variant inc coding strand, wherein the variant inc coding strand encodes a variant inc RNA, and the variant inc RNA is a regulator of plasmid copy number. 
+ BACKGROUND OF THE INVENTION 
+ Plasmids play an important role in biotechnology, providing a means for introducing, modifying, and removing target genes from microorganisms, and for producing corresponding proteins encoded by the target genes. Plasmids are nucleic acid molecules that occur naturally in a diverse range of microorganisms of the domains Bacteria, Archaea, and Eukaryota, that are physically separate from chromosomes of the microorganisms in which they occur, and that replicate independently of the chromosomes. Plasmids are typically double-stranded circular DNA molecules, but can also be linear DNA molecules and/or RNA molecules. Plasmids occur in a range of sizes, from about 1 kb to more than 2 Mb. For example, according to a recent review article of Shintani et al., Frontiers in Microbiology 6:242 (2015), wide variations of size were observed among 4602 plasmids found in the GenBank database, with the plasmids ranging in size from 744 bp to 2.58 Mb, and having an average size of 80 kb. Plasmids also occur in a range of copies per cell. For example, plasmids are generally characterized as low copy, e.g. 1-20 copies per cell, medium copy, e.g. 20-100 copies per cell, or high copy, e.g. 500-700 copies or more per cell. Plasmids can be modified to include target genes. 
+ A challenge associated with using plasmids in biotechnology is that biotechnological applications generally require stable incorporation of target genes in microorganisms and careful control of yield of the target genes and their corresponding protein products during cultivation, but efforts to accomplish one can work against accomplishing the other. During cultivation of a microorganism including a plasmid with a target gene, it is generally advantageous to have the plasmid segregate stably as cells of the microorganism grow and divide, so that a high percentage of cells of the microorganism will include the target gene throughout the cultivation. It also is generally advantageous to have the target gene remain structurally stable, maintaining a constant nucleotide sequence, to ensure production of only intended products. It also is generally advantageous to express a target gene at a level that is sufficiently high to achieve a desired result, e.g. production of a corresponding protein product in sufficient quantities and in an active form. Unfortunately, techniques for replicating plasmids and expressing target genes from the plasmids, particularly at high levels, exert metabolic burdens on cells. This can lead to plasmids being lost from cells and/or mutations changing expression levels or identity of target genes. This also can lead to aggregation and inactivity of corresponding protein products. Thus, balancing stable incorporation and control of yield during use of plasmids in biotechnical applications is generally an empirical process, involving trial and error. 
+ Plasmid copy number is an important consideration regarding both stable incorporation and control of yield. The copy number of a plasmid is generally determined by three factors, the origin of replication of the plasmid, the size of the plasmid, including target genes included therein, and cultivation conditions. Regarding origins of replication, plasmids can be classified in incompatibility groups based on features of their replication, particularly their origins of replication. Specifically, a plasmid generally includes a replicon, corresponding to a region of the plasmid that replicates from a single origin of replication. A plasmid also generally includes genes that encode proteins that recognize the origin of replication of the plasmid and initiate replication there. Interactions between the proteins of the plasmid and the origin of replication determine specificity of replication and copy number of the replicon, and thus of the plasmid. Plasmids that have identical origins of replication are classified within the same incompatibility group, based on the plasmids being incompatible with each other regarding segregational stability. Plasmids that have different origins of replication may be classified within different incompatibility groups, if the plasmids are compatible with each other. Regarding size of the plasmid, increasing size generally leads to an increasing metabolic burden associated with replication of the plasmid and expression of target genes from the plasmid, and thus to a decrease in copy number of the plasmid. Regarding cultivation conditions, these also affect metabolic burden, and depending on specific conditions, can result in an increase or decrease in copy number. 
+ Of the three factors, the origin of replication is generally the primary consideration in choosing a plasmid for a particular application, because the origin of replication establishes a base line for copy number. Unfortunately, no general approaches exist for predictably changing the base line for copy number of a plasmid by modifying the origin of replication of the plasmid. Determining whether and to what extent a particular origin of replication could be modified to change copy number also would be an empirical process. 
+ RepFIC is an exemplary replicon. As described by Saadi et al., Journal of Bacteriology 169:1836-1846 (1987), RepFIC is a replicon of IncFI plasmids. RepFIC is present in complete form in plasmid P307. RepFIC also is present in truncated form in plasmid F. RepFIC encodes an RNA, termed inc RNA. The inc RNA of RepFIC determines incompatibility of the RepFIC replicon based on its sequence and structure. 
+ The RNA sequence of inc RNA has been inferred from the DNA sequence of the RepFIC replicon. The inferred sequence of inc RNA of RepFIC varies depending on the source of the RepFIC replicon. The inferred sequence also varies depending on the 5′ end and the 3′ end predicted for the inc RNA. 
+ For example, the inc RNA of RepFIC of plasmid P307 is encoded by a DNA coding strand corresponding to the reverse complement of nucleotides 575 to 665 of a portion of the RepFIC replicon, as disclosed by Saadi et al. This coding strand corresponds to a sequence of 91 nucleotides as provided within SEQ ID NO: 23, specifically nucleotides 8-98 of SEQ ID NO: 23. Also according to Saadi et al., the inc RNA of RepFIC of plasmid F is encoded by a DNA coding strand that differs from that of the inc RNA of RepFIC of plasmid P307 by substitutions of two bases. This coding strand corresponds to a sequence of 91 nucleotides as provided within SEQ ID NO: 21, specifically nucleotides 8-98 of SEQ ID NO: 21. Also for example, according to GenBank, the inc RNA of RepFIC of  Escherichia coli  strain K-12 is encoded by a DNA coding strand corresponding to the reverse complement of GenBank Accession AP001918.1, location 3747 to 3839. This coding strand corresponds to a sequence of 93 nucleotides as provided within SEQ ID NO: 21, specifically nucleotides 1-93 of SEQ ID NO: 21. Also according to GenBank, a non-coding RNA sequence of  E. coli  strain to1C, termed copA, which corresponds to inc RNA, is encoded by a DNA coding strand corresponding to GenBank Accession CP018801.1, location U.S. Pat. Nos. 3,463,977 to 3,464,067. This coding strand corresponds to a sequence of 91 nucleotides as provided in SEQ ID NO: 21, specifically nucleotides 8-98 of SEQ ID NO: 21. Also according to GenBank, a sequence of  E. coli  strain NCM3722 F-like plasmid, which apparently corresponds to inc RNA, is encoded by a DNA coding strand corresponding to the reverse complement of GenBank Accession CP011496.1, location 37765 to 37862. This coding strand corresponds to a sequence of 98 nucleotides as provided in SEQ ID NO: 19. 
+ The inc RNA of RepFIC is predicted to have a stem-loop structure. According to Saadi et al., this structure is believed to be critical for function of the inc RNA. 
+ According to Saadi et al., the inc RNA of RepFIC differs from inc RNA of another replicon, RepFIIA, by nine base pairs. Based on this difference, the RepFIC replicon and the RepFIIA replicons are compatible. In contrast, as noted, also according to Saadi et al., the inc RNA sequence of plasmid F differs from the inc RNA sequence of plasmid P307 by two bases. According to Saadi et al., this difference has no demonstrable effect on incompatibility, meaning that a plasmid expressing the inc RNA sequence of plasmid F would be incompatible with a plasmid expressing the inc RNA sequence of plasmid P307. 
+ Saadi is silent regarding copy number of plasmids including the RepFIC replicon. Saadi also is silent regarding use of such plasmids for biotechnological applications. 
+ Use of mutant RNA polymerases is another potential approach to alter the copy number of a plasmid. RNA polymerase plays a role in transcription. RNA polymerase also plays a role in replication of chromosomes and plasmids. RNA polymerase sequences have been determined in many bacteria, providing a basis for identifying conserved regions within RNA polymerases. For example, Lee et al., Antimicrobial Agents and Chemotherapy 57:56-65 (2013), provides an alignment of a C-terminal domain of RNA polymerase β′ subunits from 21 strains. Structures of bacterial RNA polymerases also have been determined. For example, Mukhopadhyay et al., Cell 135:295-307 (2008), reports that structures reveal that RNA polymerases have dimensions of ˜150 angstroms×˜100 angstroms×˜100 angstroms and a shape reminiscent of a crab claw. The RNA polymerase β′ subunit makes up a pincer, termed a “clamp,” and part of an active center cleft. 
+ Two mutations in the rpoC gene of  E. coli , which encodes the RNA polymerase β′ subunit, have been reported to cause a decrease in copy number of ColE1-type plasmids. Specifically, Ederth et al., Molecular Genetics and Genomics 267:587-592 (2002), identified a single amino acid substitution (G1161R) and a 41-amino acid deletion. Both are located near the 3′-terminal region of the rpoC gene. The two mutations cause over 10-fold and 20-fold reductions in copy numbers of ColE1 plasmids, respectively (presumably corresponding to decreases of over 90% and 95%, respectively). Ederth et al. proposed that altered expression from promoters for RNA II and RNA I, which encode a preprimer for DNA polymerase I and an antisense inhibitor of the preprimer, may cause the decrease. 
+ A mutation in rpoC also has been reported to cause an increase in copy number of plasmid pBR322. Specifically, Petersen et al., Journal of Bacteriology 173:5200-5206 (1991), identified a single amino acid substitution (G1033D), which also is located near the 3′-terminal region of the rpoC gene, that causes an increase in copy number of pBR322 at a semi-permissive growth temperature of 39° C. Petersen notes that mutation also causes an increase in chromosomal copy number. 
+ Unfortunately, no general approaches exist for predictably modifying RNA polymerase β′ subunit to obtain further mutants that change copy number of a plasmid. Determining whether and to what extent a particular mutation may alter copy number of a plasmid also would be an empirical process. Also, no general approaches exist for predictably modifying RNA polymerase β′ subunit to obtain such mutants that would not cause a corresponding change in chromosomal copy number. 
+ As noted above, plasmid copy number tends to be an important consideration regarding balancing stable incorporation and control of yield during use of plasmids in biotechnical applications, but no general approaches exist for predictably changing the base line for copy number of a plasmid by modifying the origin of replication of the plasmid. Accordingly, a need exists for origins of replication that are modified to change the base line for copy number of plasmids including the modified origins of replication. A need also exists for further mutants of RNA polymerase β′ subunit that are modified to change copy number of plasmids, ideally without causing a corresponding change in chromosomal copy number. 
+ BRIEF SUMMARY OF THE INVENTION 
+ In accordance with one aspect of the present disclosure, a nucleic acid molecule comprising a variant inc coding strand that comprises SEQ ID NO: 15 is disclosed. The variant inc coding strand encodes a variant inc RNA. The variant inc RNA is a regulator of plasmid copy number. 
+ In some examples, expression of the variant inc RNA increases copy number of a vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. 
+ Also in some examples, the variant inc coding strand comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17. 
+ Also in some examples, the variant inc coding strand comprises SEQ ID NO: 17. 
+ In accordance with another aspect of the present disclosure, a replicon comprising the nucleic acid molecule, a promoter, and an origin of replication is disclosed. The promoter is operably linked to the variant inc coding strand. The variant inc RNA regulates copy number of the replicon. 
+ In accordance with another aspect of the present disclosure, a vector comprising the replicon is disclosed. 
+ In accordance with another aspect of the present disclosure, a recombinant microorganism comprising the replicon is disclosed. 
+ In accordance with another aspect of the present disclosure, a recombinant microorganism comprising the vector is disclosed. 
+ In accordance with another aspect of the present disclosure, a method for regulating copy number of the vector in a recombinant microorganism is disclosed. The method comprises the steps of: (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism, and (2) cultivating the recombinant microorganism in a culture medium under conditions sufficient for replication of the vector, thereby regulating copy number of the vector. 
+ In accordance with another aspect of the present disclosure, a method for making a target product by use of the vector in a recombinant microorganism is disclosed. The vector further comprises a target gene for making the target product. The method comprises the steps of: (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism, (2) cultivating the recombinant microorganism in a culture medium under conditions under which the recombinant microorganism expresses the target gene, thereby making the target product, and (3) recovering the target product from the recombinant microorganism and/or the culture medium. 
+ In accordance with another aspect of the present disclosure, a recombinant microorganism comprising the vector and another nucleic acid molecule is disclosed. The other nucleic acid molecule comprises a variant rpoC RNA-polymerase β′ subunit protein coding sequence (also termed “variant rpoC coding sequence”). The variant rpoC coding sequence encodes a variant RpoC RNA-polymerase β′ subunit protein (also termed “variant RpoC”). The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC RNA-polymerase β′ subunit protein (also termed “wild-type RpoC”; SEQ ID NO: 44) of  Escherichia coli.    
+ In accordance with another aspect of the present disclosure, a method for regulating copy number of the vector in a recombinant microorganism is disclosed. The method comprises the steps of: (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism, and (2) cultivating the recombinant microorganism in a culture medium under conditions sufficient for replication of the vector, thereby regulating copy number of the vector. The recombinant microorganism comprises the other nucleic acid molecule comprising the variant rpoC coding sequence. The variant rpoC coding sequence encodes a variant RpoC. The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC of  Escherichia coli.    
+ In accordance with another aspect of the present disclosure, a method for making a target product by use of the vector in a recombinant microorganism is disclosed. The vector further comprises a target gene for making the target product. The method comprises the steps of: (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism, (2) cultivating the recombinant microorganism in a culture medium under conditions under which the recombinant microorganism expresses the target gene, thereby making the target product, and (3) recovering the target product from the recombinant microorganism and/or the culture medium. The recombinant microorganism comprises another nucleic acid molecule comprising a variant rpoC coding sequence. The variant rpoC coding sequence encodes a variant RpoC. The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC of  Escherichia coli.    
+ 
+ BRIEF DESCRIPTION OF THE DRAWINGS 
+   FIG.  1    shows a multiple sequence alignment of DNA sequences of coding strands for the following: 
+ (1) inc RNA of RepFIC of plasmid P307, encoded by a DNA coding strand corresponding to the reverse complement of nucleotides 575 to 665 of a portion of the RepFIC replicon, as disclosed by Saadi et al. (SEQ ID NO: 23, nucleotides 8-98); 
+ (2) inc RNA of RepFIC of plasmid F, encoded by a DNA coding strand that differs from that of the inc RNA of RepFIC of plasmid P307 by substitutions of two bases, as disclosed by Saadi et al. (SEQ ID NO: 21, nucleotides 8-98); 
+ (3) non-coding RNA sequence of  E. coli  strain to1C, termed copA, which corresponds to inc RNA, encoded by a DNA coding strand corresponding to GenBank Accession CP018801.1, location 3,463,977 to 3,464,067 (SEQ ID NO: 21, nucleotides 8-98); 
+ (4) inc RNA of RepFIC of  E. coli  strain K-12, encoded by a DNA coding strand corresponding to the reverse complement of GenBank Accession AP001918.1, location 3747 to 3839 (SEQ ID NO: 21, nucleotides 1-93); and 
+ (5) sequence of  E. coli  strain NCM3722 F-like plasmid, which apparently corresponds to inc RNA, encoded by a DNA coding strand corresponding to the reverse complement of GenBank Accession CP011496.1, location 37765 to 37862 (SEQ ID NO: 19). 
+   FIG.  2    shows differences in the aligned DNA sequences of coding strands corresponding to the sequences shown in  FIG.  1   , with the coding strand of inc RNA of RepFIC of plasmid P307 provided in full and the coding strands of the other sequences provided showing differences, and also shows the central domain of the coding strand for wild-type inc RNA (SEQ ID NO: 23, nucleotides 43-65) provided in full. 
+   FIG.  3    shows a sequence alignment of DNA sequences of coding strands for the following: 
+ (1) sequence of  E. coli  strain NCM3722 F-like plasmid, which apparently corresponds to inc RNA, encoded by a DNA coding strand corresponding to the reverse complement of GenBank Accession CP011496.1, location 37765 to 37862 (SEQ ID NO: 19); and 
+ (2) sequence of a variant inc coding strand (SEQ ID NO: 17) including a C to T substitution in the central domain and thus comprising SEQ ID NO: 15. 
+   FIG.  4    shows differences in the aligned DNA sequences of coding strands corresponding to the sequences shown in  FIG.  3   , with the coding strand of the sequence of  E. coli  strain NCM3722 F-like plasmid provided in full and the variant inc coding strand provided showing differences, and also shows the central domain of the coding strand for the variant inc RNA (SEQ ID NO: 15) provided in full. 
+   FIG.  5 A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL40, which includes wildtype RepFIC identical to that of  E. coli  strain NCM3722 F-like plasmid (SEQ ID NO: 19). 
+   FIG.  6 A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL41, which includes a modified DNA sequence of RepFIC, corresponding to the sequence of the variant inc coding strand (SEQ ID NO: 17) including a C to T substitution in the central domain and thus comprising SEQ ID NO: 15. 
+   FIG.  7    shows a multiple sequence alignment, by CLUSTAL O(1.2.4), of an N-terminal domain of  Thermus thermophilus  RpoC (Q8RQE8) (SEQ ID NO: 34),  Acetobacter pasteurianus  RpoC (BAH99075.1) (SEQ ID NO: 35),  Neisseria gonorrhoeae  RpoC (Q5F5R6) (SEQ ID NO: 36),  Legionella pneumophila  RpoC (Q5X865) (SEQ ID NO: 37),  Pseudomonas aeruginosa  RpoC (Q9HWC9) (SEQ ID NO: 38),  Vibrio cholerae  RpoC (Q9KV29) (SEQ ID NO: 39),  Escherichia coli  (P0A8T7) (SEQ ID NO: 26),  Salmonella enterica serovar Typhimurium  RpoC (P0A2R4) (SEQ ID NO: 40),  Actinomyces odontolyticus  RpoC (EDN79927.1) (SEQ ID NO: 41),  Streptomyces coelicolor  RpoC (Q8CJT1) (SEQ ID NO: 42),  Corynebacterium diphtheriae  RpoC (Q6NJF6) (SEQ ID NO: 43),  Mycobacterium tuberculosis  RpoC (A5U053) (SEQ ID NO: 44),  Rhodococcus equi  RpoC (CBH49656.1) (SEQ ID NO: 45),  Chlamydia trachomatis  RpoC (084316) (SEQ ID NO: 46),  Clostridium botulinum  RpoC (A7FZ76) (SEQ ID NO: 47),  Bacillus subtilis  RpoC (P37871) (SEQ ID NO: 48),  Streptococcus pneumoniae  RpoC (Q97NQ8) (SEQ ID NO: 49),  Enterococcus faecalis  RpoC (Q82Z41) (SEQ ID NO: 50), and  Lactobacillus brevis  RpoC (Q03PV0) (SEQ ID NO: 51). 
+   FIG.  8    shows a multiple sequence alignment, by CLUSTAL O(1.2.4), of a central domain of the RpoC proteins as shown in  FIG.  7    (SEQ ID NOS: 34-39, 26, and 40-51, respectively). 
+   FIG.  9 A-B  shows a multiple sequence alignment, by CLUSTAL O(1.2.4), of a C-terminal domain of the RpoC proteins as shown in  FIG.  7    (SEQ ID NOS: 34-39, 26, and 40-51, respectively). 
+   FIG.  10    shows a sequence alignment of an N-terminal domain of RpoC protein of  E. coli  (SEQ ID NO: 26) and a variant RpoC (SEQ ID NO: 27). 
+   FIG.  11    shows differences in the aligned N-terminal domain of RpoC protein of  E. coli  (SEQ ID NO: 26) and a variant RpoC (SEQ ID NO: 27), with the sequence of the N-terminal domain of RpoC of  E. coli  provided in full and the sequence of the variant RpoC provided showing differences. 
+   FIG.  12 A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL47, which is for replacing an rpoC sequence on a chromosome. 
+   FIG.  13 A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL48, which includes wildtype RepFIC replicon. 
+   FIG.  14 A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL49, which includes a modified RepFIC replicon. 
+ 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ A nucleic acid molecule comprising a variant inc coding strand that comprises SEQ ID NO: 15 is disclosed. The variant inc coding strand encodes a variant inc RNA. The variant inc RNA is a regulator of plasmid copy number. 
+ Surprisingly, it has been determined that a nucleic acid molecule comprising a variant inc coding strand that comprises SEQ ID NO: 15, wherein the variant inc coding strand encodes a variant inc RNA, and the variant inc RNA is a regulator of plasmid copy number, can be used to accomplish a substantial increase in copy number of a plasmid comprising the nucleic acid molecule. 
+ Without wishing to be bound by theory, it is believed that the coding strand for inc RNA includes a central domain that is conserved among wild-type sequences. The wild-type central domain corresponds to nucleotides 43-65 of SEQ ID NO: 19. As shown in  FIG.  1    and  FIG.  2   , this sequence is conserved among each of five previously disclosed coding strands for inc RNA, namely those of RepFIC of plasmid P307, RepFIC of plasmid F as disclosed by Saadi et al., copA of  E. coli  strain to1C, RepFIC of  E. coli  strain K-12, and F-like plasmid of  E. coli  strain NCM3722. As shown in  FIG.  1    and  FIG.  2   , the coding strands can vary with respect to their sequences, e.g. at nucleotide positions 42 (C or T), 66 (C or A), and 89 (T or G), with positions numbered according to SEQ ID NO: 19. As noted above, according to Saadi et al., the sequence of the coding strand of inc RNA of plasmid F differs from that of inc RNA of plasmid P307 by two bases, and this difference has no demonstrable effect on incompatibility. Thus, the coding strands also can maintain incompatibility despite such variation. Also, as can be seen, the coding sequence of the inc RNA of plasmid F according to Saadi et al. differs from that of F-like plasmid of  E. coli  strain NCM3722 by a single substitution. This suggests that this substitution also has no demonstrable effect. As shown in  FIG.  2   , the central domain corresponds to a 23 nucleotide sequence, from nucleotide position 43 to nucleotide position 65, with positions numbered according to SEQ ID NO: 19. The central domain is located between two of the nucleotide positions that can vary, namely nucleotide positions 42 and 66. Given that the sequence of the central domain is conserved among each of the five previously disclosed coding strands for inc RNA, and that the variations elsewhere in the coding strands appear to be without demonstrable effect, the central domain sequence corresponding to nucleotides 43-65 of SEQ ID NO: 19 may be considered wild-type. 
+ Also without wishing to be bound by theory, it is believed that the central domain of inc RNA plays an important role in determining copy number of plasmids including the RepFIC replicon. As shown in  FIG.  3    and  FIG.  4   , the variant inc coding strand includes a central domain that comprises SEQ ID NO: 15 and that differs from the wild-type central domain by a single substitution, namely C to T at  nucleotide position  60, with positions numbered according to SEQ ID NO: 17. A variant inc coding strand that includes this substitution and that is otherwise identical to the coding strand for inc RNA of  E. coli  NCM3722 exhibits an increase in plasmid copy number of, for example, about 5 to 15 fold, with the precise increase apparently depending on factors such as plasmid size and strain. Because the C to T substitution in the central domain is the only difference between the variant inc coding strand and the coding strand for inc RNA of  E. coli  NCM3722, and because the central domain is located between two of the nucleotide positions that can vary without apparent demonstrable effect, and further because no other substitutions occur within the central domain among the five previously disclosed coding strands for inc RNA, the central domain appears to be important in determining plasmid copy number. 
+ As used herein, the term nucleic acid molecule means a molecule of DNA and/or RNA, including for example a double-stranded DNA molecule, a single-stranded DNA molecule, a double-stranded RNA molecule, a single-stranded RNA molecule, or a DNA/RNA hybrid molecule, with the structure of the nucleic acid molecule depending on whether the nucleic acid molecule includes a DNA sequence, an RNA sequence, or both. 
+ As used herein, the term inc RNA means an RNA molecule that determines incompatibility of the RepFIC replicon of IncFI plasmids based on sequence and structure of the inc RNA. Incompatibility of the RepFIC replicon of IncFI plasmids can be measured, for example, by measuring loss of a resident plasmid from a microorganism due to introduction of an incoming plasmid into the microorganism, as discussed, for example, by Saadi et al. 
+ As used herein, the term inc coding strand means a DNA molecule strand, or portion of a DNA molecule strand, that encodes the sequence of an inc RNA. 
+ As used herein, the term variant inc RNA means an inc RNA that has a nucleotide sequence that differs from the sequence of a wild-type inc RNA based on addition, deletion, and/or substitution of at least one nucleotide relative to the sequence of the wild-type inc RNA. 
+ As used herein, the term variant inc coding strand means a DNA molecule that encodes the sequence of a variant inc RNA. 
+ As used herein, the term replicon means a region of a DNA molecule that replicates from a single origin of replication. 
+ As used herein, the term vector means a nucleic acid molecule that can occur in a microorganism, naturally or by introduction into the microorganism, such as a plasmid, a viral vector, a cosmid, or an artificial chromosome. 
+ As used herein, the term plasmid means a nucleic acid molecule that can occur in a microorganism, naturally or by introduction into the microorganism, that is physically separate from chromosome(s) of the microorganism, and that replicates independently of the chromosome(s). As discussed above, plasmids are typically double-stranded circular DNA molecules, but can also be linear DNA molecules and/or RNA molecules. Plasmids occur in a range of sizes, from about 1 kb to more than 2 Mb. Plasmids also occur in a range of copies per cell, from low copy number to high copy number. Plasmids can be modified to include target genes. 
+ As used herein, the term plasmid copy number means the number of copies a plasmid in a cell of a microorganism. Plasmid copy number can be measured for a plasmid in a microorganism, for example, by using Real-time PCR to compare the number of copies of a gene that occurs in a single copy on the plasmid relative to a gene that occurs in a single copy on a chromosome of the microorganism, among other approaches. 
+ As used herein, the term regulator of plasmid copy number means a factor, such as an RNA molecule or a protein, that causes a change in copy number of a plasmid in a microorganism, for example an increase or a decrease, when the factor is present in the microorganism versus when the factor is not present in the microorganism. By regulating plasmid copy number, it is possible to stably express the plasmid, thereby enabling the stable growth of the microorganism including the plasmid. 
+ As noted, a nucleic acid molecule comprising a variant inc coding strand that comprises SEQ ID NO: 15 is disclosed. As also noted, SEQ ID NO: 15 corresponds to a DNA sequence. The nucleic acid molecule can be, for example, a double-stranded DNA molecule, a single-stranded DNA molecule, or a combination thereof. 
+ The variant inc coding strand encodes a variant inc RNA. The RNA sequence of the variant inc RNA can be inferred from the DNA sequence of the variant inc coding strand. As discussed above, the variant inc coding strand includes a central domain that differs from the wild-type central domain by a single substitution, namely C to T at  nucleotide position  60, with positions numbered according to SEQ ID NO: 17. Accordingly, the inferred sequence of the variant inc RNA includes a corresponding C to U substitution at this position. Like the five previously disclosed coding strands for inc RNA, the inferred sequence of the variant inc RNA also may vary depending on the source of the variant inc coding strand. The inferred sequence also may vary depending on the 5′ end and the 3′ end predicted for the inc RNA. Thus, for example, the variant inc coding strand may include the C to T substitution at  nucleotide position  60 and otherwise be identical to the coding strand for inc RNA of  E. coli  NCM3722. Also for example, the variant inc coding strand may include one or more of the substitutions observed between the five previously disclosed coding strands for inc RNA as shown in  FIG.  2   , and thus at nucleotide positions 42 (C or T), 66 (C or A), and 89 (T or G), with positions numbered according to SEQ ID NO: 17. Also for example, the variant inc coding strand may vary at its 5′ end and its 3′ end, depending on the actual 5′ end and the actual 3′ end for the variant inc RNA encoded by the variant inc coding strand. 
+ In some examples the variant inc coding strand comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17. For reference, SEQ ID NO: 17 corresponds to a variant inc coding strand that includes the C to T substitution at  nucleotide position  60 and that is otherwise identical to the coding strand for inc RNA of  E. coli  NCM3722. Also for reference, the percentage of sequence identity between the nucleotide sequence of a variant inc coding strand and SEQ ID NO: 17 can be determined by making a pairwise sequence alignment. This can be done using EMBOSS Needle Pairwise Sequence alignment (NUCLEOTIDE) tool using default settings (matrix: DNAfull; gap open: 10; gap extend: 0.5; output format: pair; end gap penalty: false; end gap open: 10; end gap extend: 0.5) (website: ebi.ac.uk/Tools/psa/emboss_needle/nucleotide.html). This also can be done using other pairwise sequence alignment tools that are analogous. For example, the variant inc coding strand can comprise a nucleotide sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 17. 
+ In some examples, the variant inc coding strand comprises a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 90 nucleotides of SEQ ID NO: 17. For example, the variant inc coding strand can comprise a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 91, 92, 93, 94, 95, 96, 97, or 98 nucleotides of SEQ ID NO: 17. 
+ In some examples, the variant inc coding strand comprises SEQ ID NO: 17. In some examples, the variant inc coding strand consists of SEQ ID NO: 17. 
+ In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more substitutions as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17. For example, the variant inc coding strand can comprise a variant of SEQ ID NO: 17 that includes one substitution as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17. Also for example, the variant inc coding strand can comprise a variant of SEQ ID NO: 17 that includes a combination of any two of these substitutions. Also for example, the variant inc coding strand can comprise a variant of SEQ ID NO: 17 that includes all three of these substitutions. Also for example, the variant inc coding strand can consist of a variant of SEQ ID NO: 17 that includes one substitution as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17. Also for example, the variant inc coding strand can consist of a variant of SEQ ID NO: 17 that includes a combination of any two of these substitutions. Also for example, the variant inc coding strand can consist of a variant of SEQ ID NO: 17 that includes all three of these substitutions. 
+ In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 1-7 of SEQ ID NO: 17. For example, the variant inc coding strand can comprise a variant of SEQ ID NO: 17 that lacks nucleotide(s) 1, 1 and 2, 1-3, 1-4, 1-5, 1-6, or 1-7 of SEQ ID NO:17. Also for example, the variant inc coding strand can consist of a variant of SEQ ID NO: 17 that lacks nucleotide(s) 1, 1 and 2, 1-3, 1-4, 1-5, 1-6, or 1-7 of SEQ ID NO:17. 
+ In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 94-98 of SEQ ID NO: 17. For example, the variant inc coding strand can comprise a variant of SEQ ID NO: 17 that lacks nucleotide(s) 94-98, 95-98, 96-98, 97-98, or 98 of SEQ ID NO:17. Also for example, the variant inc coding strand can consist of a variant of SEQ ID NO: 17 that lacks nucleotide(s) 94-98, 95-98, 96-98, 97-98, or 98 of SEQ ID NO:17. 
+ In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more other substitutions in addition to, or other than, at nucleotide positions 42, 66, and 89. For example, as discussed above, the inc RNA of RepFIC is predicted to have a stem-loop structure that is believed to be critical for function of the inc RNA. Accordingly, in some examples the variant inc coding strand can comprise additional substitutions that do not disrupt the stem-loop structure, e.g. pairs of substitutions that maintain the stem-loop structure. 
+ The variant inc RNA is a regulator of plasmid copy number. More broadly, the variant inc RNA is a regulator of replicon copy number and vector copy number. As discussed above with respect to plasmids, a replicon corresponds to a region of a DNA molecule that replicates from a single origin of replication. The DNA molecule can be, for example, a vector, such as a plasmid, a viral vector, a cosmid, or an artificial chromosome. As discussed above, RepFIC is a replicon of IncFI plasmids. Also as discussed, the inc RNA of RepFIC determines incompatibility of the RepFIC replicon based on its sequence and structure. As also discussed, a variant inc coding strand that includes the C to T substitution and that is otherwise identical to the coding strand for inc RNA of  E. coli  NCM3722 exhibits an increase in plasmid copy number. 
+ Thus, the variant inc RNA can be a regulator of plasmid copy number based on determining incompatibility of the replicon that encodes the variant inc RNA. For example, the variant inc RNA can affect segregational stability of a plasmid, and thus copy number of the plasmid, in a strain that includes the plasmid and another plasmid that is incompatible. Also, the variant inc RNA can be a regulator of copy number based on including the C to T substitution and thereby exhibiting an increase in plasmid copy number in a strain including the plasmid, relative to a strain including a plasmid including a replicon including a coding strand for inc RNA that does not include the C to T substitution. For example, the variant inc RNA can exhibit an increase in plasmid copy number of, for example 5 to 15 fold. 
+ More generally, the variant inc RNA can be a regulator of replicon copy number and vector copy number. Thus, along with being a regulator of plasmid copy number, e.g. for vectors that correspond to plasmids, the variant inc RNA also can be a regulator of copy number of viral vectors, cosmids, and/or artificial chromosomes, e.g. for vectors corresponding to viral vectors, cosmids, and/or artificial chromosomes. 
+ In some examples, expression of the variant inc RNA increases copy number of a vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. For example, expression of the variant inc RNA can increase copy number of a vector relative to expression of wild-type inc RNA encoded by the coding strand for inc RNA of  E. coli  NCM3722. In some examples, the vector corresponds to one or more of a plasmid, a viral vector, a cosmid, or an artificial chromosome. In some examples, expression of the variant inc RNA increases copy number of a vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19 by 1 to 50 fold, e.g. by 2 to 40 fold, 3 to 30 fold, 4 to 20 fold, 1 to 10 fold, 5 to 15 fold, 10 to 20 fold, 15 to 25 fold, 20 to 30 fold, 25 to 35 fold, 30 to 40 fold, 35 to 45 fold, or 40 to 50 fold. 
+ A replicon comprising the nucleic acid molecule, a promoter, and an origin of replication also is disclosed. The promoter is operably linked to the variant inc coding strand. The variant inc RNA regulates copy number of the replicon. 
+ The nucleic acid molecule can be as described above. Thus, in some examples expression of the variant inc RNA increases copy number of a vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19, as discussed above. In some examples the variant inc coding strand comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17, as discussed above. In some examples the variant inc coding strand comprises SEQ ID NO: 17, as discussed above. 
+ For reference, a promoter is a combination of short sequence elements to which RNA polymerase binds in order to initiate transcription of a gene. By the promoter being operably linked to the variant inc coding strand, it is meant that the promoter is a promoter for the variant inc coding strand. An origin of replication is a particular sequence at which replication is initiated. 
+ In some examples, the replicon comprises a variant RepFIC replicon, and the nucleic acid molecule is part of the variant RepFIC replicon. As discussed above, RepFIC is a replicon of IncFI plasmids, which is present in complete form in plasmid P307, and which is present in truncated form in plasmid F. As also discussed, the inferred sequence of inc RNA of RepFIC varies depending on source and predicted ends. The variant RepFIC replicon is a variant based on including the central domain that differs from the wild-type central domain by the single C to T substitution, as discussed above. Thus, the variant RepFIC replicon can be a variant relative to another RepFIC replicon present in complete form or a RepFIC replicon present in truncated form, with the variant RepFIC replicon including the central domain that differs from the wild-type central domain by the single C to T substitution, and the other RepFIC replicon not including the single C to T substitution. Also, the variant RepFIC replicon can be a variant relative to another RepFIC replicon that includes any of the other substitutions discussed above, or other additional substitutions, with the variant RepFIC replicon including the central domain that differs from the wild-type central domain by the single C to T substitution, and the other RepFIC replicon not including the single C to T substitution. 
+ A vector comprising the replicon also is disclosed. The replicon can be as described above. Thus, in some examples the replicon comprises a variant repFIC replicon, and the nucleic acid molecule is part of the variant repFIC replicon, as discussed above. 
+ In some examples, the variant inc RNA increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19, as discussed above. 
+ In some examples, the vector comprises a plasmid. As discussed above, a vector can correspond to one or more of a plasmid, a viral vector, a cosmid, or an artificial chromosome. Thus, in some examples the vector corresponds to a plasmid. 
+ In some examples, the vector further comprises a target gene for making a target product. The vector can be, for example, a recombinant plasmid including a target gene from an organism, such as a microorganism of the domain Bacteria, Archaea, or Eukaryota, an animal, and/or a plant, among other organisms. Regarding a microorganism of the domain Bacteria in particular, the target gene can be from, for example, a bacterium of the genus  Escherichia , such as  Escherichia coli , a bacterium of the genus  Corynebacterium , such as  Corynebacterium glutamicum , or a bacterium of the genus  Bacillus , such as  Bacillus subtilis , among others. Numerous techniques for genetic engineering have been developed, allowing recombinant expression of genes of diverse organisms, including microorganisms of the domain Bacteria, Archaea, and Eukaryota, as well as animals and plants, among other organisms. Such techniques can be applied to clone and express target genes from diverse organisms in a recombinant microorganism in accordance with the present disclosure, as will be apparent to a person of ordinary skill in the art. 
+ In some examples, the target product comprises one or more of (i) a target RNA, (ii) a target protein, (iii) a target biomaterial, (iv) a target polymer, precursor thereof, and/or enzyme for production thereof, (v) a target sweetener, precursor thereof, and/or enzyme for production thereof, (vi) a target oil, precursor thereof, and/or enzyme for production thereof, (vii) a target fat, precursor thereof, and/or enzyme for production thereof, (viii) a target polysaccharide, precursor thereof, and/or enzyme for production thereof, (ix) a target amino acid, precursor thereof, and/or enzyme for production thereof, (x) a target nucleotide, precursor thereof, and/or enzyme for production thereof, (xi) a target vaccine, precursor thereof, and/or enzyme for production thereof, or (xii) a target pharmaceutical product, precursor thereof, and/or enzyme for production thereof. Thus, in some examples the target gene encodes a target RNA, and the target product corresponds to the target RNA. Also in some examples the target gene encodes a target protein, and the target product corresponds to the target protein. Also in some examples the target gene encodes a target RNA and/or a target protein, and the target RNA and/or target protein play a role in turn in producing a target biomaterial, a target polymer, precursor thereof, and/or enzyme for production thereof, a target sweetener, precursor thereof, and/or enzyme for production thereof, a target oil, precursor thereof, and/or enzyme for production thereof, a target fat, precursor thereof, and/or enzyme for production thereof, a target polysaccharide, precursor thereof, and/or enzyme for production thereof, a target amino acid, precursor thereof, and/or enzyme for production thereof, a target nucleotide, precursor thereof, and/or enzyme for production thereof, a target vaccine, precursor thereof, and/or enzyme for production thereof, or a target pharmaceutical product, precursor thereof, and/or enzyme for production thereof. For example, with respect to a target polymer, a target sweetener, a target oil, a target fat, a target polysaccharide, a target amino acid, and/or a target nucleotide, the target gene can encode a target protein that corresponds to an enzyme that produces the target polymer, the target sweetener, the target oil, the target fat, the target polysaccharide, the target amino acid, and/or the target nucleotide, either directly or through a precursor. Also for example, with respect to a vaccine, the target gene can encode a target protein that corresponds to an antigen or antigen fragment, e.g. a protein subunit, a receptor, or other protein of a pathogenic microorganism, or a fragment thereof, that can be used as a component of a vaccine against the pathogenic microorganism. Also for example, with respect to a target pharmaceutical product, the target gene can encode a target protein, such as an antibody, a receptor, or a hormone, that can be used as a component of a pharmaceutical product. 
+ In some examples, the vector comprises a plurality of target genes, e.g. multiple target genes from a particular organism, and/or one or more target genes from each of multiple organisms. Also in some examples, the target gene is for making a plurality of target products. 
+ In some examples, the vector, e.g. a plasmid, has a size of 3 to 120 kb. Recombinant vectors often occur in sizes of 3 to 120 kb, as these are typical sizes for vectors into which target genes have been cloned. As noted above, a variant inc coding strand that includes the C to T substitution and that is otherwise identical to the coding strand for inc RNA of  E. coli  NCM3722 exhibits an increase in plasmid copy number of, for example, about 5 to 15 fold. As discussed below, and as shown in  FIG.  5    and  FIG.  6   , the corresponding plasmids for which the increase in plasmid copy number was observed, and F-like plasmid of  E. coli  NCM3722 from which the corresponding RepFIC replicon was obtained, occur in sizes within the range of 3 to 120 kb, demonstrating relevance of the variant inc coding strand in regulating copy number of plasmids, and thus vectors, with sizes within this range. 
+ A recombinant microorganism comprising the replicon also is disclosed. The replicon can be as described above. 
+ A recombinant microorganism comprising the vector also is disclosed. The vector can be as described above. Thus, in some examples expression of the variant inc RNA increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. Also in some examples the vector comprises a plasmid. Also in some examples the vector further comprises a target gene for making a target product. Also in some examples the target product comprises one or more of the target products as recited above. 
+ In some examples expression of the variant inc RNA in the recombinant microorganism increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19 in a control microorganism. The control microorganism can be, for example, derived from the same genus, species, and/or strain as the recombinant microorganism, and can include similar or identical plasmids and/or target genes, and thus can be phylogenetically similar, closely related, and/or genetically identical other than with respect to differences between the variant inc coding sequence of the recombinant microorganism and the corresponding inc sequence of the control microorganism. Similarly as discussed above, the increase can be by 1 to 50 fold, e.g. by 2 to 40 fold, 3 to 30 fold, 4 to 20 fold, 1 to 10 fold, 5 to 15 fold, 10 to 20 fold, 15 to 25 fold, 20 to 30 fold, 25 to 35 fold, 30 to 40 fold, 35 to 45 fold, or 40 to 50 fold. 
+ In some examples, the variant inc coding strand of the recombinant microorganism comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17, as discussed above. For example, the variant inc coding strand can comprise a nucleotide sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 17, as discussed. Also, in some examples, the variant inc coding strand comprises a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 90 nucleotides of SEQ ID NO: 17, as discussed. For example, the variant inc coding strand can comprise a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 91, 92, 93, 94, 95, 96, 97, or 98 nucleotides of SEQ ID NO: 17, as discussed. 
+ In some examples, the variant inc coding strand of the recombinant microorganism comprises SEQ ID NO: 17, as discussed above. Also, in some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more substitutions as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 1-7 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 94-98 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more other substitutions in addition to, or other than, at nucleotide positions 42, 66, and 89, as discussed. 
+ In some examples the recombinant microorganism can be prepared by introducing the vector into a precursor microorganism by one or more of transformation, conjugation, or transduction. The precursor microorganism can be a microorganism into which the vector is introduced directly, such that the recombinant microorganism is genetically identical to the precursor microorganism except that recombinant microorganism includes the vector. Transformation can be carried out by transfer of the vector in isolated form into cells of the precursor microorganism, for example, by a chemical technique, e.g. calcium chloride transformation, or by a physical technique, e.g. by electroporation. Conjugation can be carried out based on the vector including genes for synthesis of pili, and contacting cells of a donor microorganism including the vector with cells of the precursor microorganism, which will receive the vector. Transduction can be carried out based on use of a virus to accomplish transfer of the vector into cells of the precursor microorganism. Each can be carried out by standard techniques of molecular biology. 
+ In some examples, the recombinant microorganism can be prepared from one or more of a bacterium of the genus  Escherichia  or a bacterium of the species  Escherichia coli . As noted above, RepFIC is a replicon of IncFI plasmids. These plasmids occur naturally in  E. coli . The RepFIC replicon functions in  E. coli . Accordingly, the nucleic acid molecule comprising the variant inc coding strand can regulate plasmid copy number in a bacterium of the genus  Escherichia , particularly a bacterium of the species  Escherichia coli . Also in some examples, the recombinant microorganism can be prepared from another bacterium, i.e. from a bacterium other than of the genus  Escherichia  or the species  Escherichia coli.    
+ A method for regulating copy number of the vector in a recombinant microorganism also is disclosed. Use of the variant inc coding strand for regulating copy number of the vector in the recombinant microorganism also is disclosed. 
+ The vector can be as described above. Thus, again in some examples expression of the variant inc RNA increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. Also in some examples the vector comprises a plasmid. Also in some examples the vector further comprises a target gene for making a target product. Also in some examples the target product comprises one or more of the target products as recited above. 
+ The recombinant microorganism also can be as described above. Thus, again in some examples the variant inc coding strand of the recombinant microorganism comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17, as discussed above. Again, for example, the variant inc coding strand can comprise a nucleotide sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 17, as discussed. Also, in some examples, the variant inc coding strand comprises a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 90 nucleotides of SEQ ID NO: 17, as discussed. For example, the variant inc coding strand can comprise a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 91, 92, 93, 94, 95, 96, 97, or 98 nucleotides of SEQ ID NO: 17, as discussed. Also again, in some examples, the variant inc coding strand of the recombinant microorganism comprises SEQ ID NO: 17, as discussed above. Also, in some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more substitutions as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 1-7 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 94-98 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more other substitutions in addition to, or other than, at nucleotide positions 42, 66, and 89, as discussed. 
+ The method comprises a step of (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism. The vector can be introduced, for example, by one or more of transformation, conjugation, or transduction, as discussed above. The recombinant microorganism can be prepared, for example, from one or more of a bacterium of the genus  Escherichia  or a bacterium of the species  Escherichia coli , as discussed. 
+ The method also comprises a step of (2) cultivating the recombinant microorganism in a culture medium under conditions sufficient for replication of the vector, thereby regulating copy number of the vector. The cultivation can be carried out by standard techniques of microbiology, for example in culture tubes, flasks, and/or bioreactors, the details of which will be apparent to a person of ordinary skill in the art. The cultivation can be carried out in suitable culture media, e.g. a nutrient rich medium or a minimal medium, the details of which also will be apparent to a person of ordinary skill in the art. The cultivation can be carried out at suitable incubation temperatures, e.g. at or about 25-38° C., 28-37° C., or 37° C., the details of which also will be apparent to a person of ordinary skill in the art. As the recombinant microorganism grows and divides during cultivation, the vector will replicate. Thus, for example, regarding a recombinant microorganism prepared from  Escherichia coli , the recombinant microorganism can be cultivated by a fermentation technique, in batch or continuously, in a bioreactor. The cultivation can be carried out in a minimal medium, e.g. a medium including defined amounts of salts such as M9 Minimal Salts Medium, and one or more carbon sources, e.g. glucose, sucrose, or lignocellulosic materials, among others. The cultivation can be carried out at about 37° C. Such conditions support growth and division of  Escherichia coli , and thus will support replication of the vector. Other suitable conditions for cultivation of recombinant microorganisms prepared from  Escherichia coli , as well as from other microorganisms, are known and will be apparent to a person of ordinary skill in the art. 
+ In some examples, expression of the variant inc RNA in the recombinant microorganism increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19 in a control microorganism, as discussed above. Thus, the control microorganism can be, for example, derived from the same genus, species, and/or strain as the recombinant microorganism, and can include similar or identical plasmids and/or target genes. 
+ A method for making a target product by use of the vector in a recombinant microorganism also is disclosed. Use of the vector in a recombinant microorganism for making a target product also is disclosed. 
+ The vector can be as described above. Thus, again in some examples expression of the variant inc RNA increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. Also in some examples the vector comprises a plasmid. 
+ The recombinant microorganism also can be as described above. Thus, again in some examples the variant inc coding strand of the recombinant microorganism comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17, as discussed above. Again, for example, the variant inc coding strand can comprise a nucleotide sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 17, as discussed. Also, in some examples, the variant inc coding strand comprises a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 90 nucleotides of SEQ ID NO: 17, as discussed. For example, the variant inc coding strand can comprise a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 91, 92, 93, 94, 95, 96, 97, or 98 nucleotides of SEQ ID NO: 17, as discussed. Also again, in some examples, the variant inc coding strand of the recombinant microorganism comprises SEQ ID NO: 17, as discussed above. Also, in some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more substitutions as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 1-7 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 94-98 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more other substitutions in addition to, or other than, at nucleotide positions 42, 66, and 89, as discussed. 
+ The target product also can be as described above. For example, the target product can comprise one or more of (i) a target RNA, (ii) a target protein, (iii) a target biomaterial, (iv) a target polymer, precursor thereof, and/or enzyme for production thereof, (v) a target sweetener, precursor thereof, and/or enzyme for production thereof, (vi) a target oil, precursor thereof, and/or enzyme for production thereof, (vii) a target fat, precursor thereof, and/or enzyme for production thereof, (viii) a target polysaccharide, precursor thereof, and/or enzyme for production thereof, (ix) a target amino acid, precursor thereof, and/or enzyme for production thereof, (x) a target nucleotide, precursor thereof, and/or enzyme for production thereof, (xi) a target vaccine, precursor thereof, and/or enzyme for production thereof, or (xii) a target pharmaceutical product, precursor thereof, and/or enzyme for production thereof 
+ The vector further comprises a target gene for making the target product, as discussed above. 
+ The method comprises a step of (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism, as discussed above. Again, the vector can be introduced, for example, by one or more of transformation, conjugation, or transduction, as discussed above. The recombinant microorganism can be prepared, for example, from one or more of a bacterium of the genus  Escherichia  or a bacterium of the species  Escherichia coli , as discussed. 
+ The method also comprises a step of (2) cultivating the recombinant microorganism in a culture medium under conditions under which the recombinant microorganism expresses the target gene, thereby making the target product, as discussed above. 
+ The method also comprises a step of (3) recovering the target product from the recombinant microorganism and/or the culture medium. Suitable approaches for recovering the target product can be developed based on details of the target product, e.g. standard techniques of protein purification for a target product corresponding to a target protein, or standard techniques of polymer extraction and precipitation for a target product corresponding to a target polymer, among other approaches, the details of which will be apparent to a person of ordinary skill in the art, depending for example on the type of target product, e.g. RNA, protein, polymer, etc., specific details of the target product, e.g. chemical structure, molecular weight, affinity tag, etc., and desired purity, e.g. low to high. For example, regarding a target product corresponding to a target RNA, following cultivation of the recombinant microorganism, the target RNA can be recovered from the recombinant microorganism by use of an RNAsnap(™) method, as described by Stead et al., Nucleic Acids Research 40(20), e156:1-9 (2012), or by commercially available methods such as TRIzol(R) Max(™) Bacteria RNA isolation kit (ThermoFisher Scientific), RNeasy(R) Protect Bacteria isolation kit (Qiagen), or RiboPure(™) Bacteria RNA isolation (ThermoFisher Scientific), among other methods known in the art. For a target product corresponding to a target protein, the target protein can be recovered from the recombinant microorganism by extraction, ion-exchange chromatography, affinity chromatography, and/or concentration by precipitation, according to procedures well known in the art. For a target product corresponding to a target polymer, the target polymer can be recovered by extraction, washing, and concentration, with compositions for washing and precipitants for concentration chosen based on chemical structure and molecular weight, also according to procedures well known in the art. For a target product corresponding to a target sweetener, a target oil, a target fat, a target polysaccharide, a target amino acid, or a target nucleotide, if the target product accumulates within the recombinant microorganism, then similar approaches also can be used, whereas if the target product accumulates extracellularly, then the target product can be recovered, e.g. by precipitation from the culture medium, again according to procedures well known in the art. For a target product corresponding to a target vaccine or a target pharmaceutical product, the target product can be recovered, for example, as described above for a target protein, e.g. based on ion-exchange chromatography for a target vaccine corresponding to an antigen or an antigen fragment, or based on affinity chromatography for a pharmaceutical product corresponding to a monoclonal antibody, among other approaches, again according to procedures well known in the art. 
+ In some examples expression of the variant inc RNA in the recombinant microorganism increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19 in a control microorganism, as discussed above. Again, the control microorganism can be, for example, derived from the same genus, species, and/or strain as the recombinant microorganism, and can include similar or identical plasmids and/or target genes. 
+ Considering the target product in more detail, in some examples the target product comprises one or more of (i) a target polymer, precursor thereof, and/or enzyme for production thereof, or (ii) a target biopolymer, precursor thereof, and/or enzyme for production thereof. Biological production of polymers, including biopolymers, can be challenging, based on a need for coordinated introduction and expression of multiple target genes in a recombinant microorganism, particularly for polymers based on monomers having complicated chemical structures and/or copolymers including two or more monomers. Similar considerations also apply regarding other target products as discussed above, particularly a target sweetener, a target fat, a target polysaccharide, a target amino acid, a target nucleotide, a target vaccine, and a target pharmaceutical product. 
+ The method can be useful for rapidly determining suitable copy numbers for the vectors comprising multiple target genes, e.g. for production of a target polymer, a target biopolymer, a target sweetener, a target fat, a target polysaccharide, a target amino acid, or a target nucleotide, for balancing stable incorporation of the vectors in recombinant microorganisms and control of yield of products of the target genes. A first set of vectors can be prepared that include RepFIC replicons including the wild-type central domain and that cover a first range of vector copy numbers, from low to high (e.g. based on relatively large to small vector size). A second set of vectors can be prepared that is identical to the first except that the vectors of the second set include the variant central domain, and thus cover a second, higher range of vector copy numbers. A set of target genes can be cloned into each vector. The method can be carried out using each of the vectors, including the steps of (1) introducing the vectors, (2) cultivating the corresponding recombinant microorganisms, and (3) recovering the corresponding target product(s). Copy numbers can be determined for each vector during the cultivating. Yields of the target products or other relevant characteristics can be determined during the recovering. This approach can substantially increase the upper limit of copy number that can be achieved for the first set of vectors, which can be advantageous for maximizing yields in cases for which overexpression of target genes is well tolerated. This approach also can effectively double sample size with respect to testing effects of vector copy number on yields of a target product. This approach can particularly be used for vectors corresponding to plasmids, including plasmids in sizes of 3 to 120 kb and/or including multiple target genes. 
+ Another recombinant microorganism comprising the vector, and in this case also comprising a nucleic acid molecule comprising a variant rpoC RNA-polymerase β′ subunit protein coding sequence (also termed “variant rpoC coding sequence”), also is disclosed. 
+ The vector can be as described above. Thus, again in some examples expression of the variant inc RNA increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. Also in some examples the vector comprises a plasmid. 
+ The recombinant microorganism also can be as described above. Thus, again in some examples the variant inc coding strand of the recombinant microorganism comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17, as discussed above. Again, for example, the variant inc coding strand can comprise a nucleotide sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 17, as discussed. Also, in some examples, the variant inc coding strand comprises a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 90 nucleotides of SEQ ID NO: 17, as discussed. For example, the variant inc coding strand can comprise a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 91, 92, 93, 94, 95, 96, 97, or 98 nucleotides of SEQ ID NO: 17, as discussed. Also again, in some examples, the variant inc coding strand of the recombinant microorganism comprises SEQ ID NO: 17, as discussed above. Also, in some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more substitutions as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 1-7 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 94-98 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more other substitutions in addition to, or other than, at nucleotide positions 42, 66, and 89, as discussed. 
+ As noted, in this case the recombinant microorganism comprises, along with the vector, another nucleic acid molecule comprising a variant rpoC coding sequence. The variant rpoC coding sequence encodes a variant RpoC RNA-polymerase β′ subunit protein (also termed “variant RpoC”). The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC RNA-polymerase β′ subunit protein (wild-type RpoC) of  Escherichia coli.    
+ Surprisingly, it has been determined that a nucleic acid molecule comprising a variant rpoC coding sequence, wherein the variant rpoC coding sequence encodes a variant RpoC, and the variant RpoC comprises an R47C substitution, can be used to cause a substantial decrease in copy number of a plasmid in a recombinant microorganism comprising the nucleotide sequence, without causing a corresponding decrease in chromosomal copy number. This is surprising, among other reasons, because the R47C substitution as disclosed herein occurs in an N-terminal domain sequence of RpoC, whereas the mutants of  E. coli  RpoC including single substitutions as described by Ederth et al. and Petersen et al. included mutations only near the 3′-terminal region of the rpoC gene, and thus in C-terminal domain sequences of RpoC. This also is surprising because the R47C substitution as disclosed herein occurs within a nine amino acid residue N-terminal domain sequence that is otherwise strictly conserved among RpoCs of diverse bacteria, whereas the single substitutions in the mutants of  E. coli  RpoC as described by Ederth et al. and Petersen et al. occur at positions within the RpoC sequence that are not surrounded by conserved residues, and thus that do not occur within conserved sequences. 
+ Without wishing to be bound by theory, it is believed that wild-type RpoCs from diverse bacteria include an N-terminal domain sequence, corresponding to residues 40-48 of SEQ ID NO: 44, that is strictly conserved among the wild-type RpoCs. As shown in  FIG.  7   , this sequence is strictly conserved among 19 diverse bacteria, namely  Thermus thermophilus, Acetobacter pasteurianus, Neisseria gonorrhoeae, Legionella pneumophila, Pseudomonas aeruginosa, Vibrio cholerae, Escherichia coli, Salmonella enterica serovar Typhimurium, Actinomyces odontolyticus, Streptomyces coelicolor, Corynebacterium diphtheriae, Mycobacterium tuberculosis, Rhodococcus equi, Chlamydia trachomatis, Clostridium botulinum, Bacillus subtilis, Streptococcus pneumoniae, Enterococcus faecalis , and  Lactobacillus brevis , representing diverse phylogenies, metabolisms, and environments. For reference, these sequences correspond to full length RpoC sequences available from the alignment of the C-terminal domain of RpoCs of the 21 strains as provided by Lee et al. It also is believed that wild-type RpoCs from a diverse range of bacteria also include a central domain sequence, corresponding to SEQ ID NO: 47, that also is strictly conserved among the wild-type RpoCs. As shown in  FIG.  8   , this sequence also is strictly conserved among the 19 diverse bacteria. It also is believed that wild-type RpoCs from a diverse range of bacteria also include a C-terminal domain sequence, corresponding to SEQ ID NO: 48, that also is strictly conserved among the wild-type RpoCs. As shown in  FIG.  9 A-B , this sequence also is strictly conserved among the 19 diverse bacteria. 
+ It further is believed that a longer N-terminal domain sequence, corresponding to residues 33-57 of SEQ ID NO: 44, a longer central domain sequence, corresponding to SEQ ID NO: 50, and a longer C-terminal domain sequence, corresponding to SEQ ID NO: 51, including the strictly conserved N-terminal, central, and C-terminal domain sequences, respectively, include numerous residues that are generally conserved among RpoCs of the 19 diverse bacteria. As shown in  FIG.  7   ,  FIG.  8   , and  FIG.  9 A-B ,  E. coli  RpoC includes these longer sequences. Also, the RpoCs from the other bacteria include sequences that are highly similar to these longer sequences. 
+ Because the wild-type RpoCs from diverse bacteria include the strictly conserved N-terminal, central, and C-terminal domain sequences, it is believed that these sequences are also strictly conserved among wild-type RpoCs of other bacteria. For context, as shown in TABLE 1, results for pairwise sequence alignments of RpoC of  E. coli  compared to RpoCs of the other 18 diverse bacteria indicate a relatively high degree of sequence identity and similarity, even for RpoCs of bacteria, such as the extreme thermophile  Thermus thermophilus , that are distant from  E. coli  phylogenetically, metabolically, and environmentally. This is consistent with the fundamental roles that RpoC plays in transcription and replication. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+ 
+   
+ 
+ 
+ Results for pairwise sequence alignments of RpoC of  E. coli  compared to RpoCs of other bacteria. * 
+ 
+ 
+ 
+ 
+ Bacterium 
+ Accession 
+ Length 
+ Identity 
+ Similarity 
+ Gaps 
+ Score 
+ Sequence 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Thermus 
+ 
+ sp|Q8RQE8.1|RPOC_THET8 
+ 1765 
+ 36.1% 
+ 48.3% 
+ 33.9% 
+ 2851.0 
+ SEQ ID 
+ 
+ 
+ 
+ thermophilus 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 52 
+ 
+ 
+ 
+ Acetobacter 
+ 
+ BAH99075.1 
+ 1439 
+ 59.6% 
+ 74.6% 
+ 5.6% 
+ 4334.5 
+ SEQ ID 
+ 
+ 
+ 
+ pasteurianus 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 53 
+ 
+ 
+ 
+ Neisseria 
+ 
+ sp|Q5F5R6.1|RPOC_NEIG1 
+ 1412 
+ 66.1% 
+ 80.4% 
+ 1.8% 
+ 4851.0 
+ SEQ ID 
+ 
+ 
+ 
+ gonorrhoeae 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 54 
+ 
+ 
+ 
+ Legionella 
+ 
+ sp|Q5X865.1|RPOC_LEGPA 
+ 1413 
+ 71.8% 
+ 83.3% 
+ 1.3% 
+ 5223.0 
+ SEQ ID 
+ 
+ 
+ 
+ pneumophila 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 55 
+ 
+ 
+ 
+ Pseudomonas 
+ 
+ sp|Q9HWC9.1|RPOC_PSEAE 
+ 1408 
+ 75.4% 
+ 85.6% 
+ 0.7% 
+ 5477.0 
+ SEQ ID 
+ 
+ 
+ 
+ aeruginosa 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 56 
+ 
+ 
+ 
+ Vibrio cholerae 
+ 
+ sp|Q9KV29.1|RPOC_VIBCH 
+ 1407 
+ 82.4% 
+ 89.8% 
+ 0.4% 
+ 5941.0 
+ SEQ ID 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+ NO: 57 
+ 
+ 
+ 
+ Escherichia coli 
+ 
+ sp|P0A8T7.1|RPOC_ECOLI 
+ 1407 
+ 100.0% 
+ 100.0% 
+ 0.0% 
+ 7139.0 
+ SEQ ID 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+ NO: 44 
+ 
+ 
+ 
+ Salmonella 
+ 
+ sp|P0A2R4.1|RPOC_SALTY 
+ 1407 
+ 98.6% 
+ 99.3% 
+ 0.0% 
+ 7057.0 
+ SEQ ID 
+ 
+ 
+ 
+ enterica serovar 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 58 
+ 
+ 
+ 
+ Typhimurium 
+ 
+ 
+ 
+ 
+ Actinomyces 
+ 
+ EDN79927.1 
+ 1529 
+ 40.9% 
+ 54.7% 
+ 23.0% 
+ 2883.5 
+ SEQ ID 
+ 
+ 
+ 
+ odontolyticus 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 59 
+ 
+ 
+ 
+ Streptomyces 
+ 
+ sp|Q8CJT1.1|RPOC_STRCO 
+ 1539 
+ 42.6% 
+ 55.7% 
+ 24.2% 
+ 3048.0 
+ SEQ ID 
+ 
+ 
+ 
+ coelicolor 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 60 
+ 
+ 
+ 
+ Corynebacterium 
+ 
+ sp|Q6NJF6.1|RPOC_CORDI 
+ 1566 
+ 40.9% 
+ 54.1% 
+ 24.8% 
+ 2933.0 
+ SEQ ID 
+ 
+ 
+ 
+ diphtheriae 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 61 
+ 
+ 
+ 
+ Mycobacterium 
+ 
+ sp|A5U053.1|RPOC_MYCTA 
+ 1552 
+ 41.0% 
+ 55.0% 
+ 24.5% 
+ 2944.0 
+ SEQ ID 
+ 
+ 
+ 
+ tuberculosis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 62 
+ 
+ 
+ 
+ Rhodococcus 
+ 
+ CBH49656.1 
+ 1542 
+ 41.6% 
+ 55.6% 
+ 23.2% 
+ 2986.5 
+ SEQ ID 
+ 
+ 
+ 
+ equi 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 63 
+ 
+ 
+ 
+ Chlamydia 
+ 
+ sp|O84316.1|RPOC_CHLTR 
+ 1468 
+ 47.8% 
+ 65.6% 
+ 9.1% 
+ 3447.0 
+ SEQ ID 
+ 
+ 
+ 
+ trachomatis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 64 
+ 
+ 
+ 
+ Clostridium 
+ 
+ sp|A7FZ76.1|RPOC_CLOB1 
+ 1420 
+ 47.5% 
+ 62.7% 
+ 18.0% 
+ 3344.5 
+ SEQ ID 
+ 
+ 
+ 
+ botulinum 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 65 
+ 
+ 
+ 
+ Bacillus subtilis 
+ 
+ sp|P37871.4|RPOC_BACSU 
+ 1451 
+ 45.7% 
+ 59.4% 
+ 20.4% 
+ 3248.5 
+ SEQ ID 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+ NO: 66 
+ 
+ 
+ 
+ Streptococcus 
+ 
+ sp|Q97NQ8.1|RPOC_STRPN 
+ 1460 
+ 44.5% 
+ 58.4% 
+ 19.7% 
+ 3111.0 
+ SEQ ID 
+ 
+ 
+ 
+ pneumoniae 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 67 
+ 
+ 
+ 
+ Enterococcus 
+ 
+ sp|Q82Z41.1|RPOC_ENTFA 
+ 1454 
+ 44.8% 
+ 59.8% 
+ 19.5% 
+ 3199.0 
+ SEQ ID 
+ 
+ 
+ 
+ faecalis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 68 
+ 
+ 
+ 
+ Lactobacillus 
+ 
+ sp|Q03PV0.1|RPOC_LACBA 
+ 1449 
+ 44.4% 
+ 59.4% 
+ 19.0% 
+ 3174.5 
+ SEQ ID 
+ 
+ 
+ 
+ brevis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 69 
+ 
+ 
+   
+ 
+ 
+ * Pairwise sequence alignments were made using EMBOSS Needle Pairwise Sequence Alignment (PROTEIN) tool using default settings (matrix: BLOSUM62; gap open: 10; gap extend: 0.5; output format: pair; end gap penalty: false; end gap open: 10;, end gap extend: 0.5) (website: ebi.ac.uk/Tools/psa/emboss_needle/). 
+ 
+ 
+ 
+ 
+ 
+ Also, because the wild-type RpoCs from diverse bacteria include sequences that are highly similar to the longer N-terminal, central, and C-terminal domain sequences, it is believed that wild-type RpoCs of other bacteria include sequences that are highly similar to these sequences too. In addition, based on the various sequences being strictly or generally conserved, it is believed that the corresponding N-terminal, central, and C-terminal domain sequences make important contributions, structurally and/or functionally, in the roles that RpoC plays in transcription and in replication of chromosomes and plasmids. 
+ Also without wishing to be bound by theory, it is believed that in RpoC the N-terminal domain in particular plays an important role in determining copy number of plasmids. As shown in  FIG.  10    and  FIG.  11   , the variant rpoC coding sequence includes an N-terminal domain that includes SEQ ID NO: 46, which differs from the strictly conserved sequence of the wild-type N-terminal domain by a single substitution, namely R (i.e. arginine) to C (i.e. cysteine), at amino acid position 47 (also termed “R47C”), with numbering defined based on wild-type RpoC of  E. coli . A variant RpoC that includes this R47C substitution and that is otherwise identical to wild-type RpoC of  E. coli  exhibits a decrease in plasmid copy number of, for example, about 25% to 75%. Because the R47C substitution in the N-terminal domain is the only difference between the variant RpoC and wild-type RpoC of  E. coli , and because the R47C substitution is located within the longer N-terminal domain sequence that includes numerous residues that are generally conserved among the 19 diverse bacteria, and because no other substitutions occur within the strictly conserved N-terminal domain sequence corresponding to residues 40-48 of SEQ ID NO: 44 among the wild-type RpoCs from the 19 diverse bacteria, the N-terminal domain appears to be important in determining plasmid copy number. 
+ As used herein, the term RNA-polymerase β′ subunit protein means an RNA polymerase β′ subunit of an RNA polymerase. As discussed above, RNA polymerase plays a role in transcription. RNA polymerase also plays a role in replication of chromosomes and plasmids. An RNA-polymerase β′ subunit protein can be identified based on structural and/or functional similarity to known RNA-polymerase β′ subunit proteins, e.g. based on sequence alignments as shown by Lee et al., and/or structural features, as discussed by Mukhopadhyay et al. RNA polymerase activity can be measured, for example, as described by Chamberlin et al., The Journal of Biological Chemistry 254(20):10061-10069 (1979). 
+ As used herein, the term rpoC RNA-polymerase β′ subunit protein coding sequence means a DNA molecule strand, or portion of a DNA molecule strand, that encodes the sequence of an RNA-polymerase β′ subunit protein. 
+ As used herein, the term wild-type RNA-polymerase β′ subunit protein means an RNA-polymerase β′ subunit protein that occurs among individuals of a species under natural conditions. 
+ As used herein, the term N-terminal domain means a portion of a protein occurring at or near the N-terminus of the protein, for example within the beginning third of the amino acid sequence of the protein. 
+ As used herein, the term central domain means a portion of a protein occurring at or near the center of the protein, for example within the middle third of the amino acid sequence of the protein. 
+ As used herein, the term C-terminal domain means a portion of a protein occurring at or near the C-terminus of the protein, for example within the last third of the amino acid sequence of the protein. 
+ As noted, a nucleic acid molecule comprising a variant rpoC coding sequence is disclosed. The nucleic acid molecule can be, for example, a double-stranded DNA molecule, such as chromosomal DNA into which the variant rpoC coding sequence has been introduced, or a plasmid into which the variant rpoC coding sequence has been cloned. 
+ As also noted, the variant rpoC coding sequence encodes a variant RpoC. The variant RpoC is a variant based on comprising an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC of  E. coli . The variant RpoC is an RpoC, and thus plays roles in transcription, replication of chromosomes, and replication of plasmids. Just as the wild-type RpoCs of the 19 diverse bacteria vary with respect to each other, e.g. at amino acid positions that are not conserved, the variant RpoC also may vary depending on the source of the variant rpoC coding sequence. Thus, for example, the variant RpoC may include the R47C substitution and otherwise be at least 90% identical to wild-type RpoC of  E. coli . Also for example, the variant RpoC may include the R47C substitution and otherwise be at least 90% identical to wild-type RpoC of any of the other 18 diverse bacteria, i.e.  Thermus thermophilus, Acetobacter pasteurianus, Neisseria gonorrhoeae, Legionella pneumophila, Pseudomonas aeruginosa, Vibrio cholerae, Salmonella enterica serovar Typhimurium, Actinomyces odontolyticus, Streptomyces coelicolor, Corynebacterium diphtherias, Mycobacterium tuberculosis, Rhodococcus equi, Chlamydia trachomatis, Clostridium botulinum, Bacillus subtilis, Streptococcus pneumoniae, Enterococcus faecalis , or  Lactobacillus brevis . Also for example, the variant RpoC may include the R47C substitution and one or more portions of one or more of wild-type RpoC of  E. coli  or the other 18 diverse bacteria. 
+ In some examples, the variant RpoC further comprises: (1) an N-terminal domain comprising SEQ ID NO: 46, (2) a central domain comprising SEQ ID NO: 47, and (3) a C-terminal domain comprising SEQ ID NO: 48, wherein the R47C substitution is present within the N-terminal domain. In these examples, the variant RpoC comprises the N-terminal domain sequence corresponding to SEQ ID NO: 46, including the R47C substitution. The variant RpoC also includes the strictly conserved central domain sequence corresponding to SEQ ID NO: 47 and the strictly conserved C-terminal domain sequence corresponding to SEQ ID NO: 48, consistent with the roles that RpoC plays in transcription and in replication of chromosomes and plasmids. 
+ In some examples, the variant RpoC further comprises: (1) an N-terminal domain comprising SEQ ID NO: 49, (2) a central domain comprising SEQ ID NO: 50, and (3) a C-terminal domain comprising SEQ ID NO: 51, wherein the R47C substitution is present within the N-terminal domain. In these examples, the variant RpoC comprises the N-terminal domain sequence corresponding to SEQ ID NO: 49, including the R47C substitution. The variant RpoC also includes the generally conserved longer central domain sequence corresponding to SEQ ID NO: 50 and the generally conserved longer C-terminal domain sequence corresponding to SEQ ID NO: 51, also consistent with the roles that RpoC plays in transcription and in replication of chromosomes and plasmids. 
+ In some examples, the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 45. For reference, SEQ ID NO: 45 corresponds to a variant RpoC that includes the R47C substitution and otherwise is identical to wild-type RpoC of  E. coli . Also for reference, the percentage of sequence identity between the amino acid sequence of a variant RpoC and SEQ ID NO: 45 can be determined by making a pairwise sequence alignment. This can be done using EMBOSS Needle Pairwise Sequence Alignment (PROTEIN) tool using default settings (matrix: BLOSUM62; gap open: 10; gap extend: 0.5; output format: pair; end gap penalty: false; end gap open: 10; end gap extend: 0.5) (website: ebi.ac.uk/Tools/psa/emboss_needle/). This also can be done using other pairwise sequence alignment tools that are analogous. 
+ The amino acid sequence of a variant RpoC can differ from SEQ ID NO: 45, for example, predominantly or entirely based on substitutions of amino acid residues that are not conserved between wild-type RpoC of  E. coli  and RpoCs of the other 18 diverse bacteria. With reference to TABLE 1, although results for pairwise sequence alignments of RpoC of  E. coli  compared to RpoCs of the other 18 diverse bacteria indicate a relatively high degree of sequence identity and similarity, the results also indicate that RpoCs of 17 of the diverse bacteria have sequence identities ranging from 36.1% to 82.4% in comparison to wild-type RpoC of E. coli, and thus well below 90%. Substitutions of amino acid residues that are not conserved between similar proteins are generally more likely to be tolerated, e.g. to not disrupt structure and/or function, in comparison to substitutions of amino acid residues that are conserved. The results of TABLE 1 indicate that RpoCs include many amino acids residues that are not conserved and that thus may be amenable to substitution. 
+ The amino acid sequence of a variant RpoC also can differ from SEQ ID NO: 45, for example, based on including some or many conservative substitutions, meaning replacement of an amino acid residue with another structurally similar amino acid residue, relative to SEQ ID NO: 45. Conservative substitutions typically include substitutions within the following groups: (1) glycine and alanine, (2) valine, isoleucine, and leucine, (3) aspartic acid and glutamic acid, (4) asparagine and glutamine, (5) serine and threonine, (6) lysine and arginine, and (7) phenylalanine and tyrosine. Conservative substitutions are generally more likely to be tolerated in comparison to substitutions that are not conservative. 
+ Thus, in these examples the variant RpoC includes the R47C substitution. The variant RpoC also comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 45. For example, the variant RpoC can comprise an amino acid sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 45. 
+ In some examples, the variant RpoC comprises SEQ ID NO: 45. 
+ In some examples, expression of the variant RpoC decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 44. For reference, SEQ ID NO: 44 corresponds to wild-type RpoC of  E. coli . As noted above, the variant RpoC is an RpoC, and thus plays roles in transcription, replication of chromosomes, and replication of plasmids. Also as noted, a variant RpoC that includes the R47C substitution and that is otherwise identical to wild-type RpoC of  E. coli  exhibits a decrease in plasmid copy number of, for example, about 25% to 75%. 
+ Importantly, in the context of the recombinant microorganism, which as discussed above also comprises the vector that comprises the variant inc coding strand that comprises SEQ ID NO: 15, the presence of the variant RpoC can cause a decrease in copy number of the vector. The decrease can be, for example, to a copy number intermediate between (i) the copy number of the vector comprising a variant RepFIC replicon including the central domain that differs from the wild-type central domain by the single C to T substitution, as present in a microorganism that is expressing wild-type RpoC, and (ii) the copy number of a corresponding vector comprising the RepFIC replicon not including the single C to T substitution, also as present in a microorganism that is expressing wild-type RpoC. Thus, the presence of the variant RpoC can be used to modulate plasmid copy number, e.g. between levels that can be obtained with variant inc coding strands versus levels obtained with wild-type inc coding strands. 
+ In some examples, expression of the variant RpoC decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 44 by 10% to 80%, e.g. by 25% to 75%, 30% to 70%, 35% to 65%, 40% to 60%, 45% to 55%, 10% to 40%, 20% to 50%, 30% to 60%, 40% to 70%, or 50% to 80%. 
+ The recombinant microorganism comprising the nucleic acid molecule comprising the variant rpoC coding sequence can be obtained, for example, by introducing a complete variant rpoC coding sequence, e.g. cloned in a vector, into a precursor microorganism, e.g. by transformation, conjugation, or transduction, to obtain the recombinant microorganism, and then maintaining the complete variant rpoC coding sequence in the recombinant microorganism, e.g. by selection of the vector. This can be accomplished by standard techniques of molecular biology. In some examples the recombinant microorganism can be prepared by introducing an rpoC coding sequence vector, e.g. a plasmid, comprising the nucleic acid sequence into a precursor microorganism by one or more of transformation, conjugation, or transduction. 
+ The recombinant microorganism comprising the nucleic acid molecule comprising the variant rpoC coding sequence also can be obtained, for example, by introducing a portion of a variant rpoC coding sequence, e.g. cloned in a vector, and using the portion to replace a corresponding portion of an endogenous chromosomal wild-type rpoC coding sequence, e.g. by gene replacement by homologous recombination, e.g. by using a sacB vector. This also can be accomplished by standard techniques of molecular biology. Thus, in some examples, the recombinant microorganism comprises a chromosome, and the variant rpoC coding sequence is present in the chromosome based on replacement of an endogenous rpoC coding sequence by the variant rpoC coding sequence. 
+ As noted above, a variant RpoC that includes the R47C substitution and that is otherwise identical to wild-type RpoC of  E. coli  exhibits a decrease in plasmid copy number of, for example, about 25% to 75%. As discussed below, this has been achieved in various  E. coli  strains. Accordingly, the nucleic acid molecule comprising the variant rpoC coding strand can regulate plasmid copy number specifically in a bacterium of the genus  Escherichia , particularly a bacterium of the species  Escherichia coli.    
+ Another method for regulating copy number of the vector in a recombinant microorganism also is disclosed, in this case with the recombinant microorganism comprising the nucleic acid molecule comprising a variant rpoC coding sequence as described above. 
+ The vector can be as described above. Thus, again in some examples expression of the variant inc RNA increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. Also in some examples the vector comprises a plasmid. 
+ The recombinant microorganism also can be as described above. Thus, again in some examples the variant inc coding strand of the recombinant microorganism comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17, as discussed above. Again, for example, the variant inc coding strand can comprise a nucleotide sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 17, as discussed. Also, in some examples, the variant inc coding strand comprises a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 90 nucleotides of SEQ ID NO: 17, as discussed. For example, the variant inc coding strand can comprise a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 91, 92, 93, 94, 95, 96, 97, or 98 nucleotides of SEQ ID NO: 17, as discussed. Also again, in some examples, the variant inc coding strand of the recombinant microorganism comprises SEQ ID NO: 17, as discussed above. Also, in some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more substitutions as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 1-7 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 94-98 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more other substitutions in addition to, or other than, at nucleotide positions 42, 66, and 89, as discussed. 
+ The method comprises a step of (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism. 
+ The method also comprises a step of (2) cultivating the recombinant microorganism in a culture medium under conditions sufficient for replication of the vector, thereby regulating copy number of the vector. Again, the cultivation can be carried out by standard techniques of microbiology, for example in culture tubes, flasks, and/or bioreactors, in suitable culture media, e.g. a nutrient rich medium or a minimal medium, at suitable incubation temperatures, e.g. at or about 25-38° C., 28-37° C., or 37° C., the details of which will be apparent to a person of ordinary skill in the art. 
+ As noted, the recombinant microorganism also comprises the nucleic acid molecule comprising a variant rpoC coding sequence as described above. Again, the variant rpoC coding sequence encodes a variant RpoC. The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC of  Escherichia coli . Thus, in some examples, the variant RpoC further comprises: (1) an N-terminal domain comprising SEQ ID NO: 46, (2) a central domain comprising SEQ ID NO: 47, and (3) a C-terminal domain comprising SEQ ID NO: 48, wherein the R47C substitution is present within the N-terminal domain. In some examples, the variant RpoC further comprises: (1) an N-terminal domain comprising SEQ ID NO: 49, (2) a central domain comprising SEQ ID NO: 50, and (3) a C-terminal domain comprising SEQ ID NO: 51, wherein the R47C substitution is present within the N-terminal domain. In some examples, the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 45, e.g. at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 45. In some examples, the variant RpoC comprises SEQ ID NO: 45. In some examples, expression of the variant RpoC decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 44, e.g. by 10% to 80%, e.g. by 25% to 75%, 30% to 70%, 35% to 65%, 40% to 60%, 45% to 55%, 10% to 40%, 20% to 50%, 30% to 60%, 40% to 70%, or 50% to 80%. 
+ Another method for making a target product by use of the vector in a recombinant microorganism also is disclosed, in this case with the recombinant microorganism comprising the nucleic acid molecule comprising a variant rpoC coding sequence as described above. 
+ The vector can be as described above. Thus, again in some examples expression of the variant inc RNA increases copy number of the vector relative to expression of wild-type inc RNA encoded by an inc sequence comprising SEQ ID NO: 19. Also in some examples the vector comprises a plasmid. 
+ The recombinant microorganism also can be as described above. Thus, again in some examples the variant inc coding strand of the recombinant microorganism comprises a nucleotide sequence that is at least 90% identical to SEQ ID NO: 17, as discussed above. Again, for example, the variant inc coding strand can comprise a nucleotide sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 17, as discussed. Also, in some examples, the variant inc coding strand comprises a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 90 nucleotides of SEQ ID NO: 17, as discussed. For example, the variant inc coding strand can comprise a nucleotide sequence that is identical to SEQ ID NO: 17 with respect to at least 91, 92, 93, 94, 95, 96, 97, or 98 nucleotides of SEQ ID NO: 17, as discussed. Also again, in some examples, the variant inc coding strand of the recombinant microorganism comprises SEQ ID NO: 17, as discussed above. Also, in some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more substitutions as follows: T to C at nucleotide position 42, A to C at nucleotide position 66, or G to T at nucleotide position 89, with positions numbered according to SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 1-7 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that lacks one or more of nucleotides 94-98 of SEQ ID NO: 17, as discussed. In some examples, the variant inc coding strand comprises a variant of SEQ ID NO: 17 that includes one or more other substitutions in addition to, or other than, at nucleotide positions 42, 66, and 89, as discussed. 
+ In accordance with this method, the vector further comprises a target gene for making the target product, as discussed above. 
+ The method comprises a step of (1) introducing the vector into a precursor microorganism, thereby obtaining the recombinant microorganism. The method also comprises a step of (2) cultivating the recombinant microorganism in a culture medium under conditions under which the recombinant microorganism expresses the target gene, thereby making the target product. The method also comprises a step of (3) recovering the target product from the recombinant microorganism and/or the culture medium. 
+ As noted, the recombinant microorganism also comprises the nucleic acid molecule comprising a variant rpoC coding sequence as described above. Again, the variant rpoC coding sequence encodes a variant RpoC. The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC of  Escherichia coli . Thus, in some examples, the variant RpoC further comprises: (1) an N-terminal domain comprising SEQ ID NO: 46, (2) a central domain comprising SEQ ID NO: 47, and (3) a C-terminal domain comprising SEQ ID NO: 48, wherein the R47C substitution is present within the N-terminal domain. In some examples, the variant RpoC further comprises: (1) an N-terminal domain comprising SEQ ID NO: 49, (2) a central domain comprising SEQ ID NO: 50, and (3) a C-terminal domain comprising SEQ ID NO: 51, wherein the R47C substitution is present within the N-terminal domain. In some examples, the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 45, e.g. at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 45. In some examples, the variant RpoC comprises SEQ ID NO: 45. In some examples, expression of the variant RpoC decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 44, e.g. by 10% to 80%, e.g. by 25% to 75%, 30% to 70%, 35% to 65%, 40% to 60%, 45% to 55%, 10% to 40%, 20% to 50%, 30% to 60%, 40% to 70%, or 50% to 80%. 
+ The method can be useful for further rapidly determining suitable copy numbers for the vectors comprising multiple target genes, e.g. for production of a target polymer, a target biopolymer, a target sweetener, a target fat, a target polysaccharide, a target amino acid, a target nucleotide, a target vaccine, or a target pharmaceutical product, for balancing stable incorporation of the vectors in recombinant microorganisms and control of yield of products of the target genes. As discussed above, a first set of vectors can be prepared that include RepFIC replicons including the wild-type central domain and that cover a first range of vector copy numbers, from low to high (e.g. based on relatively large to small vector size). A second set of vectors can be prepared that is identical to the first except that the vectors of the second set include the variant central domain, and thus cover a second, higher range of vector copy numbers. A set of target genes can be cloned into each vector. The first and second sets of vectors can be introduced into a first bacterial strain, e.g. an  E. coli  strain, comprising a wild-type rpoC coding sequence, which thus expresses a wild-type RpoC, to obtain a first set of  E. coli  strains including the first and second sets vectors and expressing the wild-type RpoC. The first and second set of vectors also can be introduced into a corresponding second recombinant bacterial strain, e.g. a recombinant  E. coli  strain that comprises a variant rpoC coding sequence that encodes a variant RpoC comprising the R47C substitution, which thus expresses a variant RpoC, the second strain otherwise being identical to the first strain, to obtain a second set of corresponding  E. coli  strains including the first and second sets of vectors and expressing the variant RpoC. The method can be carried out using each of the vectors, including the steps of (1) introducing the vectors, (2) cultivating the corresponding recombinant microorganisms, and (3) recovering the corresponding target product(s). Copy numbers can be determined for each vector during the cultivating. Yields of the target products or other relevant characteristics can be determined during the recovering. Along with substantially increasing the upper limit of copy number that can be achieved for the first set of vectors relating to use of the variant central domain of the RepFIC replicon, as discussed above, this approach also can substantially decrease the lower limit of copy number that can be achieved for the first set of vectors based on expression of the variant RpoC, which can be advantageous for maintaining viability of cells of the strains in cases in which expression of target genes is deleterious, e.g. for target genes that encode target RNAs and/or target proteins that are toxic to cells when expressed above certain levels in the cells. This approach also can effectively quadruple sample size with respect to testing effects of vector copy number on yields of a target product. Again, this approach can particularly be used for vectors corresponding to plasmids, including plasmids in sizes of 3 to 120 kb and/or including multiple target genes. 
+ EXAMPLES 
+ Example 1 
+ Construction of Plasmids Containing a Modified DNA Sequence of the RepFIC Replicon 
+ (1) Preparation of RepFIC fragment and kanamycin-resistance gene fragment. 
+ In order to amplify the 5.2 kb DNA fragment containing the RepFIC replicon (SEQ ID NO: 1), the genomic DNA (gDNA) of  Escherichia coli  strain NCM3722, which is a prototrophic K-12 strain and was obtained from the Coli Genetic Stock Center (CGSC) (strain 12355), was extracted using a QIAGEN Genomic-tip system, and a polymerase chain reaction (PCR) was performed using the gDNA as a template with a PfuUltra II Fusion HS DNA Polymerase (manufactured by Agilent). The PCR was performed using primers of SEQ ID NO: 2 and SEQ ID NO: 3 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 5 minutes. 
+ In order to amplify the 1.4 kb DNA fragment containing the kanamycin resistance gene, PCR was performed using the plasmid pKD4 as a template with a PfuUltra II Fusion HS DNA Polymerase. PCR was performed using primers of SEQ ID NO: 4 and SEQ ID NO: 5 as follows: 30 cycles of denaturation at 94° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 1 minute 30 seconds. 
+ After PCR reactions were completed, 1.3  I AL of DpnI and 5.7 μl of 10× buffer Tango from Thermo Fisher Scientific (Cat No. ER1701) were added to the 50 μL PCR mixtures, which were then incubated at 37° C. for 1 hour to remove the template DNA. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain a 5.2 kb DNA fragment (also termed “RepFIC fragment”) and a 1.4 kb DNA fragment (also termed “KanR fragment”). 
+ (2) Preparation of RepFIC fragment containing a modified sequence. 
+ In order to amplify a 5.2 kb DNA fragment containing the RepFIC replicon that has a modified sequence (SEQ ID NO: 17, reverse complement SEQ ID NO: 6), PCR was performed using the gDNA of  E. coli  NCM3722 as a template with a PfuUltra II Fusion HS DNA Polymerase. A PCR was performed using primers of SEQ ID NO: 2 and SEQ ID NO: 7 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 3 minutes. Another PCR was performed using primers of SEQ ID NO: 8 and SEQ ID NO: 3 for elongation at 72° C. for 2 minutes and 30 seconds. 
+ After PCR reactions were completed, 1.3  I AL of DpnI and 5.7 μl of 10× buffer Tango were added to the 50 μL PCR reaction mixtures, which were then incubated at 37° C. for 1 hour to remove the template DNA. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain a 2.8 kb DNA fragment and a 2.4 kb DNA fragment. 
+ (3) Construction of plasmids containing wildtype or modified sequence of RepFIC replicon. 
+ The RepFIC and KanR fragments described in Example: 1-(1) were used for the construction of a plasmid, termed pJSL40, as shown in  FIG.  5 A-B . The pJSL40 plasmid was constructed using a NEBuilder HiFi DNA Assembly Master Mix (manufactured by NEB). 
+ The 2.8 kb and 2.4 kb DNA fragments described in Example: 1-(2) and the KanR fragment described in Example: 1-(1) were used for the construction of another plasmid, termed pJSL41, as shown in  FIG.  6 A-B . Gibson assembly of the three fragments was performed with a NEBuilder HiFi DNA Assembly Master Mix. 
+ (4) Construction of the F-like plasmid containing the modified sequence of RepFIC replicon. 
+ In order to examine the effect of the modified sequence of the RepFIC replicon on the copy number of large plasmids ranging in size from ten thousand base pairs to more than 100 kilobases (kb), the RepFIC sequence on F-like plasmid in  E. coli  NCM3722 was replaced with the modified sequence described above (SEQ ID NO: 6) by using a known one-step inactivation method (Warner et al., Proc. Natl. Acad. Sci. U.S.A. 97(12):6640-6645, (2000)). At first, a linear DNA fragment to introduce the modified sequence of RepFIC by using a Cre-loxP recombinase system was prepared by PCR that was performed with plasmid pKD3 as a template by using primers of SEQ ID NO: 9 and SEQ ID NO: 10 as follows: 30 cycles of denaturation at 94° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 1 minute to obtain a 1.2 kb PCR fragment. The PCR mixture was treated with DpnI as described above and the amplified DNA fragment was purified with a QIAGEN purification kit. 
+ The linear DNA fragment was introduced by electroporation into  E. coli  NCM3722/pKD46, which was constructed by introducing pKD46 plasmid into  E. coli  NCM3722 (Warner et al.), and then single colonies were isolated on a Luria-Bertani (LB) plate containing 15 μg/mL of chloramphenicol. The RepFIC regions in the isolated strains were sequenced and a strain containing the modified sequence of RepFIC that replaced wildtype sequence of the F-like plasmid was selected. Plasmid pJW168 (BMG Biotechnol. 2001; 1:7. Epub 2001 Sep. 26) was introduced into the selected strain to prepare the recombinant pJSL42, in which the wildtype RepFIC was substituted with the modified sequence of RepFIC. The  E. coli  NCM3722 isolate containing pJSL42 plasmid was designated as  E. coli  strain CC06-9612. 
+ Example 2 
+ Measurement of Plasmid Copy Number 
+ To measure plasmid copy number, plasmids pJSL40 and pJSL41 were introduced into  E. coli  strain MG1655, which was obtained from the Coli Genetic Stock Center (CGSC No. 6300). The constructed strains MG1655 harboring pJSL40 and pJSL41 were designated as  E. coli  strain CC06-9614 and CC06-9615, respectively. 
+ The copy numbers of the plasmids in the  E. coli  strains CC06-9614, CC06-9615, NCM3722, and CC06-9612 were measured using Real-time PCR (also termed “qPCR”) method. The method involves use of SYBR (R) Green I dye to detect PCR products by binding double-stranded DNA formed during PCR. The protocol employs a Fast SYBR (R) Green Cells-to-Ct (™) Kit to perform cell lysis and PCR reactions in “one-pot” on an Applied Biosystems 7500 Fast real-time PCR system. 
+ To prepare cell lysate, the overnight culture of each strain in LB broth was diluted with a cold (4° C.) 1× PBS buffer followed by addition of a lysis solution, a stop solution (Fast SYBR (R) Green Cells-to-Ct (TM) kit, Cat. # 4402956) and an RNase A (Life Technologies, Cat. # 12091-021, 20 mg/ml). 
+ The qPCR reaction mixture was prepared by adding 4 μL of cell lysate to 16 μL of PCR cocktail, the composition of which is shown in TABLE 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+ 
+   
+ 
+ 
+ PCR cocktail composition 
+ 
+ 
+ 
+ 
+   
+ Component 
+ Volume 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ Fast SYBR (R) Green PCR Master 
+ 10 
+ μL 
+ 
+ 
+   
+ Mix 
+ 
+ 
+   
+ Forward primer (50 μM stock) 
+ 0.12 
+ μL 
+ 
+ 
+   
+ Reverse primer (50 μM stock) 
+ 0.12 
+ μL 
+ 
+ 
+   
+ Nuclease-free water 
+ 5.76 
+ μL 
+ 
+ 
+   
+ Finial volume of PCR cocktail for 20 
+ 16 
+ μL 
+ 
+ 
+   
+ μL qPCR reaction mixture 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ The copy numbers of plasmids in the cell samples were estimated from the relative abundance of a marker DNA sequence on the plasmids, RepFIC, relative to that of a single copy chromosomal gene lacZ encoding β-galactosidase. The primers used for RepFIC were SEQ ID NO: 11 and SEQ ID NO: 12 and for lacZ were SEQ ID NO: 13 and SEQ ID NO: 14. As an internal control for each sample, the copy number of 16S rDNA (rrsH) was measured relative to lacZ. The relative abundance of rrsH to lacZ would be predicted to be about 7, based on the presence of seven chromosomal copies of rrsH. The primers used for rrsH were SEQ ID NO: 25 and SEQ ID NO: 26. 
+ Real-time PCR reactions were performed using the 7500 Fast real-time PCR default program as follows: 1 cycle of enzyme activation at 95° C. for 20 seconds, 40 cycles of denaturation at 95° C. for 3 seconds, annealing and extension at 60° C. for 30 seconds, and dissociation curve. 
+ The plasmid copy number was measured by calculating 2 ΔCt , where ΔCt was calculated by subtracting RepFIC Ct value from lacZ gene Ct value (ΔCt=Ct_ lacZ −Ct_ repFIC .). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+ 
+   
+ 
+ 
+ qPCR copy number measurement results 
+ 
+ 
+ 
+ 
+   
+   
+ rrsH relative 
+ RepFIC relative 
+ 
+ 
+   
+ strain 
+ abundance to lacZ 
+ abundance to lacZ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ CC06-9614 
+ 8.4 
+ 23.5 
+ 
+ 
+   
+ CC06-9615 
+ 8.1 
+ 282.4 
+ 
+ 
+   
+ NCM3722 
+ 7.8 
+ 21.8 
+ 
+ 
+   
+ CC06-9612 
+ 7.4 
+ 214.9 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in TABLE 3, the plasmid copy number for  E. coli  strain CC06-9615 was about 14 times higher than that of the control strain CC06-9614. Also, the plasmid copy number of  E. coli  strain CC06-9612 was about 10 times higher than the F-like plasmid copy number in strain NCM3722. Thus, it was confirmed that the modified sequence of RepFIC resulted in an increase of plasmid copy number independent of the plasmid size, e.g. for both a small plasmid and a large plasmid, and of  E. coli  background strains, e.g. for both MG1655 and NCM3722. 
+ Example 3 
+ Construction of the Modified RepFIC Replicon Containing F-like Plasmid in  E. coli  LS5218 and Measurement of Plasmid Copy Numbers 
+ In order to re-examine the effect of the modified sequence of RepFIC replicon on plasmid copy number, and to test for the effect in a different strain of  E. coli , the RepFIC sequence on F-like plasmid in  E. coli  LS5218 (CGSC strain #6966) was replaced with the modified sequence described above (SEQ ID NO: 6) by using the same method and materials as described in Example 1-(4). The RepFIC sequence of  E. coli  LS5218 is the same as that of  E. coli  NCM3722. The recombinant plasmid pJSL33, in which the wildtype RepFIC was substituted with the modified sequence of RepFIC, was created to re-examine the effect of the modified RepFIC. The  E. coli  strain LS5218 containing the pJSL33 plasmid was designated as  E. coli  strain CC06-9667. 
+ The copy numbers of the plasmid in the  E. coli  strains LS5218 and CC06-9667 were measured using the Real-time PCR, as described in Example 2. qPCR was carried out to clarify the increase in plasmid copy number. RepFIA is another replicon present on the plasmid. The primers used for RepFIA were SEQ ID NO: 27 and SEQ ID NO: 28. Again, as an internal control for each sample, the copy number of 16S rDNA (rrsH) was measured relative to lacZ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+ 
+   
+ 
+ 
+ qPCR copy number measurement results 
+ 
+ 
+ 
+ 
+   
+ rrsH relative 
+ RepFIA relative 
+ RepFIC relative 
+ 
+ 
+ Strain 
+ abundance to lacZ 
+ abundance to lacZ 
+ abundance to lacZ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ LS5218 
+ 5 
+ 9.2 
+ 8.9 
+ 
+ 
+ CC06-9667 
+ 6 
+ 54.5 
+ 49.4 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in TABLE 4, the plasmid copy number of  E. coli  strain CC06-9667 was about 5.5 times higher than the F-like plasmid copy number in strain LS5218. Thus, it was reconfirmed that the modified sequence of RepFIC resulted in an increase of plasmid copy number independent of which background strains were used. 
+ Example 4 
+ Construction of Plasmids for Replacing the rpoC Sequence on a Chromosome 
+ (1) Preparation of rpoC fragment and sacB vector. 
+ In order to amplify two 0.5 kb DNA fragments containing a partial variant rpoC sequence that has a modified sequence (SEQ ID NO: 33), the genomic DNA (gDNA) of  Escherichia coli  strain LS5218, which was obtained from the Coli Genetic Stock Center (CGSC) (strain 6966), was extracted using a QIAGEN Genomic-tip system, and a polymerase chain reaction (PCR) was performed using the gDNA as a template with a PfuUltra II Fusion HS DNA Polymerase (manufactured by Agilent). The corresponding modified RpoC protein, as deduced from the nucleotide sequence, is SEQ ID NO: 45. The modified RpoC protein sequence takes into account that the rpoC nucleotide sequence includes an alternative start codon GTG, instead of ATG. Although GTG generally codes for valine, GTG as an alternative start codon codes for methionine. A PCR was performed using primers of SEQ ID NO: 35 and SEQ ID NO: 36 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 30 seconds. Another PCR was performed using primers of SEQ ID NO: 5 and SEQ ID NO: 6 for elongation at 72° C. for 30 seconds. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain two different 0.5 kb DNA fragments. 
+ In order to prepare a gene replacement vector ( FIG.  12 A-B ) containing the sacB gene and R6K origin, pSKH130 was digested with a restriction enzyme EcoRV. The PCR mixture and the reaction mixture of EcoRV digestion were purified with a QIAGEN purification kit and then eluted to obtain a first 0.5 kb DNA fragment, a second 0.5 kb DNA fragment, and a 4.7 kb vector DNA fragment (also termed “sacB vector cut”). 
+ (2) Construction of plasmids for replacing the rpoC sequence. 
+ The first 0.5 kb DNA fragment, the second 0.5 kb DNA fragment, and the sacB vector cut described in Example: 4-(1) were used for the construction of pJSL47. The pJSL47 plasmid was constructed using a NEBuilder HiFi DNA Assembly Master Mix (manufactured by NEB) and BW25113, which is strain 7636 of the Coli Genetic Stock Center (CGSC). 
+ (3) Preparation of recombinant  E. coli  CC06-9642. 
+ In order to substitute the rpoC on the chromosome of  Escherichia coli  LS5218 (SEQ ID NO: 39) with the variant rpoC sequence (SEQ ID NO: 33), pJSL47 plasmid was introduced by electroporation into  E. coli  strain LS5218 followed by selection of single colonies grown on a Luria-Bertani (LB) agar plate containing 50 μg/L of kanamycin. Insertion of pJSL47 into the chromosome of the selected colonies was confirmed by PCR using primers of SEQ ID NO: 40 and SEQ ID NO: 41. The selected strains were grown on LB agar plates lacking NaCl but containing 10% sucrose in order to “pop out” the sacB gene and the R6K origin. The transformants were verified for the replacement of LS5218 rpoC (SEQ ID NO: 39) with the variant rpoC sequence (SEQ ID NO: 33) by PCRs and sequence confirmations. The resulting strain that has a correct genotype was designated as  E. coli  CC06-9642. 
+ Example 5 
+ Measurement of the Plasmid Copy Number 
+ Both LS5218, a wild type strain, and strain CC06-9642 contain an F-like plasmid (67,502 bp). After CC06-9642 was created, the presence of the F-like plasmid was confirmed by a PCR method. The primers used were, for example, of SEQ ID NOS: 11 and 12. When CC06-9642 was created, CC06-9637 was also created. The difference between them is that CC06-9642 contains the F-like plasmid, whereas CC06-9637 does not contain it. RpoC of CC06-9637 is also a variant rpoC. 
+ The plasmid copy number of the two strains was measured using a real-time PCR (also termed “qPCR”) method that used SYBR (R) Green I dye to detect PCR products by binding double-stranded DNA formed during the PCR. The protocol employed a Fast SYBR (R) Green Cells-to-Ct (TM) kit to perform cell lysis and PCR reaction in “one-pot” on an Applied Biosystems 7500 Fast real-time PCR system. 
+ To prepare cell lysate, the overnight culture of each strain in LB broth was diluted with a cold (4° C.) 1× PBS buffer followed by addition of a lysis Solution, stop solution (Fast SYBR (R) Green Cells-to-Ct kit, Cat. # 4402956) and an RNase A (Life Technologies, Cat. # 12091-021, 20 mg/ml). The qPCR reaction mixture was prepared by adding 4 μL of cell lysate to 16 μL of PCR cocktail, the composition of which is shown in TABLE 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 5 
+ 
+ 
+ 
+   
+ 
+ 
+ PCR cocktail composition 
+ 
+ 
+ 
+ 
+   
+ Component 
+ Volume 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ Fast SYBR (R) Green PCR Master 
+ 10 
+ μL 
+ 
+ 
+   
+ Mix 
+ 
+ 
+   
+ Forward primer (50 μM stock) 
+ 0.12 
+ μL 
+ 
+ 
+   
+ Reverse primer (50 μM stock) 
+ 0.12 
+ μL 
+ 
+ 
+   
+ Nuclease-free water 
+ 5.76 
+ μL 
+ 
+ 
+   
+ Final volume of PCR cocktail for 20 
+ 16 
+ μL 
+ 
+ 
+   
+ μL qPCR reaction mixture 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ The copy numbers of the F-like plasmid in the LS5218 and CC06-9642 cell samples were estimated from the relative abundance of marker DNA sequences, specifically RepFIA and RepFIC, on the plasmids relative to that of a single copy chromosomal lacZ gene encoding β-galactosidase. The primers used for RepFIA were SEQ ID NO: 27 and SEQ ID NO: 28. The primers used for RepFIC were SEQ ID NO: 11 and SEQ ID NO: 12. The primers used for lacZ were SEQ ID NO: 13 and SEQ ID NO: 14. 
+ The real-time PCR reactions were performed using the 7500 Fast real-time PCR default program as follows: 1 cycle of enzyme activation at 95° C. for 20 seconds, 40 cycles of denaturation at 95° C. for 3 seconds, annealing and extension at 60° C. for 30 seconds, and dissociation curve. 
+ The plasmid copy number was measured by calculating 2 ΔCt , where ΔCt was calculated by subtracting RepFIC Ct value from lacZ gene Ct value (ΔCt=Ct_ lacZ −Ct_ repFIC .). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 6 
+ 
+ 
+ 
+   
+ 
+ 
+ Copy number measurement results using qPCR. 
+ 
+ 
+ 
+ 
+   
+   
+ RepFIA relative 
+ RepFIC relative 
+ 
+ 
+   
+ Strain 
+ abundance to lacZ 
+ abundance to lacZ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ LS5218 
+ 9.2 
+ 11.5 
+ 
+ 
+   
+ CC06-9642 
+ 6.2 
+ 4.3 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in TABLE 6, the copy number of F-like plasmid of CC06-9642 was lower than that of the control LS5218. Thus, it was confirmed that the variant rpoC sequence resulted in a decrease of copy number of F-like plasmid. When the plasmid copy number is excessive, metabolic burdens may be exerted in the cells of a microorganism. The above results indicate that the variant rpoC can have a function of regulating plasmid copy number, and thus it can be known from the results above that the strain can be stably grown and the plasmid can be stably expressed. 
+ Example 6 
+ Construction of Plasmids Containing a Modified DNA Sequence of RepFIC Replicon 
+ (1) Preparation of RepFIC fragment and kanamycin-resistance gene fragment. 
+ In order to amplify the 5.2 kb DNA fragment containing the RepFIC replicon (SEQ ID NO: 1), the genomic DNA (gDNA) of  E. coli  LS5218, which is a prototrophic K-12 strain and was obtained from the Coli Genetic Stock Center (CGSC) (strain 12355), was extracted using a QIAGEN Genomic-tip system, and a polymerase chain reaction (PCR) was performed using the gDNA as a template with a PfuUltra II Fusion HS DNA Polymerase (manufactured by Agilent). The PCR was performed using primers of SEQ ID NO: 2 and SEQ ID NO: 3 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 5 minutes. 
+ In order to amplify the 1.4 kb DNA fragment containing the kanamycin-resistance gene, PCR was performed using the plasmid pKD4 as a template with a PfuUltra II Fusion HS DNA Polymerase. PCR was performed using primers of SEQ ID NO: 4 and SEQ ID NO: 5 as follows: 30 cycles of denaturation at 94° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 1 minute 30 seconds. 
+ After PCR reactions were completed and then mixed, 1.3 μL of DpnI and 5.7 μl of 10× buffer Tango were added to the each of 50 μL PCR mixtures, which were then incubated at 37° C. for 1 hour to remove the template DNA. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain a 5.2 kb DNA fragment (also termed “RepFIC fragment”) and a 1.4 kb DNA fragment (also termed “KanR fragment”). 
+ (2) Preparation of RepFIC fragment containing a modified sequence. 
+ In order to amplify a 5.2 kb DNA fragment containing the RepFIC replicon that has a modified sequence (SEQ ID NO: 6), PCR was performed using the gDNA of  E. coli  NCM3722 as a template with a PfuUltra II Fusion HS DNA Polymerase. A PCR was performed using primers of SEQ ID NO: 2 and SEQ ID NO: 7 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 3 minutes. Another PCR was performed using primers of SEQ ID NO: 8 and SEQ ID NO: 3 for elongation at 72° C. for 2 minutes and 30 seconds. 
+ After PCR reactions were completed, 1.3  I AL of DpnI and 5.7 μl of 10× buffer Tango were added to the 50 μL PCR reaction mixtures that were then incubated at 37° C. for 1 hour to remove the template DNA. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain a 2.8 kb DNA fragment and a 2.4 kb DNA fragment. 
+ (3) Construction of plasmids containing wildtype or modified sequence of RepFIC replicon. 
+ The RepFIC fragment and the KanR fragment described in Example: 6-(1) were used for the construction of a plasmid, termed pJSL48. The pJSL48 plasmid was constructed using a NEBuilder HiFi DNA Assembly Master Mix (manufactured by NEB), as shown in  FIG.  13 A-B . 
+ The 2.8 kb and 2.4 kb DNA fragments described in Example: 6-(2) and the KanR fragment described in Example: 6-(1) were used for the construction of another plasmid, termed pJSL49. Gibson assembly of the three fragments was performed with a NEBuilder HiFi DNA Assembly Master Mix, as shown in  FIG.  14 A-B . 
+ Example 7 
+ Measurement of Plasmid Copy Number 
+ To measure plasmid copy numbers, plasmids pJSL48 and pJSL49 were introduced into  E. coli  LS5218, resulting in  E. coli  strains CC06-9665 and CC06-9666. Plasmids pJSL48 and pJSL49 also were introduced into CC06-9642, resulting in  E. coli  strains CC06-9638 and CC06-9639, respectively. 
+ The copy numbers of the plasmids in the  E. coli  strains CC06-9665, 9666, 9638 and 9639 were measured using the real-time PCR method, as described in Example 5. 
+ The copy numbers of plasmids in the cell samples were estimated from the relative abundance of a marker DNA sequence on the plasmids, RepFIC replicon, relative to that of a single copy chromosomal lacZ gene encoding β-galactosidase. The primers used for RepFIC were SEQ ID NO: 11 and SEQ ID NO: 12. The primers used for lacZ were SEQ ID NO: 13 and SEQ ID NO: 14. The primers used for the kanamycin-resistance gene were SEQ ID NO: 42 and SEQ ID NO: 43. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 7 
+ 
+ 
+ 
+   
+ 
+ 
+ qPCR copy number measurement results 
+ 
+ 
+ 
+ 
+   
+   
+ KanR relative 
+ repFIC relative 
+ 
+ 
+   
+ Strain 
+ abundance to lacZ 
+ abundance to lacZ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ CC06-9665 
+ 5.4 
+ 8.8 
+ 
+ 
+   
+ CC06-9666 
+ 51.7 
+ 71.0 
+ 
+ 
+   
+ CC06-9638 
+ 4.0 
+ 4.8 
+ 
+ 
+   
+ CC06-9639 
+ 18.4 
+ 19.6 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in TABLE 7, the plasmid copy numbers of strains CC06-9666 and 9639, which are the strains containing the variant RepFIC sequence that was introduced into the plasmid pJSL49, were higher than those of strains CC06-9665 and 9638. The plasmid copy number of strain CC06-9665 was higher than that of CC06-9638, and the plasmid copy number of strain CC06-9666 was higher than that of CC06-9639. Thus, it was confirmed that the replaced rpoC sequence resulted in a decrease of plasmid copy number independent of which RepFIC replicon, wild-type or variant, was used. 
+ INDUSTRIAL APPLICABILITY 
+ The nucleic acid molecules comprising the variant inc coding strand that comprises SEQ ID NO: 15 disclosed herein are useful for regulating copy numbers of vectors, such as plasmids, comprising replicons comprising the nucleic acid molecules, particularly for increasing the copy numbers of the vectors, and thus are useful for improving commercial production of target products by use of the vectors. 
+ Information Regarding Biological Deposit 
+ An  E. coli  strain transformed to include a nucleic acid molecule comprising a variant inc coding strand (SEQ ID NO: 6) was prepared as described above, was designated as  Escherichia coli  CC06-9612, and was deposited on Jun. 15, 2018 at the Korean Culture Center of Microorganisms, which is an International Depositary Authority under the Budapest Treaty, under Accession No. KCCM12275P. This strain is deposited by an International Depository Authority under the Budapest Treaty. 
+ An  E. coli  strain transformed to include a nucleic acid molecule comprising a variant rpoC coding sequence that encodes a variant RpoC that includes an R47C substitution was prepared as described above, was designated as  Escherichia coli  CC06-9637, and was deposited on Jun. 15, 2018 at the Korean Culture Center of Microorganisms, which is an International Depositary Authority under the Budapest Treaty, under Accession No. KCCM12276P. This strain is deposited by an International Depository Authority under the Budapest Treaty. 
+ Reference to a “Sequence Listing,” a Table, or a Computer Program Listing Appendix Submitted as an ASCII Text File 
+ The material in the ASCII text file, named “CJCJ-585561.1 - 51-Sequences_ST25.txt”, created Aug. 3, 2019, file size of 274,432 bytes, is hereby incorporated by reference. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

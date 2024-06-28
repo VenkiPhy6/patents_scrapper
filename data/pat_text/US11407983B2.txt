@@ -1,0 +1,853 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CROSS-REFERENCE TO RELATED APPLICATIONS 
+ This application claims the benefit of U.S. Provisional Application No. 62/715,530, filed Aug. 7, 2018, which is hereby incorporated by reference. 
+ FIELD OF THE INVENTION 
+ The invention relates to nucleic acid molecules comprising a variant rpoC RNA-polymerase β′ subunit protein coding sequence (also termed “variant rpoC coding sequence”), wherein the variant rpoC coding sequence encodes a variant RpoC RNA-polymerase β′ subunit protein (also termed “variant RpoC”), and the variant RpoC regulates copy number of a plasmid. 
+ BACKGROUND OF THE INVENTION 
+ Plasmids play an important role in biotechnology, providing a means for introducing, modifying, and removing target genes from microorganisms, and for producing corresponding proteins encoded by the target genes. Plasmids are nucleic acid molecules that occur naturally in a diverse range of microorganisms of the domains Bacteria, Archaea, and Eukaryota, that are physically separate from chromosomes of the microorganisms in which they occur, and that replicate independently of the chromosomes. Plasmids are typically double-stranded circular DNA molecules, but can also be linear DNA molecules and/or RNA molecules. Plasmids occur in a range of sizes, from about 1 kb to more than 2 Mb. For example, according to a recent review article of Shintani et al., Frontiers in Microbiology 6:242 (2015), wide variations of size were observed among 4602 plasmids found in the GenBank database, with the plasmids ranging in size from 744 bp to 2.58 Mb, and having an average size of 80 kb. Plasmids also occur in a range of copies per cell. For example, plasmids are generally characterized as low copy, e.g. 1-20 copies per cell, medium copy, e.g. 20-100 copies per cell, or high copy, e.g. 500-700 or more copies per cell. Plasmids can be modified to include target genes. 
+ A challenge associated with using plasmids in biotechnology is that biotechnological applications generally require stable incorporation of target genes in microorganisms and careful control of yield of the target genes and their corresponding protein products during cultivation, but efforts to accomplish one can work against accomplishing the other. During cultivation of a microorganism including a plasmid with a target gene, it is generally advantageous to have the plasmid segregate stably as cells of the microorganism grow and divide, so that a high percentage of cells of the microorganism will include the target gene throughout the cultivation. It also is generally advantageous to the have the target gene remain structurally stable, maintaining a constant nucleotide sequence, to ensure production of only intended products. It also is generally advantageous to express a target gene at a level that is sufficiently high to achieve a desired result, e.g. production of a corresponding protein product in sufficient quantities and in an active form. Unfortunately, techniques for replicating plasmids and expressing target genes from the plasmids, particularly at high levels, exert metabolic burdens on cells. This can lead to plasmids being lost from cells and/or mutations changing expression levels or identity of target genes. This also can lead to aggregation and inactivity of corresponding protein products. Thus, balancing stable incorporation and control of yield during use of plasmids in biotechnical applications is generally an empirical process, involving trial and error. 
+ Plasmid copy number is an important consideration regarding both stable incorporation and control of yield. The copy number of a plasmid is generally determined by three factors, the origin of replication of the plasmid, the size of the plasmid, including target genes included therein, and cultivation conditions. Regarding origins of replication, plasmids can be classified in incompatibility groups based on features of their replication, particularly their origins of replication. Specifically, a plasmid generally includes a replicon, corresponding to a region of the plasmid that replicates from a single origin of replication. A plasmid also generally included genes that encode proteins that recognize the origin of replication of the plasmid and initiate replication there. Interactions between the proteins of the plasmid and the origin of replication determine specificity of replication and copy number of the replicon, and thus of the plasmid. Plasmids that have identical origins of replication are classified within the same incompatibility group, based on the plasmids being incompatible with each other regarding segregational stability. Plasmids that have different origins of replication may be classified within different incompatibility groups, if the plasmids are compatible with each other. Regarding size of the plasmid, increasing size generally leads to an increasing metabolic burden associated with replication of the plasmid and expression of target genes from the plasmid, and thus to a decrease in copy number of the plasmid. Regarding cultivation conditions, these also affect metabolic burden, and depending on specific conditions, can result in an increase or decrease in copy number. 
+ Of the three factors, the origin of replication is generally the primary consideration in choosing a plasmid for a particular application, because the origin of replication establishes a base line for copy number. Varying the other two factors, i.e. the size of the plasmid and cultivation conditions, is not always an option. The size of the plasmid may be determined and/or limited by the size of the target genes. The cultivation conditions also may be determined and/or limited by requirements for obtaining the corresponding product in sufficient amounts and with sufficient activity. This also would be an empirical process. 
+ Use of mutant RNA polymerases is a potential approach to alter the copy number of a plasmid. RNA polymerase plays a role in transcription. RNA polymerase also plays a role in replication of chromosomes and plasmids. RNA polymerase sequences have been determined in many bacteria, providing a basis for identifying conserved regions within RNA polymerases. For example, Lee et al., Antimicrobial Agents and Chemotherapy 57:56-65 (2013), provides an alignment of a C-terminal domain of RNA polymerase β′ subunit from 21 strains. Structures of bacterial RNA polymerases also have been determined. For example, Mukhopadhyay et al., Cell 135:295-307 (2008), reports that structures reveal that RNA polymerases have dimensions of ˜150 angstroms×˜100 angstroms×˜100 angstroms and a shape reminiscent of a crab claw. The RNA polymerase β′ subunit makes up a pincer, termed a “clamp,” and part of an active center cleft. 
+ Two mutations in the rpoC gene of  Escherichia coli , which encodes the RNA polymerase β′ subunit, have been reported to cause a decrease in copy number of ColE1-type plasmids. Specifically, Ederth et al., Molecular Genetics and Genomics 267:587-592 (2002), identified a single amino acid substitution (G1161R) and a 41-amino acid deletion. Both are located near the 3′-terminal region of the rpoC gene. The two mutations cause over 10-fold and 20-fold reductions in copy numbers of ColE1 plasmids, respectively (presumably corresponding to decreases of over 90% and 95%, respectively). Ederth et al. proposed that altered expression from promoters for RNA II and RNA I, which encode a preprimer for DNA polymerase I and an antisense inhibitor of the preprimer, may cause the decrease. 
+ A mutation in rpoC also has been reported to cause an increase in copy number of plasmid pBR322. Specifically, Petersen et al., Journal of Bacteriology 173:5200-5206 (1991), identified a single amino acid substitution (G1033D), which also is located near the 3′-terminal region of the rpoC gene, that causes an increase in copy number of pBR322 at a semi-permissive growth temperature of 39° C. Petersen notes that mutation also causes an increase in chromosomal copy number. 
+ Unfortunately, no general approaches exist for predictably modifying RNA polymerase β′ subunit to obtain further mutants that change copy number of a plasmid. Determining whether and to what extent a particular mutation may alter copy number of a plasmid also would be an empirical process. Also, no general approaches exist for predictably modifying RNA polymerase β′ subunit to obtain such mutants that would not cause a corresponding change in chromosomal copy number. 
+ Accordingly, a need exists for mutants of RNA polymerase β′ subunit that are modified to change copy number of plasmids, ideally without causing a corresponding change in chromosomal copy number. 
+ BRIEF SUMMARY OF THE INVENTION 
+ In accordance with one aspect of the present disclosure, a nucleic acid molecule comprising a variant rpoC RNA-polymerase β′ subunit protein coding sequence (also termed “variant rpoC coding sequence”) is disclosed. The variant rpoC coding sequence encodes a variant RpoC RNA-polymerase β′ subunit protein (also termed “variant RpoC”). The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC RNA-polymerase β′ subunit protein (also termed “wild-type RpoC”) of  Escherichia coli.    
+ In some examples, expression of the variant RpoC decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 26. 
+ Also in some examples, the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 28, (2) a central domain comprising SEQ ID NO: 29, and (3) a C-terminal domain comprising SEQ ID NO: 30. The R47C substitution is present within the N-terminal domain. 
+ Also in some examples, the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 31, (2) a central domain comprising SEQ ID NO: 32, and (3) a C-terminal domain comprising SEQ ID NO: 33. The R47C substitution is present within the N-terminal domain. 
+ Also in some examples, the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 27. 
+ Also in some examples, the variant RpoC comprises SEQ ID NO: 27. 
+ In accordance with another aspect of the present disclosure, a vector comprising the nucleic acid molecule is disclosed. 
+ In accordance with another aspect of the present disclosure, a recombinant microorganism comprising the nucleic acid molecule is disclosed. 
+ In accordance with another aspect of the present disclosure, a method for regulating copy number of a subject vector in the recombinant microorganism is disclosed. The method comprises cultivating the recombinant microorganism in a culture medium under conditions sufficient for replication of the subject vector, thereby regulating copy number of the subject vector. 
+ In accordance with another aspect of the present disclosure, a method for making a target product by use of the recombinant microorganism is disclosed. The recombinant microorganism comprises a target gene vector. The target gene vector comprises a target gene for making a target product. The method comprises the steps of: (1) cultivating the recombinant microorganism in a culture medium under conditions under which the recombinant microorganism expresses the target gene, thereby making the target product, and (2) recovering the target product from the recombinant microorganism and/or the culture medium. 
+ In accordance with another aspect of the present disclosure, a gene replacement vector comprising a variant rpoC coding sequence and a gene replacement sequence is disclosed. The variant rpoC coding sequence encodes a variant RpoC N-terminal domain comprising SEQ ID NO: 28. The gene replacement sequence encodes a protein for replacing an endogenous rpoC coding sequence in a chromosome of a microorganism with the variant rpoC coding sequence. 
+ 
+ BRIEF DESCRIPTION OF THE DRAWINGS 
+   FIG. 1  shows a multiple sequence alignment, by CLUSTAL O (1.2.4), of an N-terminal domain of  Thermus thermophilus  RpoC (Q8RQE8) (SEQ ID NO: 34),  Acetobacter pasteurianus  RpoC (BAH99075.1) (SEQ ID NO: 35),  Neisseria gonorrhoeae  RpoC (Q5F5R6) (SEQ ID NO: 36),  Legionella pneumophila  RpoC (Q5X865) (SEQ ID NO: 37),  Pseudomonas aeruginosa  RpoC (Q9HWC9) (SEQ ID NO: 38),  Vibrio cholerae  RpoC (Q9KV29) (SEQ ID NO: 39),  Escherichia coli  (P0A8T7) (SEQ ID NO: 26),  Salmonella enterica serovar Typhimurium  RpoC (P0A2R4) (SEQ ID NO: 40),  Actinomyces odontolyticus  RpoC (EDN79927.1) (SEQ ID NO: 41),  Streptomyces coelicolor  RpoC (Q8CJT1) (SEQ ID NO: 42),  Corynebacterium diphtherias  RpoC (Q6NJF6) (SEQ ID NO: 43),  Mycobacterium tuberculosis  RpoC (A5U053) (SEQ ID NO: 44),  Rhodococcus equi  RpoC (CBH49656.1) (SEQ ID NO: 45),  Chlamydia trachomatis  RpoC (O84316) (SEQ ID NO: 46),  Clostridium botulinum  RpoC (A7FZ76) (SEQ ID NO: 47),  Bacillus subtilis  RpoC (P37871) (SEQ ID NO: 48),  Streptococcus pneumoniae  RpoC (Q97NQ8) (SEQ ID NO: 49),  Enterococcus faecalis  RpoC (Q82Z41) (SEQ ID NO: 50), and  Lactobacillus brevis  RpoC (Q03PV0) (SEQ ID NO: 51). 
+   FIG. 2  shows a multiple sequence alignment, by CLUSTAL O (1.2.4), of a central domain of the RpoC proteins as shown in  FIG. 1  (SEQ ID NOS: 34-39, 26, and 40-51, respectively). 
+   FIG. 3A-B  shows a multiple sequence alignment, by CLUSTAL O (1.2.4), of a C-terminal domain of the RpoC proteins as shown in  FIG. 1  (SEQ ID NOS: 34-39, 26, and 40-51, respectively). 
+   FIG. 4  shows a sequence alignment of an N-terminal domain of RpoC protein of  E. coli  (SEQ ID NO: 26) and a variant RpoC (SEQ ID NO: 27). 
+   FIG. 5  shows differences in the aligned N-terminal domain of RpoC protein of  E. coli  (SEQ ID NO: 26) and a variant RpoC (SEQ ID NO: 27), with the sequence of the N-terminal domain of RpoC of  E. coli  provided in full and the sequence of the variant RpoC provided showing differences. 
+   FIG. 6A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL47, which is for replacing an rpoC sequence on a chromosome. 
+   FIG. 7A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL48, which includes wildtype RepFIC replicon. 
+   FIG. 8A-B  illustrates the process of constructing a recombinant plasmid, termed pJSL49, which includes a modified RepFIC replicon. 
+ 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ A nucleic acid molecule comprising a variant rpoC coding sequence is disclosed. The variant rpoC coding sequence encodes a variant RpoC. The variant RpoC comprises an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC RNA-polymerase β′ subunit protein (also termed “wild-type RpoC”) of  Escherichia coli.    
+ Surprisingly, it has been determined that a nucleic acid molecule comprising a variant rpoC coding sequence, wherein the variant rpoC coding sequence encodes a variant RpoC, and the variant RpoC comprises an R47C substitution, can be used to cause a substantial decrease in copy number of a plasmid in a recombinant microorganism comprising the nucleotide sequence, without causing a corresponding decrease in chromosomal copy number. This is surprising, among other reasons, because the R47C substitution as disclosed herein occurs in an N-terminal domain sequence of RpoC, whereas the mutants of  E. coli  RpoC including single substitutions as described by Ederth et al. and Petersen et al. included mutations only near the 3′-terminal region of the rpoC gene, and thus in C-terminal domain sequences of RpoC. This also is surprising because the R47C substitution as disclosed herein occurs within a nine amino acid residue N-terminal domain sequence that is otherwise strictly conserved among RpoCs of diverse bacteria, whereas the single substitutions in the mutants of  E. coli  RpoC as described by Ederth et al. and Petersen et al. occur at positions within the RpoC sequence that are not surrounded by conserved residues, and thus that do not occur within conserved sequences. 
+ Without wishing to be bound by theory, it is believed that wild-type RpoCs from diverse bacteria include an N-terminal domain sequence, corresponding to residues 40-48 of SEQ ID NO: 26, that is strictly conserved among the wild-type RpoCs. As shown in  FIG. 1 , this sequence is strictly conserved among 19 diverse bacteria, namely  Thermus thermophilus, Acetobacter pasteurianus, Neisseria gonorrhoeae, Legionella pneumophila, Pseudomonas aeruginosa, Vibrio cholerae, Escherichia coli, Salmonella enterica serovar Typhimurium, Actinomyces odontolyticus, Streptomyces coelicolor, Corynebacterium diphtheriae, Mycobacterium tuberculosis, Rhodococcus equi, Chlamydia trachomatis, Clostridium botulinum, Bacillus subtilis, Streptococcus pneumoniae, Enterococcus faecalis , and  Lactobacillus brevis , representing diverse phylogenies, metabolisms, and environments. For reference, these sequences correspond to full length RpoC sequences available from the alignment of the C-terminal domain of RpoCs of the 21 strains as provided by Lee et al. It also is believed that wild-type RpoCs from a diverse range of bacteria also include a central domain sequence, corresponding to SEQ ID NO: 29, that also is strictly conserved among the wild-type RpoCs. As shown in  FIG. 2 , this sequence also is strictly conserved among the 19 diverse bacteria. It also is believed that wild-type RpoCs from a diverse range of bacteria also include a C-terminal domain sequence, corresponding to SEQ ID NO: 30, that also is strictly conserved among the wild-type RpoCs. As shown in  FIG. 3A-B , this sequence also is strictly conserved among the 19 diverse bacteria. 
+ It further is believed that a longer N-terminal domain sequence, corresponding to residues 33-57 of SEQ ID NO: 26, a longer central domain sequence, corresponding to SEQ ID NO: 32, and a longer C-terminal domain sequence, corresponding to SEQ ID NO: 33, including the strictly conserved N-terminal, central, and C-terminal domain sequences, respectively, include numerous residues that are generally conserved among RpoCs of the 19 diverse bacteria. As shown in  FIG. 1 ,  FIG. 2 , and  FIG. 3A-B ,  E. coli  RpoC includes these longer sequences. Also, the RpoCs from the other bacteria include sequences that are highly similar to these longer sequences. 
+ Because the wild-type RpoCs from diverse bacteria include the strictly conserved N-terminal, central, and C-terminal domain sequences, it is believed that these sequences are also strictly conserved among wild-type RpoCs of other bacteria. For context, as shown in TABLE 1, results for pairwise sequence alignments of RpoC of  E. coli  compared to RpoCs of the other 18 diverse bacteria indicate a relatively high degree of sequence identity and similarity, even for RpoCs of bacteria, such as the extreme thermophile  Thermus thermophilus , that are distant from  E. coli  phylogenetically, metabolically, and environmentally. This is consistent with the fundamental roles that RpoC plays in transcription and replication. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+ 
+   
+ 
+ 
+ Results for pairwise sequence alignments of RpoC of  E. coli  compared to RpoCs of other bacteria.* 
+ 
+ 
+ 
+ 
+ Bacterium 
+ Accession 
+ Length 
+ Identity 
+ Similarity 
+ Gaps 
+ Score 
+ Sequence 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Thermus 
+ 
+ sp|Q8RQE8.1|RPOC_THET8 
+ 1765 
+ 36.1% 
+ 48.3% 
+ 33.9% 
+ 2851.0 
+ SEQ ID 
+ 
+ 
+ 
+ thermophilus 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 34 
+ 
+ 
+ 
+ Acetobacter 
+ 
+ BAH99075.1 
+ 1439 
+ 59.6% 
+ 74.6% 
+ 5.6% 
+ 4334.5 
+ SEQ ID 
+ 
+ 
+ 
+ pasteurianus 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 35 
+ 
+ 
+ 
+ Neisseria 
+ 
+ sp|Q5F5R6.1|RPOC_NEIG1 
+ 1412 
+ 66.1% 
+ 80.4% 
+ 1.8% 
+ 4851.0 
+ SEQ ID 
+ 
+ 
+ 
+ gonorrhoeae 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 36 
+ 
+ 
+ 
+ Legionella 
+ 
+ sp|Q5X865.1|RPOC_LEGPA 
+ 1413 
+ 71.8% 
+ 83.3% 
+ 1.3% 
+ 5223.0 
+ SEQ ID 
+ 
+ 
+ 
+ pneumophila 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 37 
+ 
+ 
+ 
+ Pseudomonas 
+ 
+ sp|Q9HWC9.1|RPOC_PSEAE 
+ 1408 
+ 75.4% 
+ 85.6% 
+ 0.7% 
+ 5477.0 
+ SEQ ID 
+ 
+ 
+ 
+ aeruginosa 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 38 
+ 
+ 
+ 
+ Vibrio cholerae 
+ 
+ sp|Q9KV29.1|RPOC_VIBCH 
+ 1407 
+ 82.4% 
+ 89.8% 
+ 0.4% 
+ 5941.0 
+ SEQ ID 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+ NO: 39 
+ 
+ 
+ 
+ Escherichia coli 
+ 
+ sp|P0A8T7.1|RPOC_ECOLI 
+ 1407 
+ 100.0% 
+ 100.0% 
+ 0.0% 
+ 7139.0 
+ SEQ ID 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+ NO: 26 
+ 
+ 
+ 
+ Salmonella 
+ 
+ sp|P0A2R4.1|RPOC_SALTY 
+ 1407 
+ 98.6% 
+ 99.3% 
+ 0.0% 
+ 7057.0 
+ SEQ ID 
+ 
+ 
+   enterica  serovar 
+   
+   
+   
+   
+   
+   
+ NO: 40 
+ 
+ 
+ Typhimurium 
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ Actinomyces 
+ 
+ EDN79927.1 
+ 1529 
+ 40.9% 
+ 54.7% 
+ 23.0% 
+ 2883.5 
+ SEQ ID 
+ 
+ 
+ 
+ odontolyticus 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 41 
+ 
+ 
+ 
+ Streptomyces 
+ 
+ sp|Q8CJT1.1|RPOC_STRCO 
+ 1539 
+ 42.6% 
+ 55.7% 
+ 24.2% 
+ 3048.0 
+ SEQ ID 
+ 
+ 
+ 
+ coelicolor 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 42 
+ 
+ 
+ 
+ Corynebacterium 
+ 
+ sp|Q6NJF6.1|RPOC_CORDI 
+ 1566 
+ 40.9% 
+ 54.1% 
+ 24.8% 
+ 2933.0 
+ SEQ ID 
+ 
+ 
+ 
+ diphtheriae 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 43 
+ 
+ 
+ 
+ Mycobacterium 
+ 
+ sp|A5U053.1|RPOC_MYCTA 
+ 1552 
+ 41.0% 
+ 55.0% 
+ 24.5% 
+ 2944.0 
+ SEQ ID 
+ 
+ 
+ 
+ tuberculosis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 44 
+ 
+ 
+ 
+ Rhodococcus 
+ 
+ CBH49656.1 
+ 1542 
+ 41.6% 
+ 55.6% 
+ 23.2% 
+ 2986.5 
+ SEQ ID 
+ 
+ 
+ 
+ equi 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 45 
+ 
+ 
+ 
+ Chlamydia 
+ 
+ sp|O84316.1|RPOC_CHLTR 
+ 1468 
+ 47.8% 
+ 65.6% 
+ 9.1% 
+ 3447.0 
+ SEQ ID 
+ 
+ 
+ 
+ trachomatis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 46 
+ 
+ 
+ 
+ Clostridium 
+ 
+ sp|A7FZ76.1|RPOC_CLOB1 
+ 1420 
+ 47.5% 
+ 62.7% 
+ 18.0% 
+ 3344.5 
+ SEQ ID 
+ 
+ 
+ 
+ botulinum 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 47 
+ 
+ 
+ 
+ Bacillus subtilis 
+ 
+ sp|P37871.4|RPOC_BACSU 
+ 1451 
+ 45.7% 
+ 59.4% 
+ 20.4% 
+ 3248.5 
+ SEQ ID 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+ NO: 48 
+ 
+ 
+ 
+ Streptococcus 
+ 
+ sp|Q97NQ8.1|RPOC_STRPN 
+ 1460 
+ 44.5% 
+ 58.4% 
+ 19.7% 
+ 3111.0 
+ SEQ ID 
+ 
+ 
+ 
+ pneumoniae 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 49 
+ 
+ 
+ 
+ Enterococcus 
+ 
+ sp|Q82Z41.1|RPOC_ENTFA 
+ 1454 
+ 44.8% 
+ 59.8% 
+ 19.5% 
+ 3199.0 
+ SEQ ID 
+ 
+ 
+ 
+ faecalis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 50 
+ 
+ 
+ 
+ Lactobacillus 
+ 
+ sp|Q03PV0.1|RPOC_LACBA 
+ 1449 
+ 44.4% 
+ 59.4% 
+ 19.0% 
+ 3174.5 
+ SEQ ID 
+ 
+ 
+ 
+ brevis 
+ 
+   
+   
+   
+   
+   
+   
+ NO: 51 
+ 
+ 
+   
+ 
+ 
+ *Pairwise sequence alignments were made using EMBOSS Needle Pairwise Sequence Alignment (PROTEIN) tool using default settings (matrix: BLOSUM62; gap open: 10; gap extend: 0.5; output format: pair; end gap penalty: false; end gap open: 10;, end gap extend: 0.5) (website: ebi.ac.uk/Tools/psa/emboss_needle/). 
+ 
+ 
+ 
+ 
+ 
+ Also, because the wild-type RpoCs from diverse bacteria include sequences that are highly similar to the longer N-terminal, central, and C-terminal domain sequences, it is believed that wild-type RpoCs of other bacteria include sequences that are highly similar to these sequences too. In addition, based on the various sequences being strictly or generally conserved, it is believed that the corresponding N-terminal, central, and C-terminal domain sequences make important contributions, structurally and/or functionally, in the roles that RpoC plays in transcription and in replication of chromosomes and plasmids. 
+ Also without wishing to be bound by theory, it is believed that in RpoC the N-terminal domain in particular plays an important role in determining copy number of plasmids. As shown in  FIG. 4  and  FIG. 5 , the variant rpoC coding sequence includes an N-terminal domain that includes SEQ ID NO: 28, which differs from the strictly conserved sequence of the wild-type N-terminal domain by a single substitution, namely R (i.e. arginine) to C (i.e. cysteine), at amino acid position 47 (also termed “R47C”), with numbering defined based on wild-type RpoC of  E. coli . A variant RpoC that includes this R47C substitution and that is otherwise identical to wild-type RpoC of  E. coli  exhibits a decrease in plasmid copy number of, for example, about 25% to 75%. Because the R47C substitution in the N-terminal domain is the only difference between the variant RpoC and wild-type RpoC of  E. coli , and because the R47C substitution is located within the longer N-terminal domain sequence that includes numerous residues that are generally conserved among the 19 diverse bacteria, and because no other substitutions occur within the strictly conserved N-terminal domain sequence corresponding to residues 40-48 of SEQ ID NO: 26 among the wild-type RpoCs from the 19 diverse bacteria, the N-terminal domain appears to be important in determining plasmid copy number. 
+ As used herein, the term nucleic acid molecule means a molecule of DNA and/or RNA, including for example a double-stranded DNA molecule, a single-stranded DNA molecule, a double-stranded RNA molecule, a single-stranded RNA molecule, or a DNA/RNA hybrid molecule, with the structure of the nucleic acid molecule depending on whether the nucleic acid molecule includes a DNA sequence, an RNA sequence, or both. 
+ As used herein, the term RNA-polymerase β′ subunit protein means an RNA polymerase β′ subunit of an RNA polymerase. As discussed above, RNA polymerase plays a role in transcription. RNA polymerase also plays a role in replication of chromosomes and plasmids. An RNA-polymerase β′ subunit protein can be identified based on structural and/or functional similarity to known RNA-polymerase β′ subunit proteins, e.g. based on sequence alignments as shown by Lee et al., and/or structural features, as discussed by Mukhopadhyay et al. RNA polymerase activity can be measured, for example, as described by Chamberlin et al., The Journal of Biological Chemistry 254(20):10061-10069 (1979). 
+ As used herein, the term rpoC RNA-polymerase β′ subunit protein coding sequence means a DNA molecule strand, or portion of a DNA molecule strand, that encodes the sequence of an RNA-polymerase β′ subunit protein. 
+ As used herein, the term wild-type RNA-polymerase β′ subunit protein means an RNA-polymerase β′ subunit protein that occurs among individuals of a species under natural conditions. 
+ As used herein, the term N-terminal domain means a portion of a protein occurring at or near the N-terminus of the protein, for example within the beginning third of the amino acid sequence of the protein. 
+ As used herein, the term central domain means a portion of a protein occurring at or near the center of the protein, for example within the middle third of the amino acid sequence of the protein. 
+ As used herein, the term C-terminal domain means a portion of a protein occurring at or near the C-terminus of the protein, for example within the last third of the amino acid sequence of the protein. 
+ As used herein, the term replicon means a region of a DNA molecule that replicates from a single origin of replication. 
+ As used herein, the term vector means a nucleic acid molecule that can occur in a microorganism, naturally or by introduction into the microorganism, such as a plasmid, a viral vector, a cosmid, or an artificial chromosome. 
+ As used herein, the term plasmid means a nucleic acid molecule that can occur in a microorganism, naturally or by introduction into the microorganism, that is physically separate from chromosome(s) of the microorganism, and that replicates independently of the chromosome(s). As discussed above, plasmids are typically double-stranded circular DNA molecules, but can also be linear DNA molecules and/or RNA molecules. Plasmids occur in a range of sizes, from about 1 kb to more than 2 Mb. Plasmids also occur in a range of copies per cell, from low copy number to high copy number. Plasmids can be modified to include target genes. 
+ As used herein, the term plasmid copy number means the number of copies a plasmid in a cell of a microorganism. Plasmid copy number can be measured for a plasmid in a microorganism, for example, by using Real-time PCR to compare the number of copies of a gene that occurs in a single copy on the plasmid relative to a gene that occurs in a single copy on a chromosome of the microorganism, among other approaches. 
+ As used herein, the term regulator of plasmid copy number means a factor, such as an RNA molecule or a protein, that causes a change in copy number of a plasmid in a microorganism, for example an increase or a decrease, when the factor is present in the microorganism versus when the factor is not present in the microorganism. By regulating plasmid copy number, it is possible to stably express the plasmid, thereby enabling the stable growth of the microorganism including the plasmid. 
+ As noted, a nucleic acid molecule comprising a variant rpoC coding sequence is disclosed. The nucleic acid molecule can be, for example, a double-stranded DNA molecule, such as chromosomal DNA into which the variant rpoC coding sequence has been introduced, or a plasmid into which the variant rpoC coding sequence has been cloned. 
+ As also noted, the variant rpoC coding sequence encodes a variant RpoC. The variant RpoC is a variant based on comprising an R47C substitution, with numbering of the R47C substitution defined based on wild-type RpoC of  E. coli . The variant RpoC is an RpoC, and thus plays roles in transcription, replication of chromosomes, and replication of plasmids. Just as the wild-type RpoCs of the 19 diverse bacteria vary with respect to each other, e.g. at amino acid positions that are not conserved, the variant RpoC also may vary depending on the source of the variant rpoC coding sequence. Thus, for example, the variant RpoC may include the R47C substitution and otherwise be at least 90% identical to wild-type RpoC of  E. coli . Also for example, the variant RpoC may include the R47C substitution and otherwise be at least 90% identical to wild-type RpoC of any of the other 18 diverse bacteria, i.e.  Thermus thermophilus, Acetobacter pasteurianus, Neisseria gonorrhoeae, Legionella pneumophila, Pseudomonas aeruginosa, Vibrio cholerae, Salmonella enterica serovar Typhimurium, Actinomyces odontolyticus, Streptomyces coelicolor, Corynebacterium diphtheriae, Mycobacterium tuberculosis, Rhodococcus equi, Chlamydia trachomatis, Clostridium botulinum, Bacillus subtilis, Streptococcus pneumoniae, Enterococcus faecalis , or  Lactobacillus brevis . Also for example, the variant RpoC may include the R47C substitution and one or more portions of one or more of wild-type RpoC of  E. coli  or the other 18 diverse bacteria. 
+ In some examples, the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 28, (2) a central domain comprising SEQ ID NO: 29, and (3) a C-terminal domain comprising SEQ ID NO: 30, wherein the R47C substitution is present within the N-terminal domain. In these examples, the variant RpoC comprises the N-terminal domain sequence corresponding to SEQ ID NO: 28, including the R47C substitution. The variant RpoC also includes the strictly conserved central domain sequence corresponding to SEQ ID NO: 29 and the strictly conserved C-terminal domain sequence corresponding to SEQ ID NO: 30, consistent with the roles that RpoC plays in transcription and in replication of chromosomes and plasmids. 
+ In some examples, the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 31, (2) a central domain comprising SEQ ID NO: 32, and (3) a C-terminal domain comprising SEQ ID NO: 33, wherein the R47C substitution is present within the N-terminal domain. In these examples, the variant RpoC comprises the N-terminal domain sequence corresponding to SEQ ID NO: 31, including the R47C substitution. The variant RpoC also includes the generally conserved longer central domain sequence corresponding to SEQ ID NO: 32 and the generally conserved longer C-terminal domain sequence corresponding to SEQ ID NO: 33, also consistent with the roles that RpoC plays in transcription and in replication of chromosomes and plasmids. 
+ In some examples, the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 27. For reference, SEQ ID NO: 27 corresponds to a variant RpoC that includes the R47C substitution and otherwise is identical to wild-type RpoC of  E. coli . Also for reference, the percentage of sequence identity between the amino acid sequence of a variant RpoC and SEQ ID NO: 27 can be determined by making a pairwise sequence alignment. This can be done using EMBOSS Needle Pairwise Sequence Alignment (PROTEIN) tool using default settings (matrix: BLOSUM62; gap open: 10; gap extend: 0.5; output format: pair; end gap penalty: false; end gap open: 10; end gap extend: 0.5) (website: ebi.ac.uk/Tools/psa/emboss needle/). This also can be done using other pairwise sequence alignment tools that are analogous. 
+ The amino acid sequence of a variant RpoC can differ from SEQ ID NO: 27, for example, predominantly or entirely based on substitutions of amino acid residues that are not conserved between wild-type RpoC of  E. coli  and RpoCs of the other 18 diverse bacteria. With reference to TABLE 1, although results for pairwise sequence alignments of RpoC of  E. coli  compared to RpoCs of the other 18 diverse bacteria indicate a relatively high degree of sequence identity and similarity, the results also indicate that RpoCs of 17 of the diverse bacteria have sequence identities ranging from 36.1% to 82.4% in comparison to wild-type RpoC of  E. coli , and thus well below 90%. Substitutions of amino acid residues that are not conserved between similar proteins are generally more likely to be tolerated, e.g. to not disrupt structure and/or function, in comparison to substitutions of amino acid residues that are conserved. The results of TABLE 1 indicate that RpoCs include many amino acids residues that are not conserved and that thus may be amenable to substitution. 
+ The amino acid sequence of a variant RpoC also can differ from SEQ ID NO: 27, for example, based on including some or many conservative substitutions, meaning replacement of an amino acid residue with another structurally similar amino acid residue, relative to SEQ ID NO: 27. Conservative substitutions typically include substitutions within the following groups: (1) glycine and alanine, (2) valine, isoleucine, and leucine, (3) aspartic acid and glutamic acid, (4) asparagine and glutamine, (5) serine and threonine, (6) lysine and arginine, and (7) phenylalanine and tyrosine. Conservative substitutions are generally more likely to be tolerated in comparison to substitutions that are not conservative. 
+ Thus, in these examples the variant RpoC includes the R47C substitution. The variant RpoC also comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 27. For example, the variant RpoC can comprise an amino acid sequence that is at least 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99%, or 100% identical to SEQ ID NO: 27. 
+ In some examples, the variant RpoC comprises SEQ ID NO: 27. In some examples, the variant RpoC consists of SEQ ID NO: 27. 
+ In some examples, expression of the variant RpoC decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 26. For reference, SEQ ID NO: 26 corresponds to wild-type RpoC of  E. coli . As noted above, the variant RpoC is an RpoC, and thus plays roles in transcription, replication of chromosomes, and replication of plasmids. Also as noted, a variant RpoC that includes the R47C substitution and that is otherwise identical to wild-type RpoC of  E. coli  exhibits a decrease in plasmid copy number of, for example, about 25% to 75%. In some examples, expression of the variant RpoC decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 26 by 10% to 80%, e.g. by 25% to 75%, 30% to 70%, 35% to 65%, 40% to 60%, 45% to 55%, 10% to 40%, 20% to 50%, 30% to 60%, 40% to 70%, or 50% to 80%. 
+ A vector comprising the nucleic acid molecule also is disclosed. The nucleic acid molecule can be as described above. In some examples, a vector can correspond to one or more of a plasmid, a viral vector, a cosmid, or an artificial chromosome. 
+ A recombinant microorganism comprising the nucleic acid molecule also is disclosed. The nucleic acid molecule can be as described above. Thus, in some examples the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 28, (2) a central domain comprising SEQ ID NO: 29, and (3) a C-terminal domain comprising SEQ ID NO: 30, wherein the R47C substitution is present within the N-terminal domain, as discussed above. In some examples the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 31, (2) a central domain comprising SEQ ID NO: 32, and (3) a C-terminal domain comprising SEQ ID NO: 33, wherein the R47C substitution is present within the N-terminal domain, as discussed above. In some examples the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 27, as discussed above. In some examples the variant RpoC comprises SEQ ID NO: 27, as discussed above. 
+ In some examples, expression of the variant RpoC in the recombinant microorganism decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 26 in a control microorganism. The control microorganism can be, for example, derived from the same genus, species, and/or strain as the recombinant microorganism, and can include similar or identical plasmids, and thus can be phylogenetically similar, closely related, and/or genetically identical other than with respect to differences between the variant rpoC coding sequence of the recombinant microorganism and the corresponding rpoC sequence of the control microorganism. Similarly as discussed above, the decrease can be by 10% to 80%, e.g. by 25% to 75%, 30% to 70%, 35% to 65%, 40% to 60%, 45% to 55%, 10% to 40%, 20% to 50%, 30% to 60%, 40% to 70%, or 50% to 80%. 
+ The recombinant microorganism comprising the nucleic acid molecule can be obtained, for example, by introducing a complete variant rpoC coding sequence, e.g. cloned in a vector, into a precursor microorganism, e.g. by transformation, conjugation, or transduction, to obtain the recombinant microorganism, and then maintaining the complete variant rpoC coding sequence in the recombinant microorganism, e.g. by selection of the vector. This can be accomplished by standard techniques of molecular biology. For reference, a vector can correspond to one or more of a plasmid, a viral vector, a cosmid, or an artificial chromosome. Thus, in some examples the recombinant microorganism can be prepared by introducing a variant rpoC coding sequence vector, e.g. a plasmid, comprising the nucleic acid sequence into a precursor microorganism by one or more of transformation, conjugation, or transduction. 
+ The recombinant microorganism comprising the nucleic acid molecule also can be obtained, for example, by introducing a portion of a variant rpoC coding sequence, e.g. cloned in a vector, and using the portion to replace a corresponding portion of an endogenous chromosomal wild-type rpoC coding sequence, e.g. by gene replacement by homologous recombination, e.g. by using a sacB vector. This also can be accomplished by standard techniques of molecular biology. Thus, in some examples, the recombinant microorganism comprises a chromosome, and the variant rpoC coding sequence is present in the chromosome based on replacement of an endogenous rpoC coding sequence by the variant rpoC coding sequence. 
+ The recombinant microorganism can be prepared from a bacterium of diverse bacteria. As discussed above, based on the various N-terminal, central, and C-terminal domain sequences being strictly or generally conserved among the 19 diverse bacteria, it is believed that the corresponding sequences make important contributions, structurally and/or functionally, in the roles that RpoC plays in transcription and in replication of chromosomes and plasmids among diverse bacteria. Also, it is believed that in RpoC the N-terminal domain in particular plays an important role in determining copy number of plasmids. Thus, in some examples, the recombinant microorganism can be prepared from one or more of a bacterium of the genus  Thermus , for example,  Thermus thermophilus , the genus  Acetobacter , for example,  Acetobacter pasteurianus , the genus  Neisseria , for example,  Neisseria gonorrhoeae , the genus  Legionella , for example,  Legionella pneumophila , the genus  Pseudomonas , for example,  Pseudomonas aeruginosa , the genus  Vibrio , for example,  Vibrio cholerae , the genus  Escherichia , for example,  Escherichia coli , the genus  Salmonella , for example,  Salmonella enterica serovar Typhimurium , the genus  Actinomyces , for example,  Actinomyces odontolyticus , the genus  Streptomyces , for example,  Streptomyces coelicolor , the genus  Corynebacterium , for example,  Corynebacterium diphtherias , the genus  Mycobacterium , for example,  Mycobacterium tuberculosis , the genus  Rhodococcus , for example,  Rhodococcus equi , the genus  Chlamydia , for example,  Chlamydia trachomatis , the genus  Clostridium , for example,  Clostridium botulinum , the genus  Bacillus , for example,  Bacillus subtilis , the genus  Streptococcus , for example,  Streptococcus pneumoniae , the genus  Enterococcus , for example,  Enterococcus faecalis , or the genus  Lactobacillus , for example,  Lactobacillus brevis.    
+ As noted above, a variant RpoC that includes the R47C substitution and that is otherwise identical to wild-type RpoC of  E. coli  exhibits a decrease in plasmid copy number of, for example, about 25% to 75%. As discussed below, this has been achieved in various  E. coli  strains. Accordingly, the nucleic acid molecule comprising the variant rpoC coding strand can regulate plasmid copy number specifically in a bacterium of the genus  Escherichia , particularly a bacterium of the species  Escherichia coli . Thus, in some examples, the recombinant microorganism can be prepared from one or more of a bacterium of the genus  Escherichia  or a bacterium of the species  Escherichia coli.    
+ A method for regulating copy number of a subject vector in the recombinant microorganism also is disclosed. Use of the variant rpoC coding sequence for regulating copy number of the subject vector in the recombinant microorganism also is disclosed. The recombinant microorganism can be as described above. Thus, in some examples the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 28, (2) a central domain comprising SEQ ID NO: 29, and (3) a C-terminal domain comprising SEQ ID NO: 30, wherein the R47C substitution is present within the N-terminal domain, as discussed above. In some examples the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 31, (2) a central domain comprising SEQ ID NO: 32, and (3) a C-terminal domain comprising SEQ ID NO: 33, wherein the R47C substitution is present within the N-terminal domain, as discussed above. In some examples the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 27, as discussed above. In some examples the variant RpoC comprises SEQ ID NO: 27, as discussed above. In some examples, the recombinant microorganism can be prepared from one or more of a bacterium of the genus  Escherichia  or a bacterium of the species  Escherichia coli . In some examples expression of the variant RpoC in the recombinant microorganism decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 26 in a control microorganism, for example by 10% to 80%, e.g. by 25% to 75%, 30% to 70%, 35% to 65%, 40% to 60%, 45% to 55%, 10% to 40%, 20% to 50%, 30% to 60%, 40% to 70%, or 50% to 80%. 
+ The method comprises cultivating the recombinant microorganism in a culture medium under conditions sufficient for replication of the subject vector, thereby regulating copy number of the subject vector. As noted above, a vector can correspond to one or more of a plasmid, a viral vector, a cosmid, or an artificial chromosome. Also as discussed, RpoC plays a role in replication of plasmids. Thus, in some examples the subject vector comprises a plasmid. 
+ The cultivation can be carried out by standard techniques of microbiology, for example in culture tubes, flasks, and/or bioreactors, the details of which will be apparent to a person of ordinary skill in the art. The cultivation can be carried out in suitable culture media, e.g. a nutrient rich medium or a minimal medium, the details of which also will be apparent to a person of ordinary skill in the art. The cultivation can be carried out at suitable incubation temperatures, e.g. at or about 25-38° C., 28-37° C., or 37° C., the details of which also will be apparent to a person of ordinary skill in the art. As the recombinant microorganism grows and divides during cultivation, the vector will replicate. Thus, for example, regarding a recombinant microorganism prepared from  Escherichia coli , the recombinant microorganism can be cultivated by a fermentation technique, in batch or continuously, in a bioreactor. The cultivation can be carried out in a minimal medium, e.g. a medium including defined amounts of salts such as M9 Minimal Salts Medium, and one or more carbon sources, e.g. glucose, sucrose, or lignocellulosic materials, among others. The cultivation can be carried out at about 37° C. Such conditions support growth and division of  Escherichia coli , and thus will support replication of the vector. Other suitable conditions for cultivation of recombinant microorganisms prepared from  Escherichia coli , as well as from other microorganisms, are known and will be apparent to a person of ordinary skill in the art. 
+ A method for making a target product by use of the recombinant microorganism also is disclosed. Use of the recombinant microorganism for making a target product also is disclosed. Again, the recombinant microorganism can be as described above. Thus, in some examples the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 28, (2) a central domain comprising SEQ ID NO: 29, and (3) a C-terminal domain comprising SEQ ID NO: 30, wherein the R47C substitution is present within the N-terminal domain, as discussed above. In some examples the variant RpoC comprises: (1) an N-terminal domain comprising SEQ ID NO: 31, (2) a central domain comprising SEQ ID NO: 32, and (3) a C-terminal domain comprising SEQ ID NO: 33, wherein the R47C substitution is present within the N-terminal domain, as discussed above. In some examples the variant RpoC comprises an amino acid sequence that is at least 90% identical to SEQ ID NO: 27, as discussed above. In some examples the variant RpoC comprises SEQ ID NO: 27, as discussed above. In some examples, the recombinant microorganism can be prepared from one or more of a bacterium of the genus  Escherichia  or a bacterium of the species  Escherichia coli . In some examples expression of the variant RpoC in the recombinant microorganism decreases copy number of a plasmid relative to expression of wild-type RpoC comprising SEQ ID NO: 26 in a control microorganism, for example by 10% to 80%, e.g. by 25% to 75%, 30% to 70%, 35% to 65%, 40% to 60%, 45% to 55%, 10% to 40%, 20% to 50%, 30% to 60%, 40% to 70%, or 50% to 80%. 
+ In accordance with this method, the recombinant microorganism comprises a target gene vector, and the target gene vector comprises a target gene for making a target product. The vector can be, for example, a recombinant plasmid including a target gene from an organism, such as a microorganism of the domain Bacteria, Archaea, or Eukaryota, an animal, and/or a plant, among other organisms. Regarding a microorganism of the domain Bacteria in particular, the target gene can be from, for example, a bacterium of the genus  Escherichia , such as  Escherichia coli , a bacterium of the genus  Corynebacterium , such as  Corynebacterium glutamicum , or a bacterium of the genus  Bacillus , such as  Bacillus subtilis , among others. Numerous techniques for genetic engineering have been developed, allowing recombinant expression of genes of diverse organisms, including microorganisms of the domain Bacteria, Archaea, and Eukaryota, as well as animals and plants, among other organisms. Such techniques can be applied to clone and express target genes from diverse organisms in a recombinant microorganism in accordance with the present disclosure, as will be apparent to a person of ordinary skill in the art. 
+ In some examples, the target product comprises one or more of (i) a target RNA, (ii) a target protein, (iii) a target biomaterial, (iv) a target polymer, precursor thereof, and/or enzyme for production thereof, (v) a target sweetener, precursor thereof, and/or enzyme for production thereof, (vi) a target oil, precursor thereof, and/or enzyme for production thereof, (vii) a target fat, precursor thereof, and/or enzyme for production thereof, (viii) a target polysaccharide, precursor thereof, and/or enzyme for production thereof, (ix) a target amino acid, precursor thereof, and/or enzyme for production thereof, (x) a target nucleotide, precursor thereof, and/or enzyme for production thereof, (xi) a target vaccine, precursor thereof, and/or enzyme for production thereof, or (xii) a target pharmaceutical product, precursor thereof, and/or enzyme for production thereof. Thus, in some examples the target gene encodes a target RNA, and the target product corresponds to the target RNA. Also in some examples the target gene encodes a target protein, and the target product corresponds to the target protein. Also in some examples the target gene encodes a target RNA and/or a target protein, and the target RNA and/or target protein play a role in turn in producing a target biomaterial, a target polymer, precursor thereof, and/or enzyme for production thereof, a target sweetener, precursor thereof, and/or enzyme for production thereof, a target oil, precursor thereof, and/or enzyme for production thereof, a target fat, precursor thereof, and/or enzyme for production thereof, a target polysaccharide, precursor thereof, and/or enzyme for production thereof, a target amino acid, precursor thereof, and/or enzyme for production thereof, a target nucleotide, precursor thereof, and/or enzyme for production thereof, a target vaccine, precursor thereof, and/or enzyme for production thereof, or a target pharmaceutical product, precursor thereof, and/or enzyme for production thereof. For example, with respect to a target polymer, a target sweetener, a target oil, a target fat, a target polysaccharide, a target amino acid, and/or a target nucleotide, the target gene can encode a target protein that corresponds to an enzyme that produces the target polymer, the target sweetener, the target oil, the target fat, the target polysaccharide, the target amino acid, and/or the target nucleotide, either directly or through a precursor. Also for example, with respect to a vaccine, the target gene can encode a target protein that corresponds to an antigen or antigen fragment, e.g. a protein subunit, a receptor, or other protein of a pathogenic microorganism, or a fragment thereof, that can be used as a component of a vaccine against the pathogenic microorganism. Also for example, with respect to a target pharmaceutical product, the target gene can encode a target protein, such as an antibody, a receptor, or a hormone, that can be used as a component of a pharmaceutical product. 
+ In some examples, the vector comprises a plurality of target genes, e.g. multiple target genes from a particular organism, and/or one or more target genes from each of multiple organisms. Also in some examples, the target gene is for making a plurality of target products. 
+ In some examples, the target gene vector, e.g. a plasmid, has a size of 3 to 120 kb. Recombinant vectors often occur in sizes of 3 to 120 kb, as these are typical sizes for vectors into which target genes have been cloned. 
+ The method comprises a step of (1) cultivating the recombinant microorganism in a culture medium under conditions under which the recombinant microorganism expresses the target gene, thereby making the target product. Again, the cultivation can be carried out by standard techniques of microbiology, for example in culture tubes, flasks, and/or bioreactors, in suitable culture media, e.g. a nutrient rich medium or a minimal medium, at suitable incubation temperatures, e.g. at or about 25-38° C., 28-37° C., or 37° C., the details of which will be apparent to a person of ordinary skill in the art. 
+ The method also comprises a step of (2) recovering the target product from the recombinant microorganism and/or the culture medium. Suitable approaches for recovering the target product can be developed based on details of the target product, e.g. standard techniques of protein purification for a target product corresponding to a target protein, or standard techniques of polymer extraction and precipitation for a target product corresponding to a target polymer, among other approaches, the details of which will be apparent to a person of ordinary skill in the art, depending for example on the type of target product, e.g. RNA, protein, polymer, etc., specific details of the target product, e.g. chemical structure, molecular weight, affinity tag, etc., and desired purity, e.g. low to high. For example, regarding a target product corresponding to a target RNA, following cultivation of the recombinant microorganism, the target RNA can be recovered from the recombinant microorganism by use of an RNAsnap™ method, as described by Stead et al., Nucleic Acids Research 40(20), e156:1-9 (2012), or by commercially available methods such as TRIzol® Max™ Bacteria RNA isolation kit (ThermoFisher Scientific), RNeasy® Protect Bacteria isolation kit (Qiagen), or RiboPure™ Bacteria RNA isolation (ThermoFisher Scientific), among other methods known in the art. For a target product corresponding to a target protein, the target protein can be recovered from the recombinant microorganism by extraction, ion-exchange chromatography, affinity chromatography, and/or concentration by precipitation, according to procedures well known in the art. For a target product corresponding to a target polymer, the target polymer can be recovered by extraction, washing, and concentration, with compositions for washing and precipitants for concentration chosen based on chemical structure and molecular weight, also according to procedures well known in the art. For a target product corresponding to a target sweetener, a target oil, a target fat, a target polysaccharide, a target amino acid, or a target nucleotide, if the target product accumulates within the recombinant microorganism, then similar approaches also can be used, whereas if the target product accumulates extracellularly, then the target product can be recovered, e.g. by precipitation from the culture medium, again according to procedures well known in the art. For a target product corresponding to a target vaccine or a target pharmaceutical product, the target product can be recovered, for example, as described above for a target protein, e.g. based on ion-exchange chromatography for a target vaccine corresponding to an antigen or an antigen fragment, or based on affinity chromatography for a pharmaceutical product corresponding to a monoclonal antibody, among other approaches, again according to procedures well known in the art. 
+ In some examples, the recombinant microorganism can be prepared by introducing the target gene vector into the recombinant microorganism by one or more of transformation, conjugation, or transduction, as discussed above. 
+ Considering the target product in more detail, in some examples the target product comprises one or more of (i) a target polymer, precursor thereof, and/or enzyme for production thereof, or (ii) a target biopolymer, precursor thereof, and/or enzyme for production thereof. Biological production of polymers, including biopolymers, can be challenging, based on a need for coordinated introduction and expression of multiple target genes in a recombinant microorganism, particularly for polymers based on monomers having complicated chemical structures and/or copolymers including two or more monomers. Similar considerations also apply regarding other target products as discussed above, particularly a target sweetener, a target fat, a target polysaccharide, a target amino acid, a target nucleotide, a target vaccine, and a target pharmaceutical product. 
+ The method can be useful for rapidly determining suitable copy numbers for the vectors comprising multiple target genes, e.g. for production of a target polymer, a target biopolymer, a target sweetener, a target fat, a target polysaccharide, a target amino acid, a target nucleotide, a target vaccine, or a target pharmaceutical product, for balancing stable incorporation of the vectors in recombinant microorganisms and control of yield of products of the target genes. A set of vectors can be prepared. The vectors can include one or more target genes. The vectors can vary with respect to their baseline copy numbers. The vectors can be introduced into a first bacterial strain, e.g. an  E. coli  strain, comprising a wild-type rpoC coding sequence, which thus expresses a wild-type RpoC, to obtain a first set of  E. coli  strains including the vectors and expressing the wild-type RpoC. The vectors also can be introduced into a corresponding second recombinant bacterial strain, e.g. a recombinant  E. coli  strain that comprises a variant rpoC coding sequence that encodes a variant RpoC comprising the R47C substitution, which thus expresses a variant RpoC, the second strain otherwise being identical to the first strain, to obtain a second set of corresponding  E. coli  strains including the vectors and expressing the variant RpoC. The method can be carried out by cultivating the first and second sets of strains in a culture medium under conditions under which the strains express the one or more target genes, thereby making the target product, and recovering the target product. Copy numbers can be determined for each vector during the cultivating. Yields of the target product or other relevant characteristics can be determined during the recovering. This approach can substantially decrease the lower limit of copy number that can be achieved for the first set of strains, which can be advantageous for maintaining viability of cells of the strains in cases in which expression of target genes is deleterious, e.g. for target genes that encode target RNAs and/or target proteins that are toxic to cells when expressed above certain levels in the cells. This approach also can effectively double sample size with respect to testing effects of vector copy number on yields of a target product. This approach can particularly be used for vectors corresponding to plasmids, including plasmids in sizes of 3 to 120 kb and/or including multiple target genes. 
+ A gene replacement vector comprising a variant rpoC coding sequence and a gene replacement sequence also is disclosed. The variant rpoC coding sequence encodes a variant RpoC N-terminal domain comprising SEQ ID NO: 28. In this case the variant rpoC coding sequence does not need to be a full length variant rpoC coding sequence, and preferably includes only enough of a variant rpoC coding sequence to undergo homologous recombination with an endogenous rpoC coding sequence in a chromosome of a microorganism into which the gene replacement vector is to be introduced. The variant rpoC coding sequence can include, for example, 0.2 to 5 kb, 0.5 to 3 kb, 0.7 to 2.5 kb, 0.8 to 2 kb, 0.9 to 1.5 kb, or about 1 kb of a full length variant rpoC coding sequence. 
+ The gene replacement sequence encodes a protein for replacing the endogenous rpoC coding sequence in a chromosome of a microorganism with the variant rpoC coding sequence. In some examples the gene replacement sequence comprises the sacB gene, and the protein comprises SacB. Exemplary sacB vectors include pKO3 and pKOV as described by Link et al., Journal of Bacteriology 179:6228-6237 (1997), and the following website: arep.med.harvard.edu/labgc/pko3.html. 
+ The gene replacement vector can be made by cloning the variant rpoC coding sequence, e.g. 0.2 to 5 kb, 0.5 to 3 kb, 0.7 to 2.5 kb, 0.8 to 2 kb, 0.9 to 1.5 kb, or about 1 kb of a full length variant rpoC coding sequence, into a precursor vector. The precursor vector can include the gene replacement sequence, e.g. the sacB gene, that encodes the protein, e.g. SacB, for replacing the endogenous rpoC coding sequence in a chromosome of a microorganism with the variant rpoC coding sequence. 
+ The gene replacement vector can be used to replace an endogenous rpoC coding sequence in a chromosome of a microorganism with the variant rpoC coding sequence comprising SEQ ID NO: 28 by standard techniques of molecular biology. Use of sacB vectors for gene replacement also is described by Link et al. and the website: arep.med.harvard.edu/labgc/pko3. html. 
+ EXAMPLES 
+ Example 1 
+ Construction of Plasmids for Replacing the rpoC Sequence on a Chromosome 
+ (1) Preparation of rpoC Fragment and sacB Vector. 
+ In order to amplify two 0.5 kb DNA fragments containing a partial variant rpoC sequence that has a modified nucleotide sequence (SEQ ID NO: 1), the genomic DNA (gDNA) of  Escherichia coli  strain LS5218, which was obtained from the Coli Genetic Stock Center (CGSC) (strain 6966), was extracted using a QIAGEN Genomic-tip system, and a polymerase chain reaction (PCR) was performed using the gDNA as a template with a PfuUltra II Fusion HS DNA Polymerase (manufactured by Agilent). The corresponding modified RpoC protein, as deduced from the nucleotide sequence, is SEQ ID NO: 27. The modified RpoC protein sequence takes into account that the rpoC nucleotide sequence includes an alternative start codon GTG, instead of ATG. Although GTG generally codes for valine, GTG as an alternative start codon codes for methionine. A PCR was performed using primers of SEQ ID NO: 3 and SEQ ID NO: 4 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 30 seconds. Another PCR was performed using primers of SEQ ID NO: 5 and SEQ ID NO: 6 for elongation at 72° C. for 30 seconds. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain two different 0.5 kb DNA fragments. 
+ In order to prepare a gene replacement vector ( FIGS. 6A-B ) containing the sacB gene and R6K origin, pSKH130 was digested with a restriction enzyme EcoRV. The PCR mixture and the reaction mixture of EcoRV digestion were purified with a QIAGEN purification kit and then eluted to obtain a first 0.5 kb DNA fragment, a second 0.5 kb DNA fragment, and a 4.7 kb vector DNA fragment (also termed “sacB vector cut”). 
+ (2) Construction of Plasmids for Replacing the rpoC Sequence. 
+ The first 0.5 kb DNA fragment, the second 0.5 kb DNA fragment, and the sacB vector cut described in Example: 1-(1) were used for the construction of pJSL47. The pJSL47 plasmid was constructed using a NEBuilder HiFi DNA Assembly Master Mix (manufactured by NEB) and BW25113, which is the strain 7636 of the Coli Genetic Stock Center (CGSC). 
+ (3) Preparation of Recombinant  E. coli  CC06-9642. 
+ In order to substitute the rpoC on the chromosome of  Escherichia coli  LS5218 (SEQ ID NO: 7) with the variant rpoC sequence (SEQ ID NO: 1), pJSL47 plasmid was introduced by electroporation into  E. coli  strain LS5218 followed by selection of single colonies grown on a Luria-Bertani (LB) agar plate containing 50 μg/L of kanamycin. Insertion of pJSL47 into the chromosome of the selected colonies was confirmed by PCR using primers of SEQ ID NO: 8 and SEQ ID NO: 9. The selected strains were grown on LB agar plates lacking NaCl but containing 10% sucrose in order to “pop out” the sacB gene and the R6K origin. The transformants were verified for the replacement of LS5218 rpoC (SEQ ID NO: 7) with the variant rpoC sequence (SEQ ID NO: 1) by PCRs and sequence confirmations. The resulting strain that has a correct genotype was designated as  E. coli  CC06-9642. 
+ Example 2 
+ Measurement of the Plasmid Copy Number 
+ Both LS5218, a wild type strain, and strain CC06-9642 contain an F-like plasmid (67,502 bp). After CC06-9642 was created, the presence of the F-like plasmid was confirmed by a PCR method. The primers used were, for example, of SEQ ID NOS: 10 and 11. When CC06-9642 was created, CC06-9637 was also created. The difference between them is that CC06-9642 contains the F-like plasmid, but CC06-9637 doesn't contain it. RpoC of CC06-9637 is also a variant rpoC. 
+ The plasmid copy number of the two strains was measured using a real-time PCR (also termed “qPCR”) method that used SYBR (R) Green I dye to detect PCR products by binding double-stranded DNA formed during the PCR. The protocol employed a Fast SYBR (R) Green Cells-to-Ct (TM) kit to perform cell lysis and PCR reaction in “one-pot” on an Applied Biosystems 7500 Fast real-time PCR system. 
+ To prepare cell lysate, the overnight culture of each strain in LB broth was diluted with a cold (4° C.) 1×PBS buffer followed by addition of a lysis Solution, stop solution (Fast SYBR (R) Green Cells-to-Ct kit, Cat. #4402956) and an RNase A (Life Technologies, Cat. #12091-021, 20 mg/ml). The qPCR reaction mixture was prepared by adding 4 μL of cell lysate to 16 μL of PCR cocktail, the composition of which is shown in TABLE 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+ 
+   
+ 
+ 
+ PCR cocktail composition 
+ 
+ 
+ 
+ 
+   
+ Component 
+ Volume 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Fast SYBR (R) Green PCR Master 
+   10 μL 
+ 
+ 
+   
+ Mix 
+ 
+ 
+   
+ Forward primer (50 μM stock) 
+ 0.12 μL 
+ 
+ 
+   
+ Reverse primer (50 μM stock) 
+ 0.12 μL 
+ 
+ 
+   
+ Nuclease-free water 
+ 5.76 μL 
+ 
+ 
+   
+ Final volume of PCR cocktail for 20 μL 
+   16 μL 
+ 
+ 
+   
+ qPCR reaction mixture 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ The copy numbers of the F-like plasmid in the LS5218 and CC06-9642 cell samples were estimated from the relative abundance of marker DNA sequences, specifically RepFIA and RepFIC, on the plasmids relative to that of a single copy chromosomal lacZ gene encoding (3-galactosidase. The primers used for RepFIA were SEQ ID NO: 24 and SEQ ID NO: 25. The primers used for RepFIC were SEQ ID NO: 10 and SEQ ID NO: 11. The primers used for lacZ were SEQ ID NO: 12 and SEQ ID NO: 13. 
+ The real-time PCR reactions were performed using the 7500 Fast real-time PCR default program as follows: 1 cycle of enzyme activation at 95° C. for 20 seconds, 40 cycles of denaturation at 95° C. for 3 seconds, annealing and extension at 60° C. for 30 seconds, and dissociation curve. 
+ The plasmid copy number was measured by calculating 2 Δct , where ΔCt was calculated by subtracting RepFIC Ct value from lacZ gene Ct value (ΔCt=Ct_ lacZ −Ct_ repFIC .). 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+ 
+   
+ 
+ 
+ Copy number measurement results using qPCR. 
+ 
+ 
+ 
+ 
+   
+   
+ RepFIA relative 
+   
+ 
+ 
+   
+   
+ abundance to 
+ RepFIC relative 
+ 
+ 
+   
+ Strain 
+ lacZ 
+ abundance to lacZ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ LS5218 
+ 9.2 
+ 11.5 
+ 
+ 
+   
+ CC06-9642 
+ 6.2 
+ 4.3 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in TABLE 3, the copy number of F-like plasmid of CC06-9642 was lower than that of the control LS5218. Thus, it was confirmed that the variant rpoC sequence resulted in a decrease of copy number of F-like plasmid. When the plasmid copy number is excessive, metabolic burdens may be exerted in the cells of a microorganism. The above results indicate that the variant rpoC can have a function of regulating plasmid copy number, and thus it can be known from the results above that the strain can be stably grown and the plasmid can be stably expressed. 
+ Example 3 
+ Construction of Plasmids Containing a Modified DNA Sequence of RepFIC Replicon 
+ (1) Preparation of RepFIC Fragment and Kanamycin-Resistance Gene Fragment. 
+ In order to amplify the 5.2 kb DNA fragment containing the RepFIC replicon (SEQ ID NO: 14), the genomic DNA (gDNA) of  E. coli  LS5218, was extracted using a QIAGEN Genomic-tip system, and a polymerase chain reaction (PCR) was performed using the gDNA as a template with a PfuUltra II Fusion HS DNA Polymerase (manufactured by Agilent). The PCR was performed using primers of SEQ ID NO: 15 and SEQ ID NO: 16 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 5 minutes. 
+ In order to amplify the 1.4 kb DNA fragment containing the kanamycin-resistance gene, PCR was performed using the plasmid pKD4 as a template with a PfuUltra II Fusion HS DNA Polymerase. PCR was performed using primers of SEQ ID NO: 17 and SEQ ID NO: 18 as follows: 30 cycles of denaturation at 94° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 1 minute 30 seconds. 
+ After PCR reactions were completed and then mixed, 1.3 μL of DpnI and 5.7 μl of 10× buffer Tango from Thermo Fisher Scientific (Cat No. ER1701) were added to the each of 50 μL PCR mixtures, which were then incubated at 37° C. for 1 hour to remove the template DNA. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain a 5.2 kb DNA fragment (also termed “RepFIC fragment”) and a 1.4 kb DNA fragment (also termed “KanR fragment”). 
+ (2) Preparation of RepFIC Fragment Containing a Modified Sequence. 
+ A modified RepFIC replicon (SEQ ID NO: 19) that includes a single nucleotide substitution relative to the RepFIC replicon of  E. coli  LS5218 and that results in an increase in plasmid copy number has been obtained. In order to amplify a 5.2 kb DNA fragment containing the modified RepFIC replicon (SEQ ID NO: 19), PCR was performed using the gDNA of  E. coli  LS5218 as a template with a PfuUltra II Fusion HS DNA Polymerase. A PCR was performed using primers of SEQ ID NO: 15 and SEQ ID NO: 20 as follows: 30 cycles of denaturation at 95° C. for 30 seconds, annealing at 56° C. for 30 seconds, and elongation at 72° C. for 3 minutes. Another PCR was performed using primers of SEQ ID NO: 21 and SEQ ID NO: 16 for elongation at 72° C. for 2 minutes and 30 seconds. 
+ After PCR reactions were completed, 1.3 μL of DpnI and 5.7 μl of 10× buffer Tango from Thermo Fisher Scientific (Cat No. ER1701) were added to the 50 μL PCR reaction mixtures that were then incubated at 37° C. for 1 hour to remove the template DNA. The mixtures were purified with a QIAGEN purification kit and then eluted to obtain a 2.8 kb DNA fragment and a 2.4 kb DNA fragment. 
+ (3) Construction of Plasmids Containing Wildtype or Modified Sequence of RepFIC Replicon. 
+ The RepFIC fragment and the KanR fragment described in Example: 3-(1) were used for the construction of a plasmid, termed pJSL48. The pJSL48 plasmid was constructed using a NEBuilder HiFi DNA Assembly Master Mix (manufactured by NEB), as shown in  FIG. 7A-B . 
+ The 2.8 kb and 2.4 kb DNA fragments described in Example: 3-(2) and the KanR fragment described in Example: 3-(1) were used for the construction of another plasmid, termed pJSL49. Gibson assembly of the three fragments was performed with a NEBuilder HiFi DNA Assembly Master Mix, as shown in  FIG. 8A-B . 
+ Example 4 
+ Measurement of Plasmid Copy Number 
+ To measure plasmid copy numbers, plasmids pJSL48 and pJSL49 were introduced into  E. coli  LS5218, resulting in  E. coli  strains CC06-9665 and CC06-9666. Plasmids pJSL48 and pJSL49 also were introduced into CC06-9642, resulting in  E. coli  strains CC06-9638 and CC06-9639, respectively. 
+ The copy numbers of the plasmids in the  E. coli  strains CC06-9665, 9666, 9638 and 9639 were measured using the real-time PCR method, as described in Example 2. 
+ The copy numbers of plasmids in the cell samples were estimated from the relative abundance of a marker DNA sequence on the plasmids, RepFIC replicon, relative to that of a single copy chromosomal lacZ gene encoding (3-galactosidase. The primers used for RepFIC were SEQ ID NO: 10 and SEQ ID NO: 11. The primers used for lacZ were SEQ ID NO: 12 and SEQ ID NO: 13. The primers used for the kanamycin-resistance gene were SEQ ID NO: 22 and SEQ ID NO: 23. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+ 
+   
+ 
+ 
+ qPCR copy number measurement results 
+ 
+ 
+ 
+ 
+   
+   
+ KanR relative 
+   
+ 
+ 
+   
+   
+ abundance to 
+ repFIC relative 
+ 
+ 
+   
+ Strain 
+ lacZ 
+ abundance to lacZ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ CC06-9665 
+ 5.4 
+ 8.8 
+ 
+ 
+   
+ CC06-9666 
+ 51.7 
+ 71.0 
+ 
+ 
+   
+ CC06-9638 
+ 4.0 
+ 4.8 
+ 
+ 
+   
+ CC06-9639 
+ 18.4 
+ 19.6 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ As shown in TABLE 4, the plasmid copy numbers of strains CC06-9666 and 9639, which are the strains containing the modified RepFIC sequence that was introduced into the plasmid pJSL49, were higher than those of strains CC06-9665 and 9638. The plasmid copy number of strain CC06-9665 was higher than that of CC06-9638, and the plasmid copy number of strain CC06-9666 was higher than that of CC06-9639. Thus, it was confirmed that the replaced rpoC sequence resulted in a decrease of plasmid copy number independent of which RepFIC replicon, i.e. RepFIC replicon of  E. coli  LS5218 or modified RepFIC, was used. 
+ INDUSTRIAL APPLICABILITY 
+ The nucleic acid molecules comprising the variant rpoC coding sequence disclosed herein are useful for regulating copy numbers of vectors, such as plasmids, and thus are useful for improving commercial production of target products by use of the vectors. 
+ Information Regarding Biological Deposit 
+ An  E. coli  strain transformed to include a nucleic acid molecule comprising a variant rpoC coding sequence that encodes a variant RpoC that includes an R47C substitution was prepared as described above, was designated as  Escherichia coli  CC06-9637, and was deposited on Jun. 15, 2018 at the Korean Culture Center of Microorganisms, which is an International Depositary Authority under the Budapest Treaty, under Accession No. KCCM12276P. This strain is deposited by an International Depository Authority under the Budapest Treaty. 
+ Reference to a “Sequence Listing,” a Table, or a Computer Program Listing Appendix Submitted as an ASCII Text File 
+ The material in the ASCII text file, named “CJCJ-58557U51-Sequences_ST25.txt”, created Aug. 3, 2019, file size of 266,240 bytes, is hereby incorporated by reference. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

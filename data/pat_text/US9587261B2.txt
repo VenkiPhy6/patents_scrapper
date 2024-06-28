@@ -1,0 +1,1465 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CROSS REFERENCE TO RELATED APPLICATIONS 
+ This application is a National Stage Entry of International Application No. PCT/KR2013/000214 (WO 2013/105800), filed on Jan. 10, 2013, and claims the benefit of Korean Application Nos. 10-2012-0002906, filed on Jan. 10, 2012 and 10-2013-0002913, filed on Jan. 10, 2013, each of which is incorporated herein by reference in its entirety for all purposes as if fully set forth herein. 
+ TECHNICAL FIELD 
+ The present invention relates to a microorganism of the genus  Escherichia  having enhanced L-tryptophan productivity, and a method of producing L-tryptophan using the same. 
+ Incorporated by reference herein in its entirety is the Sequence Listing entitled “sequence Listing.txt”, created Jul. 8, 2014, size of 44 kilobytes. 
+ BACKGROUND ART 
+ L-tryptophan, an essential amino acid, has been widely used as a feed additive, a raw material for medical drugs such as infusion solutions, and a material for healthfoods, and has been produced by chemical synthesis, enzymatic reaction, fermentation, etc. 
+ Recently, production of L-tryptophan is mainly carried out by microbial fermentation. In the initial stage of industrialization, analogue resistant strains obtained by chemical mutation have been mainly used. However, as gene recombination technologies rapidly developed in the 1990s and regulatory mechanisms were understood at the molecular level, the recombinant  E. coli  and  Corynebacterium  strains obtained by genetic engineering techniques have been mainly used. 
+ The production of tryptophan by microorganisms starts with DAHP(3-deoxy-D-arobino-heptulosonate-7-phosphate) produced by the polymerization of PEP (PhospoEnolPyruvate) that is an intermediate of glycolysis, with E4P (erythrose-4-phosphate) that is an intermediate of the pentose phosphate pathway. Then, tryptophan is biosynthesized from chorismate through the common aromatic biosynthetic pathway. Specifically, tryptophan is synthesized by anthranilate synthase (EC 4.1.3.27) encoded by trpE gene, anthranilate synthase (EC 4.1.3.27) and anthranilate PRPP transferase (EC 2.4.1.28) encoded by trpD gene, indole-3-glycerol phosphate synthase (EC 4.1.1.48) and phosphoribosylanthranilate isomerase (EC 5.3.1.24) encoded by trpC gene, and tryptophan synthase (EC 4.2.1.20) encoded by trpB gene and trpA gene. The gene cluster trpEDCBA that mediates the above reaction is placed in the chromosome and have an operon structure containing a single regulatory region. 
+ A tryptophan operon is actively transcribed so as to produce a sufficient amount of tryptophan required by the cell. However, if tryptophan level in the cell is high, a repressor binds to tryptophan and then the tryptophan operon is inactivated by the binding of the repressor to operon regulatory region, thereby the transcription is inhibited. 
+ In addition, operons for biosynthesis of amino acids such as threonine, phenylalanine, leucine, tryptophan and histidine have another regulatory mechanism known as an attenuation (J Bacteriol. (1991) 173, 2328-2340). As is known in the art with respect to the attenuation, under conditions deficient in amino acids, the structure of the mRNA corresponding specific sequence region between the promoter and the first gene of the operon on the chromosome, changes to a structure advantageous for the translation process to promote the expression of biosynthetic genes, but under conditions rich in the amino acids, the short transcribed mRNA forms a three-dimensional structure, named “hairpin structure, to inhibit the translation process (J Biol Chem., (1988) 263:609-612). 
+ In the initial stage of the development of L-tryptophan-producing strains, it was a major object to increase the efficiency of production through the enhancement of enzyme activity either by releasing the feedback inhibition of tryptophan biosynthesis pathway enzymes caused by the final product, tryptophan or by increasing the copy number of the tryptophan operon genes on the chromosome or in the form of vector in order to enhance the expression of tryptophan biosynthetic enzymes (Appl. Environ. Microbiol., (1982) 43:289-297; Appl. Microbiol. Biotechnol., (1993) 40:301-305; Trends Biotechnol., (1996) 14:250-256). 
+ Methods for imparting the ability to produce L-tryptophan to microorganisms include a method of imparting resistance to tryptophan analogues or anthranilate as the intermediate product by chemical mutation, or a method of modifying microorganisms by genetic engineering. Examples of the chemical mutation method include those described in Korean Patent Registration No. 1987-0001813, Korean Patent Registration No. 0949312 and the like, and examples of the modification method based on genetic engineering include various approaches which use a strain obtained by enhancing the transketolase-encoding tktA gene or the galactose permease-encoding galP gene in the aromatic amino acid biosynthesis pathway to increase the supply of E4P (erythrose4-phosphate) or PEP (phosphoenolpyruvate) and reducing the feedback inhibition of DAHP (3-deoxy-D-arabino-heptulosonate-7-phosphate) in order to enhance the aromatic biosynthetic pathway (Trends Biotechnol., (1996)14:250-256, Microbial Cell Factories (2009) 8:19), or a strain obtained by additionally introducing tryptophan operon genes into the vector or chromosome (Appl. Environ. Microbiol., (1982) 43:289-297, Appl. Microbiol. Biotechnol., (1993) 40:301-305). 
+ However, even though the tryptophan operon was introduced with releasing the feedback inhibition of the biosynthetic enzymes, those approaches did not reached to an increase in the production yield of tryptophan, due to the regulatory mechanisms such as the inhibition or attenuation of the operon genes at transcription level. 
+ DISCLOSURE 
+ Technical Problem 
+ The present inventors have developed a method of releasing the inhibition or attenuation of tryptophan operon genes at transcription level in an L-tryptophan-producing strain, and a method capable of enhancing tryptophan biosynthetic enzymes using the same. In addition, in order to solve the problem in that the production yield of tryptophan-producing strains does not increase because of anthranilate accumulation as the tryptophan operon is enhanced, the present inventors have constructed a tryptophan-producing strain which has increased production yield and low level of anthranilate accumulation by expressing the gene cluster other than the gene encoding anthranilate synthase(TrpE) among the tryptophan operon genes as a form which is desensitized a regulatory mechanism such as the feedback inhibition or inhibition mechanism 
+ It is an object of the present invention to provide a microorganism of the genus  Escherichia  having enhanced L-tryptophan productivity by modifying so as to desinsitize the inhibition or attenuation of the tryptophan operon and reduce the accumulation of anthranilate. 
+ Another object of the present invention is to provide a method of producing L-tryptophan using the microorganism of the genus  Escherichia.    
+ Technical Solution 
+ In order to accomplish the above objects, an embodiment of the present invention provides a recombinant microorganism of the genus  Escherichia  having enhanced L-tryptophan productivity which has been modified to delete a part or all of a leader peptide having a nucleotide sequence represented by SEQ ID NO: 2 in an expression regulatory region having a nucleotide sequence represented by SEQ ID NO: 1 on an endogenous tryptophan operon. 
+ Another embodiment of the present invention also provides a method for producing L-tryptophan, comprising culturing the above-described recombinant microorganism of the genus  Escherichia.    
+ Advantageous Effects 
+ The recombinant microorganism produced according to the present invention eliminates the excessive accumulation of anthranilate therein and can be advantageously used to produce L-tryptophan in high yield. 
+ 
+ DESCRIPTION OF DRAWINGS 
+   FIG. 1  shows a schematic view representing the tryptophan operon genes, a regulatory region for the genes in the  E. coli  chromosome, and the deletion form of the gene described in the present invention. 
+ A) Tryptophan operon genes, and a regulatory region thereof in the  E. coli  chromosome(Ptrp); 
+ B) A Ptrp form; 
+ C) A form that the trpL gene encoding leader peptide is deleted (DtrpL); and 
+ D) A form that the trpL gene encoding the leader peptide and the attenuator are deleted (Dtrp_att). 
+   FIG. 2  shows a pCL-GFP vector used to measure the intensity of an expression regulatory region of the tryptophan operon. 
+   FIG. 3  shows the vector pINT17E-Patt-trpDCBA for introducing the tryptophan biosynthetic genes trpDCBA into the chromosome to increase the copy number of the genes. 
+ 
+ MODE FOR INVENTION 
+ Hereinafter, the present invention will be described in detail. 
+ An embodiment of the present invention provides a recombinant microorganism of the genus  Escherichia  having enhanced L-tryptophan productivity, which has been modified to delete part or all of a leader peptide having a nucleotide sequence represented by SEQ ID NO: 2 in an expression regulatory region having a nucleotide sequence represented by SEQ ID NO: 1 on an endogenous tryptophan operon. 
+ As used herein, the term “tryptophan operon” or “Trp operon” means the entire operon including all the trpEDCBA genes. The tryptophan operon has a nucleotide sequence represented by SEQ ID NO: 9. 
+ An L-tryptophan-producing microorganism that may be used in the present invention may be any prokaryotic or eukaryotic microorganism as long as they have a L-tryptophan productivity. Examples of this microorganism may include microorganisms belonging to the genus  Escherichia , the genus  Erwinia , the genus  Serratia , the genus  Providencia , the genus  Corynebacterium  and the genus  Brevibacterium . The microorganism is specifically a microorganism belonging to the genus  Escherichia , and more specifically  E. coli . Most specifically, the  E. coli  strain of the present invention may be a strain obtained by enhancing the activities of tryptophan biosynthetic enzymes such as anthranilate synthase (TrpE), anthranilate PRPP transferase (TrpD), phosphoribosyl anthranilate isomerase (TrpC) or tryptophan synthase (TrpA, TrpB) while maintaining 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase (aroG) which is released for feedback inhibition, enhancing the activities of aromatic biosynthesis pathway enzymes such as 3-dehydroquinate synthetase(AroB), shikimate dehydrogenase (AroE), shikimate kinase (AroL), 5-enolpyruvylshikimate-3-phosphate synthase (AroA) or chorismate synthase (AroC), enhancing the activity of phosphoglycerate dehydrogenase (SerA) or transketolase (TktA) to enhance the supply of the intermediates, serine and PRPP, of the tryptophan biosynthesis pathway. Furthermore, the  E. coli  strain of the present invention may be a strain obtained by inactivating the activities of prephenate dehydratase and chorismate mutase (PheA) in the aromatic biosynthesis pathway or inactivating the activities of prephenate dehydrogenase, chorismate mutase (tyrA), tryptophanase (tnaA) and tryptophan transporter (tnaB, mtr). 
+ More specifically, the recombinant microorganism of the present invention is recombinant  E. coli  strain CA04-2004 (accession number: KCCM11246P). 
+ As used herein, the term “expression regulatory region” of the endogenous tryptophan operon means a region including a promoter, a leader peptide and an endogenous attenuator. Specifically, the expression regulatory region has a nucleotide sequence represented by SEQ ID NO: 1. 
+ As used herein, the term “leader peptide” means a low-molecular-weight peptide that is encoded by the upstream leader sequence of the start codon of the gene. Specifically, the leader peptide has a nucleotide sequence represented by SEQ ID NO: 2, and a polypeptide that is expressed by the leader peptide may be an amino acid sequence represented by SEQ ID NO: 4. This leader peptide functions to form the hairpin structure when the concentration of tryptophan is high, thereby promoting the structure-formation of the endogenous attenuator to terminate the transcription of tryptophan biosynthetic genes. 
+ As used herein, the term “delete” means removing part or all of either a nucleotide sequence from the start codon to the stop codon of the target gene, or the nucleotide sequence of a regulatory region thereof, from the chromosome. 
+ An aspect of the present invention also provides a recombinant microorganism of the genus  Escherichia , which further has been modified to delete part or all of an endogenous attenuator having a nucleotide sequence represented by SEQ ID NO: 3 so as to enhance its ability to produce L-tryptophan. 
+ As used herein, the term “endogenous attenuator” means a region having a nucleotide sequence represented by SEQ ID NO: 3, which excludes the promoter and the leader peptide in the expression regulatory region that causes the attenuation mechanism. 
+ An aspect of the present invention also provides a microorganism of the genus  Escherichia , which further has been modified to enhance activities of proteins that are encoded by the tryptophan operon. 
+ An aspect of the present invention also provides a microorganism of the genus  Escherichia , which further has been modified to enhance activities of proteins that are encoded by the tryptophan biosynthetic gene cluster trpDCBA excluding the trpE gene encoding anthranilate synthase. 
+ As used herein, the term “tryptophan biosynthetic gene cluster” means a gene cluster consisting of a combination of two or more of trpD, trpC, trpB and trpA that are tryptophan operon genes. Specifically, the tryptophan biosynthetic gene cluster may be a trpDCBA gene cluster having a nucleotide sequence represented by SEQ ID NO: 10. Herein, the trpD gene encodes a protein having an amino acid sequence represented by SEQ ID NO: 37; the trpC gene encodes a protein having an amino acid sequence represented by SEQ ID NO: 38; the trpB gene encodes a protein having an amino acid sequence represented by SEQ ID NO: 39; and the trpA gene encodes a protein having an amino acid sequence represented by SEQ ID NO: 40. 
+ Enhancing the activity of the tryptophan biosynthetic gene cluster except for anthranilate synthase that is encoded by the trpE gene of the tryptophan operon is performed to solve the problem which the production yield of tryptophan does not increase due to accumulation of anthranilate as the tryptophan operon is enhanced. 
+ Methods for enhancing the expression of the genes include: 1) a method of increasing the chromosomal or intracellular copy number of the genes; or 2) a method of replacing the chromosomal promoter of the genes with a strong exogenous promoter or modifying the chromosomal promoter to a strong promoter. 
+ Examples of the method of increasing the copy number include a method of introducing the gene into a vector to enhance the expression of the gene. Examples of a vector that may be used in the present invention include plasmid vectors such as pBR, pUC, pBluescriptll, pGEM, pTZ, pCL and pET-type plasmids. Vectors that may be used in the present invention are not particularly limited to, and any known expression vectors may be used. Specifically, pACYC177, pACYC184, pCL, pECCG117, pUC19, pBR322 or pMW118 vectors may be used. Most specifically, pACYC177, pCL and pCC1BAC vectors may be used. 
+ Meanwhile, examples of an exogenous promoter that may be used in the present invention include, but are not limited to, known promoters such as trc, lac and tac promoters. In addition, modifying the chromosomal promoter to a strong promoter can be performed by deleting part or all of the leader peptide and/or further deleting part or all of the endogenous attenuator as described above, but is not limited thereto. 
+ In a specific embodiment of the present invention, a recombinant L-tryptophan-producing microorganism of the genus  Escherichia  was produced by deleting part or all of the leader peptide having a nucleotide sequence represented by SEQ ID NO: 2 in the expression regulatory region having a nucleotide sequence represented by SEQ ID NO: 1 on the endogenous tryptophan operon, and deleting part or all of the endogenous attenuator having a nucleotide sequence represented by SEQ ID NO: 3 so as to increase the ability to produce L-tryptophan. In addition, the recombinant L-tryptophan-producing microorganism was produced by further enhancing the activities of the proteins having an amino acid sequence represented by SEQ ID NOS: 37, 38, 39 and 40, which are encoded by the tryptophan biosynthetic gene cluster trpDCBA excluding the trpE gene encoding anthranilate synthase. The produced recombinant microorganism was deposited as the accession number KCCM11246P. 
+ Another embodiment of the present invention also provides a method for producing L-tryptophan, comprising culturing recombinant L-tryptophan-producing microorganism of the genus  Escherichia  having enhanced L-tryptophan productivity. 
+ In a specific aspect, the present invention provides a method comprising culturing a recombinant L-tryptophan-producing microorganism of the genus  Escherichia  having enhanced L-tryptophan productivity, which has been modified to delete part or all of the leader peptide having a nucleotide sequence represented by SEQ ID NO: 2 in the expression regulatory region having a nucleotide sequence represented by SEQ ID NO: 1 on an endogenous tryptophan operon and to delete part or all of the endogenous attenuator having a nucleotide sequence represented by SEQ ID NO: 3 so as to increase the ability to produce L-tryptophan, and further to enhance the activities of the proteins which is encoded by the tryptophan operon by enhancing the expression of tryptophan biosynthetic gene cluster trpDCBA excluding the trpE gene encoding anthranilate synthase. 
+ The media and culture conditions that are used in culture of the microorganism of the present invention may be any of those that are used in culture of microorganisms belonging to the genus  Escherichia , but these should suitably satisfy the requirements of the microorganism of the present invention. Specifically, the microorganism of the present invention may be cultured in a conventional medium containing suitable carbon sources, nitrogen sources, amino acids, vitamins and the like under aerobic conditions while adjusting temperature, pH and the like. 
+ Carbon sources that may be used in the present invention include carbohydrates such as glucose, fructose, sucrose, maltose, mannitol, sorbitol; alcohols such as sugar alcohol, glycerol, pyruvic acid, lactic acid and citric acid; and amino acids such as organic acid, glutamic acid, methionine and lysine. In addition, natural organic nutrient sources such as starch hydrolysates, molasses, blackstrap molasses, rice bran, cassava, bagasse and corn steep liquor may be used. Specifically, carbohydrates such as glucose and sterile pretreated molasses (i.e., molasses converted to reduced sugars) may be used. In addition, suitable amounts of other carbon sources may be used without limitation. 
+ Nitrogen sources that may be used in the present invention include inorganic nitrogen sources such as ammonia, ammonium sulfate, ammonium chloride, ammonium acetate, ammonium carbonate, and ammonium nitrate; amino acids such as glutamic acid, methionine and glutamine; and organic nitrogen sources such as peptone, NZ-amine, meat extract, yeast extract, malt extract, corn steep liquor, casein hydrolysate, fish meal or its digested product, defatted soybean cake or its digested product, etc. These nitrogen sources may be used alone or in combination. 
+ The medium may contain, as phosphorus sources, potassium phosphate monobasic, potassium phosphate dibasic and corresponding sodium-containing salts. Inorganic compounds that may be used in the present invention include sodium chloride, calcium chloride, iron chloride, magnesium sulfate, iron sulfate, manganese sulfate and calcium carbonate. In addition, the medium may contain amino acids, vitamins and suitable precursors. These sources or precursors may be added to the medium in a batch or continuous manner. 
+ Compounds such as ammonium hydroxide, potassium hydroxide, ammonia, phosphoric acid and sulfuric acid may be added to the medium in a suitable manner during culture to adjust the pH of the culture medium. In addition, during the culture, a antifoaming agent such as fatty acid polyglycol ester may be used to suppress the formation of bubbles. Further, in order to maintain the culture medium in an aerobic state, oxygen or oxygen-containing gas may be injected into the culture medium. In addition, in order to maintain the culture medium in an anaerobic or non-aerobic state, no gas is injected, or nitrogen, hydrogen or carbon dioxide gas may be injected into the culture medium. 
+ The culture medium is typically maintained at a temperature ranging from 27° C. to 37° C., and specifically from 30° C. to 35° C. Culture of the microorganism may be continued until the desired level of the useful substance will be obtained. Specifically, the culture period is may be 10-100 hours. 
+ The method of the present invention may further comprise purifying or recovering the L-amino acid produced in the culture step. The purification or recovery process may be performed by purifying or recovering the desired L-amino acid from the culture medium using a suitable method, for example, a batch, continuous or fed-batch culture method. 
+ Hereinafter, the present invention will be described in further detail with reference to examples. It is to be understood, however, that these examples are for illustrative purposes and are not intended to limit the scope of the present invention. 
+ EXAMPLES 
+ Example 1 
+ Construction of a Fusion Vector Comprising GFP and an Expression Regulatory Region from which a Leader Peptide was Removed, in Order to Release an Expression Regulation for Tryptophan Biosynthesis 
+ As shown in  FIG. 1 , in order to amplify an expression regulatory region comprising a deletion of the trpL gene encoding a leader peptide (L) (the expression regulatory region is hereinafter referred to as “DtrpL”, corresponding to  FIG. 1C ) in an expression regulatory region of the tryptophan operon which is composed of a promoter (P), the leader peptide (L) and an attenuator (A), polymerase chain reaction (hereinafter referred to as “PCR”) was performed using the chromosomal DNA of an  E. coli  W3110 strain (purchased from the American Type Culture Collection (ATCC); GenBank accession number AC000091) as a template. 
+ Specifically, a 155 bp fragment having a KpnI restriction enzyme site in the 5′ region was amplified by PCR with Pfu polymerase using primers 1 and 2 under the following conditions: 30 cycles, each consisting of denaturation at 94 t for 1 min, annealing at 58° C. for 30 sec, and extension at 72 t for 30 sec. Meanwhile, a 105 bp fragment having an EcoRV restriction enzyme site in the 3′ region was amplified by PCR using primers 3 and 4 under the above-described conditions. The obtained DNA fragments were recovered using GeneAll® Expin™ GEL SV kit (Seoul, Korea), and then used as a template for crossover PCR. 
+ In order to make the DtrpL, crossover PCR was performed using the two DNA fragments as a template and primers 1 and 4. Specifically, a 245 bp fragment (SEQ ID NO: 5) was amplified by PCR under the above-described conditions. The amplified fragment was treated with the restriction enzymes KpnI and EcoRV, and then ligated with pCL1920GFP (SEQ ID NO: 8) which was treated with the same restriction enzymes, thereby constructing pCL-DtrpL_GFP. 
+ In order to amplify an expression regulatory region comprising a deletion of the genes encoding the leader peptide (L) and the attenuator (A) (the expression regulatory region is hereinafter referred to as “Dtrp_att”) in the expression regulatory region of the tryptophan operon, a 148 bp fragment (SEQ ID NO: 6) having a KpnI restriction enzyme site in the 5′ region and an EcoRV restriction enzyme site in the 3′ region was amplified by PCR using the chromosomal DNA of the  E. coli  W3110 strain as a template and primers 1 and 5. The amplified fragment was treated with the restriction enzymes KpnI and EcoRV, and then ligated with pCL1920GFP which was treated with the same restriction enzymes, thereby constructing pCL-Dtrp_att-GFP. 
+ In addition, in order to make a vector having a wild-type expression regulatory region for use as a control in subsequent experiments, a 290 bp fragment having a KpnI restriction enzyme site in the 5′ region and an EcoRV restriction enzyme site in the 3′ region was amplified by PCR using the chromosomal DNA of the  E. coli  W3110 strain as a template and primers 1 and 4. The amplified fragment was treated with the restriction enzymes KpnI and EcoRV, and then ligated with pCL1920GFP which was treated with the same restriction enzymes, thereby constructing pCL-Ptrp-GFP. 
+ 
+ 
+ 
+ 
+ 
+   
+ Primer 1: 
+ 
+ 
+   
+ (SEQ ID NO: 11) 
+ 
+ 
+   
+ 5′ TTAGGTACCGGCGCACTCCCGTTCTGGATA 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 2: 
+ 
+ 
+   
+ (SEQ ID NO: 12) 
+ 
+ 
+   
+ 5′ ACTGCCCGTTGTCGATACCCTTTTTACGT 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 3: 
+ 
+ 
+   
+ (SEQ ID NO: 13) 
+ 
+ 
+   
+ 5′ TCGACAACGGGCAGTGTATTCACCATG 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 4: 
+ 
+ 
+   
+ (SEQ ID NO: 14) 
+ 
+ 
+   
+ 5′ AATGATATCTGTTATTCTCTAATTTTGTT 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 5: 
+ 
+ 
+   
+ (SEQ ID NO: 15) 
+ 
+ 
+   
+ 5′ AATGATATCACCCTTTTTACGTGAACTTG 3′. 
+ 
+ 
+ 
+ 
+ 
+ Example 2 
+ Measurement of Expression Level of GFP 
+ Each of the pCL-DtrpL_GFP, pCL-Dtrp_att-GFP and pCL-Ptrp GFP vectors prepared in Example 1 was transformed into wild-type  E. coli  W3110 and the tryptophan-producing strain  E. coli  KCCM10812P, and then the intensities of GFP in the strains were measured. 
+ The parent strain  E. coli  KCCM10812P (Korean Patent Registration No. 10-0792095) used in this Example is a strain derived from an  E. coli  variant having L-phenylalanine productivity (KFCC 10066, Korean Patent Publication No. 1985-0001232). Specifically, KCCM10812P is a recombinant  E. coli  strain having L-tryptophan productivity, wherein the strain has been modified to recover tryptophan auxotrophy, to inactivate the pheA, trpR, mtr and tnaAB genes, and to mutate the aroG and trpE genes. 
+ Specifically, each of the strains was inoculated into 25 ml of M9 medium (containing 0.5% glucose+2 g/L yeast extract and further containing 0.1 g/L tyrosine and 0.1 g/L phenylalanine in the case of KCCM10812) in a 250 ml flask at a volume ratio of 1/100 (v/v) and cultured at 37° C. until a predetermined OD was reached. The cultured strains were recovered by centrifugation and washed once with 1×TE, and GFP therein was measured using Synergy HT Multi-Mode Microplate Reader (Biotek, USA). 
+ The results of the measurement are shown in Table 1 below. OD1 and OD3 in Table 1 indicate the OD values measured at 600 nm using UV mini-1240 spectrophotometer (Shimadzu) after diluting each of the culture products to a suitable concentration. 
+ As shown in  FIG. 1 , in the case of the wild-type W3110 strain, with respect to that of Ptrp as 1, the relative intensity of Dtrp_att (comprising a deletion of the leader peptide and the attenuator) was about 7 fold at an OD value of 1 (OD1) and 10 fold at an OD value of 3 (OD3), and the relative intensity of DtrpL comprising a deletion of only the leader peptide was about 1.5-2 fold higher than that of the wild-type regulatory region (Ptrp). In comparison with this, in the case of the L-tryptophan-producing strain KCCM 10812P, with respect to that of Ptrp taken as 1, the relative intensity of Dtrp_att (comprising a deletion of the leader peptide and the attenuator) was about 19 fold at an OD value of 1 (OD1) and 27 fold at an OD value of 3 (OD3), and the relative intensity of DtrpL comprising a deletion of only the leader peptide was about 4 fold higher than that of the wild-type regulatory region (Ptrp). Such results indicate that the deletion of the leader peptide or the attenuator leads to an increase in expression, even though this increase in expression in the wild-type strain is weaker than in the L-tryptophan producing strain. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 1 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   
+ GFP measurement (fold) 
+   
+ 
+ 
+ 
+ 
+   
+ Strain 
+ Promoter 
+ OD1 
+ OD3 
+ 
+ 
+   
+   
+ 
+ 
+   
+ W3110 
+ Dtrp_att 
+ 6.5 ± 0.7 
+ 9.6 ± 1.1 
+ 
+ 
+   
+   
+ DtrpL 
+ 1.5 ± 0.2 
+ 2.4 ± 0.3 
+ 
+ 
+   
+   
+ Ptrp 
+ 1 
+ 1 
+ 
+ 
+   
+ KCCM10812P 
+ Dtrp_att 
+ 18.9 ± 1.3  
+  27 ± 2.0 
+ 
+ 
+   
+   
+ DtrpL 
+ 3.8 ± 0.5 
+ 3.9 ± 0.8 
+ 
+ 
+   
+   
+ Ptrp 
+ 1 
+ 1 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ Example 3 
+ Construction of Vectors Having Tryptophan Operon (trpEDCEA) Whose Expression Regulatory Region was Replaced 
+ Based on the results of Example 2, in order to construct an  E. coli  strain whose tryptophan operon genes were enhanced using a vector, a 6564 bp fragment (SEQ ID NO: 9) was amplified using the chromosomal DNA of the parent strain  E. coli  KCCM10812P as a template and primers 6 and 7 under the above-described PCR conditions. 
+ The amplified DNA fragment was recovered using GeneAll® Expin™ GEL SV kit (Seoul, Korea), and then treated with the restriction enzymes EcoRV and HindIII. For cloning with the prepared DNA fragment, each of the pCL-Dtrp_att-GFP, pCL-DtrpL_GFP and pCL-Ptrp_GFP vector was treated with EcoRV and HindIII to remove the GFP region, thereby obtaining 4291 bp fragments. Each of the prepared vectors was ligated with the insert, and then introduced into  E. coli  DH5a by transformation, thereby constructing pCL-Dtrp_att-trpEDCBA, pCL-DtrpL_trpEDCBA and pCL-Ptrp_trpEDCBA vectors. 
+ 
+ 
+ 
+ 
+ 
+ Primer 6: 
+ 
+ 
+ (SEQ ID NO: 16) 
+ 
+ 
+ 5′ CCCGATATCATGCAAACACAAAAACCGAC 3′; 
+ 
+ 
+   
+ 
+ 
+ Primer 7: 
+ 
+ 
+ (SEQ ID NO: 17) 
+ 
+ 
+ 5′ GGGAAGCTTAAAGGATCCGTGGGATTAACTGCGCGTCGCCGCT 
+ 
+ 
+ TT 3′. 
+ 
+ 
+ 
+ 
+ 
+ Example 4 
+ Construction of Vectors Whose Expression Regulatory Region was Replaced and which Had Tryptophan Biosynthetic Gene Cluster (trpDCRA) Excluding trpE 
+ In order to construct vectors by replacing the GFP region of the pCL-Dtrp_att-GFP, pCL-DtrpL_GFP and pCL-Ptrp_GFP vectors prepared in Example 1 with trpDCBA, each of the pCL Dtrp_att-GFP, pCL-DtrpL_GFP and pCL-Ptrp_GFP vectors was treated with EcoRV and HindIII to remove the GFP region, thereby obtaining 4291 bp fragments. 
+ Then, in order to construct  E. coli  strains whose the trpDCBA genes of the tryptophan operon were enhanced using a vector, a 5002-bp fragment (SEQ ID NO: 10) was amplified by PCR using the chromosomal DNA of the parent strain  E. coli  KCCM10812P as a template and primers 7 and 8. 
+ The amplified DNA fragment was recovered using GeneAll® Expin™ GEL SV kit (Seoul, Korea), and then treated with the restriction enzymes EcoRV and HindIII. The prepared vector and insert were ligated with each other, and then introduced into  E. coli  DH5a by transformation, thereby constructing pCL-Dtrp_att-trpDCBA, pCL-DtrpL_trpDCBA and pCL-Ptrp_trpDCBA vectors. 
+ 
+ 
+ 
+ 
+ 
+   
+ Primer 8: 
+ 
+ 
+   
+ (SEQ ID NO: 18) 
+ 
+ 
+   
+ 5′ AAAGATATCATGGCTGACATTCTGCTGCT 3′. 
+ 
+ 
+ 
+ 
+ 
+ Example 5 
+ Construction of Vectors Having Low Copy Number of Tryptophan Operon Genes Having Various Expression Regulatory Regions 
+ A typical vector that is expressed with low copy number in  E. coli  is pCC1BAC (Epicentre, USA). In order to express the tryptophan operon genes with low copy number using this vector, the pCL-Dtrp_att-trpEDCBA, pCL-DtrpL_trpEDCBA, pCL-Ptrp_trpEDCBA, pCL-Dtrp_att-trpDCBA, pCL-DtrpL_trpDCBA and pCL-Ptrp_trpDCBA prepared in Examples 3 and 4 were digested with the restriction enzyme HindIII. 
+ The resulting DNA fragments were electrophoresed on agarose, and then cut according to their size and recovered using GeneAll® Expin™ GEL SV kit (Seoul, Korea). Next, each of the fragments was ligated with the pCC1BAC vector (digested at the HindIII site), and then introduced into  E. coli  DH5a by transformation. 
+ Each of the transformed strains was smeared on LB Cm solid medium (LB+chloramphenicol agar plate), and strains having Cm resistance were selected, thereby constructing pBAC-Dtrp_att-trpEDCBA, pBAC-DtrpL_trpEDCBA, pBAC-Ptrp_trpEDCBA, pBAC-Dtrp_att-trpDCBA, pBAC-DtrpL_trpDCBA and pBAC-Ptrp_trpDCBA vectors. 
+ Example 6 
+ Construction of  E. coli  Strain in which pheA Gene was Inactivated 
+ In order to construct a strain close to a tryptophan-producing strain from the wild type  E. coli  W3110 strain, the pheA gene (NCBI gene ID: 12934467) encoding chorismate mutase/prephenate dehydratase (CM-PDT) was inactivated by deletion through homologous recombination. CM-PDT is an enzyme in the first step of producing phenylalanine from chorismate, and deletion of the pheA gene was used to inhibit the phenylalanine biosynthesis pathway. For this deletion, the one-step inactivation method (developed by Datsenko K A et al.), mutagenesis technique using lambda red recombinase, was used (One-step inactivation of chromosomal genes in  Escherichia coli  K-12 using PCR products, Datsenko K A, Wanner B L., Proc Natl Acad Sci USA. 2000 Jun. 6; 97(12):6640-5). As a marker for confirming insertion into the genes, the chloramphenicol-resistant gene of pUCprmfmloxC was used (Korean Patent Laid-Open Publication No. 2009-0075549). 
+ An about 1200 bp gene fragment was amplified by PCR using the vector pUCprmfmloxP as a template and primers 9 and 10, which have a portion of the pheA gene and a portion of the nucleotide sequence of the chloramphenicol-resistant gene of the pUCprmfmloxP vector. 
+ 
+ 
+ 
+ 
+ 
+ Primer 9: 
+ 
+ 
+ (SEQ ID NO: 19) 
+ 
+ 
+ 5′-GGCCTCCCAAATCGGGGGGCCTTTTTTATTGATAACAAAAAGGCA 
+ 
+ 
+ ACACTAGGTGACACTATAGAACGCG-3′; 
+ 
+ 
+   
+ 
+ 
+ Primer 10: 
+ 
+ 
+ (SEQ ID NO: 20) 
+ 
+ 
+ 5′-AACAGCCCAATACCTTCATTGAACGGGTGATTTCCCCTAACTCTT 
+ 
+ 
+ TCAATTAGTGGATCTGATGGGTACC-3′. 
+ 
+ 
+ 
+ 
+ 
+ The DNA fragment obtained by PCR amplification was electrophoresed on 0.8% agarose gel, and then eluted and used as a template in secondary PCR. Secondary PCR was performed so that the 5′ and 3′ regions of the primary DNA fragment had 20 pairs of complementary nucleotide bases. In addition, an about 1300 bp gene fragment was amplified by PCR using the eluted primary PCR product as a template and primers 11 and 12, which include the 5′ and 3′ regions of the pheA gene. The resulting DNA fragment was electrophoresed on 0.8% agarose gel, and then eluted and used in recombination. 
+ 
+ 
+ 
+ 
+ 
+ Primer 11: 
+ 
+ 
+ (SEQ ID NO: 21) 
+ 
+ 
+ 5′-GAATGGGAGGCGTTTCGTCGTGTGAAACAGAATGCGAAGACGAAC 
+ 
+ 
+ AATAAGGCCTCCCAAATCGGGGGGC-3′; 
+ 
+ 
+   
+ 
+ 
+ Primer 12: 
+ 
+ 
+ (SEQ ID NO: 22) 
+ 
+ 
+ 5-GGCACCTTTTCATCAGGTTGGATCAACAGGCACTACGTTCTCACTT 
+ 
+ 
+ GGGTAACAGCCCAATACCTTCATT-3′. 
+ 
+ 
+ 
+ 
+ 
+ According to the method developed by Datsenko K A et al., the W3110  E. coli  strain transformed with the pKD46 vector was made as competent status, and then transformed with the 1300 bp gene fragment obtained by PCR. The strain having resistance to chloramphenicol was selected on LB medium. PCR was performed using primers 13 and 14, and the PCR amplification product had a size of about 2500 bp, indicating that the pheA gene was deleted in the strain. 
+ 
+ 
+ 
+ 
+ 
+   
+ Primer 13: 
+ 
+ 
+   
+ (SEQ ID NO: 23) 
+ 
+ 
+   
+ 5′-TTGAGTGTATCGCCAACGCG-3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 14: 
+ 
+ 
+   
+ (SEQ ID NO: 24) 
+ 
+ 
+   
+ 5′-AAAGCCGCGTGTTATTGCGT-3′. 
+ 
+ 
+ 
+ 
+ 
+ The pKD46 vector was removed from the primary recombinant strain having chloramphenicol resistance, and then a pJW168 vector was introduced into the strain, and the chloramphenicol marker gene was removed from the strain (Gene, (2000) 247, 255-264). The resulting strain was an about 500 bp amplification product obtained by PCR using primers 13 and 14, indicating that the target gene deletion was achieved. The constructed strain was named “ E. coli  W3110 trpΔ1”. 
+ Example 7 
+ Construction of  E. coli  Strain from which tnaAB Gene was Inactivated 
+ From the  E. coli  W3110 trpΔ1 strain constructed in Example 6, the tnaAB operon (NCBI gene ID: 12933600, 12933602) consisting of the tnaA gene encoding tryptophanase and the tnaB gene encoding tryptophan importer was deleted by homologous recombination. Due to this deletion, the degradation pathway of tryptophan after its production can be blocked, and the influx of tryptophan which is secreted to the medium into the cells can be prevented, thereby imparting the properties of tryptophan-producing strains. For this deletion, an about 1200 bp gene fragment was amplified by PCR in the same manner as described in Example 6 using the vector pUCprmfmloxP as a template together with primers 15 and 16, which have a portion of the tnaAB gene and a portion of the nucleotide sequence of the chloramphenicol-resistant gene of the pUCprmfmloxP vector. In addition, the DNA fragment obtained by PCR amplification was further amplified by PCR in the same manner as described in Example 6 using  primers  17 and 18, thereby obtaining a 1300 bp gene fragment. 
+ 
+ 
+ 
+ 
+ 
+ Primer 15: 
+ 
+ 
+ (SEQ ID NO: 25) 
+ 
+ 
+ 5′-TTAGCCAAATTTAGGTAACACGTTAAAGACGTTGCCGAACCAGCA 
+ 
+ 
+ CAAAAAGGTGACACTATAGAACGCG-3′ 
+ 
+ 
+   
+ 
+ 
+ Primer 16: 
+ 
+ 
+ (SEQ ID NO: 26) 
+ 
+ 
+ 5′-ATGAAGGATTATGTAATGGAAAACTTTAAACATCTCCCTGAACCG 
+ 
+ 
+ TTCCGTAGTGGATCTGATGGGTACC-3′; 
+ 
+ 
+   
+ 
+ 
+ Primer 17: 
+ 
+ 
+ (SEQ ID NO: 27) 
+ 
+ 
+ 5′-TGATTTCCTGAGAGGCAAGAAGCCAGCGAATGGCTGGCTTCTTGA 
+ 
+ 
+ AGGATTTAGCCAAATTTAGGTAACA-3′; 
+ 
+ 
+   
+ 
+ 
+ Primer 18: 
+ 
+ 
+ (SEQ ID NO: 28) 
+ 
+ 
+ 5′-AATCGGTATAGCAGATGTAATATTCACAGGGATCACTGTAATTAA 
+ 
+ 
+ AATAAATGAAGGATTATGTAATGGA-3′. 
+ 
+ 
+ 
+ 
+ 
+ In order to delete the tnaAB genes, the  E. coli  strain W3110 trpΔ1 that the vector pKD46 was introduced was made competent was constructed in the same manner described in Example 6, and then the 1300 bp gene fragment obtained by PCR was transformed into the  E. coli  strain. The strain having resistance to chloramphenicol was selected on LB medium. PCR was performed using primers 19 and 20, and the PCR amplification product had a size of about 5400 bp, indicating that the tnaAB genes were deleted in the strain. 
+ 
+ 
+ 
+ 
+ 
+   
+ Primer 19: 
+ 
+ 
+   
+ (SEQ ID NO: 29) 
+ 
+ 
+   
+ 5′-CGGGATAAAGTAAAACCAGG-3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 20: 
+ 
+ 
+   
+ (SEQ ID NO: 30) 
+ 
+ 
+   
+ 5′-CGGCGAAGGTAAGTTGATGA-3′. 
+ 
+ 
+ 
+ 
+ 
+ The pKD46 vector was removed from the primary recombinant strain having chloramphenicol resistance in the same manner described in Example 6, and then the chloramphenicol marker gene was removed from the strain. The resulting strain was an about 550 bp amplification product obtained by PCR using primers 19 and 20, indicating that the desired gene deletion was achieved. The constructed strain was named “ E. coli  W3110 trpΔ2”. 
+ Example 8 
+ Identification of L-Tryptophan Productivity of Strains Having Tryptophan Operon Having Various Expression Patterns 
+ The  E. coli  strains transformed with the vectors prepared according to the methods described in Examples 3, 4 and 5. The effects of the E.  Coli  variant were evaluated using W3110 trpΔ2 prepared in Examples 6 and 7 as a parent strain, and its carbon source was glucose. 
+ In order to evaluate the titer, each strain was inoculated by a platinum loop and cultured overnight on LB solid medium. Then, one platinum loop of each strain was inoculated into 25 mL of glucose-containing medium, the composition of the medium is shown in Table 2 below. After inoculation, each strain was incubated at 37° C. and 200 rpm for 48 hours. The results are shown in Table 3 below. All the results were recorded as the average of three flask results. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 2 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Composition 
+ Concentration (per liter) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ Glucose 
+ 2 
+ g 
+ 
+ 
+   
+ KH2PO 4   
+ 1 
+ g 
+ 
+ 
+   
+ (NH 4 ) 2 SO 4   
+ 12 
+ g 
+ 
+ 
+   
+ NaCl 
+ 1 
+ g 
+ 
+ 
+   
+ Na 2 HPO 4 •H 2 O 
+ 5 
+ g 
+ 
+ 
+   
+ MgSO 4 •H 2 O 
+ 1 
+ g 
+ 
+ 
+   
+ MnSO 4 •H 2 O 
+ 15 
+ mg 
+ 
+ 
+   
+ CuSO 4 •H 2 O 
+ 3 
+ mg 
+ 
+ 
+   
+ ZnSO 4 •H 2 O 
+ 30 
+ mg 
+ 
+ 
+   
+ Sodium citrate 
+ 1 
+ g 
+ 
+ 
+   
+ Yeast extract 
+ 1 
+ g 
+ 
+ 
+   
+ Phenylalanine 
+ 0.15 
+ g 
+ 
+ 
+ 
+ 
+   
+ pH 
+ 6.8 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+   
+ 
+ 
+ Parent 
+   
+ L-tryptophan 
+ Anthranilate 
+ 
+ 
+ strain 
+ Vector 
+ (g/L)** 
+ (mg/L)** 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ W3110 trp Δ2 
+ pCL1920 
+ pCC1BAC 
+ 0.1 
+ 13 
+ 
+ 
+   
+ pCL- 
+ pBAC-Ptrp_trpEDCBA 
+ 0.4 
+ 56 
+ 
+ 
+   
+ Ptrp_trpEDCBA 
+ pBAC-DtrpL_trpEDCBA 
+ 0.4 
+ 53 
+ 
+ 
+   
+   
+ pBAC-Dtrp_att- 
+ 0.5 
+ 61 
+ 
+ 
+   
+   
+ trpEDCBA 
+ 
+ 
+   
+ pCL- 
+ pBAC-Ptrp_trpEDCBA 
+ 0.4 
+ 68 
+ 
+ 
+   
+ DtrpL_trpEDCBA 
+ pBAC-DtrpL_trpEDCBA 
+ 0.5 
+ 73 
+ 
+ 
+   
+   
+ pBAC-Dtrp_att- 
+ 0.4 
+ 74 
+ 
+ 
+   
+   
+ trpEDCBA 
+ 
+ 
+   
+ pCL-Dtrp_att- 
+ pBAC-Ptrp_trpEDCBA 
+ 0.6 
+ 89 
+ 
+ 
+   
+ trpEDCBA 
+ pBAC-DtrpL_trpEDCBA 
+ 0.5 
+ 95 
+ 
+ 
+   
+   
+ pBAC-Dtrp_att- 
+ 0.7 
+ 98 
+ 
+ 
+   
+   
+ trpEDCBA 
+ 
+ 
+   
+ pCL-Ptrp- 
+ pBAC-Ptrp_trpEDCBA 
+ 0.5 
+ 34 
+ 
+ 
+   
+ trpEDCBA 
+ pBAC-DtrpL_trpEDCBA 
+ 0.6 
+ 35 
+ 
+ 
+   
+   
+ pBAC-Dtrp_att- 
+ 0.6 
+ 40 
+ 
+ 
+   
+   
+ trpEDCBA 
+ 
+ 
+   
+ pCL-DtrpL- 
+ pBAC-Ptrp_trpDCBA 
+ 0.5 
+ 45 
+ 
+ 
+   
+ trpEDCBA 
+ pBAC-DtrpL_trpDCBA 
+ 0.5 
+ 42 
+ 
+ 
+   
+   
+ pBAC-Dtrp_att- 
+ 0.6 
+ 38 
+ 
+ 
+   
+   
+ trpDCBA 
+ 
+ 
+   
+ pCL-Dtrp_att- 
+ pBAC-Ptrp_trpDCBA 
+ 0.7 
+ 36 
+ 
+ 
+   
+ trpEDCBA 
+ pBAC-DtrpL_trpDCBA 
+ 0.8 
+ 28 
+ 
+ 
+   
+   
+ pBAC-Dtrp_att- 
+ 1.0 
+ 29 
+ 
+ 
+   
+   
+ trpDCBA 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ As can be seen from the results in Table 3 above, in the case in which the parent strain  E. coli  W3110 trpΔ2 was transformed with a combination of various vectors, if only the tryptophan operon was continuously enhanced, no positive effect on the production yield of tryptophan appeared while anthranilate accumulated. On the contrary, the strain modified to enhance the Trp operon and trpDCBA showed a positive effect on the production yield of tryptophan together with a decrease in the accumulation of anthranilate, compared to the strain in which only tryptophan operon was enhanced. Thus, it was confirmed that a decrease in the accumulation of anthranilate is an effective way to increase the production yield of L-tryptophan in tryptophan-producing strains. 
+ Example 9 
+ Identification of L-Tryptophan Productivity of Strains Having Tryptophan Operon Having Various Expression Patterns 
+ The vectors constructed according to the methods described in Examples 3, 4 and 5 were introduced into the L-tryptophan-producing parent strain  E. coli  KCCM10812P according to the combination shown in Table 5 below. The titers of the strains were evaluated using glucose as a carbon source. As a result, it appeared that not only the enhancement of trpDCBA, but also the enhancement of the tryptophan operon, is important, similar to the results of Example 8. Thus, the effects on the tryptophan-producing strains were evaluated. 
+ In order to evaluate the titer, each strain was inoculated by a platinum loop and cultured overnight on LB solid medium. Then, one platinum loop of each strain was inoculated into 25 mL of glucose-containing medium, the composition of the medium is shown in Table 4 below. After inoculation, each strain was incubated at 37° C. and 200 rpm for 48 hours. The results are shown in Table 5 below. All the results were recorded as the average of three flask results. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 4 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Composition 
+ Concentration (per liter) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ Glucose 
+ 60 
+ g 
+ 
+ 
+   
+ K 2 HPO 4   
+ 1 
+ g 
+ 
+ 
+   
+ (NH 4 ) 2 SO 4   
+ 10 
+ g 
+ 
+ 
+   
+ NaCl 
+ 1 
+ g 
+ 
+ 
+   
+ MgSO 4 •H 2 O 
+ 1 
+ g 
+ 
+ 
+   
+ Sodium citrate 
+ 5 
+ g 
+ 
+ 
+   
+ Yeast extract 
+ 2 
+ g 
+ 
+ 
+   
+ Calcium carbonate 
+ 40 
+ g 
+ 
+ 
+   
+ Sodium citrate 
+ 5 
+ g 
+ 
+ 
+   
+ Phenylalanine 
+ 0.15 
+ g 
+ 
+ 
+   
+ Tyrosine 
+ 0.1 
+ g 
+ 
+ 
+ 
+ 
+   
+ pH 
+ 6.8 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 5 
+ 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Glucose 
+   
+ 
+ 
+ 
+ 
+ Vector 
+   
+ consumption 
+ L-tryptophan 
+ Anthranilate 
+ 
+ 
+ 
+ 
+ pCL 
+ pBAC 
+ OD 
+ (g/L)* 
+ (g/L)** 
+ (mg/L)** 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ pCL1920 
+ pCC1BAC 
+ 13.5 
+ 53.0 
+ 7.0 
+ 1005 
+ 
+ 
+ pCL- 
+ pBAC- 
+ 14.0 
+ 52.1 
+ 7.2 
+ 1053 
+ 
+ 
+ Ptrp_trpEDCBA 
+ Ptrp_trpEDCBA 
+ 
+ 
+   
+ pBAC- 
+ 14.2 
+ 51.0 
+ 7.5 
+ 1157 
+ 
+ 
+   
+ DtrpL_trpEDCBA 
+ 
+ 
+   
+ pBAC-Dtrp_att- 
+ 13.8 
+ 52.6 
+ 7.1 
+ 1263 
+ 
+ 
+   
+ trpEDCBA 
+ 
+ 
+ pCL- 
+ pBAC- 
+ 13.9 
+ 50.0 
+ 7.5 
+ 1170 
+ 
+ 
+ DtrpL_trpEDCBA 
+ Ptrp_trpEDCBA 
+ 
+ 
+   
+ pBAC- 
+ 13.7 
+ 51.6 
+ 7.3 
+ 1290 
+ 
+ 
+   
+ DtrpL_trpEDCBA 
+ 
+ 
+   
+ pBAC-Dtrp_att- 
+ 13.6 
+ 49.8 
+ 7.8 
+ 1485 
+ 
+ 
+   
+ trpEDCBA 
+ 
+ 
+ pCL-Ptrp_att- 
+ pBAC- 
+ 13.8 
+ 49.8 
+ 7.5 
+ 1358 
+ 
+ 
+ trpEDCBA 
+ Ptrp_trpEDCBA 
+ 
+ 
+   
+ pBAC- 
+ 13.1 
+ 47.6 
+ 7.6 
+ 1501 
+ 
+ 
+   
+ DtrpL_trpEDCBA 
+ 
+ 
+   
+ pBAC-Dtrp_att- 
+ 12.7 
+ 45.3 
+ 7.5 
+ 1853 
+ 
+ 
+   
+ trpEDCBA 
+ 
+ 
+ pCL- 
+ pBAC- 
+ 14.2 
+ 52.1 
+ 7.5 
+ 950 
+ 
+ 
+ Ptrp_trpEDCBA 
+ Ptrp_trpDCBA 
+ 
+ 
+   
+ pBAC- 
+ 14.6 
+ 51.3 
+ 7.2 
+ 813 
+ 
+ 
+   
+ DtrpL_trpDCBA 
+ 
+ 
+   
+ pBAC-Dtrp_att- 
+ 14.3 
+ 52.7 
+ 7.1 
+ 687 
+ 
+ 
+   
+ trpDCBA 
+ 
+ 
+ pCL- 
+ pBAC- 
+ 13.9 
+ 50.6 
+ 7.5 
+ 953 
+ 
+ 
+ DtrpL_trpEDCBA 
+ Ptrp_trpDCBA 
+ 
+ 
+   
+ pBAC- 
+ 13.7 
+ 51.7 
+ 7.6 
+ 852 
+ 
+ 
+   
+ DtrpL_trpDCBA 
+ 
+ 
+   
+ pBAC-Dtrp_att- 
+ 13.6 
+ 51.3 
+ 7.7 
+ 715 
+ 
+ 
+   
+ trpDCBA 
+ 
+ 
+ pCL-Dtrp_att- 
+ pBAC- 
+ 13.2 
+ 51.6 
+ 8.0 
+ 1085 
+ 
+ 
+ trpEDCBA 
+ Ptrp_trpDCBA 
+ 
+ 
+   
+ pBAC- 
+ 13.9 
+ 50.9 
+ 8.6 
+ 867 
+ 
+ 
+   
+ DtrpL_trpDCBA 
+ 
+ 
+   
+ pBAC-Dtrp_att- 
+ 13.5 
+ 51.2 
+ 9.5 
+ 783 
+ 
+ 
+   
+ trpDCBA 
+ 
+ 
+   
+ 
+ 
+ *measured at 33 hours 
+ 
+ 
+ **measured at 48 hours 
+ 
+ 
+ 
+ 
+ 
+ As can be seen from the results in Table 5 above, in the case in which the parent strain  E. coli  KCCM10812P was transformed with a combination of various vectors, if only the tryptophan operon was continuously enhanced, no positive effect on the production yield of tryptophan appeared while anthranilate accumulated. On the contrary, it appears that the strain modified by enhancing the operon using the pCL vector and enhancing trpDCBA using the pBAC vector showed a positive effect on the production yield of tryptophan together with a decrease in the accumulation of anthranilate, compared to the strain in which only tryptophan operon was enhanced. Thus, it was confirmed that a decrease in the accumulation of anthranilate is an effective way to increase the production yield of L-tryptophan in tryptophan-producing strains. 
+ Example 10 
+ Construction of Strain Wherein the Copy Number of the Tryptophan Biosynthetic Gene Cluster trpDCBA in the Chromosome was Increased and the Accumulation of Anthranilate Decreased 
+ Based on the results of Example 9, in order to increase the copy number of the tryptophan biosynthetic gene cluster trpDCBA in the chromosome, a vector was constructed. 
+ Specifically, pCL-Dtrp_att-trpDCBA described in Example 5 was cleaved with the restriction enzymes EcoRI and BamHI to obtain Dtrp_att-trpDCBA, and then ligated with pINT17E treated with the same restriction enzymes, thereby obtaining pINT17E-Patt-trpDCBA. In order to introduce pINT17E-Patt-trpDCBA into the tryptophan-producing parent strain  E. coli  KCCM10812P to increase the copy number of the tryptophan biosynthetic gene cluster trpDCBA, pKD46 that is used in the one-step inactivation method (developed by Datsenko K A et al.), a mutagenesis technique using lambda red recombinase, according to Example 6. As a marker for confirming insertion into the genes, the chloramphenicol-resistant gene of pUCprmfmloxC was used. Specifically, the parent strain, in which pKD46 was introduced, transformed with pINT17E-Patt-trpDCBA, and then cultured at 37° C. for 1-2 days to obtain colonies. To confirm whether pINT17E-Patt-trpDCBA was correctly inserted into the chromosome of the obtained colonies, about 2000-bp fragment was amplified by PCR using primers 21 and 22. 
+ 
+ 
+ 
+ 
+ 
+   
+ Primer 21: 
+ 
+ 
+   
+ (SEQ ID NO: 31) 
+ 
+ 
+   
+ 5′ TATTTGCTGTCACGAGCAGG 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 22: 
+ 
+ 
+   
+ (SEQ ID NO: 32) 
+ 
+ 
+   
+ 5′ AGTTCCGGCATACAACCGGCTT 3′. 
+ 
+ 
+ 
+ 
+ 
+ pKD46 was removed from the primary recombinant strain having chloramphenicol resistance, and then pJW168 plasmid was introduced to remove the chloramphenicol marker gene from the strain (Gene, (2000) 247, 255-264). An about 5000-bp amplification product obtained by PCR using primers 23 and 24, and an about 6500-bp amplification product obtained by PCR using primers 25 and 26, it demonstrated that trpDCBA is continuously place following the tryptophan operon which endogenously place on the chromosome. This strain was named “KCCM10812P/trpDCBA”. 
+ 
+ 
+ 
+ 
+ 
+   
+ Primer 23: 
+ 
+ 
+   
+ (SEQ ID NO: 33) 
+ 
+ 
+   
+ 5′ TAATACGACTCACTATAGGG 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 24: 
+ 
+ 
+   
+ (SEQ ID NO: 34) 
+ 
+ 
+   
+ 5′ CTGTTGGGCGGAAAAATGAC 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 25: 
+ 
+ 
+   
+ (SEQ ID NO: 35) 
+ 
+ 
+   
+ 5′ TGATCGCCAGGGTGCCGACG 3′; 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Primer 26: 
+ 
+ 
+   
+ (SEQ ID NO: 36) 
+ 
+ 
+   
+ 5′ CCCTATAGTGAGTCGTATTA 3′. 
+ 
+ 
+ 
+ 
+ 
+ In order to additionally insert one copy into the above-prepared strain in which the copy number of trpDCBA was increased, pKD46 was introduced into the above-prepared KCCM10812P/trpDCBA strain. Then the pINT17E-Patt-trpDCBA vector was introduced into KCCM10812P/trpDCBA/pKD46, thereby constructing a strain having two copies of trpDCBA inserted into the chromosome. This constructed strain was named “KCCM10812P/2trpDCBA”. This strain was deposited with the Korean Culture Center of Microorganisms (361-221, Hongje 1-dong, Seodaemun-gu, Seoul, Korea), an international depository authority, on Dec. 29, 2011 under the accession number KCCM11246P. 
+ Example 11 
+ Examination of Effect of L-Tryptophan-Producing Strain Having Increased Activities of Proteins that are Encoded by the Tryptophan Biosynthetic Gene Cluster trpDCBA 
+ According to the method described in Example 10, the titer of KCCM10812P/trpDCBA was evaluated using glucose as a carbon source. The KCCM10812P/trpDCBA was obtained by further introducing trpDCBA into the tryptophan-producing strain  E. coli  KCCM10812P to enhance the activities of some enzymes of tryptophan biosynthesis pathway. 
+ To evaluate the titer, the strain was inoculated by a platinum loop and cultured overnight on LB solid medium. Then, one platinum loop of the strain culture was inoculated into 25 ml of a flask titer medium, the composition of the medium is shown in Table 4 above. After inoculation, the strain was cultured at 37° C. and 200 rpm for 48 hours. The results are shown in Table 6 below. All the results were recorded as the average of three flask results. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 6 
+ 
+ 
+   
+ 
+ 
+   
+   
+ Glucose 
+   
+   
+ 
+ 
+   
+   
+ consumption 
+ L-tryptophan 
+ Anthranilate 
+ 
+ 
+ Strain 
+ OD 
+ (g/L)* 
+ (g/L)** 
+ (mg/L) 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ KCCM10812P 
+ 14.0 
+ 54.0 
+ 7.2 
+ 1020 
+ 
+ 
+ KCCM10812P/ 
+ 14.5 
+ 54.5 
+ 7.9 
+ 630 
+ 
+ 
+ trpDCBA 
+ 
+ 
+ KCCM10812P/2 
+ 13.3 
+ 55.2 
+ 8.2 
+ 320 
+ 
+ 
+ trpDCBA 
+ 
+ 
+   
+ 
+ 
+ *measured at 33 hours 
+ 
+ 
+ **measured at 48 hours 
+ 
+ 
+ 
+ 
+ 
+ As can be seen in Table 6 above, when one copy of the tryptophan biosynthetic gene cluster trpDCBA was inserted into the chromosome, the concentration of anthranilate decreased by 39% compared to that in the parent strain. however two copies were inserted into the chromosome, the concentration of anthranilate decreased by 69% compared to that in the parent strain. 
+ In addition, the concentrations of L-tryptophan in the two strains increased by 10% and 13%, respectively. As shown in Table 6 above, when the copy number of trpDCBA was increased, the consumption rate of glucose slightly decreased in some cases, but the enhancement of the tryptophan biosynthetic gene cluster has positive effects on an increase in the concentration of L-tryptophan and a decrease in the concentration of anthranilate. 
+ While the present invention has been described with reference to the particular illustrative embodiments, those skilled in the art to which the present invention pertains can understand that the present invention may be embodied in other specific forms without departing from the technical spirit or essential characteristics of the present invention. Therefore, the embodiments described above are considered to be illustrative in all respects and not restrictive. Furthermore, the scope of the present invention is defined by the appended claims rather than the detailed description, and it should be understood that all modifications or variations derived from the meanings and scope of the present invention and equivalents thereof are included in the scope of the appended claims. 
+ Accession Number 
+ Depository authority: Korean Culture Center of Microorganisms(international) 
+ Accession Number: KCCM11246P 
+ Deposition date: Dec. 29, 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

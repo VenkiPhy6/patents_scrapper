@@ -1,0 +1,878 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CROSS-REFERENCE TO RELATED APPLICATIONS 
+ This application claims the benefit of Korean Patent Application No. 10-2014-0006903 filed on Jan. 20, 2014 in the Korean Intellectual Property Office, the entire disclosure of which is hereby incorporated by reference. 
+ INCORPORATION BY REFERENCE OF ELECTRONICALLY SUBMITTED MATERIALS 
+ Incorporated by reference in its entirety herein is a computer-readable nucleotide/amino acid sequence listing submitted herewith and identified as follows: One 151,302 Byte ASCII (Text) file named “719212.ST25.TXT -Revised-3,” created on Apr. 18, 2017. 
+ BACKGROUND OF THE INVENTION 
+ 1. Field 
+ Provided is a pharmaceutical composition including a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor and a method of preventing and/or treating cancer including co-administering a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor to a subject in need thereof. 
+ 2. Description of the Related Art 
+ c-Met is a membrane receptor which regulates embryonic development and wound healing, and its abnormal activation causes the tumor growth. EGFR is a membrane receptor involved in several cell functions such as cell growth and migration, and the overexpression or mutation of EGFR results into tumor formation. c-Src is a downstream mediator of several cell signaling pathways including the EGFR and c-Met pathways. 
+ Various drugs capable of targeting the proteins above have been developed. For example, the EGFR monoclonal antibody (mAb) erbitux is used for colorectal tumor treatment; the c-Met small molecule (SM) inhibitor crizotinib is used for treatment of ALK-driven lung cancer; the c-Src SM inhibitor dasatinib is used for treatment of Chronic Phase Philadelphia chromosome positive Chronic Myelogenous Leukemia (CP-CML), each of which has been approved by the FDA. 
+ However, cancer therapies that use such drugs exhibit anticancer effects only on specific types of cancers, and thus have limitations in their indications and/or have no sufficient therapeutic effect on various cancers or mutant cancers. 
+ Thus, more effective treatments for cancer are needed in view of the limitations of current cancer therapies targeting EGFR, c-Met, and c-Src, such as a multiple combination therapy that targets 2 or more of the aforementioned biomolecules. 
+ BRIEF SUMMARY OF THE INVENTION 
+ Provided is a triple-targeting combination therapy which targets c-Met, EGFR, and c-Src. 
+ An embodiment provides a pharmaceutical composition including a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor. The pharmaceutical composition may be used as a pharmaceutical composition for combined therapy for prevention and/or treatment of a cancer. 
+ Another embodiment provides a kit for prevention and/or treatment of a cancer, including a first pharmaceutical composition (e.g., in a first container) including a bispecific anti-c-Met/anti-EGFR antibody as an active ingredient, a second pharmaceutical composition (e.g., in a second container) comprising a c-Src inhibitor as an active ingredient, and a package or container including, enveloping, binding, or otherwise packaging or associating the two compositions together. 
+ Another embodiment provides a method of prevention and/or treatment of a cancer including co-administering a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor to a subject in need of prevention and/or treatment of the cancer. 
+ 
+ BRIEF DESCRIPTION OF THE DRAWINGS 
+   FIG. 1  is a schematic diagram showing the strategy and potential mechanisms when therapies targeting c-Met, EGFR, and c-Src, respectively, are applied individually or together. 
+   FIG. 2  is a graph showing cell proliferation degree of K-Ras mutated colorectal cancer cell line (Lovo cell line) when treated with a c-Src inhibitor and bispecific anti-c-Met/anti-EGFR antibody ME19 or other agents. 
+   FIG. 3  is a graph showing cell proliferation degree of K-Ras mutated colorectal cancer cell line (Lovo cell line) when treated with a c-Src inhibitor and bispecific anti-c-Met/anti-EGFR antibody ME22 or other agents. 
+   FIG. 4  is a graph showing cell proliferation degree of Lovo cell line when treated with a c-Src inhibitor and bispecific anti-c-Met/anti-EGFR antibody ME19 at various concentrations of antibody. 
+   FIG. 5  is a graph showing cell proliferation degree of Lovo cell line when treated with a c-Src inhibitor and bispecific anti-c-Met/anti-EGFR antibody ME22, at various concentrations of antibody. 
+   FIG. 6  is a graph showing cell proliferation degree of Lovo cell line when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib, at various concentrations of c-Src inhibitor. 
+   FIG. 7  is a graph showing cell proliferation degree of Lovo cell line when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor saracatinib, at various concentrations of c-Src inhibitor. 
+   FIG. 8  is a graph showing cell proliferation degree of EGFR T790M mutated non-small cell lung cancer cell line (H820 cell line) when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib or other agents. 
+   FIG. 9  is a graph showing cell proliferation degree of EGFR T790M mutated non-small cell lung cancer cell line (H820 cell line) when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib or other agents. 
+   FIG. 10  is a graph showing cell proliferation degree of EGFR T790M mutated non-small cell lung cancer cell line (H820 cell line) when treated with a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor at a variety of concentrations of bispecific anti-c-Met/anti-EGFR antibody ME19. 
+   FIG. 11  is a graph showing cell proliferation degree of EGFR T790M mutated non-small cell lung cancer cell line (H820 cell line) when treated with a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor at a fixed concentration of bispecific anti-c-Met/anti-EGFR antibody ME22 and a variety concentrations of dasatinib. 
+   FIG. 12  is a graph showing cell proliferation degree of EGFR T790M mutated non-small cell lung cancer cell line (H820 cell line) when treated with a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor at a fixed concentration of bispecific anti-c-Met/anti-EGFR antibody ME22 and a variety concentrations of saracatinib. 
+   FIG. 13  is a graph showing cell proliferation degree of K-Ras mutated colorectal cancer cell line (HCT-116 cell line) when it is treated with bispecific anti-c-Met/anti-EGFR antibody ME19 and a c-Src inhibitor in addition to other therapeutics (e.g., erbitux, individually). 
+   FIG. 14  is a graph showing cell proliferation degree of HCT-116 cell line when treated with bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib, according to the concentration of the treated c-Src inhibitor. 
+   FIG. 15  is a graph showing cell proliferation degree of HCT-116 cell line when treated with bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor saracatinib, according to the concentration of the treated c-Src inhibitor. 
+   FIG. 16  is a series of inverted microscope images displaying the physical characteristics of an HCT-116 cell line when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib. 
+   FIG. 17  is a graph showing cell proliferation degree of EGFR T790M mutated H1975 cell line when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib, according to the concentration of the treated c-Src inhibitor. 
+   FIG. 18  is a graph showing cell proliferation degree of EGFR T790M mutated H1975 cell line when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor saracatinib, according to the concentration of the treated c-Src inhibitor. 
+   FIG. 19  is a graph showing cell proliferation degree of EGFR T790M mutated H1975 cell line when treated with a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor bosutinib, according to the concentration of the treated c-Src inhibitor. 
+ 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ A bispecific antibody, as the term is used herein, refers to an antibody-like polypeptide that comprises antigen-binding regions that are specific to two different antigens. The antigen binding regions can be, or instance, fragments of two monoclonal antibodies specific for different antigens, or other antigen-binding motifs and specifically binds to two different antigens. It is confirmed that the use of a bispecific anti-c-Met/anti-EGFR antibody can lead to decrease of drug resistance caused by confusion between c-Met and EGFR pathways. In addition, the use of the bispecific antibody has an advantage that it exhibits lower toxicity to host cells compared to the combination of two single-targeting antibodies. However, existing bispecific anti-c-Met/anti-EGFR antibodies tend not to have effect on several mutated tumor cells such as K-Ras mutated- or T790M mutated tumor cell line. These problems can be overcome by administering a bispecific antibody together with a c-Src inhibitor. 
+ A triple targeting combination therapy, which targets c-Met, EGFR, and c-Src, is provided. The therapy employs a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor. 
+ In preferred embodiments, the therapeutic regimen suggested herein may be characterized by (1) inhibiting resistance-inducing factors to prevent acquisition of resistance by a targeting drug such as an antibody, thereby maximizing the effect (e.g., anticancer effect) of the targeting drug; (2) expanding the indications for the use of the targeting drug even to the cases on which the targeting drug has no therapeutic effect due to acquisition of resistance thereto or mutation (e.g., K-Ras or T790M mutated cell line, etc.); (3) reducing the dosage of the targeting drug due to its increased effect; and thus, (4) minimizing the toxicities to living body to reduce side effects. 
+ The combination therapy provided herein comprises co-administering a bispecific anti-c-Met/anti-EGFR antibody, and another anti-cancer effective drug. Such combination therapy can achieve not only synergistic effect by co-administration but also increased efficacy of a bispecific anti-c-Met/anti-EGFR antibody, which can allow for the reduction of the dosage of the bispecific anti-c-Met/anti-EGFR antibody, thereby minimizing side effects and maximizing the anticancer effect thereof. In addition, such combination therapy can exhibit anticancer effect even on a cancer against which an anti-c-Met antibody, an anti-EGFR antibody, or bispecific anti-c-Met/anti-EGFR antibody exhibits no effect or only minimal anticancer effect when administered alone, and/or on a cancer induced by, associated with, or characterized by a mutation (e.g., K-Ras or EGFR T790M mutation). The combination therapy can, thus, make it possible to overcome resistance to other anti-cancer agents, particularly a tyrosine kinase inhibitor (TKI) such as an anti-c-Met antibody, an anti-EGFR antibody, or a bispecific anti-c-Met/anti-EGFR antibody. The cancer, against which an anti-c-Met antibody, an anti-EGFR antibody, or bispecific anti-c-Met/anti-EGFR antibody exhibits little or no anticancer effect when administered alone, may be have innate resistance to a tyrosine kinase inhibitor, which can be effectively overcome by the combination therapy provided herein. 
+ One embodiment discloses a combination therapy of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor. The combination therapy can simultaneously inhibit HGF/c-Met interaction, which is known as an important growth factor of cancer cells, and the function of a receptor tyrosine kinase, epidermal growth factor receptor (EGFR), thereby blocking the downstream signal transduction pathway thereof. As a result, the combination therapy can exhibit increased anticancer effects, which can allow one skilled in the art to reduce the effective dosage of each drug, and have anticancer effect even on cancers with mutation and/or resistance to a tyrosine kinase inhibitor. That is, by inhibiting three targets, c-Met, EGFR, and c-Src, at once, the effects, such as, increased anticancer effect, reduced effective dosages, decreased side effects, overcoming resistance to tyrosine kinase inhibitor, anticancer effect on cancers induced by mutation (e.g., K-Ras or EGFR T790M mutation), and expansion of application and scope of existing c-Met, EGFR, and c-Src treatments, can be obtained. 
+ Without wishing to be bound by any particular theory or mechanism of action,  FIG. 1  is a schematic diagram exemplarily illustrating a possible reaction mechanism that occurs when drugs targeting c-Met, EGFR, or c-Src, are used individually or in combination. The left side of  FIG. 1  schematically demonstrates a possible reaction mechanism when the targeting drugs, each of which targets c-Met, EGFR, or c-Src, are administered individually (single treatment), showing that the survival mechanism of cancer cells is not blocked by such single treatment, and resistance to the used drug can be obtained by such failure to block the survival mechanism. The right side of  FIG. 1  schematically demonstrates a reaction mechanism when the targeting drugs are co-administered (combination treatment), showing that the survival mechanism of cancer cells is effectively blocked by such combination treatment thereby inhibiting growth of tumor cells. 
+ In addition, the triple targeting may be carried out by using a bispecific anti-c-Met/anti-EGFR antibody simultaneously targeting c-Met and EGFR. Such triple targeting using a bispecific anti-c-Met/anti-EGFR antibody can be solve the problems in safety which can be caused by the simple co-administration of inhibitors targeting c-Met, EGFR, and c-Src, respectively, and achieve an increased therapeutic effect compared thereto. 
+ One embodiment provides a pharmaceutical composition comprising a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor, as active ingredient, along with a carrier. The pharmaceutical composition is useful for combination therapy in preventing and/or treating cancer, which comprises a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor, as active ingredient. 
+ In one embodiment, the pharmaceutical composition for combination therapy may be a mixed formulation (e.g., a single composition comprising two or more active ingredients) of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor. The bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor can be present in any amount that is pharmaceutically effective when used together, which amount may be determined by a skilled medical practitioner or medical researcher. The composition thus formulated can be used for simultaneous administration of the two active ingredients. 
+ Alternatively, the bispecific anti-c-Met/anti-EGFR antibody and the anti-c-Met antibody or antigen-binding fragment thereof can each be formulated in a separate composition, and the separate compositions comprising the two active ingredients can be separately administered simultaneously or sequentially in any order. For instance, a first pharmaceutical composition comprising a pharmaceutically effective amount of a bispecific anti-c-Met/anti-EGFR antibody as an active ingredient and a second pharmaceutical composition comprising a pharmaceutically effective amount of an anti-c-Met antibody or antigen-binding fragment thereof as an active ingredient can be administered simultaneously or sequentially. In the case of the sequential administration, any order of administration may be used. 
+ In another embodiment, a kit for prevention and/or treatment of a cancer is provided, wherein the kit may comprise (a) a first pharmaceutical composition containing a bispecific anti-c-Met/anti-EGFR antibody as an active ingredient, (b) a second pharmaceutical composition containing a c-Src inhibitor as an active ingredient, and (c) a package container. The bispecific anti-c-Met/anti-EGFR antibody and the anti-c-Met antibody or an antigen-binding fragment thereof may be used in amounts that are pharmaceutically effective when combined, which amount may be determined by a skilled medical practitioner or medical researcher. The package container can be any container that holds or otherwise links the two compositions in individual containers together in a single unit (e.g., a box that holds both containers, or plastic wrap that binds both containers together), or the package container may be a single, divided container having at least two chambers that each hold one of the two compositions. 
+ The combination therapy of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor can achieve excellent synergistic results and also decreased dosage when compared to single administration of each drug. In addition, the combined therapy can maintain an excellent anticancer effect, even when the administration interval is lengthened and/or the administration dosage is reduced, when compared to single administration of each drug. Furthermore, the combination therapy can exhibit excellent anticancer effects on a cancer on which each inhibitor targeting c-Met, EGFR, or c-Src has no effect, a cancer having mutation (e.g., K-Ras or EGFR T790M mutation), and/or a cancer having resistance to a tyrosine kinase inhibitor. 
+ c-Src (Proto-oncogene tyrosine-protein kinase Src; proto-oncogene c-Src), which is one of targets of the combination therapy, is a member of non-receptor protein tyrosine kinases, and has an activity that phosphorylates a specific tyrosine residue in a target protein. Activation of c-Src relates to cancer incidence and cancer progress caused by stimulation of cell signaling. The c-Src may be originated any species of animals (e.g., mammals), and for example may be at least one selected from the group consisting of primate c-Src including human c-Src (e.g., Accession No. NP_005408), monkey c-Src (e.g., Accession No. XP_002830325), and the like, and rodent c-Src including mouse c-Src (e.g., Accession No. NP_001020566), rat c-Src (e.g., Accession No. NP_114183), and the like, but not be limited thereto. 
+ “c-Met” or “c-Met protein,” which is another target of the combination therapy, refers to a receptor tyrosine kinase (RTK) which binds hepatocyte growth factor (HGF). c-Met may be derived from any species, particularly a mammal, for instance, primates such as human c-Met (e.g., Accession No. NP_000236), monkey c-Met (e.g.,  Macaca mulatta , Accession No. NP_001162100), or rodents such as mouse c-Met (e.g., Accession No. NP_032617.2), rat c-Met (e.g., Accession No. NP_113705.1), and the like. The c-Met protein may include a polypeptide encoded by the nucleotide sequence identified as GenBank Accession Number NM_000245, a polypeptide including the amino acid sequence identified as GenBank Accession Number NP_000236 or extracellular domains thereof. The receptor tyrosine kinase c-Met participates in various mechanisms, such as cancer incidence, metastasis, migration of cancer cell, invasion of cancer cell, angiogenesis, and the like. 
+ The “epidermal growth factor receptor (EGFR),” which is another target of the combination therapy, refers to a member of the receptor tyrosine kinases of HER family. The binding of a ligand to the extracellular domain of EGFR induces receptor homo- or hetero dimerization with other ErbB receptors, which in turn results in intracellular self-phosphorylation of specific tyrosine residues. EGFR self-phosphorylation leads to downstream signal transduction networks including MAPK and PI3K/Akt activation which affects cell proliferation, angiogenesis and metastasis. Over-expression, gene amplification, mutation, or rearrangement of EGFR are frequently observed in several human malignant tumors and are related to poor prognosis of cancer treatment and bad clinical outcomes. For such reasons, the EGFR becomes an important target in anticancer therapy. The EGFR may be derived from mammals, for example, primates such as humans and monkeys, or rodents such as rats and mice. For instance, the EGFR may a polypeptide encoded by one selected from the group consisting of the nucleotide sequences (mRNA) deposited under GenBank Accession Nos. JQ739160, JQ739161, JQ739162, JQ739163, JQ739164, JQ739165, JQ739166, JQ739167, NM_005228.3, NM_201284.1, NM_201282.1, or NM_201283.1. 
+ The c-Src inhibitor, which is an active ingredient of the combination therapy, may be at least one selected from the group consisting of dasatinib, saracatinib, bosutinib, 1-Naphthyl PP1 (CAS 221243-82-9; 1-(1,1-Dimethylethyl)-3-(1-naphthalenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine), A 419259 trihydrochloride (CAS 364042-47-7; 7-[trans-4-(4-Methyl-1-piperazinyl)cyclohexyl]-5-(4-phenoxyphenyl)-7H-Pyrrolo[2,3-d]pyrimidin-4-amine trihydrochloride), AG 538 (CAS 133550-18-2; α-Cyano-(3,4-dihydroxy)cinnamoyl-(3′,4′-dihydroxyphenyl)ketone), AGL 2263 ((E)-2-(3,4-dihydroxybenzoyl)-3-(2-oxo-3H-1,3-benzoxazol-5-yl)prop-2-enenitrile), Bcr-abl Inhibitor II (CAS 607702-99-8; 4-fluoro-N-{5-[(4-fluorobenzyl)sulfanyl]-1,3,4-thiadiazol-2-yl}benzamide), Bosutinib (CAS 380843-75-4; 4-[(2,4-Dichloro-5-methoxyphenyl)amino]-6-methoxy-7-[3-(4-methyl-1-piperazinyl)propoxy]-3-quinolinecarbonitrile), Altenusin (CAS 31186-12-6), Herbimycin A (CAS 70563-58-5; (15R)-17-demethoxy-15-methoxy-11-O-methyl-geldanamycin), PD 166285 (CAS 212391-63-4; 6-(2,6-Dichlorophenyl)-2-[[4-[2-(diethylamino)ethoxy]phenyl]amino]-8-methylpyrido[2,3-d]pyrimidin-7(8H)-one), PKC-412 (CAS 120685-11-2; [9S-(9α,10β,11β,13α]-N-(2,3,10,11,12,13-Hexahydro-10-methoxy-9-methyl-1-oxo-9,13-epoxy-1H,9H-diindolo[1,2,3-gh:3′,2′,1′-lm]pyrrolo[3,4-j][1,7]benzodiazonin-11-yl)-N-methylbenzamide), PDGFR Tyrosine Kinase Inhibitor IV (CAS 627518-40-5; 3-Fluoro-N-(6,7-dimethoxy-2,4-dihydroindeno[1,2-c]pyrazol-3-yl)phenylamine), Calphostin C (CAS 121263-19-2; (1R)-2-[12-[(2R)-2-(Benzoyloxy)propyl]-3,10-dihydro-4,9-dihydroxy-2,6,7,11-tetramethoxy-3,10-dioxo-1-perylenyl]-1-methylethylcarbonic acid 4-hydroxyphenyl ester), PP 1 (CAS 172889-26-8; 1-tert-butyl-3-(4-methylphenyl) pyrazolo[3,4-d]pyrimidin-4-amine), PP 2 (CAS 172889-27-9; 4-Amino-5-(4-chlorophenyl)-7-(t-butyl)pyrazolo[3,4-d]pyrimidine), Src Kinase Inhibitor I (CAS 179248-59-0; 4-(4′-Phenoxyanilino)-6,7-dimethoxyquinazoline), EGF/FGF/PDGF Receptor Tyrosine Kinase Inhibitor (CAS 1135256-66-4; 1-(2-Amino-6-(2,6-dichlorophenyl)pyrido[2,3-d]pyrimidin-7-yl)-3-tert-butyl urea), Staurosporine (CAS 62996-74-1; [9S-(9α,10β,11β,13α]-2,3,10,11,12,13-Hexahydro-10-methoxy-9-methyl-11-(methylamino)-9,13-epoxy-1H,9H-diindolo[1,2,3-gh:3′,2′,1′-lm]pyrrolo[3,4-j][1,7]benzodiazonin-1-one), Lavendustin A (CAS 125697-92-9; 5-[[(2,5-Dihydroxyphenyl)methyl][(2-hydroxyphenyl)methyl]amino]-2-hydroxybenzoic acid), Indirubin-3′-(2,3-dihydroxypropyl)oximether, Luteolin (CAS 491-70-3; 2-(3,4-Dihydroxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one), SU6656 (CAS 330161-87-0; (3Z)-N,N-Dimethyl-2-oxo-3-(4,5,6,7-tetrahydro-1H-indol-2-ylmethylidene)-2,3-dihydro-1H-indole-5-sulfonamide), TX-1918 (CAS 503473-32-3; 2-((3,5-dimethyl-4-hydroxyphenyl)-methylene)-4-cyclopentene-1,3-dione), Geldanamycin (CAS 30562-34-6; 2-azabicyclo[16.3.1]docasa-4,6,10, 18,21-pentaene-3,20,22-trione, 9,13-dihydroxy-8,14,19-trimethoxy-4,10,12,16-tetramethyl-9-carbamate), MNS (CAS 1485-00-3; 3,4-Methylenedioxy-nitrostyrene), TX-1123 (CAS 157397-06-3; 2-((3,5-di-tert-Butyl-4-hydroxyphenyl)-methylene)-4-cyclopentene-1,3-dione), GW5074 (CAS 220904-83-6; 3-(3,5-Dibromo-4-hydroxy-benzylidene)-5-iodo-1,3-dihydro-indol-2-one), Erlotinib HCl (CAS 183319-69-9; N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)quinazolin-4-amine hydrochloride), NVP-BHG712 (CAS 940310-85-0; 4-methyl-3-(1-methyl-6-(pyridin-3-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-ylamino)-N-(3-(trifluoromethyl)phenyl)benzamide), GW2580 (CAS 870483-87-7; 5-[[3-methoxy-4-[(4-methoxyphenyl)methoxy]phenyl]methyl]-2,4-Pyrimidinediamine), AEE788 (CAS 497839-62-0; (R)-6-(4-((4-ethylpiperazin-1-yl)methyl)phenyl)-N-(1-phenylethyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine), TAK-901 (CAS 934541-31-8; 5-(3-(ethylsulfonyl)phenyl)-3,8-dimethyl-N-(1-methylpiperidin-4-yl)-9H-pyrido[2,3-b]indole-7-carboxamide), Midostaurin (CAS 120685-11-2; N-[(9S,10R,11R,13R)-2,3,10,11,12,13-hexahydro-10-methoxy-9-methyl-1-oxo-9,13-epoxy-1H,9H-diindolo[1,2,3-gh:3′,2′,1′-lm]pyrrolo[3,4-j][1,7]benzodiazonin-11-yl]-N-methylbenzamide), and PD173074 (CAS 219580-11-7; 1-tert-butyl-3-(2-(4-(diethylamino)butylamino)-6-(3,5-dimethoxyphenyl)pyrido[2,3-d]pyrimidin-7-yl)urea), or any combination thereof, but not be limited thereto. 
+ In one embodiment, the c-Src inhibitor may be at least one selected from the group consisting of dasatinib, saracatinib, and bosutinib, or any combination thereof. 
+ Dasatinib, which is also called as N-(2-chloro-6-methylphenyl)-2-[[6-[4-(2-hydroxyethyl)-1-piperazinyl]-2-methyl-4-pyrimidinyl]amino]-5-thiazole carboxamide monohydrate, has the following structure: 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ saracatinib, which is also called as AZD0530 (4-Quinazolinamine, N-(5-Chloro-1,3-benzodioxol-4-yl)-7-[2-(4-methyl-1-piperazinyl)ethoxy]-5-[(tetrahydro-2H-pyran-4-yl)oxy]-4-quinazolinamine), has the following structure: 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ Bosutinib, which is also called as 4-[(2,4-dichloro-5-methoxyphenyl)amino]-6-methoxy-7-[3-(4-methylpiperazin-1-yl)propoxy]quinoline-3-carbonitrile, has the following structure: 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ The bispecific anti-c-Met/anti-EGFR antibody refers to any antibody which targets c-Met and EGFR at once and inhibits the activities of both of c-Met and EGFR. 
+ The bispecific anti-c-Met/anti-EGFR antibody may comprise (1) an anti-c-Met antibody or antigen-binding fragment thereof, and (2) an anti-EGFR antibody or antigen-binding fragment thereof. The antigen-binding fragment may be selected from the group consisting of scFv, (scFv)2, scFv-Fc, Fab, Fab′ and F(ab′)2 of an antibody. 
+ In one embodiment, the bispecific anti-c-Met/anti-EGFR antibody may be a bispecific antibody (e.g., dimeric structure) in an N-terminal/C-terminal asymmetric form wherein the upper part (N-terminal part) and the bottom part (C-terminal part) are originated from different antibodies or in different antibody forms from each other. For example N-terminal/C-terminal asymmetric bispecific antibody may comprise (1) an anti-c-Met antibody or antigen-binding fragment thereof, and (2) an EGFR-binding region which is linked to C-terminus or N-terminus, for example C-terminus, of the anti-c-Met antibody or antigen-binding fragment thereof. The EGFR-binding region may be an anti-EGFR antibody or antigen-binding fragment thereof, or an anti-EGFR DARPin (or EGFR-binding DARPin) specifically binding EGFR. 
+ In another embodiment, the bispecific anti-c-Met/anti-EGFR antibody may be a bispecific antibody (dimeric structure) in a left-right asymmetric form wherein two strains (for example, scFv, scFv-Fc, etc.) of the dimeric structure are originated from different antibodies from each other. For example, the left-right asymmetric bispecific antibody may have a dimeric structure comprising a single stranded antigen-binding fragment (e.g., scFv, scFv-Fc, etc.) of an anti-c-Met antibody and a single stranded antigen-binding fragment (e.g., scFv, scFv-Fc, etc.) of the anti-EGFR antibody. 
+ In the N-terminal/C-terminal asymmetric bispecific anti-c-Met/anti-EGFR antibody, the part of an anti-c-Met antibody plays a role of intermediating intracellular internalization and degradation of c-Met protein, and thus, in order to successfully play such role, the part of an anti-c-Met antibody may be in a complete antibody form (e.g., IgG type antibody) of an anti-c-Met antibody. The part of EGFR-binding region is important in specifically recognizing and specifically binding to EGFR, and thus, the part of EGFR-binding region may be in a form of an antigen-binding fragment or an anti-EGFR DARPin, as well as a complete antibody form of an anti-EGFR antibody. Therefore, in an embodiment, the bispecific anti-c-Met/anti-EGFR antibody may comprise an anti-c-Met antibody in a complete antibody form (e.g., IgG type antibody) and an antigen-binding fragment of an anti-EGFR antibody or an anti-EGFR DARPin linked to C-terminus of the anti-c-Met antibody. 
+ In the bispecific anti-c-Met/anti-EGFR antibody, the anti-c-Met antibody or antigen-binding fragment thereof and an anti-EGFR antibody or antigen-binding fragment thereof or anti-EGFR DARPin may be coupled to each other. They may be coupled to each other through a linker, for example, a peptide linker, or through no linker. In addition, in the antigen-binding fragment of the anti-c-Met antibody or the anti-EGFR antibody, a heavy chain region and a light chain region, for example, a heavy chain variable region and a light chain variable region of a scFv fragment, may be linked to each other directly or through a peptide linker. The peptide linker linking the anti-c-Met antibody or antigen-binding fragment thereof and the anti-EGFR antibody or antigen-binding fragment thereof or anti-EGFR DARPin, and the peptide linker linking a heavy chain region and a light chain region in an antigen-binding fragment, may be the same to or different from each other. The peptide linker may be a polypeptide, for example, consisting of about 1 to about 100 or about 2 to about 50 amino acids, and the amino acids may be any amino acids with no specific limitation provided the linker does not interfere with the function of the antigen-binding regions. The peptide linker, for example, may include Gly, Asn, and/or Ser residues, and further include neutral amino acids such as Thr and Ala. Amino acid sequences suitable for the peptide linker are known in the art. Furthermore, the length of the linker may be variably determined within such a limit that does not affect the functions of the fusion protein. For example, the peptide linker may include a total of about 1 to about 100, or about 2 to about 50, or about 5 to about 25 amino acids selected from the group consisting of Gly, Asn, Ser, Thr, and Ala. In one embodiment, the peptide linker may be represented by SEQ ID NO: 131: (GGGGS)n (n, which is a repeating number of (GGGGS, SEQ ID NO: 130), is an integer from about 1 to about 10, e.g., an integer from about 2 to about 5). 
+ In an embodiment, the anti-EGFR antibody or antigen-binding fragment thereof may be cetuximab (Erbitux), panitumumab, an anti-EGFR antibody comprising a heavy chain variable region comprising the amino acid sequence of SEQ ID NO: 109, a light chain variable region comprising the amino acid sequence of SEQ ID NO: 111, or a combination thereof, an anti-EGFR antibody comprising a heavy chain variable region comprising the amino acid sequence of SEQ ID NO: 113, a light chain variable region comprising the amino acid sequence of SEQ ID NO: 114, or a combination thereof, or an antigen-binding fragment of any anti-EGFR antibody listed the above. 
+ For example, the anti-EGFR antibody or antigen-binding fragment nay be cetuximab (Erbitux), panitumumab, an antibody comprising a heavy chain variable region comprising the amino acid sequence of SEQ ID NO: 109 or SEQ ID NO: 113 and a light chain variable region comprising the amino acid sequence of SEQ ID NO: 111 or SEQ ID NO: 114, or antigen-binding fragment thereof (e.g., scFv, scFv-Fc, etc.). 
+ Alternatively, the anti-EGFR antibody or antigen-binding fragment thereof may comprise or consist essentially of: 
+ at least one heavy chain complementarity determining region selected from the group consisting of CDR-H1 comprising the amino acid sequence of SEQ ID NO: 115, CDR-H2 comprising the amino acid sequence of SEQ ID NO: 116, and CDR-H3 comprising the amino acid sequence of SEQ ID NO: 117, or a heavy chain variable region comprising the at least one heavy chain complementarity determining region; 
+ at least one light chain complementarity determining region selected from the group consisting of CDR-L1 comprising the amino acid sequence of SEQ ID NO: 118, CDR-L2 comprising the amino acid sequence of SEQ ID NO: 119, and CDR-L3 comprising the amino acid sequence of SEQ ID NO: 120, or a light chain variable region comprising the at least one light chain complementarity determining region; 
+ a combination of the at least one heavy chain complementarity determining region and the at least one light chain complementarity determining region; or 
+ a combination of the heavy chain variable region and the light chain variable region. 
+ The amino acid sequences of SEQ ID NOS: 115 to 120 are summarized in Table 1: 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+ 
+   
+ 
+ 
+ Amino acid sequence of CDRs of an anti-EGFR antibody 
+ 
+ 
+ 
+ 
+   
+ heavy chain CDR 
+   
+ light chain CDR 
+ 
+ 
+   
+ 
+ 
+ CDR-H1 
+ NYDMS(SEQ ID NO: 115) 
+ CDR-L1 
+ TGSSSNIGNNDVS(SEQ ID NO: 118) 
+ 
+ 
+   
+ 
+ 
+ CDR-H2 
+ GISHSSGSKYYADSVKG(SEQ ID NO: 116) 
+ CDR-L2 
+ DDNKRPS(SEQ ID NO: 119) 
+ 
+ 
+   
+ 
+ 
+ CDR-H3 
+ KDATPRPLKPFDY(SEQ ID NO: 117) 
+ CDR-L3 
+ GSWDASLNA(SEQ ID NO: 120) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ For example, the anti-EGFR antibody or antigen-binding fragment thereof may comprise or consisting essentially of a heavy chain variable region comprising the amino acid sequence of SEQ ID NO: 121 or SEQ ID NO: 122, a light chain variable region comprising the amino acid sequence of SEQ ID NO: 123 or SEQ ID NO: 124, or a combination thereof. 
+ In embodiment, the anti-EGFR antibody or antigen-binding fragment thereof may be an anti-EGFR antibody, an anti-EGFR scFv, or an anti-EGFR scFv-Fc, which comprises a heavy chain variable region comprising the amino acid sequence of SEQ ID NO: 121 or SEQ ID NO: 122 and a light chain variable region comprising the amino acid sequence of SEQ ID NO: 123 or SEQ ID NO: 124. 
+ <SEQ ID NO: 121: Anti-EGFR Antibody Heavy Chain Variable Region> 
+ EVQLLESGGGLVQPGGSLRLSCAASGFTFSNYDMSWVRQAPGKGLEWVSGISHSSGSKYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDATPRPLKPFDYWGQGTLVTVSS 
+ (In SEQ ID NO: 121 above, the underlined bold letters are CDR-H1, CDR-H2, and CDR-H3 in sequence) 
+ <SEQ ID NO: 123: Anti-EGFR Antibody Light Chain Variable Region> 
+ QSVLTQPPSASGTPGQRVTISCTGSSSNIGNNDVSWYQQLPGTAPKLLIYDDNKRPSGVPDRFSGSKSGTSASLAISGLRSEDEADYYCGSWDASLNAYVFGGGTKLTVLG 
+ (In SEQ ID NO: 123 above, the underlined bold letters are CDR-L1, CDR-L2, and CDR-L3 in sequence) 
+ In an embodiment, the anti-EGFR antibody or antigen-binding fragment thereof may be an anti-EGFR antibody, an anti-EGFR scFv, or an anti-EGFR scFv-Fc, which comprises a heavy chain variable region comprising the amino acid sequence of SEQ ID NO: 109, SEQ ID NO: 113, SEQ ID NO: 121, or SEQ ID NO: 122, and a light chain variable region comprising the amino acid sequence of SEQ ID NO: 111, SEQ ID NO: 114, SEQ ID NO: 123, or SEQ ID NO: 124. 
+ In the anti-EGFR scFv or anti-EGFR scFv-Fc, the heavy chain variable region and the light chain variable region are may be coupled to each other through a linker, for example, a peptide linker, or through no linker (directly). The peptide linker may be a polypeptide, for example, consisting of about 1 to about 100 or about 2 to about 50 amino acids, and the amino acids may be any amino acids with no specific limitation. The peptide linker, for example, may include Gly, Asn, and/or Ser residues, and further include neutral amino acids such as Thr and Ala. Amino acid sequences suitable for the peptide linker are known in the art. Furthermore, the length of the linker may be variably determined within such a limit that does not affect the functions of the fusion protein. For example, the peptide linker may include a total of about 1 to about 100, or about 2 to about 50, or about 5 to about 25 amino acids selected from the group consisting of Gly, Asn, Ser, Thr, and Ala. In one embodiment, the peptide linker may be represented by SEQ ID NO 131: (GGGGS)n (n, which is a repeating number of (GGGGS, SEQ ID NO: 130), is an integer from about 1 to about 10, e.g., an integer from about 2 to about 5). 
+ The anti-EGFR DARPin may be any DARPin that binds EGFR. 
+ The term “designed ankyrin repeat protein (DARPin)” refers to an antibody mimetic protein having high specificity and high binding affinity to a target protein, which is prepared via genetic engineering. DARPins are originated from natural ankyrin protein, and have a structure where at least 2 or at least 3 ankyrin repeat motifs, for example, 3, 4 or 5 ankyrin repeat motifs are repeated. For example, the DARPins comprising 3, 4 or 5 ankyrin repeat motifs may have a molecular weight of about 10 kDa, about 14 kDa, and about 18 kDa, respectively. DARPin includes a core part which carries out structural function and a target binding part outside of the core which binds to a target. The core part includes conserved amino acid sequence and the target binding part includes different amino acid sequence depending on the target. 
+ For example, the anti-EGFR DARPin may be selected from the group consisting of 4 species as follows: 
+ 
+ 
+ 
+ 
+ 
+ anti-EGFR DARPin-01 (SEQ ID NO: 125): 
+ 
+ 
+ DLGKKLLEAARAGQDDEVRILMANGADVNADDTWGWTPLHLAAYQGHLEI 
+ 
+ 
+   
+ 
+ 
+ VEVLLKNGADVNAYDYIGWTPLHLAADGHLEIVEVLLKNGADVNASDYIG 
+ 
+ 
+   
+ 
+ 
+ DTPLHLAAHNGHLEIVEVLLKHGADVNAQDKFGKTAFDISIDNGNEDLAE 
+ 
+ 
+   
+ 
+ 
+ ILQ 
+ 
+ 
+   
+ 
+ 
+ anti-EGFR DARPin-67 (SEQ ID NO: 126): 
+ 
+ 
+ DLGKKLLEAARAGQDDEVRILMANGADVNATDNDGNTPLHLSAWIGHLEI 
+ 
+ 
+   
+ 
+ 
+ VEVLLKHGADVNADDLLGMTPLHLAADTGHLEIVEVLLKYGADVNARDTR 
+ 
+ 
+   
+ 
+ 
+ GKTPLHLAARDGHLEIVEVLLKHDADVNAQDKFGKTAFDISIDNGNEDLA 
+ 
+ 
+   
+ 
+ 
+ EILQ 
+ 
+ 
+   
+ 
+ 
+ anti-EGFR DARPin-68 (SEQ ID NO: 127): 
+ 
+ 
+ DLGKKLLEAARAGQDDEVRILMANGADVNAFDYWGMTPLHLAADNGHLEI 
+ 
+ 
+   
+ 
+ 
+ VEVLLKHGADVNASDNFGFTPLHLAAFYGHLEIVEVLLKHGADVNAFDMW 
+ 
+ 
+   
+ 
+ 
+ GNTPLHLAAQNGHLEIVEVLLKNGADVNAQDKFGKTAFDISIDNGNEDLA 
+ 
+ 
+   
+ 
+ 
+ EILQ 
+ 
+ 
+   
+ 
+ 
+ anti-EGFR DARPin-69 (SEQ ID NO: 128): 
+ 
+ 
+ DLGKKLLEAARAGQDDEVRILMANGADVNADDNAGRTPLHLAANFGHLEI 
+ 
+ 
+   
+ 
+ 
+ VEVLLKNGADVNAKGHHCNTPLHLAAWAGHLEIVEVLLKYGADVNADDDE 
+ 
+ 
+   
+ 
+ 
+ GYTPLHLAADIGDLEIVEVLLKYGADVNAWDMYGRTPLHLAASAGHLEIV 
+ 
+ 
+   
+ 
+ 
+ EVLLKYGADVNAQDKFGKTAFDISIDNGNEDLAEILQ 
+ 
+ 
+ 
+ 
+ 
+ In the bispecific anti-c-Met/anti-EGFR antibody, the anti-EGFR DARPin, which is used as an EGFR binding region, may comprise or consist essentially of about 1 to about 10 units, e.g., about 1 to about 5 units, or about 1 to about 3 units. That is, the anti-EGFR DARPin may comprise or consist essentially of only one unit, or a repeated from wherein about 2 to about 10 unit, about 2 to about 5 unit, about 2 units or about 3 units are repeated. Each unit may be independently selected from the group consisting of the amino sequences of SEQ ID NO: 125 to SEQ ID NO: 127. 
+ The anti c-Met antibody may include any antibody that is capable of recognizing c-Met as an antigen or any antigen-binding fragment thereof. For example, the anti-c-Met antibody may be any antibody specifically binding to c-Met thereby inducing intracellular internalization and degradation of c-Met, or any antigen-binding fragment thereof. The anti-c-Met antibody may recognize a specific region of c-Met, e.g., a specific region in the SEMA domain, as an epitope. 
+ c-Met, a receptor for hepatocyte growth factor (HGF), may be divided into three portions: extracellular, transmembrane, and intracellular. The extracellular portion is composed of an α-subunit and a β-subunit which are linked to each other through a disulfide bond, and contains a SEMA domain responsible for binding HGF, a PSI domain (plexin-semaphorins-integrin homology domain) and an IPT domain (immunoglobulin-like fold shared by plexins and transcriptional factors domain). The SEMA domain of c-Met protein may comprise the amino acid sequence of SEQ ID NO: 79, and is an extracellular domain that functions to bind HGF. A specific region of the SEMA domain, that is, a region comprising the amino acid sequence of SEQ ID NO: 71, which corresponds to a range from amino acid residues 106 to 124 of the amino acid sequence of the SEMA domain (SEQ ID NO: 79) of c-Met protein, is a loop region between the second and the third beta propellers within the epitopes of the SEMA domain. The region acts as an epitope for the specific anti-c-Met antibody of the present invention. 
+ The term “epitope” as used herein, refers to an antigenic determinant, a part of an antigen recognized by an antibody. In one embodiment, the epitope may be a region including 5 or more contiguous amino acid residues within the SEMA domain (SEQ ID NO: 79) of c-Met protein, for instance, about 5 to about 19 contiguous amino acid residues within the amino acid sequence of SEQ ID NO: 71. For example, the epitope may be a polypeptide including about 5 to about 19 contiguous amino acids selected from among partial combinations of the amino acid sequence of SEQ ID NO: 71, wherein the polypeptide comprises the amino sequence of SEQ ID NO: 73 (EEPSQ), which serves as an essential element for the epitope. For example, the epitope may be a polypeptide comprising, consisting essentially of, or consisting of the amino acid sequence of SEQ ID NO: 71, SEQ ID NO: 72, or SEQ ID NO: 73. As used herein, the phrase “contiguous amino acids” may refer to contiguous amino acid residues on the primary, secondary, or tertiary structure of a protein, wherein the contiguous amino acid residues on the secondary or tertiary structure of a protein may be consecutive or non-consecutive on the primary structure (amino acid sequence) of a protein. 
+ The epitope comprising the amino acid sequence of SEQ ID NO: 72 corresponds to the outermost part of the loop between the second and third beta propellers within the SEMA domain of a c-Met protein. The epitope comprising the amino acid sequence of SEQ ID NO: 73 is a site to which the antibody or antigen-binding fragment according to one embodiment most specifically binds. 
+ Thus, the anti-c-Met antibody may specifically bind to an epitope which includes 5 to 19 contiguous amino acids selected from among partial combinations of the amino acid sequence of SEQ ID NO: 71, including SEQ ID NO: 73 as an essential element. For example, the anti-c-Met antibody may specifically bind to an epitope comprising the amino acid sequence of SEQ ID NO: 71, SEQ ID NO: 72, or SEQ ID NO: 73. 
+ In one embodiment, the anti-c-Met antibody or an antigen-binding fragment thereof may comprise or consist essentially of: 
+ (i) at least one heavy chain complementarity determining region (CDR) selected from the group consisting of (a) a CDR-H1 comprising the amino acid sequence of SEQ ID NO: 4; (b) a CDR-H2 comprising the amino acid sequence of SEQ ID NO: 5, the amino acid sequence of SEQ ID NO: 2, or an amino acid sequence comprising 8-19 consecutive amino acids within the amino acid sequence of SEQ ID NO: 2 comprising amino acid residues from the 3 rd  to 10 th  positions of the amino acid sequence of SEQ ID NO: 2; and (c) a CDR-H3 comprising the amino acid sequence of SEQ ID NO: 6, the amino acid sequence of SEQ ID NO: 85, or an amino acid sequence comprising 6-13 consecutive amino acids within the amino acid sequence of SEQ ID NO: 85 comprising amino acid residues from the 1 st  to 6 th  positions of the amino acid sequence of SEQ ID NO: 85, or a heavy chain variable region comprising the at least one heavy chain complementarity determining region; 
+ (ii) at least one light chain complementarity determining region (CDR) selected from the group consisting of (a) a CDR-L1 comprising the amino acid sequence of SEQ ID NO: 7, (b) a CDR-L2 comprising the amino acid sequence of SEQ ID NO: 8, and (c) a CDR-L3 comprising the amino acid sequence of SEQ ID NO: 9, the amino acid sequence of SEQ ID NO: 15, the amino acid sequence of SEQ ID NO: 86, or an amino acid sequence comprising 9-17 consecutive amino acids within the amino acid sequence of SEQ ID NO: 89 comprising amino acid residues from the 1 st  to 9 th  positions of the amino acid sequence of SEQ ID NO: 89, or a light chain variable region including the at least one light chain complementarity determining region; 
+ (iii) a combination of the at least one heavy chain complementarity determining region and the at least one light chain complementarity determining region; or 
+ (iv) a combination of the heavy chain variable region and the light chain variable region. 
+ Herein, the amino acid sequences of SEQ ID NOS: 4 to 9 are respectively represented by Formulas I to VI, below:
+ 
+Xaa 1 -Xaa 2 -Tyr-Tyr-Met-Ser (SEQ ID NO: 4), wherein Xaa 1  is absent or Pro or Ser, and Xaa 2  is Glu or Asp,  Formula I
+ 
+Arg-Asn-Xaa 3 -Xaa 4 -Asn-Gly-Xaa 5 -Thr (SEQ ID NO: 5), wherein Xaa 3  is Asn or Lys, Xaa 4  is Ala or Val, and Xaa 5  is Asn or Thr,  Formula II
+ 
+Asp-Asn-Trp-Leu-Xaa 6 -Tyr (SEQ ID NO: 6), wherein Xaa 6  is Ser or Thr,  Formula III
+ 
+Lys-Ser-Ser-Xaa 7 -Ser-Leu-Leu-Ala-Xaa 8 -Gly-Asn-Xaa 9 -Xaa 10 -Asn-Tyr-Leu-Ala (SEQ ID NO: 7), wherein Xaa 7  is His, Arg, Gln, or Lys, Xaa 8  is Ser or Trp, Xaa 9  is His or Gln, and Xaa 10  is Lys or Asn,  Formula IV
+ 
+Trp-Xaa 11 -Ser-Xaa 12 -Arg-Val-Xaa 13  (SEQ ID NO: 8), wherein Xaa 11  is Ala or Gly, Xaa 12  is Thr or Lys, and Xaa 13  is Ser or Pro, and  Formula V
+ 
+Xaa 14 -Gln-Ser-Tyr-Ser-Xaa 15 -Pro-Xaa 16 -Thr (SEQ ID NO: 9), wherein Xaa 14  is Gly, Ala, or Gln, Xaa 15  is Arg, His, Ser, Ala, Gly, or Lys, and Xaa 16  is Leu, Tyr, Phe, or Met.  Formula VI
+ 
+ In one embodiment, the CDR-H1 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 1, SEQ ID NO: 22, SEQ ID NO: 23, and SEQ ID NO: 24. The CDR-H2 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 2, SEQ ID NO: 25, and SEQ ID NO: 26. The CDR-H3 may include an amino acid sequence selected from the group consisting of SEQ ID NO: 3, SEQ ID NO: 27, SEQ ID NO: 28, and SEQ ID NO: 85. 
+ The CDR-L1 may comprise an amino acid sequence selected from the group consisting of SEQ ID NO: 10, SEQ ID NO: 29, SEQ ID NO: 30, SEQ ID NO: 31, SEQ ID NO: 32, SEQ ID NO: 33, and SEQ ID NO: 106. The CDR-L2 may comprise an amino acid sequence selected from the group consisting of SEQ ID NO: 11, SEQ ID NO: 34, SEQ ID NO: 35, and SEQ ID NO: 36. The CDR-L3 may comprise an amino acid sequence selected from the group consisting of SEQ ID NO: 12, SEQ ID NO: 13, SEQ ID NO: 14, SEQ ID NO: 15, SEQ ID NO: 16, SEQ ID NO: 37, SEQ ID NO: 86, and SEQ ID NO: 89. 
+ In another embodiment, the anti-c-Met antibody or an antigen-binding fragment thereof may comprise or consisting essentially of: 
+ a heavy variable region comprising or consisting essentially of a polypeptide (CDR-H1) comprising an amino acid sequence selected from the group consisting of SEQ ID NO: 1, SEQ ID NO: 22, SEQ ID NO: 23, and SEQ ID NO: 24, a polypeptide (CDR-H2) comprising an amino acid sequence selected from the group consisting of SEQ ID NO: 2, SEQ ID NO: 25, and SEQ ID NO: 26, and a polypeptide (CDR-H3) comprising an amino acid sequence selected from the group consisting of SEQ ID NO: 3, SEQ ID NO: 27, SEQ ID NO: 28, and SEQ ID NO: 85; and 
+ a light variable region comprising or consisting essentially of a polypeptide (CDR-L1) comprising an amino acid sequence selected from the group consisting of SEQ ID NO: 10, SEQ ID NO: 29, SEQ ID NO: 30, SEQ ID NO: 31, SEQ ID NO: 32, SEQ ID NO: 33, and SEQ ID NO: 106, a polypeptide (CDR-L2) comprising an amino acid sequence selected from the group consisting of SEQ ID NO: 11, SEQ ID NO: 34, SEQ ID NO: 35, and SEQ ID NO: 36, and a polypeptide (CDR-L3) comprising an amino acid sequence selected from the group consisting of SEQ ID NO: 12, SEQ ID NO: 13, SEQ ID NO: 14, SEQ ID NO: 15, SEQ ID NO: 16, SEQ ID NO: 37, SEQ ID NO: 86, and SEQ ID NO: 89. 
+ In an embodiment, the anti-c-Met antibody or an antigen-binding fragment thereof may comprise or consist essentially of a heavy variable region comprising the amino acid sequence of SEQ ID NO: 17, SEQ ID NO: 74, SEQ ID NO: 87, SEQ ID NO: 90, SEQ ID NO: 91, SEQ ID NO: 92, SEQ ID NO: 93, or SEQ ID NO: 94, and a light variable region comprising the amino acid sequence of SEQ ID NO: 18, SEQ ID NO: 19, SEQ ID NO: 20, SEQ ID NO: 21, SEQ ID NO: 75, SEQ ID NO: 88, SEQ ID NO: 95, SEQ ID NO: 96, SEQ ID NO: 97, SEQ ID NO: 98, SEQ ID NO: 99, or SEQ ID NO: 107. 
+ In one embodiment, the anti-c-Met antibody may be a monoclonal antibody. The monoclonal antibody may be produced by the hybridoma cell line deposited with the Korean Cell Line Research Foundation, an international depository authority located at Yungun-Dong, Jongno-Gu, Seoul, Korea, on Oct. 6, 2009, under Accession No. KCLRF-BP-00220, which binds specifically to the extracellular region of c-Met protein (see Korean Patent Publication No. 2011-0047698, the entire disclosure of which is incorporated herein by reference). The anti-c-Met antibody may include all the antibodies defined in Korean Patent Publication No. 2011-0047698. 
+ By way of further example, the anti-c-Met antibody may comprise or consist essentially of: 
+ (a) a heavy chain comprising an amino acid sequence selected from the group consisting of the amino acid sequence of SEQ ID NO: 62 (wherein the amino acid sequence from amino acid residues from the 1 st  to 17 th  positions is a signal peptide), the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62, the amino acid sequence of SEQ ID NO: 64 (wherein the amino acid sequence from the 1 st  to 17 th  positions is a signal peptide), the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64, the amino acid sequence of SEQ ID NO: 66 (wherein the amino acid sequence from the 1 st  to 17 th  positions is a signal peptide), and the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66; and 
+ (b) a light chain comprising an amino acid sequence selected from the group consisting of the amino acid sequence of SEQ ID NO: 68 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68, the amino acid sequence of SEQ ID NO: 70 (wherein the amino acid sequence from the 1 st  to 20 th  positions is a signal peptide), the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70, and the amino acid sequence of SEQ ID NO: 108. 
+ For example, the anti-c-Met antibody may be selected from the group consisting of: 
+ (i) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62 and (b) a light chain comprising the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68; 
+ (ii) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64 and (b) a light chain including the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68; 
+ (iii) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and (b) a light chain comprising the amino acid sequence of SEQ ID NO: 68 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68; 
+ (iv) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62 and (b) a light chain including the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70; 
+ (v) an antibody comprising a heavy chain comprising (a) the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64 and (b) a light chain comprising the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70; 
+ (v) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and (b) a light chain comprising the amino acid sequence of SEQ ID NO: 70 or the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 70; 
+ (vi) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 62 or the amino acid sequence from the 18 th  to 462 nd  positions of SEQ ID NO: 62 and (b) a light chain comprising the amino acid sequence of SEQ ID NO: 108; 
+ (vii) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 64 or the amino acid sequence from the 18 th  to 461 st  positions of SEQ ID NO: 64 and (b) a light chain comprising the amino acid sequence of SEQ ID NO: 108; and 
+ (viii) an antibody comprising (a) a heavy chain comprising the amino acid sequence of SEQ ID NO: 66 or the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and (b) a light chain comprising the amino acid sequence of SEQ ID NO: 108. 
+ In one embodiment, the anti-c-Met antibody may comprise or consist essentially of a heavy chain comprising the amino acid sequence from the 18 th  to 460 th  positions of SEQ ID NO: 66 and a light chain comprising the amino acid sequence from the 21 st  to 240 th  positions of SEQ ID NO: 68. 
+ The polypeptide comprising the amino acid sequence of SEQ ID NO: 70 is a light chain including human kappa (κ) constant region, and the polypeptide comprising the amino acid sequence of SEQ ID NO: 68 is a polypeptide obtained by replacing histidine at position 62 (corresponding to position 36 of SEQ ID NO: 68 according to kabat numbering) of the polypeptide comprising the amino acid sequence of SEQ ID NO: 70 with tyrosine. The production yield of the antibodies may be increased by the replacement. The polypeptide comprising the amino acid sequence of SEQ ID NO: 108 is a polypeptide obtained by replacing serine at position 32 (position 27e according to kabat numbering in the amino acid sequence from amino acid residues 21 to 240 of SEQ ID NO: 68; positioned within CDR-L1) of SEQ ID NO: 108 with tryptophan. By such replacement, antibodies and antibody fragments including such sequences exhibit increased activities, such as c-Met biding affinity, c-Met degradation activity, Akt phosphorylation inhibition, and the like. 
+ Animal-derived antibodies produced by immunizing non-immune animals with a desired antigen generally invoke immunogenicity when injected into humans for the purpose of medical treatment, and thus chimeric antibodies have been developed to inhibit such immunogenicity. Chimeric antibodies are prepared by replacing constant regions of animal-derived antibodies that cause an anti-isotype response with constant regions of human antibodies by genetic engineering. Chimeric antibodies are considerably improved in an anti-isotype response compared to animal-derived antibodies, but animal-derived amino acids still have variable regions, so that chimeric antibodies have side effects with respect to a potential anti-idiotype response. Humanized antibodies have been developed to reduce such side effects. Humanized antibodies are produced by grafting complementarity determining regions (CDR) which serve an important role in antigen binding in variable regions of chimeric antibodies into a human antibody framework. 
+ The most important thing in CDR grafting to produce humanized antibodies is choosing the optimized human antibodies for accepting CDRs of animal-derived antibodies. Antibody databases, analysis of a crystal structure, and technology for molecule modeling are used. However, even when the CDRs of animal-derived antibodies are grafted to the most optimized human antibody framework, amino acids positioned in a framework of the animal-derived CDRs affecting antigen binding are present. Therefore, in many cases, antigen binding affinity is not maintained, and thus application of additional antibody engineering technology for recovering the antigen binding affinity is necessary. 
+ The anti c-Met antibodies may be mouse-derived antibodies, mouse-human chimeric antibodies, humanized antibodies, or human antibodies. The antibodies or antigen-binding fragments thereof may be isolated from a living body or non-naturally occurring. The antibodies or antigen-binding fragments thereof may be recombinant or synthetic. 
+ An intact antibody includes two full-length light chains and two full-length heavy chains, in which each light chain is linked to a heavy chain by disulfide bonds. The antibody includes a heavy chain constant region and a light chain constant region. The heavy chain constant region is of a gamma (γ), mu (μ), alpha (α), delta (δ), or epsilon (ε) type, which may be further categorized as gamma 1 (γ1), gamma 2 (γ2), gamma 3 (γ3), gamma 4 (γ4), alpha 1 (α1), or alpha 2 (α2). The light chain constant region is of either a kappa (κ) or lambda (λ) type. 
+ As used herein, the term “heavy chain” refers to full-length heavy chain, and fragments thereof, including a variable region V H  that includes amino acid sequences sufficient to provide specificity to antigens, and three constant regions, C H1 , C H2 , and C H3 , and a hinge. The term “light chain” refers to a full-length light chain and fragments thereof, including a variable region V L  that includes amino acid sequences sufficient to provide specificity to antigens, and a constant region C L . 
+ The term “complementarity determining region (CDR)” refers to an amino acid sequence found in a hyper variable region of a heavy chain or a light chain of immunoglobulin. The heavy and light chains may respectively include three CDRs (CDRH1, CDRH2, and CDRH3; and CDRL1, CDRL2, and CDRL3). The CDRs may provide contact residues that play an important role in the binding of antibodies to antigens or epitopes. The terms “specifically binding” and “specifically recognized” are well known to one of ordinary skill in the art, and indicate that an antibody and an antigen specifically interact with each other to lead to an immunological activity. 
+ The term “hinge region,” as used herein, refers to a region between CH1 and CH2 domains within the heavy chain of an antibody which functions to provide flexibility for the antigen-binding site. 
+ When an animal antibody undergoes a chimerization process, the IgG1 hinge of animal origin may be replaced with a human IgG1 hinge or IgG2 hinge while the disulfide bridges between two heavy chains are reduced from three to two in number. In addition, an animal-derived IgG1 hinge is shorter than a human IgG1 hinge. Accordingly, the rigidity of the hinge is changed. Thus, a modification of the hinge region may bring about an improvement in the antigen binding efficiency of the humanized antibody. The modification of the hinge region through amino acid deletion, addition, or substitution is well-known to those skilled in the art. 
+ In one embodiment, the anti-c-Met antibody or an antigen-binding fragment thereof may be modified by the deletion, insertion, addition, or substitution of at least one (e.g., two, three, four, five, six, seven, eight, nine, or ten) amino acid residues of the amino acid sequence of the hinge region so that it exhibits enhanced antigen-binding efficiency. For example, the antibody may include a hinge region including the amino acid sequence of SEQ ID NO: 100 (U7-HC6), 101 (U6-HC7), 102 (U3-HC9), 103 (U6-HC8), or 104 (U8-HC5), or a hinge region including the amino acid sequence of SEQ ID NO: 105 (non-modified human hinge). Preferably, the hinge region includes the amino acid sequence of SEQ ID NO: 100 or 101. 
+ In the anti-c-Met antibody or anti-EGFR antibody, the portion of the light chain and the heavy chain portion excluding the CDRs, the light chain variable region, and the heavy chain variable region refers to the light chain constant region and the heavy chain constant region. The heavy chain constant region, the light chain constant region, and/or the region other than the CDR region, the heavy chain variable region, or the light chain variable region, may be originated from any subtype of immunoglobulin (e.g., IgA, IgD, IgE, IgG (IgG1, IgG2, IgG3, IgG4), IgM, etc.). 
+ The term “antigen-binding fragment” used herein refers to fragments of an intact immunoglobulin including portions of a polypeptide including antigen-binding regions having the ability to specifically bind to the antigen. For example, the antigen-binding fragment may be selected from the group consisting of scFv, (scFv) 2 , Fab, Fab′, and F(ab′) 2 , but not be limited thereto. 
+ Among the antigen-binding fragments, Fab that includes light chain and heavy chain variable regions, a light chain constant region, and a first heavy chain constant region C H1 , includes one antigen-binding site. 
+ The Fab′ fragment is different from the Fab fragment, in that Fab′ includes a hinge region with at least one cysteine residue at the C-terminal of C H1 . 
+ The F(ab′) 2  antibody is formed through disulfide bridging of the cysteine residues in the hinge region of the Fab′ fragment. Fv is the smallest antibody fragment with only a heavy chain variable region and a light chain variable region. Recombination techniques of generating the Fv fragment are widely known in the art. 
+ Two-chain Fv includes a heavy chain variable region and a light chain region which are linked by a non-covalent bond. Single-chain Fv generally includes a heavy chain variable region and a light chain variable region which are linked by a covalent bond via a peptide linker or linked at the C-terminals to have a dimer structure like the two-chain Fv. The peptide linker may be a polypeptide comprising about 1 to about 100, about 2 to about 50, or about 5 to about 25 amino acids, wherein the amino acids may be selected from any amino acids without limitation. 
+ The antigen-binding fragments may be attainable using protease (for example, the Fab fragment may be obtained by restricted cleavage of a whole antibody with papain, and the F(ab′) 2  fragment may be obtained by cleavage with pepsin), or may be prepared by using a genetic recombination technique. 
+ The bispecific anti-c-Met/anti-EGFR antibody can inhibit the activities of c-Met and EGFR due to the intracellular internalization and degradation activity of an anti-c-Met antibody, and may radically prevent the functions of c-Met and EGFR by degrading them and reducing the total amount thereof. Therefore, the bispecific anti-c-Met/anti-EGFR antibody can exhibit effective therapeutic efficacy even when it is applied to a subject having resistance to the existing EGFR targeting drug, for example, an anti-EGFR antibody. 
+ In embodiments comprising a mixture where a pharmaceutically effective amount of bispecific anti-c-Met/anti-EGFR antibody and a pharmaceutically effective amount of a c-Src inhibitor are administered to a subject, the combined pharmaceutical composition comprising a first pharmaceutical composition containing a pharmaceutically effective amount of bispecific anti-c-Met/anti-EGFR antibody as an active ingredient, and the second pharmaceutical composition containing a pharmaceutically effective amount of a c-Src inhibitor as an active ingredient, may be administered along with a pharmaceutically acceptable carrier, diluent, and/or excipient. 
+ The pharmaceutically acceptable carrier to be included in the mixture or the pharmaceutical composition may be those commonly used for the formulation of antibodies, which may be one or more selected from the group consisting of lactose, dextrose, sucrose, sorbitol, mannitol, starch, gum acacia, calcium phosphate, alginates, gelatin, calcium silicate, micro-crystalline cellulose, polyvinylpyrrolidone, cellulose, water, syrup, methyl cellulose, methylhydroxy benzoate, propylhydroxy benzoate, talc, magnesium stearate, and mineral oil, but are not limited thereto. The pharmaceutical composition may further include one or more selected from the group consisting of a lubricant, a wetting agent, a sweetener, a flavor enhancer, an emulsifying agent, a suspension agent, preservative, and the like. 
+ The pharmaceutical composition, the mixture, or each active ingredient may be administered orally or parenterally. The parenteral administration may include intravenous injection, subcutaneous injection, muscular injection, intraperitoneal injection, endothelial administration, local administration, intranasal administration, intrapulmonary administration, and rectal administration. Since oral administration leads to digestion of proteins or peptides, an active ingredient in the compositions for oral administration must be coated or formulated to prevent digestion in stomach. In addition, the compositions may be administered using an optional device that enables an active substance to be delivered to target cells. 
+ The term “the pharmaceutically effective amount” as used in this specification refers to an amount of which each active ingredient can exert pharmaceutically significant effects. 
+ For one-time administration, a pharmaceutically effective amount of a bispecific anti-c-Met/anti-EGFR antibody and a pharmaceutically effective amount of the c-Src inhibitor may be prescribed in a variety of ways, depending on many factors including formulation methods, administration manners, ages of subjects, body weight, gender, pathologic conditions, diets, administration time, administration interval, administration route, excretion speed, and reaction sensitivity. For example, the effective amount of the c-Src inhibitor for one-time administration may be, but not limited to, ranges of about 0.001 to about 100 mg/kg, or about 0.02 to about 10 mg/kg for one-time administration and the effective amount of the bispecific anti-c-Met/anti-EGFR antibody for one-time administration may be, but not limited to, ranges of about 0.001 to about 100 mg/kg, or about 0.02 to about 10 mg/kg for their one-time administration. 
+ The effective amount for one-time administration may be formulated into a single formulation in a unit dosage form or formulated in suitably divided dosage forms, or it may be manufactured to be contained in a multiple dosage container. For the kit, the effective amount of a bispecific anti-c-Met/anti-EGFR antibody and the effective amount of the c-Src inhibitor for one-time administration (single dose) may be contained in a package container as a base unit. 
+ The administration interval between the administrations is defined as a period between the first administration and the following administration. The administration interval may be, but is not limited to, 24 hours to 30 days (e.g., 10 hours, 15 hours, 20 hours, 1 day, 2 days, 3 days, 4 days, 5 days, 6, days, 7 days, 10 days, 14 days, 21 days, or 28 days) and particularly 7 to 14 days or so. For the combined therapy, the first pharmaceutical composition containing a pharmaceutically effective amount of bispecific anti-c-Met/anti-EGFR antibody as an active ingredient, and the second pharmaceutical composition containing a pharmaceutically effective amount of a c-Src inhibitor as an active ingredient may be co-administered, and the co-administration may be conducted in a given time interval (e.g., several minutes, several hours or several days, or several weeks) to be determined by a type of diseases, a subject's conditions, etc. For example, the first pharmaceutical composition and the second pharmaceutical composition may be simultaneously administered (administration interval within 1 minute) or sequentially administered (administration interval of 1 minute or over), and in case of sequential administration, the administration interval between the first pharmaceutical composition and the second pharmaceutical composition may be 1 to 60 minutes, particularly, 1 minute to 10 minutes, and their administration order may be reversed. 
+ The combined mixture or the pharmaceutical compositions may be a solution in oil or an aqueous medium, a suspension, a syrup, an emulsifying solution form, or they may be formulated into a form of an extract, elixirs, powders, granules, a tablet or a capsule, and they may further include a dispersing agent or a stabilizing agent for their formulation. 
+ In particular, the pharmaceutical composition containing the anti-c-Met antibody or antigen binding fragments thereof may be formulated into an immunoliposome since it contains an antibody or an antigen binding fragment. A liposome containing an antibody may be prepared using any methods well known in the pertinent field. The immunoliposome may be a lipid composition including phosphatidylcholine, cholesterol, and polyethyleneglycol-derived phosphatidylethanolamine, and may be prepared by a reverse phase evaporation method. For example, Fab′ fragments of an antibody may be conjugated to the liposome through a disulfide-exchange reaction. A chemical drug, such as doxorubicin, may further be included in the liposome. 
+ Another embodiment provides a method of combination therapy (co-administration). In particular, provided is a method of prevention and/or treatment of a cancer comprising (or consisting essentially of) co-administering a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor, to a subject in need of prevention and/or treatment of the cancer. The bispecific anti-c-Met/anti-EGFR antibody and the c-Src inhibitor may be administered in amounts that are pharmaceutically effective when combined, which amounts may be determined by a skilled medical practitioner or medical researcher. The method may further include a step of identifying a subject who is in need of the prevention and/or treatment of a cancer, prior to the co-administration step. The step of identifying may be conducted in any manner and/or by methods known in the relevant field for identifying whether or not a subject needs the prevention and/or treatment of cancer. For example, the step of identifying may include diagnosing a subject as a cancer subject having a cancer, or identifying a subject who is diagnosed as a cancer subject. 
+ In one embodiment, the co-administration may be conducted by administering a mixed formulation of a bispecific anti-c-Met/anti-EGFR antibody and a Src inhibitor, as described herein. In another embodiment, the co-administration may be conducted by a first step of administering a bispecific anti-c-Met/anti-EGFR antibody, and a second step of administering a c-Src inhibitor, wherein the first and the second administration steps may be conducted simultaneously or sequentially. In circumstances of the sequential administration, the first step and the second step may be performed in any order. The bispecific anti-c-Met/anti-EGFR antibody and Src inhibitor may be administered in amounts that are pharmaceutically effective when combined, which amount may be determined by the skilled medical practitioner or medical researcher. 
+ The subject may be an animal selected from mammals including primates such as humans and monkeys and rodents such as mice and rats, a cell or a tissue separated from the animal, or a culture of the cell or the tissue. 
+ Another embodiment provides a use of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor for combined therapy for treatment and/or prevention of a cancer. 
+ The pharmaceutical composition or method of combination therapy can be applied to treatment and/or prevention of cancer. The cancer may be associated with overexpression and/or abnormal activation of c-Met and/or FGFR. The cancer may be a solid cancer or a blood cancer. In addition, the cancer may have resistance to a tyrosine kinase inhibitor, for example, an anti-c-Met antibody, an anti-EGFR antibody, or a bispecific anti-c-Met/anti-EGFR antibody, and/or be induced by mutation (e.g., K-Ras or EGFR T790M mutation). For example, the cancer may be at least one selected from the group consisting of squamous cell carcinoma, small-cell lung cancer, non-small-cell lung cancer, adenocarcinoma of the lung, squamous cell carcinoma of the lung, peritoneal carcinoma, skin cancer, melanoma in the skin or eyeball, rectal cancer, cancer near the anus, esophagus cancer, small intestinal tumor, endocrine gland cancer, parathyroid cancer, adrenal cancer, soft-tissue sarcoma, urethral cancer, chronic or acute leukemia, lymphocytic lymphoma, hepatoma, gastrointestinal cancer, gastric cancer, pancreatic cancer, glioblastoma, cervical cancer, ovarian cancer, liver cancer, bladder cancer, hepatocellular adenoma, breast cancer, colon cancer, large intestine cancer, endometrial carcinoma or uterine carcinoma, salivary gland tumor, kidney cancer, prostate cancer, vulvar cancer, thyroid cancer, head and neck cancers, brain cancer, osteosarcoma, and the like, but not be limited thereto. The cancer may include a metastatic cancer as well as a primary cancer. For example, the cancer may be a tyrosine kinase inhibitor resistant cancer, a colorectal cancer induced by K-Ras mutation, or a non-small cell lung cancer induced by EGFR T790M mutation. 
+ The prevention and/or treatment effects of the cancers may include effects of not only suppressing the growth of the cancer cells but also suppressing migration, invasion, and/or metastasis of cancers. Therefore, the cancers suitable for treatment with the combined therapy include both primary cancers and metastatic cancers. 
+ EXAMPLES 
+ Hereafter, the present invention will be described in detail by examples. 
+ The following examples are intended merely to illustrate the invention and are not construed to restrict the invention. 
+ Reference Example 1 
+ Construction of Anti-c-Met Antibody 
+ 1.1. Production of “AbF46”, a Mouse Antibody to c-Met 
+ 1.1.1. Immunization of Mice 
+ To obtain immunized mice necessary for the development of a hybridoma cell line, each of five BALB/c mice (Japan SLC, Inc.), 4 to 6 weeks old, was intraperitoneally injected with a mixture of 100 μg of human c-Met/Fc fusion protein (R&D Systems) and one volume of complete Freund's adjuvant. Two weeks after the injection, a second intraperitoneal injection was conducted on the same mice with a mixture of 50 μg of human c-Met/Fc protein and one volume of incomplete Freund's adjuvant. One week after the second immunization, the immune response was finally boosted. Three days later, blood was taken from the tails of the mice and the sera were 1/1000 diluted in PBS and used to examine a titer of antibody to c-Met by ELISA. Mice found to have a sufficient antibody titer were selected for use in the cell fusion process. 
+ 1.1.2. Cell Fusion and Production of Hybridoma 
+ Three days before cell fusion, BALB/c mice (Japan SLC, Inc.) were immunized with an intraperitoneal injection of a mixture of 50 μg of human c-Met/Fc fusion protein and one volume of PBS. The immunized mice were anesthetized before excising the spleen from the left half of the body. The spleen was meshed to separate splenocytes which were then suspended in a culture medium (DMEM, GIBCO, Invitrogen). The cell suspension was centrifuged to recover the cell layer. The splenocytes thus obtained (1×10 8  cells) were mixed with myeloma cells (Sp2/0) (1×10 8  cells), followed by spinning to give a cell pellet. The cell pellet was slowly suspended, treated with 45% polyethylene glycol (PEG) (1 mL) in DMEM for 1 min at 37° C., and supplemented with 1 mL of DMEM. To the cells was added 10 mL of DMEM over 10 min, after which incubation was conducted in a water bath at 37° C. for 5 min. Then the cell volume was adjusted to 50 mL before centrifugation. The cell pellet thus formed was resuspended at a density of 1˜2×10 5  cells/mL in a selection medium (HAT medium) and 0.1 mL of the cell suspension was allocated to each well of 96-well plates which were then incubated at 37° C. in a CO 2  incubator to establish a hybridoma cell population. 
+ 1.1.3. Selection of Hybridoma Cells Producing Monoclonal Antibodies to c-Met Protein 
+ From the hybridoma cell population established in Reference Example 1.1.2, hybridoma cells which showed a specific response to c-Met protein were screened by ELISA using human c-Met/Fc fusion protein and human Fc protein as antigens. 
+ Human c-Met/Fc fusion protein was seeded in an amount of 50 μL (2 μg/mL)/well to microtiter plates and allowed to adhere to the surface of each well. The antibody that remained unbound was removed by washing. For use in selecting the antibodies that do not bind c-Met but recognize Fc, human Fc protein was attached to the plate surface in the same manner. 
+ The hybridoma cell culture obtained in Reference Example 1.1.2 was added in an amount of 50 μL to each well of the plates and incubated for 1 hour. The cells remaining unreacted were washed out with a sufficient amount of Tris-buffered saline and Tween 20 (TBST). Goat anti-mouse IgG-horseradish peroxidase (HRP) was added to the plates and incubated for 1 hour at room temperature. The plates were washed with a sufficient amount of TBST, followed by reacting the peroxidase with a substrate (OPD). Absorbance at 450 nm was measured on an ELISA reader. 
+ Hybridoma cell lines which secrete antibodies that specifically and strongly bind to human c-Met but not human Fc were selected repeatedly. From the hybridoma cell lines obtained by repeated selection, a single clone producing a monoclonal antibody was finally separated by limiting dilution. The single clone of the hybridoma cell line producing the monoclonal antibody was deposited with the Korean Cell Line Research Foundation, an international depository authority located at Yungun-Dong, Jongno-Gu, Seoul, Korea, on Oct. 6, 2009, under Accession No. KCLRF-BP-00220 according to the Budapest Treaty (refer to Korean Patent Laid-Open Publication No. 2011-0047698). 
+ 1.1.4. Production and Purification of Monoclonal Antibody 
+ The hybridoma cell line obtained in Reference Example 1.1.3 was cultured in a serum-free medium, and the monoclonal antibody (AbF46) was produced and purified from the cell culture. 
+ First, the hybridoma cells cultured in 50 mL of a medium (DMEM) supplemented with 10% (v/v) FBS were centrifuged and the cell pellet was washed twice or more with 20 mL of PBS to remove the FBS therefrom. Then, the cells were resuspended in 50 mL of DMEM and incubated for 3 days at 37° C. in a CO 2  incubator. 
+ After the cells were removed by centrifugation, the supernatant was stored at 4° C. before use or immediately used for the separation and purification of the antibody. An AKTA system (GE Healthcare) equipped with an affinity column (Protein G agarose column; Pharmacia, USA) was used to purify the antibody from 50 to 300 mL of the supernatant, followed by concentration with a filter (Amicon). The antibody in PBS was stored before use in the following examples. 
+ 1.2. Construction of chAbF46, a Chimeric Antibody to c-Met 
+ A mouse antibody is apt to elicit immunogenicity in humans. To solve this problem, chAbF46, a chimeric antibody, was constructed from the mouse antibody AbF46 produced in Reference Example 1.1.4 by replacing the constant region, but not the variable region responsible for antibody specificity, with an amino sequence of the human IgG1 antibody. 
+ In this regard, a gene was designed to include the nucleotide sequence of “EcoRI-signal sequence-VH-NheI-CH-TGA-XhoI” (SEQ ID NO: 38) for a heavy chain and the nucleotide sequence of “EcoRI-signal sequence-VL-BsiWI-CL-TGA-XhoI” (SEQ ID NO: 39) for a light chain and synthesized. Then, a DNA fragment having the heavy chain nucleotide sequence (SEQ ID NO: 38) and a DNA fragment having the light chain nucleotide sequence (SEQ ID NO: 39) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a vector from the pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen), and a vector from the pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 μl (microliter) of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ Afterwards, the cells were incubated in DMEM supplemented with 10% (v/v) FBS for 5 hours at 37° C. under a 5% CO 2  condition and then in FBS-free DMEM for 48 hours at 37° C. under a 5% CO 2  condition. 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify a chimeric antibody AbF46 (hereinafter referred to as “chAbF46”). 
+ 1.3. Construction of Humanized Antibody huAbF46 from Chimeric Antibody chAbF46 
+ 1.3.1. Heavy Chain Humanization 
+ To design two domains H1-heavy and H3-heavy, human germline genes which share the highest identity/homology with the VH gene of the mouse antibody AbF46 purified in Reference Example 1.2 were analyzed. An Ig BLAST (www.ncbi.nlm.nih.gov/igblast/) search revealed that VH3-71 has an identity/homology of 83% at the amino acid level. CDR-H1, CDR-H2, and CDR-H3 of the mouse antibody AbF46 were defined according to Kabat numbering. A design was made to introduce the CDR of the mouse antibody AbF46 into the framework of VH3-71. Hereupon, back mutations to the amino acid sequence of the mouse AbF46 were conducted at positions 30 (S→T), 48 (V→L), 73 (D→N), and 78 (T→L). Then, H1 was further mutated at positions 83 (R→K) and 84 (A→T) to finally establish H1-heavy (SEQ ID NO: 40) and H3-heavy (SEQ ID NO: 41). 
+ For use in designing H4-heavy, human antibody frameworks were analyzed by a BLAST search. The result revealed that the VH3 subtype, known to be most stable, is very similar in framework and sequence to the mouse antibody AbF46. CDR-H1, CDR-H2, and CDR-H3 of the mouse antibody AbF46 were defined according to Kabat numbering and introduced into the VH3 subtype to construct H4-heavy (SEQ ID NO: 42). 
+ 1.3.2. Light Chain Humanization 
+ To design two domains H1-light (SEQ ID NO: 43) and H2-light (SEQ ID NO: 44), human germline genes which share the highest identity/homology with the VH gene of the mouse antibody AbF46 were analyzed. An Ig BLAST search revealed that VK4-1 has a identity/homology of 75% at the amino acid level. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody AbF46 were defined according to Kabat numbering. A design was made to introduce the CDR of the mouse antibody AbF46 into the framework of VK4-1. Hereupon, back mutations to the amino acid sequence of the mouse AbF46 were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I). Only one back mutation was conducted at position 49 (Y→I) on H2-light. 
+ To design H3-light (SEQ ID NO: 45), human germline genes which share the highest identity/homology with the VL gene of the mouse antibody AbF46 were analyzed by a search for BLAST. As a result, VK2-40 was selected. VL and VK2-40 of the mouse antibody AbF46 were found to have an identity/homology of 61% at an amino acid level. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody were defined according to Kabat numbering and introduced into the framework of VK4-1. Back mutations were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I) on H3-light. 
+ For use in designing H4-light (SEQ ID NO: 46), human antibody frameworks were analyzed. A Blast search revealed that the Vk1 subtype, known to be the most stable, is very similar in framework and sequence to the mouse antibody AbF46. CDR-L1, CDR-L2, and CDR-L3 of the mouse antibody AbF46 were defined according to Kabat numbering and introduced into the Vk1 subtype. Hereupon, back mutations were conducted at positions 36 (Y→H), 46 (L→M), and 49 (Y→I) on H4-light. 
+ Thereafter, DNA fragments having the heavy chain nucleotide sequences (H1-heavy: SEQ ID NO: 47, H3-heavy: SEQ ID NO: 48, H4-heavy: SEQ ID NO: 49) and DNA fragments having the light chain nucleotide sequences (H1-light: SEQ ID NO: 50, H2-light: SEQ ID NO: 51, H3-light: SEQ ID NO: 52, H4-light: SEQ ID NO: 53) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) and a pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively, so as to construct recombinant vectors for expressing a humanized antibody. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 ul (microliter) of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify a humanized antibody AbF46 (hereinafter referred to as “huAbF46”). The humanized antibody huAbF46 used in the following examples included a combination of H4-heavy (SEQ ID NO: 42) and H4-light (SEQ ID NO: 46). 
+ 1.4. Construction of scFV Library of huAbF46 Antibody 
+ For use in constructing an scFv of the huAbF46 antibody from the heavy and light chain variable regions of the huAbF46 antibody, a gene was designed to have the structure of “VH-linker-VL” for each of the heavy and the light chain variable region, with the linker having the amino acid sequence “GLGGLGGGGSGGGGSGGSSGVGS” (SEQ ID NO: 54). A polynucleotide sequence (SEQ ID NO: 55) encoding the designed scFv of huAbF46 was synthesized in Bioneer and an expression vector for the polynucleotide had the nucleotide sequence of SEQ ID NO: 56. 
+ After expression, the product was found to exhibit specificity to c-Met. 
+ 1.5. Construction of Library Genes for Affinity Maturation 
+ 1.5.1. Selection of Target CDRs and Synthesis of Primers 
+ The affinity maturation of huAbF46 was achieved. First, six complementary determining regions (CDRs) were defined according to Kabat numbering. The CDRs are given in Table 2, below. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 2 
+ 
+ 
+   
+   
+ 
+ 
+   
+ CDR 
+ Amino Acid Sequence 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ CDR-H1 
+ DYYMS (SEQ ID NO: 1) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ CDR-H2 
+ FIRNKANGYTTEYSASVKG(SEQ ID NO: 2) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ CDR-H3 
+ DNWFAY (SEQ ID NO: 3) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ CDR-L1 
+ KSSQSLLASGNQNNYLA (SEQ ID NO: 10) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ CDR-L2 
+ WASTRVS (SEQ ID NO: 11) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ CDR-L3 
+ QQSYSAPLT (SEQ ID NO: 12) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ For use in the introduction of random sequences into the CDRs of the antibody, primers were designed as follows. Conventionally, N codons were utilized to introduce bases at the same ratio (25% A, 25% G, 25% C, 25% T) into desired sites of mutation. In this experiment, the introduction of random bases into the CDRs of huAbF46 was conducted in such a manner that, of the three nucleotides per codon in the wild-type polynucleotide encoding each CDR, the first and second nucleotides conserved over 85% of the entire sequence while the other three nucleotides were introduced at the same percentage (each 5%) and that the same possibility was imparted to the third nucleotide (33% G, 33% C, 33% T). 
+ 1.5.2. Construction of a Library of huAbF46 Antibodies and Affinity for c-Met 
+ The construction of antibody gene libraries through the introduction of random sequences was carried out using the primers synthesized in the same manner as in Reference Example 1.5.1. Two PCR products were obtained using a polynucleotide covering the scFV of huAbF46 as a template, and were subjected to overlap extension PCR to give scFv library genes for huAbF46 antibodies in which only desired CDRs were mutated. Libraries targeting each of the six CDRs prepared from the scFV library genes were constructed. 
+ The affinity for c-Met of each library was compared to that of the wild type. Most libraries were lower in affinity for c-Met, compared to the wild-type. The affinity for c-Met was retained in some mutants. 
+ 1.6. Selection of Antibody with Improved Affinity from Libraries 
+ After affinity maturation of the constructed libraries for c-Met, the nucleotide sequence of scFv from each clone was analyzed. The nucleotide sequences thus obtained are summarized in Table 3 and were converted into IgG forms. Four antibodies which were respectively produced from clones L3-1, L3-2, L3-3, and L3-5 were used in the subsequent experiments. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 3 
+ 
+ 
+   
+   
+ 
+ 
+   
+   
+ Library 
+   
+ 
+ 
+   
+ Clone 
+ constructed 
+ CDR Sequence 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ H11-4 
+ CDR-H1 
+ PEYYMS (SEQ ID NO: 22) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ YC151 
+ CDR-H1 
+ PDYYMS (SEQ ID NO: 23) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ YC193 
+ CDR-H1 
+ SDYYMS (SEQ ID NO: 24) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ YC244 
+ CDR-H2 
+ RNNANGNT (SEQ ID NO: 25) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ YC321 
+ CDR-H2 
+ RNKVNGYT (SEQ ID NO: 26) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ YC354 
+ CDR-H3 
+ DNWLSY (SEQ ID NO: 27) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ YC374 
+ CDR-H3 
+ DNWLTY (SEQ ID NO: 28) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L1-1 
+ CDR-L1 
+ KSSHSLLASGNQNNYLA  
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 29) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L1-3 
+ CDR-L1 
+ KSSRSLLSSGNHKNYLA  
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 30) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L1-4 
+ CDR-L1 
+ KSSKSLLASGNQNNYLA  
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 31) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L1-12 
+ CDR-L1 
+ KSSRSLLASGNQNNYLA  
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 32) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L1-22 
+ CDR-L1 
+ KSSHSLLASGNQNNYLA  
+ 
+ 
+   
+   
+   
+ (SEQ ID NO: 33) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L2-9 
+ CDR-L2 
+ WASKRVS (SEQ ID NO: 34) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L2-12 
+ CDR-L2 
+ WGSTRVS (SEQ ID NO: 35) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L2-16 
+ CDR-L2 
+ WGSTRVP (SEQ ID NO: 36) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L3-1 
+ CDR-L3 
+ QQSYSRPYT (SEQ ID NO: 13) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L3-2 
+ CDR-L3 
+ GQSYSRPLT (SEQ ID NO: 14) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L3-3 
+ CDR-L3 
+ AQSYSHPFS (SEQ ID NO: 15) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L3-5 
+ CDR-L3 
+ QQSYSRPFT (SEQ ID NO: 16) 
+ 
+ 
+   
+   
+ 
+ 
+   
+ L3-32 
+ CDR-L3 
+ QQSYSKPFT (SEQ ID NO: 37) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 1.7. Conversion of Selected Antibodies into IgG 
+ Polynucleotides encoding heavy chains of the four selected antibodies were designed to have the structure of “EcoRI-signal sequence-VH-NheI-CH-XhoI” (SEQ ID NO: 38). The heavy chains of huAbF46 antibodies were used as they were because their amino acids were not changed during affinity maturation. In the case of the hinge region, however, the U6-HC7 hinge (SEQ ID NO: 57) was employed instead of the hinge of human IgG1. Genes were also designed to have the structure of “EcoRI-signal sequence-VL-BsiWI-CL-XhoI” for the light chain. Polypeptides encoding light chain variable regions of the four antibodies which were selected after the affinity maturation were synthesized in Bioneer. Then, a DNA fragment having the heavy chain nucleotide sequence (SEQ ID NO: 38) and DNA fragments having the light chain nucleotide sequences (DNA fragment including L3-1-derived CDR-L3: SEQ ID NO: 58, DNA fragment including L3-2-derived CDR-L3: SEQ ID NO: 59, DNA fragment including L3-3-derived CDR-L3: SEQ ID NO: 60, and DNA fragment including L3-5-derived CDR-L3: SEQ ID NO: 61) were digested with EcoRI (NEB, R0101S) and XhoI (NEB, R0146S) before cloning into a pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) and a pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01), respectively, so as to construct recombinant vectors for expressing affinity-matured antibodies. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 ul (microliter) of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE healthcare, 17-0405-03), followed by elution with an IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to purify four affinity-matured antibodies (hereinafter referred to as “huAbF46-H4-A1 (L3-1 origin), huAbF46-H4-A2 (L3-2 origin), huAbF46-H4-A3 (L3-3 origin), and huAbF46-H4-A5 (L3-5 origin),” respectively). 
+ 1.8. Construction of Constant Region- and/or Hinge Region-Substituted huAbF46-H4-A1 
+ Among the four antibodies selected in Reference Example 1.7, huAbF46-H4-A1 was found to be the highest in affinity for c-Met and the lowest in Akt phosphorylation and c-Met degradation degree. In the antibody, the hinge region, or the constant region and the hinge region, were substituted. 
+ The antibody huAbF46-H4-A1 (U6-HC7) was composed of a heavy chain including the heavy chain variable region of huAbF46-H4-A1, U6-HC7 hinge, and the constant region of human IgG1 constant region, and a light chain including the light chain variable region of huAbF46-H4-A1 and human kappa constant region. The antibody huAbF46-H4-A1 (IgG2 hinge) was composed of a heavy chain including a heavy chain variable region, a human IgG2 hinge region, and a human IgG1 constant region, and a light chain including the light chain variable region of huAbF46-H4-A1 and a human kappa constant region. The antibody huAbF46-H4-A1 (IgG2 Fc) was composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 hinge region, and a human IgG2 constant region, and a light chain including the light variable region of huAbF46-H4-A1 and a human kappa constant region. Hereupon, the histidine residue at position 36 on the human kappa constant region of the light chain was changed to tyrosine in all of the three antibodies to increase antibody production. 
+ For use in constructing the three antibodies, a polynucleotide (SEQ ID NO: 63) encoding a polypeptide (SEQ ID NO: 62) composed of the heavy chain variable region of huAbF46-H4-A1, a U6-HC7 hinge region, and a human IgG1 constant region, a polynucleotide (SEQ ID NO: 65) encoding a polypeptide (SEQ ID NO: 64) composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 hinge region, and a human IgG1 region, a polynucleotide (SEQ ID NO: 67) encoding a polypeptide (SEQ ID NO: 66) composed of the heavy chain variable region of huAbF46-H4-A1, a human IgG2 region, and a human IgG2 constant region, and a polynucleotide (SEQ ID NO: 69) encoding a polypeptide (SEQ ID NO: 68) composed of the light chain variable region of huAbF46-H4-A1, with a tyrosine residue instead of histidine at position 36, and a human kappa constant region were synthesized in Bioneer. Then, the DNA fragments having heavy chain nucleotide sequences were inserted into a pOptiVEC™-TOPO TA Cloning Kit enclosed in an OptiCHO™ Antibody Express Kit (Cat no. 12762-019, Invitrogen) while DNA fragments having light chain nucleotide sequences were inserted into a pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01) so as to construct vectors for expressing the antibodies. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/ml, and after 24 hours, when the cell number reached to 1×10 6  cells/ml, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 ml tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 ml of OptiPro™ SFM (Invitrogen) (A), and in another 15 ml tube, 100 μl of Freestyle™ MAX reagent and 2 ml of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE healthcare, 17-0405-03), followed by elution with IgG elution buffer (Thermo Scientific, 21004). The buffer was exchanged with PBS to finally purify three antibodies (huAbF46-H4-A1 (U6-HC7), huAbF46-H4-A1 (IgG2 hinge), and huAbF46-H4-A1 (IgG2 Fc)). Among the three antibodies, huAbF46-H4-A1 (IgG2 Fc) was representatively selected for the following examples, and referred as L3-1Y. 
+ Example 1 
+ Preparation of Anti-EGFR scFv 
+ An anti-EGFR scFv specifically binding to EGFR was prepared by inserting (GGGGS) 3  peptide linker (SEQ ID NO: 132) between a heavy chain variable region and a light chain variable region. 
+ In particular, using an automatic gene synthesis (Bioneer Inc.), a (GGGGS) 3  linker peptide (SEQ ID NO: 132) coding DNA fragment was inserted between a DNA fragment (SEQ ID NO: 110) encoding a humanized anti-EGFR antibody heavy chain variable region (SEQ ID NO: 109) and a DNA fragment (SEQ ID NO: 112) encoding a humanized anti-EGFR antibody light chain variable region (SEQ ID NO: 111), to prepare a scFv (hereinafter, “ME01 scFv”) of an anti-EGFR antibody. 
+ A modified anti-EGFR scFv (heavy chain variable region: SEQ ID NO: 113; and light chain variable region: SEQ ID NO: 114; hereinafter, “ME03S scFv”) was prepared as described above, with the exception that in the heavy chain variable region (SEQ ID NO: 109), the amino acid, F, at 51 st  position was substituted with I, the amino acid G at 44 th  position with C, and the amino acid Q at 62 nd  position with S, and in the light chain variable region (SEQ ID NO: 111), the amino acid R at 46 th  position was substituted with L, the amino acid F at 83 rd  position with E, and the G at 100 th  position with C. The amino acid location (position) within the antibody complies with kabat numbering system. 
+ In addition, using an automatic gene synthesis (Bioneer Inc.), a DNA fragment encoding a scFv (hereinafter, “ME22S scFv”) of an anti-EGFR antibody was prepared by inserting (GGGGS) 3  linker peptide (SEQ ID NO: 132) coding DNA fragment between a DNA fragment encoding the anti-EGFR antibody heavy chain variable region (SEQ ID NO: 122) wherein the amino acid G at 44 th  position of the heavy chain variable region (SEQ ID NO: 121) is substituted with C and a DNA fragment encoding the anti-EGFR antibody light chain variable region (SEQ ID NO: 124) wherein the amino acid of G at 100 th  position of the heavy chain variable region (SEQ ID NO: 123) is substituted with C. The amino acid location (position) within the antibody complies with kabat numbering system. 
+ Example 2 
+ Preparation of a Bispecific Anti-c-Met/Anti-EGFR Antibody 
+ The anti-EGFR scFv (ME-01 scFv, ME-03S scFv, ME22S scFv) prepared in Example 1 was fused at the C-terminus of the Fc of the anti-c-Met antibody L3-1Y prepared in Reference Example 1 to prepare a bispecific anti-c-Met/anti-EGFR antibody. The fusion procedures are as follows. 
+ In detail, a DNA fragment having the nucleotide sequence of SEQ ID NO: 66 corresponding to the heavy chain of the anti-c-Met antibody L3-1Y prepared in Reference Example 1 was inserted into a vector of the pcDNA™3.3-TOPO TA Cloning Kit (Cat no. 8300-01) which is included in OptiCHO™ Antibody Express Kit (Cat no. 12762-019) by Invitrogen Inc., and a DNA fragment having the nucleotide sequence of SEQ ID NO: 68 corresponding to the light chain of the anti-c-Met antibody L3-1Y was inserted into a vector of the pOptiVEC™-TOPO TA Cloning Kit. Thereafter, the anti-EGFR scFv coding DNA fragment prepared in Example 1 was fused at the C-terminus of the Fc of L3-1Y which was inserted into pcDNA™3.3, using the coding DNA sequence of a linker peptide having 10 amino acid lengths consisting of (G 4 S) 2 , to construct vectors for the expression of bispecific antibodies. 
+ Each of the constructed vectors was amplified using Qiagen Maxiprep kit (Cat no. 12662), and a transient expression was performed using Freestyle™ MAX 293 Expression System (Invitrogen). 293 F cells were used for the expression and cultured in FreeStyle™ 293 Expression Medium in a suspension culture manner. At one day before the transient expression, the cells were provided in the concentration of 5×10 5  cells/mL, and after 24 hours, when the cell number reached to 1×10 6  cells/mL, the transient expression was performed. A transfection was performed by a liposomal reagent method using Freestyle™ MAX reagent (Invitrogen), wherein in a 15 mL tube, the DNA was provided in the mixture ratio of 1:1 (heavy chain DNA:light chain DNA) and mixed with 2 mL of OptiPro™ SFM (Invitrogen) (A). In another 15 mL tube, 100 μL of Freestyle™ MAX reagent and 2 mL of OptiPro™ SFM were mixed (B), followed by mixing (A) and (B) and incubating for 15 minutes. The obtained mixture was slowly mixed with the cells provided one day before the transient expression. After completing the transfection, the cells were incubated in 130 rpm incubator for 5 days under the conditions of 37° C., 80% humidity, and 8% CO 2 . 
+ After centrifugation, the supernatant was applied to AKTA prime (GE Healthcare) to purify the antibody. In this regard, 100 mL of the supernatant was loaded at a flow rate of 5 mL/min to AKTA Prime equipped with a Protein A column (GE Healthcare, 17-0405-03), followed by elution with IgG elution buffer (Thermo Scientific, 21004). The buffer was replaced by a PBS buffer to finally obtain purified bispecific anti c-Met/anti-EGFR antibodies. 
+ The prepared bispecific anti-c-Met/anti-EGFR antibodies were named as ME01, ME03S, and ME22S, respectively. 
+ In addition, each of 4 anti-EGFR DARPins (e.g., SEQ ID NO: 205) was fused to C-terminus of anti-c-Met antibody L3-1Y prepared in Reference Example 1, to prepared 4 anti-c-Met antibody/anti-EGFR DARPin conjugates (bispecific anti-c-Met/anti-EGFR antibody). The heavy chain of L3-1Y antibody and the anti-EGFR DARPpin were linked to each other through ‘GGGGSGGGGS’ (G4S)2 linker (SEQ ID NO 133), to be in the form of ‘L3-1Y heavy chain-(G4S)2-anti-EGFR DARPins’. 
+ 
+ 
+ 
+ 
+ 
+ anti-EGFR DARPin-01 (SEQ ID NO: 205): 
+ 
+ 
+ DLGKKLLEAARAGQDDEVRILMANGADVNADDTWGWTPLHLAAYQGHLEI 
+ 
+ 
+   
+ 
+ 
+ VEVLLKNGADVNAYDYIGWTPLHLAADGHLEIVEVLLKNGADVNASDYIG 
+ 
+ 
+   
+ 
+ 
+ DTPLHLAAHNGHLEIVEVLLKHGADVNAQDKFGKTAFDISIDNGNEDLAE 
+ 
+ 
+   
+ 
+ 
+ ILQ 
+ 
+ 
+ 
+ 
+ 
+ The prepared bispecific anti-c-Met/anti-EGFR antibody was named as ME-19. The antibody has affinity to EGFR (R&D Systems) of about 0.35 nM when measured by Biacore T100(GE). 
+ Example 3 
+ Cell Proliferation Inhibition Effect on K-Ras Mutant Colorectal Cancer Cell Lines) (Lovo Cell Line) 
+ The effect of co-administration of a bispecific anti-c-Met/anti-EGFR antibody, ME-19 or ME22S, which is prepared in Example 2, and a c-Src inhibitor, dasatinib or saracatinib, was examined in a K-Ras mutated colorectal cancer cell line (Lovo cell line). 
+ The Lovo cell line was obtained from ATCC (ATCC CCL-229). The Lovo cell line comprises K-Ras mutation (K-Ras overexpression) (see http://www.atcc.org/products/all/CCL-229.aspx#85786B46AA23451B94BC5D45200673F7). The cells were stored in RPMI1640 medium (GIBCO) containing 10% (v/v) FBS under the conditions of 5% CO 2  and 37° C., until being used in the following experiments. A cell proliferation assay was performed as follows. 
+ RPMI1640 medium (GIBCO) containing 10% FBS was added to 96-well plate. Lovo cells (ATCC, CCL-229) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. The next day (after 24 hours), the incubated cells were treated with 5 μg/ml of L3-1Y antibody (c-Met mAb; Reference Example 1), 5 μg/ml of erbitux (EGFR mAb; Merck Serono, Germany), 5 μg/ml of L3-1Y antibody+5 μg/ml of erbitux, 5 μg/ml of ME19 or 5 μg/ml of ME22S (c-Met/EGFR bsAb; Example 2), 30 nM dasatinib (c-Src inhibitor; S1021, Selleckchem, US), 30 nM dasatinib+5 μg/ml of L3-1Y antibody, 30 nM dasatinib+5 μg/ml of erbitux, 30 nM dasatinib+5 μg/ml of L3-1Y antibody+5 μg/ml of erbitux, and 30 nM dasatinib+5 μg/m of ME19 or 5 μg/m of  ME22S  1, respectively. At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 
+ At 72 hours after the treatment, 10 μL of Cell Counting Kit-8 solution (Dojindo Molecular Technologies, Gaithersburg, Md.) was added to each well, and left at room temperature for 2 hours. The number of the cells was counted by measuring the luminescence intensity, and the luminescence intensity was recorded using Envision 2104 Multi-label Reader (Perkin Elmer). The significance of the obtained data were verified through T-test (SigmaPlot 12.3; Systat Software Inc., Chicago, Ill.; ***: P-value<0.001; **: P-value<0.01; *: P-value<0.05). 
+ The obtained results are demonstrated in  FIG. 2  (ME19) and  FIG. 3  (ME22S).  FIG. 2  and  FIG. 3  reveal that in the K-Ras mutated Lovo cells treated with the combination of bispecific anti-c-Met/anti-EGFR antibody ME19 or ME22S and c-Src inhibitor dasatinib (“dasatinib” or “DA” in  FIG. 3 ), considerable inhibitory effect on the cell proliferation can be achieved, compared to those treated with the drugs alone. On the contrary, it is confirmed that the treatment with L3-1Y antibody (“S” in  FIG. 3 ) and erbitux (“ERBITUX” or “E” in  FIG. 3 ) alone or in combination leads to increased cell proliferation. These results indicate that by co-treatment of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor, a considerable anticancer effect on K-Ras mutated cancer cells can be obtained. In addition, even when compared to the case of co-treatment of a c-Src inhibitor (DA), an anti-c-Met antibody(S) and anti-EGFR antibody (E) (instead of a bispecific anti-c-Met/anti-EGFR antibody), the co-treatment of a bispecific anti-c-Met/anti-EGFR antibody (ME-19 or ME22S) and c-Src inhibitor dasatinib (DA) can achieve a considerable inhibition effect on cancer cell proliferation, indicating that the combination therapy using a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor can lead to excellent anticancer effect compared to the case of co-treatment of three drugs which target the three targets respectively. 
+ In addition, the cell proliferation inhibition effect was examined according to the amounts of a bispecific anti-c-Met/anti-EGFR antibody or dasatinib or saracatinib treated. 
+ To examine the cell proliferation inhibition effect depending on the amount of a bispecific anti-c-Met/anti-EGFR antibody, the experiment was carried out by varying the amount of the treated bispecific anti-c-Met/anti-EGFR antibody with fixing the amount of dasatini as 30 nM. In detail, RPMI1640 medium (GIBCO) containing 10% FBS was added to 96-well plate. Lovo cells (ATCC, CCL-229) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. The next day (after 24 hours), the incubated cells were treated with various concentrations of ME19 or ME22S (ME-19: 10, 1, 0.1, or 0.01 μg/ml, ME22S: 1, 0.1, or 0.01 μg/ml) alone or together with 30 nM dasatinib (c-Src inhibitor; S1021, Selleckchem, US). At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 
+ At 72 hours after the treatment, 10 μL of Cell Counting Kit-8 solution (Dojindo Molecular Technologies, Gaithersburg, Md.) was added to each well, and left at room temperature for 2 hours. The number of the cells was counted by measuring the luminescence intensity, and the luminescence intensity was recorded using Envision 2104 Multi-label Reader (Perkin Elmer). The significance of the obtained data were verified through T-test (SigmaPlot 12.3; Systat Software Inc., Chicago, Ill.; ***: P-value<0.001; **: P-value<0.01; *: P-value<0.05). 
+ The obtained results are demonstrated in  FIG. 4  (ME19) and  FIG. 5  (ME22S). As shown in  FIG. 4  and  FIG. 5 , compared to the treatment of a bispecific anti-c-Met/anti-EGFR antibody alone, the co-treatment of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor exhibits more synergistic therapeutic effect, and the synergistic therapeutic effect by the co-treatment (e.g., a difference between the co-treatment and the single treatment) is dose-dependent for the antibody. 
+ In addition, to examine the cell proliferation inhibition effect depending on the amount of dasatinib or saracatinib, the experiment was carried out by varying the amount of the treated c-Src inhibitor, dasatinib or saracatinib [0 (control), 10, 100, or 1000 nM] with fixing the concentration of bispecific anti-c-Met/anti-EGFR antibody ME22S as 5 μg/ml. This experiment was conducted referring to the experiment of the cell proliferation test depending on the amount of the antibody as described above, except the amount of the treated antibody and the c-Src inhibitor. In detail, RPMI1640 medium (GIBCO) containing 10% FBS was added to 96-well plate. Lovo cells (ATCC, CCL-229) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. On the next day (after 24 hours), the incubated cells were treated with various concentrations [0 (control), 10, 100, or 1000 nM] of a c-Src inhibitor, dasatinib (S1021, Selleckchem, US) or saracatinib (S1006, Selleckchem, US) alone or together with 5 μg/ml of bispecific anti-c-Met/anti-EGFR antibody ME22S. At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 
+ At 72 hours after the treatment, 10 μL of Cell Counting Kit-8 solution (Dojindo Molecular Technologies, Gaithersburg, Md.) was added to each well, and left at room temperature for 2 hours. The number of the cells was counted by measuring the luminescence intensity, and the luminescence intensity was recorded using Envision 2104 Multi-label Reader (Perkin Elmer). The significance of the obtained data were verified through T-test (SigmaPlot 12.3; Systat Software Inc., Chicago, Ill.; ***: P-value<0.001; **: P-value<0.01; *: P-value<0.05). 
+ The obtained results are demonstrated in  FIG. 6  (dasatinib) and  FIG. 7  (saracatinib). As shown in  FIG. 6  and  FIG. 7 , compared to the treatment of a c-Src inhibitor alone, the co-treatment of a c-Src inhibitor and a bispecific anti-c-Met/anti-EGFR antibody exhibits more synergistic therapeutic effect, and the synergistic therapeutic effect by the co-treatment (e.g., a difference between the co-treatment and the single treatment) is generally dose-dependent for the c-Src inhibitor. 
+ Example 4 
+ Cell Proliferation Inhibition Effect on EGFR T790M Mutant Non-Small Cell Lung Cancer Cell Lines (H820 Cell Line) 
+ The effect by co-treatment of bispecific anti-c-Met/anti-EGFR antibody ME-19 prepared in Example 2 and a c-Src inhibitor dasatinib was examined in EGFR T790M mutated non-small cell lung cancer cell line (H820 cell line). 
+ The H820 cell line was obtained from ATCC. The H820 cells comprise EGFR T790M mutation. The cells were stored in RPMI1640 medium (GIBCO) containing 10%(v/v) FBS under the conditions of 5% CO 2  and 37° C., until being used in the following experiments. A cell proliferation assay was performed as follows. 
+ RPMI1640 medium (GIBCO) containing 10% FBS was added to 96-well plate. H820 cells (ATCC) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. On the next day (after 24 hours), the incubated cells were treated with 5 μg/ml of L3-1Y antibody (c-Met mAb; Reference Example 1), 5 μg/ml of erbitux (EGFR mAb; Merck Serono, Germany), 5 μg/ml of L3-1Y antibody+5 μg/ml of erbitux, 5 μg/ml of ME19 or 5 μg/ml of ME22S (c-Met/EGFR bsAb; Example 2), 5 nM or 30 nM dasatinib (c-Src inhibitor; S1021, Selleckchem, US), 5 nM or 30 nM dasatinib+5 μg/ml of L3-1Y antibody, 5 nM or 30 nM dasatinib+5 μg/ml of erbitux, 5 nM or 30 nM dasatinib+5 μg/ml of L3-1Y antibody+5 μg/ml of erbitux, and 5 nM or 30 nM dasatinib+5 μg/m of ME19 or 5 μg/m of  ME22S  1, respectively. At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. In addition, further experiment was carried out referring to the experiment described above, except i) that the concentration of ME19 or ME22S was fixed to 0 or 5 μg/ml, and the concentration of dasatinib or saracatinib was varied (dasatinib: 0, 1, 10, 100, or 1000 nM; saracatinib: 0, 10, 100, 1000, or 10000 nM), or ii) that the concentration of dasatinib was fixed to 0 or 30 nM, and the concentration of ME19 was varied (0, 0.01, 0.1, 1 or 10 μg/ml). At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 
+ At 72 hours after the treatment, 10 μL of Cell Counting Kit-8 solution (Dojindo Molecular Technologies, Gaithersburg, Md.) was added to each well, and left at room temperature for 2 hours. The number of the cells was counted by measuring the luminescence intensity, and the luminescence intensity was recorded using Envision 2104 Multi-label Reader (Perkin Elmer). The significance of the obtained data were verified through T-test (SigmaPlot 12.3; Systat Software Inc., Chicago, Ill.; ***: P-value<0.001; **: P-value<0.01; *: P-value<0.05). 
+ The obtained results are demonstrated in  FIG. 8  ( ME19  5 μg/ml, dasatinib 30 nM),  FIG. 9  ( ME19  5 μg/ml,  dasatinib  5 nM),  FIG. 10  ( ME19  0, 0.01, 0.1, 1 or 10 μg/ml,  dasatinib  0 or 30 nM),  FIG. 11  (   ME22    0 or 5 μg/ml,          dasatinib          0, 1, 10, 100, or 1000 nM) and  FIG. 12  (   ME22    0 or 5 μg/ml,          saracatinib          0, 10, 100, 1000, or 10000 nM). 
+   FIG. 8  and  FIG. 9  reveal that in the EGFR T790M mutated H820 cells treated with the combination of a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib (“dasatinib” or “DA”), considerable inhibitory effect on the cell proliferation can be achieved, compared to those treated with the drugs alone. On the contrary, it is confirmed that the treatment with L3-1Y antibody (“S”) and erbitux (“ERBITUX” or “E”) alone or in combination leads to increased cell proliferation. These results indicate that by co-treatment of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor, a considerable anticancer effect on EGFR T790M mutated cancer cells can be obtained. In addition, even when compared to the case of co-treatment of a c-Src inhibitor (DA), an anti-c-Met antibody(S) and anti-EGFR antibody (E) (instead of a bispecific anti-c-Met/anti-EGFR antibody), the co-treatment of a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib (DA) can achieve a considerable inhibition effect on cancer cell proliferation, indicating that the combination therapy using a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor can lead to excellent anticancer effect compared to the case of co-treatment of three drugs which target the three targets respectively. 
+ In addition,  FIG. 10  to  FIG. 12  demonstrate the degree of cell proliferation measured by varying the concentration of one of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor starting from 0 (with no treatment) and fixing the concentration of the other.  FIG. 10  shows the results from the cases that bispecific anti-c-Met/anti-EGFR antibody is treated at various concentration together with 0 or 30 nM of a c-Src inhibitor, wherein the case of co-treatment of the bispecific anti-c-Met/anti-EGFR antibody and the c-Src inhibitor can lead to more considerable inhibition effect on the cell proliferation, compared to the case that the bispecific anti-c-Met/anti-EGFR antibody is treated alone (the case that concentration of a c-Src inhibitor is 0) or the c-Src inhibitor is treated alone (the case that concentration of ME19 is 0), and the inhibition effect on the cell proliferation is generally dose-dependent for the bispecific anti-c-Met/anti-EGFR antibody.  FIG. 11  and  FIG. 12  show the results from the cases that the c-Src inhibitor is treated at various concentration together with 0 or 5 μg/ml of the bispecific anti-c-Met/anti-EGFR antibody, wherein the case of co-treatment of the bispecific anti-c-Met/anti-EGFR antibody and the c-Src inhibitor can lead to more considerable inhibition effect on the cell proliferation, compared to the case that the bispecific anti-c-Met/anti-EGFR antibody is treated alone (the case that concentration of a c-Src inhibitor is 0; Ctrl) or the c-Src inhibitor is treated alone (the case that concentration of ME19 is 0), and the inhibition effect on the cell proliferation is generally dose-dependent for the c-Src inhibitor. 
+ Example 5 
+ Cell Proliferation Inhibition Effect on K-Ras Mutant Colorectal Cancer Cell Lines (HCT-116 Cell Line) 
+ The effect of co-administration of a bispecific anti-c-Met/anti-EGFR antibody, ME-19 or ME22S, which is prepared in Example 2, and a c-Src inhibitor, dasatinib or saracatinib, was examined in a K-Ras mutated colorectal cancer cell line (HCT-116 cell line). 
+ The HCT-116 cell line was obtained from ATCC (ATCC CCL-247). The HCT-116 cell line comprises K-Ras mutation (see www.atcc.org/products/all/CCL-247.aspx). The cells were stored in RPMI1640 medium (GIBCO) containing 10%(v/v) FBS under the conditions of 5% CO 2  and 37° C., until being used in the following experiments. A cell proliferation assay was performed as follows. 
+ RPMI1640 medium (GIBCO) containing 10% FBS was added to 96-well plate. Lovo cells (ATCC, CCL-229) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. On the next day (after 24 hours), the incubated cells were treated with 5 μg/ml of L3-1Y antibody (c-Met mAb; Reference Example 1), 5 μg/ml of erbitux (EGFR mAb; Merck Serono, Germany), 5 μg/ml of L3-1Y antibody+5 μg/ml of erbitux, 5 μg/ml of ME19, 5 nM dasatinib (c-Src inhibitor; S1021, Selleckchem, US), 5 nM dasatinib+5 μg/ml of L3-1Y antibody, 5 nM dasatinib+5 μg/ml of erbitux, 5 nM dasatinib+5 μg/ml of L3-1Y antibody+5 μg/ml of erbitux, and 5 nM dasatinib+5 μg/m of ME19, respectively. At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 
+ At 72 hours after the treatment, 10 μL of Cell Counting Kit-8 solution (Dojindo Molecular Technologies, Gaithersburg, Md.) was added to each well, and left at room temperature for 2 hours. The number of the cells was counted by measuring the luminescence intensity, and the luminescence intensity was recorded using Envision 2104 Multi-label Reader (Perkin Elmer). The significance of the obtained data were verified through T-test (SigmaPlot 12.3; Systat Software Inc., Chicago, Ill.; ***: P-value<0.001; **: P-value<0.01; *: P-value<0.05). 
+ The obtained results are demonstrated in  FIG. 13 . As shown in  FIG. 13 , in K-Ras mutated HCT-116 cells which are co-treated with bispecific anti-c-Met/anti-EGFR antibody ME19 and c-Src inhibitor dasatinib (“DA”), more considerable cell proliferation inhibition effect can be obtained, compared to those treated with each of the drugs. These results indicate that the co-administration of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor can lead to an excellent anticancer effect on K-Ras mutated cancer cells. In addition, even when compared to the case of co-treatment of a c-Src inhibitor (DA), an anti-c-Met antibody(S) and anti-EGFR antibody (E) (instead of a bispecific anti-c-Met/anti-EGFR antibody), the co-treatment of a bispecific anti-c-Met/anti-EGFR antibody and c-Src inhibitor dasatinib (DA) can achieve a considerable inhibition effect on cancer cell proliferation, indicating that the combination therapy using a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor can lead to more excellent anticancer effect compared to the case of co-treatment of three drugs which target the three targets respectively. 
+ In addition, the cell proliferation inhibition effect was examined according to the amounts of dasatinib or saracatinib treated. 
+ In detail, RPMI1640 medium (GIBCO) containing 10% FBS was added to 96-well plate. HCT-116 cells (ATCC, CCL-247) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. On the next day (after 24 hours), the incubated cells were treated with various concentrations (dasatinib: 0 (control), 10, 100, 1000 nM, saracatinib: 0 (control), 10, 100, 1000, 10000 nM) of c-Src inhibitor dasatinib (S1021, Selleckchem, US) or saracatinib (S1006, Selleckchem, US) alone or together with 5 μg/ml of bispecific anti-c-Met/anti-EGFR antibody ME22S. At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 
+ At 72 hours after the treatment, 10 μL of Cell Counting Kit-8 solution (Dojindo Molecular Technologies, Gaithersburg, Md.) was added to each well, and left at room temperature for 2 hours. The number of the cells was counted by measuring the luminescence intensity, and the luminescence intensity was recorded using Envision 2104 Multi-label Reader (Perkin Elmer). The significance of the obtained data were verified through T-test (SigmaPlot 12.3; Systat Software Inc., Chicago, Ill.; ***: P-value<0.001; **: P-value<0.01; *: P-value<0.05). 
+ The obtained results are demonstrated in  FIG. 14  (dasatinib) and  FIG. 15  (saracatinib). As shown in  FIG. 14  and  FIG. 15 , compared to the treatment of a c-Src inhibitor alone, the co-treatment of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor exhibits significantly synergistic therapeutic effect, and the synergistic therapeutic effect by the co-treatment (e.g., a difference between the co-treatment and the single treatment) is generally dose-dependent for the c-Src inhibitor. 
+ In addition, RPMI1640 medium (GIBCO) containing 1% FBS was added to 96-well plate. HCT-116 cells (ATCC) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. On the next day (after 24 hours), the incubated cells were co-treated with a bispecific anti-c-Met/anti-EGFR antibody (5 μg/ml of ME19 or 5 μg/ml of M22S) and a c-Src inhibitor (0, 10, 100 or 1000 nM of dasatinib). At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 72 hours after, the cells were observed using an inverted microscopy (Model: Nikon ECLIPSE Ti-U; object lens: 10×). 
+ The obtained results are demonstrated in  FIG. 16 . As shown in  FIG. 16 , when the c-Src inhibitor and the bispecific anti-c-Met/anti-EGFR antibody are co-administered, the shape of the cell is more regular and normalized, compared to the case that each of the c-Src inhibitor and the bispecific anti-c-Met/anti-EGFR antibody is treated alone. 
+ Example 6 
+ Cell Proliferation Inhibition Effect on EGFR T790M Mutant Non-Small Cell Lung Cancer Cell Line 
+ The effect by co-treatment of bispecific anti-c-Met/anti-EGFR antibody ME-19 prepared in Example 2 and a c-Src inhibitor dasatinib, saracatinib, or bosutinib, was examined in EGFR T790M mutated non-small cell lung cancer cell line (H1975). 
+ The H1975 cell line was obtained from ATCC (ATCC CRL-5908). The H1975 cells comprise EGFR T790M mutation (see http://www.atcc.org/products/all/CRL-5908.aspx x). The cells were stored in RPMI1640 medium (GIBCO) containing 10%(v/v) FBS under the conditions of 5% CO 2  and 37° C., until being used in the following experiments. A cell proliferation assay was performed as follows. 
+ The cell proliferation inhibition effect was examined according to the amounts of dasatinib, saracatinib, or bosutinib treated. 
+ In detail, RPMI1640 medium (GIBCO) containing 10% FBS was added to 96-well plate. H1975 cells (ATCC, CCL-5908) were seeded on the plate at the amount of 5,000 cells/well, and incubated overnight at 37° C. On the next day (after 24 hours), the incubated cells were treated with various concentrations (0 (control), 10, 100, 1000 nM) of a c-Src inhibitor dasatinib (S1021, Selleckchem, US), saracatinib (S1006, Selleckchem, US), or bosutinib (S1014, Selleckchem, US) alone or together with 5 μg/ml of bispecific anti-c-Met/anti-EGFR antibody ME22S. At this time, the cells were treated with 100 ng/ml of HGF (#294-HG/CF, R&D SYSTEMS, Minneapolis, Minn.) and 100 ng/ml of EGF (#236-EG, R&D SYSTEMS, Minneapolis, Minn.) as well. 
+ At 72 hours after the treatment, 10 μL of Cell Counting Kit-8 solution (Dojindo Molecular Technologies, Gaithersburg, Md.) was added to each well, and left at room temperature for 2 hours. The number of the cells was counted by measuring the luminescence intensity, and the luminescence intensity was recorded using Envision 2104 Multi-label Reader (Perkin Elmer). The significance of the obtained data were verified through T-test (SigmaPlot 12.3; Systat Software Inc., Chicago, Ill.; ***: P-value<0.001; **: P-value<0.01; *: P-value<0.05). 
+ The obtained results are demonstrated in  FIG. 17  (dasatinib),  FIG. 18  (saracatinib), and  FIG. 19  (bosutinib). As shown in  FIGS. 17 to 19 , compared to the treatment of a c-Src inhibitor alone, the co-treatment of a bispecific anti-c-Met/anti-EGFR antibody and a c-Src inhibitor exhibits significantly synergistic therapeutic effect, and the synergistic therapeutic effect by the co-treatment (e.g., a difference between the co-treatment and the single treatment) is generally dose-dependent for the c-Src inhibitor. 
+ All references, including publications, patent applications, and patents, cited herein are hereby incorporated by reference to the same extent as if each reference were individually and specifically indicated to be incorporated by reference and were set forth in its entirety herein. 
+ The use of the terms “a” and “an” and “the” and “at least one” and similar referents in the context of describing the invention (especially in the context of the following claims) are to be construed to cover both the singular and the plural, unless otherwise indicated herein or clearly contradicted by context. The use of the term “at least one” followed by a list of one or more items (for example, “at least one of A and B”) is to be construed to mean one item selected from the listed items (A or B) or any combination of two or more of the listed items (A and B), unless otherwise indicated herein or clearly contradicted by context. The terms “comprising,” “having,” “including,” and “containing” are to be construed as open-ended terms (i.e., meaning “including, but not limited to,”) unless otherwise noted. Recitation of ranges of values herein are merely intended to serve as a shorthand method of referring individually to each separate value falling within the range, unless otherwise indicated herein, and each separate value is incorporated into the specification as if it were individually recited herein. All methods described herein can be performed in any suitable order unless otherwise indicated herein or otherwise clearly contradicted by context. The use of any and all examples, or exemplary language (e.g., “such as”) provided herein, is intended merely to better illuminate the invention and does not pose a limitation on the scope of the invention unless otherwise claimed. No language in the specification should be construed as indicating any non-claimed element as essential to the practice of the invention. 
+ Preferred embodiments of this invention are described herein, including the best mode known to the inventors for carrying out the invention. Variations of those preferred embodiments may become apparent to those of ordinary skill in the art upon reading the foregoing description. The inventors expect skilled artisans to employ such variations as appropriate, and the inventors intend for the invention to be practiced otherwise than as specifically described herein. Accordingly, this invention includes all modifications and equivalents of the subject matter recited in the claims appended hereto as permitted by applicable law. Moreover, any combination of the above-described elements in all possible variations thereof is encompassed by the invention unless otherwise indicated herein or otherwise clearly contradicted by context. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

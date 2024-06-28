@@ -1,0 +1,850 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REFERENCE TO SEQUENCE LISTING SUBMITTED VIA EFS-WEB 
+ This application includes an electronically submitted sequence listing in .txt format. The .txt file contains a sequence listing entitled “3884-0208PUS1_ST25.txt” created on Sep. 1, 2020 and is 18,187 bytes in size. The sequence listing contained in this .txt file is part of the specification and is hereby incorporated by reference herein in its entirety. 
+ TECHNICAL FIELD 
+ The present application relates to a transformed yeast producing 1-octen-3-ol and a method for producing the same. 
+ BACKGROUND ART 
+   Saccharomyces cerevisiae  was discovered by Leeuwenhoek in 1683 and is a representative yeast belonging to ascomycetes. Yeasts are used in feed because the yeast itself is used as cheap fat and protein sources. Some yeasts are rich in a vitamin B group and also contain vitamin D, and have been used even in the pharmaceutical industry. The yeast was first observed by the inventor of the microscope, Anton van Leeuwenhoek, and brewer's yeast was found in 1680. However, the biological significance of yeast fermentation was known in 1861, and Louis Pasteur first established that wine fermentation was caused by yeasts. 
+ Octenol (1-octen-3-ol), known as matsutakeol, which is one of major flavor components of pine mushrooms, was known to be involved in lipoxygenase and hydroperoxide lyase enzymes during biosynthesis. The octenol (1-octen-3-ol) is a secondary alcohol derived from 1-octen, and exists in the form of two enantiomers of (R)-(−)-1-octen-3-ol and (S)-(+)-1-octen-3-ol. The (R)-(−)-1-octen-3-ol has a fruit flavor and a unique good flavor of pine mushrooms, but the (S)-(+)-1-octen-3-ol has fusty musty odor, weed odor, and artificial odor. Therefore, the (R)-(−)-1-octen-3-ol is known as a major flavor component of pine mushrooms. Linoleic acid of pine mushroom as a substrate is oxidized to (S)-1-hydroperoxy-(8E,12Z)-8,12-octadecadienoic acid (10-HPODE) in fruiting bodies, and in this process, lipoxygenase is involved. In addition, the 10-HPODE is used to biosynthesize (R)-(−)-1-octen-3-ol and 10-Oxo-trans-8-decenoic acid (ODA) again, and an enzyme involved in this process is known as hydroperoxide lyase. 
+ Until now, as a result of expressing genes of lipoxygenase and hydroperoxide lyase of pine mushrooms in the yeast  Saccharomyces cerevisiae  using a plasmid vector, not a chemically synthesizing method, studies on a biosynthesis method of octenol by confirming that octenol (1-octen-3-ol) has been biosynthesized are insufficient. Since the pine mushrooms are edible mushrooms having a very high preference, particularly, in Asia, a transformed yeast that biosynthesizes octenol (1-octen-3-ol) is expected to have a positive effect on related industries such as food development using a pine mushroom flavor. 
+ A conventionally known or common method for producing octenol (1-octen-3-ol) is disclosed in Korean Patent Publication No. 10-2013-0100141. Here, there is disclosed only a chemical production method of synthesizing octenol by hydrogenating 6-methyl-5-hepten-2-one (MH) to 6-methyl-2-heptanone (MHA), reacting with acetylene to  form  3,7-dimethyl-1-octine-3-ol (DMOI), and then hydrogenating the DMOI to 3,7-dimethyl-1-octen-3-ol (DMOE). In addition, in Korean Patent Registration Nos. 10-1446315 and 10-1455204, there are only disclosed genes for each lipoxygenase and hydroperoxide lyase involved in the biosynthesis of octenol derived from pine mushrooms, respectively. 
+ Under this background, the present inventors have completed the present application by taking a lot of studies for developing a method for producing octenol (1-octen-3-ol) using yeasts. 
+ DISCLOSURE 
+ Technical Problem 
+ An object of the present application is to provide a transformed yeast for producing 1-octen-3-ol transformed with a recombinant vector comprising a base sequence encoding lipoxygenase and a base sequence encoding hydroperoxide. 
+ Another object of the present application is to provide a method for producing a transformed yeast for producing 1-octen-3-ol. 
+ Yet another object of the present application is to provide a method for producing 1-octen-3-ol. 
+ Other objects and advantages of the present application will be more apparent by the following detailed description in addition to the appended claims and the accompanying drawings. Contents not described in the present specification can be sufficiently recognized and inferred by those skilled in the art or similar art of the present invention, and thus, the description thereof will be omitted. 
+ Technical Solution 
+ Hereinafter, the contents of the present application will be described below in detail. On the other hand, the description and embodiments of one aspect disclosed in the present application may also be applied to the description and embodiments of other aspects with respect to common matters. In addition, all combinations of various components disclosed in the present application belong to the scope of the present application. Further, the specific description described below may not limit the scope of the present application. 
+ In order to achieve the objects of the present application, the present application provides a transformed yeast for producing 1-octen-3-ol transformed with a recombinant vector comprising a base sequence encoding lipoxygenase and a base sequence encoding hydroperoxide. 
+ According to an aspect of the present application, there is provided a method for producing a transformed yeast for producing 1-octen-3-ol comprising the steps of: isolating total RNA of pine mushroom and synthesizing cDNA; PCR-amplifying a lipoxygenase gene and a hydroperoxide lyase gene from the synthesized cDNA; gene-cloning each of the amplified lipoxygenase gene and hydroperoxide lyase gene in a vector; gene-cloning each of the cloned lipoxygenase gene and hydroperoxide lyase gene in each yeast expression vector; and transforming and incubating the yeast expression vector into a yeast to confirm the biosynthesis of 1-octen-3-ol. 
+ As an embodiment of the present application, the present application provides a method for producing a transformed yeast for producing 1-octen-3-ol comprising gene-cloning lipoxygenase-1, 2, and 3 genes consisting of base sequences of SEQ ID NOS: 9, 10, and 11, respectively, and a hydroperoxide lyase gene consisting of a base sequence of SEQ ID NO: 12 and transforming and incubating a recombinant vector comprising the cloned genes into a yeast to confirm the biosynthesis of 1-octen-3-ol. In addition, homologues of the base sequence are included within the scope of the present application. Specifically, the gene homologues may include base sequences having sequence homology of 70% or more, more preferably 80% or more, much more preferably 90% or more, and most preferably 95% or more with the base sequences of the sequence numbers of the present application. The “% of sequence homology” to polynucleotide is determined by comparing two optimally aligned sequences with a comparison region, wherein a part of a polynucleotide sequence in the comparison region may include addition or deletion (i.e., gap) compared with a reference sequence (without including addition or deletion) for the optimal alignment of the two sequences. 
+ According to an aspect of the present application, the present application provides a method for producing 1-octen-3-ol comprising the steps of: biosynthesizing 1-octen-3-ol by incubating the transformed yeast for producing the 1-octen-3-ol of  claim   1  in a medium; and obtaining the biosynthesized 1-octen-3-ol. 
+ The term “primer” has a length of 18 to 35 mer at a nucleic acid site having 70% or more of interspecies sequence homology as a result of sequence homology of a gene determined through analysis, and preferably an algorithm of determining a primer sequence in which a sense primer and an antisense primer are not hybridized with each other and the gene and the primer are hybridized with each other under stringent conditions, but is not limited thereto. 
+ The term “polymerase chain reaction (PCR)” is a nucleic acid amplification method that includes a repeated cycle of denaturation of double-stranded DNA, annealing of oligonucleotide primers to a DNA template, and primer extension by DNA polymerase (Mullis et al., U.S. Pat. Nos. 4,683,195, 4,683,202 and 4,800,159; Saiki et al, 1985). The oligonucleotide primer used in PCR is designed to be annealed to an opposite strand of DNA, and a DNA polymerase extension product of the primer acts as a template strand for the other primer. The PCR amplification process results in an exponential increase in a DNA sequence, and the length of the amplified DNA sequence is determined by a 5′-terminal of the oligonucleotide primer. 
+ The term “vector” is used to refer to a DNA fragment(s), and a nucleic acid molecule, which are delivered into a cell. The vector may replicate DNA and be reproduced independently in host cells. The term “carrier” is often used interchangeably with the “vector”. The vector may be used as a cloning vector, and the cloning vector is stably maintained in a host and has a use to insert a foreign DNA fragment. Therefore, the vector needs to have a feature capable of being easily inserted or removed when the vector and the foreign DNA are treated with a restriction enzyme. The cloning vector to be used is appropriately selected in consideration of conditions of the characteristics of the gene to be inserted and the characteristics of the restriction enzyme, but preferably, a pGEM easy vector is used in the present application. The term “yeast expression vector” includes a promoter gene, a gene encoding a target protein from which translation initiation and termination codons have been removed, and a terminator, and the promoter gene is preferably a gene selected from the group consisting of GAPDH, PGK, ADH, PHOS, GAL1, and GAL10, but is not limited thereto. The yeast expression vector may be both an integrative yeast plasmid (YIp) and an extrachromosomal plasmid vector. The extrachromosomal plasmid vector is divided into an episomal yeast plasmid (YEp), a replicative yeast plasmid (YRp), and a yeast centromer plasmid (YCp). Furthermore, artificial yeast chromosomes (YACs) can be also used as expression vectors according to the present application. In addition, a particularly preferable yeast vector is a yeast replication plasmid that contains a replication origin ori and an antibiotic resistance cassette to be proliferated and selected in  E. coli . Furthermore, the yeast vectors have an ARS sequence to be replicated independently regardless of chromosomes in yeast cells, such as HARS1 from  H. polymorpha , and a metabolic yeast selectable marker, such as URA3 or HLEU2. In the present application, as the yeast expression vector, various vectors may be used, and specifically, a pKLAC2 vector, a Gateway pYES-DEST52 vector, a pAO815  Pichia  Expression vector, a pYES2/3/CT vector, preferably a pYES3/CT vector or a pYES2/CT vector may be used. The combinations of vectors used to express each gene may be appropriately selected according to a gene to be expressed, its protein, and an amount of the corresponding protein to adjust a ratio thereof. In the present application, specifically, the ratio of 1:5, 1:4, 1:3, 1:2, and 1:1 may be used, preferably, the pYES3/CT vector and the pYES2/CT vector may be used in a ratio of 1:1. 
+ The term “gene cloning” in the present application means a technique of making the same gene group in large quantities by binding a target gene to a vector having self-replicating ability, such as a plasmid, a phage, a cosmid, etc., and introducing and proliferating the bound vector into various hosts such as  E. coli , yeast, etc. Cloning and subcloning in  E. coli  are performed by binding a target gene amplified by a polymerase chain reaction (PCR) method, etc., to a vector having a replication origin and an antibiotic selectable marker using a DNA ligase, introducing the bound vector into cells such as  E. coli , yeast, or the like, and then examining antibiotic resistance to screen the cloned cells. 
+ The term “yeast” in the present application may be yeasts belonging to  Saccharomyces, Schizosaccharomyces, Sporobolomyces, Torulopsis, Tricosporon, Wickerhamia, Ashbya, Blastomyces, Candida, Citeromyces, Crebrothecium, Cryptococcus, Debaryomyces, Endomycopsis, Geotrichum, Hansenula, Kloeckera, Lipomyces, Pichia, Rhodosporidium  or  Rhodotorula  genus, more preferably yeasts belonging to  Saccharomyces  and  Schizosaccharomyces , most preferably  Saccharomyces cerevisiae . An appropriate type of yeast may be selected and used according to an expression rate of a gene and an amount and efficiency of a product to be finally expressed. The transformed yeasts of the present application,  Saccharomyces cerevisiae  KMG 1801, KMG 1802, and KMG 1803 were deposited with deposit numbers KCTC13476BP, KCTC13477BP, and KCTC13478BP in the Korea Collection for Type Cultures (KCTC) on Feb. 6, 2018, respectively. 
+ For example, when a host cell is yeast, promoters available in the expression construct include a GAL10 promoter, a GAL1 promoter, an ADH1 promoter, an ADH2 promoter, a PHOS promoter, a GAL1-10 promoter, a TDH3 promoter, a TDH2 promoter, a TDH1 promoter, a PGK promoter, a PYK promoter, an ENO promoter, a T7 promoter, and a TPI promoter, but are not limited thereto. The promoter may be appropriately selected and used according to a condition, such as an expression rate of a gene and an amount and expression efficiency of a product to be finally expressed. 
+ In the method according to an embodiment of the present application, the method of incubating the transformed host cell may use general methods known in the art, but is not limited thereto. The “transformation” of the yeast allows nucleic acid molecules or vectors to be introduced into cells by standard methods known to those skilled in the art, preferably, electroporation, chemical transformation, transformation by protoplasmic fusion, or particle bombardment. (See: Current Protocols in Molecular Biology, John Wiley & Sons, Edited by: Fred M. Ausubel et al.; Molecular Cloning: A Laboratory Manual (Third Edition), J. Sambrook and D. Russell, 2001, Cold Spring Harbor Laboratory Press). According to a preferred embodiment of the present application, the transformed yeast of the present application was produced using a S.c. EasyComp Transformation kit. 
+ As an embodiment of the present application, there is provided a method for producing 1-octen-3-ol comprising the steps of: biosynthesizing 1-octen-3-ol by incubating the transformed yeast for producing the 1-octen-3-ol of  claim   1  in a medium; and obtaining the biosynthesized 1-octen-3-ol. 
+ In the incubation of the yeast of the present application, in order to confirm the biosynthesis of 1-octen-3-ol, the transformed yeast is inoculated into a SC selectable medium in which tryptophan and uracil are deleted, pre-incubated overnight, and then centrifuged to collect the yeast. The collected yeast is inoculated in an SC induction medium in which tryptophan and uracil are deleted, added with 2% Tween-20 and linoleic acid, and then incubated for 20 hours at 30° C. In the present application, preferably, a concentration of linoleic acid as a substrate may be 0.01 to 0.1 M, more preferably 0.5 to 100 mM, and most preferably 3 mM. In addition, in the present application, an incubation temperature is preferably 15° C. to 40° C., more preferably 30° C., and an incubation time is 12 to 48 hours, specifically 18 to 36 hours, 20 to 26 hours, and most preferably 24 hours. 
+ Advantageous Effects 
+ According to the present application, there are excellent effects of being effective in mass production of eco-friendly and economical octenol and contributing to development of foods and cosmetics using a pine mushroom flavor by providing the transformed yeast biosynthesizing 1-octen-3-ol and the method for producing the same. 
+ 
+ DESCROPTION OF DRAWINGS 
+   FIG. 1  is an electrophoretic photograph showing total RNA extracted from pine mushroom of the present application. 
+   FIG. 2  is an electrophoretic photograph showing amplification of a lipoxygenase-1 gene, a lipoxygenase-2 gene, and a lipoxygenase-3 gene (     Lanes      1, 2, and 3, respectively), and a hydroperoxide lyase gene (Lane 4) of the present application. 
+   FIG. 3  is an electrophoretic photograph showing results of inserting a lipoxygenase-1 gene (A), a lipoxygenase-2 gene (B), a lipoxygenase-3 gene (C), and a hydroperoxide lyase gene (D) of the present application into a pGEM™ easy T vector plasmid. 
+   FIG. 4  is a schematic diagram showing a map of pYES3/CT and pYES2/CT yeast expression vectors. 
+   FIG. 5  is an electrophoretic photograph showing results of inserting a lipoxygenase-1 gene, a lipoxygenase-2 gene, and a lipoxygenase-3 gene (A), and a hydroperoxide lyase gene (B) into a plasmid. 
+   FIG. 6(A)  is a photograph of a plate in which transformed yeasts into which a lipoxygenase-1 gene, a lipoxygenase-2 gene, a lipoxygenase-3 gene, and a hydroperoxide lyase gene are introduced are incubated.  FIG. 6(B)  is an electrophoretic photograph showing colony PCR results of transformed yeasts into which a lipoxygenase-1 gene, a lipoxygenase-2 gene, a lipoxygenase-3 gene, and a hydroperoxide lyase gene are introduced are introduced. 
+   FIG. 7  is a graph showing a growth curve of each yeast transformed with combinations of a lipoxygenase-1 gene, a lipoxygenase-2 gene, a lipoxygenase-3 gene, and a hydroperoxide lyase gene. 
+   FIG. 8  is a graph showing biosynthesis of 1-octen-3-ol in (A) lysates of cells incubated without adding a substrate, (B) a medium incubated without adding a substrate, (C) lysates of cells incubated by adding a substrate, and (D) a medium incubated by adding a substrate. 
+   FIG. 9  is a graph showing (A) a biosynthesis amount of 1-octen-3-ol according to a linoleic acid addition concentration and (B) a biosynthesis amount of 1-octen-3-ol according to reaction temperature and reaction time in a transformant yeast. 
+ 
+ MODES OF THE INVENTION 
+ Hereinafter, the present application will be described in more detail with reference to Examples according to the present application. However, the following Examples of the present application are only an example of the present application. These Examples are intended to describe the present application in more detail, and it will be apparent to those skilled in the art that the scope of the present application as set forth in the appended claims is not limited by these Examples. 
+ Example 1: Isolation of Total RNA from Pine Mushroom 
+ Total RNA was isolated from pine mushroom fruiting bodies collected in the Gachang area near Daegu. After the fruiting bodies were cut into small pieces of 3 to 5 cm, the cut fruiting bodies were finely ground with a mortar using liquid nitrogen. The ground fruiting bodies were completely dissolved in 1 mL of TRIZol, added with chloroform, and centrifuged for 15 minutes to isolate RNA. A supernatant containing RNA was transferred to a new tube, add with the same amount of iso-propyl alcohol, reacted at room temperature for 15 minutes, and centrifuged at 12,000 rpm for 10 minutes to precipitate RNA. Next, the supernatant was removed, washed by adding 75% ethyl alcohol, and then added with diethypyrocarbonate (DEPC)-treated water to elute and isolate total RNA. As a result, it was confirmed that the total RNA concentration was 992.8 ng/μl (A260/A280=1.886) (in  FIG. 1 ,  Line  1 indicated a DNA marker, and  Lanes  2 to 4 indicated Total RNA). 
+ Example 2: cDNA Synthesis of Pine Mushroom 
+ First strand cDNA was synthesized by the following method using the total RNA obtained in Example 1 and an Accuscript High Fidelity 1st Strand cDNA Synthesis kit (Stratagene). 1 μl of Total RNA, 11.7 μl of RNase-free water, 2 μl of an AccuScript RT buffer, 1 μl of an Oligo dT primer, and 0.8 μl of a dNTP mixture were mixed and reacted at 65° C. for 5 minutes and at room temperature for 5 minutes, then further added with  DTT  100 mM, 1 μl of AccuScript RT, and 0.5 μl of RNase Block ribonuclease, reacted at 42° C. for 1 hour, and then reacted at 70° C. for 15 minutes to synthesize cDNA. 
+ Example 3: Preparation of PCR Products of Lipoxygenase-1, 2, 3 Genes and Hydroperoxide Lyase Gene 
+ Genes were amplified using PrimeSTAR™ HS Polymerase (TaKaRa) with the cDNA synthesized and obtained in Example 2 as a template, the following primers (Table 1), and PCR conditions (Table 2). PCR was performed using the corresponding genes and restriction enzymes in a SC selectable medium. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 1 
+ 
+ 
+   
+ 
+ 
+   
+   
+ Restriction 
+ 
+ 
+ Name 
+ Sequences (5′-3′) 
+ enzyme 
+ 
+ 
+   
+ 
+ 
+ 
+ LOX1-F-HindIII 
+   AAGCTT   AACACA ATGTCCTTAAGCAAGTTTCCG 
+ HindIII 
+ 
+ 
+ (SEQ ID NO: 1) 
+   
+   
+ 
+ 
+   
+ 
+ 
+ LOX1-R-KpnI 
+   GGTACC ACCTTCGTTACATCATACTGTAT 
+ KpnI 
+ 
+ 
+ (SEQ ID NO: 2) 
+   
+   
+ 
+ 
+   
+ 
+ 
+ LOX2-F-KpnI 
+   GGTACC   AACACA ATGTTGACGCGGTTATTTAAG 
+ KpnI 
+ 
+ 
+ (SEQ ID NO: 3) 
+   
+   
+ 
+ 
+   
+ 
+ 
+ LOX2-R-NotI 
+   GCGGCC GCATATCGAACTGCACAACGAGGG 
+ NotI 
+ 
+ 
+ (SEQ ID NO: 4) 
+   
+   
+ 
+ 
+   
+ 
+ 
+ LOX3-F-HindIII 
+   AAGCTT   AACACA ATGTCGATTGATTCTGTTCCA 
+ HindIII 
+ 
+ 
+ (SEQ ID NO: 5) 
+   
+   
+ 
+ 
+   
+ 
+ 
+ LOX3-R-KpnI 
+   GGTA CCATGGCACAGTACTCCCGTTGCCA 
+ KpnI 
+ 
+ 
+ (SEQ ID NO: 6) 
+   
+   
+ 
+ 
+   
+ 
+ 
+ HPL-F-KpnI 
+   GGTACC   AACACA ATGTCCCTCAAGCATTCTTCC 
+ KpnI 
+ 
+ 
+ (SEQ ID NO: 7) 
+   
+   
+ 
+ 
+   
+ 
+ 
+ HPL-R-EcoRI 
+   GAATTC TGGATGTTGTGTCCGTGGCGATA 
+ EcoRI 
+ 
+ 
+ (SEQ ID NO: 8) 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 2 
+ 
+ 
+   
+ 
+ 
+   
+ Pre- 
+   
+   
+   
+ 
+ 
+ Target gene 
+ denaturation 
+ Denaturation 
+ Anealing 
+ Extension 
+ 
+ 
+   
+ 
+ 
+ 
+ Lipoxygenase-1 
+ 98° C., 
+ 98° C., 
+ 60° C., 
+ 72° C., 
+ 
+ 
+ (SEQ ID NO: 9) 
+ 3  min   
+ 10 sec 
+ 15  sec   
+ 3 min 
+ 
+ 
+ Lipoxygenase-2 
+ 98° C., 
+ 98° C., 
+ 58° C., 
+ 72° C., 
+ 
+ 
+ (SEQ ID NO: 10) 
+ 3  min   
+ 10 sec 
+ 15  sec   
+ 4 min 
+ 
+ 
+ Lipoxygenase-3 
+ 98° C., 
+ 98° C., 
+ 56° C., 
+ 72° C., 
+ 
+ 
+ (SEQ ID NO: 11) 
+ 3  min   
+ 10 sec 
+ 15  sec   
+ 4 min 
+ 
+ 
+ Hydroperoxidelyase 
+ 98° C., 
+ 98° C., 
+ 59° C., 
+ 72° C., 
+ 
+ 
+ (SEQ ID NO: 12) 
+ 3  min   
+ 10  sec   
+ 5  sec   
+ 2 min 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ As a result of the experiment, through an electrophoretic photograph, it was confirmed that a lipoxygenase-1 gene (SEQ ID NO: 9, 3159 bp), a lipoxygenase-2 gene (SEQ ID NO: 10, 3333 bp), and a lipoxygenase-3 gene (SEQ ID NO: 11, 3855 bp) (     Lanes      1, 2, 3 in  FIG. 2 , respectively), and a hydroperoxide lyase gene (SEQ ID NO: 12, 1,560 bp,  Lane  4 in  FIG. 2 ) were amplified. In  Lane  1 of the electrophoretic photograph of  FIG. 2 , a Plus DNA Ladder marker was used as a DNA marker. 
+ Example 4: Gene Cloning Using pGEM™ Easy T Vector 
+ In order to clone PCR products of a lipoxygenase-1 gene, a lipoxygenase-2 gene, a lipoxygenase-3 gene, and a hydroperoxide lyase gene obtained in Example 3 with each pGEM™ easy T vector (Promega), a A-tailing process was performed using a Mighty TA-cloning Reagent Set (TaKaRa), ligation with the pGEM™ easy T vector was performed overnight at 4° C., and then the ligated vector was transformed into  E. coli  DH5a competent cells (TaKaRa). Next,  E. coli  was smeared on a Luria Broth (LB) medium plate added with ampicillin (100 μl/ml), IPTG (0.1 mM), and X-gal (50 μg/ml), and incubated at 37° C. for 16 to 18 hours, and thereafter, a plasmid was extracted using a Higene™ Plasmid Mini Prep kit (Biofact). To confirm whether the gene was correctly inserted into the extracted plasmid, the size of the gene was checked by electrophoresis, and then sequencing of the corresponding base sequence was performed. 
+ As a result of the experiment, It was confirmed that s lipoxygenase-1 gene ( FIG. 3(A) ), a lipoxygenase-2 gene ( FIG. 3(B) ), a lipoxygenase-3 gene ( FIG. 3(C) ) and a hydroperoxide lyase gene ( FIG. 3(D) ) were accurately inserted into the pGEM™ easy T vector plasmid. 
+ Example 5: Gene Cloning Using Yeast Expression Vector 
+ The pGEM vectors inserted with the lipoxygenase-1 gene, the lipoxygenase-2 gene, and the lipoxygenase-3 gene for gene expression in the yeast reacted at 37° C. and were cleaved with restrictions enzymes HindIII and KpnI, and the pGEM vector inserted with the hydroperoxide lyase gene reacted at 37° C. and was cleaved with restrictions enzymes KpnI and EcoRI. The cleaved genes were quantified after purification with a TaKaRa MiniBEST Agarose Gel DNA Extraction kit (TaKaRa). After selecting  Saccharomyces cerevisiae  species as a microbial model for expressing the genes, a pYES3 vector (Invitrogen Co., Ltd.), which was a yeast expression vector suitable for a host cell, was selected for efficient protein expression. This vector includes a pUc ori sequence to be easily amplified in bacteria, and includes a 2μ origin sequence to be amplified even in yeasts. In addition, this vector had a multiple cloning site as a restriction enzyme site that did not cleave a target gene to accurately insert the gene into the vector. The vector has a GAL1 promoter which a strong promoter, a T7 promoter, and a CYC1 sequence to accurately determine the insertion of the gene and the inserted sequence by gene sequencing analysis. In addition, since a TRP1 gene sequence, which is a selectable marker, is present to easily screen the yeasts inserted with the vector, and a V5 epitope and a 6×His tag sequence are present to make it easy to detect the expressed target protein. In order to transform two different types of genes into the yeast together, a pYES2 vector with a different selectable marker URA3 from a pYES3 vector was selected. The pYES2 vector has the same other characteristics as the pYES3 vector and is larger in size by about 100 bp ( FIG. 4 ). Since the yeast into which all of the genes have been inserted may be efficiently screened using the selectable marker, cloning was performed using the following method. The lipoxygenase-1 gene, the lipoxygenase-2 gene, and the lipoxygenase-3 gene were subjected to overnight ligation reaction with a pYES3/CT vector (Invitrogen), and the hydroperoxide lyase gene was subjected to overnight ligation reaction with a pYES2/CT vector (Invitrogen) at 4° C. to be transformed into  E. coli  DH5a competent cells (TaKaRa). The transformed cells were smeared on a Luria Broth (LB) medium plate added with ampicillin (100 μl/ml), IPTG (0.1 mM), and X-gal (50 μg/ml) and incubated at 37° C. for 16 to 18 hours. Next, the plasmid was extracted from the screened  E. coli  using a Higene™ Plasmid Mini Prep kit (Biofact), and the size of the extracted plasmid was checked by electrophoresis to confirm whether each gene was correctly inserted, and then base sequence sequencing was performed. As a result of the experiment, it was confirmed that the lipoxygenase-1 gene, the lipoxygenase-2 gene, the lipoxygenase-3 gene, and the hydroperoxide lyase gene were correctly inserted into the plasmid ( FIG. 5 ). That is, the lanes of  FIG. 5(A)  illustrate electrophoretic results of m: DNA ladder marker, 1: pYES3/CT, 2: pYES3/CT+Lipoxygenase-1 gene, 3: pYES3/CT+Lipoxygenase-2 gene, and 4: pYES3/CT+Lipoxygenase-3 gene, and the lanes of  FIG. 5(B)  illustrate electrophoretic results of m: DNA ladder marker, 1: pYES2/CT, and 2: pYES2/CT+Hydroperoxide lyase. 
+ Example 6: Transformation of Yeast Expression Vectors into INVSc1 Yeast 
+   Saccharomyces cerevisiae  competent cells were prepared using a S.C. EasyComp™ Transformation kit (Invitrogen). In addition, the pYES3/CT vectors introduced with the lipoxygenase-1 gene, the lipoxygenase-2 gene, and the lipoxygenase-3 gene obtained in Example 5, and the pYES2/CT vector introduced with the hydroperoxide lyase were mixed in a ratio of 1:1, respectively. Thereafter, these vectors were transformed into  S. cerevisiae  competent cells (INVSc1). In addition, the  S. cerevisiae  competent cells (INVSc1) were smeared on an SC medium plate (Synthetic complete medium, 0.67% yeast nitrogen base, 2% glucose, 0.192% yeast synthetic drop-out medium supplements, 2% agar) in which tryptophan and uracil were deleted and then incubated at 30° C. for 2 to 3 days ( FIG. 6(A) ). The SC medium was a minimal medium in which tryptophan and uracil were deleted, and was used because the SC medium efficiently selected a transformant yeast into which both a pYES3 vector with a TRP1 gene and a pYES2 vector with a URA3 gene were inserted and was suitable for expression of a target protein. The composition of the SC medium used was shown in Table 3 below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+   
+ 
+ 
+ Composition ratio 
+   
+ 
+ 
+ (%, W/W) 
+ Composition contents 
+ 
+ 
+   
+ 
+ 
+ 
+ 0.67% 
+ Yeast nitrogen base (without amino acids) 
+ 
+ 
+   2% 
+ Carbon source (adding raffinose for screening 
+ 
+ 
+   
+ and incubation of transformant and galactose 
+ 
+ 
+   
+ for protein expression) 
+ 
+ 
+ 0.01% 
+ Adenine, arginine, cysteine, leucine, lysine, threonine 
+ 
+ 
+ 0.005%  
+ Aspartic acid, histidine, isoleucine, methionine, 
+ 
+ 
+   
+ phenylalanine, proline, serine, tyrosine,  valine   
+ 
+ 
+   2% 
+ Agar (for solid medium) 
+ 
+ 
+   Total  100% 
+ Constituted 100% with H 2 O. 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Next, as a result of screening transformed yeasts into which two types of genes were introduced by performing colony PCR, it was confirmed that the lipoxygenase-1 gene, the lipoxygenase-2 gene, the lipoxygenase-3 gene, and the hydroperoxide lyase gene were transformed into INVSc1 through yeast expression vectors ( FIG. 6(B) ). Yeasts KMG 1801, KMG 1802, and KMG 1803 transformed in a 1:1 ratio of the lipoxygenase-1 gene, the lipoxygenase-2 gene, the lipoxygenase-3 gene, and the hydroperoxide lyase gene were deposited with deposit numbers KCTC13476BP, KCTC13477BP, and KCTC13478BP in the Korean Collection for Type Cultures (KCTC) on Feb. 6, 2018. In addition, in order to confirm the growth of the yeast transformed with each combination of the lipoxygenase-1 gene, the lipoxygenase-2 gene, the lipoxygenase-3 gene, and the hydroperoxide lyase gene, 5 mL of each incubation medium was incubated and then used as a sample for measuring a growth curve of the yeast every 0, 4, 8, 12, 16, 20, 24, 28, 32, and 36 hours. As a result of the measurement, it was confirmed that KMG 1801 (Deposit No. KCTC13476BP,  FIG. 7(A) ) and KMG 1802 (Deposit No. KCTC 13477BP,  FIG. 7(B) ) grew rapidly in a period of 8 to 12 hours, and KMG 1803 (Deposit No. KCTC13478BP,  FIG. 7  (C)) grew rapidly in a period of 28 to 32 hours. 
+ Example 7: Identification of 1-octen-3-ol Biosynthesis in Transformed Yeasts Introduced with Lipoxygenase and Hydroperoxide Lyase Genes 
+ In order to confirm the biosynthesis of 1-octen-3-ol in yeasts transformed with the combinations of each gene obtained from Example 6, the transformed yeasts were inoculated in a SC selectable medium (Synthetic complete medium, 0.67% yeast nitrogen base, 2% raffinose, 0.192% yeast synthetic drop-out medium supplements) in which tryptophan and uracil were deleted, pre-incubated overnight, and then centrifuged to collect yeasts. The collected yeasts were inoculated in a SC induction medium (Synthetic complete medium, 0.67% yeast nitrogen base, 1% raffinose, 2% galactose, 0.192% yeast synthetic drop-out medium supplements) in which tryptophan and uracil were deleted, added with 2% Tween-20 and 1.5 mM linoleic acid, and then incubated at 30° C. for 20 hours. The incubated yeasts and the media were isolated by centrifugation, and the yeasts were added with a sodium phosphate lysis buffer (50 mM sodium phosphate, 1 mM PMSF, 5% glycerol, 2% triton X-100; pH 6.5) and acid-washed glass beads (0.4 to 0.6 mm size), lyzed with a bead beater, and then the cells were down by centrifugation and a cell lysis supernatant was recovered. Next, in order to confirm the produced 1-octen-3-ol, lysates and the incubated medium were analyzed by gas chromatography-mass spectrometry (Aqilent 7890B GC & 5977B MSD) by extracting volatile components through solid phase microextraction (SPME) for 35 minutes at 70° C. For the gas chromatography-mass spectrometry, DB-WAX (60 m×250 μm×0.25 μm) and helium carrier gas were used, and the temperature of the column was increased from 40° C. to 120° C. at a rate of 2° C./min and increased from 120° C. to 240° C. at a rate of 20° C./min. The temperature of the injector was set to 250° C. 
+ As a result of the experiment, as illustrated in  FIG. 8 , peaks were not observed in (A) lysates of cells incubated without adding a substrate and (B) a medium incubated without adding a substrate, but peaks of 1-octen-3-ol at 38.27 min were checked in (C) lysates of cells incubated by adding a substrate and (D) a medium incubated by adding a substrate. 
+ Meanwhile, the results for 1-octen-3-ol biosynthesis according to the combination of each lipoxygenase gene and hydroperoxide lyase were shown in Table 4. According to Table 4, it was confirmed that there was a biosynthetic effect of 1-octen-3-ol in all yeasts into which each combination of the genes Lipoxygenase-1, Lipoxygenase-2, Lipoxygenase-3, and Hydroperoxide lyase found in the fruiting bodies of pine mushroom was introduced, and the degree of biosynthesis was varied according to a type of combination. In addition, it was confirmed that the 1-octen-3-ol biosynthesis concentration was highest when the lipoxygenase-1 was used. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ TABLE 4 
+ 
+ 
+   
+   
+ 
+ 
+   
+ Protein 
+ Retention time 
+ Concentration 
+ 
+ 
+   
+ combination 
+ (min) 
+ (mg/L) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 1 
+ Lipoxygenase-1 + 
+ 38.270 
+ 0.66 
+ 
+ 
+   
+   Hydroperoxide lyase   
+ 
+ 
+ 2 
+ Lipoxygenase-2 + 
+ 38.269 
+ 0.33 
+ 
+ 
+   
+   Hydroperoxide lyase   
+ 
+ 
+ 3 
+ Lipoxygenase-3 + 
+ 38.270 
+ 0.58 
+ 
+ 
+   
+   Hydroperoxide lyase   
+ 
+ 
+ 4 
+ Lipoxygenase-1 + 2 + 
+ 38.271 
+ 0.42 
+ 
+ 
+   
+   Hydroperoxide lyase   
+ 
+ 
+ 5 
+ Lipoxygenase-1 + 3 + 
+ 38.271 
+ 0.38 
+ 
+ 
+   
+   Hydroperoxide lyase   
+ 
+ 
+ 6 
+ Lipoxygenase-2 + 3 + 
+ 38.270 
+ 0.27 
+ 
+ 
+   
+ Hydroperoxide lyase 
+ 
+ 
+ 7 
+ Lipoxygenase-1 + 2 + 3 + 
+ 38.267 
+ 0.56 
+ 
+ 
+   
+ Hydroperoxide lyase 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Experimental Example 1: Optimization of 1-octen-3-ol Biosynthesis According to Substrate Concentration and Reaction Conditions 
+ In order to confirm the biosynthesis amount of 1-octen-3-ol in transformed yeasts according to the concentration of a substrate and reaction conditions, the yeasts transformed with lipoxygenase-1 and hydroperoxide lyase were inoculated in a SC selectable medium (Synthetic complete medium, 0.67% yeast nitrogen base, 2% raffinose, 0.192% yeast synthetic drop-out medium supplements) in which tryptophan and uracil were deleted, pre-incubated overnight, and then centrifuged to collect yeasts. The collected yeasts were inoculated in a SC induction medium (Synthetic complete medium, 0.67% yeast nitrogen base, 1% raffinose, 2% galactose, 0.192% yeast synthetic drop-out medium supplements) in which tryptophan and uracil were deleted, added with 2% Tween-20 and an appropriate concentration (0 to 0.1 M) of linoleic acid, and then incubated at 30° C. for 20 hours. In addition, in order to confirm the biosynthesis amount of 1-octen-3-ol in the transformed yeasts according to reaction conditions, the pre-incubated yeasts were inoculated in a SC induction medium (Synthetic complete medium, 0.67% yeast nitrogen base, 1% raffinose, 2% galactose, 0.192% yeast synthetic drop-out medium supplements) in which tryptophan and uracil were deleted, added with 2% Tween-20 and 3 mM linoleic acid, and then incubated at 15° C. and 30° C. for 12, 24, 36, and 48 hours, respectively. The incubated yeasts were collected by centrifugation, added with a sodium phosphate lysis buffer (50 mM sodium phosphate, 1 mM PMSF, 5% glycerol, 2% triton X-100; pH 6.5) and acid-washed glass beads (0.4 to 0.6 mm size), and lyzed with a bead beater. Thereafter, the cells were down by centrifugation, a cell lysis supernatant was recovered, and added with 0.1 g of NaCl (for protein precipitation), and then fragrances were extracted with the same amount of diethyl ether and analyzed by gas chromatography-mass spectrometry (Aqilent 7890B GC & 5977B MSD). For the gas chromatography-mass spectrometry, DB-WAX (60 m×250 μm×0.25 μm) and helium carrier gas were used, and the temperature of the column was increased from 40° C. to 120° C. at a rate of 2° C./min and increased from 120° C. to 240° C. at a rate of 20° C./min. The temperature of the injector was set to 250° C. The concentration of the biosynthesized 1-octen-3-ol was compared with a 1-octen-3-ol standard (Sigma) and analyzed. As a result of the experiment, the biosynthesis amount of 1-octen-3-ol was highest at about 0.48 mg/L when the added concentration of linoleic acid was 3 mM (A), and the biosynthesis amount of 1-octen-3-ol was highest at about 0.35 mg/L at 30° C. for 24 hours (B) ( FIG. 9 ). 
+ INDUSTRIAL APPLICABILITY 
+ The present application relates to a transformed yeast producing 1-octen-3-ol and a method for producing the same, which is a useful invention in the cosmetic industry and food development industry using a pine mushroom flavor. 
+ Depositary Authority Name: Korean Collection for Type Cultures (KCTC) 
+ Accession number: KCTC13476BP 
+ Accession Date: 20180206 
+ Depositary Authority Name: Korean Collection for Type Cultures (KCTC) 
+ Accession number: KCTC13477BP 
+ Accession Date: 20180206 
+ Depositary Authority Name: Korean Collection for Type Cultures (KCTC) 
+ Accession number: KCTC13478BP 
+ Accession Date: 20180206 
+ Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purpose of Patent Procedure 
+ International Form 
+ Receipt in the Case of an Original Deposit 
+ Issued Pursuant to Rule 7.1 
+ TO: Kyungpook National University Industry-Academic Cooperation/Gyeongsangbuk-do Forest Environment Research Institute 
+ 80, Daehak-ro, Buk-gu, Daegu, Republic of Korea/36780, Tongil-ro, Gyeongju-si, Gyeongsangbuk-do, Republic of Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ I. IDENTIFICAION OF THE MICROORGANISM  
+ 
+ 
+ 
+ 
+ Identification reference given by the  
+ Accession number given by the  
+ 
+ 
+ DEPOSITOR (Microorganism name):  
+ INTERNATIONAL DEPOSITARY  
+ 
+ 
+   Saccharomyces cerevisiae  KAIG 1801  
+ AUTHORITY:  
+ 
+ 
+   
+ KCTC 13476BP  
+ 
+ 
+ 
+ 
+ II. SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC  
+ 
+ 
+ DESIGNATION  
+ 
+ 
+ The microorganism identified under I above was accompanied by:  
+ 
+ 
+ a scientific description  
+ 
+ 
+ a proposed taxonomic designation  
+ 
+ 
+ (Mark with a cross where applicable)  
+ 
+ 
+ III. RECEIPT AND ACCEPTANCE  
+ 
+ 
+ This International Depository Authority accepts the microorganism identified under I  
+ 
+ 
+ above, which was received by it on Feb. 6, 2018.  
+ 
+ 
+ IV. RECEIPT OF REQUEST FOR CONVERSION  
+ 
+ 
+ The microorganism identified under I above was received by this International  
+ 
+ 
+ Depository Authority under the Budapest Treaty.  
+ 
+ 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY  
+ 
+ 
+ 
+ 
+ Authority Name: Korean Collection for  
+ Signature(s) of person(s) having the power  
+ 
+ 
+ Type Cultures (KCTC) Korea Research 
+ to represent the International Depository  
+ 
+ 
+ Institute of Bioscience and Biotechnology  
+ Authority of authorized official(s):  
+ 
+ 
+ (KRIBB)  
+ Date: Feb. 6, 2018  
+ 
+ 
+ Address: 181, Ipsin-gil, Jeongeup-si,  
+ Cha-Young, Kim  
+ 
+ 
+ Jeollabuk-do 56212, Republic of Korea 
+ 
+ 
+   
+ 
+ 
+ Form BP/4 (KCTC Form 17) 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ No difference from the original Patent Attorney Duck-Rog, Lee 
+ 
+ 
+ 
+ Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purpose of Patent Procedure International Form 
+ Receipt in the Case of an Original Deposit 
+ Issued Pursuant to Rule 7.1 
+ TO: Kyungpook National University Industry-Academic Cooperation/Gyeongsangbuk-do Forest Environment Research Institute 
+ 80, Daehak-ro, Buk-gu, Daegu, Republic of Korea/36780, Tongil-ro, Gyeongju-si, Gyeongsangbuk-do, Republic of Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ I. IDENTIFICAION OF THE MICROORGANISM  
+ 
+ 
+ 
+ 
+ Identification reference given by the  
+ Accession number given by the  
+ 
+ 
+ DEPOSITOR (Microorganism name):  
+ INTERNATIONAL DEPOSITARY  
+ 
+ 
+   Saccharomyces cerevisiae  KAIG 1802  
+ AUTHORITY:  
+ 
+ 
+   
+ KCTC 13477BP  
+ 
+ 
+ 
+ 
+ II. SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC  
+ 
+ 
+ DESIGNATION  
+ 
+ 
+ The microorganism identified under I above was accompanied by:  
+ 
+ 
+ a scientific description  
+ 
+ 
+ a proposed taxonomic designation  
+ 
+ 
+ (Mark with a cross where applicable)  
+ 
+ 
+ III. RECEIPT AND ACCEPTANCE  
+ 
+ 
+ This International Depository Authority accepts the microorganism identified under I  
+ 
+ 
+ above, which was received by it on Feb. 6, 2018.  
+ 
+ 
+ IV. RECEIPT OF REQUEST FOR CONVERSION  
+ 
+ 
+ The microorganism identified under I above was received by this International  
+ 
+ 
+ Depository Authority under the Budapest Treaty.  
+ 
+ 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY  
+ 
+ 
+ 
+ 
+ Authority Name: Korean Collection for 
+ Signature(s) of person(s) having the power  
+ 
+ 
+ Type Cultures (KCTC) Korea Research  
+ to represent the International Depository  
+ 
+ 
+ Institute of Bioscience and Biotechnology  
+ Authority of authorized official(s):  
+ 
+ 
+ (KRIBB)  
+ Date: Feb. 6, 2018  
+ 
+ 
+ Address: 181, Ipsin-gil, Jeongeup-si, 
+ Cha-Young, Kim  
+ 
+ 
+ Jeollabuk-do 56212, Republic of Korea 
+ 
+ 
+   
+ 
+ 
+ Form BP/4 (KCTC Form 17) 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ No difference from the original Patent Attorney Duck-Rog, Lee 
+ 
+ 
+ 
+ Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purpose of Patent Procedure International Form 
+ Receipt in the Case of an Original Deposit 
+ Issued Pursuant to Rule 7.1 
+ TO: Kyungpook National University Industry-Academic Cooperation/Gyeongsangbuk-do Forest Environment Research Institute 
+ 80, Daehak-ro, Buk-gu, Daegu, Republic of Korea/36780, Tongil-ro, Gyeongju-si, Gyeongsangbuk-do, Republic of Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ I. IDENTIFICAION OF THE MICROORGANISM  
+ 
+ 
+ 
+ 
+ Identification reference given by the 
+ Accession number given by the  
+ 
+ 
+ DEPOSITOR (Microorganism name):  
+ INTERNATIONAL DEPOSITARY  
+ 
+ 
+   Saccharomyces cerevisiae  KAIG 1803  
+ AUTHORITY:  
+ 
+ 
+   
+ KCTC 13478BP  
+ 
+ 
+ 
+ 
+ II. SCIENTIFIC DESCRIPTION AND/OR PROPOSED TAXONOMIC  
+ 
+ 
+ DESIGNATION  
+ 
+ 
+ The microorganism identified under I above was accompanied by:  
+ 
+ 
+ a scientific description  
+ 
+ 
+ a proposed taxonomic designation  
+ 
+ 
+ (Mark with a cross where applicable)  
+ 
+ 
+ III. RECEIPT AND ACCEPTANCE  
+ 
+ 
+ This International Depository Authority accepts the microorganism identified under I  
+ 
+ 
+ above, which was received by it on Feb. 6, 2018.  
+ 
+ 
+ IV. RECEIPT OF REQUEST FOR CONVERSION  
+ 
+ 
+ The microorganism identified under I above was received by this International  
+ 
+ 
+ Depository Authority under the Budapest Treaty.  
+ 
+ 
+ V. INTERNATIONAL DEPOSITARY AUTHORITY  
+ 
+ 
+ 
+ 
+ Authority Name: Korean Collection for  
+ Signature(s) of person(s) having the power  
+ 
+ 
+ Type Cultures (KCTC) Korea Research  
+ to represent the International Depository  
+ 
+ 
+ Institute of Bioscience and Biotechnology  
+ Authority of authorized official(s):  
+ 
+ 
+ (KRIBB)  
+ Date: Feb. 6, 2018  
+ 
+ 
+ Address: 181, Ipsin-gil, Jeongeup-si,  
+ Cha-Young, Kim  
+ 
+ 
+ Jeollabuk-do 56212, Republic of Korea 
+ 
+ 
+   
+ 
+ 
+ Form BP/4 (KCTC Form 17) 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ No difference from the original Patent Attorney Duck-Rog, Lee 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,2724 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FIELD OF THE INVENTION 
+ This invention is in the field of microbiology and molecular biology. A method of increasing the titer of hydrophobic/lipophilic compounds produced in a microorganism is provided. More specifically, recombinant expression of a plant oleosin gene in a microbial host cell increases the titer of hydrophilic/lipophilic compounds. Recombinant microbial expression of an oleosin gene significantly increases carotenoid titer in microbial host cells engineered to produce carotenoids. 
+ BACKGROUND OF THE INVENTION 
+ Engineering microbial production of many commercially useful products has both advantages and disadvantage when compared to traditional chemical routes or isolation from organisms that naturally produce the desired compound. Many of the advantages associated with recombinant microbial production over traditional chemical synthesis include 1) the ability to synthesize the desired compounds at ambient temperature (decreased energy costs), 2) use of less expensive, readily available, typically renewable, and less toxic raw materials, 3) the production of less environmental waste, 4) the ability to harness regioselective and stereoseletive chemistry frequently observed when using biological catalysts, and 5) decreased purification costs from organisms that naturally produce the desired compound, often in commercially insignificant amounts. However, recombinant microbial production of a desirable compound has some disadvantages as well, such as inadequate compound production, poor growth characteristics, inadequate precursor supply, catalyst robustness and stability, regulatory issues (use of antibiotic markers), and host cell toxicity issues observed as a result of genetic modification. One particular problem associated with producing hydrophobic/lipophilic compounds in many microorganisms is limited internal storage capacity. Many hydrophobic/lipophilic compounds tend to accumulate in internal hydrophobic compartments within the cell (for example, intracellular membranes). Accumulation of these materials within the various compartments tends to be limited, as excess accumulation may have adverse effects on the viability of the host organisms (i.e. disrupting normal membrane function, decreased growth, increased toxicity to host cell, etc.). 
+ One method used to increase the storage capacity in recombinant host cells is to increase one or more storage components of the cell. Arechaga et al. ( FEBS Lett.  482:215-219 (2000); WO 01/29236 A1) describes a method to alter the intracytoplasmic membrane content and composition by expressing the b and/or c subunit of ATP synthase. Membrane proliferation was induced, allowing elevated expression of genes encoding membrane proteins. Arechaga et al. do not describe a method to increase the intracellular storage capacity of hydrophobic compounds produced in microorganisms, especially non-proteinaceous compounds. 
+ The intracellular storage of hydrophobic compounds (such as oils) is known to naturally occur in some organisms. For example, many plants store triacylglycerides (TAG) in oil bodies. These oil bodies consist of a phospholipid monolayer stabilized primarily with a unique plant protein called oleosin, along with other minor proteins surrounding the TAG core. Oleosins have a thumbtack-like architecture, with the “shaft” portion consisting of hydrophobic amino acids and the head exhibiting an amphipathic structure (in  Biochemistry and Molecular Biology of Plants , Buchanan, B., Gruissem, W. and Jones, R., eds., American Society of Plant Physiologists, Rockville, Md., 2000, pp 17-18). Oleosins are required for significant accumulation of TAG in the oil bodies. The recombinant expression of plant oleosins in microorganisms for storage of hydrophobic/lipophilic compounds has not been reported. 
+ Many commercially valuable hydrophobic/lipophilic compounds are naturally produced in microorgansisms. Additionally, microorganisms can be genetically engineered to produce the desired molecules. Examples of these hydrophobic molecules include, but are not limited to, hydrophobic peptides and compounds derived from isoprene such as carotenoids, quinones, dolichols, tocopherols, fatty acids (i.e. omega-3 fatty acids), terpenes, steroids, chlorophylles, polyhydroxyalkanoates, and natural rubber. Based on their hydrophobic/lipophilic nature, many of these compounds accumulate or associate near or within the hydrophobic portions of cellular membranes, leading to changes in membrane structure which may result in the loss of cell viability (Sikkema et al.,  Microbiol Rev.,  59(2):201-222 (1995)). Accumulation of hydrophobic/lipophilic compounds, especially in recombinant microorganisms engineered to produce them at elevated levels, is frequently limited by the amount of internal storage capacity within the microorganism. 
+ Carotenoids represent a class of hydrophobic compounds currently being produced in recombinant microorganisms. The genetics of carotenoid production are well-known and have been exploited to produce a variety of carotenoids in recombinant bacteria (Lee et al.,  Chem Biol,  10:453-462 (2003)). Various genetic modifications to the isoprenoid/carotenoid biosynthesis pathway have been employed to engineer bacteria, such as  E. coli , to produce high levels of various carotenoids. 
+ Carotenoids, such as β-carotene and astaxanthin, associate and/or aggregate with phospholipid monolayers and bilayers (Shibata et al.,  Chem Phys Lipids,  113:11-22 (2001)). As a result, the capacity to store carotenoids may ultimately be limited to the amount of available hydrophobic storage capacity. For example, it has been reported that one of the primary limitations associated with microbial carotenoid production, especially in bacteria such as  E. coli , is the inability to accumulate commercially-useful levels of carotenoids, as is the case in many industrially suitable production hosts (Schmidt-Dannert, C. and Lee, P.,  Appl Microbiol Biotechnol,  60:1-11 (2002)). 
+ It has been speculated that the limits for carotenoid production in a non-carotenogenic host, such as  E. coli , had been reached at the level of around 1.5 mg/g dry cell weight due to overload of membranes and blocking of membrane functionality (although U.S. Ser. No. 10/735442 has recently reported levels up to about 6 mg/g dry cell weight). It has been suggested that the future focus of engineering  E. coli  for high levels of carotenoid production should be on formation of additional membranes and on genetic manipulations leading to novel carotenoid sequestering systems (Albrecht et al.,  Biotechnol Lett,  21:791-795 (1999)). 
+ The problem to be solved therefore is to provide a method to increase the hydrophobic/lipophilic compound titer in a microbial cell, especially in recombinant microorganisms engineered to produce such compounds. 
+ SUMMARY OF THE INVENTION 
+ The stated problem has been solved by providing a method to increase hydrophobic/lipophilic compound titer in a microorganism by recombinantly expressing one or more plant oleosin genes. In plants, oleosins are known to stability storage of oil bodies. Expression of any plant oleosin gene is believed to increase the available hydrophobic/lipophilic storage capacity (as measured by a significant increase in hydrophobic/lipophilic compound titer) in the transformed microbial host cell. Specifically, recombinant  E. coli  cells capable of producing elevated levels of carotenoids were engineered to express plant oleosin genes, resulting in a significant increase in the titer of several recombinantly produced carotenoids. 
+ Oleosins can be identified by the existence of a diagnostic motif as represented by SEQ ID NO: 70. An amino acid sequence analysis of numerous oleosins obtained from a variety of sources indicates that suitable oleosins can be identified as those comprised of a 14 amino acid sequence having at least 70% similarity to the diagnostic motif represented by SEQ ID NO: 70. 
+ Accordingly, in one embodiment the invention provides a recombinant microbial production host for the production of hydrophobic compounds comprising:
+         a) an intracellular system for the production of a hydrophobic compound; and   b) at least one genetic construct encoding an oleosin polypeptide having an amino acid sequence comprising an oleosin diagnostic motif, said motif having about 70% identity to the amino acid sequence as set forth in SEQ ID NO: 70.       
+ Hosts preferred in the present invention include, but are not limited to bacteria, yeast, and algae, and preferred polypeptides encoded by the oleosin encoding genetic construct are selected from the group consisting of SEQ ID NO: 40, SEQ ID NO: 42, SEQ ID NO: 44, SEQ ID NO: 46, SEQ ID NO: 48, SEQ ID NO: 50, SEQ ID NO: 52, SEQ ID NO: 54, SEQ ID NO: 56, SEQ ID NO: 58, SEQ ID NO: 60, SEQ ID NO: 62, SEQ ID NO: 64, SEQ ID NO: 66, and SEQ ID NO: 68. 
+ In another embodiment the invention provides a method for the production of a hydrophobic compound comprising: 
+ 
+   
+ 
+ 
+ a) providing a recombinant microbial production host comprising:
+           i) an intracellular system for the production of a hydrophobic compound; and   ii) at least one genetic construct encoding an oleosin polypeptide having an amino acid sequence comprising an oleosin diagnostic motif, said motif having about 70% identity to the amino acid sequence as set forth in SEQ ID NO: 70; and   
+ 
+ b) growing the production host of (a) under conditions whereby a hydrophobic compound is produced.
+ 
+In a similar embodiment the invention provides a method to increase the titer of a hydrophobic compound in a recombinant microbial host cell comprising:
+ 
+ a) providing a transformed microbial host cell producing a hydrophobic compound, said host comprising:
+           i) at least one genetic construct encoding an oleosin polypeptide having an amino acid sequence comprising an oleosin diagnostic motif, said motif having about 70% identity to the amino acid sequence as set forth in SEQ ID NO: 70; and   
+ 
+ b) growing the transformed microbial host cell of (a) under suitable growth conditions whereby the oleosin construct is expressed and whereby the titer of hydrophobic compound produced in said transformed microbial host cell is increased relative to the microbial host cell lacking said oleosin construct when grown under the similar conditions; 
+ d) optionally, recovering the hydrophobic compound produced by said transformed microbial host cell in c). 
+ 
+ 
+ 
+ In an additional embodiment the invention provides an isolated polynucleotide encoding an oleosin having the amino acid sequence selected from the group consisting of SEQ ID NO: 40, SEQ ID NO: 42, SEQ ID NO: 44, SEQ ID NO: 46, SEQ ID NO: 50, SEQ ID NO: 52, SEQ ID NO: 54, SEQ ID NO: 56, SEQ ID NO: 58, SEQ ID NO: 60, SEQ ID NO: 62, SEQ ID NO: 64, SEQ ID NO: 66, and SEQ ID NO: 68. 
+ Similarly the invention provides an isolated polynucleotide selected from the group consisting of SEQ ID NO: 39, SEQ ID NO: 41, SEQ ID NO: 43, SEQ ID NO: 45, SEQ ID NO: 49, SEQ ID NO: 51, SEQ ID NO: 53, SEQ ID NO: 55, SEQ ID NO: 57, SEQ ID NO: 59, SEQ ID NO: 61, SEQ ID NO: 63, SEQ ID NO: 65, and SEQ ID NO: 67. 
+ 
+ BRIEF DESCRIPTION OF THE FIGURES AND SEQUENCE DESCRIPTIONS 
+   FIG. 1  shows the isoprenoid biosynthesis pathway in  E. coli.    
+   FIG. 2  shows the two PCR fragment method for integration of a strong promoter upstream of isoprenoid genes in the  E. coli  chromosome (U.S. Ser. Nos. 10/734936 and 10/735442; hereby incorporated by reference). The method is exemplified by replacing the native promoter of the idi gene with the strong promoter P T5 . 
+   FIG. 3  shows the Clustal alignment of several publicly available oleosin genes and the identification of several conversed amino acids. 
+ 
+ The invention can be more fully understood from the following detailed description, biological deposits, and the accompanying sequence descriptions, which form a part of this application. 
+ The following sequences comply with 37 C.F.R. 1.821-1.825 (“Requirements for Patent Applications Containing Nucleotide Sequences and/or Amino Acid Sequence Disclosures—the Sequence Rules”) and are consistent with World Intellectual Property Organization (WIPO) Standard ST.25 (1998) and the sequence listing requirements of the European Patent Convention (EPC) and PCT (Rules 5.2 and 49.5(a-bis), and Section 208 and Annex C of the Administrative Instructions). The symbols and format used for nucleotide and amino acid sequence data comply with the rules set forth in 37 C.F.R. §1.822. 
+ SEQ ID NO: 1 is the nucleic acid sequence of the coding region of the  Pantoea stewartii  crtE gene. 
+ SEQ ID NO: 2 is the deduced amino acid sequence of the  Pantoea stewartii  CrtE enzyme. 
+ SEQ ID NO: 3 is the nucleic acid sequence of the coding region of the  Pantoea stewartii  crtX gene. 
+ SEQ ID NO: 4 is the deduced amino acid sequence of the  Pantoea stewartii  CrtX enzyme. 
+ SEQ ID NO: 5 is the nucleic acid sequence of the coding region of the  Pantoea stewartii  crtY gene. 
+ SEQ ID NO: 6 is the deduced amino acid sequence of the  Pantoea stewartii  CrtY enzyme. 
+ SEQ ID NO: 7 is the nucleic acid sequence of the coding region of the  Pantoea stewartii  crtI gene. 
+ SEQ ID NO: 8 is the deduced amino acid sequence of the  Pantoea stewartii  CrtI enzyme. 
+ SEQ ID NO: 9 is the nucleic acid sequence of the coding region of the  Pantoea stewartii  crtB gene. 
+ SEQ ID NO: 10 is the deduced amino acid sequence of the  Pantoea stewartii  CrtB enzyme. 
+ SEQ ID NO: 11 is the nucleic acid sequence of the coding region of the  Pantoea stewartii  crtZ gene. 
+ SEQ ID NO: 12 is the deduced amino acid sequence of the  Pantoea stewartii  CrtZ enzyme. 
+ SEQ ID NO:13-14 are oligonucleotide primers used to amplify the carotenoid biosynthetic genes from  P. stewartii.    
+ SEQ ID NO:15 is the nucleotide sequence for the P T5  promoter. 
+ SEQ ID NO:16 is the nucleic acid sequence of  primer  5′-kan(dxs). 
+ SEQ ID NO:17 is the nucleic acid sequence of  primer  5′-kan(idi). 
+ SEQ ID NO:18 is the nucleic acid sequence of  primer  5′-kan(ispDF). 
+ SEQ ID NO:19 is the nucleic acid sequence of  primer  3′-kan. 
+ SEQ ID NO:20 is the nucleic acid sequence of  primer  5′-T5. 
+ SEQ ID NO:21 is the nucleic acid sequence of  primer  3′-T5(dxs). 
+ SEQ ID NO:22 is the nucleic acid sequence of  primer  3′-T5(idi). 
+ SEQ ID NO:23 is the nucleic acid sequence of  primer  3′-T5(ispDF). 
+ SEQ ID NO:24 is the nucleotide sequence for plasmid pKD46. 
+ SEQ ID NO:25 is the nucleotide sequence for plasmid pPCB15. 
+ SEQ ID NO:26 is the nucleic acid sequence of primer T-kan. 
+ SEQ ID NO:27 is the nucleic acid sequence of primer B-dxs. 
+ SEQ ID NO:28 is the nucleic acid sequence of primer T-T5. 
+ SEQ ID NO:29 is the nucleic acid sequence of primer B-idi. 
+ SEQ ID NO:30 is the nucleic acid sequence of primer B-ispDF. 
+ SEQ ID NO:31 is the nucleotide sequence of the wild-type β-carotene ketolase (crt) gene from  Agrobacterium aurantiacum.    
+ SEQ ID NO:32 is the nucleotide sequence of the codon-optimized β-carotene ketolase (crtW) gene from  Agrobacterium aurantiacum.    
+ SEQ ID NO:33 is the amino acid sequence of the β-carotene ketolase (CrtW) enzyme from  Agrobacterium aurantiacum.    
+ SEQ ID NO:34 is the nucleotide sequence of the crtYIB gene cluster from  Pantoea stewartii.    
+ SEQ ID NO:35 is the nucleic acid sequence of primer pBHRcrt — 1F. 
+ SEQ ID NO:36 is the nucleic acid sequence of primer pBHRcrt — 1R. 
+ SEQ ID NO:37 is the nucleic acid sequence of primer pBHRcrt — 2F. 
+ SEQ ID NO:38 is the nucleic acid sequence of primer pBHRcrt — 2R. 
+ SEQ ID NO:39 is the nucleic acid sequence of an oleosin gene identified in clone ids3c.pk011.e15 and denoted as OL3. 
+ SEQ ID NO:40 is the deduced amino acid sequence of the OL3 oleosin protein. 
+ SEQ ID NO:41 is the nucleic acid sequence of an oleosin gene identified in clone ceb7f.pk004.b6a and denoted as OL4. 
+ SEQ ID NO:42 is the deduced amino acid sequence of the OL4 oleosin protein. 
+ SEQ ID NO:43 is the nucleic acid sequence of an oleosin gene identified in clone ece1c.pk006.p7 and denoted as OL5. 
+ SEQ ID NO:44 is the deduced amino acid sequence of the OL5 oleosin protein. 
+ SEQ ID NO:45 is the nucleic acid sequence of an oleosin gene identified in clone ece1c.pk003.i24 and denoted as OL6. 
+ SEQ ID NO:46 is the deduced amino acid sequence of the OL6 oleosin protein. 
+ SEQ ID NO:47 is the nucleic acid sequence of an oleosin gene identified in clone vmb1na.pk002.f2 and denoted as OL7. 
+ SEQ ID NO:48 is the deduced amino acid sequence of the OL7 oleosin protein. 
+ SEQ ID NO:49 is the nucleic acid sequence of an oleosin gene identified in clone e eas1c.pk003.I3 and denoted as OL8. 
+ SEQ ID NO:50 is the deduced amino acid sequence of the OL8 oleosin protein. 
+ SEQ ID NO:51 is the nucleic acid sequence of an oleosin gene identified in clone ncs.pk0006.a2 and denoted as OL9. 
+ SEQ ID NO:52 is the deduced amino acid sequence of the OL9 oleosin protein. 
+ SEQ ID NO:53 is the nucleic acid sequence of an oleosin gene identified in clone vs1.pk0015.b7 and denoted as OL11. 
+ SEQ ID NO:54 is the deduced amino acid sequence of the OL11 oleosin protein. 
+ SEQ ID NO:55 is the nucleic acid sequence of an oleosin gene identified in clone egh1c.pk003.h3 and denoted as OL16. 
+ SEQ ID NO:56 is the deduced amino acid sequence of the OL16 oleosin protein. 
+ SEQ ID NO:57 is the nucleic acid sequence of an oleosin gene identified in clone ecs1c.pk007.g10 and denoted as OL17. 
+ SEQ ID NO:58 is the deduced amino acid sequence of the OL17 oleosin protein. 
+ SEQ ID NO:59 is the nucleic acid sequence of an oleosin gene identified in clone fds1n.pk018.c6 and denoted as OL18. 
+ SEQ ID NO:60 is the deduced amino acid sequence of the OL18 oleosin protein. 
+ SEQ ID NO:61 is the nucleic acid sequence of an oleosin gene identified in clone pps.pk0001.f6 and denoted as OL19. 
+ SEQ ID NO:62 is the deduced amino acid sequence of the OL19 oleosin protein. 
+ SEQ ID NO:63 is the nucleic acid sequence of an oleosin gene identified in clone sdp2c.pk001.o14 and denoted as OL20. 
+ SEQ ID NO:64 is the deduced amino acid sequence of the OL20 oleosin protein. 
+ SEQ ID NO:65 is the nucleic acid sequence of an oleosin gene identified in clone hls1c.pk009.c and denoted as OL23. 
+ SEQ ID NO:66 is the deduced amino acid sequence of the OL23 oleosin protein. 
+ SEQ ID NO:67 is the nucleic acid sequence of an oleosin gene identified in clone fds1n.pk018.I23 and denoted as OL24. 
+ SEQ ID NO:68 is the deduced amino acid sequence of the OL24 oleosin protein. 
+ SEQ ID NO:69 is the amino acid sequence of  Zea mays  oleosin ZM-II from GENBANK® Accession No. P21641. 
+ SEQ ID NO:70 is the amino acid sequence of the conserved diagnostic motif (the “proline knot”) useful for identifying oleosins suitable in the present invention. 
+ SEQ ID NO: 71 is the nucleic acid sequence of primer ST-OL20. 
+ SEQ ID NO: 72 is the nucleic acid sequence of primer SB-OL20(trpXbal). 
+ BRIEF DESCRIPTION OF BIOLOGICAL DEPOSITS 
+ The following biological deposits were made under the terms of the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the purposes of Patent Procedure: 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Depositor Identification 
+ Int'l. Depository 
+   
+ 
+ 
+ Reference 
+ Designation 
+ Date of Deposit 
+ 
+ 
+   
+ 
+ 
+ 
+ Plasmid pCP20 
+ ATCC PTA-4455 
+ Jun. 13, 2002 
+ 
+ 
+ WS#124  E. coli  strain 
+ ATCC PTA-4807 
+ Nov. 20, 2002 
+ 
+ 
+ P T5 -dxs P T5 -idi 
+ 
+ 
+ P T5 -ygbBP yjeR::Tn5, pPCB15 
+ 
+ 
+ WS#208  E. coli  strain 
+ ATCC PTA-4823 
+ Nov. 26, 2002 
+ 
+ 
+ P T5 -dxs P T5 -idi 
+ 
+ 
+ P T5 -ygbBP P T5 -ispB, pDCQ108 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ As used herein, “ATCC” refers to the American Type Culture Collection International Depository Authority located at ATCC, 10801 University Blvd., Manassas, Va. 20110-2209, USA. The “International Depository Designation” is the accession number to the culture on deposit with ATCC. 
+ The listed deposits will be maintained in the indicated international depository for at least thirty (30) years and will be made available to the public upon the grant of a patent disclosing it. The availability of a deposit does not constitute a license to practice the subject invention in derogation of patent rights granted by government action. 
+ DETAILED DESCRIPTION OF THE INVENTION 
+ In this disclosure, a number of terms and abbreviations are used. The following definitions are provided. 
+ As used herein, the terms “comprising” means the presence of the stated features, integers, steps, or components as referred to in the claims, but that it does not preclude the presence or addition of one or more other features, integers, steps, components or groups thereof. 
+ “Open reading frame” is abbreviated ORF. 
+ “Polymerase chain reaction” is abbreviated PCR. 
+ As used herein, the terms “hydrophobic compound”, “lipophilic compound”, and “hydrophobic/lipophilic compound” will be used interchangeably to described a molecule that has limited solubility in water and tends to have an affinity and/or accumulate with other hydrophobic molecules, such as the fatty acid portion of lipid molecules. As used herein, “lipid” refers to an organic compound including fats, oils, waxes, sterols, and glycerides that are insoluble in water but soluble in organic solvents. Typical examples of hydrophobic/lipophilic molecules include, but are not limited to, hydrophobic peptides, isoprenoids, carotenoids, quinones, dolichols, tocopherols, fatty acids (i.e. omega-3 fatty acids) and and their esters, terpenes, steroids, chlorophylles, polyhydroxyalkanoates, and natural rubber. 
+ As used herein, an “isolated nucleic acid fragment” is a polymer of RNA or DNA that is single- or double-stranded, optionally containing synthetic, non-natural or altered nucleotide bases. An isolated nucleic acid fragment in the form of a polymer of DNA may be comprised of one or more segments of cDNA, genomic DNA or synthetic DNA. 
+ As used herein, the term “isoprenoid” or “terpenoid” refers to the compounds and any molecules derived from the isoprenoid pathway, including 10, 15 and 20 carbon terpenoids and their derivatives, as well as carotenoids and xanthophylls. 
+ The term “Dxs” refers to the enzyme D-1-deoxyxylulose 5-phosphate synthase encoded by the dxs gene which catalyzes the condensation of pyruvate and D-glyceraldehyde 3-phosphate to D-1-deoxyxylulose 5-phosphate (DOXP). 
+ The term “YgbP”, recently renamed as “IspD”, refer to the enzyme encoded by the ispD gene that catalyzes the CTP-dependent cytidylation of 2-C-methyl-D-erythritol-4-phosphate to 4-diphophocytidyl-2C-methyl-D-erythritol. 
+ The term “YgbB” has also been renamed “IspF” and refers to the enzyme encoded by the ispF gene that catalyzes the cyclization with loss of CMP of 4-diphophocytidyl-2C-methyl-D-erythritol to 4-diphosphocytidyl-2C-methyl-D-erythritol-2-phosphate to 2C-methyl-D-erythritol-2,4-cyclodiphosphate. 
+ The term “Idi” refers to the enzyme isopentenyl diphosphate isomerase encoded by the  E. coli  idi gene that converts isopentenyl diphosphate to dimethylallyl diphosphate. 
+ The term “LytB” refers to the enzyme involved in conversion of 2C-methyl-D-erythritol-2,4-cyclodiphosphate to dimethylallyl diphosphate (DMAPP) and isopentenyl diphosphate (IPP) encoded by the IytB gene (recently renamed ispH). 
+ The term “GcpE” refers to the enzyme involved in conversion of 2C-methyl-D-erythritol-2,4-cyclodiphosphate to dimethylallyl diphosphate (DMAPP) and isopentenyl diphosphate (IPP) encoded by the  E. coli  gcpE gene (recently renamed ispG). 
+ The term “IspA” refers to the enzyme FPP synthase encoded by the ispA gene that forms farnesyl pyrophosphate (FPP). 
+ As used herein, the term “pPCB15” refers to the plasmid (SEQ ID NO: 25) comprising the  Pantoea stewarti  β-carotene synthesis genes (crtEXYIB), used as a reporter plasmid for monitoring β-carotene production in recombinant  E. coli.    
+ As used herein, the term “pDCQ108” refers to the plasmid containing β-carotene synthesis genes  Pantoea  crtEXYIB used as a reporter plasmid for monitoring β-carotene production in  E. coli . This plasmid has been previously deposited to the American Type Culture Collection (ATCC PTA4823) in  E. coli  strain WS#208. Briefly, pDCQ108 is a tetracycline resistant derivative of pBHR1-crt1 carrying crtEXYIB gene cluster that produces β-carotene. The tetracycline resistant gene was introduced by in vitro Tn5 insertion using Epicentre EZ-TN<TET> kit (Madison, Wis.). The original kanamycin resistant gene on pBHR-crt1 was partially deleted. 
+ As used herein, the term “pBHR-crt1” refers to a plasmid comprised of the  Pantoea stewartii  (crtEXYIB) gene cluster (U.S. Ser. No. 10/209372; hereby incorporated by reference). Briefly, a 6.3 kb EcoRI fragment containing the crt gene cluster (crtEXYIB) was cloned into broad-host range vector pBHR1 (MoBiTec, LLC, Marco Island, Fla.) to form pBHR-crt1. The  E. coli  strain with pBHR-crt1 containing the wild type crtEXYIB gene cluster produced β-carotene. The chloramphenicol resistance gene promoter on pBHR1 vector directed the functional expression of the crt genes. 
+ As used herein, the term “pKD46” refers to the plasmid (SEQ ID NO: 24; Datseniko and Wanner, supra) having GENBANK® Accession number AY048746. Plasmid pKD46 expresses the components of the λ-Red Recombinase system. 
+ As used herein, the term “expressible DNA fragment” means any DNA that influences phenotypic changes in the host cell. An “expressible DNA fragment” may include for example, DNA comprising regulatory elements, isolated promoters, open reading frames, genes, or combinations thereof. 
+ As used herein, the terms “P T5  promoter” and “P T5 ” refers to the nucleotide sequence that comprises the −10 and −35 consensus sequences, lactose operator (lacO), and ribosomal binding site (rbs) from phage T5 (SEQ ID NO: 15). 
+ As used herein, the term “carotenoid overproducing bacteria” refers to bacteria of the invention which has been genetically modified by the up-regulation or down-regulation of various genes to produce a carotenoid compound a levels greater than the wildtype or unmodified host. 
+ As used herein, the term “ E. coli ” refers to  Escherichia coli  strain K-12 derivatives, such as MG1655 (ATCC 47076) and MC1061 (ATCC 53338). 
+ The term “ Pantoea stewartii  subsp.  stewartii ” is abbreviated as “ Pantoea stewartii ” and is used interchangeably with  Erwinia stewartii  (Mergaert et al.,  Int J. Syst. Bacteriol.,  43:162-173 (1993)). 
+ The term “ Pantoea ananatas ” is used interchangeably with  Erwinia uredovora  (Mergaert et al., supra) 
+ As used herein, the term “ Pantoea  crtEXYIB cluster” refers to a gene cluster containing carotenoid synthesis genes crtEXYIB amplified from  Pantoea stewartii  ATCC 8199. The gene cluster is comprised of the genes crtE, crtX, crtY, crtI, and crtB. The cluster also contains a crtZ gene organized in opposite direction and adjacent to the crtB gene. 
+ As used herein, the term “CrtE” refers to geranylgeranyl pyrophosphate synthase enzyme encoded by crtE gene which converts trans-trans-farnesyl diphosphate+isopentenyl diphosphate to pyrophosphate+geranylgeranyl diphosphate. 
+ As used herein, the term “CrtY” refers to lycopene cyclase enzyme encoded by crtY gene which converts lycopene to β-carotene. 
+ As used herein, the term “CrtI” refers to phytoene dehydrogenase enzyme encoded by crtI gene which converts phytoene into lycopene via the intermediaries of phytofluene, zeta-carotene and neurosporene by the introduction of 4 double bonds 
+ As used herein, the term “CrtB” refers to phytoene synthase enzyme encoded by crtB gene which catalyzes reaction from prephytoene diphosphate (geranylgeranyl pyrophosphate) to phytoene. 
+ As used herein, the term “CrtX” refers to zeaxanthin glucosyl transferase enzyme encoded by crtX gene which converts zeaxanthin to zeaxanthin-β-diglucoside. 
+ As used herein, the term “CrtZ” refers to a carotenoid hydroxylase enzyme (e.g. β-carotene hydroxylase) encoded by the crtZ gene which catalyzes a hydroxylation reaction. The oxidation reaction adds a hydroxyl group to cyclic carotenoids having a β-ionone type ring. This reaction converts cyclic carotenoids, such as β-carotene or canthaxanthin, into the hydroxylated carotenoids zeaxanthin or astaxanthin, respectively. Intermediates in the process typically include β-cryptoxanthin and adonirubin. CrtZ hydroxylases typically exhibit substrate flexibility, enabling production of a variety of hydroxylated carotenoids depending upon the available substrates. 
+ As used herein, the term “CrtW” refers to a β-carotene ketolase enzyme encoded by the crtW gene which catalyzes an oxidation reaction where a keto group is introduced on the β-ionone type ring of cyclic carotenoids. This reaction converts cyclic carotenoids, such as β-carotene or zeaxanthin, into the ketocarotenoids canthaxanthin or astaxanthin, respectively. Intermediates in the process typically include echinenone and adonixanthin. CrtW ketolases typically exhibit substrate flexibility. 
+ As used herein, the terms “upper isoprenoid pathway”, “upper pathway”, “isoprenoid pathway”, and “ E. coli  isoprenoid biosynthetic pathway” will be use interchangeably and will refer to enzymes involved in converting pyruvate and glyceraldehyde-3-phosphate (G3P) to farnesyl pyrophosphate (FPP). These enzymes are encoded by genes that include, but are not limited to: the “dxs” gene (encoding 1-deoxyxylulose-5-phosphate synthase); the “ispC” gene (encoding 1-deoxyxylulose-5-phosphate reductoisomerase; also known at dxr); the “ispD” gene (encoding a 2C-methyl-D-erythritol cytidyltransferase enzyme; also known as ygbP); the “ispE” gene (encoding 4-diphosphocytidyl-2-C-methylerythritol kinase; also known as ychB); the “ispF” gene (encoding a 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase; also known as ygbB); the “pyrG” gene (encoding a CTP synthase); the “ispH” gene (also known as IytB) involved in the formation of dimethylallyl diphosphate; the “ispG” gene (also known as gcpE) involved in the synthesis of 2-C-methyl-D-erythritol 4-phosphate; the “idi” gene (responsible for the intramolecular conversion of IPP to dimethylallyl pyrophosphate); and the “ispA” gene (encoding geranyltransferase or farnesyl diphosphate synthase). As used herein, the terms “lower carotenoid biosynthetic pathway”, “carotenoid biosynthesis pathway”, and “lower pathway” will be used interchangeably and refer to those enzymes which convert FPP to a suite of carotenoids. These enzymes are encoded by genes that include, but are not limited to: crtA, crtB, crtC, crtD, crtE, crtI, crtL, crtM, crtN, crtO, crtR, crtU, crtW, crtX, crtY, and crtZ. Finally, the term “lower carotenoid biosynthetic enzyme” is a term referring to one or more of the enzymes in the present lower pathway including, but not limited to CrtA, CrtB, CrtC, CrtD, CrtE, CrtI, CrtL, CrtM, CrtN, CrtO, CrtR, CrtU, CrtW, CrtX, CrtY, and CrtZ. In the present invention, the “lower pathway” genes necessary to produce β-carotene (crtE, crtY, crtI, and crtB) are expressed on reporter plasmids pPCB15 or pDCQ108. 
+ As used herein, the term “helper plasmid” refers to either pKD46 (encoding λ-Red recombinase) or pCP20 (ATCC PTA-4455; encoding FLP site-specific recombinase (Datsenko and Wanner,  PNAS.  97:6640-6645 (2000)). 
+ As used herein, the terms “λ-Red recombinase system”, “λ-Red system”, and “λ-Red recombinase” are used interchangeably and refer to three essential genes, exo, bet, and gam, that are contained on a helper plasmid, pKD46 (Datsenko and Wanner, supra; SEQ ID NO:24). 
+ As used herein, the term “homology arm” refers to a portion of a nucleic acid molecule having a nucleotide sequence that enables homologous recombination between two nucleic acids having substantially the same nucleotide sequence in a particular region of two different nucleic acids. The preferred size range of the homology arm is from about 10 to about 50 nucleotides in length. 
+ As used herein, the term “triple homologous recombination” in the present invention refers to a genetic recombination between two linear DNA nucleotides and the target chromosome via their homologous sequences resulting in chromosomal integration of two linear nucleic acid molecules into the target of chromosome. 
+ As used herein, the term “site-specific recombinase” is used in the present invention to describe a system comprised of one or more enzymes which recognize specific nucleotide sequences (recombination target sites) and which catalyze recombination between the recombination target sites. Site-specific recombination provides a method to rearrange, delete, or introduce exogenous DNA. Examples of site-specific recombinases and their associated recombination target sites are flippase (FLP/FRT), Cre-lox, R/RS, Gin/gix, Xer/dif, and Int/att. In the present invention, a site-specific recombinase was used to remove selectable markers. Antibiotic resistance markers, flanked on both sides by FRT recombination target sites, are removed by expression of the FLP site-specific recombinase. This method is used so that the numbers of chromosomal modifications necessary for microbial pathway engineering is not limited to the number of available selection markers (Huang et al.,  J. Bacteriol.,  179(19): 6076-6083 (1997)). 
+ As used herein, the terms “transduction” and “generalized transduction” are used interchangeably and refer to a phenomenon in which bacterial DNA is transferred from one bacterial cell (the donor) to another (the recipient) by a phage particle containing bacterial DNA. 
+ As used herein, the terms “P1 donor cell” and “donor cell” are used interchangeably and refer to a bacterial strain susceptible to infection by a bacteriophage or virus, and which serves as a source for the nucleic acid fragments packaged into the transducing particles. Typically, the genetic make up of the donor cell is similar or identical to the “recipient cell” which serves to receive P1 lysate containing transducing phage or virus produced by the donor cell. 
+ As used herein, the terms “P1 recipient cell” and “recipient cell” are used interchangeably and refer to a bacterial strain susceptible to infection by a bacteriophage or virus and which serves to receive lysate containing transducing phage or virus produced by the donor cell. 
+ As used herein, the terms “stacking”, “combinatorial stacking”, “chromosomal stacking”, and “trait stacking” are used interchangeably and refer to the repeated process of stacking multiple genetic traits into one  E. coli  host using the bacteriophage P1 in combination with the site-specific recombinase system for removal of selection markers (U.S. Ser. No. 10/734778; hereby incorporated by reference). 
+ As used herein, the terms “parallel combinatorial fashion” and “combinatorial fashion” are used interchangeably and refer to the P1 transduction with the P1 lysate mixture made from various donor cells, so that multiple genetic traits can be moved to the recipient cell in parallel (U.S. Ser. No. 10/734778). 
+ As used herein, the terms “integration cassette” and “recombination element” refer to a linear nucleic acid construct useful for the transformation of a recombination proficient bacterial host. Recombination elements of the invention may include a variety of genetic elements such as selectable markers, functional DNA fragments, and recombination regions having homology to regions on a bacterial chromosome or on other recombination elements. Functional DNA fragments can include coding sequences, genes, gene clusters, sequences encoding functional RNA, promoters, and other regulatory elements specifically engineered into the recombination element to impart a desired phenotypic change upon recombination. 
+ As used herein, the terms “inter-operon chromosomal integration site” or “inter-operon region” refer to a chromosomal site where integration of exogenous DNA using the current invention is targeted and where integration of the exogenous DNA will not disrupt the functionality of an endogenous operon within the host. 
+ As used herein, the term “carotenoid biosynthesis enzyme” is an inclusive term referring to any and all of the enzymes known to be involved in carotenoid biosynthesis (converting famesyl pyrophosphate to the desired carotenoid end product). These enzymes include, but are not limited to Ald, Sqs, Bkt, CrtA, CrtB, CrtC, CrtD, CrtE, CrtF, CrtI, CrtL, CrtM, CrtN1, CrtN2, CrtN3, CrtO, CrtR, CrtU, CrtW, CrtX, CrtY, and CrtZ. The term “carotenoid biosynthesis gene” is an inclusive term referring to any and all of the genes encoding carotenoid biosynthesis enzymes. These gene include, but are not limited to ald, sqs, bkt, crtA, crtB, crtC, crtD, crtE, crtF, crtI, crtL, crtM, crtN1, crtN2, crtN3, crtO, crtR, crtU, crtW, crtX, crtY, and crtZ. 
+ “Gene” refers to a nucleic acid fragment that expresses a specific protein, including regulatory sequences preceding (5′ non-coding sequences) and following (3′ non-coding sequences) the coding sequence. “Native gene” refers to a gene as found in nature with its own regulatory sequences. “Chimeric gene” refers to any gene that is not a native gene, comprising regulatory and coding sequences that are not found together in nature. Accordingly, a chimeric gene may comprise regulatory sequences and coding sequences that are derived from different sources, or regulatory sequences and coding sequences derived from the same source, but arranged in a manner different than that found in nature. “Endogenous gene” refers to a native gene in its natural location in the genome of an organism. A “foreign” gene refers to a gene not normally found in the host organism, but that is introduced into the host organism by gene transfer. Foreign genes can comprise native genes inserted into a non-native organism, or chimeric genes. A “transgene” is a gene that has been introduced into the genome by a transformation procedure. 
+ The term “genetic construct” is a non-limiting term meaning any contiguous series of nucleic acids capable of being expressed in a host organism. A genetic construct may include but is not limited to an open reading frame, an open reading frame operably linked to regulatory sequences, or a wildtype or mutant gene. Genetic constructs may encode poylpeptides or be nucleic acid fragments or molecules that are oriented for antisense expression. 
+ “Synthetic genes” can be assembled from oligonucleotide building blocks that are chemically synthesized using procedures known to those skilled in the art. These building blocks are ligated and annealed to form gene segments which are then enzymatically assembled to construct the entire gene. “Chemically synthesized”, as related to a sequence of DNA, means that the component nucleotides were assembled in vitro. Manual chemical synthesis of DNA may be accomplished using well-established procedures, or automated chemical synthesis can be performed using one of a number of commercially available machines. Accordingly, the genes can be tailored for optimal gene expression based on optimization of nucleotide sequence to reflect the codon bias of the host cell. The skilled artisan appreciates the likelihood of successful gene expression if codon usage is biased towards those codons favored by the host. Determination of preferred codons can be based on a survey of genes derived from the host cell where sequence information is available. 
+ A nucleic acid molecule is “hybridizable” to another nucleic acid molecule, such as a cDNA, genomic DNA, or RNA, when a single stranded form of the nucleic acid molecule can anneal to the other nucleic acid molecule under the appropriate conditions of temperature and solution ionic strength. Hybridization and washing conditions are well known and exemplified in Sambrook, J., Fritsch, E. F. and Maniatis, T.  Molecular Cloning: A Laboratory Manual , Second Edition, Cold Spring Harbor Laboratory Press, Cold Spring Harbor (1989), particularly Chapter 11 and Table 11.1. The conditions of temperature and ionic strength determine the “stringency” of the hybridization. Stringency conditions can be adjusted to screen for moderately similar fragments, such as homologous sequences from distantly related organisms, to highly similar fragments, such as genes that duplicate functional enzymes from closely related organisms. Post-hybridization washes determine stringency conditions. One set of preferred conditions uses a series of washes starting with 6×SSC, 0.5% SDS at room temperature for 15 min, then repeated with 2×SSC, 0.5% SDS at 45° C. for 30 min, and then repeated twice with 0.2×SSC, 0.5% SDS at 50° C. for 30 min. A more preferred set of stringent conditions uses higher temperatures in which the washes are identical to those above except for the temperature of the final two 30 min washes in 0.2×SSC, 0.5% SDS was increased to 60° C. Another preferred set of highly stringent conditions uses two final washes in 0.1×SSC, 0.1% SDS at 65° C. Hybridization requires that the two nucleic acids contain complementary sequences, although depending on the stringency of the hybridization, mismatches between bases are possible. The appropriate stringency for hybridizing nucleic acids depends on the length of the nucleic acids and the degree of complementation, variables well known in the art. The greater the degree of similarity or homology between two nucleotide sequences, the greater the value of Tm for hybrids of nucleic acids having those sequences. The relative stability (corresponding to higher Tm) of nucleic acid hybridizations decreases in the following order: RNA:RNA, DNA:RNA, DNA:DNA. For hybrids of greater than 100 nucleotides in length, equations for calculating Tm have been derived (see Sambrook et al., supra, 9.50-9.51). For hybridizations with shorter nucleic acids, i.e., oligonucleotides, the position of mismatches becomes more important, and the length of the oligonucleotide determines its specificity (see Sambrook et al., supra, 11.7-11.8). In one embodiment, the length for a hybridizable nucleic acid is at least about 10 nucleotides. Preferably, a minimum length for a hybridizable nucleic acid is at least about 15 nucleotides; more preferably at least about 20 nucleotides; and most preferably the length is at least 30 nucleotides. Furthermore, the skilled artisan will recognize that the temperature and wash solution salt concentration may be adjusted as necessary according to factors such as length of the probe. In one aspect, nucleic acid fragments that hybridize to at least one of the present oleosin genes are suitable in the present methods. 
+ The term “complementary” is used to describe the relationship between nucleotide bases that are capable to hybridizing to one another. For example, with respect to DNA, adenosine is complementary to thymine and cytosine is complementary to guanine. Accordingly, the instant invention also includes isolated nucleic acid fragments that are complementary to the complete sequences as reported in the accompanying Sequence Listing. 
+ The term “percent identity”, as known in the art, is a relationship between two or more polypeptide sequences or two or more polynucleotide sequences, as determined by comparing the sequences. In the art, “identity” also means the degree of sequence relatedness between polypeptide or polynucleotide sequences, as the case may be, as determined by the match between strings of such sequences. “Identity” and “similarity” can be readily calculated by known methods including, but not limited to, those described in:  Computational Molecular Biology  (Lesk, A. M., ed.) Oxford University Press, NY (1988);  Biocomputing: Informatics and Genome Projects  (Smith, D. W., ed.) Academic Press, NY (1993);  Computer Analysis of Sequence Data, Part I  (Griffin, A. M., and Griffin, H. G., eds.) Humana Press, NJ (1994);  Sequence Analysis in Molecular Biology  (von Heinje, G., ed.) Academic Press (1987); and  Sequence Analysis Primer  (Gribskov, M. and Devereux, J., eds.) Stockton Press, NY (1991). Preferred methods to determine identity are designed to give the best match between the sequences tested. Methods to determine identity and similarity are codified in publicly available computer programs. Sequence alignments and percent identity calculations may be performed using the Megalign program of the LASERGENE bioinformatics computing suite (DNASTAR Inc., Madison, Wis.). Multiple alignment of the sequences was performed using the Clustal method of alignment (Higgins and Sharp,  CABIOS.,  5:151-153 (1989)) with the default parameters (GAP PENALTY=10, GAP LENGTH PENALTY=10). Default parameters for pairwise alignments using the Clustal method were KTUPLE=1, GAP PENALTY=3, WINDOW=5 and DIAGONALS SAVED=5. 
+ “Codon degeneracy” refers to the nature in the genetic code permitting variation of the nucleotide sequence without effecting the amino acid sequence of an encoded polypeptide. Accordingly, the present methods use any nucleic acid fragment that encodes the amino acid sequence encoding oleosin polypeptides as set forth in SEQ ID NOs: 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, and 70. The skilled artisan is well aware of the “codon-bias” exhibited by a specific host cell in usage of nucleotide codons to specify a given amino acid. Therefore, when synthesizing a gene for improved expression in a host cell, it is desirable to design the gene such that its frequency of codon usage approaches the frequency of preferred codon usage of the host cell. 
+ As used herein, the term “genetic end product” means the substance, chemical or material that is produced as the result of the activity of a gene product. Typically a gene product is an enzyme and a genetic end product is the product of that enzymatic activity on a specific substrate. A genetic end product may the result of a single enzyme activity or the result of a number of linked activities such as is found in an enzyme pathway. 
+ “Operon”, in bacterial DNA, is a cluster of contiguous genes transcribed from one promoter that gives rise to a polycistronic mRNA. 
+ “Coding sequence” refers to a DNA sequence that codes for a specific amino acid sequence. “Suitable regulatory sequences” refer to nucleotide sequences located upstream (5′ non-coding sequences), within, or downstream (3′ non-coding sequences) of a coding sequence, and which influence the transcription, RNA processing or stability, or translation of the associated coding sequence. Regulatory sequences may include promoters, translation leader sequences, RNA processing sites, effector binding sites, and stem-loop structures. 
+ “Promoter” refers to a DNA sequence capable of controlling the expression of a coding sequence or functional RNA. In general, a coding sequence is located 3′ to a promoter sequence. Promoters may be derived in their entirety from a native gene, or be composed of different elements derived from different promoters found in nature, or even comprise synthetic DNA segments. It is understood by those skilled in the art that different promoters may direct the expression of a gene in different tissues or cell types, or at different stages of development, or in response to different environmental or physiological conditions (“inducible promoters”). 
+ The “3′ non-coding sequences” refer to DNA sequences located downstream of a coding sequence and include sequences encoding regulatory signals capable of affecting mRNA processing or gene expression. 
+ As used herein, the term “operably linked” refers to the association of nucleic acid sequences on a single nucleic acid fragment so that the function of one is affected by the other. For example, a promoter is operably linked with a coding sequence when it is capable of affecting the expression of that coding sequence (i.e., that the coding sequence is under the transcriptional control of the promoter). Coding sequences can be operably linked to regulatory sequences in sense or antisense orientation. 
+ The term “expression”, as used herein, refers to the transcription and stable accumulation of sense (mRNA) or antisense RNA derived from the nucleic acid fragment of the invention. Expression may also refer to translation of mRNA into a polypeptide. 
+ As used herein, “transformation” refers to the transfer of a nucleic acid fragment into the genome of a host organism, resulting in genetically stable inheritance. As used herein, the host cell genome includes both chromosomal or extrachromosomal (i.e. a vector) genes with the host cell. Host organisms containing the transformed nucleic acid fragments are referred to as “transgenic” or “recombinant” or “transformed” organisms. The terms “plasmid”, “vector” and “cassette” refer to an extra chromosomal element often carrying genes which are not part of the central metabolism of the cell, and usually in the form of circular double-stranded DNA fragments. Such elements may be autonomously replicating sequences, genome integrating sequences, phage or nucleotide sequences, linear or circular, of a single- or double-stranded DNA or RNA, derived from any source, in which a number of nucleotide sequences have been joined or recombined into a unique construction. “Transformation cassette” refers to a specific vector containing a foreign gene and having elements in addition to the foreign gene that facilitates transformation of a particular host cell. “Expression cassette” refers to a specific vector containing a foreign gene and having elements in addition to the foreign gene that allow for enhanced expression of that gene in a foreign host. 
+ As used herein, the term “sequence analysis software” refers to any computer algorithm or software program that is useful for the analysis of nucleotide or amino acid sequences. “Sequence analysis software” may be commercially available or independently developed. Typical sequence analysis software will include but is not limited to the GCG suite of programs (Wisconsin Package Version 9.0, Genetics Computer Group (GCG), Madison, Wis.), BLASTP, BLASTN, BLASTX (Altschul et al.,  J. Mol. Biol.  215:403-410 (1990), and DNASTAR (DNASTAR, Inc. 1228 S. Park St. Madison, Wis. 53715 USA), and the FASTA program incorporating the Smith-Waterman algorithm (W. R. Pearson,  Comput. Methods Genome Res. , [Proc. Int. Symp.] (1994), Meeting Date 1992, 111-20. Editor(s): Suhai, Sandor. Publisher: Plenum, New York, N.Y. Within the context of this application it will be understood that where sequence analysis software is used for analysis, that the results of the analysis will be based on the “default values” of the program referenced, unless otherwise specified. As used herein “default values” will mean any set of values or parameters (as set by the software manufacturer) which originally load with the software when first initialized unless otherwise specified. 
+ Standard recombinant DNA and molecular cloning techniques used here are well known in the art and are described by Sambrook, J., Fritsch, E. F. and Maniatis, T.,  Molecular Cloning: A Laboratory Manual , Second Edition, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y. (1989) (hereinafter “Maniatis”); and by Silhavy, T. J., Bennan, M. L. and Enquist, L. W.,  Experiments with Gene Fusions , Cold Spring Harbor Laboratory Cold Press Spring Harbor, N.Y. (1984); and by Ausubel, F. M. et al.,  Current Protocols in Molecular Biology , published by Greene Publishing Assoc. and Wiley-lnterscience (1987). 
+ Oleosins 
+ Many plants store triacylglycerides (TAG) in oil bodies (typically about 0.5 to about 2.0 μm in diameter). Oleosins are “T”-shaped plant proteins responsible for the maintenance of size and structural integrity of oil bodies found in plants (Napier, J. et al., “The Seed Oleosins: Structure, Properties, and Biological Role” in  Advances in Botanical Research  incorporating  Advances in Plant Pathology  Vol 35. 111-138 (2001), Ed. J. Callow, Academic Press Ltd., London, England). Oleosins are alkaline proteins of low molecular mass, typical about 15-26 kDa (Huang, A., “Oil bodies and oleosins in seeds”, in  Annual Review of Plant Physiology and Plant Molecular Biology  Vol. 43:177-200 (1992), Briggs, W., Jones, R., and Walbot, V. (Editors), Annual Reviews Inc., Palo Alto, Calif.). Oleosins are found in all oil-storing seeds. Amino acid sequence analysis of oleosins reveals that they are relatively conserved with most of the similarity present in the central hydrophobic domain of the protein (typically about 68-74 hydrophobic amino acids in length flanked by N- and C-terminal regions that are less hydrophobic and less conserved (Huang, A., supra). The central hydrophobic region is comprised of a highly conserved proline motif (the “proline knot”), providing the turn in α-helices to form an anti-parallel helical structure (Huang, A., supra). The proline knot is comprised of 3 proline residues and at least one serine residue within a 12-14 amino acid sequence forming the loop of the antiparallel β-strand structure. The amino acid sequence of the conserved central hydrophobic region is therefore useful for identifying plant oleosins (SEQ ID NO: 70). 
+ In the present invention, a variety of oleosins were recombinantly expressed in a bacterial host cell engineered to produce hydrophobic/lipophilic compounds. Expression of one or more plant oleosins genes in the host cell resulted in a significant increase (typically at least about 2-fold) in the titer of the measured carotenoid. The effect appears to be associated with the recombinant expression of any oleosin gene. Consequently, any plant oleosin gene is suitable in the present invention. In one embodiment, an oleosin is defined as any protein, natural or synthetic, that includes a 60 to 80 amino acid-long fragment that can be aligned with the sequence segment of the Corn Oleosin Zm-II (GENBANK® accession number P21641; SEQ ID NO: 69) segment extending from position 50 to 120, having more than 25% amino acid identity over that segment and sharing 8 or more of the 13 conserved amino acids listed in Table 9. 
+ Alternatively, oleosins can be identified by the highly conserved “proline knot” structure having the amino acid sequence represented by SEQ ID NO: 70 (“diagnostic amino acid sequence”). As described herein, this sequence is about 14 amino acids in length. Oleosin genes encoding a polypeptide comprised of the “proline knot” diagnostic amino acid sequence are suitable in the present invention. In one embodiment, suitable oleosins genes are those encoding a polypeptide comprised of an amino acid sequence having at least about 50% identity and/or 70% similarity to the diagnostic sequence represented by SEQ ID NO: 70. In another embodiment, suitable oleosins have at least about 55% amino acid sequence identity and/or 75% similarity to SEQ ID NO: 70. In a further embodiment, suitable oleosins have about at least 70% identity and/or 90% similarity to SEQ ID NO: 70. 
+ In another embodiment, suitable oleosin genes encode polypeptides having an amino acid sequence selected from the group consisting of SEQ ID NOs: 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, and 69. 
+ In another embodiment, suitable oleosin genes are comprised of nucleic acid sequences selected from the group consisting of SEQ ID NOs: 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, and 67. 
+ Hydrophilic and Lipophilic Compound Production 
+ The present invention relates to bacteria engineered for the production of hydrophobic and/or lipophilic compounds. Many bacteria, such as  E. coli , have been genetically engineered to produce a variety of hydrophobic/lipophilic compounds. Examples of these compounds include, but are not limited to isoprenoids (including lipid soluble vitamins A, D, E, and K), carotenoids, quinones (i.e. ubiquinones), dolichols (i.e. polyprenols), tocopherols, fatty acids (i.e. omega-3 fatty acids), terpenes (i.e. monoterpenes, sesquiterpenes, diterpenes, and tetraterpenes), steroids, chlorophylles, polyhydroxyalkanoates, natural rubber (cis-polyisoprene), and hydrophobic peptides. Expression of oleosin genes in bacteria is believed to affect the hydrophobic/lipophilic compartment in the cell for example by increasing or stabilizing it. The highly conserved hydrophobic motif characteristic of all oleosins is believed to create an intracellular surface to which the recombinantly produced hydrophobic/lipophilic compounds bind. Expression of the oleosin proteins is believed to facilitate an increase in the hydrophobic/hydrophilic storage capacity of the bacterial cell. 
+ In one aspect, the present method is used to increase the production of hydrophobic and/or lipophilic compounds in a microbial host cell. In another aspect, the hydrophobic/lipophilic compound is an isoprenoid compound. In yet another aspect, the isoprenoid compound is a carotenoid. In a further aspect, the carotenoid is selected from the group consisting of lycopene, β-carotene, zeaxanthin, canthaxanthin, astaxanthin, and lutein. 
+ Carotenoid Biosynthesis 
+ The ability to increase the titer of a hydrophobic/lipophilic compound by recombinantly expressing a plant oleosin in a microbial host cell is exemplified by the increased production of various carotenoids. Carotenoids come in many different forms and chemical structures. Most naturally occurring carotenoids are hydrophobic tetraterpenoids containing a C 40  methyl-branched hydrocarbon backbone derived from successive condensation of eight C 5  isoprene units (isopentenyl pyrophosphate, IPP). The term “carotenoid” actually includes both carotenes and xanthophylls. A “carotene” refers to a hydrocarbon carotenoid. Carotene derivatives that contain one or more oxygen atoms, in the form of hydroxy-, methoxy-, oxo-, epoxy-, carboxy-, or aldehydic functional groups, or within glycosides, glycoside esters, or sulfates, are collectively known as “xanthophylls”. Carotenoids are furthermore described as being acyclic, monocyclic, or bicyclic depending on whether the ends of the hydrocarbon backbones have been cyclized to yield aliphatic or cyclic ring structures (Armstrong, G., supra). 
+ The genetics of carotenoid pigment biosynthesis are well known (Armstrong, G., in  Comprehensive Natural Products Chemistry , Elsevier Press, volume 2, pp 321-352 (1999); Lee, P. and Schmidt-Dannert, C.,  Appl Microbiol Biotechnol,  60:1-11 (2002); Lee et al.,  Chem Biol  10:453-462 (2003)) with a focussed discussion on biosynthesis in plants and nutritional uses by Fraser, P. and Bramley, P. ( Progress in Lipid Research,  43:228-265 (2004)). This pathway is extremely well studied in the Gram-negative, pigmented bacteria of the genera  Pantoea , formerly known as  Erwinia.    
+ Isoprenoids constitute the largest class of natural products in nature, and serve as precursors for sterols (eukaryotic membrane stabilizers), gibberelinns and abscisic acid (plant hormones), menaquinone, plastoquinones, and ubiquinone (used as carriers for electron transport), tetrapyrroles as well as carotenoids and the phytol side chain of chlorophyll (pigments for photosynthesis). All isoprenoids are synthesized via a common metabolic precursor, isopentenyl pyrophosphate (IPP). Until recently, the biosynthesis of IPP was generally assumed to proceed exclusively from acetyl-CoA via the classical mevalonate pathway. However, the existence of an alternative, mevalonate-independent pathway for IPP formation has been characterized for eubacteria and a green alga. 
+ Farnesyl pyrophosphate (FPP) synthesis is common in both carotenogenic and non-carotenogenic bacteria.  E. coli  do not normally contain the genes necessary for conversion of FPP to β-carotene. Because of this, an  E. coli  strain containing a reporter plasmid comprised of the additional genes necessary for β-carotene production was used. Enzymes in the subsequent carotenoid pathway used to generate carotenoid pigments from FPP precursor can be divided into two categories: carotene backbone synthesis enzymes and subsequent modification enzymes. The backbone synthesis enzymes include geranyl-geranyl pyrophosphate synthase (CrtE), phytoene synthase (CrtB), phytoene dehydrogenase (CrtI) and lycopene cyclase (CrtY/L), etc. The modification enzymes include ketolases, hydroxylases, dehydratases, glycosylases, etc. 
+   E. coli  is a convenient host for heterologous carotenoid production. Most of the carotenogenic genes from bacteria, fungi and higher plants can be functionally expressed in  E. coli  (Sandmann, G.  Trends in Plant Science,  6:14-17 (2001)). Further, many genetic tools are available for use in  E. coli  and it is often used as a production host for large-scale bioprocesses. 
+   E. coli  has been recently genetically modified to create several strains capable of enhanced production of β-carotene. One of the strains has been shown to produce up to 6 mg β-carotene per gram of dry cell weight (U.S. Ser. No. 10/734778 and U.S. Ser. No. 10/735442; hereby incorporated by reference). In contrast, engineered strains of  Candida utilis  produce 7.8 mg of lycopene per gram of cell dry weight of lycopene (Sandmann, supra). It has been speculated in the past that the limits for carotenoid production in a non-carotenogenic host such as  E. coli  had been reached at the level of around 1.5 mg/g cell dry weight due to overload of the membranes and blocking of membrane functionality. Because of this, it has been suggested that the future focus of engineering  E. coli  for high levels of carotenoid production should be on formation of additional membranes (Albrecht et al., supra). 
+ It has also been found that over-expression of a certain combination of carotenoid biosynthetic genes, will give an unexpectedly high level of carotenoid end product production. Examples of genes useful in this manner that are part of the isoprenoid/carotenoid biosynthetic pathway include, but are not limited to dxs, ispC, ispD, ispE, ispF, ispG, ispH, idi, ispA, and the ispB gene. When these genes are selectively over expressed under the control of a strong promoter the result is an unexpectedly high level of carotenoid production. It is important to note that it is the combination of the over-expression of these genes that has been shown to give the desired effect. 
+ The enzyme pathway involved in the biosynthesis of carotenoids can be conveniently viewed in two parts, the upper isoprenoid pathway providing for the conversion of pyruvate and glyceraldehyde-3-phosphate to farnesyl pyrophosphate (FPP) and the lower carotenoid biosynthetic pathway, which provides for the synthesis of phytoene and all subsequently produced carotenoids ( FIG. 1 ). The upper pathway is ubiquitous in many non-carotogenic microorganisms and in these cases it will only be necessary to introduce genes that comprise the lower pathway for the biosynthesis of the desired carotenoid. The key division between the two pathways concerns the synthesis of farnesyl pyrophosphate (FPP). Where FPP is naturally present, only elements of the lower carotenoid pathway will be needed. However, it will be appreciated that for the lower pathway carotenoid genes to be effective in the production of carotenoids, it will be necessary for the host cell to have suitable levels of FPP within the cell. Where FPP synthesis is not provided by the host cell, it will be necessary to introduce the genes necessary for the production of FPP. Each of these pathways will be discussed below in detail. 
+ The Upper Isoprenoid Pathway 
+ Isoprenoid biosynthesis occurs through either of two pathways, generating the common C5 isoprene sub-unit, isopentenyl pyrophosphate (IPP). First, IPP may be synthesized through the well-known acetate/mevalonate pathway. However, recent studies have demonstrated that the mevalonate-dependent pathway does not operate in all living organisms. An alternate mevalonate-independent pathway for IPP biosynthesis has been characterized in bacteria and in green algae and higher plants (Horbach et al.,  FEMS Microbiol. Lett.  111:135-140 (1993); Rohmer et al,  Biochem.  295: 517-524 (1993); Schwender et al.,  Biochem.  316: 73-80 (1996); Eisenreich et al.,  Proc. Natl. Acad. Sci. USA  93: 6431-6436 (1996)). 
+ The first step of the pathway involves the condensation of two 3-carbon molecules (pyruvate and D-glyceraldehyde 3-phosphate) to yield a 5-carbon compound known as D-1-deoxyxylulose-5-phosphate. This reaction occurs by the DXS enzyme, encoded by the dxs gene. Next, the isomerization and reduction of D-1-deoxyxylulose-5-phosphate yields 2-C-methyl-D-erythritol-4-phosphate. One of the enzymes involved in the isomerization and reduction process is D-1-deoxyxylulose-5-phosphate reductoisomerase (DXR), encoded by the gene dxr. 2-C-methyl-D-erythritol-4-phosphate is subsequently converted into 4-diphosphocytidyl-2C-methyl-D-erythritol in a CTP-dependent reaction by the enzyme encoded by the non-annotated gene ygbP. Recently, however, the ygbP gene was renamed as ispD as a part of the isp gene cluster (SwissProtein Accession #Q46893). 
+ Next, the 2 nd  position hydroxy group of 4-diphosphocytidyl-2C-methyl-D-erythritol can be phosphorylated in an ATP-dependent reaction by the enzyme encoded by the ychB gene. This product phosphorylates 4-diphosphocytidyl-2C-methyl-D-erythritol, resulting in 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate. The ychB gene was renamed as ispE, also as a part of the isp gene cluster (SwissProtein Accession #P24209). 
+ The product of ygbB gene converts 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate to 2C-methyl-D-erythritol 2,4-cyclodiphosphate. 2C-methyl-D-erythritol 2,4-cyclodiphosphate can be further converted into carotenoids in carotenoid biosynthesis pathway. Recently, ygbB gene was renamed as ispF as a part of isp gene cluster (SwissProt #P36663). The reaction catalyzed by YgbP enzyme is carried out in CTP dependent manner. 
+ The enzymes encoded by the IytB and gcpE genes (and perhaps others) are thought to participate in the reactions leading to formation of isopentenyl pyrophosphate (IPP) and dimethylallyl pyrophosphate (DMAPP). 
+ IPP may be isomerized to DMAPP via IPP isomerase, encoded by the idi gene, however this enzyme is not essential for survival and may be absent in some bacteria using 2-C-methyl-D-erythritol 4-phosphate (MEP) pathway. Recent evidence suggests that the MEP pathway branches before IPP and separately produces IPP and DMAPP via the IytB gene product. A IytB knockout mutation is lethal in  E. coli  except in media supplemented with both IPP and DMAPP. 
+ The synthesis of FPP occurs via the isomerization of IPP to dimethylallyl pyrophosphate. This reaction is followed by a sequence of two prenyltransferase reactions catalyzed by ispA, leading to the creation of geranyl pyrophosphate (GPP; a 10-carbon molecule) and farnesyl pyrophosphate (FPP; a 15-carbon molecule). 
+ The Lower Carotenoid Biosynthetic Pathway 
+ The division between the upper isoprenoid pathway and the lower carotenoid pathway is somewhat subjective. Because FPP synthesis is common in both carotenogenic and non-carotenogenic bacteria, the Applicants consider the first step in the lower carotenoid biosynthetic pathway to begin with the prenyltransferase reaction converting farnesyl pyrophosphate (FPP) to geranylgeranyl pyrophosphate (GGPP). The gene crtE, encoding GGPP synthetase, is responsible for this prenyltransferase reaction which adds IPP to FPP to produce the 20-carbon molecule GGPP. A condensation reaction of two molecules of GGPP occurs to form phytoene (PPPP), the first 40-carbon molecule of the lower carotenoid biosynthesis pathway. This enzymatic reaction is catalyzed by crtB, encoding phytoene synthase. 
+ Lycopene, which imparts a “red” colored spectra, is produced from phytoene through four sequential dehydrogenation reactions by the removal of eight atoms of hydrogen, catalyzed by the gene crtI (encoding phytoene desaturase). Intermediaries in this reaction are phytofluene, zeta-carotene, and neurosporene. 
+ Lycopene cyclase (crtY) converts lycopene to β-carotene. In the present invention, a reporter plasmid is used which produces β-carotene as the genetic end product. However, additional genes may be used to create a variety of other carotenoids. For example as presented later, β-carotene can converted to canthaxanthin by a β-carotene ketolase encoded by the crtW, bkt, or crtO genes. 
+ In one embodiment, the source of crt genes are primarily from  Pantoea stewartii . Sequences of these preferred genes are presented as the following SEQ ID numbers: the crtE gene (SEQ ID NO:1), the crtX gene (SEQ ID NO:3), crtY (SEQ ID NO:5), the crtI gene (SEQ ID NO:7), the crtB gene (SEQ ID NO:9) and the crtZ gene (SEQ ID NO:11). 
+ By using various combinations of the carotenoid biosynthesis genes, innumerable different carotenoids and carotenoid derivatives can be made, provided sufficient sources of FPP are available in the host organism. For example, the gene cluster crtEXYIB enables the production of β-carotene. Addition of the crtZ to crtEXYIB enables the production of zeaxanthin, while the crtEXYIBZO cluster leads to production of astaxanthin and canthaxanthin. 
+ It is envisioned that expression of one or more oleosin genes in the recombinant microbial host cell (capable of producing a carotenoid) will increase the overall titer of any C 30  or C 40  carotenoid compound as defined herein including, but not limited to, antheraxanthin, adonixanthin, astaxanthin, canthaxanthin, capsorubrin, β-cryptoxanthin, didehydrolycopene, didehydrolycopene, β-carotene, γ-carotene, ζ-carotene, δ-carotene, keto-γ-carotene, ψ-carotene, ε-carotene, β,ψ-carotene, torulene, echinenone, gamma-carotene, zeta-carotene, alpha-cryptoxanthin, diatoxanthin, 7,8-didehydroastaxanthin, fucoxanthin, fucoxanthinol, isorenieratene, β-isorenieratene lactucaxanthin, lutein, lycopene, neoxanthin, neurosporene, hydroxyneurosporene, peridinin, phytoene, rhodopin, rhodopin glucoside, siphonaxanthin, spheroidene, spheroidenone, spirilloxanthin, uriolide, uriolide acetate, violaxanthin, zeaxanthin-β-diglucoside, zeaxanthin, tetradehydrolycopene, and C30-carotenoids. 
+ Methods for Optimizing the Carotenoid Biosvnthetic Pathway 
+ Metabolic engineering generally involves the introduction of new metabolic activities into the host organism or the improvement of existing processes by engineering changes such as adding, removing, or modifying genetic elements (Stephanopoulos, G.,  Metab. Eng.,  1: 1-11 (1999)). One such modification relies on genetically engineered modulations of the expression of relevant genes in a metabolic pathway. The effect of oleosin expression using the present methods was measured in microbial strains engineered to produce hydrophobic/lipophilic compounds (i.e. carotenoids). The modifications used to create these strains has been previous reported in copending applications U.S. Ser. Nos. 10/734778 and 10/735442, hereby incorporated by reference. Strong promoters are widely used for overexpression of key genes in a metabolic pathway (U.S. Ser. Nos. 10/734778 and 10/735442). Strong and moderately strong promoters that are useful for expression in  E. coli  include lac, trp, IP L , IP R , T7, tac, T5, and trc. A conventional way to regulate the amount and the timing of protein expression is to use an inducible promoter. An inducible promoter is not always active the way constitutive promoters are (e.g. viral promoters). Some inducible promoters are activated by physical means, such as the heat shock promoter. Other inducible promoters are activated by chemicals such as isopropyl-β-thiogalactopyranoside (IPTG) or Tetracycline (Tet). 
+ Termination control regions may also be derived from various genes native to the preferred hosts. Optionally, a termination site may be unnecessary, however, it is most preferred if included. 
+ Alternatively, it may be necessary to reduce or eliminate the expression of certain genes in the target pathway or in competing pathways that may serve as competing sinks for energy or carbon. Methods of down-regulating genes for this purpose have been explored. Where sequence of the gene to be disrupted is known, one of the most effective methods of gene down-regulation is targeted gene disruption where foreign DNA is inserted into a structural gene so as to disrupt transcription. This can be effected by the creation of genetic cassettes comprising the DNA to be inserted (often a genetic marker) flanked by sequence having a high degree of homology to a portion of the gene to be disrupted. Introduction of the cassette into the host cell results in insertion of the foreign DNA into the structural gene via the native DNA replication mechanisms of the cell or by the λ-Red recombination system used in the present invention. (See for example Hamilton et al.,  J. Bacteriol.,  171:4617-4622. (1989), Balbas et al.,  Gene,  136:211-213. (1993), Gueldener et al.,  Nucleic Acids Res.,  24:2519-2524 (1996), and Smith et al.,  Methods Mol. Cell. Biol.,  5:270-277 (1996)). 
+ Antisense technology is another method of down regulating genes where the sequence of the target gene is known. To accomplish this, a nucleic acid segment from the desired gene is cloned and operably linked to a promoter such that the anti-sense strand of RNA will be transcribed. This construct is then introduced into the host cell and the antisense strand of RNA is produced. Antisense RNA inhibits gene expression by preventing the accumulation of mRNA which encodes the protein of interest. The person skilled in the art will know that special considerations are associated with the use of antisense technologies in order to reduce expression of particular genes. For example, the proper level of expression of antisense genes may require the use of different chimeric genes utilizing different regulatory elements known to the skilled artisan. 
+ Although targeted gene disruption and antisense technology offer effective means of down regulating genes where the sequence is known, other less specific methodologies have been developed that are not sequence based. For example, cells may be exposed to UV radiation and then screened for the desired phenotype. Mutagenesis with chemical agents is also effective for generating mutants and commonly used substances include chemicals that affect non-replicating DNA such as HNO 2  and NH 2 OH, as well as agents that affect replicating DNA such as acridine dyes, notable for causing frame-shift mutations. Specific methods for creating mutants using radiation or chemical agents are well documented in the art. See for example Thomas D. Brock in Biotechnology:  A Textbook of Industrial Microbiology , Second Edition (1989) Sinauer Associates, Inc., Sunderland, Mass.(hereinafter “Brock”), or Deshpande, Mukund V.,  Appl. Biochem. Biotechnol.,  36:227 (1992) (hereinafter “Deshpande”). 
+ Another non-specific method of gene disruption is the use of transposable elements or transposons. Transposons are genetic elements that insert randomly in DNA but can be latter retrieved on the basis of sequence to determine where the insertion has occurred. Both in vivo and in vitro transposition methods are known. Both methods involve the use of a transposable element in combination with a transposase enzyme. When the transposable element or transposon, is contacted with a nucleic acid fragment in the presence of the transposase, the transposable element will randomly insert into the nucleic acid fragment. The technique is useful for random mutageneis and for gene isolation, since the disrupted gene may be identified on the basis of the sequence of the transposable element. Kits for in vitro transposition are commercially available (see for example The Primer Island Transposition Kit, available from Perkin Elmer Applied Biosystems, Branchburg, N.J., based upon the yeast Ty1 element; The Genome Priming System, available from New England Biolabs, Beverly, Mass.; based upon the bacterial transposon Tn7; and the EZ::TN Transposon Insertion Systems, available from Epicentre Technologies, Madison, Wis., based upon the Tn5 bacterial transposable element). Transposon-mediated random insertion in the chromosome can be used for isolating mutants for any number of applications including enhanced production of any number of desired products including enzymes or other proteins, amino acids, or small organic molecules including alcohols. 
+ In the present invention it is preferred if the expressible DNA fragment is a promoter or some coding region useful for modulation of a biosynthetic pathway. Exemplified in the invention is the phage T5 strong promoter (P T5 ) used for the modulation of the isoprenoid biosynthetic pathway in a recombination proficient  E. coli  host (U.S. Ser. Nos. 10/734778 and 10/735442). 
+ Generally, the preferred length of the homology arms is about 10 to about 50 base pairs in length. Given the relatively short lengths of the homology arms used in the present invention for homologous recombination, one would expect that the level of acceptable mismatched sequences should be kept to an absolute minimum for efficient recombination, preferably using sequences which are identical to those targeted for homologous recombination. From 20 to 40 base pairs of homology, the efficiency of homologous recombination increases by four orders of magnitude (Yu et al.,  PNAS.  97:5978-5983. (2000)). Therefore, multiple mismatching within homology arms may decrease the efficiency of homologous. 
+ The incorporation of multiple chromosomal modifications to the isoprenoid pathway genes makes use of a selectable marker on one of the two recombination elements (U.S. Ser. Nos. 10/734778 and 10/735442). The selectable marker is chosen from the group consisting of antibiotic resistance markers, enzymatic markers wherein the expressed marker catalyzes a chemical reaction creating a measurable difference in phenotypic appearance, and amino acid biosynthesis enzymes which enable a normally auxotrophic bacteria to grow without the exogenously supplied amino acid; the amino acid synthesized by the amino acid biosynthesis enzyme. As used herein the markers are flanked by site-specific recombinase recognition sequences. After selection and construct verification, a site-specific recombinase is used to remove the marker. The steps used to make the chromosomal modification can be repeated with additional in vivo chromosomal modifications. Selectable markers are known in the art and include, but are not limited to antibiotic resistance markers such as ampicillin, kanamycin, and tetracycline resistance. Selectable markers may also include amino acid biosynthesis enzymes (for selection of auxotrophs normally requiring the exogenously supplied amino acid of interest) and enzymes which catalyze visible changes in appearance such as β-galactosidase (catalyzes the conversion of Xgal into an easily discernable blue pigment) in lac bacteria. 
+ The integration cassette is bounded by site-specific recombinases for the eventual removal of the selectable marker. Site-specific recombinases, such as the use of “flippase” (FLP) recombinase in the present invention, recognize specific recombination sequences (i.e. FRT sequences) and allow for the excision of the selectable marker. This aspect of the invention enables the repetitive use of the Applicant's process for multiple chromosomal modifications. The method is not limited to the FLP-FRT recombinase system as several examples of site specific recombinases and their associated specific recognition sequences are know in the art. Examples of other suitable site-specific recombinases and their corresponding recognition sequences include: Cre-lox, R/RS, Gin/gix, Xer/dif, Int/att, a pSR1 system, a cer system, and a fim system. 
+ Measurement of the Hydrophobic/Lipophilic End Product 
+ If the desired genetic end product is a colored product (e.g. many carotenoids) then transformants can be selected for on the basis of colored colonies, and the product can be quantitated by UV/vis spectrometry at the product's characteristic λ max  peaks. Alternative analytical methods including, but not limited to HPLC, CE, GC and GC-MS can also be used. 
+ In the present invention, β-carotene and canthaxanthin concentrations were measured by UV/vis spectrometry (using β-carotene's λ max  peak of 450 and canthaxanthin λ max  peak of 480 nm). The carotenoid was extracted by acetone from the cell pellet. The host strain included a reporter plasmid for the up regulation of genes involved in the synthesis of β-carotene or canthaxanthin. The reporter plasmid (pPCB15 or pDCQ108) carried the crtEXYIB gene cluster, facilitating the production of β-carotene. The reporter plasmid pDCQ307 carried the crtEWYIB gene cluster, facilitating the production of canthaxanthin. 
+ For routine measurements, the amount of the carotenoid produced was measured by the ratio of the absorbance of the carotenoid of 1 mL of culture extracted by 1 mL of acetone (OD450 for β-carotene or OD480 for canthaxanthin) to the OD600 of the culture was used as an estimation of the relative carotenoid titers of the engineered strains. 
+ The total carotenoid content of the cells (in grams) contained in 1 mL if culture is calculated by the formula:(Absorbance of carotenoid/Specific absorbance (M-1))×Volume of acetone (L)×Molecular weight (g/mol). 
+ EXAMPLES 
+ The present invention is further defined in the following Examples. It should be understood that these Examples, while indicating preferred embodiments of the invention, are given by way of illustration only. From the above discussion and these Examples, one skilled in the art can ascertain the essential characteristics of this invention, and without departing from the spirit and scope thereof, can make various changes and modifications of the invention to adapt it to various usages and conditions. 
+ General Methods 
+ Standard recombinant DNA and molecular cloning techniques used in the Examples are well known in the art and are described by Sambrook, J., Fritsch, E. F. and Maniatis, T.  Molecular Cloning: A Laboratory Manual ; Cold Spring Harbor Laboratory Press: Cold Spring Harbor, (1989) (Maniatis) and by T. J. Silhavy, M. L. Bennan, and L. W. Enquist,  Experiments with Gene Fusions , Cold Spring Harbor Laboratory, Cold Spring Harbor, N.Y. (1984) and by Ausubel, F. M. et al.,  Current Protocols in Molecular Biology , pub. by Greene Publishing Assoc. and Wiley-Interscience (1987). 
+ Materials and methods suitable for the maintenance and growth of bacterial cultures are well known in the art. Techniques suitable for use in the following examples may be found as set out in  Manual of Methods for General Bacteriology  (Phillipp Gerhardt, R. G. E. Murray, Ralph N. Costilow, Eugene W. Nester, Willis A. Wood, Noel R. Krieg and G. Briggs Phillips, eds), American Society for Microbiology, Washington, D.C. (1994)) or by Thomas D. Brock in  Biotechnology: A Textbook of Industrial Microbiology , Second Edition, Sinauer Associates, Inc., Sunderland, Mass. (1989). All reagents, restriction enzymes and materials used for the growth and maintenance of bacterial cells were obtained from Aldrich Chemicals (Milwaukee, Wis.), DIFCO Laboratories (Detroit, Mich.), GIBCO/BRL (Gaithersburg, Md.), or Sigma Chemical Company (St. Louis, Mo.) unless otherwise specified. 
+ Manipulations of genetic sequences were accomplished using the suite of programs available from the Genetics Computer Group Inc. (Wisconsin Package Version 9.0, Genetics Computer Group (GCG), Madison, Wis.). Where the GCG program “Pileup” was used the gap creation default value of 12, and the gap extension default value of 4 were used. Where the CGC “Gap” or “Bestfit” programs were used the default gap creation penalty of 50 and the default gap extension penalty of 3 were used. Multiple alignments were created using the FASTA program incorporating the Smith-Waterman algorithm (W. R. Pearson,  Comput. Methods Genome Res. , [Proc. Int. Symp.] (1994), Meeting Date 1992, 111-20. Editor(s): Suhai, Sandor. Publisher: Plenum, New York, N.Y.). In any case where program parameters were not prompted for, in these or any other programs, default values were used. 
+ The meaning of abbreviations is as follows: “h” or “hr” means hour(s), “min” means minute(s), “sec” means second(s), “d” means day(s), “μL” mean microliters, “mL” means milliliters, “L” means liters. 
+ Example 1 
+ Cloning of Genes from  Pantoea stewartii    
+ Because of the relatedness between  P. stewartil  and  F. uredovora, P. stewartil  carotenoid synthesis genes can be amplified by PCR using primers based on the published sequence of the  E. uredovora  crt genes (GENBANK® Accession No. D90087, Misawa et al.,  J. Bacteriol ., V172: 6704 (1990)). This was demonstrated previously for the crtE, crtB and crtl genes (Scolinik and Bartley,  Plant Physiol.,  108:1343 (1995)). Using the same approach, primers were designed using the sequence from  Erwinia uredovora  to amplify a fragment by PCR containing the crt genes. These sequences included 5′-3′: 
+               ATGACGGTCTGCGCAAAAAAACACG   SEQ ID NO:13                           GAGAAATTATGTTGTGGATTTGGAATGC   SEQ ID NO:14           
+Chromosomal DNA was purified from  Pantoea stewartii  (ATCC No. 8199) and Pfu Turbo polymerase (Stratagene, La Jolla, Calif.) was used in a PCR amplification reaction under the following conditions: 94° C., 5 min; 94° C. (1 min)−60° C. (1 min)−72° C. (10 min) for 25 cycles, and 72° C. for 10 min. A single product of approximately 6.5 kb was observed following gel electrophoresis. Taq polymerase (Perkin Elmer) was used (10 min, 72° C. reaction) to add 3′ adenosine nucleotides to the end of the PCR fragment which was then ligated into pCR4-TOPO vector (Invitrogen, Carlsbad, Calif.) to produce pPCB13.  E. coli  DH5α (Life Technologies, Rockville, Md.) was transformed by electroporation with the ligation mixture and bright yellow colonies were isolated. Their color indicated the production of a carotenoid compound. Following plasmid isolation as instructed by the manufacturer using the Qiagen (Valencia, Calif.) miniprep kit, the plasmid containing the 6.5 kb amplified fragment was transposed with pGPS1.1 using the GPS-1 Genome Priming System kit (New England Biolabs, Inc., Beverly, Mass.). A number of these transposed plasmids were sequenced from each end of the transposon. Sequence was generated on an ABI Automatic sequencer using dye terminator technology (U.S. Pat. Nos. 5,366,860; EP 272007) using transposon specific primers. Sequence assembly was performed with the Sequencher program (Gene Codes Corp., Ann Arbor, Mich.).
+ 
+ Example 2 
+ Construction of  E. coli  Strains with the Phage T5 Strong Promoter Chromosomally Integrated Upstream of Isoprenoid Genes 
+ The native promoters of the  E. coli  isoprenoid genes, dxs, idi, and ispDispF were replaced with the phage T5 (P T5 ) strong promoter (SEQ ID NO: 15) using the “two PCR-fragments” chromosomal integration method as shown in  FIG. 2 . The two PCR-fragment method used in the present application has been previously described (U.S. Ser. Nos. 10/734778, 10/734936, and 10/735442; hereby incorporated by reference). The method for replacement is based on homologous recombination via the λ Red recombinase encoded on a helper plasmid. Recombination occurs between the  E. coli  chromosome and two PCR fragments that contain 20-50 bp homology patches at both ends of PCR fragments ( FIG. 2 ). For integration of the T5 strong promoter upstream of these genes, a two-PCR-fragment method was employed. In this method, the two fragments were comprised of a linear DNA fragment (1489 bp) containing a kanamycin selectable marker flanked by site-specific recombinase target sequences (FRT) and a linear DNA fragment (154 bp) containing a phage T5 promoter (P T5 ; SEQ ID NO:15) comprising the −10 and −35 consensus promoter sequences, lac operator (lacO), and a ribosomal binding site (RBS). 
+ By using the two PCR fragment method, the kanamycin selectable marker and phage T5 promoter (kan-P T5 ) were cointegrated upstream of the dxs, idi, and ispDF genes, yielding kan-P T5 -dxs, kan-P T5 -idi, and kan-P T5 -ispDF. The linear DNA fragment (1489 bp) which contained a kanamycin selectable marker, flanked by site-specific recombination sequences, was synthesized by PCR from plasmid pKD4 (Datsenko and Wanner,  PNAS.,  97:6640-6645 (2000)) with primer pairs as follows in Table 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 3 
+ 
+ 
+ 
+   
+ 
+ 
+ Primers for Amplification of the Kanamycin 
+   
+ 
+ 
+ Selectable Marker 
+ 
+ 
+ 
+ 
+   
+ SEQ 
+   
+ 
+ 
+   
+ ID 
+   
+ 
+ 
+ 
+ 
+ Primer Name 
+ Primer Sequence 
+ NO: 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 5′-kan(dxs) 
+ 
+ TGGAAGCGCTAGCGGACTACATCATCCAGCGTAA 
+ 
+ 16 
+   
+ 
+ 
+   
+     TAAATAA     CGTCTTGAGCGATTGTGTAG       1   
+ 
+ 
+   
+ 
+ 
+ 5′-kan(idi) 
+ 
+ TCTGATGCGCAAGCTGAAGAAAAATGAGCATGGA 
+ 
+ 17 
+ 
+ 
+   
+     GAATAATATGA     CGTCTTGAGCGATTGTGTAG       1   
+ 
+ 
+   
+ 
+ 
+ 5′-kan(ispDF) 
+ 
+ GACGCGTCGAAGCGCGCACAGTCTGCGGGGCAAA 
+ 
+ 18 
+ 
+ 
+   
+     ACAATCGATAA     CGTCTTGAGCGATTGTGTAG       1   
+ 
+ 
+   
+ 
+ 
+ 3′-kan 
+ 
+ GAAGACGAAAGGGCCTCGTGATACGCCTATTTTT 
+ 
+ 19 
+ 
+ 
+   
+   ATAGGTTA TATGAATATCCTCCTTAGTTCC 2   
+ 
+ 
+   
+ 
+ 
+   1 The underlined sequences illustrate each respective homology arm chosen to match sequences in the upstream region of the chromosomal integration site, while the remainder is the priming sequence) 
+ 
+ 
+   2 The underlined sequences illustrate homology arm chosen to match sequences in the 5′-end region of the T5 promoter DNA fragment 
+ 
+ 
+ 
+ 
+ 
+ The second linear DNA fragment (154 bp) containing a phage T5 promoter was synthesized by PCR from pQE30 (QIAGEN, Inc., Valencia, Calif.) with primer pairs as follows in Table 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 4 
+ 
+ 
+ 
+   
+ 
+ 
+ Primers for Amplification of the T5 
+   
+ 
+ 
+ Promoter 
+ 
+ 
+ 
+ 
+   
+ SEQ 
+   
+ 
+ 
+   
+ ID 
+   
+ 
+ 
+ 
+ 
+ Primer Name 
+ Primer Sequence 
+ NO: 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5′-T5 
+   CTAAGGAGGATATTCATA TAACCTATAAAAATAG 
+ 20 
+   
+ 
+ 
+   
+   GCGTATCACGAGGCCC       1   
+ 
+ 
+   
+ 
+ 
+ 3′-T5(dxs) 
+ 
+ GGAGTCGACCAGTGCCAGGGTCGGGTATTTGGCA 
+ 
+ 21 
+ 
+ 
+   
+     ATATCAAAACTCAT     AGTTAATTTCTCCTCTTTAA       
+   
+ TG             2   
+ 
+ 
+   
+ 
+ 
+ 3′-T5(idi) 
+ 
+ TGGGAACTCCCTGTGCATTCAATAAAATGACGTG 
+ 
+ 22 
+ 
+ 
+   
+     TTCCGTTTGCAT     AGTTAATTTCTCCTCTTTAAT       
+   
+ G             2   
+ 
+ 
+   
+ 
+ 
+ 3′-T5(ispDF) 
+ 
+ CGGCCGCCGGAACCACGGCGCAAACATCCAAATG 
+ 
+ 23 
+ 
+ 
+   
+   AGTGGTTGCCAT AGTTAATTTCTCCTCTTTAAT 
+ 
+ 
+   
+ G 2   
+ 
+ 
+   
+ 
+ 
+   1 The underlined sequences illustrate homology arm chosen to match sequences in the 3′-end region of the kanamycin DNA fragment 
+ 
+ 
+   2 The underlined sequences illustrate each respective homology arm chosen to match sequences in the downstream region of the chromosomal integration site 
+ 
+ 
+ 
+ 
+ 
+ Standard PCR conditions were used to amplify the linear DNA fragments with AmpliTaq Gold® polymerase (Applied Biosystems, Foster City, Calif.) as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ PCR reaction: 
+ PCR reaction mixture: 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ Step 1 94° C. 3 min 
+ 0.5 
+ μL plasmid DNA 
+ 
+ 
+ Step 2 93° C. 30  sec   
+ 5 
+ μL 10X  PCR buffer       
+ Step        3 55° C. 1 min 
+ 1 
+ μL dNTP mixture (10 mM) 
+ 
+ 
+ Step 4 72° C. 3 min 
+ 1 
+   μL  5′-primer (20 μM) 
+ 
+ 
+   Step  5 Go To Step2, 30 cycles 
+ 1 
+   μl  3′-primer (20 μM) 
+ 
+ 
+ Step 6 72° C. 5 min 
+ 0.5 
+ μL AmpliTaq Gold ® polymerase 
+ 
+ 
+   
+ 41 
+ μL sterilized dH 2 O 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ After completing the PCR reactions, 50 μL of each PCR reaction mixture was run on a 1% agarose gel and the PCR products were purified using the QIAquick Gel Extraction Kit™ as per the manufacturer's instructions (Cat. # 28704, QIAGEN). The PCR products were eluted with 10 μL of distilled water. The DNA Clean & Concentrator™ kit (Zymo Research, Orange, Calif.) was used to further purify the PCR product fragments as per the manufacturer's instructions. The PCR products were eluted with 6-8 μL of distilled water to a concentration of 0.5-1.0 μg/μL. 
+ The  E. coli  MC1061 strain, carrying a λ Red recombinase expression plasmid pKD46 (amp R ) (Datsenko and Wanner, supra; SEQ ID NO: 24), was used as a host strain for the chromosomal integration of the PCR fragments. The strain was constructed by transformation of  E. coli  strain MC1061 with the λ Red recombinase expression plasmid, pKD46 (amp R ). The λ-Red recombinase in pKD46 is comprised of three genes exo, bet, and gam expressed under the control of an arabinose-inducible promoter. Transformants were selected on 100 μg/mL of ampicillin LB plates at 30° C. 
+ For transformation, electroporation was performed using 5-10 μg of the purified PCR products carrying the kanamycin marker and phage T5 promoter. Approximately one-half of the cells transformed were spread on LB plates containing 25 μg/mL of kanamycin in order to select antibiotic-resistant transformants. After incubating the plate at 37° C. overnight, antibiotic-resistance transformants were selected as follows: 10 colonies of kan-P T5 -dxs, 12 colonies of kan-P T5 -idi, and 10 colonies of kan-P T5 -ispDF. 
+ PCR analysis was used to confirm the integration of both the kanamycin selectable marker and the phage T5 promoter (P T5 )(SEQ ID NO:15) in the correct location on the  E. coli  chromosome. For PCR, a colony was resuspended in 50 μL of PCR reaction mixture containing 200 μM dNTPs, 2.5 U AmpliTaq™ (Applied Biosytems), and 0.4 μM of specific primer pairs. Test primers were chosen to match sequences of the regions located in the kanamycin (5′-primer) and the early coding-region of each isoprenoid gene (3′-primer). The PCR reaction was performed as described in above. The resultant  E. coli  strains carrying each kan-P T5 -isoprenoid gene fusion on the chromosome were used for stacking 
+ Example 3 
+ Construction of  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF Strain 
+   E. coli  P T5 -dxs P T5 -idi P T5 -ispDF, was constructed as follows. 
+ First, P1 lysate of the  E. coli  kan-P T5 -dxs strain was prepared by infecting a growing culture of bacteria with the P1 phage and allowing the cells to lyse. For P1 infection,  E. coli  kan-P T5 -dxs strain was inoculated in 4 mL LB medium with 25 μg/mL kanamycin, grown at 37° C. overnight, and then sub-cultured with 1:100 dilution of an overnight culture in 10 mL LB medium containing 5 mM CaCl 2 . After 20-30 min of growth at 37° C., 10 7  P1 vir  phages were added. The cell-phage mixture was aerated for 2-3 h at 37° C. until lysed, several drops of chloroform were added and the mixture vortexed for 30 sec and incubated for an additional 30 min at room temp. The mixture was then centrifuged for 10 min at 4500 rpm, and the supernatant transferred into a new tube to which several drops of chloroform were added. 
+ Second, P1 lysate made on  E. coli  kan-P T5 -dxs strain was transduced into the recipient strain,  E. coli  MG1655 containing a β-carotene biosynthesis expression plasmid pPCB 15 (cam R ). Plasmid pPCB15 (cam R ) (SEQ ID NO: 25) encodes the carotenoid biosynthesis gene cluster (crtEXYIB) from  Pantoea Stewartii  (ATCC 8199). Plasmid pPCB15 was constructed from ligation of SmaI digested pSU18 (Bartolome, B. et al.,  Gene,  102:75-78 (1991)) vector with a blunt-ended Pmel/Notl fragment carrying crtEXYIB from pPCB13. The  E. coli  MG1655 pPCB15 recipient cells were grown to mid-log phase (1-2×10 8  cells/mL) in 4 mL LB medium with 25 μg/mL chloramphenicol at 37° C. Cells were spun down for 10 min at 4500 rpm and resuspended in 2 mL of 10 mM MgSO 4  and 5 mM CaCl 2 . Recipient cells (100 μL) were mixed with 1 μL, 10 μL, or 100 μL of P1 lysate stock (10 7  pfu/μL) made from the  E. coli  kan-P T5 -dXS strain and incubated at 30° C. for 30 min. The recipient cell-lysate mixture was spun down at 6500 rpm for 30 sec, resuspended in 100 μL of LB medium with 10 mM of sodium citrate, and incubated at 37° C. for 1 h. Cells were plated on LB plates containing both 25 μg/mL kanamycin and 25 μg/mL chloramphenicol in order to select for antibiotic-resistant transductants, and incubated at 37° C. for 1 or 2 days. Sixteen kanamycin-resistance transductants were selected. 
+ To eliminate kanamycin selectable marker from the chromosome, a FLP recombinase expression plasmid pCP20 (amp R ) (ATCC PTA-4455) (Cherepanov and Wackernagel,  Gene,  158:9-14 (1995)), which has a temperature-sensitive replication of origin, was transiently transformed into one of the kanamycin-resistant transductants by electroporation (see U.S. Ser. Nos. 10/734778 and 10/735442). Cells were spread onto LB agar containing 100 μg/mL ampicillin and 25 μg/mL chloramphenicol LB plates, and grown at 30° C. for 1 day. Colonies were picked and streaked on 25 μg/mL chloramphenicol LB plates without ampicillin antibiotics and incubated at 43° C. overnight. Plasmid pCP20 has a temperature sensitive origin of replication and was cured from the host cells by culturing cells at 43° C. The colonies were tested for ampicillin and kanamycin sensitivity to test loss of pCP20 and kanamycin selectable marker by streaking colonies on 100 μg/mL ampicillin LB plate or 25 μg/mL kanamycin LB plate. In this manner, the  E. coli  P T5 -dxs strain was constructed. 
+ In order to stack kan-P Tf -idi on the chromosome of  E. coli  P T5 -dxs, P1 lysate made on  E. coli  kan-P T5 -idi strain was transduced into the recipient strain,  E. coli  P T5 -dxs, as described above in copending applications number (U.S. Ser. Nos. 10/734778; hereby incorporated by reference). Approximately 450 kanamycin-resistance transductants were selected. After transduction, the kanamycin selectable marker was eliminated from the chromosome as described above, yielding  E. coli  P T5 -dxs P T5 -idi strain. 
+ P T5 -ispDF gene cluster was further stacked into the  E. coli  P T5 -dxs P T5 -idi strain by P1 transduction in combination with the FLP recombination system (U.S. Ser. No. 10/734778). P1 lysate was with  E. coli  kan-P T5 -ispDF strain was transduced into the recipient strain,  E. coli  kan-P T5 -dxs kan-P T5 -idi containing a β-carotene biosynthesis expression plasmid pPCB15 (cam R ), as described above. Twenty-one kanamycin-resistance transductants were selected. The kanamycin selectable marker was eliminated from the chromosome of the transductants using a FLP recombinase expression system, yielding  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain. 
+ For the  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain, the correct integration of the phage T5 promoter upstream of dxs, idi and ispDF genes on the  E. coli  chromosome, and elimination of the kanamycin selectable marker, were confirmed by PCR analysis. A colony of the  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain was tested by PCR with different combination of specific primer pairs, T-kan (5′-ACCGGATATCACCACTTATCTGCTC-3′; SEQ ID NO: 26) and B-dxs (5′-TGGCMCA GTCGTAGCTCCTGGGTGG-3′; SEQ ID NO: 27), T-T5 (5′-TAACCTATAAAAATAGGCGTATCACGAGGCCC-3′; SEQ ID NO: 28) and B-dxs, T-kan and B-idi (5′-TCATGCTGACCTGGTGMGGAATCC-′3; SEQ ID NO: 29), T-T5 and B-idi, T-kan and B-ispDF (5′-CCAGCAGCGCATGCACCGAGTGTTC-3′; SEQ ID NO: 30), T-T5 and B-ispDF. Test primers were chosen to amplify regions located either in the kanamycin or the phage T5 promoter and the downstream region of the chromosomal integration site. The PCR reaction was performed as described in Example 1. The PCR results indicated the elimination of the kanamycin selectable marker from the  E. coli  chromosome. The chromosomal integration of the phage T5 promoter fragment upstream of the dxs, idi, and ispDF genes was confirmed based on the expected sizes; of PCR products, 229 bp, 274 bp, and 296 bp, respectively. 
+ Example 4 
+ Transformation of pDCQ108 into  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF Strain 
+ The low copy number plasmid pPCB15 (SEQ ID NO: 25) containing β-carotene synthesis genes Pantoea crtEXYIB, used as a reporter plasmid for monitoring β-carotene production in  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF was replaced with the medium copy number plasmid pDCQ108 (ATCC PTA-4823) containing β-carotene synthesis genes  Pantoea  crtEXYIB. The plasmid pPCB15 was eliminated form the  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain by streaking on LB plate, incubating at 37° C. for 2 days, and picking up a white-colored colony. 
+ The plasmid pDCQ108 (tet R ) (ATCC PTA-4823) was transformed into  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain that contains no plasmid. Electroporation was performed by using a Bio-Rad Gene Pulser set at 1.8 kV, 25 μF with the pulse controller set at 200 ohms. SOC medium (1 mL) was added after electroporation. The cells were incubated at 37° C. for 1 hr, and were spread on LB plates containing both 25 μg/ml tetracycline LB plates at 37° C. Transformants were selected on 25 μg/mL of tetracycline LB plates after growing at 37° C. overnight. The resultant transformants were the  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain carrying pDCQ108. This strain is identified as strain WS185. 
+ Example 5 
+ Synthesis of A Gene Encodinq a β-carotene Ketolase 
+   Agrobacterium aurantiacum  is a marine bacterium that naturally produces astaxanthin. The carotenoid biosynthesis gene cluster in  A. aurantiacum  contains the β-carotene ketolase gene crtW and the β-carotene hydroxylase gene crtZ (Misawa et al.,  J. Bacteriol.,  177:6575-6584 (1995). The sequence of the wild type crtW gene from  Agrobacterium aurantiacum  is SEQ ID NO: 31 (U.S. Pat. No. 5,972,690; GENBANK® D58420). A synthetic gene (SEQ ID NO: 32) with a different codon usage (codon optimized for expression in  Methylomonas  sp. 16a; ATCC PTA-2402; U.S. Ser. No. 10/997,844; hereby incorporated by reference) but encoding for the same protein was constructed by Aptagen Inc. (Hemdon, Va.) and cloned onto the pCRScript vector to form pCRScript-Dup 1. The ribosomal binding site (RBS) was engineered upstream of the start codon as the RBS sequence from pTrcHis2-TOPO vector (Invitrogen, Carlsbad, Calif.). Several restriction sites were also engineered at the 5′ and 3′ ends of the genes to facilitate cloning. None of the modifications in the codon-optimized gene changed the amino acid sequence of the encoded ketolase protein (SEQ ID NO: 33). 
+ Example 6 
+ Construction of Canthaxanthin Expression Plasmid pDCQ307 
+ The purpose of this Example was to prepare a canthaxanthin expression plasmid, referred to herein as pDCQ307. This canthaxanthin-producing plasmid was prepared by coupling the codon-optimized crtW gene (SEQ ID NO: 32) described in Example 5, to a β-carotene synthesis gene cluster. The crtW gene was cloned downstream of crtE in the reorganized crtEYIB cluster from  P. stewartii  ATCC8199 to form the operon crtEWYIB. 
+   Pantoea stewartii  ATCC #8199 (WO 03/016503) contains the natural gene cluster crtEXYIBZ. The genes required for β-carotene synthesis (i.e., crtE and crtYIB) were joined together by PCR. Specifically, the crtE gene (SEQ ID NO: 1) and crtYIB genes (SEQ ID NO:34) were each amplified using chromosomal DNA as template and the primers given in Table 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 5 
+ 
+ 
+ 
+   
+ 
+ 
+ Primers Used for Creation of the crtEYIB 
+   
+ 
+ 
+ Reporter Construct 
+ 
+ 
+ 
+ 
+ Gene(s) 
+ Forward Primer* 
+ Reverse Primer 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ crtE 
+ pBHRcrt_1F: 
+ pBHRcrt_1R: 
+   
+ 
+ 
+   
+ 5′-   GAATTC     GCCCTTGACGGT   
+ 5′-CGGTTGCATAATCCTGCC 
+ 
+ 
+   
+ CT-3′ 
+ CACT CAATTG TTAACTGACGG 
+ 
+ 
+   
+ (SEQ ID NO:35) 
+ CAGCGAGTTTT-3′ 
+ 
+ 
+   
+   
+ (SEQ ID NO:36) 
+ 
+ 
+   
+ 
+ 
+ crtYIB 
+ pBHRcrt_2F: 
+ pBHRcrt_2R: 
+ 
+ 
+   
+ 5′- AAAACTCGCTGCCGTCAG   
+ 5′-GGTACCTAGATCGGGCGC 
+ 
+ 
+   
+ TTAA CAATTG AGTGGGCAGGA 
+ TGCCAGA-3′ 
+ 
+ 
+   
+ TTATGCAACCG-3′ 
+ (SEQ ID NO:38) 
+ 
+ 
+   
+ (SEQ ID NO:37) 
+ 
+ 
+   
+ 
+ 
+ *Note: 
+ 
+ 
+ Underlined portions within each primer correspond to restriction sites for EcoRI, MfeI. 
+ 
+ 
+ 
+ 
+ 
+ The PCR reactions were performed with Pfu DNA polymerase in buffer supplied by the manufacturer containing dNTPs (200 μM of each). Parameters for the thermocycling reactions were: 92° C. (5 min), followed by 30 cycles of: 95° C. (30 sec), 55° C. (30 sec), and 72° C. (5 min). The reaction concluded with 1 cycle at 72° C. for 10 min. The two PCR products were gel purified and joined together by a subsequent PCR reaction using the primers pBHRcrt — 1F (SEQ ID NO:35) and pBHRcrt — 2R (SEQ ID NO:38). Parameters for the thermocycling reaction were: 95° C. (5 min), followed by 20 cycles of: 95° C. (30 sec), 55° C. (1 min) and 72° C. (8 min). A final elongation step at 72° C. for 10 min completed the reaction. The final 4511 bp PCR product was cloned into the pTrcHis2-Topo vector (Invitrogen, Carlsbad, Calif.) in the forward orientation, resulting in plasmid pDCQ300. The ˜4.5 kB EcoRI fragment of pDCQ300 containing the crtEYIB gene cluster was ligated into the unique EcoRI site of vector pBHR1 (MoBiTec GmbH, Goettingen, Germany), to create construct pDCQ301. In pDCQ301, a unique Mfel site was engineered in the intergenic region of crtE and crtY. 
+ The ˜0.8 kB EcoRI fragment of pCRScript-Dup1, prepared as described in Example 5, containing the synthetic codon-optimized crtW gene was ligated to the unique MfeI site in pDCQ301. In the resulting construct pDCQ307, the crtEWYIB genes were under the control of the chloramphenicol resistant gene promoter of the vector. 
+ Example 7 
+ Transformation of pDCQ307 into  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF Strain 
+ The plasmid pDCQ307 (Kan R ) was transformed into  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain that contains no plasmid. Electro-transformation was performed as described in Example 4. Transformants were selected on 25 μg/mL of kanamycin LB plates at 37° C. The resultant transformants were the  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF strain carrying pDCQ307. This strain is identified as strain WS384. 
+ Example 8 
+ Measurement of Carotenoid Production in  E. coli  P T5 -dxs P T5 -idi P T5 -ispDF Strain 
+ The production of carotenoids in the chromosomally engineered β-carotene producing  E. coli  strain WS185 (pDCQ108, P T5 -dxs P T5 -idi P T5 -ispDF) and the canthaxanthin producing  E. coli  strain WS384 (pDCQ307, P T5 -dxs P T5 -idi P T5 -ispDF) was quantified following spectrophotometrically. The quantitative analysis of β-carotene production was achieved by measuring the spectra of β-carotene's characteristic λ max  peak of greatest absorption at 450 nm and that of canthaxathin at 480 nm. Cells from 1-mL of culture were harvested by centrifugation (3 min at 16,000 g) and the supernatant removed completely. Carotenoid pigment was extracted by 1 mL of acetone. The cell suspension was agitated by vortexing for 1 min and then rocking for 1 hour at room temperature. Cell debris were removed by centrifugation for 5 min at 16,000×g and the absorption of the acetone layer containing the carotenoid was measured at the appropriate wavelength (β-carotene at 450 nm, canthaxanthin at 480 nm) using an Ultrospec 3000 spectrophotometer (Amersham Biosciences, Piscataway, N.J.). The amounts of carotenoids were derived from the specific absorbance of each carotenoid (138,900 M −1  for β-carotene at 450 nm, MW=537) and 132,740 M −1  at 480 for canthaxanthin (MW=565) (in  Carotenoids , Vol 1B Spectroscopy, Britton et al. Editors, Birkhäuser publisher, 13-62, (1995)). 
+ Cell mass was obtained by measuring the dry cell weight of cells filtered and dried overnight at 130° C. from 25 mL of cultures grown for 12 or 24 hr and expressing various levels of carotenoids. The correlation of ˜0.31+/−0.2 mg dry cell weight for 1 mL of culture with an optical density of 1 OD 600  was determined. 
+ For routine analysis, the ratio of the absorbance of the carotenoid of 1 mL of culture extracted by 1 mL of acetone (OD450 for β-carotene or OD480 for canthaxanthin) to the OD600 of the culture was used as an estimation of the relative carotenoid titers of the engineered strains. 
+ The total carotenoid content of the cells (in grams) contained in 1 mL is calculated by the formula:
+ 
+(Absorbance of carotenoid/Specific absorbance (M −1 ))×Volume of acetone (L)×Molecular weight (g mol −1 ).
+ 
+ A value of OD450 of 0.1 corresponds to 0.39 μg of β-carotene and a value of OD480 of 0.1 corresponds to 0.42 μg of canthaxanthin. Similarly, a ratio OD450/OD600 of 0.1 correspond to approximately 1,260 μg of β-carotene/g of dry cell weight and a ratio of OD480/OD600 of 0.1 correspond to approximately 1,260 μg of canthaxanthin/g of dry cell weight. 
+ Example 9 
+ Identification of New Oleosin Genes and Peptide Sequences 
+ Oleosin genes were identified in a database of proprietary plant cDNA sequences on the basis of sequence similarity. The amino acid sequence of the  Theobroma cacao  oleosin GENBANK® accession number AAM46777) as well as of the  Perilla frutescens  oleosin (GENBANK® accession number AAG24455) were compared to the sequences of plant cDNA clones translated in the six frames using the TBlastN algorithm (Altschul, S. et al.,  Nucleic Acids Res.,  25 :3389-3402 (1997)). 
+ Fifteen full-length clones encoding distinct oleosins and oleosins not already identified in public databases (GENBANK®) were chosen and are described in Table 6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 6 
+ 
+ 
+ 
+   
+ 
+ 
+ Name and source of clones encoding new oleosin genes 
+ 
+ 
+ 
+ 
+ Database clone 
+   
+ Clone 
+ Nucleotide 
+ Amino Acid 
+ 
+ 
+ name 
+ Source 
+ name 
+ SEQ ID NO. 
+ SEQ ID NO. 
+ 
+ 
+   
+ 
+ 
+ lds3c.pk011.e15 
+ Guar 
+ OL3 
+ 39 
+ 40 
+ 
+ 
+ ceb7f.pk004.b6a 
+ Corn 
+ OL4 
+ 41 
+ 42 
+ 
+ 
+ ece1c.pk006.p7 
+ Castorbean 
+ OL5 
+ 43 
+ 44 
+ 
+ 
+ ece1c.pk003.i24 
+ Castorbean 
+ OL6 
+ 45 
+ 46 
+ 
+ 
+ vmb1na.pk002.f2 
+ Grape 
+ OL7 
+ 47 
+ 48 
+ 
+ 
+ eas1c.pk003.l3 
+ Amaranth 
+ OL8 
+ 49 
+ 50 
+ 
+ 
+ ncs.pk0006.a2 
+ 
+ Catalpa 
+ 
+ OL9 
+ 51 
+ 52 
+ 
+ 
+ vs1.pk0015.b7 
+ 
+ Vernonia 
+ 
+ OL11 
+ 53 
+ 54 
+ 
+ 
+ egh1c.pk003.h3 
+ Cotton 
+ OL16 
+ 55 
+ 56 
+ 
+ 
+ ecs1c.pk007.g10 
+ Marigold 
+ OL17 
+ 57 
+ 58 
+ 
+ 
+ fds1n.pk018.c6 
+ 
+ Momordica 
+ 
+ OL18 
+ 59 
+ 60 
+ 
+ 
+ pps.pk0001.f6 
+ 
+ Pricamnia 
+ 
+ OL19 
+ 61 
+ 62 
+ 
+ 
+ sdp2c.pk001.o14 
+ Soy 
+ OL20 
+ 63 
+ 64 
+ 
+ 
+ hls1c.pk009.c7 
+ Sunflower 
+ OL23 
+ 65 
+ 66 
+ 
+ 
+ fds1n.pk018.l23 
+ Pear 
+ OL24 
+ 67 
+ 68 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ All comparisons were done using either the BLASTNnr or BLASTXnr algorithm. The results of the BLAST comparisons are given in Table 7 which summarize the sequence to which each sequence has the most similarity. Table 7 displays data based on the BLASTX nr algorithm with values reported in expect values. The “expect value” estimates the statistical significance of the match, specifying the number of matches, with a given score, that are expected in a search of a database of this size absolutely by chance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 7 
+ 
+ 
+ 
+   
+ 
+ 
+ BLAST Analysis to Publicly Available Sequences 
+ 
+ 
+ 
+ 
+ Clone Name 
+   
+ Polypeptide 
+ GENBANK ® 
+   
+   
+   
+   
+   
+ 
+ 
+ — 
+ Organism of 
+ Length 
+ Entry to Highest 
+ SEQ ID 
+ SEQ ID 
+ % 
+ % 
+ E- 
+ 
+ 
+ Short name 
+ Isolation 
+ (amino acids) 
+ Similarity Identified 
+ Base 
+ Peptide 
+ Identity a   
+ Similarity b   
+ value c   
+ 
+ 
+   
+ 
+ 
+ lds3c.pk011.e15 
+ Guar 
+ 163 
+ AAM46778.1 
+ 39 
+ 40 
+ 68 
+ 79 
+ 2e−44 
+ 
+ 
+ — 
+ ( Cyamposis ) 
+   
+ 15.8 kDa oleosin 
+ 
+ 
+ OL3 
+   
+   
+ [ Theobroma cacao ] 
+ 
+ 
+ ceb7f.pk004.b6a 
+ Corn 
+ 186 
+ A35040 
+ 41 
+ 42 
+ 92 
+ 92 
+ 4e−85 
+ 
+ 
+ — 
+ ( Zea ) 
+   
+ 18 kDa Oleosin Zm-II 
+ 
+ 
+ OL4 
+   
+   
+ [ Zea mays ] 
+ 
+ 
+ ece1c.pk006.p7 
+ Castorbean 
+ 148 
+ AAM46778.1 
+ 43 
+ 44 
+ 60 
+ 75 
+ 8e−46 
+ 
+ 
+ — 
+ ( Ricinus ) 
+   
+ 15.8 kDa oleosin 
+ 
+ 
+ OL5 
+   
+   
+ [ Theobroma cacao ] 
+ 
+ 
+ ece1c.pk003.i24 
+ Castorbean 
+ 153 
+ AM46777.1 
+ 45 
+ 46 
+ 55 
+ 73 
+ 2e−42 
+ 
+ 
+ — 
+ ( Ricinus ) 
+   
+ 16.9 kDa oleosin 
+ 
+ 
+ OL6 
+   
+   
+ [ Theobroma cacao ] 
+ 
+ 
+ vmb1na.pk002.f2 
+ Grape 
+ 133 
+ CAA88360.1 
+ 47 
+ 48 
+ 62 
+ 75 
+ 1e−35 
+ 
+ 
+ — 
+ ( Vitis ) 
+   
+ Oleosin-like protein 
+ 
+ 
+ OL7 
+   
+   
+ [ Citrus sinensis ] 
+ 
+ 
+ eas1c.pk003.l3 
+ Amaranth 
+ 140 
+ CAA88360.1 
+ 49 
+ 50 
+ 70 
+ 85 
+ 3e−45 
+ 
+ 
+ — 
+ ( Amaranthus ) 
+   
+ Oleosin-like protein 
+ 
+ 
+ OL8 
+   
+   
+ [ Citrus sinensis ] 
+ 
+ 
+ ncs.pk0006.a2 
+ Catalpa 
+ 141 
+ AAB58402.1 
+ 51 
+ 52 
+ 78 
+ 89 
+ 5e−50 
+ 
+ 
+ — 
+ ( Catalpa ) 
+   
+ 15.5 kDa oleosin 
+ 
+ 
+ OL9 
+   
+   
+ [ Sesamum indicum ] 
+ 
+ 
+ vs1.pk0015.b7 
+ Vernonia 
+ 202 
+ CAA44224.1 
+ 53 
+ 54 
+ 66 
+ 79 
+ 1e−51 
+ 
+ 
+ — 
+ ( Vernonia ) 
+   
+ Oleosin 
+ 
+ 
+ OL11 
+   
+   
+ [ Helianthus annuus ] 
+ 
+ 
+ egh1c.pk003.h3 
+ Cotton 
+ 154 
+ AAA18523.1 
+ 55 
+ 56 
+ 98 
+ 98 
+ 2e−79 
+ 
+ 
+ — 
+ ( Gossypium ) 
+   
+ 16.4 kDa Oleosin 
+ 
+ 
+ OL16 
+   
+   
+ [ Gossypium hirsutum ] 
+ 
+ 
+ ecs1c.pk007.g10 
+ Marigold 
+ 216 
+ CAA44224.1 
+ 57 
+ 58 
+ 78 
+ 90 
+ 7e−44 
+ 
+ 
+ — 
+ ( Tagates ) 
+   
+ Oleosin 
+ 
+ 
+ OL17 
+   
+   
+ [ Helianthus annuus ] 
+ 
+ 
+ fds1n.pk018.c6 
+ Momordica 
+ 185 
+ AAM46777.1 
+ 59 
+ 60 
+ 55 
+ 71 
+ 3e−45 
+ 
+ 
+ — 
+ ( Momordica ) 
+   
+ 16.9 kDa oleosin 
+ 
+ 
+ OL18 
+   
+   
+ [ Theobroma cacao ] 
+ 
+ 
+ pps.pk0001.f6 
+ Pricamnia 
+ 135 
+ AAB24078.1 
+ 61 
+ 62 
+ 61 
+ 76 
+ 4e−35 
+ 
+ 
+ — 
+ ( Pricamnia ) 
+   
+ Llipid body membrane protein 
+ 
+ 
+ OL19 
+   
+   
+ [ Daucus carota ] 
+ 
+ 
+ sdp2c.pk001.o14 
+ Soy 
+ 166 
+ AAM46778.1 
+ 63 
+ 64 
+ 66 
+ 77 
+ 3e−44 
+ 
+ 
+ — 
+ ( Glycine ) 
+   
+ 15.8 kDa oleosin 
+ 
+ 
+ OL20 
+   
+   
+ [ Theobroma cacao ] 
+ 
+ 
+ hls1c.pk009.c 
+ Sunflower 
+ 176 
+ S51940 
+ 65 
+ 66 
+ 67 
+ 77 
+ 2e−43 
+ 
+ 
+ — 
+ ( Helianthus ) 
+   
+ Oleosin 
+ 
+ 
+ OL23 
+   
+   
+ [ Prunus amygdalus ] 
+ 
+ 
+ fds1n.pk018.l23 
+ Pear 
+ 156 
+ AAM46777.1 
+ 67 
+ 68 
+ 61 
+ 76 
+ 7e−49 
+ 
+ 
+ — 
+ ( Pyrus ) 
+   
+ 16.9 kDa oleosin 
+ 
+ 
+ OL24 
+   
+   
+ [ Theobroma cacao ] 
+ 
+ 
+   
+ 
+ 
+   a Identity is defined as percentage of amino acids that are identical between the two proteins. 
+ 
+ 
+   b Similarity is defined as percentage of amino acids that are identical or conserved between the two proteins. 
+ 
+ 
+   c Expect value. The Expect value estimates the statistical significance of the match, specifying the number of matches, with a given score, that are expected in a search of a database of this size absolutely by chance. 
+ 
+ 
+ 
+ 
+ 
+ Example 10 
+ Sequence Analysis of the Oleosin Family 
+ The amino acid sequences of several publicly available oleosins from a variety of sources were retrieved from the GENBANk® database (Table 8). 
+ Table 8. Publicly Available Oleosin Sequences 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 8 
+ 
+ 
+ 
+   
+ 
+ 
+ Publicly Available Oleosin Sequences 
+ 
+ 
+ 
+ 
+   
+   
+ Length 
+ GENBANK ® 
+ 
+ 
+   
+ Source 
+ (amino acids) 
+ Accession number 
+ 
+ 
+   
+   
+ 
+ 
+   
+ 
+ Zea mays 
+ 
+ 187 
+ P21641 
+ 
+ 
+   
+ (corn) 
+ (SEQ ID NO: 69) 
+ 
+ 
+   
+ 
+ Hordeum vulgare 
+ 
+ 184 
+ S57778 
+ 
+ 
+   
+ (barley) 
+ 
+ 
+   
+ 
+ Daucus carota 
+ 
+ 180 
+ JQ0986 
+ 
+ 
+   
+ (carrot) 
+ 
+ 
+   
+ 
+ Perilla frutescens 
+ 
+ 177 
+ AAG24455 
+ 
+ 
+   
+ ( perilla ) 
+ 
+ 
+   
+ 
+ Olea europeae 
+ 
+ 165 
+ AAL92479 
+ 
+ 
+   
+ subsp.  Europaea   
+ 
+ 
+   
+ (olive) 
+ 
+ 
+   
+ 
+ Theobroma cacao 
+ 
+ 160 
+ AAM46777 
+ 
+ 
+   
+ ( cacao ) 
+ 
+ 
+   
+ 
+ Arachis hypogaea 
+ 
+ 176 
+ AAK13450 
+ 
+ 
+   
+ (peanut) 
+ 
+ 
+   
+ 
+ Arabidopsis 
+ 
+ 199 
+ NP198858 
+ 
+ 
+   
+ 
+ thaliana 
+ 
+ 
+ 
+   
+ (thale cress) 
+ 
+ 
+   
+ 
+ Glycine max 
+ 
+ 224 
+ AAA17855 
+ 
+ 
+   
+ (soybean) 
+ 
+ 
+   
+ 
+ Helianthus annus 
+ 
+ 184 
+ S60482 
+ 
+ 
+   
+ (sunflower) 
+ 
+ 
+   
+ 
+ Prunus dulcis 
+ 
+ 149 
+ S51940 
+ 
+ 
+   
+ (almond) 
+ 
+ 
+   
+ 
+ Corylus avellana 
+ 
+ 140 
+ AAO65960 
+ 
+ 
+   
+ (Hazel nut) 
+ 
+ 
+   
+ 
+ Sesamum indicum 
+ 
+ 145 
+ AAD42942 
+ 
+ 
+   
+ (sesame) 
+ 
+ 
+   
+ 
+ Brassica napus 
+ 
+ 159 
+ P29110 
+ 
+ 
+   
+ (rape) 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ An alignment of these sequences was produced with the ClustaIW sequence alignment software as shown on  FIG. 3 . Within this set of oleosin sequences, thirteen amino acid positions are conserved as shown in Table 9. 
+ Table 9. Signature amino acid conseved in 13 representative publicly available oleosin sequences. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 9 
+ 
+ 
+ 
+   
+ 
+ 
+ Signature amino acid conserved in 13 representative publicly 
+ 
+ 
+ available oleosin sequences. 
+ 
+ 
+ 
+ 
+   
+   
+ Position in Corn Oleosin 
+ 
+ 
+   
+ Conserved 
+ Sequence 
+ 
+ 
+   
+ Amino Acid 
+ GENBANK ® P21641 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ G 
+ 60 
+ 
+ 
+   
+ L 
+ 62 
+ 
+ 
+   
+ L 
+ 70 
+ 
+ 
+   
+ L 
+ 77 
+ 
+ 
+   
+ P 
+ 82 
+ 
+ 
+   
+ F 
+ 87 
+ 
+ 
+   
+ S 
+ 88 
+ 
+ 
+   
+ P 
+ 89 
+ 
+ 
+   
+ P 
+ 93 
+ 
+ 
+   
+ A 
+ 94 
+ 
+ 
+   
+ L 
+ 106 
+ 
+ 
+   
+ G 
+ 109 
+ 
+ 
+   
+ G 
+ 112 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ In one embodiment, an oleosin is defined as any protein, natural or synthetic, that includes a 60 to 80 amino acid-long fragment that can be aligned with the sequence segment of the Corn Oleosin Zm-II (GENBANK® accession number P21641; SEQ ID NO: 69) segment extending from position 50 to 120, having more than 25% amino acid identity over that segment and sharing 8 or more of the 13 conserved amino acids listed in Table 9. 
+ Sequence Analysis of Present Oleosins 
+ The amino acid sequences of the new oleosins listed in Example 9 were included in the alignment of previously described oleosins. Six of the 13 amino acid positions identified in a set of representative oleosin publicly available are conserved among the 15 new oleosins introduced in Example 9 as shown in Table 10. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 10 
+ 
+ 
+ 
+   
+ 
+ 
+ Conservation of signature amino acids 
+ 
+ 
+ 
+ 
+   
+   
+ “Shared” conserved 
+ 
+ 
+   
+ Clone name 
+ positions 
+ 
+ 
+   
+   
+ 
+ 
+   
+ OL3 
+ 13/13 
+ 
+ 
+   
+ OL4 
+ 13/13 
+ 
+ 
+   
+ OL5 
+  8/13 
+ 
+ 
+   
+ OL6 
+  9/13 
+ 
+ 
+   
+ OL7 
+ 11/13 
+ 
+ 
+   
+ OL8 
+ 13/13 
+ 
+ 
+   
+ OL9 
+ 13/13 
+ 
+ 
+   
+ OL11 
+ 13/13 
+ 
+ 
+   
+ OL16 
+ 13/13 
+ 
+ 
+   
+ OL17 
+ 12/13 
+ 
+ 
+   
+ OL18 
+ 13/13 
+ 
+ 
+   
+ OL19 
+ 13/13 
+ 
+ 
+   
+ OL20 
+ 13/13 
+ 
+ 
+   
+ OL23 
+ 13/13 
+ 
+ 
+   
+ OL24 
+ 13/13 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ Among the new oleosins, a minimum of 8 out of 13 signature amino acids defining the oleosin family are conserved. This percentage defines the oleosin family as explained above. 
+ Alternatively, the oleosin family can be defined by its homology to a consensus amino acid sequence (i.e. the “diagnostic motif”) found in the hydrophobic core of all oleosins. This motif is based on the “proline knot” region (Napier et al., supra), a region of about 12 to about 16 highly conserved amino acids. Based on this conserved region, an amino acid sequence (14 amino acids in length) useful for identifying additional oleosin (the “diagnostic motif”) is provided as follow: 
+ 
+ 
+ 
+ 
+ 
+   
+ TPLFVIFSPVLVPA. 
+ (SEQ ID NO:70) 
+   
+ 
+ 
+ 
+ 
+ 
+ Comparison of the diagnostic motif to the present oleosins as well as several publicly available oleosin sequences is provided in Table 11. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 11 
+ 
+ 
+ 
+   
+ 
+ 
+ Percent Identity and Similarity of Various Oleosins to the 
+ 
+ 
+ Oleosin Diagnostic Motif 
+ 
+ 
+ 
+ 
+ Oleosin and/or Source 
+   
+   
+ 
+ 
+ (SEQ ID NO) or 
+ % Identity a   
+ % Similarity b   
+ 
+ 
+ GENBANK ® 
+ to the diagnostic motif 
+ to the diagnostic motif 
+ 
+ 
+ Accession No. 
+ SEQ ID NO: 70 
+ SEQ ID NO: 70 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ OL3 
+ 78 
+ 92 
+ 
+ 
+ Guar 
+ 
+ 
+ (SEQ ID NO: 40) 
+ 
+ 
+ OL4 
+ 85 
+ 99 
+ 
+ 
+ 
+ Zea mays 
+ 
+ 
+ 
+ (SEQ ID NO: 42) 
+ 
+ 
+ OL5 
+ 57 
+ 78 
+ 
+ 
+ Castor bean 
+ 
+ 
+ (SEQ ID NO: 44) 
+ 
+ 
+ OL6 
+ 57 
+ 92 
+ 
+ 
+ Castor bean 
+ 
+ 
+ (SEQ ID NO: 46) 
+ 
+ 
+ OL7 
+ 92 
+ 92 
+ 
+ 
+   Vitis  sp. 
+ 
+ 
+ (SEQ ID NO: 48) 
+ 
+ 
+ OL8 
+ 92 
+ 92 
+ 
+ 
+ Amaranth 
+ 
+ 
+ (SEQ ID NO: 50) 
+ 
+ 
+ OL9 
+ 83 
+ 91 
+ 
+ 
+ 
+ Catalpa 
+ 
+ 
+ 
+ (SEQ ID NO: 52) 
+ 
+ 
+ OL11 
+ 92 
+ 99 
+ 
+ 
+ 
+ Vernonia 
+ 
+ 
+ 
+ (SEQ ID NO: 54) 
+ 
+ 
+ OL16 
+ 100 
+ 100 
+ 
+ 
+ Cotton 
+ 
+ 
+ (SEQ ID NO: 56) 
+ 
+ 
+ OL17 
+ 85 
+ 99 
+ 
+ 
+ Marigold 
+ 
+ 
+ (SEQ ID NO: 58) 
+ 
+ 
+ OL18 
+ 71 
+ 99 
+ 
+ 
+ 
+ Momordica 
+ 
+ 
+ 
+ (SEQ ID NO: 60) 
+ 
+ 
+ OL19 
+ 78 
+ 99 
+ 
+ 
+ 
+ Pricamnia 
+ 
+ 
+ 
+ (SEQ ID NO: 62) 
+ 
+ 
+ OL20 
+ 85 
+ 92 
+ 
+ 
+ 
+ Glycine max 
+ 
+ 
+ 
+ (SEQ ID NO: 64) 
+ 
+ 
+ OL23 
+ 85 
+ 92 
+ 
+ 
+ 
+ Helianthus annus 
+ 
+ 
+ 
+ (SEQ ID NO: 66) 
+ 
+ 
+ OL24 
+ 78 
+ 99 
+ 
+ 
+ Pear 
+ 
+ 
+ (SEQ ID NO: 68) 
+ 
+ 
+ 
+ Zea mays 
+ 
+ 85 
+ 99 
+ 
+ 
+ P21641 
+ 
+ 
+ 
+ Hordeum vulgare 
+ 
+ 78 
+ 99 
+ 
+ 
+ S57778 
+ 
+ 
+ 
+ Daucus carota 
+ 
+ 85 
+ 99 
+ 
+ 
+ JQ0986 
+ 
+ 
+ 
+ Perilla frutescens 
+ 
+ 100 
+ 100 
+ 
+ 
+ AAG24455 
+ 
+ 
+   Olea europaea  subsp. 
+ 92 
+ 99 
+ 
+ 
+   europaea  AAL92479 
+ 
+ 
+ 
+ Theobroma cacao 
+ 
+ 92 
+ 99 
+ 
+ 
+ AAM46777 
+ 
+ 
+ 
+ Arachis hypogaea 
+ 
+ 71 
+ 85 
+ 
+ 
+ AAK13450 
+ 
+ 
+ 
+ Arabidopsis thaliana 
+ 
+ 76 
+ 99 
+ 
+ 
+ NP198858 
+ 
+ 
+ 
+ Glycine max 
+ 
+ 85 
+ 99 
+ 
+ 
+ AAA17855 
+ 
+ 
+ 
+ Helianthus annus 
+ 
+ 92 
+ 99 
+ 
+ 
+ S60482 
+ 
+ 
+ 
+ Prunus dulcis 
+ 
+ 92 
+ 92 
+ 
+ 
+ S51940 
+ 
+ 
+ 
+ Corylus avellana 
+ 
+ 100 
+ 100 
+ 
+ 
+ AAO65960 
+ 
+ 
+ 
+ Sesamum indicum 
+ 
+ 92 
+ 92 
+ 
+ 
+ AAD42942 
+ 
+ 
+ 
+ Brassica napus 
+ 
+ 85 
+ 92 
+ 
+ 
+ P29110 
+ 
+ 
+   
+ 
+ 
+   a % Identity is defined as percentage of amino acids that are identical between the two proteins. 
+ 
+ 
+   b % Similarity is defined as percentage of amino acids that are identical or conserved between the two proteins. Comparisons between the diagnostic “□raline knot” motif (SEQ ID NO: 70) and the various oleosins was conducted using the National Center for Biotechnology Information (NCBI) BLASTP using the parameters: BLOSUM62 scoring matrix, Gap open = 9, Gap extension = 1, Expect = 20000, and Word size = 2. 
+ 
+ 
+ 
+ 
+ 
+ In one embodiment, oleosin genes suitable in the present invention are those encoding a polypeptide comprised of an amino acid sequence sharing at least 50% identity or 75% similarity when compared to the diagnostic amino acid sequence (SEQ ID NO: 70). In another embodiment, suitable oleosin genes are those encoding a polypeptide comprised of an amino acid sequence sharing at least 55% identity or 80% similarity when compared to SEQ ID NO: 70. In a further embodiment, suitable oleosin genes are those encoding a polypeptide comprised of an amino acid sequence sharing at least 70% identity or 80% similarity when compared to SEQ ID NO: 70. In yet a further embodiment, suitable oleosin genes are those encoding a polypeptide comprised of an amino acid sequence sharing at least 85% identity or 90% similarity when compared to SEQ ID NO: 70. 
+ Example 11 
+ Effect of Oleosin Expression on the Production of β-carotene 
+ The oleosin genes cloned in the high copy number vector pBlueScript SK during the construction of the cDNA library were transferred by electroporation in strain WS185 that produces β-carotene (WS185=MG1655 P T5 -dxs P T5 -idi P T5 -ispDF+pDCQ108 (tetR)) along with the pBlueScript SK+ as a vector control. Following transformation, the cells were plated on LB-tet and re-streaked on the same medium at room temperature to avoid strain instability sometime observed at 37° C. for these high copy plasmids. 
+ Cultures of  E. coli  strains containing the cloned oleosin genes, the pBlueScript SK vector control were growth in LB-Tet-Amp medium at 37° C. The parent strain WS185 was grown in LB-Tet medium. Samples were taken at 12 hr and 24 hr to record the optical density at 600 nm as well as the absorption of the β-carotene extracted by 1 mL of acetone from 1 mL of cells as described in Example 8. The analytical results are presented in Tables 12 and 13. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 12 
+ 
+ 
+ 
+   
+ 
+ 
+ Increase in β-carotene Content in Strains Expressing Oleosin Genes in 
+ 
+ 
+ 12-hour Cultures 
+ 
+ 
+ 
+ 
+ Strain 
+ OD600 
+ OD450 
+ OD450/OD600* 
+ 
+ 
+   
+ 
+ 
+ WS185 
+ 4.51 
+ 0.530 
+ 0.118 
+ 
+ 
+ WS185 + pBlueScript SK 
+ 1.30 
+ 0.073 
+ 0.056 
+ 
+ 
+ WS185 + pOL2 
+ 2.65 
+ 0.538 
+ 0.203 
+ 
+ 
+ WS185 + pOL3 
+ 3.11 
+ 0.785 
+ 0.252 
+ 
+ 
+ WS185 + pOL4 
+ 4.02 
+ 0.467 
+ 0.116 
+ 
+ 
+ WS185 + pOL5 
+ 2.66 
+ 0.565 
+ 0.212 
+ 
+ 
+ WS185 + pOL7 
+ 3.16 
+ 0.738 
+ 0.234 
+ 
+ 
+ WS185 + pOL10 
+ 1.55 
+ 0.432 
+ 0.279 
+ 
+ 
+ WS185 + pOL11 
+ 1.68 
+ 0.278 
+ 0.165 
+ 
+ 
+ WS185 + pOL16 
+ 3.15 
+ 0.754 
+ 0.239 
+ 
+ 
+ WS185 + pOL17 
+ 1.13 
+ 0.079 
+ 0.070 
+ 
+ 
+ WS185 + pOL18 
+ 3.56 
+ 0.922 
+ 0.259 
+ 
+ 
+ WS185 + pOL19 
+ 0.61 
+ 0.078 
+ 0.128 
+ 
+ 
+ WS185 + pOL20 
+ 3.75 
+ 0.797 
+ 0.213 
+ 
+ 
+   
+ 
+ 
+ *A ratio OD450/OD600 of 0.1 correspond to approximately 1,260 μg of β-carotene/g of dry cell weight. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 13 
+ 
+ 
+ 
+   
+ 
+ 
+ Increase in β-carotene Content in Strains Expressing Oleosin Genes in 
+ 
+ 
+ 24-hour cultures 
+ 
+ 
+ 
+ 
+ Strain 
+ OD600 
+ OD450 
+ OD450/OD600** 
+ 
+ 
+   
+ 
+ 
+ WS185 
+ 4.65 
+ 0.663 
+ 0.143 
+ 
+ 
+ WS185 + pBlueScript SK+ 
+ 3.79 
+ 0.450 
+ 0.119 
+ 
+ 
+ WS185 + pOL2 
+ 2.37 
+ 0.545 
+ 0.230 
+ 
+ 
+ WS185 + pOL3 
+ 2.69 
+ 0.825 
+ 0.307 
+ 
+ 
+ WS185 + pOL4 
+ 4.37 
+ 0.505 
+ 0.116 
+ 
+ 
+ WS185 + pOL5 
+ 2.47 
+ 0.573 
+ 0.232 
+ 
+ 
+ WS185 + pOL7 
+ 3.02 
+ 0.744 
+ 0.246 
+ 
+ 
+ WS185 + pOL10 
+ 1.61 
+ 0.490 
+ 0.304 
+ 
+ 
+ WS185 + pOL11 
+ 3.22 
+ 0.560 
+ 0.174 
+ 
+ 
+ WS185 + pOL16 
+ 3.10 
+ 0.768 
+ 0.248 
+ 
+ 
+ WS185 + pOL17 
+ 4.10 
+ 0.493 
+ 0.120 
+ 
+ 
+ WS185 + pOL18 
+ 3.87 
+ 1.138 
+ 0.294 
+ 
+ 
+ WS185 + pOL19 
+ 3.23 
+ 0.519 
+ 0.161 
+ 
+ 
+ WS185 + pOL20 
+ 3.67 
+ 1.068 
+ 0.291 
+ 
+ 
+   
+ 
+ 
+ **A ratio OD450/OD600 of 0.1 correspond to approximately 1,260 μg of β-carotene/g of dry cell weight. 
+ 
+ 
+ 
+ 
+ 
+ In both the 12-hour and 24-hour cultures, the presence oleosin genes can lead to more than a two-fold increase in the β-carotene content of the cells. This effect is not observed for the strain carrying the empty cloning vector. This effect is observed for all oleosins tested. This demonstrates that the effect of oleosins is general for the oleosin family. 
+ Example 12 
+ Effect of Oleosin Expression on the Production of Canthaxanthin 
+ The oleosin genes cloned in the high copy number vector pBlueScript were transferred by electroporation in strain WS384 that produces the canthaxanthin (MG1655 P T5 -dxs P T5 -idi P T5 -isPDF+pDCQ307 (kanR)) along with the pBlueScript SK+ as a vector control. Following transformation, the cells were plated on LB-tet and re-streaked on the same medium at room temperature to avoid strain instability sometimes observed at 37° C. 
+ Cultures of  E. coli  strains containing the cloned oleosin genes and the pBlueScript SK vector control were growth in LB-Kan-Amp medium at 37° C. The parent strain WS384 was grown in LB-Kan medium. Samples were taken at 12 hr and 24 hr to record the optical density at 600 nm as well as the absorption of the canthaxanthin extracted by 1 mL of acetone from 1 mL of cells as described in Example 8. The analytical results are presented in Table 14. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 14 
+ 
+ 
+ 
+   
+ 
+ 
+ Increase in Canthaxanthin Content in Strains Expressing Oleosin Genes 
+ 
+ 
+ in 24-hour Cultures 
+ 
+ 
+ 
+ 
+ Strain 
+ OD600 
+ OD480 
+ OD480/OD600 #   
+ 
+ 
+   
+ 
+ 
+ WS384 
+ 4.22 
+ 0.243 
+ 0.058 
+ 
+ 
+ WS384 + pBlueScript SK 
+ 3.40 
+ 0.166 
+ 0.049 
+ 
+ 
+ WS384 + pOL2 
+ 2.18 
+ 0.279 
+ 0.128 
+ 
+ 
+ WS384 + pOL3 
+ 2.62 
+ 0.303 
+ 0.116 
+ 
+ 
+ WS384 + pOL4 
+ 3.62 
+ 0.362 
+ 0.100 
+ 
+ 
+ WS384 + pOL5 
+ 2.40 
+ 0.311 
+ 0.130 
+ 
+ 
+ WS384 + pOL7 
+ 3.11 
+ 0.400 
+ 0.129 
+ 
+ 
+ WS384 + pOL10 
+ 3.06 
+ 0.382 
+ 0.125 
+ 
+ 
+ WS384 + pOL11 
+ 2.75 
+ 0.312 
+ 0.113 
+ 
+ 
+ WS384 + pOL16 
+ 3.60 
+ 0.430 
+ 0.119 
+ 
+ 
+ WS384 + pOL17 
+ 3.37 
+ 0.280 
+ 0.083 
+ 
+ 
+ WS384 + pOL18 
+ 3.46 
+ 0.427 
+ 0.123 
+ 
+ 
+ WS384 + pOL19 
+ 3.63 
+ 0.227 
+ 0.063 
+ 
+ 
+ WS384 + pOL20 
+ 3.52 
+ 0.386 
+ 0.110 
+ 
+ 
+   
+ 
+ 
+ #A ratio OD480/OD600 of 0.1 correspond to approximately 1,260 μg of canthaxanthin/g of dry cell weight. 
+ 
+ 
+ In 24-hour cultures, the presence of oleosin genes can lead to more than a two-fold increase in the canthaxanthin content of the cells. This effect is not observed for the strain carrying the empty cloning vector. This experiment demonstrates that the effect of oleosin expression is not specific for a single carotenoid. This demonstrates that the effect of oleosins is general for the oleosin family. 
+ 
+ 
+ 
+ 
+ 
+ Example 13 
+ Expression Cloning of the  Glycine max  (Soy) Oleosin 
+ To confirm that the increase in carotenoid titers is due to the expression of the oleosin genes, the gene of the  Glycine max  (soy) oleosin (OL20; SEQ ID NO: 63) was recloned in an expression vector pTrcHis2-topo (Invitrogen) using the primers listed in Table 15. The 153-bp gene was amplified from its first codon to the stop codon included. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 15 
+ 
+ 
+ 
+   
+ 
+ 
+ Primers for Amplification of the Glycine 
+   
+ 
+ 
+ max (Soy) Oleosin Gene 
+ 
+ 
+ 
+ 
+   
+ SEQ 
+   
+ 
+ 
+ 
+ 
+ Primer 
+   
+ ID 
+   
+ 
+ 
+ 
+ 
+ Name 
+ Primer Sequence 
+ NO: 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ ST- OL20   
+ 5′-ATGGCAACCATTTCTACTGATCAACC-3′ 
+ 71 
+   
+ 
+ 
+   
+ 
+ 
+ SB- 
+ 5′-TATATTCTAGA AAAATGCCGCCAGCGGAACT   
+ 72 
+ 
+ 
+ OL20(trpXbal) 
+   GGCGGCTGTGGGATTA GATTAATAAGTTCCTTGT 
+ 
+ 
+   
+ GTGGCCTC-3′ 
+ 
+ 
+   
+ 
+ 
+   1 The underlined sequences illustrate a sequence of trp terminator (36 nt). 
+ 
+ 
+ 
+ 
+ 
+ The PCR fragment was cloned in vitro into the vector pTrc-His2-Topo as described by the manufacturer (Invitrogen) and the cloning reaction transferred into competent  E. coli  cells. The orientation of the insert was determined by sequencing the plasmid from the vector with primers provided by the manufacturer. The resulting plasmid, pTrc-OL20 carries the soy oleosin OL20 gene under the control of the IPTG-inducible trc promoter, facilitating inducible expression. 
+ Example 14 
+ Effect of Induction of  Glycine max  (Soy) Oleosin Expression on the Production of β-carotene 
+ A clone carrying the soy oleosin OL20 gene under the control of the IPTG-inducible trc promoter as well as the empty pTrc-His2 vector were each transferred by electroporation in strain WS185 that produces β-carotene. 
+ (WS185=MG1655 P T5 -dxs P T5 -idi P T5 -ispDF+pDCQ108 (tetR)) along with the pBlueScript SK+ as a vector control. Following transformation, the cells were plated on LB-tet-Amp and re-streaked on the same medium at room temperature to avoid strain instability. 
+ Cultures of  E. coli  strains containing the cloned OL20 oleosin gene in pTrc-OL20 or the pTrc-His2 vector control were growth in LB-Tet-Amp medium at 37° C. The parent strain WS185 was grown in LB-Tet medium. Samples were taken at periodic intervals to record growth by the optical density at 600 nm as well as the absorption of the β-carotene extracted by 1 mL of acetone from 1 mL of cells and measured at 450 nm as described in Example 8. The analytical results are presented in Table 16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE 16 
+ 
+ 
+ 
+   
+ 
+ 
+ Increase in β-carotene Content in Strains Expressing 
+ 
+ 
+ Oleosin Genes in 9-hour Cultures 
+ 
+ 
+ 
+ 
+ Strain 
+ OD600 
+ OD450 
+ OD450/OD600 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ WS185 
+ 4.6 
+ 0.514 
+ 0.112 
+ 
+ 
+ WS185 + pTrcHis2 
+ 4.55 
+ 0.499 
+ 0.110 
+ 
+ 
+ WS185 + pTrc-OL20 
+ 4.12 
+ 0.368 
+ 0.089 
+ 
+ 
+ WS185 (Induced) 
+ 4.73 
+ 0.455 
+ 0.096 
+ 
+ 
+ WS185 + pTrcHis2 (Induced) 
+ 4.54 
+ 0.422 
+ 0.093 
+ 
+ 
+ WS185 + pTrc-OL20 (Induced) 
+ 3.73 
+ 0.778 
+ 0.209 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ No increase of β-carotene content was observed in the absence of the inducer IPTG. Addition of the inducer IPTG in the recipient strain WS185 or in WS185+pTrcHis2 did not result in the increase of carotenoid titers. Expression of oleosin upon induction of expression by addition of IPTG resulted in a 2× increase of β-carotene content. 
+ This experiment shows that the increase in carotenoid titer is dependent upon expression of the oleosin gene. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

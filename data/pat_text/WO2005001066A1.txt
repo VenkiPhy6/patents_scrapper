@@ -1,0 +1,1169 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    明 細 書   Specification  
+ 
+ 
+    新規分解菌及びそれを用いた有機化合物の分解処理方法   New degrading bacteria and method for decomposing organic compounds using the same 
+ 
+ 
+    技術分野   Technical field  
+ 
+ 
+    [0001] 本発明は、クレゾール、フヱノール、ホルムアルデヒド、メタノールなどの有機化合物 の生物的分解処理に関する。   The present invention relates to a biological decomposition treatment of an organic compound such as cresol, phenol, formaldehyde, and methanol. 
+ 
+ 
+    背景技術   Background art 
+ 
+ 
+    [0002] クレゾール、フエノール、ホルムァノレデヒド、メタノールは有用な化学原料であり、榭 脂、接着剤、合板、積層板などの製造原料として多くの用途に用いられている。しか し、それらの製造過程においては、クレゾール、フエノール、ホルムアルデヒド、メタノ ールを含む廃水が生じることが多い。そのような廃水を処理する方法としては、現在 のところ、希釈法、焼却法、蒸留回収法、活性汚泥法などが用いられている。   [0002] Cresol, phenol, formaldehyde, and methanol are useful chemical raw materials, and are used in many applications as raw materials for producing resins, adhesives, plywood, laminates, and the like. However, wastewater containing cresol, phenol, formaldehyde, and methanol is often generated during their production. At present, methods for treating such wastewater include a dilution method, an incineration method, a distillation recovery method, and an activated sludge method. 
+ 
+ 
+    [0003] 一般には生物的分解処理である活性汚泥法で処理されている。し力しながら、従 来の活性汚泥処理で用いられてレ、る活性汚泥菌群は、 20mg/Lを越えるような高 濃度のクレゾール、フエノール、ホノレムアルデヒド、メタノールなどの生物難分解性の 有機化合物を高濃度で含む廃液を処理しょうとすると、汚泥中の有用な微生物を死 滅させる危険があるため、上記有機化合物を高濃度で含む廃液の処理には適して いない。   [0003] Generally, the activated sludge is treated as a biological decomposition treatment. However, the activated sludge group used in conventional activated sludge treatment has a high biodegradability such as cresol, phenol, honolemaldehyde, methanol, etc. with a high concentration exceeding 20 mg / L. Attempts to treat wastewater containing high concentrations of organic compounds are not suitable for treating wastewater containing high concentrations of the above organic compounds, because there is a risk of killing useful microorganisms in sludge. 
+ 
+ 
+    [0004] そのため、活性汚泥処理に先立って抽出蒸留回収処理を行うか、あるいは廃液を 極低濃度まで希釈した後に活性汚泥法によって廃液に含有されている有機化合物 を分解処理している。   [0004] Therefore, prior to the activated sludge treatment, an extractive distillation and recovery treatment is performed, or an organic compound contained in the waste liquid is decomposed by an activated sludge method after diluting the waste liquid to an extremely low concentration. 
+ 
+ 
+    [0005] このような活性汚泥処理の問題点を解決することを目的とした発明として、特許文 献 1には、フエノール及びタレゾールが混合で含まれる廃液を分解できる、シユードモ ナス 'セパシァ KK01株を用いる分解処理方法が開示されている。しかし、さらにホノレ ムアルデヒド、メタノールまでも混合で含む廃液を処理できるものではなレ、。   [0005] As an invention aimed at solving such a problem of the activated sludge treatment, Patent Document 1 discloses a pseudomonas' Sepacia KK01 strain capable of decomposing a waste liquid containing a mixture of phenol and tarezol. The decomposition method used is disclosed. However, it cannot treat wastewater containing honolealdehyde and methanol. 
+ 
+ 
+    [0006] このような活性汚泥処理の問題点を解決することを目的とした発明として、特許文 献 2には、高濃度の無機塩を含む条件下においても、フエノール性化合物を分解で きる、カンジダ属に属する微生物を用いるフエノール性化合物の分解処理方法が開 
+
+ 示されている。この方法で処理できるのはフエノール性化合物のみである。  [0006] As an invention aimed at solving such a problem of activated sludge treatment, Patent Document 2 discloses that a phenolic compound can be decomposed even under conditions including a high concentration of inorganic salt. A method for decomposing phenolic compounds using microorganisms belonging to the genus Candida has been developed.  It is shown. Only phenolic compounds can be treated in this way. 
+ 
+ 
+    [0007] また、フエノール、クレゾール、ホルムアルデヒド、メタノール等は殺菌性のある生物 難分解性有機化合物であり、これらの有機化合物が存在する廃液中で生存でき、な おかつこれらの有機化合物を分解する能力をもつような菌種、現在既知の菌種の範 囲では見当たらない。   [0007] In addition, phenol, cresol, formaldehyde, methanol and the like are biorefractory organic compounds having bactericidal properties, can survive in a waste liquid in which these organic compounds are present, and decompose these organic compounds. It is not found in strains that have the ability, or in the range of currently known strains. 
+ 
+ 
+    [0008] 特許文献 1 :特開平 8— 80188号公報   Patent Document 1: JP-A-8-80188 
+ 
+ 
+    特許文献 2：特開平 8 - 24892号公報   Patent Document 2: JP-A-8-24892 
+ 
+ 
+    発明の開示   Disclosure of the invention 
+ 
+ 
+    発明が解決しょうとする課題   Problems to be solved by the invention 
+ 
+ 
+   [0009] そこで、本発明は、高濃度のクレゾール、フヱノール、ホルムアルデヒド及びメタノー ルなど殺菌作用があり、生物難分解性の有機化合物を含有する廃液であっても生存 でき、かつ、これらの有機化合物を効率よく分解処理できる新規微生物を提供し、こ れを用いて殺菌性のある生物難分解性の上記有機化合物を含有する廃水を効率よ く分解処理する方法を提供することを目的とする。  [0009] Therefore, the present invention provides a bactericidal action such as high concentrations of cresol, phenol, formaldehyde, and methanol, can survive even a waste liquid containing an organic compound that is hardly degradable, and It is an object of the present invention to provide a novel microorganism capable of efficiently decomposing water, and to provide a method for efficiently decomposing waste water containing the above-mentioned organic compound which is bactericidal and hard to decompose by using the microorganism. 
+ 
+ 
+    課題を解決するための手段   Means for solving the problem 
+ 
+ 
+   [0010] 上記目的を達成するため、クレゾール、フエノール、ホルムアルデヒド、メタノーノレな どの殺菌性のある生物難分解性の有機化合物を含む廃水を、微生物を利用して浄 化する研究の過程において、本発明者らは、土壌や貯水槽の水に棲息する微生物 の中から、高濃度の上記有機化合物のうちの 1種以上を効率よく分解することができ る新規な菌株を見出し、本発明を完成させた。  [0010] To achieve the above object, the present invention relates to a process for purifying wastewater containing bactericidal, biodegradable organic compounds, such as cresol, phenol, formaldehyde, and methanol, using microorganisms. The present inventors have found a novel strain capable of efficiently decomposing one or more of the above-mentioned organic compounds at a high concentration among microorganisms living in soil and water in a water storage tank, and completed the present invention. Was. 
+ 
+ 
+    [0011] 本発明は、シユードモナス sp. 、 Methylobacterium属 radiotoleransに属する 微生物及び Candida属 maltosaに属する微生物からなる群から選択される 1種又 は 2種以上の微生物を用いて、殺菌性を有する生物難分解性有機化合物を分解す る方法を提供する。   [0011] The present invention provides a bactericidal organism using one or more microorganisms selected from the group consisting of Pseudomonas sp., Microorganisms belonging to the genus Methylobacterium radiotolerans, and microorganisms belonging to the genus Candida maltosa. Provided is a method for decomposing a decomposable organic compound. 
+ 
+ 
+    [0012] 本発明は、上記方法に好適な、（1)シユードモナス sp.である、クレゾール、フエノ ール、ホルムアルデヒド及びメタノールなどの有機化合物に対して分解能を有する新 規微生物 SB0301菌株（FERM P_19681)、（2) Methylobacterium属 radiot oleransに属し、ホルムアルデヒド及びメタノールなどの有機化合物に対して分解能 
+
+ を有する新規微生物 SB0202菌株（FERM P-19301)、及び（3) Candida属 m altosaに属し、フエノール、ホルムアルデヒド及びメタノールなどの有機化合物に対し て分解能を有することを特徴とする新規微生物 SB0201菌株 (FERM P— 19300) を提供する。  [0012] The present invention provides a novel microorganism SB0301 strain (FERM P_19681) suitable for the above method, which is capable of decomposing organic compounds such as (1) Pseudomonas sp., Such as cresol, phenol, formaldehyde and methanol. , (2) belonging to the genus Methylobacterium radiot olerans, capable of resolving organic compounds such as formaldehyde and methanol  A new microorganism strain SB0202 (FERM P-19301) having the following characteristics: and (3) a new microorganism strain SB0201 (FERM P.M. P— 19300). 
+ 
+ 
+    発明の効果   The invention's effect  
+ 
+ 
+    [0013] 本発明によれば、クレゾール、フエノール、ホノレムァノレデヒド、メタノールなどの殺菌 性のある生物難分解性の有機化合物を、それぞれ 20mg/Lを超えるような高濃度 で含む廃水を、新規な微生物を利用して効率よく分解することができる。   [0013] According to the present invention, wastewater containing bactericidal organic hardly decomposable organic compounds such as cresol, phenol, honolemunorehdehyde, and methanol at high concentrations exceeding 20 mg / L, respectively, It can be efficiently decomposed using a novel microorganism. 
+ 
+ 
+    発明を実施するための最良の形態   BEST MODE FOR CARRYING OUT THE INVENTION 
+ 
+ 
+    [0014] 以下、本発明を詳細に説明する。   Hereinafter, the present invention will be described in detail. 
+ 
+ 
+    本発明の有機化合物を分解する方法 (以下、本発明の方法という）は、シユードモ ナス sp. 、 Methylobacterium属 radiotoleransに属する微生物及び Candida 属 maltosaに属する微生物からなる群から選択される 1種又は 2種以上の微生物を 用いて、殺菌性を有する生物難分解性有機化合物を分解処理することを特徴とする   The method for decomposing the organic compound of the present invention (hereinafter, referred to as the method of the present invention) comprises one or two selected from the group consisting of Pseudomonas sp., Microorganisms belonging to the genus Methylobacterium radiotolerans and microorganisms belonging to the genus Candida maltosa. The biodegradable organic compound having bactericidal properties is decomposed using the above microorganisms. 
+ 
+ 
+   [0015] 本発明の方法において、殺菌性を有する生物難分解性有機化合物が、フエノーノレ 、クレゾール、サリチル酸及びヒドロキシ安息香酸などのフヱノール性化合物、ホルム アルデヒド、メタノール、及びギ酸からなる群から選択される 1種又は 2種以上の化合 物であることが好ましい。  [0015] In the method of the present invention, the biodegradable organic compound having bactericidal properties is selected from the group consisting of phenolic compounds such as phenol, cresol, salicylic acid, and hydroxybenzoic acid, formaldehyde, methanol, and formic acid. One or more compounds are preferable. 
+ 
+ 
+    [0016] 本発明の方法において用いる微生物は、シユードモナス sp.力 選択されることが 好ましい。   [0016] The microorganism used in the method of the present invention is preferably selected from Pseudomonas sp. 
+ 
+ 
+    [0017] シユードモナス sp. は、新規微生物 SB0301菌株（FERM P— 19681) (以下、 S B0301菌株という）であることが好ましい。   [0017] Pseudomonas sp. Is preferably a novel microorganism strain SB0301 (FERM P-19681) (hereinafter referred to as SB0301 strain). 
+ 
+ 
+    [0018] SB0301菌株を用レ、て、クレゾール、フエノール、ホルムアルデヒド及びメタノール からなる群から選択される有機化合物の 1種又は 2種以上を分解処理することが好ま しい。   [0018] Preferably, one or more organic compounds selected from the group consisting of cresol, phenol, formaldehyde and methanol are subjected to degradation treatment using the strain SB0301. 
+ 
+ 
+    [0019] 本発明の方法において用いる微生物は、 Methylobacterium属 radiotolerans に属する微生物から選択されることが好ましレ、。 
+
+ [0020] Methylobacterium属 radiotoleransに属する微生物としては、新規微生物 SB 0202菌株（FERM P—19301) (以下、 SB0202菌株とレヽう）力 S好ましレヽ。  [0019] The microorganism used in the method of the present invention is preferably selected from microorganisms belonging to the genus Methylobacterium radiotolerans.  [0020] The microorganism belonging to the genus Methylobacterium radiotolerans is a novel microorganism SB 0202 strain (FERM P-19301) (hereinafter referred to as SB0202 strain). 
+ 
+ 
+    [0021] SB0202菌株を用いて、ホルムアルデヒド及び/又はメタノールを分解処理するこ とが好ましい。   [0021] Formaldehyde and / or methanol are preferably decomposed using the SB0202 strain. 
+ 
+ 
+    [0022] 本発明の方法において用いる微生物は、 Candida属 maltosaに属する微生物か ら選択されることが好ましい。   [0022] The microorganism used in the method of the present invention is preferably selected from microorganisms belonging to the genus Candida maltosa. 
+ 
+ 
+   [0023] Candida属 maltosaに属する微生物としては、新規微生物 SB0201菌株（FER [0023] The microorganism belonging to the genus Candida maltosa includes a novel microorganism SB0201 strain (FER 
+ 
+ 
+   M P-19300) (以下、 SB0201菌株とレヽう）力 S好ましレヽ。  M P-19300) (hereinafter referred to as the SB0201 strain). 
+ 
+ 
+   [0024] SB0201菌株を用レ、て、フエノール、ホルムアルデヒド及びメタノールからなる群力 ら選択される 1種又は 2種以上を分解処理することが好ましい。  [0024] Preferably, one or more selected from the group consisting of phenol, formaldehyde and methanol is degraded using the SB0201 strain. 
+ 
+ 
+   [0025] 本発明の方法で用いる微生物として、新規微生物 SB0301菌株（FERM P— 196 [0025] The microorganism used in the method of the present invention is a novel microorganism SB0301 strain (FERM P-196). 
+ 
+ 
+   81)、新規微生物 SB0202菌株（FERM P—19301)及び新規微生物 SB0201菌 株（FERM P-19300)力 なる群から選択される 2種以上の菌株を用いることが好 ましい。  81), a novel microorganism SB0202 strain (FERM P-19301) and a novel microorganism SB0201 strain (FERM P-19300) are preferably used. 
+ 
+ 
+    [0026] (I)微生物による有機化合物の分解処理方法   (I) Method for Decomposing Organic Compound by Microorganism 
+ 
+ 
+    以下、用いる微生物の種類別に、本発明の方法を説明する。   Hereinafter, the method of the present invention will be described for each type of microorganism used. 
+ 
+ 
+   [0027] (1)シユードモナス sp.である微生物を用いる方法  (1) A method using a microorganism that is Pseudomonas sp. 
+ 
+ 
+    シユードモナス sp.である微生物を用いて、クレゾール、フエノール、ホルムアルデ ヒド、及びメタノールなどの有機化合物を分解処理する本発明の方法において、シュ ードモナス sp.の微生物としては、本発明の新規微生物 SB0301菌株を用いること が好ましい。   In the method of the present invention for decomposing organic compounds such as cresol, phenol, formaldehyde, and methanol using the microorganism Pseudomonas sp., The novel microorganism SB0301 of the present invention is used as the microorganism of Pseudomonas sp. It is preferable to use them. 
+ 
+ 
+    [0028] 本発明の処理方法の方式には、特に制限はなぐ公知の活性汚泥方式によって行 つてもよく、あるいはバイオリアクター方式によって行ってもよい。 目的に適した方式を 適宜に選択することができる。   [0028] The method of the treatment method of the present invention may be performed by a known activated sludge method, which is not particularly limited, or may be performed by a bioreactor method. A method suitable for the purpose can be appropriately selected. 
+ 
+ 
+   [0029] 例えば、活性汚泥法では微生物の棲息する水槽に上記有機化合物を含む水溶液  [0029] For example, in the activated sludge method, an aqueous solution containing the organic compound is placed in a water tank in which microorganisms live. 
+ 
+ 
+    (廃液）を投入し、微生物と接触させることで、有機化合物を分解処理することができ る。   (Waste liquid) is put into contact with microorganisms to decompose organic compounds. 
+ 
+ 
+    [0030] また、散水濾床法、浸漬濾床法、菌体固定法にぉレ、ては微生物を固定化し、そこ 
+
+ に有機化合物を含む水溶液 (廃液）を接触させることにより、上記有機化合物を分解 処理すること力 Sできる。  [0030] In addition, the sprinkling filter method, the immersion filter method, and the cell fixing method are used to immobilize microorganisms.  By bringing an aqueous solution (waste liquid) containing an organic compound into contact with the substrate, it is possible to decompose the organic compound. 
+ 
+ 
+    [0031] なお、本発明の処理方法において、新規微生物 SB0301菌は、有機化合物の分 解処理に当たり、単独で用いてもよいし、従来の活性汚泥法などで用いられている公 知の微生物及び Z又は本発明の他の新規微生物と組み合わせて用いてもよい。   [0031] In the treatment method of the present invention, the novel microorganism SB0301 may be used alone in decomposing organic compounds, or may be a known microorganism used in a conventional activated sludge method or the like. It may be used in combination with Z or another novel microorganism of the present invention. 
+ 
+ 
+    [0032] 本発明の処理方法によって処理される対象は、主として化学工業等の製造過程で 生じる上記有機化合物を含む廃液であるが、本発明はこれに限定されず、上記有機 化合物を含む水性液体であればょレ、。   [0032] The object to be treated by the treatment method of the present invention is a waste liquid containing the above-mentioned organic compound mainly generated in a manufacturing process of a chemical industry or the like, but the present invention is not limited to this, and an aqueous liquid containing the above-mentioned organic compound is used. If so, 
+ 
+ 
+    [0033] 上記有機化合物の分解処理温度は、一般に 10 40°C、好ましくは 15 35°Cの 範囲である。処理時 pHは、一般に 6. 0-9. 0、好ましくは 6. 5-8. 5の範囲である 。分解処理は好気的条件で行うことが好ましい。また、分解処理に先立ち、必要に応 じて各種前処理を行ってもよい。   [0033] The decomposition temperature of the above organic compound is generally in the range of 1040 ° C, preferably 1535 ° C. The pH during the treatment is generally in the range 6.0-9.0, preferably 6.5-8.5. The decomposition treatment is preferably performed under aerobic conditions. Prior to the decomposition process, various pretreatments may be performed as necessary. 
+ 
+ 
+    [0034] 本発明の処理方法によれば、後記する実施例 3— 8で示すように、 1, 400mg/L 濃度の m—タレゾールを単独で含有する水性液体中の m—タレゾールを 7日で 99% 以上分解することができ、同様に 1, 200mg/L濃度の p—タレゾール又は 0-クレゾ ールをそれぞれ単独で含有する水性液体中のこれらの有機化合物を 7日で 99%以 上分解すること力できる。また、 1, 600mg/L濃度のフエノールを単独で含有する水 性液体中のフエノールを 1日で 95%以上分解することができ、同様に 400mg/L濃 度のホルムアルデヒドを単独で含有する水性液体中のホルムアルデヒドを 2日で 99 %以上分解することができ、 1， 500mg/L濃度のメタノールを単独で含有する水性 液体中のメタノールを 7日で約 55%分解することができる。   [0034] According to the treatment method of the present invention, as shown in Example 3-8 described later, m-talesole in an aqueous liquid containing 1,400 mg / L concentration of m-talesole alone in 7 days. Can decompose 99% or more, and similarly, decompose these organic compounds in aqueous liquid containing 1,200 mg / L concentration of p-talesol or 0-cresol alone in 99 days or more. I can do it. In addition, phenol in an aqueous liquid containing 1600 mg / L of phenol alone can be decomposed by 95% or more in one day, and an aqueous liquid containing 400 mg / L of formaldehyde alone It can decompose more than 99% of formaldehyde in 2 days and about 55% of methanol in aqueous liquid containing 1,500 mg / L of methanol alone in 7 days. 
+ 
+ 
+    [0035] さらに、実施例 1で示すようにフヱノール、ホルムアルデヒド及びメタノールを各々 25 OmgZLの濃度で含む水性液体中のフヱノール及びホルムアルデヒドを、 2日で 99 %以上分解することができ、メタノーノレを 9日で約 20%分解することができる。   Further, as shown in Example 1, 99% or more of the phenol and formaldehyde in the aqueous liquid containing phenol, formaldehyde and methanol at a concentration of 25 OmgZL each could be decomposed in 99 days or more in 2 days. In about 20%. 
+ 
+ 
+    [0036] その上、実施例 2で示すようにフヱノール、ホルムアルデヒド及びメタノールを各々 2 50mgZL、 m， p, o—タレゾールを各々 25mgZLの濃度で含む水性液体中のフエノ ール及びホルムアルデヒドを、 2日で 99%以上分解することができ、 m， p_クレゾ一 ルを 2日で 90%以上分解することができ、 o—タレゾールを 7日で約 30%分解すること 
+
+ ができ、メタノーノレを 7日で約 10%分解することができる。  Further, as shown in Example 2, phenol and formaldehyde in an aqueous liquid containing phenol, formaldehyde and methanol at a concentration of 250 mg ZL each, and m, p, o-talesole at a concentration of 25 mg ZL each were used for 2 days. Can decompose more than 99% in 90%, can decompose m, p_cresol more than 90% in 2 days, and decompose o-talesol in about 30% in 7 days  Can decompose methanoles in about 10% in 7 days. 
+ 
+ 
+   [0037] (2) Methylobacterium属 radiotoleransに属する微生物を用いる方法  (2) Method using a microorganism belonging to the genus Methylobacterium radiotolerans 
+ 
+ 
+    Methylobacterium属 radiotoleransに属する微生物を用いて、ホルムアルデヒ ド、メタノールなどの有機化合物を分解処理する本発明の方法において、 Methylob acterium属 radiotoleransに属する微生物としては、本発明の新規微生物 SB02  In the method of the present invention for decomposing an organic compound such as formaldehyde and methanol using a microorganism belonging to the genus Methylobacterium radiotolerans, the microorganism belonging to the genus Methylobacterium radiotolerans includes a novel microorganism SB02 of the present invention. 
+ 
+ 
+   02菌株を用いることが好ましレ、。  It is preferable to use 02 strains. 
+ 
+ 
+   [0038] 本発明の処理方法の方式は、特に制限されず、公知の活性汚泥方式により行って もよぐあるいはバイオリアクター方式により行ってもよぐ 目的に適した方式を適宜に 選択すること力 Sできる。  [0038] The method of the treatment method of the present invention is not particularly limited, and it may be carried out by a known activated sludge method or by a bioreactor method. S can. 
+ 
+ 
+    [0039] 例えば、活性汚泥法では微生物の生息する水槽に、ホルムアルデヒド、メタノール などの生物難分解性の有機化合物を含む水性液体 (廃液)を投入し、微生物と接触 させることで、ホルムアルデヒド、メタノールなどの生物難分解性の有機化合物を分解 処理すること力 Sできる。   [0039] For example, in the activated sludge method, an aqueous liquid (waste liquid) containing a biodegradable organic compound such as formaldehyde and methanol is put into a water tank where microorganisms inhabit and brought into contact with the microorganisms to formaldehyde and methanol. The ability to decompose biorefractory organic compounds. 
+ 
+ 
+    [0040] また、散水濾床法、浸漬濾床法、菌体固定法にぉレ、ては微生物を担体に固定化し 、そこにホルムアルデヒド、メタノールなどの生物難分解性の有機化合物を含む水性 液体 (廃液）を接触させることにより、分解処理分解することができる。   [0040] Further, according to the trickling filter method, the immersion filter method, and the cell fixing method, the microorganism is immobilized on a carrier, and an aqueous liquid containing a biodegradable organic compound such as formaldehyde and methanol therein. (Waste liquid) can be decomposed and decomposed by contact. 
+ 
+ 
+    [0041] なお、本発明の処理方法において、新規微生物 SB0202菌株は、有機化合物を 含む水性液体 (廃液）の分解処理に当たり、単独で用いてもよいし、従来の活性汚泥 法などで用いられている公知の微生物及び/又は本発明の他の新規微生物と組み 合わせて用いてもよい。   [0041] In the treatment method of the present invention, the novel microorganism SB0202 strain may be used alone in the decomposition treatment of an aqueous liquid (waste liquid) containing an organic compound, or may be used in a conventional activated sludge method or the like. It may be used in combination with certain known microorganisms and / or other novel microorganisms of the present invention. 
+ 
+ 
+    [0042] 本発明の処理方法によって処理される対象は、主として化学工業等の製造過程で 生じるホルムアルデヒド、メタノールなどの生物難分解性の有機化合物を含む廃液で あるが、本発明はこれに限定されず、上記有機化合物を含む水溶液体であればよい   [0042] The object to be treated by the treatment method of the present invention is a waste liquid mainly containing biodegradable organic compounds such as formaldehyde and methanol generated in the production process of the chemical industry, but the present invention is not limited thereto. Any aqueous solution containing the above organic compound may be used. 
+ 
+ 
+   [0043] 上記有機化合物の分解処理時の処理温度は、一般に 15— 40°C、好ましくは 20— 35°Cの範囲とするのがよレ、。処理時 pHは、一般に 5. 5-8. 0、好ましくは 6. 0-7. 5の範囲とするのがよレ、。分解処理は、好気的条件下で行うことが好ましい。  [0043] The treatment temperature during the decomposition treatment of the organic compound is generally in the range of 15 to 40 ° C, preferably 20 to 35 ° C. During the treatment, the pH is generally in the range of 5.5-8.0, preferably 6.0-7.5. The decomposition treatment is preferably performed under aerobic conditions. 
+ 
+ 
+    [0044] 本発明の処理方法によれば、後記する実施例で示すように、 6, 000mg/L濃度の 
+
+ ホルムアルデヒドを単独で含有する水性液体中のホルムアルデヒドを 7日間でほぼ 8 7%以上分解することができ、同様に 20, 000mg/L濃度のメタノールを単独で含有 する水性液体中のメタノールを 10日間でほぼ 99%以上分解することができる。  [0044] According to the treatment method of the present invention, as shown in Examples described later, the concentration of 6,000 mg / L  Formaldehyde in an aqueous liquid containing formaldehyde alone can be degraded by about 87% or more in 7 days, and similarly, methanol in an aqueous liquid containing 20,000 mg / L methanol alone can be decomposed in 10 days. It can decompose almost 99% or more. 
+ 
+ 
+   [0045] さらに、ホルムアルデヒド及びメタノールを各々 5000mg/Lの濃度で含む水性液 体中のホルムアルデヒド及びメタノールを、 3日間でほぼ 99%以上分解することがで きる。  [0045] Further, formaldehyde and methanol in an aqueous liquid containing formaldehyde and methanol at a concentration of 5000 mg / L can be decomposed by about 99% or more in 3 days. 
+ 
+ 
+    [0046] また、本発明の新規微生物 SB0202菌株は、フエノールに対する分解能は有して いないが、フヱノールに対する耐性（抵抗性）を有しているので、フヱノールの存在下 であってもホルムアルデヒドやメタノールなどの有機化合物を分解することができる。 フエノール 2000mg/Lの存在下で死滅することなく、ホノレムァノレデヒド 2000mg/L を 10日で 98。/ 0 以上分解することができる。  [0046] The novel microorganism SB0202 strain of the present invention does not have the ability to degrade phenol, but has the resistance (resistance) to phenol. Therefore, even in the presence of phenol, it contains formaldehyde and methanol. Can be decomposed. In the presence of 2000 mg / L of phenol, without dying, honoremuanoledaldehyde 2000 mg / L in 98 days. /  0  or more can be decomposed. 
+ 
+ 
+    [0047] (3) Candida属 maltosaに属する微生物を用いる方法   (3) Method using a microorganism belonging to the genus Candida maltosa 
+ 
+ 
+    Candida属 maltosaに属する微生物を用いて、フエノール、ホノレムアルデヒド、及 びメタノールなどの有機化合物を分解処理する本発明の方法において、 Candida属 maltosaに属する微生物としては、本発明の新規微生物 SB0201菌株を用いるこ とが好ましい。   In the method of the present invention for decomposing organic compounds such as phenol, honolemaldehyde, and methanol using a microorganism belonging to the genus Candida maltosa, the microorganism belonging to the genus Candida maltosa includes the novel microorganism SB0201 strain of the present invention. It is preferable to use them. 
+ 
+ 
+    [0048] 本発明の処理方法の方式には、特に制限はなぐ公知の活性汚泥方式によって行 つてもよく、あるいはバイオリアクター方式によって行ってもよい。 目的に適した方式を 適宜に選択することができる。   [0048] The method of the treatment method of the present invention may be performed by a known activated sludge method, which is not particularly limited, or may be performed by a bioreactor method. A method suitable for the purpose can be appropriately selected. 
+ 
+ 
+   [0049] 例えば、活性汚泥法では微生物の棲息する水槽に上記有機化合物を含む水溶液  [0049] For example, in the activated sludge method, an aqueous solution containing the organic compound is placed in an aquarium in which microorganisms live. 
+ 
+ 
+    (廃液）を投入し、微生物と接触させることで、水性液体 (廃液）中に含まれる有機化 合物を分解処理することができる。   (Waste liquid) is put into contact with microorganisms, so that organic compounds contained in the aqueous liquid (waste liquid) can be decomposed. 
+ 
+ 
+   [0050] また、散水濾床法、浸漬濾床法、菌体固定法にぉレ、ては微生物を固定化し、そこ に有機化合物を含む水溶液 (廃液）を接触させることにより、水性液体 (廃液）中の上 記有機化合物を分解処理することができる。  [0050] In addition, by using the trickling filter method, the immersion filter method, and the cell fixing method, the microorganisms are immobilized, and an aqueous solution containing an organic compound (waste liquid) is brought into contact with the microorganism to fix the aqueous liquid (waste liquid). The above organic compounds in ()) can be decomposed. 
+ 
+ 
+   [0051] なお、本発明の処理方法において、新規微生物 SB0201菌は、水性液体 (廃液） 中に含まれる有機化合物の分解処理に当たり、単独で用いてもよいし、従来の活性 汚泥法などで用いられている公知の微生物及び/又は本発明の他の新規微生物と 
+
+ 組み合わせて用いてもょレ、。  [0051] In the treatment method of the present invention, the novel microorganism SB0201 may be used alone or used in a conventional activated sludge method or the like in decomposing organic compounds contained in an aqueous liquid (waste liquid). Known microorganisms and / or other novel microorganisms of the present invention  May be used in combination. 
+ 
+ 
+    [0052] 本発明の処理方法によって処理される対象は、主として化学工業等の製造過程で 生じる上記有機化合物を含む廃液であるが、本発明はこれに限定されず、上記有機 化合物を含む水性液体であればょレ、。   [0052] The object to be treated by the treatment method of the present invention is a waste liquid containing the above-mentioned organic compound, which is mainly generated in a manufacturing process of a chemical industry or the like, but the present invention is not limited to this, and an aqueous liquid containing the above-mentioned organic compound is used. If so, 
+ 
+ 
+    [0053] 上記有機化合物の分解処理温度は、一般に 15 40°C、好ましくは 20 35°Cの 範囲である。処理時 pHは、一般に 5. 5-8. 0、好ましくは 6. 0-7. 5の範囲である 。分解処理は好気的条件で行うことが好ましレ、。   [0053] The decomposition temperature of the above organic compound is generally in the range of 1540 ° C, preferably 2035 ° C. The pH during the treatment is generally in the range 5.5-8.0, preferably 6.0-7.5. The decomposition treatment is preferably performed under aerobic conditions. 
+ 
+ 
+    [0054] 本発明の処理方法によれば、後記する実施例で示すように、 2, 500mg/L濃度の フエノールを単独で含有する水性液体中のフヱノールを 8日間でほぼ 99%以上分解 すること力 Sでき、同様に 2, 000mg/L濃度のホルムアルデヒド又はメタノールをそれ ぞれ単独で含有する水性液体中のこれらの有機化合物を 8日間でほぼ 99。/。以上分 角军すること力 Sできる。   According to the treatment method of the present invention, as shown in Examples described later, almost 99% or more of phenol in an aqueous liquid containing phenol alone at a concentration of 2,500 mg / L is decomposed in 8 days. These organic compounds in aqueous liquids containing 2,000 mg / L concentration of formaldehyde or methanol alone, respectively, are almost 99 in 8 days. /. More than the angle can be S. 
+ 
+ 
+    [0055] さらに、フエノール、ホルムアルデヒド及びメタノールを各々 750mg/Lの濃度で含 む水性液体中のフエノール及びホルムアルデヒドを、 2日間でほぼ 99%以上分解す ること力 Sでき、メタノールを 3日間で 40%程度分解することができる。   [0055] Furthermore, phenol and formaldehyde in an aqueous liquid containing 750 mg / L each of phenol, formaldehyde and methanol can be decomposed by almost 99% or more in two days, and methanol can be decomposed in 40 days by 40 days. % Can be decomposed. 
+ 
+ 
+    [0056] フエノール及びホルムアルデヒドを各々 500mg/Lの濃度で含む水性液体中のフ ェノール及びホルムアルデヒドを 1日間でほぼ 99%以上分解することができ、フエノ ール及びホルムアルデヒドを各々 750mg/Lの濃度で含む水性液体中のホルムァ ノレデヒドを 1日間で、フエノールを 2日間でほぼ 99%以上分解することができる。   [0056] Phenol and formaldehyde in an aqueous liquid containing phenol and formaldehyde at a concentration of 500 mg / L can be decomposed almost 99% or more in one day, and phenol and formaldehyde at a concentration of 750 mg / L each. It can decompose formaldehyde in an aqueous liquid containing phenol in almost one day and phenol in almost two days. 
+ 
+ 
+    [0057] 本発明の方法においては、微生物として、 SB0301菌株、 SB0202菌株及び SB0 201菌株から選択された 2種以上の菌株を組み合わせて用いてもよい。これらの新 規微生物を組み合わせることにより、より効率良く有機化合物を分解処理することが できる。   In the method of the present invention, two or more strains selected from the strains SB0301, SB0202, and SB0201 may be used in combination as the microorganism. By combining these new microorganisms, organic compounds can be decomposed more efficiently. 
+ 
+ 
+    [0058] (4) SB0202菌株及び SB0201菌株を合わせて用いる方法   (4) Method of using SB0202 strain and SB0201 strain together 
+ 
+ 
+    本発明の処理方法によれば、後記する実施例 21で示すように、フエノール、ホルムァ ルデヒド及びメタノールを各々 lOOOmgZLの濃度で含む水性液体中のフヱノール 及びホルムアルデヒドを、 4日で 99%以上分解することができ、メタノールを 6日で 99 %以上分解することができる。これらの新規微生物 SB0202菌株及び SB0201菌株 
+
+ を単独で用いるよりも組み合わせて用いることで、フエノール、ホルムアルデヒド及び メタノールを含む水性液体中のフエノール、ホルムアルデヒド及びメタノールを効率よ く分解処理することができる。  According to the treatment method of the present invention, as shown in Example 21 to be described later, phenol and formaldehyde in an aqueous liquid containing phenol, formaldehyde and methanol at a concentration of 100 mgZL each can be decomposed by 99% or more in 4 days. Can decompose methanol by 99% or more in 6 days. These new microorganisms SB0202 strain and SB0201 strain  By using a combination of phenol, formaldehyde and methanol, phenol, formaldehyde and methanol in an aqueous liquid containing phenol, formaldehyde and methanol can be efficiently decomposed. 
+ 
+ 
+    [0059] (5) SB0301菌株、 SB0202菌株及び SB0201菌株を合わせて用いる方法   (5) A method using a combination of the SB0301 strain, the SB0202 strain, and the SB0201 strain 
+ 
+ 
+    本発明の処理方法によれば、後記する実施例 22で示すように、フエノール、ホルムァ ノレデヒド及びメタノールを各々 250mgZL、 m, p, o—タレゾールを各々 50mgZLの 濃度で含む水性液体中のフヱノール及びホルムアルデヒドを、 2日で 99%以上分解 することができ、 m， p—タレゾールを 1日で 95%以上分解することができ、 o—クレゾ一 ルを 2日で 95%以上分解することができ、メタノーノレを 3日で 99%以上分解すること できる。これらの新規微生物 SB0301菌株、 SB0202菌株及び SB0201菌株を単独 で用いるよりも組み合わせて用いることで、フエノール、ホルムアルデヒド、メタノーノレ 及び m， p， o—タレゾールを含む水性液体中のフヱノール、ホルムアルデヒド、メタノ ール及び m, p, o—タレゾールを効率よく分解処理することができる。   According to the treatment method of the present invention, as shown in Example 22 below, phenol and formaldehyde in an aqueous liquid containing phenol, formanolaldehyde and methanol at a concentration of 250 mg ZL each, and m, p, o-talesol at a concentration of 50 mg ZL each. Can be degraded by 99% or more in 2 days, m, p-talesole can be degraded by 95% or more in 1 day, o-cresol can be degraded by 95% or more in 2 days, Methanol can be degraded by more than 99% in 3 days. By using these novel microorganisms SB0301, SB0202 and SB0201 in combination rather than alone, phenol, formaldehyde and methanol in aqueous liquids containing phenol, formaldehyde and methanol and m, p, o-taresol And m, p, o-talesol can be efficiently decomposed. 
+ 
+ 
+    [0060] (Π)新規微生物   [0060] (Π) New microorganism 
+ 
+ 
+    次に、上記本発明の方法において用いるのに好適な、殺菌性のある生物難分解性 の有機化合物を高濃度で含む廃液を効率よく分解することができる 3種類の新規微 生物について説明する。   Next, three kinds of novel microorganisms suitable for use in the method of the present invention and capable of efficiently decomposing waste liquid containing a high concentration of a bactericidal organic compound that is hardly degradable are described. 
+ 
+ 
+    [0061] 本発明の第 1の新規微生物は、シユードモナス sp.である、クレゾール、フエノーノレ 、ホルムアルデヒド及びメタノールなどの有機化合物に対して分解能を有する新規微 生物 SB0301菌株（FERM P— 19681) (以下、 SB0301菌株とレヽう）である。   [0061] The first novel microorganism of the present invention is Pseudomonas sp., A novel microorganism SB0301 strain (FERM P-19681) (FERM P-19681) capable of decomposing organic compounds such as cresol, phenol, formaldehyde and methanol. This is referred to as the SB0301 strain). 
+ 
+ 
+    [0062] 本発明の第 2の新規微生物は、 Methylobacterium属 radiotoleransに属し、ホ ルムアルデヒド及びメタノールなどの有機化合物に対して分解能を有する新規微生 物 SB0202菌株（FERM P—19301) (以下、 SB0202菌株とレヽう）である。   [0062] The second novel microorganism of the present invention belongs to the genus Methylobacterium radiotolerans, and is a novel microorganism SB0202 strain (FERM P-19301) (hereinafter referred to as SB0202) having the ability to degrade organic compounds such as formaldehyde and methanol. Strains). 
+ 
+ 
+    [0063] 本発明の第 3の新規微生物は、 Candida属 maltosaに属し、フヱノール、ホルム アルデヒド及びメタノールなどの有機化合物に対して分解能を有することを特徴とす る新規微生物 SB0201菌株（FERM P—19300) (以下、 SB0201菌株とレ、う）であ る。   [0063] The third novel microorganism of the present invention belongs to the genus Candida maltosa, and has the ability to degrade organic compounds such as phenol, formaldehyde and methanol. The microorganism SB0201 (FERM P-19300 ) (Hereinafter referred to as SB0201 strain). 
+ 
+ 
+    [0064] (1) SB0301菌株 
+
+ 本発明の第 1の新規微生物である SB0301菌株は、シユードモナス sp.であり、ク レゾール、フエノール、ホルムアルデヒド及びメタノールなどの有機化合物に対して分 解能を有することを特徴とする。  [0064] (1) SB0301 strain  The SB0301 strain, which is the first novel microorganism of the present invention, is Pseudomonas sp., And is characterized by being capable of decomposing organic compounds such as cresol, phenol, formaldehyde, and methanol. 
+ 
+ 
+    [0065] 本発明の新規微生物 SB0301菌株は、シユードモナス sp.であり、以下のようにし て単離されたものである。先ず、土壌や貯水槽の水をサンプリングし、その中に存在 している微生物の中から高濃度のクレゾール、フエノール、ホルムアルデヒド、メタノー ルに耐性を有し、かつ、少なくともこれらの化合物 1つないし 2つ以上を分解資化でき る微生物の探索を行った。それにより見出した高濃度のクレゾール、フエノール、ホル ムアルデヒド、メタノールを分解資化できる微生物を単離した。   [0065] The novel microorganism SB0301 strain of the present invention is Pseudomonas sp., And is isolated as follows. First, soil or water in a water tank is sampled, and it is resistant to high concentrations of cresol, phenol, formaldehyde, and methanol among microorganisms present in it, and at least one or more of these compounds Microorganisms capable of decomposing more than one were searched. Microorganisms capable of decomposing and assimilating the high concentrations of cresol, phenol, formaldehyde, and methanol found thereby were isolated. 
+ 
+ 
+    [0066] 前記特許文献 1のシユードモナス.セパシァ KK01株は、現在の分類ではベータプ 口テオバクテリア綱（Betaproteobacteria)の中のバークホルデリア属セパシァ（   [0066] In the current classification, Pseudomonas sp. Strain KK01 of Patent Document 1 is Burkholderia sp. (Betaproteobacteria) belonging to the class B Betaproteobacteria. 
+ 
+ 
+    Burkholderia cepacia)と分類されている。それに対し上記のように単離した本発明の 新規微生物 SB0301菌株は、ガンマプロテオバクテリア綱（Gammaproteobacteria)の 中のシユードモナス sp. (Pseudomonas sp.)であり、両者は細菌分類学上の綱のレ ベルでまったく異なる分類群に属する異なる細菌である。   Burkholderia cepacia). On the other hand, the novel microorganism SB0301 strain of the present invention isolated as described above is a Pseudomonas sp. Are different bacteria belonging to completely different taxa. 
+ 
+ 
+    [0067] 本発明の新規微生物は、下記表 1及び表 2に示す微生物学的性質を有する。出願 人はこの新規微生物に SB0301の識別番号を付し、この微生物の菌株を産業技術 総合研究所 特許生物寄託センタ-に国内寄託した (微生物寄託番号 FERM P - 1 9681)。その後、この原寄託をブダペスト条約上の寄託に移管するための申請書を 、国際寄託当局である産業技術総合研究所 特許生物寄託センター（〒 305-856 6 日本国茨城県つくば巿東 1丁目 1番地 1 中央第 6)に提出し、国際寄託番号 FE RM BP— 10035を付与された。   [0067] The novel microorganism of the present invention has the microbiological properties shown in Tables 1 and 2 below. The applicant assigned the identification number of SB0301 to this new microorganism and deposited the strain of this microorganism in Japan with the National Institute of Advanced Industrial Science and Technology, Patent Organism Depositary (Microorganism Deposit Number FERM P-1 9681). Subsequently, an application for transferring this original deposit to a deposit under the Budapest Treaty was filed with the International Depository Authority, National Institute of Advanced Industrial Science and Technology, Patent Organism Depositary (〒 Tsukuba-Higashi, Ibaraki, Japan 305-8566, Japan). Address 1 Central No. 6) and assigned International Deposit Number FE RM BP-10035. 
+ 
+ 
+    [0068] [表 1] 
+
+
+ 
+ [0068] [Table 1]    
+ 
+ 
+   表 2  Table 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0070] SB0301菌を培養するために用いられる培地の栄養源としては、通常の微生物の 生育に必要であって本菌が資化可能な栄養源であればレ、かなる炭素源、窒素源及 び無機塩類等でもよい。  [0070] The nutrient source of the medium used for culturing the SB0301 bacterium may be any nutrient that is necessary for the growth of normal microorganisms and can be assimilated by the bacterium, such as a carbon source or a nitrogen source. And inorganic salts. 
+ 
+ 
+    [0071] 例えば炭素源としては、クレゾール、フエノール、ホルムアルデヒド、メタノールなど の有機化合物、酵母エキス、さかなエキスなどの天然物などが利用できる。窒素源と しては硫酸アンモニゥムなどのアンモニゥム塩、硝酸ナトリウムなどの硝酸塩、ぺプト ンなどの天然物が利用できる。無機成分としてはカリウム塩、カルシウム塩、ナトリウム 塩、マグネシウム塩、鉄塩、マンガン塩、りん酸塩などを用いることができる。   [0071] For example, as the carbon source, organic compounds such as cresol, phenol, formaldehyde, and methanol, and natural products such as yeast extract and fish extract can be used. As the nitrogen source, there can be used ammonium salts such as ammonium sulfate, nitrates such as sodium nitrate, and natural products such as leptone. As the inorganic component, potassium salt, calcium salt, sodium salt, magnesium salt, iron salt, manganese salt, phosphate and the like can be used. 
+ 
+ 
+    [0072] SB0301菌株の培養条件は以下の通りである。培養温度は 10— 40°C、好ましくは   [0072] The culture conditions of the SB0301 strain are as follows. Culture temperature is 10-40 ° C, preferably 
+ 
+ 
+    15— 35。Cであり、 ρΗίま 6. 0-9. 0、好ましく ίま 6. 5— 8. 5で、好気白勺に培養を行う   15—35. C, cultivation on aerobic stirrups at ρΗί6.0-9.0, preferably 6.6.5-8.5 
+ 
+ 
+   [0073] 本発明の新規微生物 SB0301菌株は、クレゾール、フエノール、ホルムアルデヒド 及びメタノールなどの有機化合物に対して分解能を有する。特に、クレゾール、及び 
+
+ フエノールに対する分解能に優れてレヽる。  The novel microorganism SB0301 strain of the present invention has the ability to degrade organic compounds such as cresol, phenol, formaldehyde, and methanol. In particular, cresol, and  Excellent resolution for phenol. 
+ 
+ 
+    [0074] SB0301菌株は、クレゾール、フエノール、ホルムァノレデヒド、メタノールなどを単独 で含む廃水、又は複数種が混在している廃水でも処理することができる。   [0074] The SB0301 strain can also be treated with wastewater containing cresol, phenol, formanolaldehyde, methanol, or the like alone, or with wastewater containing a mixture of a plurality of types. 
+ 
+ 
+    [0075] SB0301菌株が分解資化できる、水性液体中に含まれる上記有機化合物の濃度 は、化合物によって異なる力 一般に 2, 000mg/L以下、好ましくは 200 1， 500 mgZLの範囲である。この濃度範囲は、従来の活性汚泥菌群で処理できる濃度の 約 10— 75倍に相当する。   [0075] The concentration of the organic compound contained in the aqueous liquid, which can be assimilated by the SB0301 strain, varies depending on the compound. The concentration is generally 2,000 mg / L or less, and preferably in the range of 200 1,500 mg ZL. This concentration range corresponds to about 10 to 75 times the concentration that can be treated by the conventional activated sludge group. 
+ 
+ 
+    [0076] (2) SB0202菌株   (2) SB0202 strain 
+ 
+ 
+    本発明の第 2の新規微生物である SB0202菌株は、 Methylobacterium属 radi otoleransに属し、ホルムアルデヒド及びメタノールなどの有機化合物に対して分解 能を有することを特徴とする。   The SB0202 strain, which is the second novel microorganism of the present invention, belongs to the genus Methylobacterium radi otolerans and is characterized by being capable of degrading organic compounds such as formaldehyde and methanol. 
+ 
+ 
+    [0077] 本発明の新規微生物 SB0202菌株は、 Methylobacterium属 radiotoleransに 属する。 SB0202菌株は以下のようにして単離されたものである。まず、土壌や貯水 槽の水をサンプリングし、その中に存在してレ、る微生物の中から高濃度のホルムアル デヒド、メタノールなどの殺菌作用のある生物難分解性の有機化合物を分解資化で きる微生物の探索を行い、見出した微生物を単独に分離した。   [0077] The novel microorganism SB0202 strain of the present invention belongs to the genus Methylobacterium radiotolerans. The SB0202 strain was isolated as follows. First, water from soil and water tanks is sampled, and high-concentration biodegradable organic compounds, such as formaldehyde and methanol, that have a high bactericidal action, are used to decompose the microorganisms that exist in the water. Microorganisms that could be found were searched, and the found microorganisms were isolated independently. 
+ 
+ 
+    [0078] 本発明に有用な微生物は、下記表 3及び表 4に示す微生物学的性質を有する。本 発明出願人はこの微生物に「SB0202」の識別番号を付し、この微生物を産業技術 総合研究所 特許生物寄託センターに国内寄託した (微生物寄託番号 FERM P 一 19301)。その後、この原寄託をブダペスト条約上の寄託に移管するための申請書 を、国際寄託当局である産業技術総合研究所 特許生物寄託センター（干 305— 85 66 日本国茨城県つくば巿東 1丁目 1番地 1 中央第 6)に提出し、国際寄託番号 F ERM BP—10034を付与された。   [0078] Microorganisms useful in the present invention have the microbiological properties shown in Tables 3 and 4 below. The applicant of the present invention has attached an identification number of “SB0202” to this microorganism, and deposited the microorganism in Japan at the Patent Organism Depositary of the National Institute of Advanced Industrial Science and Technology (Microorganism Deposit Number FERM P-1 19301). Subsequently, an application for transferring this original deposit to a deposit under the Budapest Treaty was filed with the International Depository Authority, National Institute of Advanced Industrial Science and Technology, Patent Organism Depositary (Patent 305-85 66 Tsukuba East, Ibaraki, Japan 1-chome 1) Address No. 1 Central No. 6) and assigned International Deposit Number F ERM BP-10034. 
+ 
+ 
+    [0079] [表 3] 
+
+ 表 3  [0079] [Table 3]  Table 3 
+ 
+ 
+    本発明に有用な微 Ξ物 （ S B 0 2 0 2 ) の微生物学的性質   Microbiological properties of the microparticle (SB022) useful in the present invention 
+ 
+ 
+    桿菌   Bacilli 
+ 
+ 
+    細胞形態 (0. 8 1. 0 X 1. 5 2. 0 μ m) 空胞あり   Cell morphology (0.8.1.0 X 1.5.2 μm) with vacuoles 
+ 
+ 
+    グラム染色   Gram stain 
+ 
+ 
+    胞子   Spore 
+ 
+ 
+    運動性 +   Motility + 
+ 
+ 
+    培地： Nu t r i e n t A g a r 泰守間 ： 4 n r   Medium: Nutr i e n t Agara r Yamori: 4 nr 
+ 
+ 
+    円形   Round  
+ 
+ 
+    」口一 7Πί ら   口 口 7ΠίLa 
+ 
+ 
+    低凸坎 尤 ΐ め V   V 
+ 
+ 
+    ピンク色 （透明）   Pink (transparent) 
+ 
+ 
+    1 5 4 0。C  1 5 4 0. C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    チま しく ίϊ 0 > 5 し 力タラーゼ +   Ίϊ 0> 5 force tarase + 
+ 
+ 
+   ォキシタ一ゼ +  Oxitaze + 
+ 
+ 
+   酸 zガス産生  Acid z gas production 
+ 
+ 
+   (グルコ 一/一  (Gluco one / one 
+ 
+ 
+    ース）   Source) 
+ 
+ 
+    OZFテス ト   OZF test 
+ 
+ 
+   (グルコ 一/一  (Gluco one / one 
+ 
+ 
+    ース） 
+
+ Source)  
+ 
+ 
+   表 4 ：  Table 4: 
+ 
+ 
+    本発明に有用な微生物 ( S B 0 2 0 2 ) の微生物学的性質 （続き）   Microbiological properties of microorganisms (SB02202) useful in the present invention (continued) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0081] 本発明の SB0202菌を培養するために用いられる培地の栄養源としては、通常の 微生物の生育に必要であって本菌が資化可能な栄養源であればいかなる炭素源、 窒素源及び無機塩類等でもよい。  [0081] The nutrient source of the medium used for culturing the SB0202 bacterium of the present invention may be any carbon source or nitrogen source as long as it is necessary for normal growth of microorganisms and can be assimilated by the bacterium. And inorganic salts. 
+ 
+ 
+    [0082] 例えば炭素源としては、ホノレムアルデヒド、ギ酸、メタノーノレ、 p—ヒドロキシ安息香酸 などの有機化合物、酵母エキスなどの天然物などが利用できる。窒素源としては硫酸 アンモニゥムなどのアンモニゥム塩、硝酸ナトリウムなどの硝酸塩、ペプトンなどの天 然物が利用できる。無機成分としてはカリウム塩、カルシウム塩、ナトリウム塩、マグネ シゥム塩、鉄塩、マンガン塩、りん酸塩などを用いることができる。 
+
+ [0083] SB0202菌株の培養条件は以下の通りである。培養温度は 15— 40°C、好ましくは 20— 35。Cであり、 ρΗίま 5. 5-8. 0、好ましく ίま 6. 0— 7. 5で、好気白勺に培養を行う  For example, as the carbon source, organic compounds such as honolemaldehyde, formic acid, methanol, and p-hydroxybenzoic acid, and natural products such as yeast extract can be used. As the nitrogen source, ammonium salts such as ammonium sulfate, nitrates such as sodium nitrate, and natural substances such as peptone can be used. As the inorganic components, potassium salts, calcium salts, sodium salts, magnesium salts, iron salts, manganese salts, phosphates and the like can be used.  [0083] The culture conditions of the SB0202 strain are as follows. The culture temperature is 15-40 ° C, preferably 20-35. C, ρ に 5.5-8.0, preferably 6.6.0-7.5, cultivation on aerobic stirrup 
+ 
+ 
+   [0084] 本発明の新規微生物 SB0202菌株は、ホルムアルデヒド及びメタノールなどの有機 化合物に対して分解能を有する。ここで、これらの有機化合物は殺菌作用のある生 物難分解性化合物であり、 SB0202菌株は上記化合物の他、例えば、サリチル酸、 ヒドロキシ安息香酸、ギ酸などを分解することができる。  [0084] The novel microorganism SB0202 strain of the present invention has the ability to degrade organic compounds such as formaldehyde and methanol. Here, these organic compounds are biodegradable compounds having a bactericidal action, and the SB0202 strain can degrade salicylic acid, hydroxybenzoic acid, formic acid and the like in addition to the above compounds. 
+ 
+ 
+    [0085] SB0202菌株は、ホルムアルデヒド及びメタノールなどを単独で含む廃水中、又は 複数種が混在している廃水中の有機化合物でも分解処理することができる。   [0085] The SB0202 strain can also decompose organic compounds in wastewater containing formaldehyde and methanol alone, or in wastewater in which a plurality of species are mixed. 
+ 
+ 
+    [0086] SB0202菌株は、ホルムアルデヒド、メタノールなどの殺菌作用のある生物難分解 性の有機化合物が 25, 000mg/L以下、好ましくは 200 5， OOOmgZLの濃度で 含まれる水性液体中のホルムアルデヒド、メタノールなどの生物難分解性の有機化合 物を分解資化することができる。この濃度範囲は、従来の活性汚泥菌群で処理でき る濃度の約 5— 500倍に相当する。   [0086] The SB0202 strain contains formaldehyde, methanol, etc. in an aqueous liquid containing bactericidal, biodegradable organic compounds such as formaldehyde and methanol at a concentration of 25,000 mg / L or less, and preferably at a concentration of 2005, OOOmgZL. Biodegradable organic compounds can be decomposed and utilized. This concentration range corresponds to about 5-500 times the concentration that can be treated by the conventional activated sludge group. 
+ 
+ 
+    [0087] なお、 SB0202菌株は、フエノールに対する分解能は有していないが、フエノーノレ に対する耐性 (抵抗性）を有しているため、フエノールが含まれている、ホルムアルデ ヒド及び/又はメタノールを含む廃液であっても、ホルムアルデヒド及びメタノールな どの有機化合物を効率よく分解処理することができる。   [0087] Note that the SB0202 strain does not have the ability to degrade phenol, but has resistance (resistance) to phenol, and is therefore a waste solution containing phenol and containing formaldehyde and / or methanol. Even so, organic compounds such as formaldehyde and methanol can be efficiently decomposed. 
+ 
+ 
+    [0088] (3) SB0201菌株   (3) SB0201 strain 
+ 
+ 
+    本発明の第 3の新規微生物である SB0201菌株は、 Candida属 maltosaに属し、 フエノーノレ、ホルムアルデヒド及びメタノールなどの有機化合物に対して分解能を有 することを特徴とする。   The SB0201 strain, which is the third novel microorganism of the present invention, belongs to the genus Candida maltosa, and is characterized by having the ability to degrade organic compounds such as phenol, formaldehyde, and methanol. 
+ 
+ 
+    [0089] 本発明の新規微生物 SB0201菌株は、 Candida属 maltosaに属する酵母菌の 一種であり、以下のようにして単離されたものである。先ず、土壌や貯水槽の水をサ ンプリングし、その中に存在している微生物の中から高濃度のホルムアルデヒド、フエ ノール、メタノールに耐性を有し、かつ、これらの化合物 2つないし 3つを分解資化で きる微生物の探索を行った。それにより見出した高濃度のホルムアルデヒド、フエノー ノレ、メタノールを分解資化できる微生物を単独に分離した。 
+
+ [0090] なお、本発明の新規微生物 SB0201菌株は、前記特許文献 2に記載の微生物が、 Candida属 parapsilosisに禹するものであるのに対し、 Candida属 maltosaに属 するものである点で異なっている。  [0089] The novel microorganism SB0201 strain of the present invention is a kind of yeast belonging to the genus Candida maltosa, and is isolated as follows. First, water from soil and water storage tanks is sampled, and it is resistant to high concentrations of formaldehyde, phenol, and methanol among microorganisms present in the soil, and two or three of these compounds are removed. We searched for microorganisms that could be used for decomposition. Microorganisms capable of assimilating the high concentrations of formaldehyde, phenol, and methanol that were found were isolated.  [0090] The novel microorganism SB0201 strain of the present invention differs from the microorganism described in Patent Document 2 in that it belongs to the genus Candida paratosilosis, whereas it belongs to the genus Candida maltosa. I have. 
+ 
+ 
+    [0091] 本発明の新規微生物は、下記表 5及び表 6に示す微生物学的性質を有する。出願 人はこの新規微生物に SB0201の識別番号を付し、この微生物の菌株を産業技術 総合研究所 特許生物寄託センタ-に国内寄託した (微生物寄託番号 FERM P-1 9300)。その後、この原寄託をブダペスト条約上の寄託に移管するための申請書を 、国際寄託当局である産業技術総合研究所 特許生物寄託センター（〒 305-856 6 日本国茨城県つくば巿東 1丁目 1番地 1 中央第 6)に提出し、国際寄託番号 FE RM BP— 10033を付与された。   [0091] The novel microorganism of the present invention has the microbiological properties shown in Tables 5 and 6 below. The applicant assigned the identification number of SB0201 to this novel microorganism, and deposited the strain of this microorganism in Japan with the National Institute of Advanced Industrial Science and Technology, Patent Organism Depositary (Microorganism Deposit No. FERM P-19300). Subsequently, an application for transferring this original deposit to a deposit under the Budapest Treaty was filed with the International Depository Authority, National Institute of Advanced Industrial Science and Technology, Patent Organism Depositary (〒 Tsukuba-Higashi, Ibaraki, Japan 305-8566, Japan). Address No. 1 Central No. 6) and assigned International Deposit Number FE RM BP-10033. 
+ 
+ 
+    [0092] [表 5]   [0092] [Table 5] 
+ 
+ 
+    表 5 ：   Table 5: 
+ 
+ 
+    本発明に有用な微生物 （S B 0 2 0 1 ) の微生物学的性質   Microbiological properties of microorganisms (SB0201) useful in the present invention 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0093] [表 6] 
+
+ 表 6 ：  [0093] [Table 6]  Table 6: 
+ 
+ 
+    本 S明に有用な微生物 ( S B O 2 0 1 ) の微生物学的性質 (続き）  Microbiological properties of microorganisms (SBO201) useful in the present invention (continued) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0094] SB0201菌を培養するために用いられる培地の栄養源としては、通常の微生物の 生育に必要であって本菌が資化可能な栄養源であればレ、かなる炭素源、窒素源及 び無機塩類等でもよい。  [0094] The nutrient source of the medium used for culturing the SB0201 bacterium may be any nutrient that is necessary for the growth of normal microorganisms and can be assimilated by the bacterium, such a carbon source or nitrogen source. And inorganic salts. 
+ 
+ 
+    [0095] 例えば炭素源としては、ホノレムァノレデヒド、ギ酸、メタノーノレ、フエノール、クレゾ一 ノレ、 ρ—ヒドロキシ安息香酸などの有機化合物、酵母エキスなどの天然物などが利用 できる。窒素源としては硫酸アンモニゥムなどのアンモニゥム塩、硝酸ナトリウムなどの 硝酸塩、ペプトンなどの天然物が利用できる。無機成分としてはカリウム塩、カルシゥ ム塩、ナトリウム塩、マグネシウム塩、鉄塩、マンガン塩、りん酸塩などを用いることが できる。   [0095] As the carbon source, for example, organic compounds such as honolemu- norehdehyde, formic acid, methanolenole, phenol, creso-nole, ρ-hydroxybenzoic acid, and natural products such as yeast extract can be used. Ammonia salts such as ammonium sulfate, nitrates such as sodium nitrate, and natural products such as peptone can be used as the nitrogen source. As the inorganic component, potassium salts, calcium salts, sodium salts, magnesium salts, iron salts, manganese salts, phosphates and the like can be used. 
+ 
+ 
+    [0096] SB0201菌株の培養条件は以下の通りである。培養温度は 15— 40°C、好ましくは 
+
+ 20— 35。Cであり、 ρΗίま 5· 5-8. 0、好ましく ίま 6· 0-7. 5で、好気白勺に培養を行う  [0096] Culture conditions for the SB0201 strain are as follows. Culture temperature is 15-40 ° C, preferably  20—35. C. Culture in aerobic stirrer at ρΗί5.5-8.0, preferably at 60.6-7.5. 
+ 
+ 
+   [0097] 本発明の新規微生物 SB0201菌株は、フエノール、ホルムアルデヒド及びメタノー ルなどの有機化合物に対して分解能を有する。特に、フヱノール及びホルムアルデヒ ドに対する分解能に優れている。ここで、これらの有機化合物は殺菌性のある生物難 分解性であり、 SB0201菌株は上記化合物の他、例えば、クレゾール、ヒドロキシ安 息香酸、ギ酸などを分解することができる。  [0097] The novel microorganism SB0201 strain of the present invention has the ability to degrade organic compounds such as phenol, formaldehyde, and methanol. In particular, it has excellent resolution for phenol and formaldehyde. Here, these organic compounds are bactericidal and biodegradable, and the SB0201 strain can degrade other compounds such as cresol, hydroxybenzoic acid, and formic acid. 
+ 
+ 
+    [0098] SB0201菌株は、フエノール、ホノレムァノレデヒド、メタノールなどを単独で含む廃水 、又は複数種が混在している廃水でも処理することができる。   [0098] The SB0201 strain can be treated with wastewater containing solely phenol, honolemunorrehide, methanol, or the like, or with wastewater containing a mixture of a plurality of types. 
+ 
+ 
+    [0099] SB0201菌株が分解資化できる、水性液体中に含まれる上記有機化合物の濃度 は、化合物によって異なる力 一般に 5, 000mg/L以下、好ましくは 200 2， 000 mgZLの範囲である。この濃度範囲は、従来の活性汚泥菌群で処理できる濃度の 約 5— 100倍に相当する。   [0099] The concentration of the organic compound contained in the aqueous liquid, which can be assimilated by the SB0201 strain, varies depending on the compound. The concentration is generally 5,000 mg / L or less, and preferably in the range of 200 2,000 mg ZL. This concentration range corresponds to about 5 to 100 times the concentration that can be treated by the conventional activated sludge group. 
+ 
+ 
+    実施例   Example  
+ 
+ 
+    [0100] 以下、実施例を挙げて本発明をより具体的に説明するが、本発明はこれらの実施 例によって何ら限定されない。   [0100] Hereinafter, the present invention will be described more specifically with reference to Examples, but the present invention is not limited at all by these Examples. 
+ 
+ 
+   [0101] (D SB0301菌株を用いた実施例  (Example using DSSB0301 strain) 
+ 
+ 
+    実施例 1   Example 1 
+ 
+ 
+    フエノール、ホルムアルデヒド及びメタノールの 3種類の有機化合物が混合で含ま れる水溶液に対する SB0301菌の分解特性を調查検討した。   The degradation characteristics of SB0301 bacteria in an aqueous solution containing a mixture of three types of organic compounds, phenol, formaldehyde and methanol, were studied. 
+ 
+ 
+   [0102] 下記表 7に記載の成分を 80mLの蒸留水に溶解し、オートクレーブにて 121°C、 15 分間加圧滅菌を行い、室温に冷却して無機塩基礎培地を作製した。  [0102] The components shown in Table 7 below were dissolved in 80 mL of distilled water, autoclaved at 121 ° C for 15 minutes, and cooled to room temperature to prepare an inorganic salt base medium. 
+ 
+ 
+   [0103] [表 7] 
+
+ 
+ 
+ [0103] [Table 7]    
+ 
+ 
+   [0104] フエノール、ホルムアルデヒド及びメタノールを各々 2, 500mg/Lの濃度で含む水 溶液を作製し、 0. 45 z m孔のメンブランフィルタを用いて滅菌した。  [0104] An aqueous solution containing phenol, formaldehyde and methanol at a concentration of 2,500 mg / L each was prepared and sterilized using a 0.45 m pore membrane filter. 
+ 
+ 
+    [0105] 500mLの振とうフラスコに上記無機塩基本培地 80mLを入れ、上記有機化合物と してフエノール、ホルムアルデヒド及びメタノールを各々 2, 500mg/Lの濃度で含む 水溶液 10mLを加えた。そこに、無機塩基本培地にフエノールを濃度 500mg/Lにな るように加えた培地で予め試験管で培養しておいた SB0301の菌液（菌体濃度： 5. 0 X 10 8 cfu/mL) 10mLを加えた。これら 3種を混合することで培地中のフエノール 、ホルムアルデヒド及びメタノールの各々の濃度を 250mg/Lとした。それを下記表 8 に示す処理条件で分解処理を行い、培地中のフエノール、ホルムアルデヒド及びメタ ノールの濃度を経時的に測定した。その結果を図 1に示す。  [0105] 80mL of the above-mentioned inorganic base main culture medium was placed in a 500mL shake flask, and 10mL of an aqueous solution containing phenol, formaldehyde and methanol as the organic compounds at a concentration of 2,500mg / L each was added. Then, a bacterial solution of SB0301 (cell concentration: 5.0 × 10  8  cfu / mL) previously cultured in a test tube with a medium obtained by adding phenol to the inorganic base medium to a concentration of 500 mg / L. ) 10 mL was added. By mixing these three types, the concentration of each of phenol, formaldehyde and methanol in the medium was adjusted to 250 mg / L. It was decomposed under the treatment conditions shown in Table 8 below, and the concentrations of phenol, formaldehyde, and methanol in the medium were measured over time. Figure 1 shows the results. 
+ 
+ 
+    [0106] [表 8]   [0106] [Table 8] 
+ 
+ 
+    表 8 ：処理条件 
+ 
+ Table 8: Processing conditions    
+ 
+ 
+   [0107] 実施例 2  [0107] Example 2 
+ 
+ 
+    フエノール、ホノレムァノレデヒド、メタノーノレ、及び o， m， p_タレゾールの 6種類の有 機化合物が混合で含まれる水溶液に対する SB0301菌の分解特性を調査検討した   Degradation characteristics of SB0301 bacteria in aqueous solutions containing a mixture of six organic compounds, phenol, honolemurenaldehyde, methanol, and o, m, p_talesol were investigated. 
+ 
+ 
+   [0108] 実施例 1と同様に表 7に記載の成分を 80mLの蒸留水に溶解し、オートクレープに て 121°C、 15分間加圧滅菌を行い、室温に冷却して無機塩基礎培地を作製した。  [0108] In the same manner as in Example 1, the components shown in Table 7 were dissolved in 80 mL of distilled water, sterilized by autoclaving at 121 ° C for 15 minutes, and cooled to room temperature to prepare an inorganic salt base medium. Produced. 
+ 
+ 
+   [0109] フエノール、ホルムアルデヒド及びメタノールを各々 2, 500mg/Lの濃度で含み、 
+
+ つ o, m, p—タレゾールを各々 250mg/Lの濃度で含む水溶液を作製し、 0. 45 μ ΐη 孔のメンブランフィルタを用いて滅菌した。  [0109] each containing phenol, formaldehyde and methanol at a concentration of 2,500 mg / L,  An aqueous solution containing o, m, and p-talesol at a concentration of 250 mg / L each was prepared and sterilized using a 0.45 μΐη pore membrane filter. 
+ 
+ 
+    [0110] 500mLの振とうフラスコに上記無機塩基本培地 80mLを入れ、上記有機化合物と してフエノール、ホルムアルデヒド及びメタノール各々 2, 500mg/Lの濃度で含み、 かつ o, m, p_タレゾールを各々 250mg/Lの濃度で含む水溶液 10mLを加えた。そ こに、実施例 1と同じ SB0301菌液 10mLを加えた。これら 3種を混合することで培地 中のフエノール、ホルムアルデヒド及びメタノールの各々の濃度を 250mg/Lに、 o, m， p—タレゾールの各々の濃度を 25mg/Lとした。上記表 8と同じ処理条件で分解処 理を行レ、、培地中のフエノール、ホノレムァノレデヒド、メタノール及び o, m, p_クレゾ一 ル各々の濃度を経時的に測定した。その結果を図 2に示す。   [0110] A 500 mL shake flask was charged with 80 mL of the above-mentioned inorganic base main culture medium, and contained phenol, formaldehyde and methanol at a concentration of 2,500 mg / L each as the organic compound, and each of o, m, and p_tarezol. 10 mL of an aqueous solution containing 250 mg / L was added. Then, 10 mL of the same SB0301 bacterial solution as in Example 1 was added thereto. By mixing these three types, the concentration of each of phenol, formaldehyde and methanol in the medium was adjusted to 250 mg / L, and the concentration of each of o, m, and p-talesol to 25 mg / L. Degradation treatment was performed under the same treatment conditions as in Table 8 above, and the concentrations of phenol, honolemuanolaldehyde, methanol, and o, m, p_cresol in the medium were measured over time. Figure 2 shows the results. 
+ 
+ 
+    [0111] 実施例 3   [0111] Example 3 
+ 
+ 
+    蒸留水 800mL当たり、   For 800 mL of distilled water, 
+ 
+ 
+    MnSO · 5Η〇 lOmg   MnSO5Η〇 lOmg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    FeSO · 7Η Ο lOmg   FeSO7Η Ο lOmg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    MgSO · 7Η〇 500mg   MgSO7 500mg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    Κ ΗΡΟ 7g   Κ ΗΡΟ 7g 
+ 
+ 
+    2 4   twenty four  
+ 
+ 
+    ΚΗ Ρ〇 2g   ΚΗ Ρ〇 2g 
+ 
+ 
+    2 4   twenty four  
+ 
+ 
+    (ΝΗ ) SO 3g   (ΝΗ) SO 3g 
+ 
+ 
+    4 2 4   4 2 4 
+ 
+ 
+    酵母エキス 500mg   Yeast extract 500mg 
+ 
+ 
+    の糸且成の基礎培地 800m こ m_クレゾ一ノレを 1 , 400mg、 1, 600mg、および 1 , 80 Omgと蒸留水をカロえて、各々合計で 900mLとした。それを 121°C、 15分間オートク レーブ滅菌した。各濃度の液体培地 90mLに、実施例 1と同じ SB0301菌液 lOmL を接種し、 30°Cで培養した。その結果を下記表 9に示す。 SB0301菌は、 1 , 400mg /Lもの高濃度で水性液体中に含まれる m—タレゾールを 7日で 99%以上まで分解 した。   1,400 mg, 1,600 mg and 1,80 mg of distilled water were added to each of the basal mediums of Itokatsusei (800 m) and distilled water. It was autoclaved at 121 ° C for 15 minutes. 90 mL of the liquid medium at each concentration was inoculated with 10 mL of the same SB0301 bacterial solution as in Example 1, and cultured at 30 ° C. The results are shown in Table 9 below. The SB0301 bacterium decomposed m-talesole contained in the aqueous liquid at a concentration as high as 1,400 mg / L to 99% or more in 7 days. 
+ 
+ 
+   [0112] [表 9] 
+
+ 表 9 
+ 
+ [0112] [Table 9]  Table 9    
+ 
+ 
+   [0113] 実施例 4  [0113] Example 4 
+ 
+ 
+    実施例 3の m—タレゾールの代わりに p—タレゾールを用いた以外は実施例 3と同様 にして p—タレゾール濃度 1 , 200、及び 1, 400mg/Lの各液体培地を作製し、 SB0 301菌を接種し、 30°Cで培養した。その結果を下記表 10に示す。 SB0301菌は、 1 , 200mg/Lもの高濃度で水性液体中に含まれる P-タレゾールを 7日で 99%以上 まで分解した。   Each liquid medium having a p-talesole concentration of 1, 200, and 1,400 mg / L was prepared in the same manner as in Example 3 except that p-talesole was used instead of m-talesole of Example 3. Was inoculated and cultured at 30 ° C. The results are shown in Table 10 below. The SB0301 bacterium decomposed P-talesole contained in the aqueous liquid at a concentration as high as 1,200 mg / L to 99% or more in 7 days. 
+ 
+ 
+   [0114] [表 10]  [0114] [Table 10] 
+ 
+ 
+    表 1 0 
+ 
+ Table 10    
+ 
+ 
+   [0115] 実施例 5  [0115] Example 5 
+ 
+ 
+    実施例 3の m—タレゾールの代わりに o—タレゾールを用いた以外は実施例 3と同様 にして o—タレゾール濃度 1 , 200、及び 1， 400mgZLの各液体培地を作製し、 SB0 301菌を接種し、 30°Cで培養した。その結果を下記表 11に示す。 SB0301菌は、 1 , 200mg/Lもの高濃度で水性液体中に含まれる 0-タレゾールを 7日で 99%以上 まで分解した。   Except that o-talesole was used in place of m-talesole in Example 3, each liquid medium with o-talesole concentrations of 1, 200, and 1,400 mg ZL was prepared and inoculated with SB0301 bacteria in the same manner as in Example 3. And cultured at 30 ° C. The results are shown in Table 11 below. The SB0301 bacterium degraded 0-talesol contained in the aqueous liquid at a concentration as high as 1,200 mg / L to 99% or more in 7 days. 
+ 
+ 
+   [0116] [表 11]  [0116] [Table 11] 
+ 
+ 
+    表 1 1 
+ 
+ Table 11    
+ 
+ 
+   [0117] 実施例 6  [0117] Example 6 
+ 
+ 
+    蒸留水 800mL当たり、   For 800 mL of distilled water, 
+ 
+ 
+    KH PO 820mg 
+
+ NH NO lOOOmg  KH PO 820mg  NH NO lOOOmg 
+ 
+ 
+    4 3   4 3 
+ 
+ 
+    MgSO - 7H〇 200mg   MgSO-7H〇 200mg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    FeCl - 7H O 20mg   FeCl-7H O 20mg 
+ 
+ 
+    3 2   3 2 
+ 
+ 
+    NaCl lOOmg   NaCl lOOmg 
+ 
+ 
+    CaCl - 2H O lOOmg   CaCl-2H O lOOmg 
+ 
+ 
+    2 2   twenty two  
+ 
+ 
+    Na HPO - 12H〇 5100mg   Na HPO-12H〇 5100mg 
+ 
+ 
+    2 4 2   2 4 2 
+ 
+ 
+    酵母エキス 500mg   Yeast extract 500mg 
+ 
+ 
+    の組成の基礎培地 800πι こフエノーノレを 1 , 400mg、 1 , 600mg、および 1， 800mg と蒸留水を加えて、各々合計で 900mLとした。それを 121°C、 15分間オートクレー ブ滅菌した。各濃度の液体培地 90mLに、実施例 1と同じ SB0301菌液 10mLを接 種し、 30。Cで培養した。その結果を下記表 12(こ示す。 SB0301菌 fま、 1 , 600mg/ Lもの高濃度で水性液体中に含まれるフエノールを 1日で 95%以上まで分解した。   1,400 mg, 1,600 mg, and 1,800 mg of a basal medium having a composition of 800πι, and distilled water were added to make a total of 900 mL each. It was autoclaved at 121 ° C for 15 minutes. 90 mL of the liquid medium at each concentration was inoculated with 10 mL of the same SB0301 bacterial solution as in Example 1, and 30. C. The results are shown in Table 12 below. The phenol contained in the aqueous liquid at a concentration as high as 1,600 mg / L was decomposed to 95% or more in one day. 
+ 
+ 
+   [0118] [表 12]  [0118] [Table 12] 
+ 
+ 
+    表 1 2 
+ 
+ Table 1 2    
+ 
+ 
+   [0119] 実施例 7  [0119] Example 7 
+ 
+ 
+    実施例 3の m—タレゾールの代わりにホルムアルデヒドを用いた以外は実施例 3と同 様にしてホノレムァノレデヒド濃度 400、及び 500mg/Lの各液体培地を作製し、 SB0 301菌を接種し、 30°Cで培養した。その結果を下記表 13に示す。 SB0301菌は、 4 00mg/Lの濃度で水性液体中に含まれるホルムアルデヒドを 2日で 99%以上まで 分解した。   Each liquid medium having a honolemuanolaldehyde concentration of 400 and 500 mg / L was prepared in the same manner as in Example 3 except that formaldehyde was used in place of m-talesol of Example 3, and inoculated with SB0301. And cultured at 30 ° C. The results are shown in Table 13 below. At a concentration of 400 mg / L, SB0301 bacteria decomposed formaldehyde contained in the aqueous liquid to 99% or more in 2 days. 
+ 
+ 
+   [0120] [表 13]  [0120] [Table 13] 
+ 
+ 
+    表 1 3 
+ 
+ Table 13    
+ 
+ 
+   [0121] 実施例 8 
+
+ 実施例 3の m-タレゾールの代わりにメタノールを用いた以外は実施例 3と同様にし てメタノール濃度 1 , 500、及び 2, 000mg/Lの各液体培地を作製し、 SB0301菌 を接種し、 30°Cで培養した。その結果を下記表 14に示す。 SB0301菌は、 1 , 500m g/Lの高濃度で水性液体中に含まれるメタノールを 7日で 55%分解した。  Example 8  Each liquid medium with a methanol concentration of 1, 500 and 2,000 mg / L was prepared in the same manner as in Example 3 except that methanol was used in place of m-talesole in Example 3, and SB0301 bacteria were inoculated. Cultured at ° C. The results are shown in Table 14 below. The SB0301 bacterium degraded methanol contained in the aqueous liquid at a high concentration of 1,500 mg / L by 55% in 7 days. 
+ 
+ 
+   [0122] [表 14]  [0122] [Table 14] 
+ 
+ 
+    表 1 4  Table 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0123] (2) SB0202菌株を用いた実施例  [0123] (2) Example using SB0202 strain 
+ 
+ 
+    実施例 9   Example 9 
+ 
+ 
+    SB0202菌のホルムアルデヒド及びメタノールが混合で含まれる水溶液に対する分 解特性を調査検討した。   The degradation characteristics of SB0202 bacteria in aqueous solutions containing formaldehyde and methanol in a mixture were investigated. 
+ 
+ 
+   [0124] 下記表 15に記載の成分を 80mLの蒸留水に溶解し、オートクレーブにて 120°C、 1 [0124] The components listed in Table 15 below were dissolved in 80 mL of distilled water, and the solution was autoclaved at 120 ° C and 1 ° C. 
+ 
+ 
+   5分間加圧滅菌を行い、室温に冷却して無機塩基本培地を作製した。  The mixture was sterilized under pressure for 5 minutes, and cooled to room temperature to prepare an inorganic base medium. 
+ 
+ 
+   [0125] [表 15]  [0125] [Table 15] 
+ 
+ 
+    表 1 5   Table 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0126] ホルムアルデヒド及びメタノールを各々 50, OOOmg/Lの濃度で含む水溶液を作製 し、 0. 45 μ ΐη孔のメンブランフィルタを用いて滅菌した。  [0126] An aqueous solution containing formaldehyde and methanol at concentrations of 50 and OOOmg / L, respectively, was prepared and sterilized using a 0.45μ μη pore membrane filter. 
+ 
+ 
+   [0127] 500mLの振とうフラスコに上記無機塩基本培地 80mLを入れ、ホルムアルデヒド及 びメタノールを各々 50, OOOmg/Lの濃度で含む水溶液 10mLを加えた。そこに、試 
+
+ 験管中の無機塩基本培地で予め培養しておいた SB0202の菌液（菌体濃度： 1. 4 X 10 9 cfu/mL) 10mLをカロえ、培地中のホルムアルデヒド及びメタノールの濃度を 各々 5, OOOmg/Lとした。下記表 16に示す処理条件で分解処理を行い、培地中の ホルムアルデヒド及びメタノールの濃度を経時的に測定した。このときの培地中のホ ルムアルデヒド及びメタノール濃度の経時変化を図 3に示す。図 3の結果から、ホルム アルデヒド及びメタノールを各々 5000mg/Lの濃度で含む水性液体中のホルムァ ノレデヒド及びメタノーノレを、 3日間でほぼ 99%以上分解できることがわかる。  [0127] Into a 500 mL shake flask, 80 mL of the above inorganic base main culture medium was placed, and 10 mL of an aqueous solution containing formaldehyde and methanol at a concentration of 50 and OOO mg / L, respectively, was added. There, try  Incubate 10 mL of SB0202 bacterial solution (microbial cell concentration: 1.4 × 10  9  cfu / mL) pre-cultured in this test tube with inorganic base, and reduce the concentration of formaldehyde and methanol in the medium by 5 mL each. , OOOmg / L. The decomposition treatment was performed under the treatment conditions shown in Table 16 below, and the concentrations of formaldehyde and methanol in the medium were measured over time. FIG. 3 shows the time-dependent changes in the formaldehyde and methanol concentrations in the medium at this time. From the results shown in FIG. 3, it can be seen that formaldehyde and methanol in an aqueous liquid containing formaldehyde and methanol at a concentration of 5000 mg / L, respectively, can be decomposed almost 99% or more in three days. 
+ 
+ 
+   [0128] [表 16]  [0128] [Table 16] 
+ 
+ 
+    表 1 6 処理条件   Table 16 Processing conditions 
+ 
+ 
+    温度 3 〇°C   Temperature 3 〇 ° C 
+ 
+ 
+    振とう速度 1 1 0 r p m   Shaking speed 1 1 0 r p m 
+ 
+ 
+    P H 6 . 0〜 7 . 5 実施例 10   PH 6.0 to 7.5 Example 10 
+ 
+ 
+    蒸留水 800mLあたり、   Per 800mL of distilled water, 
+ 
+ 
+    MnSO · 5Η〇 10mg   MnSO5Η〇10mg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    FeSO · 7Η Ο lOmg   FeSO7Η Ο lOmg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    MgSO · 7Η〇 500mg   MgSO7 500mg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    Κ ΗΡΟ 17. 5g   Κ ΗΡΟ 17.5g 
+ 
+ 
+    2 4   twenty four  
+ 
+ 
+    ΚΗ Ρ〇   ΚΗ Ρ〇 
+ 
+ 
+    2 4 lg   2 4 lg 
+ 
+ 
+    (ΝΗ ) SO 3g   (ΝΗ) SO 3g 
+ 
+ 
+    4 2 4   4 2 4 
+ 
+ 
+    酵母エキス 500mg   Yeast extract 500mg 
+ 
+ 
+    の組成を有する基本培地 80mLを 121°C、 15分間オートクレーブ滅菌した。そこに 0· 45 /i m孑しのメンブランフィノレタを用レヽて滅菌した、 60, 000及び 80, 000mg/L濃 度のホノレム レデヒド 10mLと、実施 f列 9と同じ SB0202菌夜 10mLとをカロ免、最終の ホルムアルデヒド濃度をそれぞれ 6, 000及び 8, 000mg/Lとし、 30°Cで培養した。 その結果を下記表 17に示す。 SB0202菌は、 6, 000mg/Lもの高濃度で水性液 体中に含まれるホルムアルデヒドを 7日間で 87%以上分解した。   80 mL of a basal medium having the following composition was autoclaved at 121 ° C. for 15 minutes. Then, 10 mL of 60,000 and 80,000 mg / L concentrations of honolem dehydrogen, sterilized by using membrane finoleta of 0.45 / im mosquito, and 10 mL of the same SB0202 bacteria as in row f 9 were calorie. The cells were cultured at 30 ° C with the final and final formaldehyde concentrations of 6,000 and 8,000 mg / L, respectively. The results are shown in Table 17 below. At a concentration as high as 6,000 mg / L, SB0202 bacteria decomposed formaldehyde contained in aqueous liquid by 87% or more in 7 days. 
+ 
+ 
+   [0130] [表 17] 
+
+ 表 1 7 
+ 
+ [0130] [Table 17]  Table 17    
+ 
+ 
+   [0131] 実施例 11  [0131] Example 11 
+ 
+ 
+    実施例 9の表 15の無機塩基本培地を 121°C、 15分間オートクレーブ滅菌したもの 80mLに、 0.45 x m孑しのメンブランフィノレタを用レヽて滅菌した 150， 000、 200, 000 、 240, 000mg/L濃度のメタノーノレ 10mLと、実施列 9と同じ SB0202菌 f夜 10mLと を混合し、最終のメタノーノレ濃度を、それぞれ 15, 000、 20, 000及び 24, OOOmg /Lとし、 30°Cで培養した。その結果を下記表 18に示す。 SB0202菌は、 20, 000 mg/Lもの高濃度で水性液体中に含まれるメタノールを 10日間で 99%以上分解し た。   The inorganic base main culture medium of Table 15 in Example 9 was autoclaved at 121 ° C for 15 minutes, and 80 mL thereof was sterilized using a membrane finoleta of 0.45 x m spores, and 150,000, 200,000, 240,000 mg. / L concentration of methanol (10 mL) and the same SB0202 bacteria as in row 9 (10 mL) were mixed at a final concentration of 15,000, 20, 000 and 24, OOOmg / L, respectively, and cultured at 30 ° C. did. The results are shown in Table 18 below. The SB0202 bacterium degraded more than 99% of the methanol contained in the aqueous liquid at concentrations as high as 20,000 mg / L in 10 days. 
+ 
+ 
+    [0132] [表 18]   [0132] [Table 18] 
+ 
+ 
+    表 1 8 
+ 
+ Table 18    
+ 
+ 
+   [0133] 実施例 12  [0133] Example 12 
+ 
+ 
+    SB0202菌のフエノーノレ、ホルムアルデヒド及びメタノールが混合で含まれる水溶 液に対する分解特性を調査検討した。   Degradation characteristics of SB0202 bacteria to aqueous solution containing phenol, formaldehyde and methanol in a mixture were investigated. 
+ 
+ 
+    [0134] フエノール、ホルムアルデヒド及びメタノールを各々 2, 500mg/Lの濃度で含む水 溶液を作製し、 0. 45 / m孔のメンブランフィルタを用いて滅菌した。   An aqueous solution containing phenol, formaldehyde and methanol at a concentration of 2,500 mg / L each was prepared and sterilized using a 0.45 / m pore membrane filter. 
+ 
+ 
+    [0135] 500mLの振とうフラスコに実施例 9で用いた無機塩基本培地 80mLを入れ、メンブ ランフィルターで滅菌した、フエノール、ホルムアルデヒド及びメタノールを各々 2, 50 Omg/Lの濃度で含む水溶液 10mLを加えた。そこに試験管中の無機塩基本培地で 予め培養しておいた実施例 9と同じ SB0202の菌液 10mLを加えて、培地中のフエノ ール、ホルムアルデヒド及びメタノールの濃度を各々 250mg/Lとした。上記表 16の 
+
+ 処理条件で分解処理を行い、培地中のホルムアルデヒド及びメタノールの濃度を経 時的に測定した。このときの培地のホルムアルデヒド、メタノールの濃度の経時変化を 図 4に示す。図 4の結果から、 SB0202菌は、フエノールの存在下であっても、ホルム アルデヒド及びメタノールを、それぞれ 250mgZL濃度で含む水性液体中に含まれ る、ホノレムァノレデヒドを 3日間で 95%以上、及びメタノールを 3日間で 95%以上分解 できることがわかる。  [0135] A 500 mL shake flask was charged with 80 mL of the inorganic base main medium used in Example 9, and sterilized with a membrane filter. 10 mL of an aqueous solution containing phenol, formaldehyde, and methanol at a concentration of 2,50 Omg / L each was added. added. To this was added 10 mL of the same SB0202 bacterial solution as in Example 9, which had been pre-cultured with the inorganic base main medium in the test tube, and the concentrations of phenol, formaldehyde and methanol in the medium were each 250 mg / L. . Table 16 above  Decomposition was performed under the treatment conditions, and the concentrations of formaldehyde and methanol in the medium were measured over time. Figure 4 shows the time-dependent changes in the concentrations of formaldehyde and methanol in the medium at this time. From the results in Fig. 4, it can be seen that SB0202 bacteria contained 95% or more of honolemunoraldehyde in 3 days in an aqueous liquid containing formaldehyde and methanol at a concentration of 250 mg ZL, even in the presence of phenol. , And methanol can be decomposed by 95% or more in 3 days. 
+ 
+ 
+   [0136] 実施例 13  Example 13 
+ 
+ 
+    SB0202菌のフヱノール及びホルムアルデヒドが混合で含まれる水溶液に対する 分解特性を調査検討した。   The degradation characteristics of SB0202 bacteria in aqueous solutions containing a mixture of phenol and formaldehyde were investigated. 
+ 
+ 
+    [0137] 500mLの振とうフラスコを用レ、、実施例 9の表 15の無機塩基本培地を 121°C、 15分 間オートクレーブ滅菌したもの 80mLに、 0.45 μ m孔のメンブランフィルタを用いて滅 菌した 20, 000mg/Lのフヱノール及びホルムアルデヒドを含む水溶液 10mLと、実 施例 9と同じ SB0202菌液 10mLを混合して lOOmLとすることで、培地中のフエノー ル及びホルムアルデヒドの最終濃度を各々 2, OOOmg/Lとした。それを上記表 16 の処理条件で分解処理を行った。その結果を下記表 19に示す。   [0137] A 500 mL shake flask was used. The inorganic base main culture medium shown in Table 15 in Example 9 was sterilized in an autoclave at 121 ° C for 15 minutes, and then killed using a 0.45 µm pore membrane filter into 80 mL. The final concentration of phenol and formaldehyde in the medium was adjusted to 2 mL each by mixing 10 mL of the sterilized 20,000 mg / L aqueous solution containing phenol and formaldehyde with 10 mL of the same SB0202 bacterial solution as in Example 9. , OOOmg / L. It was decomposed under the processing conditions shown in Table 16 above. The results are shown in Table 19 below. 
+ 
+ 
+    [0138] [表 19]   [0138] [Table 19] 
+ 
+ 
+    表 1 9 
+ 
+ Table 19    
+ 
+ 
+   [0139] SB0202菌はフヱノールを分解する能力は有していなレ、が、フエノールに対する耐 性 (抵抗性）があり、処理対象の水性液体にフヱノールが 2， OOOmgZL含まれてい ても死滅することなぐ 2, OOOmg/Lのホルムアルデヒドを 10日で 98%以上分解し た。  [0139] The SB0202 bacterium does not have the ability to degrade phenol, but it is resistant to phenol, and will die even if the aqueous liquid to be treated contains 2, OOOmgZL of phenol. Nagu 2, More than 98% of OOOmg / L formaldehyde was decomposed in 10 days. 
+ 
+ 
+    [0140] 実施例 14   [0140] Example 14 
+ 
+ 
+    実施例 9の表 15に記載の成分を 75mLの蒸留水に溶解し、オートクレープ滅菌し た基本培地に、 0. 45 /i m孔のメンブランフィルタを用いて滅菌した、 1, OOOmg/L のサリチル酸 20mLを加え、最終のサリチル酸濃度が 200mg/Lになる液体培地を 
+
+ 作製した。また、サリチル酸に代えて、 P—ヒドロキシ安息香酸又はギ酸を加えた液体 培地をそれぞれ作製した。これら各液体培地 95mLに、実施例 9と同じ SB0202菌液 5mLを接種し、 30°Cで 7日間培養し、その資化性を試験した。その結果を下記表 20 に示す。 SB0202菌は 3種の有機化合物（サリチル酸、 p—ヒドロキシ安息香酸、及び ギ酸）を資化することを確認した。  The components listed in Table 15 of Example 9 were dissolved in 75 mL of distilled water and autoclaved in a basal medium, and sterilized using a 0.45 / im pore membrane filter in 1, OOOmg / L salicylic acid. Add 20 mL, and add the liquid medium to a final salicylic acid concentration of 200 mg / L.  Produced. In addition, liquid media supplemented with P-hydroxybenzoic acid or formic acid instead of salicylic acid were prepared. 5 mL of the same SB0202 bacterial solution as in Example 9 was inoculated into 95 mL of each of these liquid media, cultured at 30 ° C. for 7 days, and tested for assimilation. The results are shown in Table 20 below. It was confirmed that SB0202 bacteria assimilate three kinds of organic compounds (salicylic acid, p-hydroxybenzoic acid, and formic acid). 
+ 
+ 
+   [0141] [表 20]  [0141] [Table 20] 
+ 
+ 
+    表 2 0  Table 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0142] (3) SB0201菌株を用いた実施例  [0142] (3) Example using SB0201 strain 
+ 
+ 
+    実施例 15   Example 15 
+ 
+ 
+    フエノール、ホルムアルデヒド及びメタノールの 3種類の有機化合物が混合で含ま れる水溶液に対する SB0201菌の分解特性を調査検討した。   The degradation characteristics of SB0201 bacteria in an aqueous solution containing a mixture of three organic compounds, phenol, formaldehyde and methanol, were investigated. 
+ 
+ 
+    [0143] 下記表 21に記載の成分を 80mLの蒸留水に溶解し、オートクレーブにて 120°C、   [0143] The components shown in Table 21 below were dissolved in 80 mL of distilled water, and the autoclave was heated to 120 ° C, 
+ 
+ 
+    5分間加圧滅菌を行い、室温に冷却して無機塩基礎培地を作製した。   The solution was sterilized under pressure for 5 minutes and cooled to room temperature to prepare an inorganic salt basal medium. 
+ 
+ 
+    [0144] [表 21]   [0144] [Table 21] 
+ 
+ 
+    表 2 1 
+ 
+ Table 2 1    
+ 
+ 
+   [0145] フエノール、ホルムアルデヒド及びメタノールを各々 7, 500mg/Lの濃度で含む水 溶液を作製し、 0. 45 / m孔のメンブランフィルタを用いて滅菌した。 
+
+ [0146] 500mLの振とうフラスコに上記無機塩基本培地 80mLを入れ、有機化合物として フエノール、ホルムアルデヒド及びメタノールを各々 7, 500mg/Lの濃度で含む水溶 液 10mLを加えた。そこに、試験管中の無機塩基本培地で予め培養しておいた SBO 201の菌液（菌体濃度： 1. 8 X 10 6 cfuZmL) 10mLを加えた。これら 3種を混合する ことで培地中のフエノール、ホルムアルデヒド及びメタノールの各々の濃度を 750mg /しとした。それを下記表 22に示す処理条件で分解処理を行レ、、培地中のフヱノール 、ホルムアルデヒド及びメタノールの濃度を経時的に測定した。このときの培地中のフ エノーノレ、ホルムアルデヒド及びメタノール濃度の経時変化を図 5に示す。  An aqueous solution containing phenol, formaldehyde and methanol at a concentration of 7,500 mg / L each was prepared and sterilized using a 0.45 / m pore membrane filter.  [0146] A 500 mL shake flask was charged with 80 mL of the above inorganic base main culture medium, and 10 mL of an aqueous solution containing phenol, formaldehyde, and methanol at 7,500 mg / L each as organic compounds was added. To this, 10 mL of a bacterial solution of SBO201 (cell concentration: 1.8 × 10  6  cfuZmL), which had been cultured in advance in the inorganic base medium in a test tube, was added. By mixing these three types, the concentration of each of phenol, formaldehyde and methanol in the medium was adjusted to 750 mg / min. It was decomposed under the treatment conditions shown in Table 22 below, and the concentrations of phenol, formaldehyde and methanol in the medium were measured over time. FIG. 5 shows changes over time in the concentrations of phenol, formaldehyde and methanol in the medium at this time. 
+ 
+ 
+    [0147] [表 22]   [0147] [Table 22] 
+ 
+ 
+    表 2 2 ： 処理条件 
+ 
+ Table 22: Processing conditions    
+ 
+ 
+   [0148] 実施例 16  [0148] Example 16 
+ 
+ 
+    フエノール及びホルムアルデヒドの 2種の化合物が混合で含まれる水溶液に対する SBO 201菌の分解特性を調查検討した。   The degradation characteristics of SBO201 bacteria in an aqueous solution containing a mixture of two compounds, phenol and formaldehyde, were investigated. 
+ 
+ 
+    [0149] 500mLの振とうフラスコに上記無機塩基本培地 80mLを入れ、有機化合物として フエノール及びホルムアルデヒド各々 7, 500mg/Lの濃度で含む水溶液 10mLを加 えた。そこに、試験管中の無機塩基本培地で予め培養しておいた実施例 15と同じ S B0201の菌液 10mLをカロえた。これら 3種を混合することで培地中のフエノール及び ホルムアルデヒドの各々の濃度を 750mg/Lとした。上記表 22と同じ処理条件で分解 処理を行い、培地中のフエノール及びホルムアルデヒドの濃度を経時的に測定した。 このときの培地中のフエノール及びホルムアルデヒド濃度の経時変化を図 6に示す。   [0149] A 500 mL shake flask was charged with 80 mL of the inorganic base main culture medium, and 10 mL of an aqueous solution containing phenol and formaldehyde at 7,500 mg / L each as organic compounds was added. Thereto, 10 mL of the same bacterial solution of SB0201 as in Example 15, which had been cultured in advance in the inorganic base main medium in the test tube, was caloried. By mixing these three types, the concentration of each of phenol and formaldehyde in the medium was adjusted to 750 mg / L. The decomposition treatment was performed under the same treatment conditions as in Table 22, and the concentrations of phenol and formaldehyde in the medium were measured over time. FIG. 6 shows the time-dependent changes in the phenol and formaldehyde concentrations in the medium at this time. 
+ 
+ 
+    [0150] 実施例 17   [0150] Example 17 
+ 
+ 
+    蒸留水 800mL当たり、   For 800 mL of distilled water, 
+ 
+ 
+    MnSO · 5Η〇 lOmg   MnSO5Η〇 lOmg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    FeSO · 7Η Ο lOmg   FeSO7Η Ο lOmg 
+ 
+ 
+    4 2   4 2 
+ 
+ 
+    MgSO · 7Η〇 500mg 
+
+ K HPO 7g  MgSO7 500mg  K HPO 7g 
+ 
+ 
+    2 A   2 A 
+ 
+ 
+    KH P〇 2g   KH P〇 2g 
+ 
+ 
+    2 4   twenty four  
+ 
+ 
+    (NH ) SO 3g   (NH) SO 3g 
+ 
+ 
+    4 2 A   4 2 A 
+ 
+ 
+    酵母エキス 500mg   Yeast extract 500mg 
+ 
+ 
+    の組成の基礎培地 80mLを 121°C、 15分間オートクレーブ滅菌した。そこに、 0.45 zm孑しのメンブランフィノレタを用レヽて滅菌した、 10， 000、 15, 000、 20, 000及び 2 5, 000mg/L濃度のフエノーノレ 10mLと、実施列 15と同じ SB0201菌 f夜 10mLとを カロえ、最終フエノーノレ濃度を 1, 000、 1， 500、 2, 000及び 2， 500mg/Lとし、 30 °Cで培養した。その結果を下記表 23に示す。 SB0201菌は、 2, 500mg/Lもの高 濃度で水性液体中に含まれるフエノールを 8日間で 99%以上まで分解した。   80 mL of a basal medium having the composition described above was autoclaved at 121 ° C. for 15 minutes. There, 10 mL of 10,000, 15,000, 20,000 and 25,000 mg / L phenols were sterilized using a 0.45 zm mosquito membrane finoleta and the same SB0201 bacteria The culture was cultivated at 30 ° C with a final phenol concentration of 1,000, 1,500, 2,000 and 2,500 mg / L. The results are shown in Table 23 below. The SB0201 bacterium decomposed phenol contained in aqueous liquids at concentrations as high as 2,500 mg / L to 99% or more in 8 days. 
+ 
+ 
+   [0151] [表 23] 表 23  [0151] [Table 23] Table 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0152] 実施例 18  [0152] Example 18 
+ 
+ 
+    実施例 17のフエノールの代わりにホルムアルデヒドを用いた以外は実施例 17と同 様 ίこしてホノレムァノレデヒド濃度 1, 000、 1, 500及び 2, 000mg/Lの各 f夜体培地を 作製し、 SB0201菌を接種し、 30°Cで培養した。その結果を下記表 24に示す。 SB0 201菌は、 2, OOOmgZLもの高濃度で水性液体中に含まれるホルムアルデヒドを 8 日間で 99%以上まで分解した。   Same as Example 17 except that formaldehyde was used in place of the phenol of Example 17 to prepare each f-night medium having a honolemuanolaldehyde concentration of 1,000, 1,500 and 2,000 mg / L. Then, SB0201 was inoculated and cultured at 30 ° C. The results are shown in Table 24 below. The SB0 201 bacterium decomposed formaldehyde contained in aqueous liquids at concentrations as high as 2, OOO mg ZL to 99% or more in 8 days. 
+ 
+ 
+   [0153] [表 24] 表 24  [0153] [Table 24] Table 24 
+ 
+ 
+    ホルムアルデヒ ド濃度 S B 0 2 0 1菌の分解性   Formaldehyde concentration S B 0 201 Degradability of bacteria 
+ 
+ 
+    1 , 0 00 m g /L 3 日で 9 9。/。以上分解   1,00 00 mg / L 99 in 3 days. /. Disassembly 
+ 
+ 
+    1 , 5 00 m g /L 4 日で 9 9。/。以上分解   1,500 mg / L 99 in 4 days. /. Disassembly 
+ 
+ 
+    2， 0 00 m g /L 8 日で 9 9。/。以上分解 
+
+ [0154] 実施例 19  2, 000 mg / L 9 9 in 8 days. /. Disassembly  Example 19 
+ 
+ 
+    実施例 17のフエノールの代わりにメタノールを用いた以外は実施例 17と同様にし てメタノーノレ濃度 1 , 000、 1, 500及び 2, 000mg/Lの各 ί夜体培地を作製し、 SB0 201菌を接種し、 30°Cで培養した。その結果を下記表 25に示す。 SB0201菌は、 2 , 000mg/Lもの高濃度で水性液体中に含まれるメタノールを 8日間で 99%以上ま で分解した。   Except that methanol was used in place of the phenol of Example 17, the respective overnight medium was prepared at a methanol concentration of 1,000, 1,500 and 2,000 mg / L in the same manner as in Example 17, and the SB0201 strain was isolated. The cells were inoculated and cultured at 30 ° C. The results are shown in Table 25 below. The SB0201 bacterium decomposed methanol contained in aqueous liquid at concentrations as high as 2,000 mg / L to 99% or more in 8 days. 
+ 
+ 
+   [0155] [表 25]  [Table 15] 
+ 
+ 
+    表 2 5 
+ 
+ Table 25    
+ 
+ 
+   [0156] 実施例 20  [0156] Example 20 
+ 
+ 
+    実施例 17で用いたのと同じオートクレープ滅菌された基礎培地に、 0. 45 μ ΐη孔の メンブランフィルタを用いて滅菌した 1000mg/L濃度の m—タレゾール 200mLを加え 、液体培地を作製した。また、 m—タレゾールの代わりに、 p—ヒドロキシ安息香酸又は ギ酸 200mLをカ卩えた液体培地を作製した。各液体培地 95mLに、実施例 15と同じ SB0201菌液 5mLを接種し、 30°Cで 7日間培養し、その資化性を試験した。結果を 下記表 26に示す。 SB0201菌は 3種の有機化合物（m_クレゾール、 p—ヒドロキシ安 息香酸及びギ酸）を資化することを確認した。   To the same autoclave-sterilized base medium used in Example 17, 200 mL of 1000 mg / L m-taresol sterilized using a 0.45 μΐη-pore membrane filter was added to prepare a liquid medium. Also, a liquid medium was prepared in which 200 mL of p-hydroxybenzoic acid or formic acid was added instead of m-talesol. 95 mL of each liquid medium was inoculated with 5 mL of the same SB0201 bacterial solution as in Example 15, cultured at 30 ° C. for 7 days, and tested for assimilation. The results are shown in Table 26 below. It was confirmed that SB0201 bacteria assimilate three kinds of organic compounds (m_cresol, p-hydroxybenzoic acid and formic acid). 
+ 
+ 
+   [0157] [表 26]  [0157] [Table 26] 
+ 
+ 
+    表 2 6   Table 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [0158] (4) SB0202菌株及び SB0201菌株を用いた実施例  (4) Examples using SB0202 and SB0201 strains 
+ 
+ 
+    実施例 21   Example 21 
+ 
+ 
+    SB0202菌株及び SB0201菌株を組み合わせてのフエノール、ホルムアルデヒド 
+
+ 及びメタノールの 3種類の有機化合物が混合で含まれる水溶液に対する分解特性を 調査検討した。  Phenol and formaldehyde in combination with SB0202 and SB0201 strains  Decomposition characteristics for aqueous solutions containing a mixture of three organic compounds, methanol and methanol, were investigated. 
+ 
+ 
+    [0159] 実施例 15と同様にして表 21に記載の成分を含む無機塩基礎培地を作製した。   [0159] In the same manner as in Example 15, an inorganic salt basal medium containing the components shown in Table 21 was prepared. 
+ 
+ 
+    [0160] フヱノール、ホルムアルデヒド及びメタノールを各々 10, 000mg/Lの濃度で含む水 溶液を作製し、 0. 45 z m孔のメンブランフィルタを用いて滅菌した。   [0160] An aqueous solution containing each of phenol, formaldehyde, and methanol at a concentration of 10,000 mg / L was prepared and sterilized using a 0.45 m pore membrane filter. 
+ 
+ 
+    [0161] 500mLの振とうフラスコに上記無機塩基本培地 80mLを入れ、有機化合物として フエノール、ホルムアルデヒド及びメタノールを各々 10, 000mg/Lの濃度で含む水 溶液 10mLをカ卩えた。そこに、試験管中の無機塩基本培地で予め培養しておいた S B0202の菌液（菌体濃度： 1. 9 X 10 9 cfu/mL) 5mL及び SB0201の菌液（菌体濃 度： 1. 8 X 10 6 cfu/mL) 5mLを加えた。これら 3種を混合することで培地中のフエノ ール、ホルムアルデヒド及びメタノールの各々の濃度を 1000mg/Lとした。それを下 記表 27に示す処理条件で分解処理を行い、培地中のフヱノール、ホルムアルデヒド 及びメタノールの濃度を経時的に測定した。このときの培地中のフエノール、ホルムァ ルデヒド及びメタノール濃度の経時変化を図 7に示す。  [0161] A 500 mL shake flask was charged with 80 mL of the inorganic base main culture medium, and 10 mL of an aqueous solution containing phenol, formaldehyde, and methanol as organic compounds at a concentration of 10,000 mg / L each was prepared. Then, 5 mL of the bacterial solution of SB0202 (cell concentration: 1.9 × 10  9  cfu / mL) and the bacterial solution of SB0201 (cell concentration: (1.8 × 10  6  cfu / mL) 5 mL was added. By mixing these three types, the respective concentrations of phenol, formaldehyde and methanol in the medium were adjusted to 1000 mg / L. It was subjected to a decomposition treatment under the treatment conditions shown in Table 27 below, and the concentrations of phenol, formaldehyde and methanol in the medium were measured over time. FIG. 7 shows the changes over time in the concentrations of phenol, formaldehyde and methanol in the medium at this time. 
+ 
+ 
+    [0162] [表 27]   [0162] [Table 27] 
+ 
+ 
+    表 2 7 ：処理条件 
+ 
+ Table 27: Processing conditions    
+ 
+ 
+   [0163] (5) SB0301菌株、 SB0202菌株及び SB0201菌株を用いた実施例  (5) Examples using the SB0301 strain, the SB0202 strain, and the SB0201 strain 
+ 
+ 
+    実施例 22   Example 22 
+ 
+ 
+    SB0301菌株、 SB0202菌株及び SB0201菌株を組み合わせてのフエノール、ホ ノレムアルデヒド、メタノール及び o, m, p—タレゾールの 6種類の有機化合物が混合で 含まれる水溶液に対する分解特性を調査検討した。   The degradation characteristics of the SB0301 strain, SB0202 strain, and SB0201 strain in combination with an aqueous solution containing a mixture of six organic compounds, phenol, honolemaldehyde, methanol, and o, m, p-talesol, were investigated. 
+ 
+ 
+   [0164] 実施例 15と同様にして表 21に記載の成分を含む無機塩基礎培地を作製した。  [0164] In the same manner as in Example 15, an inorganic salt basal medium containing the components shown in Table 21 was prepared. 
+ 
+ 
+   [0165] フエノール、ホルムアルデヒド及びメタノールを各々 2, 500mg/Lの濃度で含み、か つ o, m, ρ—タレゾールを各々 500mg/Lの濃度で含む水溶液を作製し、 0. 45 μ ΐη 孔のメンブランフィルタを用いて滅菌した。 
+
+ [0166] 500mLの振とうフラスコに上記無機塩基本培地 80mLを入れ、上記有機化合物と してフエノール、ホルムアルデヒド及びメタノール各々 2, 500mg/Lの濃度で含み、 かつ o, m, ρ_タレゾールを各々 500mg/Lの濃度で含む水溶液 10mLを加えた。そ こに、予め無機塩基礎培地で培養しておいた SB0301の菌液（菌体濃度： 5. 0 X 10 8cfu/mL) 3. 5mL、 SB0202の菌液（菌体濃度： 1. 9 X 10 9 cfu/mL) 3. 5mL及 び SB0201の菌液（菌体濃度： 1. 8 X 10 6 cfu/mL) 3. 5mLを加えた。これら 3種を 混合することで培地中のフヱノール、ホルムアルデヒド及びメタノールの各々の濃度 を 250mg/Lに、 o， m， ρ—タレゾールの各々の濃度を 50mg/Lとした。上記表 27と 同じ処理条件で分解処理を行い、培地中のフヱノール、ホノレムァノレデヒド、メタノーノレ 及び o， m， p_タレゾール各々の濃度を経時的に測定した。その結果を図 8に示す。 産業上の利用可能性  [0165] An aqueous solution containing phenol, formaldehyde, and methanol at a concentration of 2,500 mg / L each, and containing o, m, and ρ-taresol at a concentration of 500 mg / L each was prepared, and 0.45 μΐη pores were prepared. Sterilized using a membrane filter.  [0166] A 500 mL shake flask was charged with 80 mL of the inorganic base main culture medium, containing phenol, formaldehyde and methanol at a concentration of 2,500 mg / L each as the organic compound, and each of o, m, and ρ_tarezol. 10 mL of an aqueous solution containing 500 mg / L was added. Then, 3.5 mL of the bacterial solution of SB0301 (cell concentration: 5.0 × 10 8 cfu / mL), which had been cultured in advance in an inorganic salt basic medium, 3.5 mL, and the bacterial solution of SB0202 (the cell concentration: 1.9 X (10  9  cfu / mL) 3.5 mL and 3.5 mL of bacterial solution of SB0201 (cell concentration: 1.8 × 10  6  cfu / mL) were added. By mixing these three types, the concentration of each of phenol, formaldehyde and methanol in the medium was adjusted to 250 mg / L, and the concentration of each of o, m, and ρ-talesol was adjusted to 50 mg / L. The digestion treatment was performed under the same treatment conditions as in Table 27 above, and the concentrations of phenol, honolemuanolaldehyde, methanol, and o, m, and p_talesol in the medium were measured over time. Fig. 8 shows the results. Industrial applicability 
+ 
+ 
+   [0167] 本発明の新規微生物を用いる本発明の処理方法によれば、クレゾール、フエノーノレ 、ホルムアルデヒド及びメタノールなどの殺菌性を有する生物難分解性の有機化合 物が混合で含まれるような廃液を効率よく処理することができる。また、従来よりも高 濃度の有機化合物を含む廃液であっても希釈等の処理を必要とせずに分解処理で きるため処理装置も小規模にでき、ランニングコストも安価にすることができる。それ 故、工場や病院からの廃液の処理に非常に有益な処理方法である。  [0167] According to the treatment method of the present invention using the novel microorganism of the present invention, a waste liquid containing a bactericidal biodegradable organic compound such as cresol, phenol, formaldehyde and methanol can be efficiently mixed. Can be processed well. Further, even a waste liquid containing an organic compound having a higher concentration than before can be decomposed without requiring treatment such as dilution, so that the processing apparatus can be reduced in scale and the running cost can be reduced. Therefore, it is a very useful treatment method for treating wastewater from factories and hospitals. 
+ 
+ 
+    図面の簡単な説明   Brief Description of Drawings 
+ 
+ 
+    [0168] [図 1]フエノール、ホルムアルデヒド及びメタノールを各々 250mg/Lの濃度で含む混 合水溶液に対する SB0301菌の分解特性を示すグラフである。   FIG. 1 is a graph showing the degradation characteristics of SB0301 bacteria in a mixed aqueous solution containing phenol, formaldehyde, and methanol at a concentration of 250 mg / L each. 
+ 
+ 
+   [0169] [図 2]フエノール、ホルムアルデヒド及びメタノールを各々 250mg/Lの濃度で含み、 o [FIG. 2] Contains phenol, formaldehyde and methanol at a concentration of 250 mg / L each, 
+ 
+ 
+   , m, p-タレゾールを各々 25mg/Lの濃度で含む混合水溶液に対する SB0301菌 の分解特性を示すグラフである。  FIG. 4 is a graph showing the degradation characteristics of SB0301 bacteria in a mixed aqueous solution containing, m, and p-talesol at a concentration of 25 mg / L. 
+ 
+ 
+   [0170] [図 3]ホルムアルデヒド及びメタノールを各々 5, 000mg/Lの濃度で含む混合水溶液 に対する本発明の新規微生物 SB0202菌の分解特性を示すグラフである。  FIG. 3 is a graph showing the degradation characteristics of the novel microorganism SB0202 of the present invention with respect to a mixed aqueous solution containing formaldehyde and methanol at a concentration of 5,000 mg / L, respectively. 
+ 
+ 
+   [0171] [図 4]ホルムアルデヒド、メタノール及びフエノールを各々 250mg/Lの濃度で含む混 合水溶液に対する本発明の新規微生物 SB0202菌の分解特性を示すグラフである 
+
+ [0172] [図 5]ホルムアルデヒド、フエノール及びメタノールを各々 750mg/Lの濃度で含む混 合水溶液に対する SB0201菌の分解特性を示すグラフである。  FIG. 4 is a graph showing the degradation characteristics of the novel microorganism SB0202 of the present invention with respect to a mixed aqueous solution containing formaldehyde, methanol and phenol at a concentration of 250 mg / L each.  FIG. 5 is a graph showing the degradation characteristics of SB0201 bacteria in a mixed aqueous solution containing formaldehyde, phenol and methanol at a concentration of 750 mg / L each. 
+ 
+ 
+   [0173] [図 6]ホルムアルデヒド及びフエノールを各々 750mg/Lの濃度で含む混合水溶液に 対する SB0201菌の分解特性を示すグラフである。  FIG. 6 is a graph showing the degradation characteristics of SB0201 bacteria in a mixed aqueous solution containing formaldehyde and phenol at a concentration of 750 mg / L each. 
+ 
+ 
+   [0174] [図 7]SB0202菌と SB0201菌との組み合わせによるホルムアルデヒド、フヱノール及 びメタノールを各々 1， 000mg/Lの濃度で含む混合水溶液に対する分解特性を示 すグラフである。  FIG. 7 is a graph showing the decomposition characteristics of a combination of bacteria SB0202 and SB0201 with respect to a mixed aqueous solution containing formaldehyde, phenol, and methanol at a concentration of 1,000 mg / L each. 
+ 
+ 
+    [0175] [図 8]SB0301菌、 SB0202菌及び SB0201菌の組み合わせによるフエノール、ホル ムアルデヒド及びメタノールを各々 250mg/Lの濃度で含み、 o， m, p—タレゾールを 各々 50mg/Lの濃度で含む混合水溶液に対する分解特性を示すグラフである。 
+  [FIG. 8] Contains phenol, formaldehyde, and methanol at a concentration of 250 mg / L each, and each of o, m, and p-talesol at a concentration of 50 mg / L, each of which is a combination of SB0301, SB0202, and SB0201. 4 is a graph showing decomposition characteristics for a mixed aqueous solution.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1413 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TECHNICAL FIELD 
+ 
+ 
+   
+    
+    [0001]
+     The present disclosure is in the field of haemophilia therapeutics, particularly recombinant Factor VIII protein products. The present disclosure relates specifically to an expression cassette comprising a nucleotide sequence coding for double mutant B-domain deleted Factor VIII gene having mutations at Phe309Ser and Asp519Val respectively. The disclosure also provides vectors and host cells transformed by the said expression cassette and corresponding methods thereof. The disclosure also relates to the production of double mutant B-domain deleted Factor VIII protein having mutations at Phe309Ser and Asp519Val respectively. The said protein shows enhanced activity and stability and therefore is used in the management of haemophilia. 
+   
+ 
+ BACKGROUND AND PRIOR ART OF THE DISCLOSURE 
+ 
+ 
+   
+    
+    [0002]
+     Hemophilia A is a congenital or acquired disorder of coagulation that usually involves quantitative or functional disorder of a single coagulation protein. The available treatment for hemophilia A is the administration of plasma derived factor VIII or the infusion of recombinant factor VIII. 
+     
+    
+    [0003]
+     Factor VIII (FVIII) has 26 exons, encoding a polypeptide chain of 2351 amino acids (19 amino acids signal peptide and 2332 amino acids mature protein). It is a large multimeric protein with heavy (A1-A2-B domains) and light chains (A3-C1-C2 domains). The domain structure of factor VIII is arranged in order as (NH2)-A1-a1-A2-a2-B-a3-A3-C1-C2-(COOH) (a1, a2 and a3 indicate the spacers containing clusters of acidic amino acids). The molecular weight of heavy chain spans between 90 and 210 kDa due to the limited processing of several proteolytic sites in B domain. The molecular weight of light chain is 80 kDa as this is not processed (Kaufman et al, 1988, Bovenschen et al, 2005). Heavy and light chains remain associated with each other with the non-covalent linkage of metal ion. (Vehar et al, 1984, Fass et al, 1982, Fay et al, 1986, Fay et al, 1992). 
+     
+    
+    [0004]
+     The expression level of factor VIII in heterologous systems is lower than that of other similar proteins expressed (Kaufman, et al. 1997). The reasons behind the limited expression of factor VIII in heterologous systems are: inefficient expression of factor VIII mRNA, ineffective transport of translated product from endoplasmic reticulum to the Golgi apparatus, interaction of misfolded proteins with chaperons in the ER etc. 
+     
+    
+    [0005]
+     Marquette et al identified a 110 amino acid region within the A1 domain of factor VIII which inhibited factor VIII secretion from the ER (Marquette, et al. 1995). Further to this, the structural analysis revealed the presence of a hydrophobic β-sheet within this region (Swaroop, et al. 1997). Measures were taken to reduce the interaction of factor VIII with immunoglobulin-binding protein (BiP) by mutating the potential amino acids to hydrophilic amino acids (Swaroop, et al. 1997). 
+     
+    
+    [0006]
+     In the prior art, different mutations (single, double and triple) are reported pertaining to improve a single feature/trait. The mutations generated are aimed to improve the stability of the recombinant Factor VIII molecule by single [single mutations at the sites 519, 665 (A2 domain), and 1984 (A3 domain)], double [eleven double mutations in different combinations at the sites of 519, 665, and 1984] and triple [three triple mutations at the sites of 519, 665, and 1984 sites]. Further, the prior art also deals with the mutations aiming to improve the secretion of recombinant Factor VIII and concerned only about the amino acids in the A1 domain which interact with the proteins in the ER secretory pathway. The mutations generated are single [nine single mutations at the positions 293, 294, 300, 309, 310, 306, and 299 (present in the 110 amino acid stretch in A1 domain which interacts with chaperons)], double [five double mutations with different combinations of double mutations at the positions 293, 294, 300, 309, 310, 306, and 299], and triple mutations. 
+     
+    
+    [0007]
+         US20120190623    discloses a truncated B-domain FVIII carrying the mutation F309S. 
+     
+    
+    [0008]
+         US2012065136    discloses a mutant FVIII with multiple mutations e.g. D519V. 
+     
+    
+    [0009]
+     The point 'synergism' is applicable only if the mutations considered are pertaining to a single character. The activity of the recombinant Factor VIII is ultimately decided by the amount of protein successfully secreted with significant stability. The prior art so far has not reported any studies which tried to combine the two features- secretion and stability. Thus, the present disclosure aims at overcoming the drawbacks of the prior art by disclosing double mutant showing improved activity due to the combined features of increased stability and secretion. 
+   
+ 
+ STATEMENT OF THE DISCLOSURE 
+ 
+ 
+   
+    
+    [0010]
+     Accordingly, the present disclosure relates to a nucleotide sequence set forth as SEQ ID No. 1 or a nucleotide sequence comprising sequence set forth as SEQ ID No.1; an amino acid sequence set forth as SEQ ID No. 2 or an amino acid sequence comprising sequence set forth as SEQ ID No.2; an expression cassette comprising nucleotide sequence set forth as SEQ ID No. 1 or a nucleotide sequence comprising sequence set forth as SEQ ID No.1; a vector having an expression cassette of the present disclosure; a host cell comprising the vector of the present disclosure; a method of obtaining a nucleotide sequence set forth as SEQ ID No. 1 or its corresponding amino acid sequence, said method comprising act of mutating nucleotide sequence set forth as SEQ ID NO. 3 at positions 925-927 and 1555-1557 or mutating a corresponding amino acid sequence set forth as SEQ ID NO. 4 at positions 309 and 519; a method of obtaining a transformed host cell comprising an expression cassette of the present disclosure, said method comprising acts of inserting the expression cassette of the present disclosure into a vector; and transforming the host cell with said vector to obtain the transformed host cell; a nucleotide sequence as set forth in SEQ ID No.13; an amino acid sequence as set forth in SEQ ID NO. 14; a protein having amino acid sequence set forth as SEQ ID No. 14; a method of producing a protein having amino acid sequence set forth as SEQ ID No. 14, said method comprising acts of mutating 925-927 and 1555-1557 positions of nucleotide sequence set forth as SEQ ID No. 3 to obtain a nucleotide sequence set forth as SEQ ID No. 1; transforming a host cell comprising vector having an expression cassette comprising the nucleotide sequence set forth as SEQ ID No. 1; and culturing the transformed host cell in culture medium for producing the said protein; a composition comprising protein having amino acid sequence set forth as SEQ ID No. 14 optionally along with excipients; a kit comprising mature recombinant double mutant factor VIII protein having amino acid sequence set forth as SEQ ID No. 14; a method of enhancing plasma deficient in factor VIII, said method comprising act of addition of mature recombinant double mutant factor VIII protein having amino acid sequence set forth as SEQ ID No. 14 to the plasma deficient in factor VIII; a method of activating factor X, said method comprising act of incubating factor X or a sample comprising factor X with mature recombinant double mutant factor VIII protein having amino acid sequence set forth as SEQ ID No. 14 to activate the factor X; and a method of managing coagulation disorders, said method comprising act of administering to a subject in need thereof, a composition comprising a protein having amino acid sequence set forth as SEQ ID No. 14, optionally along with pharmaceutically acceptable carrier or excipient or a combination thereof. 
+   
+ 
+ BRIEF DESCRIPTION OF ACCOMPANYING FIGURES 
+ 
+ 
+   
+    
+    [0011]
+     In order that the invention may be readily understood and put into practical effect, reference will now be made to exemplary embodiments as illustrated with reference to the accompanying figures. The figures together with a detailed description below, are incorporated in and form part of the specification, and serve to further illustrate the various embodiments, principles and advantages, in accordance with the present disclosure where:
+           Figure 1    depicts the mutations carried out at the various sites of the BDD recombinant Factor VIII gene.       Figure 2    depicts the western blot confirmation of wild-type Factor VIII (represented as BDD in the figure) and mutated recombinant Factor VIII (DM1 and DM2). The cell culture media collected after 48 and 72 hours is used in the experiment. First four lanes (1-4) indicate samples collected for two clones of double mutant and    lane    5 and 6 represent wild-type BDD-FVIII protein.
+ 
+Legend for Figure - 2:
+     Lane  1 and 2: protein expressed at 48 hours and 72 hours (DM-1)     Lane  3 and 4: protein expressed at 48 hours and 72 hours (DM-2)     Lane  5 and 6: protein expressed at 48 hours and 72 hours (wild-type BDD-FVIII without mutation). Arrows indicate the full length BDD-F VIII (∼180KDa) and Light chain of F VIII (∼70KDa). DM=Double mutant recombinant Factor VIII and BDD= B Domain Deleted wild-type Factor VIII without mutation.   
+       Figure 3    depicts purification of recombinant ΔBDD-FVIII using histidine ligand affinity chromatography. The chromatogram (3A) shows a single peak with the elution buffer. Purified fractions are then subjected to SDS-PAGE analysis (3B).  Lane  1=load,  lane  2=flow through,  lane  3=wash,  lane  4=elution without concentrating,  lane  5=elution after concentrating,  lane  6=commercial Factor VIII,  lane  7=medium range protein molecular weight markers. The arrows indicate the full length and individual chains of Factor VIII.       Figure 4    depicts the pcDNA 3.1 vector construct.       Figure 5    depicts the Western blot analysis of purified fractions. Lane 1 - CHO, lane 2 - BDD-FVIII,  Lane  3 & Lane 4 - double mutant, lane 5 - commercial factor VIII, Lane 6 - D519V.   
+ 
+ 
+ DETAILED DESCRIPTION OF THE DISCLOSURE 
+ 
+ 
+   
+    
+    [0012]
+     The present disclosure relates to a nucleotide sequence set forth as SEQ ID NO. 1 or a nucleotide sequence comprising sequence set forth as SEQ ID NO.1. 
+     
+    
+    [0013]
+     In an embodiment of the present disclosure, the nucleotide sequence of SEQ ID NO. 1 corresponds to B-domain deleted Factor VIII gene and comprises mutations at 925-927 and 1555-1557 positions of said nucleotide sequence; wherein the mutation in the nucleotide sequence at the position 925-927 corresponds to the replacement of phenylalanine with serine at 309 position in the corresponding amino acid sequence and the mutation in the nucleotide sequence at the position 1555-1557 corresponds to the replacement of aspartic acid with valine at 519 position in the corresponding amino acid sequence. 
+     
+    
+    [0014]
+     In an embodiment of the present disclosure, the mutations are point mutations at 925, 926 and 1556 position of said nucleotide sequence. 
+     
+    
+    [0015]
+     The present disclosure also relates to an amino acid sequence set forth as SEQ ID NO. 2 or an amino acid sequence comprising sequence set forth as SEQ ID NO.2. 
+     
+    
+    [0016]
+     In an embodiment of the present disclosure, the amino acid is corresponding to the nucleotide sequence of SEQ ID NO. 1. 
+     
+    
+    [0017]
+     In an embodiment of the present disclosure, the amino acid sequence corresponds to the B-domain deleted Factor VIII protein and comprises mutations at 309 and 519 positions. 
+     
+    
+    [0018]
+     The present disclosure also relates to an expression cassette comprising nucleotide sequence set forth as SEQ ID NO. 1 or a nucleotide sequence comprising sequence set forth as SEQ ID NO.1. 
+     
+    
+    [0019]
+     In an embodiment of the present disclosure, the nucleotide sequence corresponds to B-domain deleted Factor VIII gene and comprises mutations at 925-927 and 1555-1557 positions of said nucleotide sequence; wherein the mutation in the nucleotide sequence at the position 925-927 corresponds to the replacement of phenylalanine with serine at 309 position in the corresponding amino acid sequence and the mutation in the nucleotide sequence at the position 1555-1557 corresponds to the replacement of aspartic acid with valine at 519 position in the corresponding amino acid sequence. 
+     
+    
+    [0020]
+     The present disclosure also relates to a vector having an expression cassette of the present disclosure. 
+     
+    
+    [0021]
+     In an embodiment of the present disclosure, the vector comprising SEQ ID NO. 1 is inserted into an  E.coli  deposited under accession number MTCC 5855. 
+     
+    
+    [0022]
+     The present disclosure also relates to a host cell comprising the vector of the present disclosure. 
+     
+    
+    [0023]
+     The present disclosure also relates to a method of obtaining a nucleotide sequence set forth as SEQ ID NO. 1 or its corresponding amino acid sequence, said method comprising act of mutating nucleotide sequence set forth as SEQ ID NO. 3 at positions 925-927 and 1555-1557 or mutating a corresponding amino acid sequence set forth as SEQ ID NO. 4 at positions 309 and 519. 
+     
+    
+    [0024]
+     In an embodiment of the present disclosure, the nucleotide sequence set forth as SEQ ID NO. 3 corresponds to wild-type B-domain deleted Factor VIII gene and wherein the corresponding amino acid sequence set forth as SEQ ID NO. 4 corresponds to the corresponding wild type B-domain deleted Factor VIII protein. 
+     
+    
+    [0025]
+     In an embodiment of the present disclosure, the mutation in the nucleotide sequence at position 925-927 corresponds to the replacement of phenylalanine with serine at 309 position in the corresponding amino acid sequence; and the mutation in the nucleotide sequence at position 1555-1557 corresponds to the replacement of aspartic acid with valine at 519 position in the corresponding amino acid sequence 
+     
+    
+    [0026]
+     The present disclosure relates to a method of obtaining a transformed host cell comprising an expression cassette or a vector comprising nucleotide sequence set forth as SEQ ID NO. 1 or a nucleotide sequence comprising sequence set forth as SEQ ID NO.1, said method comprises inserting the expression cassette into a vector; and transforming the host cell with said vector to obtain the transformed host cell. 
+     
+    
+    [0027]
+     In an embodiment of the present disclosure, the host cell is CHO cell. 
+     
+    
+    [0028]
+     The present disclosure also relates to a nucleotide sequence as set forth in SEQ ID NO.13. 
+     
+    
+    [0029]
+     In an embodiment of the present disclosure, the sequence corresponds to B-domain deleted Factor VIII gene and comprises mutations at 925-927 and 1555-1557 positions of said nucleotide sequence; wherein the mutation in the nucleotide sequence at the position 925-927 corresponds to the replacement of phenylalanine with serine at 309 position in the corresponding amino acid sequence and the mutation in the nucleotide sequence at the position 1555-1557 corresponds to the replacement of aspartic acid with valine at 519 position in the corresponding amino acid sequence. 
+     
+    
+    [0030]
+     The present disclosure also relates to an amino acid sequence as set forth in SEQ ID NO. 14. 
+     
+    
+    [0031]
+     In an embodiment of the present disclosure, the amino acid sequence corresponds to the mature BDD FVIII double mutant peptide. 
+     
+    
+    [0032]
+     In an embodiment of the present disclosure, the amino acid sequence corresponds to the mature BDD Factor VIII mutant peptide and comprises mutations F309S and D519V. 
+     
+    
+    [0033]
+     The present disclosure also relates to a protein having amino acid sequence set forth as SEQ ID No. 14. 
+     
+    
+    [0034]
+     In an embodiment of the present disclosure, the amino acid sequence set forth as SEQ ID No. 14 correspond to mature BDD Factor VIII protein and comprises mutation F309S and D519V. 
+     
+    
+    [0035]
+     The present disclosure also relates to a method of producing a protein having amino acid sequence set forth as SEQ ID No. 14, said method comprises mutating 925-927 and 1555-1557 positions of nucleotide sequence set forth as SEQ ID No. 3 to obtain a nucleotide sequence set forth as SEQ ID No. 1; transforming a host cell comprising vector having an expression cassette comprising the nucleotide sequence set forth as SEQ ID No. 1; and culturing the transformed host cell in culture medium for producing said protein. 
+     
+    
+    [0036]
+     In an embodiment of the present disclosure, the amino acid sequence set forth as SEQ ID No. 14 corresponds to mature B-domain deleted Factor VIII protein and comprises mutations F309S and D519V. 
+     
+    
+    [0037]
+     The present disclosure also relates to a composition comprising protein having amino acid sequence set forth as SEQ ID No. 14 optionally along with excipients. 
+     
+    
+    [0038]
+     In an embodiment of the present disclosure, the composition further comprise divalent metal ion(s). 
+     
+    
+    [0039]
+     In an embodiment of the present disclosure, the divalent metal ion(s) is, but not limiting to, preferably Ca 2+  ions. 
+     
+    
+    [0040]
+     In an embodiment of the present disclosure, the composition further comprise coagulation factors. 
+     
+    
+    [0041]
+     In an embodiment of the present disclosure, the said amino acid sequence comprise mutations F309S and D519V. 
+     
+    
+    [0042]
+     The present invention also relates to a kit comprising mature recombinant double mutant factor VIII protein having amino acid sequence set forth as SEQ ID No. 14; 
+The present invention also relates to a method of enhancing plasma deficient in factor VIII, said method comprising act of addition of mature recombinant double mutant factor VIII protein having amino acid sequence set forth as SEQ ID No. 14 to the plasma deficient in factor VIII; 
+The present invention also relates to a in vitro method of activating factor X, said method comprises incubating factor X or a sample comprising factor X with mature recombinant double mutant factor VIII protein having amino acid sequence set forth as SEQ ID No. 14 to activate the factor X; 
+The present disclosure also relates to a method of managing coagulation disorders, said method comprising act of administering to a subject in need thereof, a composition comprising a protein having amino acid sequence set forth as SEQ ID No. 14, optionally along with pharmaceutically acceptable carrier or excipient or a combination thereof. 
+     
+    
+    [0043]
+     In an embodiment of the present disclosure, the coagulation disorder is, but not limited to heamophilia. 
+     
+    
+    [0044]
+     The present disclosure relates to double mutant recombinant Factor VIII. 
+     
+    
+    [0045]
+     In a preferred embodiment, the mutations in recombinant Factor VIII are at two amino acid positions Phe309Ser (A1 domain) and Asp519Val (A2 domain) respectively. 
+     
+    
+    [0046]
+     As used herein, the following sequences are set forth and followed in the present disclosure-SEQ ID NO. 1 (Total Length- 4377 nucleotides): Nucleotide Sequence coding for the double mutant recombinant BDD-Factor VIII having mutations at 925-927 and 1555-1557 positions respectively. The said nucleotide sequence contains 1-57 short signal peptide coding sequence. The mutations at SEQ ID NO. 1 are at position 925-927 and at position 1555-1557, wherein this position is to be calculated taking into account the short signal peptide coding sequence of 57 nucleotides at the beginning of SEQ ID NO.1. 
+     
+    
+    [0047]
+     SEQ ID NO. 2 (Total Length- 1458 amino acids): Amino acid sequence of the double mutant recombinant BDD-Factor VIII having mutations at Phe309Ser (A1 domain) and Asp519Val (A2 domain) respectively. The said amino acid sequence contains 1-19 short signal peptide sequence. The mutations at SEQ ID NO. 2 are at position 309 and at position 519, wherein this position is to be calculated taking into account the short signal peptide coding sequence of 19 amino acid residues at the beginning of SEQ ID NO. 2. 
+     
+    
+    [0048]
+     SEQ ID NO. 3 (Total Length- 4377 nucleotides): Nucleotide Sequence coding for the wild type BDD-recombinant Factor VIII. The said nucleotide sequence contains 1-57 short signal peptide coding sequence. 
+     
+    
+    [0049]
+     SEQ ID NO. 4 (Total Length- 1458 amino acids): Amino acid sequence of wild type BDD-recombinant Factor VIII. The said amino acid sequence contains 1-19 short signal peptide sequence. 
+     
+    
+    [0050]
+     SEQ ID NO. 5: Forward primer for F309S mutation. 
+     
+    
+    [0051]
+     SEQ ID NO. 6: Reverse primer for F309S mutation. 
+     
+    
+    [0052]
+     SEQ ID NO. 7: Forward primer for D519V mutation. 
+     
+    
+    [0053]
+     SEQ ID NO. 8: Reverse primer for D519V mutation. 
+     
+    
+    [0054]
+     SEQ ID NO. 9: (Total Length- 4377 nucleotides): Nucleotide Sequence of the single mutant recombinant BDD-Factor VIII having mutation at Phe309Ser (A1 domain). The said nucleotide sequence contains 1-57 short signal peptide coding sequence. 
+     
+    
+    [0055]
+     SEQ ID NO. 10: (Total Length- 1458 amino acids): Amino acid sequence of the single mutant recombinant BDD-Factor VIII having mutation at Phe309Ser (A1 domain). The said amino acid sequence contains 1-19 short signal peptide sequence. 
+     
+    
+    [0056]
+     SEQ ID NO. 11: (Total Length- 4377 nucleotides): Nucleotide Sequence of the single mutant recombinant BDD-Factor VIII having mutation at Asp519Val (A2 domain). The said nucleotide sequence contains 1-57 short signal peptide coding sequence. 
+     
+    
+    [0057]
+     SEQ ID NO. 12: (Total Length- 1458 amino acids): Amino acid sequence of the single mutant recombinant BDD-Factor VIII having mutation at Asp519Val (A2 domain). The said amino acid sequence contains 1-19 short signal peptide sequence. 
+     
+    
+    [0058]
+     SEQ ID NO. 13: (Total length 4320): Nucleotide sequence coding for the mature double mutant recombinant BDD-Factor VIII peptide having mutations at 925-927 and 1555-1557 positions respectively. 
+     
+    
+    [0059]
+     SEQ ID NO. 14: (Total length 1439): Amino acid sequence coding for the mature peptide for the double mutant recombinant BDD-factor VIII having mutation F309S and D519V. 
+     
+    
+    [0060]
+     In an embodiment of the present invention, the nucleotide sequence as set forth in SEQ ID No. 13 codes for the mature double mutant recombinant BDD-Factor VIII having mutations at positions 925-927 and 1555-1557. Further, the amino acid sequence as set forth in SEQ ID NO. 14 is the mature double mutant recombinant BDDFactor VIII having mutations F309S and D519V. 
+     
+    
+    [0061]
+     In an embodiment of the present disclosure, the nucleotide sequence as set forth in SEQ ID No. 1 codes for the double mutant recombinant BDD-Factor VIII containing mutations at positions 925-927 and 1555-1557 which also includes the sequence for the signal peptide. 
+     
+    
+    [0062]
+     Further, the amino acid sequence as set forth in SEQ ID NO. 2 is the double mutant recombinant BDD Factor VIII having mutations F309S and D519V including the amino acid sequence of the signal peptide. 
+     
+    
+    [0063]
+     As used herein, "management" or "managing" refers to preventing a disease or disorder from occurring in a subject, decreasing the risk of death due to a disease or disorder, delaying the onset of a disease or disorder, inhibiting the progression of a disease or disorder, partial or complete cure of a disease or disorder and/or adverse affect attributable to the said disease or disorder, obtaining a desired pharmacologic and/or physiologic effect (the effect may be prophylactic in terms of completely or partially preventing a disorder or disease or condition, or a symptom thereof and/or may be therapeutic in terms of a partial or complete cure for a disease or disorder and/or adverse affect attributable to the disease or disorder), relieving a disease or disorder (i.e. causing regression of the disease or disorder). 
+     
+    
+    [0064]
+     In an embodiment of the present disclosure, the double mutant recombinant Factor VIII showcases significantly improved secretion, increased circulating half life and stability and reduced immunogenicity. 
+     
+    
+    [0065]
+     In another embodiment of the present disclosure, the double mutant recombinant Factor VIII gene is expressed in mammalian heterologous expression systems not limited to CHO, BHK, sf9, HEK 293 F and Hep3B cell lines. In a preferred embodiment, the double mutant recombinant Factor VIII gene is expressed in CHO cell line. 
+     
+    
+    [0066]
+     In another embodiment of the present disclosure, the double mutant recombinant Factor VIII gene is expressed in pichia expression system or plant based expression system. 
+     
+    
+    [0067]
+     In an embodiment of the present disclosure, the double mutant recombinant Factor VIII gene is SEQ ID NO.1. 
+     
+    
+    [0068]
+     In an embodiment of the present disclosure, the double mutant recombinant Factor VIII gene is SEQ ID NO.13. 
+     
+    
+    [0069]
+     In an embodiment of the present invention, the double mutant recombinant Factor VIII gene set forth as SEQ ID NO.13 is inserted into a vector having sequence coding for signal peptide. 
+     
+    
+    [0070]
+     In an embodiment of the present invention, the double mutant recombinant Factor VIII of the present disclosure results in higher secretion, stability and activity. I. The double mutant F309S + D519V show an increased activity when compared to the wild type, single mutant F309S and D519V. The increased activity of the double mutant is explained by the synergistic effect of this combination (F309S + D519V) over the individual mutations F309S and D519V, wherein the functional roles of amino acids at these positions improve the secretion, stability and activity. 
+     
+    
+    [0071]
+     In an embodiment of the present disclosure, addition of Calcium ion in the formulation/composition comprising double mutant recombinant factor VIII increases the unit activity of double mutant recombinant Factor VIII (ΔBDD-FVIII). The increased activity observed with Ca 2+  is due to the effect of this specific combination of F309S and D519V mutations together in a single construct. Serine at 309 position is important in metal ion interaction over phenylalanine when the next position is occupied by Cysteine (Cys310). A mutation at 519 changes the conformational positioning of A1 and A3 and makes more amenable to Factor IXa binding through metal ion interaction. So putting this together, the double mutant of the present disclosure shows more stability compared to wild type BDD-FVIII. Further, reconstitution buffer combinations with calcium increases the activity of this double mutant. 
+     
+    
+    [0072]
+     Addition of divalent metal ions to the recombinant preparations used for therapeutic purposes is not a common practice. The structural elucidation of Factor VIII molecule, its interaction between different domains reveal that metal ions play a vital role in maintaining its functional integrity. It is shown that when heavy chain and light chain of Factor VIII reconstitutes in the presence of divalent metal ions they regain coagulation activity. Nonetheless, there are no reports so far which show that the recombinant preparation of Factor VIII increases its activity by the addition of divalent cations. 
+     
+    
+    [0073]
+     In an embodiment of the present disclosure, the present disclosure utilizes the expected non-linked heavy chain and light chain in the preparations (as they are non-functional when separated) by adding 5mM CaCl 2  to facilitate the inter chain linking of heavy and light chain to make them functionally active. The mutation in A2 domain (D519V) significantly improves the inter domain interaction through calcium. 
+     
+    
+    [0074]
+     Specific mutations at crucial sites of any protein can alter its biological function. With regard to the therapeutic protein produced using heterologous system, the particular technique of the present study is used extensively to generate mutant proteins. Even though single mutations have been produced earlier, the double mutant of the present disclosure is significantly better in terms of its activity and stability. Thus, the approach of the present disclosure is based mainly on the practical aspects, concerning with the stability and secretion of Factor VIII molecule produced from CHO. 
+     
+    
+    [0075]
+     The double mutant of the present invention is referred throughout the specification interchangeably as double mutant B-domain deleted Factor VIII, double mutant (Phe309Ser + Asp519Va1), double mutant (F309S + D519V), double mutant BDD-FVIII, double mutant BDD-FVIII (Phe309Ser + Asp519Val), double mutant BDD-FVIII (F309S + D519V), double mutant recombinant factor VIII, recombinant BDD-FVIII- double mutant, rBDD-FVIII-DMand ΔBDD-FVIII.The expressed double mutant mature protein of the present invention contains the sequence as denoted by SEQ ID NO. 14, encoded by the nucleotide sequence of SEQ ID NO. 1. The double mutant protein of the present invention containing the sequence as denoted by SEQ ID NO. 2 corresponds to the nucleotide sequence of SEQ ID NO. 1. 
+     
+    
+    [0076]
+     The present invention discloses the double mutant BDD-FVIII (Phe309Ser + Asp519Val) which has been deposited with an International Depository Authority as per the requirement under Budapest treaty. 
+     
+    
+    [0077]
+     The cDNA construct in Escherichia coli- pcDNA for the recombinant BDD-FVIII- double mutant (rBDD-FVIII-DM) has been deposited with the International Depository, "The Microbial Type Culture Collection and Gene Bank (MTCC)" and has been accorded the accession number as    MTCC 5855.     
+     
+    
+    [0078]
+     Additional embodiments and features of the present disclosure will be apparent to one of ordinary skill in art based upon description provided herein. However, the examples and the figures should not be construed to limit the scope of the present disclosure. 
+   
+ 
+ Example 1 
+ 
+ 
+ 
+ 
+ Materials Used 
+ 
+ 
+   
+    
+    [0079]
+       E. coli  strain DH5α is used for cloning and maintaining the plasmids. The wild type recombinant Factor VIII cDNA [pcDNA3.1(+) BDD-FVIII] expression construct is used. Mammalian cell line CHO is used as a heterologous protein expression system and is purchased from NCCS, Pune. CHO cells are cultured in DMEM-F12 medium containing 10% (v/v) fetal bovine serum (FBS) at 37°C in a 5% CO 2  incubator. Commercially available purified recombinant Factor VIII is purchased from Epitomics (France). Polyclonal antibodies against C2 domain of Factor VIII are raised in house. Restriction endonucleases are purchased from New England Biolabs. DMEM-F12 and FBS are purchased from Himedia and Lipofectamine 2000 Reagent is purchased from Invitrogen. Serum free media for CHO cell line is purchased from Sigma. Geniticin is purchased from Invitrogen and Pfu is purchased from Fermentas. Sepharose 4B coupled with Histidine-Bisoxirine is used. Coametric instruments are used for chromogenic assay. 
+   
+ 
+ Example 2 
+ 
+ 
+ 
+ 
+ Construction of mutated recombinant Factor VIII 
+ 
+ 
+   
+    
+    [0080]
+     Site-directed mutagenesis of wild type recombinant Factor VIII cDNA (B domain deleted Factor VIII) is carried out. Mutations at F309S (Phe309Ser) and D519V (Asp519Val) are done using  pfu  polymerase with specific primers having desired mutation site integrated into it. 
+     
+    
+    [0081]
+     The pcDNA3.1(+) vector containing Factor VIII cDNA is used as template for site-directed mutagenesis. In an embodiment, the expression cassette is provided in  Figure 4 - 
+Vector (pcDNA3.1) - 5.4Kb 
+Insert (pcDNA-FVIII) - 4.6Kb 
+Total plasmid size - 10Kb 
+     
+    
+    [0082]
+     The specific primers are designed to mutate BDD-FVIII using the program PrimerX (http://www.bioinformatics.org/primerx/). The GC content and melting temperature is checked by MBCF (Molecular biology core facilities) oligo calculator (http://mbcf.dfci.harvard.edu/docs/ oligocalc.html). The PCR is performed using the following primers: 
+     Primers for F309S - 
+   
+    
+    [0083]
+     Forward primer (SEQ ID NO. 5): 5' CCTTGGACAGTTTCTACTGAGTTGTCATATCTCTTCCCAC 3' 
+     
+    
+    [0084]
+     Reverse primer (SEQ ID NO. 6): 5' GTGGGAAGAGATATGACAACTCAGTAGAAACTGTCCAAGG3' 
+   
+ Primers for D519V- 
+ 
+   
+    
+    [0085]
+     Forward primer (SEQ ID NO. 7): 5' CAGTGACTGTAGAAGTTGGGCCA ACT AAATC 3' 
+     
+    
+    [0086]
+     Reverse primer (SEQ ID NO. 8): 5' GATTTAGTTGGCCCAACTTCTACAGTCACTG 3' 
+     
+    
+    [0087]
+     The specific PCR Programme cycling parameters are as follows-
+       a. Initial denaturation for 4 minutes (94°C) followed by 20 cycles of denaturation for 30 sec (94°C);   b. Annealing at 64.5°C for 45 sec;   c. Extension at 68°C for 3 min followed by a single cycle of Final extension at 72°C for 7 min.   
+   
+    
+    [0088]
+     The PCR amplicons obtained are further digested with DpnI and transformed into DH5α competent cells. The positive clones are selected and sequenced for mutation integration confirmation. 
+   
+ Results 
+ 
+   
+    
+    [0089]
+     The double mutant recombinant Factor VIII cDNA [pcDNA3.1(+)ΔBDD-FVIII] expression construct having mutations at Phe309Ser and Asp519Val is generated by site directed mutagenesis. Mutation integration is confirmed by DNA sequencing. 
+     
+    
+    [0090]
+       Figure 1  depicts the mutations carried out at the various sites of the BDD recombinant Factor VIII gene. 
+   
+ 
+ Example 3 
+ 
+ 
+ 
+ 
+ Protein Expression studies 
+ 
+ 
+   
+    
+    [0091]
+     Mammalian cell line CHO is cultured in 10% FBS. Once the cells attain 70-80% confluency, antibiotic free media is added to the cells and then transfected with wild type recombinant Factor VIII cDNA [pcDNA3.1(+) BDDFVIII] expression construct and double mutant recombinant Factor VIII cDNA [pcDNA3.1(+)ΔBDD-FVIII] expression construct in independent experiments respectively. Transfection is carried out using Lipofectamine reagent. After 6 hours of transfection, optimal media is changed and complete media is added. 48 hours post transfection, antibiotic Geniticin is added to the plate for selecting stable clones. Single stable clones are picked up from the plate and are transferred to 96 well plate containing complete media with 560 µg/ml geniticin. Sufficient passaging is provided to the cells before culturing them in 75cm 2  flasks with 560 µg/ml geniticin. The cell culture supernatant is collected at various time points. For purification and further studies, stable clones are cultured in serum free media. 
+     
+    
+    [0092]
+     To analyze the expressed protein, Sodium Dodecyl Sulphate (SDS) poly acrylamide gel electrophoresis (PAGE) is carried out according to Laemmli and western blot is done to see the expression of the protein. Cell culture supernatant is mixed with 5X SDS sample loading buffer and boiled for 10 minutes. The samples are run on 8% SDS-PAGE gels at 80 volts for 120 minutes using Bio-Rad mini protein system. The resolved protein is transferred to nitrocellulose membrane at 90 volts 90 minutes in transfer buffer using Bio-Rad mini transblot apparatus. After transferring the protein to the nitrocellulose membrane, it is blocked with 5% skimmed milk powder. The membrane is then washed with PBS-T and incubated with anti C2 polyclonal antibody raised in-house for 2 hours and then with anti IgG conjugated with alkaline phosphatase. The positive reactivity is visualized using 5-bromo-4chloro-3-indolylphosphate/nitro blue tetrazonium (BCIP-NBT) as a substrate. 
+     
+    
+    [0093]
+     The aforementioned protein expression aspects are provided in a greater detail as follows: 
+   
+ Materials: 
+ 
+ 
+ Media Requirements 
+ 
+   
+    
+    [0094]
+     EX-CELL® 325 PF CHO serum-free medium for CHO Cells without L-glutamine, protein free, liquid, sterile-filtered, suitable for cell culture is purchased from Sigma Aldrich, Bangalore. Fetal bovine serum (FBS) and DMEM-F12, are purchased from Himedia laboratories, India. 
+   
+ Antibiotics and Reagents 
+ 
+   
+    
+    [0095]
+     Trypsin and Penicillin-streptomycin solution are purchased from Himedia laboratories, India. Geniticin is purchased from Invitrogen, LipofectamineTM2000 is purchased from Invitrogen. Other chemicals are obtained from Sigma-Aldrich (USA), SRL (India) and Merck Limited (India). Pfu DNA polymerase and dNTPs are obtained from Fermentas. T4 DNA ligase and restriction enzymes are purchased from New England Biolabs, U.S.A. Antibiotics Kanamycin and Ampicillin are from Himedia Lab, India. Kits used for plasmid isolation and gel extraction are from Sigma Aldrich, USA. Other chemicals are obtained from SRL (India) and Merck Limited (India). The oligonucleotide primers are synthesized at Sigma Aldrich Ltd (Bangalore, India). 
+   
+ Culture Wares 
+ 
+   
+    
+    [0096]
+     Petri dishes are purchased from Tarsons, 96 well plates, 24 well plates, 12 well plates, 6 well plates, and 25cm 2  culture flasks are purchased from Nunclon, India. 75cm 2  culture flasks are purchased from Himedia Laboratories, India. Cryo vials are purchased from Tarsons. 
+   
+ Instruments 
+ 
+   
+    
+    [0097]
+     The instruments used in the present disclosure are Phase contrast microscope (Olympus, USA), Centrifuge (Hettich Zentrifugen, Germany), Deionized water system (Milli Q, Millipore), Freezers -20°C and -80°C, CO 2  Incubator (Memmert, Germany), PCR machine (Eppendorf, Thermocycler model: 22331, Hamburg), Electrophoresis unit (Bio-Rad, USA), Gel documentation system (Bio rad, USA), Spectrophotometer (Beckman coulter, USA), Centrifuge (Eppendorf, Germany), Speed Vac, Deionized water system (Milli Q, Millipore), Ice machine, Incubators, Autoclave, Laminar air flow, Sonicator, pH meter, Water bath and minor lab equipments. 
+   
+ Methods: 
+ 
+ 
+ Media Preparation 
+ 
+   
+    
+    [0098]
+     DMEM-F12 powder - 15 - 16 g; Autoclaved sterile water - 1L 
+Penicillin-Streptomycin solution - 1-2 ml 
+Sodium bicarbonate - 1 - 1.3 g 
+Milli Q water is autoclaved in a sterile flask. DMEM-F12 powder is added to sterile water and allowed to dissolve. 1.2g of sodium bicarbonate is added to the media. 2ml of penicillin-streptomycin antibiotics is added. pH of media is adjusted with NaOH or HCl. Media is filtered using 0.45µ filters. Sterility of the media is checked by overnight incubation at 37°C in incubator with 5% CO 2 . 10% FBS is added to sterile media for adherent cell culture. 
+   
+ PBS Preparation 
+ 
+   
+    
+    [0099]
+     NaCl - 137 mM 
+KCl - 2.7 mM 
+Na 2 HPO 4  - 4.3 mM 
+KH 2 PO 4  - 1.47 mM 
+     
+    
+    [0100]
+     The solution is dispensed into aliquots and sterilized by autoclaving. The solution is stored at room temperature between 22-24°C. 
+   
+ Culturing Of CHO Cells: 
+ 
+   
+    
+    [0101]
+     CHO Cells are kept in liquid nitrogen until they are ready to be thawed. To thaw the cells, cryo-vials are placed in water bath at 37°C and cells are allowed to thaw. After homogenizing cells, it is transferred to a 15ml tarson tube with 9ml DMEM-F12 media supplemented with 10% FBS, centrifuged at 1500rpm for 5 minutes. The supernatant is discarded after centrifugation and pellet is suspended in 1ml of complete media and transferred it to 25cm 2  culture flasks with 5ml complete media. Culture flasks are placed in incubator at 37°C supplied with 5% CO 2 . The cells are allowed to adhere to the surface. Cell growth is observed every 24 hours under phase contrast microscope. Once the cell reached 90-100% confluency, the media is discarded and passaged. 
+   
+ TRANSFECTION: 
+ 
+ 
+ Requirements 
+ 
+   
+    
+    [0102]
+     CHO cell line 
+Lipofectamine 
+Plasmid DNA pcDNAFVIII mutated 
+DMEM-F12 media 
+FBS 
+   
+ Procedure 
+ 
+   
+    
+    [0103]
+     One day before transfection, CHO cells are seeded onto 6 well plates. Each well has 0.5-2×10 5  cells in 500µl growth medium without antibiotics. Prior to transfection, the complexes are prepared separately. 4µg of DNA is diluted in 50µl of optimum medium (media without FBS). The mixture is gently mixed. 10µl of lipofectamine 2000 is diluted in 50µl optimum medium and is incubated for 5 minutes. After 5 minutes incubation, diluted DNA and diluted Lipofectamine 2000 are combined (total volume 100µl). It is mixed gently and incubated for 20 minutes at room temperature. Medium is aspirated from plates and fresh medium is added without FBS and antibiotics before adding the complexes. 100µl of complexes are added to each well containing cells and medium. It is mixed gently so that the complex is distributed evenly and incubated at 37°C in CO 2  incubator. Complete medium is added after 6 hours of transfection. The cells are allowed to grow for 24 hours. Expression level is determined using GFP protein as control. 
+     Selection of Stable Clones Expressing mutated recombinant FVIII Protein  (ΔBDD-FVIII)  in CHO Cell Line:   
+ 
+ Requirements 
+ 
+   
+    
+    [0104]
+     DMEM-F12 media 
+Pen-strep solution 
+Trypsin 
+FBS 
+Geniticin 
+   
+ Procedure 
+ 
+   
+    
+    [0105]
+     After transfection, cells are allowed to grow under non-selective conditions for 24 hours. After 24 hours, selection media is added with 560µg/ml of Geniticin. The cells are allowed to grow in selection media for 72 hours, after which fresh selection media is added. The clones are allowed to grow till it reached 90-100% confluency. Once the clones reached sufficient confluency, it is transferred to 96 well plate with same selection media. Clones are allowed to attach to surface and grow for 15 days or more. Passaging is done to 24 well plates, 12 well plates and 6 well plates with selection media. 
+   
+ Selection of Single Clones Producing FVIII: 
+ 
+   
+    
+    [0106]
+     Once the stable clones are produced, single clones are selected from stable clones. Clones are selected from 12 well plates. The cells are trypsinized and stable clones are diluted in 10 ml selection media. Dilution is made after cell counting. 100µl of selection media statistically yields between 5-10 clones per 96 well plate, thereby minimizing the probability of wells with more than one clone. Cells are incubated under standard conditions and cells are feeded after 10-14 days with fresh selection medium. Clones are analyzed or further expanded as soon as cells in the non-transfected control wells have completely died. Once the resistant clones are identified, the cells are expanded and assayed for protein of interest by using appropriate analysis method. 
+     Culturing of Single Clones Expressing Mutated Factor VIII  (ΔBDD-FVIII)  in Serum Free Media:   
+   
+    
+    [0107]
+     CHO cell line is first cultured in DMEM-F12 supplemented with 10% FBS. Concentration of serum is decreased stepwise in every other passage. Cells are finally maintained in lower concentrations of FBS, up to 0.5%. Selected mutated single clones are cultured in DMEM-F12 supplied with 0.5% of FBS and after two passages they are transferred to serum free media. 3×10 5  cells/ml are transferred to serum free media and allowed to grow at 37°C with 5% CO 2  supply. Cell culture supernatant is collected at various time points to check the protein production. Time points selected are 24, 48, 72, and 96 hours. Cell culture supernatant is then subjected to ELISA and Western blot for further analysis of secreted protein. 
+     Selection Of Stable Clones Expressing Mutated BDD-FVIII ( ΔBDD-FVIII)  By ELISA:   
+   
+    
+    [0108]
+     Stable CHO clones expressing mutated recombinant Factor VIII protein is analyzed by enzyme-linked immunosorbent assay (ELISA). Samples are collected from 96 well plate and coated onto ELISA plates for analysis. The basic principle of an ELISA is to use an enzyme to detect binding of antigen and antibody. Enzyme converts a colorless substrate to a colored product, indicating the presence of antigen: antibody complex. 
+   
+ Requirements 
+ 
+   
+    
+    [0109]
+     Carbonate buffer/Bicarbonate buffer 0.1M, pH 9.6 
+NaHCO 3  - 8.4 g 
+Na 2 CO 3  - 10.59 g 
+Milli Q water - 1L 
+pH adjusted to 9.6 and stored at room temperature 
+PBS pH 7.4 
+NaH 2 PO 4  - 10 mM 
+Na 2 HPO 4 .2H 2 O - 10 mm 
+NaCl - 150 mM 
+pH adjusted to 7.4 
+   
+ Washing buffer 
+ 
+   
+    
+    [0110]
+     PBS - 1L 
+Tween 20 - 0.05% 
+Tween 20 added and mixed on a magnetic stirrer 
+   
+ Dilution buffer 
+ 
+   
+    
+    [0111]
+     PBS - 10ml 
+Tween 20 - 0.05% 
+BSA - 0.5% 
+BSA added to PBS with Tween 20 solution. 
+   
+ Blocking buffer 
+ 
+   
+    
+    [0112]
+     PBS - 10ml 
+BSA - 0.5% 
+   
+ TMB solution 
+ 
+   
+    
+    [0113]
+     300mg of TMB is dissolved in 100 ml of DMSO. Stored in dark 
+   
+ H 
+ 
+ 2 
+ 
+ O 
+ 
+ 2 
+ 
+ 
+   
+    
+    [0114]
+     3% of H 2 O 2  is prepared 
+   
+ Citrate/Phosphate buffer 
+ 
+   
+    
+    [0115]
+     Citric acid trisodium salt dihydrate - 29.4g 
+NaH 2 PO 4 .2H 2 O - 17.19g 
+MilliQ water - 1L 
+The contents are added and pH adjusted to 5.0 
+   
+ H 
+ 
+ 2 
+ 
+ SO 
+ 
+ 4 
+ 
+ 
+   
+    
+    [0116]
+     H 2 SO 4  - 160 ml of concentrated H 2 SO 4  is made up to 1L with MilliQ water 
+   
+ Procedure 
+ 
+   
+    
+    [0117]
+     CHO stable clones expressing Factor VIII protein is collected from 96 well plate. 50µl of the sample is diluted in 0.1M bicarbonate buffer (pH 9.6), immobilized on 96 well ELISA plate for 20 hours at 4°C. Untransfected CHO is used as control. The plate is covered with aluminum foil. After 20 hours, plate is washed with washing solution, PBS and Tween 20. Remaining free space is blocked with BSA, incubating it for one hour at 37°C. It is then washed with washing buffer before adding primary antibody. Plate is incubated with polyclonal antibody raised against C2 domain of Factor VIII protein, with dilution of 1: 10,000. Antibody is diluted in dilution buffer, incubated for an hour at 37°C. Finally incubated with secondary antibody, Anti-IgG-rabbit-HRP conjugated (Sigma Aldrich, Bangalore), with a dilution of 1: 50,000 in dilution buffer. Incubation is done for an hour at 37°C. After washing thoroughly, 100µl of TMB solution is added to the wells, incubated for 5 minutes. Reaction is stopped by adding 50µl of H 2 SO 4  (2M) to each well. Color change is noticed from blue to yellow. Reading is taken in an ELISA plate reader at 450nm. 
+   
+ Protein Analysis by SDS-PAGE: 
+ 
+   
+    
+    [0118]
+     To analyze the expressed protein, SDS-PAGE is carried out according to Laemmli (Laemmli, 1970). Protein samples of 10 µl are mixed with 10 µl of 2x SDS sample loading buffer and boiled for 2 min. The samples are run on 10% SDS-PAGE gels at 100V for 90 min using Bio-Rad mini protein system (Bio-Rad Laboratories). The resolved protein samples are visualized by staining with Coomassie brilliant blue. 
+   
+ Requirements 
+ 
+ 
+ Acrylamide/ Bis-acrylamide solution (30.8%) 
+ 
+   
+    
+    [0119]
+     Acrylamide - 30 gm 
+Bis-acrylamide - 0.8 gm 
+In 100 ml of double distilled water 
+   
+ Resolving gel buffer: (pH 8.8) 
+ 
+   
+    
+    [0120]
+     Tris base - 18.18 gm in 70 ml of double distilled water 
+pH adjusted to 8.8 with conc. HCl 
+Water is added to make volume to 100 ml 
+   
+ Stacking gel buffer (pH 6.8) 
+ 
+   
+    
+    [0121]
+     Tris base - 7.6 gm 
+In 100 ml double distilled water 
+pH adjusted to 6.8 with conc. HCl 
+25 ml double distilled water to make 125 ml 
+   
+ Sample buffer 
+ 
+   
+    
+    [0122]
+     Stacking gel buffer - 5 ml 
+10% SDS - 8 ml 
+Glycerol - 4 ml 
+β-mercaptoethanol - 2 ml (added for reducing sample) 
+Bromo phenol blue indicator dye - 2 mg 
+The volume made upto 20 ml by adding distilled water 
+Ammonium per Sulphate (10%) 
+TEMED solution 
+Butanol 
+   
+ Tank buffer (1X) 
+ 
+   
+    
+    [0123]
+     
+ 
+ 
+ 
+ 
+ Tris 
+ - 6.06 mg 
+ 
+ 
+ Glycine 
+ - 28.8 mg 
+ 
+ 
+ SDS 
+ - 1 gm 
+ 
+ 
+ In Double distilled water 
+ - 1000 ml 
+ 
+ 
+ 
+ 
+ 
+   
+ Resolving gel composition (10%) (10 ml) 
+ 
+   
+    
+    [0124]
+     
+ 
+ 
+ 
+ 
+ Acrylamide/bisacrylamide solution (30.8%) 
+ - 3.3 ml 
+ 
+ 
+ Double distilled water 
+ - 4.0 ml 
+ 
+ 
+ 1.5M Tris (pH8.8) 
+ - 2.5 ml 
+ 
+ 
+ 10% SDS 
+ - 0.1 ml 
+ 
+ 
+ TEMED 
+ - 004 ml 
+ 
+ 
+ 10% APS 
+ - 0.1 ml 
+ 
+ 
+ 
+ 
+ 
+   
+ Stacking gel composition (5%) (3 ml) 
+ 
+   
+    
+    [0125]
+     
+ 
+ 
+ 
+ 
+ Acrylamide/bisacrylamide solution (30.8%) 
+ - 0.5 ml 
+ 
+ 
+ Double distilled water 
+ - 2.1 ml 
+ 
+ 
+ 1.5 M Tris (pH 6.8) 
+ - 0.38 ml 
+ 
+ 
+ 10% SDS 
+ - 0.03 ml 
+ 
+ 
+ TEMED 
+ - 0.003 ml 
+ 
+ 
+ 10% APS 
+ - 0.03 ml 
+ 
+ 
+ 
+ 
+ 
+   
+ Procedure 
+ 
+   
+    
+    [0126]
+     The two glass plates are assembled on a clean surface by keeping the longer glass plate containing spacers at the back and short thin plate in front. This glass plate sandwich is gently placed into the clamp assembly and tightened. This clamp assembly is placed on the casting stand, firmly against the rubber gasket at the base. The Resolving gel (8%) is prepared by mixing the appropriate concentration of the components gently, ensuring no air bubbles formation. The resolving gel is poured into the glass plate assembly. The gel is overlaid with butanol to ensure a flat surface and to exclude air. The butanol is washed off with water after the gel is set. Stacking gel (5%) is prepared and then poured on top of resolving gel. Comb (1 mm) is inserted gently and the gel is allowed to set. Then the comb is removed slowly. The gel assembly is placed in the buffer chamber and running buffer is added into the chamber. The sample is prepared by mixing the sample dye (2X) (reducing dye) with samples in the ratio of 1:1. Then the sample mixture is boiled for 5 min at 70°C, and centrifuged. 20 µl of the sample is loaded in the well and run at 100V for 90 min. 
+   
+ Staining procedure: Silver Staining 
+ 
+ 
+ Requirements 
+ 
+ 
+ Solution I 
+ 
+   
+    
+    [0127]
+     Acetone - 30 ml 
+Water - 30 ml 
+Trichloro acetic acid - 0.75g 
+   
+ Solution II 
+ 
+   
+    
+    [0128]
+     Acetone - 30 ml 
+Water - 30 ml 
+   
+ Solution III 
+ 
+   
+    
+    [0129]
+     Water - 60 ml 
+Sodium thiosulphate 10% - 25µl 
+Formaldehyde - 25µl 
+   
+ Solution IV 
+ 
+   
+    
+    [0130]
+     Silver nitrate - 0.16g 
+Water - 60ml 
+   
+ Solution V 
+ 
+   
+    
+    [0131]
+     Water - 60 ml 
+Sodium carbonate - 1.2g 
+Formaldehyde - 100 µl 
+   
+ Procedure 
+ 
+   
+    
+    [0132]
+     Gel is washed with water three times. The gel is fixed with Acetone and trichloro acetic acid for 5 minutes. After fixation, gel is washed with water three times. Then the gel is sensitized with sodium thiosulphate. After washing, gel is stained with silver nitrate by incubating in silver nitrate solution for 8 minutes. The gel is developed with developing solution, sodium carbonate. Once the bands are clear, the reaction is stopped by adding stop solution, glacial acetic acid. Gel is stored in water. 
+   
+ Western Blotting 
+ 
+   
+    
+    [0133]
+     The expression of the recombinant protein is analyzed by transferring the protein from the SDS-PAGE gel to a nitrocellulose membrane and probing with anti Factor VIII polyclonal antibody raised in rabbit, in house. 
+   
+ Requirements 
+ 
+ 
+ 10X PBS - 1 L 
+ 
+   
+    
+    [0134]
+     
+ 
+ 
+ 
+ 
+ NaCl 
+ - 8g 
+ 
+ 
+ KCl 
+ - 0.2 g 
+ 
+ 
+ Na 2 HPO 4   
+ - 1.78 g 
+ 
+ 
+ KH 2 PO 4   
+ - 0.24 g 
+ 
+ 
+ Distilled water 
+ - Upto 1000 ml 
+ 
+ 
+ pH 
+ - 7.4 
+ 
+ 
+ 
+ 
+ 
+   
+ Transfer Buffer- 1 L 
+ 
+   
+    
+    [0135]
+     
+ 
+ 
+ 
+ 
+ Tris 
+ - 3.03 gm 
+ 
+ 
+ Glycine 
+ - 14.32 gm 
+ 
+ 
+ Methanol 
+ - 200 ml 
+ 
+ 
+ Distilled water 
+ - 800 ml 
+ 
+ 
+ SDS (10%) 
+ - 1 ml 
+ 
+ 
+ 
+ 
+ 
+   
+ Washing Buffer 
+ 
+   
+    
+    [0136]
+     
+ 
+ 
+ 
+ 
+ 1X PBS 
+ - 1 L 
+ 
+ 
+ Tween 20 
+ - 1 ml 
+ 
+ 
+ 
+ 
+ 
+   
+ Blocking buffer 
+ 
+   
+    
+    [0137]
+     
+ 
+ 
+ 
+ 
+ Skimmed milk powder - 
+ - 5 gm 
+ 
+ 
+ Tween 20 
+ - 100 µl 
+ 
+ 
+ 1x PBS 
+ - 100 ml 
+ 
+ 
+ 
+ 
+ 
+     
+    
+    [0138]
+       Primary antibody  - Anti Factor VIII antibody (polyclonal, raised in house) 
+ Secondary antibody  - Alkaline phosphatase conjugated antibody 
+ Substrate  - BCIP/NBT tablets (Sigma) 
+   
+ Procedure 
+ 
+   
+    
+    [0139]
+     SDS-PAGE gel is run at 100V, according to the procedure explained in section SDS-PAGE procedure section, till the blue dye front reaches the bottom of the gel. To transfer proteins from gel to nitrocellulose membrane, materials used for transfer are soaked in transfer buffer for 15 min. Then they are stacked in the following order; case (clear side), sponge, Whatman paper, membrane, gel, Whatman paper, sponge case (black side) and placed in the transfer apparatus with black side facing black. The apparatus is immersed into ice filled bucket to cool the transfer buffer. Transfer is carried out at 90V for 90 min using Bio-Rad electro transfer apparatus. After transfer, the membrane is stained with 1X Ponceau S for a min, the bands marked with pencil, destained in water and rinsed in 1X PBS. Then the membrane is blocked for 1 h in 50 ml of 1X PBS + 5% non-fat dry milk + 0.1% Tween 20 on a shaker. Then the membrane is incubated with 1:3000 dilution of primary antibody in blocking buffer and incubated at RT for 1h or 4°C overnight. The membrane is incubated with alkaline phosphatase conjugated secondary antibody (1:10,000 dilutions) in blocking buffer for 1 h at room temperature. Between each step the membrane is washed three times with wash buffer containing PBS and 0.1% Tween 20 (PBS-T). One tablet, dissolved in 10 ml of water, provides 10 ml of ready to use buffered substrate solution. The substrate solution contains BCIP (0.15 mg/ml), NBT (0.30 mg/ml), Tris buffer (100 mM), and MgCl2 (5 mM), pH 9.25-9.75. The membrane is incubated in the substrate solution for 5 min. 
+   
+ Results 
+ 
+   
+    
+    [0140]
+     Transfection of CHO cell lines are carried out. Selection of clones producing Factor VIII protein is done using geniticin 560µg/ml. Single clones are selected and maintained in 96 well plate, 48 well plate, 24 well plate, 6 well plate, 25cm flask and 75cm flask. Confirmation of the clones producing Factor VIII protein is done using ELISA (Table 1) and Western blot ( Figure 2 ). The clone confirmation by western blot is done using C2 polyclonal antibody raised in house.
+     Table 1             S . NO       CELL  LINE             ELISA VALUE                   1   CHO   0.176       2   BDD FVIII   0.304       3   0.289       4     0 . 305         5   0.207       6     0 . 311         7   ΔBDD FVIII   0.237       8   0.307       9   0.116       10     0 . 328         11     0 . 316             
+     
+    
+    [0141]
+     This table 1 depicts ELISA confirmation of clones producing recombinant Protein. The cell culture media collected after 72 hrs is used in the experiment. CHO (control), B Domain Deleted Factor VIII i.e. wild-type Factor VIII without mutation (BDD-FVIII), Mutated B domain Deleted Factor VIII 309S+519V i.e. Double mutant recombinant Factor VIII with mutations at F309S and D519V (ΔBDD-FVIII-309S+519V). 
+     
+    
+    [0142]
+     Clones given in bold indicate the high protein secreting clones. 
+   
+ 
+ Example 4 
+ 
+ 
+ 
+ 
+ Purification of recombinant Factor VIII 
+ 
+ 
+   
+    
+    [0143]
+     The protein of interest (wild type and double mutant recombinant Factor VIII) is purified using histidine ligand affinity chromatography (HLAC). The column is packed with 1mL of Histidine-Bisoxirine-Sepharose-4B gel. The column is equilibrated with binding buffer 20mM Tris pH 6.0. Cell culture supernatant containing the desired protein is loaded to the column after adjusting the pH of the supernatant to pH6.0 at a flow rate of 2ml per minute. After injecting the sample, all the non retained proteins are washed with the binding buffer till the baseline is achieved. The target protein is eluted with 20mM Tris containing 0.1M Glycine, 0.03M Lysine and 0.3M CaCl 2  at pH 7.0. The eluted peaks are concentrated using Amicon filters and analyzed on SDS-PAGE and the protein concentration is calculated by Bradford method. The purified fraction is confirmed by western blot analysis. 
+     
+    
+    [0144]
+     Even though HLAC has been used successfully in the purification of a number of recombinant and native proteins, high value therapeutic proteins with high molecular weight such as recombinant Factor VIII has not been reported to be purified using this technique. This is the first report which shows the purification of recombinant Factor VIII from cell culture supernatant using HLAC. 
+     
+    
+    [0145]
+     The aforementioned affinity purification procedure is provided in detail as follows: 
+   
+ Requirements 
+ 
+   
+    
+    [0146]
+     Column type: Sepharose 4B 
+Colume volume: 1 ml 
+Load: 2 mg of protein 
+Equilibration/binding buffer: 20mM Tris pH6.0 
+Elution buffer: 20mM Tris + 0.1M Glycine + 0.03M Lysine + 0.3M CaCl 2  pH 7.0 
+Flow rate: 1 ml/min 
+Fraction volume: 2 ml 
+   
+ Procedure 
+ 
+   
+    
+    [0147]
+     Cell culture supernatant containing BDD-FVIII and mutated BDD-FVIII protein (2 mg/ 50 ml) is loaded onto 1 ml Histidine-Bisoxirine-Sepharose 4B column, which is equilibrated with the equilibration/binding buffer at a flow rate of 1 ml/min. After injecting the sample, all the non retained proteins are washed with the binding buffer till the baseline is achieved. The target protein is eluted with elution buffer 20 mM Tris containing 0.1M Glycine, 0.03M Lysine and 0.3M CaCl 2 . Protein concentration is determined by Bradford's assay. The purity of the eluted protein is analyzed by SDS-PAGE. 
+   
+ Results 
+ 
+   
+    
+    [0148]
+     CHO cells are cultured in serum free media. Cell culture supernatant is collected after 48 hours. Cell culture supernatant containing mutated recombinant Factor VIII is subjected to affinity chromatography. Histidine-Bisoxirine-Sepharose-4B column is equilibrated with binding buffer 20mM Tris pH 6.0. The pH of cell culture supernatant is adjusted to 6.0 and directly injected to the column after filtration with 0.22µm filter. Flow through and elutions are collected for further analysis. The protein is eluted using 20mM Tris + 0.1M Glycine + 0.03M Lysine + 0.3M CaCl2 pH 7.0. The chromatogram shows a single peak ( Figure 3A ). SDS-PAGE analysis shows a clear band corresponding to full length FVIII ( Figure 3B , Lane 5) which is confirmed by Western analsysis ( Figure 5 ). The double arrows in  Figure 3  correspond to fragments of FVIII which is also observed in purified commercial FVIII (Lane 6). 
+     
+    
+    [0149]
+     The heavy chain and light chain linkage of BDD-FVIII is stabilized only through metal ion. In the electrophoretic system, the electric current present will disrupt this linkage before the domain rearrangement happens. This explains the presence of the heavy chain and light chain separately due to the disruption in the linkage. 
+   
+ 
+ Example 5 
+ 
+ 
+ 
+ 
+ Activity Assays 
+ 
+ 
+   
+    
+    [0150]
+     To confirm the presence of Factor VIII, one stage clotting assay and chromogenic assays are performed. 
+   
+ One stage clotting assay 
+ 
+   
+    
+    [0151]
+     Factor VIII deficient plasma is dissolved in distilled or deionized water. Before use, it is allowed to stand for at least 15 minutes at 15 to 25°C, and then mixed carefully without foam formation. Wild type recombinant BDD Factor VIII and mutated BDD-FVIII sample produced in CHO cell lines are added to FVIII deficient plasma. APTT reagents are used according to the manufacturer's instructions. 0.025M of CaCl 2  is added to the mixture. The mixture is incubated at 37°C for 2 minutes and the reading is taken in an automated coagulation analyzer. Normal clotting time is 30-40 seconds. 
+   
+ Chromogenic assay 
+ 
+   
+    
+    [0152]
+     For the photometric determination of Factor VIII activity, chromogenic assay is done. In the presence of Calcium and phospholipids, factor x is activated to factor Xa by factor IXa. This generation is stimulated by Factor VIII. The rate of activation of factor X solely depends on the amount of Factor VIII. Factor IXa hydrolyses the chromogenic substrate S-2765, thus liberating the chromophoric group, pNA. The color is then read photometrically at 405nm. The generated factor Xa and thus the intensity of the color are directly proportional to the Factor VIII activity in the sample. The said chromogenic assay is further detailed as follows. 
+     
+    
+    [0153]
+     Appropriate amount of BDD-FVIII and mutated BDD-FVIII sample is taken in plastic test tubes. Specific controls for plasma or Factor VIII concentrates is calibrated against the international standard of Factor VIII. The detection limit is 0.05IU/mL and low range of 0.005IU/mL is detected in case of low range. 
+     
+    
+    [0154]
+     After reconstituting the Factor (Factor VIII, Factor IX, and Factor X) reagents, chromogenic substrate along with inhibitor is reconstituted and then the buffer is prepared. 
+   
+ Results 
+ 
+   
+    
+    [0155]
+     The activity assays are carried out for double mutant BDD-FVIII Samples and wild type BDD-FVIII Samples. The purified Factor VIII samples are added to Factor VIII depleted plasma and one stage clotting assay is done (Table 2). Chromogenic assay result for wild type BDD-FVIII Samples and double mutant BDD-FVIII Samples reveal that the double mutant BDD-FVIII protein shows about 3.7 fold increase in activity compared to wild type BDD-FVIII protein (Table 2). 
+     
+    
+    [0156]
+     The one stage clotting assay and chromogenic assay was carried out for BDD-FVIII type, single and double mutant of the present invention and the results are tabulated below.
+     Table 2: One stage clotting assay results [the experiments are repeated thrice and the mean values are represented]           Name       % FVIII Activity       Specific Activity (IU/mg)           BDD-FVIII   0.795   2053       BDD-FVIII (single mutant-Phe309Ser)   0.823   4064       BDD-FVIII (single mutant-Asp519Val)   0.0091   24.82       BDD-FVIII (double mutant)   0.900   7978           
+   
+ 
+ INFERENCE: 
+ 
+ 
+   
+    
+    [0157]
+     The Factor VIII double mutant has higher specific activity (3.88 fold) when compared to wild type BDD FVIII as determined by one stage clotting assay. The single mutant BDD-FVIII (Phe309Ser) shows approximately 2 fold increase when compared to the activity of the wild type BDD FVIII, whereas the single mutant BDD-FVIII (Asp519Val) had negligible activity.
+   Table 3: Chromogenic assay results         Name       % of Factor VIII activity       Units/Amount of Protein [Specific Activity]           BDD-FVIII   0.419   1082       BDD-FVIII (single mutant-Phe309Ser)   0.432   2133       BDD-FVIII (single mutant-Asp519Val)   0.0009   2.482       BDD-FVIII (double mutant)   0.455   4033           
+   
+ 
+ INFERENCE: 
+ 
+ 
+   
+    
+    [0158]
+     The Factor VIII double mutant has higher specific activity (3.727 fold) when compared to BDD FVIII as determined by chromogenic assay. The single mutant BDD-FVIII (Phe309Ser) shows approximately 2 fold increase when compared to the activity of the wild type BDD FVIII, whereas the single mutant BDD-FVIII (Asp519Val) had negligible activity. 
+   
+ 
+ CONCLUSION: 
+ 
+ 
+   
+    
+    [0159]
+     Both the one stage clotting assay and chromogenic assay results showed that there is synergistic effect  shown by the double mutant which is reflected in terms of enhanced activity over the wild type BDD FVIII and any of the single mutant BDD-FVIII.   
+   
+ 
+ Example 6 
+ 
+ 
+ 
+ 
+ Addition of divalent metal ion to the purified Factor VIII protein and Activity Assays 
+ 
+ 
+   
+    
+    [0160]
+     The purified wild type and double mutant Factor VIII samples are incubated with 5mM CaCl 2  for 20 hours and the specific activity is measured using chromogenic assay. 
+   
+ Results 
+ 
+   
+    
+    [0161]
+     Addition of divalent metal ion to the purified wild type and mutated Factor VIII protein results in an increased specific activity of the protein. The result of chromogenic assay indicates that there is a 6 fold increase in the specific activity of double mutant Factor VIII compared to wild type Factor VIII when CaCl 2  is added to both wild type and double mutant proteins and incubated for 20 hours (Table 4).
+     Table 4: One stage clotting assay results after the addition of divalent metal ion           Name       %FVIII activity       Specific activity (Units/Amount of protein) [Specific Activity]           BDD-FVIII   0.832   2148       BDD-FVIII-F309S   0.82   4049       BDD-FVIII-D519V   1.5   4092       BDD-FVIII-F309S+D519V   1.46   12943           
+   
+ 
+ Example 8 
+ 
+ 
+ 
+ 
+ One stage clotting assay results of 10th, 20th and 30th generation of the clones of wild type and the double mutant FVIII 
+ 
+ 
+   
+    
+    [0162]
+     The one stage clotting assay results of the 10 th  generation, 20 th  generation and the 30 th  generation of the clones of wild type BDD-FVIII was noted. The one stage clotting assay results of the 10 th  generation, 20 th  generation and the 30 th  generation of the clones of the double mutant BDD-FVIII-F309S+D519V is tabulated in Table 6. 
+   
+ 
+ Results 
+ 
+ 
+   
+    
+    [0163]
+     The results from the below table (Table 6) show the stability of % FVIII activity and the specific activity of the mutated factor VIII when compared to wild type factor VIII over 10 th , 20 th  and the 30 th  generations.
+   Table 6: One stage clotting assay results of 10th, 20th and 30th generation of the clones of wild type and the double mutant FVIII         Name       % FVIII activity       Specific activity (IU/mg)           BDD-FVIII (10 th  Generation)   0.216   2160       BDD-FVIII (20 th  Generation)   0.207   2070       BDD-FVIII (30 th  Generation)   0.244   2440       BDD-FVIII-F309S+D519V (10 th  Generation)   0.874   7748       BDD-FVIII-F309S+D519V (20 th  Generation)   0.85   7727       BDD-FVIII-F309S+D519V (30 th  Generation)   0.88   7927           
+   SEQUENCE LISTING 
+   
+    
+    [0164]
+     
+     
+ <110> Centre for Bioseparation Technology; CHRISTIAN MEDICAL COLLEGE and Department Of Biotechnology 
+ <120> DOUBLE MUTANT COAGULATION FACTOR VIII, METHODS AND APPLICATIONS THEREOF 
+ <130> IP20619/SUFY 
+ <160> 14 
+ <170> PatentIn version 3.5 
+ <210> 1 
+<211> 4377 
+<212> DNA 
+<213> Homo sapiens 
+ <220> 
+<221> gene 
+<222> (1)..(4377) 
+ <400> 1
+ 
+ 
+   
+ <210> 2 
+<211> 1458 
+<212> PRT 
+<213> Homo sapiens 
+ <220> 
+<221> PEPTIDE 
+<222> (1)..(1458) 
+ <400> 2
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ <210> 3 
+<211> 4377 
+<212> DNA 
+<213> Homo sapiens 
+ <220> 
+<221> gene 
+<222> (1)..(4377) 
+ <400> 3
+ 
+ 
+   
+ <210> 4 
+<211> 1458 
+<212> PRT 
+<213> Homo sapiens 
+ <220> 
+<221> PEPTIDE 
+<222> (1)..(1458) 
+ <400> 4
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ <210> 5 
+<211> 40 
+<212> DNA 
+<213> synthetic sequence 
+ <220> 
+<221> primer_bind 
+<222> (1)..(40) 
+ <400> 5 
+ccttggacag tttctactga gttgtcatat ctcttcccac   40 
+ <210> 6 
+<211> 40 
+<212> DNA 
+<213> synthetic sequence 
+ <220> 
+<221> primer_bind 
+<222> (1)..(40) 
+ <400> 6 
+gtgggaagag atatgacaac tcagtagaaa ctgtccaagg   40 
+ <210> 7 
+<211> 31 
+<212> DNA 
+<213> synthetic sequence 
+ <220> 
+<221> primer_bind 
+<222> (1)..(31) 
+ <400> 7 
+cagtgactgt agaagttggg ccaactaaat c   31 
+ <210> 8 
+<211> 31 
+<212> DNA 
+<213> synthetic sequence 
+ <220> 
+<221> primer_bind 
+<222> (1)..(31) 
+ <400> 8 
+gatttagttg gcccaacttc tacagtcact g   31 
+ <210> 9 
+<211> 4377 
+<212> DNA 
+<213> Homo sapiens 
+ <220> 
+<221> gene 
+<222> (1)..(4377) 
+ <400> 9
+ 
+ 
+   
+ <210> 10 
+<211> 1458 
+<212> PRT 
+<213> Homo sapiens 
+ <220> 
+<221> PEPTIDE 
+<222> (1)..(1458) 
+ <400> 10
+ 
+ 
+ 
+ 
+ 
+   
+ <210> 11 
+<211> 4377 
+<212> DNA 
+<213> Homo sapiens 
+ <220> 
+<221> gene 
+<222> (1)..(4377) 
+ <400> 11
+ 
+ 
+   
+ <210> 12 
+<211> 1458 
+<212> PRT 
+<213> Homo sapiens 
+ <220> 
+<221> PEPTIDE 
+<222> (1)..(1458) 
+ <400> 12
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ <210> 13 
+<211> 4320 
+<212> DNA 
+<213> Homo sapiens 
+ <220> 
+<221> gene 
+<222> (1)..(4320) 
+ <400> 13
+ 
+ 
+   
+ <210> 14 
+<211> 1439 
+<212> PRT 
+<213> Homo sapiens 
+ <220> 
+<221> PEPTIDE 
+<222> (1)..(1439) 
+ <400> 14
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

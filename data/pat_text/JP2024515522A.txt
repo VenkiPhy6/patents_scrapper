@@ -1,0 +1,1339 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  本発明は、微生物を用いたタンパク質及び／又は他の高分子の製造に関する。特に、本発明は、ガス及びミネラルが細胞に供給される、細菌を使用してタンパク質又はバイオマスを生成するための新規な細菌株及び連続培養方法に関する。本発明はまた、これらの方法の生成物、及び例えば食品又は飼料におけるこれらの生成物の使用に関する。
+ 
+The present invention relates to the production of proteins and/or other polymers using microorganisms. In particular, the present invention relates to novel bacterial strains and continuous culture methods for producing proteins or biomass using bacteria, in which gases and minerals are supplied to the cells. The present invention also relates to the products of these methods and the use of these products, for example in food or feed.
+ 
+ 
+ 
+ 
+ 
+   
+  世界人口の増加、気候変動及び水の不足は、伝統的な農業に対する、したがって十分な食料及び飼料の供給に対する脅威をますますもたらしている。よって、タンパク質等の有機分子の代替供給源が研究されている。可能性のある代替物は、単細胞生成、すなわち、微生物を使用したタンパク質及び／又は他の高分子の生成である。 
+  エネルギー源として水素ガス及び唯一の炭素源として二酸化炭素を用いて最小ミネラル培地上で増殖することができる化学合成独立栄養微生物（Ｃｈｅｍｏａｕｔｏｔｒｏｐｈｉｃ  ｍｉｃｒｏｏｒｇａｎｉｓｍｓ）が記載されている。これらの微生物の総説については、例えば、Ｓｈｉｖｅｌｙ  ｅｔ  ａｌ．（１９９８）Ａｎｎｕ  Ｒｅｖ  Ｍｉｃｒｏｂｉｏｌ  ５２：１９１が参照できる。 
+  特許出願の国際公開第２０１８１４４９６５号は、ガス状基質を高タンパク質バイオマスに変換するための様々な微生物及びバイオプロセスを記載している。 
+  Ａｎｄｅｒｓｅｎ  ｅｔ  ａｌ．（１９７９）Ｂｉｏｃｈｉｍ  Ｂｉｏｐｈｙｓ  Ａｃｔａ  ５８５：１－１１は、従属栄養条件及び独立栄養条件下で容易に増殖する水素細菌であるアルカリゲネス・ユートロファス（Ａｌｃａｌｉｇｅｎｅｓ  ｅｕｔｒｏｐｈｕｓ）の変異株を記載している。リブロース－１，５－二リン酸カルボキシラーゼ／オキシゲナーゼ（ｒｕｂｉｓｃｏ）活性が変化した変異体は特徴付けられた。 
+  Ｏｈｍｉｙａ  ｅｔ  ａｌ．（２００３）Ｊ．Ｂｉｏｓｃｉ．Ｂｉｏｅｎｇ．９５：５４９－５６１は、耐性バイオマス利用への微生物遺伝子の適用を概説している。 
+  Ｙｕ  Ｊｉａｎ  ｅｔ  ａｌ．（２０１３）Ｉｎｔ  Ｊ  Ｈｙｄｒｏｇｅｎ  Ｅｎｅｒ  ３８：８６８３－８６９０は、水素酸化細菌分離株による二酸化炭素固定を記載している。中程度の酸素濃度（１０ｍｏｌ％）下で５０％という高いエネルギー効率が測定された。
+ 
+  The growing world population, climate change and water scarcity are increasingly posing threats to traditional agriculture and therefore to adequate food and feed supplies. Alternative sources of organic molecules such as proteins are therefore being investigated. A possible alternative is single-cell production, i.e. the production of proteins and/or other macromolecules using microorganisms.  Chemoautotrophic microorganisms have been described that can grow on minimal mineral media using hydrogen gas as an energy source and carbon dioxide as the sole carbon source. For a review of these microorganisms, see, e.g., Shively et al. (1998) Annu Rev Microbiol 52:191.  Patent application WO2018144965 describes various microorganisms and bioprocesses for converting gaseous substrates into protein-rich biomass.  Andersen et al. (1979) Biochim Biophys Acta 585:1-11 describe mutant strains of the hydrogen bacterium Alcaligenes eutrophus that grow readily under heterotrophic and autotrophic conditions. Mutants with altered ribulose-1,5-bisphosphate carboxylase/oxygenase (rubisco) activity were characterized.  Ohmiya et al. (2003) J. Biosci. Bioeng. 95:549-561 reviews the application of microbial genes to resistant biomass utilization.  Yu Jian et al. (2013) Int J Hydrogen Ener 38:8683-8690 described carbon dioxide fixation by a hydrogen-oxidizing bacterial isolate. Energy efficiencies as high as 50% were measured under moderate oxygen concentrations (10 mol%).
+ 
+ 
+ 
+   
+  しかしながら、様々な化学合成独立栄養微生物は、増殖速度、収量、バイオマス組成、並びにヒトの消費における安全性、味、匂い、口当たり、調理における技術的及び機能的特性等の食品原料として使用されることに関する特性に関して異なる特性を有する。 
+  全ての化学合成独立栄養微生物が十分な増殖速度を有し、十分な収率を提供するわけではなく、全てのプロセスが経済的に実行可能な大規模プロセスに現実的にアップスケールできるわけではない。例えば食品又は飼料用途のための機能性タンパク質の十分な出力を有するためには、大規模に実施することができる適切な生成生物及び適切なプロセスを見出すことが重要である。この必要性は、本発明によって対処される。 
+  窒素制限等の代謝ストレス下では、細菌はポリヒドロキシアルカン酸（ＰＨＡ）と呼ばれる貯蔵ポリマーの形態でエネルギーを貯蔵することがある（Ｒｅｈｍ  ａｎｄ  Ｓｔｅｉｎｂｕｃｈｅｌ，１９９９  Ｉｎｔ  Ｊ  Ｂｉｏｌ  Ｍａｃｒｏｍｏｌ  ２５：３－１９）。工業的環境において大型バイオリアクタ内で細菌が増殖すると、ガス交換が不十分になることが多く、ＰＨＡ生産の増加につながる。ＰＨＡはバイオプラスチックとして利用することができるが、ＰＨＡ以外の製品のために細菌を増殖させる場合、その生成は炭素収率を低下させるので望ましくない結果である。この課題も本発明によって対処される。
+ 
+  However, various chemoautotrophic microorganisms have different characteristics with regard to growth rate, yield, biomass composition, as well as properties relevant for their use as food ingredients, such as safety for human consumption, taste, odor, mouthfeel, technological and functional properties in cooking.  Not all chemoautotrophic microorganisms have sufficient growth rates and provide sufficient yields, and not all processes can be realistically upscaled to economically viable large-scale processes. In order to have sufficient output of functional proteins, for example for food or feed applications, it is important to find suitable production organisms and suitable processes that can be carried out on a large scale. This need is addressed by the present invention.  Under metabolic stress, such as nitrogen limitation, bacteria can store energy in the form of storage polymers called polyhydroxyalkanoates (PHAs) (Rehm and Steinbuchel, 1999 Int J Biol Macromol 25:3-19). When bacteria are grown in large bioreactors in industrial environments, gas exchange is often insufficient, leading to increased PHA production. Although PHA can be utilized as a bioplastic, its production is an undesirable outcome when bacteria are grown for products other than PHA, as it reduces carbon yield. This problem is also addressed by the present invention.
+ 
+ 
+ 
+ 
+ 
+ 
+   国際公開公報  ＷＯ２０１８／１４４９６５号 International Publication No. WO2018/144965 
+ 
+ 
+ 
+ 
+ 
+ 
+   Ｓｈｉｖｅｌｙ  ｅｔ  ａｌ．（１９９８）Ａｎｎｕ  Ｒｅｖ  Ｍｉｃｒｏｂｉｏｌ  ５２：１９１ Shively et al. (1998) Annu Rev Microbiol 52:191 
+ 
+ 
+ 
+ 
+   Ａｎｄｅｒｓｅｎ  ｅｔ  ａｌ．（１９７９）Ｂｉｏｃｈｉｍ  Ｂｉｏｐｈｙｓ  Ａｃｔａ  ５８５：１－１１ Andersen et al. (1979) Biochim Biophys Acta 585:1-11 
+ 
+ 
+ 
+ 
+   Ｏｈｍｉｙａ  ｅｔ  ａｌ．（２００３）Ｊ．Ｂｉｏｓｃｉ．Ｂｉｏｅｎｇ．９５：５４９－５６１ Ohmiya et al. (2003) J. Biosci. Bioeng. 95:549-561 
+ 
+ 
+ 
+ 
+   Ｙｕ  Ｊｉａｎ  ｅｔ  ａｌ．（２０１３）Ｉｎｔ  Ｊ  Ｈｙｄｒｏｇｅｎ  Ｅｎｅｒ  ３８：８６８３－８６９０ Yu Jian et al. (2013) Int J Hydrogen Energy 38:8683-8690 
+ 
+ 
+ 
+ 
+   Ｒｅｈｍ  ａｎｄ  Ｓｔｅｉｎｂｕｃｈｅｌ，１９９９  Ｉｎｔ  Ｊ  Ｂｉｏｌ  Ｍａｃｒｏｍｏｌ  ２５：３－１９ Rehm and Steinbuchel, 1999 Int J Biol Macromol 25:3-19 
+ 
+ 
+ 
+ 
+ 
+   
+  本発明者らは、化学合成独立栄養細菌、例えばキサントバクター（Ｘａｎｔｈｏｂａｃｔｅｒ）属の細菌が、特定の条件下でＰＨＡの形態でエネルギーを貯蔵することを見出した。ｐｈａＣ１遺伝子の遺伝子破壊を含む変異株は、同じ条件下でＰＨＡをほとんど生成しなかったが、バイオマス及び／又はタンパク質の生成のための方法に好ましい特性及び適合性を保持していることが分かった。 
+  第１の主要な態様では、本発明は、細菌株ＶＴＴ－Ｅ－１９３５８５の変異体であって、ＶＴＴ－Ｅ－１９３５８５株と比較して、ポリヒドロキシアルカン酸（ＰＨＡ）の細菌生成を減少させる遺伝子改変を含む、細菌株ＶＴＴ－Ｅ－１９３５８５の変異体に関する。 
+  更なる態様では、本発明は、バイオマス及び／又はタンパク質の生成のための方法であって、当該方法が、エネルギー源としての水素及び無機炭素源と共に連続培養で変異型化学合成独立栄養細菌株を培養することを含み、無機炭素源が二酸化炭素を含み、当該変異型化学合成独立栄養株がＰＨＡシンターゼをコードする１つ以上の遺伝子の遺伝子破壊を含む、バイオマス及び／又はタンパク質の生成のための方法に関する。更なる主要な態様では、本発明は、本発明の方法によって得られる又は得ることができるバルクタンパク質、バイオマス又は非タンパク質細胞若しくは化学成分、及び本発明の方法によって得られる又は得ることができる食品又は飼料製品に関する。 
+  更なる態様では、本発明は、ＰＨＡシンターゼをコードする１つ以上の遺伝子の遺伝子破壊を含む変異型キサントバクター株（ａ  ｖａｒｉａｎｔ  Ｘａｎｔｈｏｂａｃｔｅｒ  ｓｔｒａｉｎ）に関する。 
+  本発明はまた、細菌株ＶＴＴ－Ｅ－１９３５８５の遺伝子改変のための方法、及びＶＴＴ－Ｅ－１９３５８５株の遺伝子改変変異体に関する。
+ 
+  The present inventors have found that chemoautotrophic bacteria, such as bacteria of the genus Xanthobacter, store energy in the form of PHA under certain conditions. A mutant strain containing a genetic disruption of the phaC1 gene was found to produce little PHA under the same conditions, yet retain favorable properties and suitability for processes for the production of biomass and/or protein.  In a first main aspect, the present invention relates to a variant of the bacterial strain VTT-E-193585, the variant comprising a genetic modification that reduces the bacterial production of polyhydroxyalkanoic acid (PHA) compared to strain VTT-E-193585.  In a further aspect, the present invention relates to a method for the production of biomass and/or protein, the method comprising culturing a mutant chemoautotrophic bacterial strain in continuous culture with hydrogen as an energy source and an inorganic carbon source, the inorganic carbon source comprising carbon dioxide, and the mutant chemoautotrophic strain comprising a genetic disruption of one or more genes encoding a PHA synthase. In a further main aspect, the present invention relates to bulk proteins, biomass or non-proteinaceous cellular or chemical components obtained or obtainable by the method of the present invention, and to food or feed products obtained or obtainable by the method of the present invention.  In a further aspect, the invention relates to a variant Xanthobacter strain comprising a genetic disruption of one or more genes encoding PHA synthase.  The present invention also relates to a method for the genetic modification of the bacterial strain VTT-E-193585 and to genetically modified mutants of the VTT-E-193585 strain.
+ 
+ 
+ 
+ 
+ 
+ 
+   図１は、ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株の化学合成独立栄養２００Ｌ培養中の６００ｎｍで測定された光学密度（黒丸）及び光学密度プローブ読み取り値を示す。 FIG. 1 shows the optical density measured at 600 nm (filled circles) and the optical density probe readings in a chemoautotrophic 200 L culture of the isolated bacterial strain deposited as VTT-E-193585. 
+ 
+ 
+   図２は、異なる窒素源上にＶＴＴ－Ｅ－１９３５８５として沈着させた分離細菌株の並行化学合成独立栄養２００ｍＬ培養中に６００ｎｍで測定された光学密度を示す。 FIG. 2 shows the optical density measured at 600 nm during parallel chemoautotrophic 200 mL cultures of isolated bacterial strains deposited as VTT-E-193585 on different nitrogen sources. 
+ 
+ 
+   図３は、独立栄養条件におけるＳｏＦ１（ＶＴＴ－Ｅ－１９３５８５）（実線）及びＳｏＦ１－２．０（ＶＴＴ  Ｅ－２１３５９５）（破線）の増殖曲線を示す。 FIG. 3 shows the growth curves of SoF1 (VTT-E-193585) (solid line) and SoF1-2.0 (VTT E-213595) (dashed line) under autotrophic conditions. 
+ 
+ 
+ 
+ 
+ 
+   
+（定義） 
+  本明細書で使用される場合、例えば株に関連して「分離（された）」という用語は、その自然環境から分離されていることを意味する。好ましくは、分離株は純粋であり、すなわち他の株を含まない。 
+  「変異体（ｖａｒｉａｎｔ）」という用語は、株との関連で本書で使用される場合、参照株に由来する、すなわち参照株を出発点として使用して生成され、当該参照株と比較して遺伝子改変を含む株を指す。遺伝子改変には、点突然変異、並びに遺伝子座全体又はその断片の挿入又は欠失等の破壊が含まれる。変異体は、参照株と比較して、好ましくは１０個未満、例えば５個未満、例えば４、３、２又は１個等の遺伝子改変を有する。好ましくは、変異株のゲノム配列は、参照株のゲノム配列と９０％を超えて、例えば９５％を超えて、例えば９９％を超えて同一である。 
+  本書で使用される場合、「化学合成独立栄養（ｃｈｅｍｏａｕｔｏｔｒｏｐｈｉｃ）」という用語は、エネルギー源として水素ガスを用い、唯一の炭素源として二酸化炭素を用いて最小ミネラル培地で増殖する能力を指す。 
+  本書で使用される場合、名詞「培養物（ｃｕｌｔｕｒｅ）」は、液体培地中の生細胞の懸濁液を指す。 
+  「バイオマス」という用語は、細菌発酵の分野におけるその通常の意味を有し、細胞材料を指す。 
+  本書で使用される場合、「連続培養（ｃｏｎｔｉｎｕｏｕｓ  ｃｕｌｔｕｒｅ）」という用語は、新鮮な培地を培養物に連続的に添加し、細菌培養物を含む培地を本質的に同じ速度で連続的に除去する培養プロセスを指す。
+ 
+(Definition)  As used herein, the term "isolated," for example in reference to a strain, means separated from its natural environment. Preferably, the isolated strain is pure, i.e., free from other strains.  The term "variant" as used herein in relation to a strain refers to a strain derived from a reference strain, i.e. generated using the reference strain as a starting point, and containing genetic modifications compared to the reference strain. Genetic modifications include point mutations as well as disruptions such as insertions or deletions of entire gene loci or fragments thereof. A variant preferably has fewer than 10 genetic modifications, such as fewer than 5, such as 4, 3, 2 or 1, compared to a reference strain. Preferably, the genomic sequence of the variant strain is more than 90%, such as more than 95%, such as more than 99%, identical to the genomic sequence of the reference strain.  As used herein, the term "chemoautotrophic" refers to the ability to grow in minimal mineral medium using hydrogen gas as the energy source and carbon dioxide as the sole carbon source.  As used herein, the noun "culture" refers to a suspension of living cells in a liquid medium.  The term "biomass" has its ordinary meaning in the field of bacterial fermentation and refers to cellular material.  As used herein, the term "continuous culture" refers to a culture process in which fresh medium is continuously added to the culture and the medium containing the bacterial culture is continuously removed at essentially the same rate.
+ 
+ 
+ 
+   
+（本発明の態様及び実施形態） 
+  ＶＴＴ－Ｅ－１９３５８５株は、フィンランドのナーンタリのバルト海の海岸から分離された。この生物は、限られた酸素条件で、最小限のミネラル培地で、エネルギー源として水素、炭素源として二酸化炭素を用いて、適切なバイオリアクタ条件で増殖することができる。１６Ｓ配列決定及びＩｌｌｕｍｉｎａメタゲノミクス配列決定は、この株がキサントバクター（Ｘａｎｔｈｏｂａｃｔｅｒ）属のメンバーである可能性が最も高いが、既知の種ではないことを示している。細菌株は、乾燥細胞粉末が高いタンパク質含有量を有し、全ての必須アミノ酸を含有するため、食品及び飼料用途に非常に適している。それはまた、飽和脂肪酸よりも不飽和脂肪酸を多く含有し、高レベルのＢ群ビタミンを含有する。アレルギー又は毒性を引き起こし得るペプチドグリカン及びリポ多糖のレベルは低い。毒性分析を実施すると、その株について遺伝毒性又は細胞毒性は観察されなかった。更に、株は一般に抗生物質に感受性がある。 
+  ＶＴＴ－Ｅ－１９３５８５株（ＳｏＦ１）は、２０１９年６月１１日に、ブダペスト条約に基づく国際寄託当局であるＶＴＴ  Ｔｅｃｈｎｉｃａｌ  Ｒｅｓｅａｒｃｈ  Ｃｅｎｔｒｅ  ｏｆ  Ｆｉｎｌａｎｄ，Ｐ．Ｏ．Ｂｏｘ  １０００，ＦＩ－０２０４４  ＶＴＴ，ＦｉｎｌａｎｄのＶＴＴ  Ｃｕｌｔｕｒｅ  Ｃｏｌｌｅｃｔｉｏｎに寄託されている。株の特性及び株を培養するための方法に関する更なる情報は、本明細書の実施例及び欧州特許出願第１９２０５７８６．７号（参照により本明細書に組み込まれる）に提供されている。
+ 
+ASPECTS AND EMBODIMENTS OF THE PRESENTINVENTION  Strain VTT-E-193585 was isolated from the coast of the Baltic Sea in Naantali, Finland. The organism is able to grow in limited oxygen conditions, in minimal mineral medium, with hydrogen as energy source and carbon dioxide as carbon source, and in suitable bioreactor conditions. 16S sequencing and Illumina metagenomics sequencing indicate that the strain is most likely a member of the Xanthobacter genus, but not a known species. The bacterial strain is highly suitable for food and feed applications, as the dried cell powder has a high protein content and contains all essential amino acids. It also contains more unsaturated than saturated fatty acids and high levels of B vitamins. The levels of peptidoglycan and lipopolysaccharides, which may cause allergies or toxicity, are low. When toxicity analysis was performed, no genotoxicity or cytotoxicity was observed for the strain. Furthermore, the strain is generally sensitive to antibiotics.  Strain VTT-E-193585 (SoF1) has been deposited at the VTT Culture Collection, VTT Technical Research Centre of Finland, P. O. Box 1000, FI-02044 VTT, Finland, an international depositary authority under the Budapest Treaty, on June 11, 2019. Further information regarding the characteristics of the strain and methods for culturing the strain is provided in the Examples herein and in European Patent Application No. 19205786.7, which is incorporated herein by reference.
+ 
+ 
+ 
+   
+  本発明は、とりわけ、ＶＴＴ－Ｅ－１９３５８５の変異体、特に、ポリヒドロキシアルカン酸（ＰＨＡ）の細菌生成を減少させる遺伝子改変を含む変異体、並びにより一般的には、ＰＨＡシンターゼをコードする１つ以上の遺伝子の遺伝子破壊を含む株等のポリヒドロキシアルカン酸（ＰＨＡ）の生成を減少させた化学合成独立栄養細菌に関する。 
+  本発明者らは、ｐｈａＣ１及び／又はｐｈａＣ２遺伝子座の破壊を含むＶＴＴ－Ｅ－１９３５８５の遺伝子改変変異体を構築した。ｐｈａＣ１の遺伝子破壊を含む変異体は、２０２１年４月１９日に、ブダペスト条約に基づく国際寄託当局であるＶＴＴ  Ｔｅｃｈｎｉｃａｌ  Ｒｅｓｅａｒｃｈ  Ｃｅｎｔｒｅ  ｏｆ  Ｆｉｎｌａｎｄ，Ｐ．Ｏ．Ｂｏｘ  １０００，ＦＩ－０２０４４  ＶＴＴ，ＦｉｎｌａｎｄのＶＴＴ  Ｃｕｌｔｕｒｅ  Ｃｏｌｌｅｃｔｉｏｎに寄託されている。受託番号は、ＶＴＴ  Ｅ－２１３５９５である。株の特徴及び株を培養するための方法に関する更なる情報は、本書の実施例に提供されている。
+ 
+  The present invention relates inter alia to variants of VTT-E-193585, particularly variants that include genetic modifications that reduce bacterial production of polyhydroxyalkanoic acids (PHAs), and more generally to chemoautotrophic bacteria with reduced production of polyhydroxyalkanoic acids (PHAs), such as strains that include genetic disruptions of one or more genes encoding PHA synthases.  The inventors have constructed genetically modified variants of VTT-E-193585 that contain disruptions of the phaC1 and/or phaC2 loci. The variants containing a gene disruption of phaC1 have been deposited on April 19, 2021 at the VTT Culture Collection, VTT Technical Research Centre of Finland, P. O. Box 1000, FI-02044 VTT, Finland, an international depository authority under the Budapest Treaty. The accession number is VTT E-213595. Further information regarding the characteristics of the strains and methods for culturing the strains is provided in the Examples herein.
+ 
+ 
+ 
+   
+  第１の主要な態様では、本発明は、細菌株ＶＴＴ－Ｅ－１９３５８５の変異体であって、ＶＴＴ－Ｅ－１９３５８５株と比較して、ポリヒドロキシアルカン酸（ＰＨＡ）の細菌生成を減少させる遺伝子改変を含む、細菌株ＶＴＴ－Ｅ－１９３５８５の変異体に関する。したがって、本発明は、細菌株ＶＴＴ－Ｅ－１９３５８５の遺伝子改変変異体、すなわち誘導体に関する。言い換えれば、ＶＴＴ－Ｅ－１９３５８５株は、遺伝子改変を含むことを更に特徴とする。 
+  一実施形態では、遺伝子改変は、ＶＴＴ－Ｅ－１９３５８５株と比較して細菌ＰＨＡシンターゼ活性を低下させ、好ましくはＰＨＡシンターゼ活性は、１０％未満、５％未満等、例えば２％未満に低下している。 
+  更なる実施形態では、遺伝子改変は、独立栄養増殖条件下での細菌ＰＨＢ生成を１０％未満、５％未満等、例えば２％未満に減少させる。これは、例えば、本書の実施例５に記載されているようにＰＨＢ乾燥含量を測定することによって決定することができる。 
+  一実施形態では、変異体は、ｐｈａＣ１の発現レベル及び／又はｐｈａＣ１酵素の活性を低下させる遺伝子改変を含む。 
+  別の実施形態では、変異体は、ｐｈａＣ２の発現レベル及び／又はｐｈａＣ２酵素の活性を低下させる遺伝子改変を含む。 
+  一実施形態では、遺伝子改変は、遺伝子又はその一部の挿入及び／又は欠失等の遺伝子破壊である。 
+  一実施形態では、変異体はｐｈａＣ１とｐｈａＣ２の両方の遺伝子破壊を含む。 
+  別の実施形態では、変異体はｐｈａＣ１の遺伝子破壊を含むが、ｐｈａＣ２の遺伝子破壊を含まない。 
+  一実施形態では、変異体は、ｐｈａＣ１遺伝子が破壊されている、ＶＴＴ－Ｅ－２１３５９５の番号で寄託された細菌株である。 
+  好ましい実施形態では、変異体は、エネルギー源として水素ガスを使用し、唯一の炭素源として二酸化炭素を使用して増殖する能力を保持している。 
+  一実施形態では、株がＶＴＴ－Ｅ－１９３５８５株の変異体である場合、変異体は、配列番号１に示される１６ＳリボソームＲＮＡ、又は配列番号１と最大２０個、例えば１～１０個、１～５個等、例えば配列番号１と１、２若しくは３個のヌクレオチドの相違を有する１６ＳリボソームＲＮＡを含む。
+ 
+  In a first main aspect, the present invention relates to a variant of the bacterial strain VTT-E-193585, which variant comprises a genetic modification that reduces the bacterial production of polyhydroxyalkanoic acid (PHA) compared to strain VTT-E-193585. Thus, the present invention relates to a genetically modified variant, i.e. a derivative, of the bacterial strain VTT-E-193585. In other words, strain VTT-E-193585 is further characterized in that it comprises a genetic modification.  In one embodiment, the genetic modification reduces bacterial PHA synthase activity compared to strain VTT-E-193585, preferably the PHA synthase activity is reduced to less than 10%, such as less than 5%, for example less than 2%.  In further embodiments, the genetic modification reduces bacterial PHB production under autotrophic growth conditions to less than 10%, such as less than 5%, for example less than 2%, which can be determined, for example, by measuring the PHB dry content as described in Example 5 herein.  In one embodiment, the variant comprises a genetic modification that reduces the expression level of phaC1 and/or the activity of the phaC1 enzyme.  In another embodiment, the variant comprises a genetic modification that reduces the expression level of phaC2 and/or the activity of the phaC2 enzyme.  In one embodiment, the genetic modification is a gene disruption, such as an insertion and/or deletion of a gene or a portion thereof.  In one embodiment, the mutant comprises a gene disruption in both phaC1 and phaC2.  In another embodiment, the mutant comprises a gene disruption in phaC1 but not in phaC2.  In one embodiment, the mutant is the bacterial strain deposited under number VTT-E-213595, in which the phaC1 gene is disrupted.  In a preferred embodiment, the mutant retains the ability to grow using hydrogen gas as an energy source and carbon dioxide as the sole carbon source.  In one embodiment, where the strain is a variant of strain VTT-E-193585, the variant comprises a 16S ribosomal RNA as set forth in SEQ ID NO:1, or a 16S ribosomal RNA having up to 20 nucleotide differences from SEQ ID NO:1, such as 1 to 10, 1 to 5, etc., such as 1, 2 or 3 nucleotide differences from SEQ ID NO:1.
+ 
+ 
+ 
+   
+  配列番号１．ＶＴＴ－Ｅ－１９３５８５株の１６ＳリボソームＲＮＡ配列： 
+ 
+CTTGAGAGTTTGATCCTGGCTCAGAGCGAACGCTGGCGGCAGGCCTAACACATGCAAGTCGAGCGCCCAGCAATGGGAGCGGCAGACGGGTGAGTAACGCGTGGGGATGTGCCCAATGGTACGGAATAACCCAGGGAAACTTGGACTAATACCGTATGAGCCCTTCGGGGGAAAGATTTATCGCCATTGGATCAACCCGCGTCTGATTAGCTAGTTGGTGGGGTAACGGCCCACCAAGGCGACGATCAGTAGCTGGTCTGAGAGGATGATCAGCCACACTGGGACTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTGGGGAATATTGGACAATGGGCGCAAGCCTGATCCAGCCATGCCGCGTGTGTGATGAAGGCCTTAGGGTTGTAAAGCACTTTCGCCGGTGAAGATAATGACGGTAACCGGAGAAGAAGCCCCGGCTAACTTCGTGCCAGCAGCCGCGGTAATACGAAGGGGGCTAGCGTTGCTCGGAATCACTGGGCGTAAAGCGCACGTAGGCGGATCGTTAAGTCAGGGGTGAAATCCTGGAGCTCAACTCCAGAACTGCCCTTGATACTGGCGACCTTGAGTTCGAGAGAGGTTGGTGGAACTGCGAGTGTAGAGGTGAAATTCGTAGATATTCGCAAGAACACCAGTGGCGAAGGCGGCCAACTGGCTCGATACTGACGCTGAGGTGCGAAAGCGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGATGGATGCTAGCCGTTGGGCAGCTTGCTGTTCAGTGGCGCAGCTAACGCATTAAGCATCCCGCCTGGGGAGTACGGTCGCAAGATTAAAACTCAAAGGAATTGACGGGGGCCCGCACAAGCGGTGGAGCATGTGGTTTAATTCGAAGCAACGCGCAGAACCTTACCAGCCTTTGACATGGCAGGACGATTTCCAGAGATGGATCTCTTCCAGCAATGGACCTGCACACAGGTGCTGCATGGCTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGCGCAACCCTCGCCTCTAGTTGCCAGCATTCAGTTGGGCACTCTAGAGGGACTGCCGGTGATAAGCCGAGAGGAAGGTGGGGATGACGTCAAGTCCTCATGGCCCTTACGGGCTGGGCTACACACGTGCTACAATGGTGGTGACAGTGGGATGCGAAAGGGCGACCTCTAGCAAATCTCCAAAAGCCATCTCAGTTCGGATTGTACTCTGCAACTCGAGTGCATGAAGTTGGAATCGCTAGTAATCGTGGATCAGCATGCCACGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCGTCACACCATGGGAGTTGGCTTTACCCGAAGGCGCTGCGCTAACCCGCAAGGGAGGCAGGCGACCACGGTAGGGTCAGCGACTGGGGTGAAGTCGTAACAAGGTAGCCGTAGGGGAACCTGCGGCTGGATCACCTCCTTT
+ 
+  SEQ ID NO: 1. 16S ribosomal RNA sequence of strain VTT-E-193585:   
+ 
+ 
+ 
+   
+  更なる態様では、本発明は、ＰＨＡシンターゼをコードする１つ以上の遺伝子の遺伝子破壊を含む変異型キサントバクター（Ｖａｒｉａｎｔ  Ｘａｎｔｈｏｂａｃｔｅｒ）株に関する。好ましくは、株は、Ｘ．アギリス（Ｘ．ａｇｉｌｉｓ）、Ｘ．アミノキシダンス（Ｘ．ａｍｉｎｏｘｉｄａｎｓ）、Ｘ．オートトロフィカス（Ｘ．ａｕｔｏｔｒｏｐｈｉｃｕｓ）、Ｘ．フラバス（Ｘ．ｆｌａｖｕｓ）、Ｘ．タゲティディス（Ｘ．ｔａｇｅｔｉｄｉｓ）、Ｘ．ビスコーサス（Ｘ．ｖｉｓｃｏｓｕｓ）、キサントバクターｓｐ．１２６、キサントバクターｓｐ．９１及びＶＴＴ－Ｅ－１９３５８５株からなる群から選択される。 
+  一実施形態では、変異型キサントバクター株は、ｐｈａＣ遺伝子（ＵｎｉＰｒｏｔＫＢ－Ａ０Ａ６Ｃ１ＫＸＫ２）が破壊されている変異型Ｘ．オートトロフィカス株である。 
+  別の実施形態では、変異型キサントバクター株は、ｐｈａＣ遺伝子（ＵｎｉＰｒｏｔＫＢ－Ａ０Ａ３Ｌ７ＡＪＤ５）が破壊されている変異型Ｘ．タゲティディス株である。 
+  別の実施形態では、変異型キサントバクター株は、ｐｈａＣ１（配列番号６２）と最も高い配列同一性を有する当該株のゲノム中の遺伝子が破壊されているキサントバクター種の変異体である。配列同一性を決定するための方法は、当技術分野で周知である。好ましくは、コードされたタンパク質は、配列番号６２に対して５０％を超える配列同一性、６０％を超える等、例えば７０％を超える、８０％を超える等、例えば９０％を超える、９５％を超える等の配列同一性を有する。 
+  別の実施形態では、変異型キサントバクター株は、ｐｈａＣ１（配列番号６２）と最も高い配列同一性を有するタンパク質をコードする当該株のゲノム中の遺伝子が破壊されている、Ｘ．アギリス、Ｘ．アミノキシダンス、Ｘ．フラバス、Ｘ．ビスコーサス、キサントバクターｓｐ．１２６又はキサントバクターｓｐ．９１の変異体である。例えば、一実施形態では、変異体は、Ｘ．アギリスゲノム中の全遺伝子のうちｐｈａＣ１（配列番号６２）と最も高い配列同一性を有するＸ．アギリスの遺伝子が破壊されているＸ．アギリスの変異体である。 
+  一実施形態では、変異型キサントバクター株は、ＮＣＢＩ  ｒｅｆ．ＭＢＢ６３０９０５８．１に記載の遺伝子が破壊されている変異型Ｘ．タゲティディス株である。 
+  一実施形態では、変異型キサントバクター株は、ＮＣＢＩ  ｒｅｆ．ＭＢＰ２１４７７２２．１に記載の遺伝子が破壊されている変異型Ｘ．フラバス株である。 
+  一実施形態では、変異型キサントバクター株は、ＮＣＢＩ  ｒｅｆ．ＷＰ＿１３８３９８１４７．１に記載の遺伝子が破壊されている変異型Ｘ．オートトロフィカス株である。 
+  一実施形態では、変異型キサントバクター株は、ＮＣＢＩ  ｒｅｆ．ＷＰ＿２１０２１０８５８．１に記載の遺伝子が破壊されている変異型Ｘ．タゲティディス株である。 
+  一実施形態では、変異体キサントバクター株は、ＮＣＢＩ  ｒｅｆ．ＷＰ＿２０９４８９９６１．１に記載の遺伝子が破壊されている変異型Ｘ．フラバス株である。 
+  一実施形態では、変異型キサントバクター株は、ＮＣＢＩ  ｒｅｆ．ＡＢＳ６７２５３．１に記載の遺伝子が破壊されている変異型Ｘ．オートトロフィカスＰｙ２株である。
+ 
+  In a further aspect, the present invention relates to a variant Xanthobacter strain comprising a genetic disruption of one or more genes encoding a PHA synthase. Preferably, the strain is selected from the group consisting of X. agilis, X. aminoxidans, X. autotrophicus, X. flavus, X. tagetidis, X. viscosus, Xanthobacter sp. 126, Xanthobacter sp. 91 and VTT-E-193585 strains.  In one embodiment, the mutant Xanthobacter strain is a mutant X. autotrophicus strain with a disruption in the phaC gene (UniProtKB-A0A6C1KXK2).  In another embodiment, the mutated Xanthobacter strain is a mutated X. tagetidis strain with a disruption in the phaC gene (UniProtKB-A0A3L7AJD5).  In another embodiment, the mutant Xanthobacter strain is a mutant of Xanthobacter species in which the gene in the genome of the strain having the highest sequence identity with phaC1 (SEQ ID NO:62) has been disrupted. Methods for determining sequence identity are well known in the art. Preferably, the encoded protein has more than 50% sequence identity to SEQ ID NO:62, such as more than 60%, e.g. more than 70%, more than 80%, e.g. more than 90%, more than 95%, etc.  In another embodiment, the mutant Xanthobacter strain is a mutant of X. agilis, X. aminoxidans, X. flavus, X. viscosus, Xanthobacter sp. 126, or Xanthobacter sp. 91 in which the gene in the genome of the strain that encodes the protein with the highest sequence identity to phaC1 (SEQ ID NO:62) has been disrupted. For example, in one embodiment, the mutant is a mutant of X. agilis in which the gene of X. agilis that has the highest sequence identity to phaC1 (SEQ ID NO:62) of all genes in the X. agilis genome has been disrupted.  In one embodiment, the mutated Xanthobacter strain is a mutated X. tagetidis strain with a gene disruption as described in NCBI ref. MBB6309058.1.  In one embodiment, the mutated Xanthobacter strain is a mutated X. flavus strain having a gene disruption as described in NCBI ref. MBP2147722.1.  In one embodiment, the mutant Xantobacter strain is a mutant X. autotrophicus strain having a gene disruption as described in NCBI ref. WP_138398147.1.  In one embodiment, the mutated Xanthobacter strain is a mutated X. tagetidis strain with a gene disruption as described in NCBI ref. WP_210210858.1.  In one embodiment, the mutant Xanthobacter strain is a mutant X. flavus strain having a gene disruption as described in NCBI ref. WP_209489961.1.  In one embodiment, the mutant Xanthobacter strain is a mutant X. autotrophicus Py2 strain having a gene disruption as described in NCBI ref. ABS67253.1.
+ 
+ 
+ 
+   
+  更なる態様では、本発明は、本発明の変異体細菌株を含む培養物に関する。好ましい実施形態では、培養物の体積は、１００ｍＬ以上、例えば１Ｌ以上、例えば１０Ｌ以上、例えば１，０００Ｌ以上、１０，０００Ｌ以上等、例えば５０，０００Ｌ以上、１００，０００Ｌ以上等、例えば２００，０００Ｌ以上である。 
+  更なる態様では、本発明は、バイオマス及び／又はタンパク質の生成のための方法に関し、当該方法は、本発明の変異体細菌株を培養することを含む。一実施形態では、本方法はバイオマスの生成のためのものである。別の実施形態では、本方法は、タンパク質の生成のためのものである。一実施形態では、本方法は、エネルギー源としての水素及び無機炭素源を用いて連続培養で細菌を培養することを含み、無機炭素源は二酸化炭素を含む。更なる実施形態では、本方法はバイオマスの生成のためのものであり、エネルギー源としての水素及び無機炭素源を用いて連続培養で細菌を培養することを含み、無機炭素源は二酸化炭素を含む。本方法の様々な更なる実施形態を本明細書で以下に説明する。
+ 
+  In a further aspect, the invention relates to a culture comprising the mutant bacterial strain of the invention. In a preferred embodiment, the volume of the culture is at least 100 mL, such as at least 1 L, such as at least 10 L, such as at least 1,000 L, such as at least 10,000 L, such as at least 50,000 L, such as at least 100,000 L, such as at least 200,000 L.  In a further aspect, the invention relates to a method for the production of biomass and/or protein, the method comprising culturing the mutant bacterial strain of the invention. In one embodiment, the method is for the production of biomass. In another embodiment, the method is for the production of protein. In one embodiment, the method comprises culturing the bacteria in continuous culture with hydrogen as an energy source and an inorganic carbon source, the inorganic carbon source comprising carbon dioxide. In a further embodiment, the method is for the production of biomass, the method comprises culturing the bacteria in continuous culture with hydrogen as an energy source and an inorganic carbon source, the inorganic carbon source comprising carbon dioxide. Various further embodiments of the method are described herein below.
+ 
+ 
+ 
+   
+  更なる主な態様では、本発明は、バイオマス及び／又はタンパク質の生成のための方法であって、当該方法が、エネルギー源としての水素及び無機炭素源と共に連続培養で変異型化学合成独立栄養細菌株を培養することを含み、無機炭素源が二酸化炭素を含み、当該変異型化学合成独立栄養株がＰＨＡシンターゼをコードする１つ以上の遺伝子、好ましくはｐｈａＣ１（配列番号６２）と最も配列同一性が高い遺伝子の遺伝子破壊を含む、バイオマス及び／又はタンパク質の生成のための方法に関する。 
+  一実施形態では、本方法はバイオマスの生成のためのものである。別の実施形態では、本方法は、タンパク質の生成のためのものである。本方法の様々な更なる実施形態を本書で以下に説明する。 
+  一実施形態では、本方法で使用される変異型化学合成独立栄養株は、キサントバクター（Ｘａｎｔｈｏｂａｃｔｅｒ）属のものであり、好ましくはＶＴＴ－Ｅ－１９３５８５株の変異体である。 
+  別の実施形態では、本方法で使用される変異型化学合成独立栄養株は、クプリアビダス・ネカトル（Ｃｕｐｒｉａｖｉｄｕｓ  ｎｅｃａｔｏｒ）種のものである。
+ 
+  In a further main aspect, the present invention relates to a method for the production of biomass and/or protein, the method comprising culturing a mutant chemoautotrophic bacterial strain in continuous culture with hydrogen as an energy source and an inorganic carbon source, wherein the inorganic carbon source comprises carbon dioxide, and the mutant chemoautotrophic strain comprises a gene disruption of one or more genes encoding a PHA synthase, preferably the gene with the highest sequence identity to phaC1 (SEQ ID NO:62).  In one embodiment, the method is for the production of biomass. In another embodiment, the method is for the production of protein. Various further embodiments of the method are described herein below.  In one embodiment, the mutant chemoautotrophic strain used in the present method is of the genus Xanthobacter, preferably a mutant of strain VTT-E-193585.  In another embodiment, the mutated chemoautotrophic strain used in the method is of the species Cupriavidus necator.
+ 
+ 
+ 
+   
+  ゲノム配列によれば、ＶＴＴ－Ｅ－１９３５８５の番号で寄託された株は、二酸化炭素分子がリブロース１，５－ホスフェートの５－炭素鎖に接続されて２分子のグリセレート３－ホスフェートを形成する炭素固定のために最も可能性の高いカルビン・ベンソン・バシャム（Ｃａｌｖｉｎ－Ｂｅｎｓｏｎ－Ｂａｓｓｈａｍ）回路を使用する。 
+  これにより、株は、増殖に必要な他の全ての有機分子を合成することができる。水素からのエネルギーは、ＮＡＤ ＋ 還元ヒドロゲナーゼ及び／又はＮｉＦｅＳｅヒドロゲナーゼを介して細胞に入る可能性が最も高い。本質的に、これは、水素（Ｈ ２ ）がＨ＋に酸化され、ＮＡＤ ＋ がＮＡＤＨに還元される酸化還元反応である。ＡＴＰに加えて、ＮＡＤＨは、生体内の主要なエネルギー担体の１つである。或いは、いくつかの他のエネルギー当量は、Ｈ ２ を使用する別のヒドロゲナーゼ酵素によって低減される。 
+  カルビン・ベンソン・バシャム（Ｃａｌｖｉｎ－Ｂｅｎｓｏｎ－Ｂａｓｓｈａｍ）回路は、ＣＯ ２ を固定するためにＡＴＰ及びＮＡＤＨ／ＮＡＤＰＨの形態のエネルギーを必要とする。この株は酸化的リン酸化によってＡＴＰを生成する可能性が最も高く、これは膜を横切るプロトン勾配を生成する４つのタンパク質複合体からなる。プロトン勾配は、主にＮＡＤＨからのエネルギーを使用して生成される。プロトン勾配は、ＡＴＰシンターゼ複合体を駆動してＡＴＰを生成させる。ゲノム配列によれば、株は細菌Ｆ型ＡＴＰシンターゼを有する。
+ 
+  According to the genome sequence, the strain deposited under number VTT-E-193585 most likely uses the Calvin-Benson-Bassham cycle for carbon fixation, in which a carbon dioxide molecule is attached to the 5-carbon chain of ribulose 1,5-phosphate to form two molecules of glycerate 3-phosphate.  This allows the strain to synthesize all other organic molecules necessary for growth. Energy from hydrogen most likely enters the cell via NAD  +  -reducing hydrogenase and/or NiFeSe hydrogenase. Essentially, this is a redox reaction in which hydrogen (  H2  ) is oxidized to H+ and NAD  +  is reduced to NADH. In addition to ATP, NADH is one of the main energy carriers in living organisms. Alternatively, some other energy equivalents are reduced by another hydrogenase enzyme that uses  H2  .  The Calvin-Benson-Bassham cycle requires energy in the form of ATP and NADH/NADPH to fix  CO2  . This strain most likely produces ATP by oxidative phosphorylation, which consists of four protein complexes that generate a proton gradient across the membrane. The proton gradient is generated primarily using energy from NADH. The proton gradient drives the ATP synthase complex to produce ATP. According to the genome sequence, the strain has a bacterial F-type ATP synthase.
+ 
+ 
+ 
+   
+  方法が株を無機炭素源で培養することを含むと明示される場合、無機炭素源が培養物中の主な炭素源であることが理解されうる。したがって、培養物中に少量の有機炭素源が存在し得るが、培養物の主な代謝及び増殖は、炭素源としての無機炭素源、好ましくは二酸化炭素の利用に基づく。好ましくは、有機物である培養物に供給される炭素の割合は、本方法中に培養物に供給される全炭素の５％未満、例えば１％未満、例えば０．１％未満である。好ましくは、有機炭素源は本方法に供給されない。
+ 
+Where a method is specified to include culturing a strain on an inorganic carbon source, it will be understood that the inorganic carbon source is the major carbon source in the culture. Thus, although small amounts of an organic carbon source may be present in the culture, the major metabolism and growth of the culture is based on utilisation of the inorganic carbon source, preferably carbon dioxide, as the carbon source. Preferably, the proportion of carbon supplied to the culture that is organic is less than 5%, such as less than 1%, such as less than 0.1%, of the total carbon supplied to the culture during the method. Preferably, no organic carbon source is supplied to the method.
+ 
+ 
+ 
+   
+  同様に、本方法がエネルギー源として水素（Ｈ ２ ）を用いて株を培養することを含むと明示される場合、水素が培養物中の主なエネルギー源であることを理解されうる。したがって、窒素源として供給され得るアンモニア等の培養物中に存在する他の少量のエネルギー源、又は少量の有機化合物が存在し得るが、培養物の主な代謝及び増殖は、エネルギー源としての水素の利用に基づく。本方法全体において、水素は好ましくは水電解によって、すなわち、水を電気で水素ガスと酸素ガスに分解することによって生成される。したがって、水素ガス及び酸素ガスは、近くの電気分解装置からバイオリアクタに供給される。或いは、電極をバイオリアクタの内部に配置して、別々の電気分解装置ではなくバイオリアクタ内で水素及び酸素を生成することができる。
+ 
+  Similarly, when the method is specified to include culturing a strain using hydrogen (H  2  ) as an energy source, it will be understood that hydrogen is the main energy source in the culture. Thus, although there may be small amounts of other energy sources present in the culture, such as ammonia, which may be supplied as a nitrogen source, or small amounts of organic compounds, the main metabolism and growth of the culture is based on the utilization of hydrogen as an energy source. In the entire method, hydrogen is preferably produced by water electrolysis, i.e., by splitting water into hydrogen gas and oxygen gas with electricity. Thus, hydrogen gas and oxygen gas are supplied to the bioreactor from a nearby electrolyzer. Alternatively, electrodes can be placed inside the bioreactor to produce hydrogen and oxygen within the bioreactor rather than in a separate electrolyzer.
+ 
+ 
+ 
+   
+  二酸化炭素を含む無機炭素源は、例えば一酸化炭素等の他の無機炭素源を含んでもよい。一実施形態では、気体形態の炭素源のみが培養物に提供される。好ましい実施形態では、二酸化炭素が培養物に提供される唯一の無機炭素源であり、実際に唯一の炭素源である。一実施形態では、ガス及びミネラルのみが培養物に供給され、供給されるガス中の二酸化炭素のレベルは、１０％～５０％の間、例えば１５％～４５％の間、２０％～４０％の間等、例えば２５％～３５％の間、２６％～３０％の間等である。
+ 
+The inorganic carbon source comprising carbon dioxide may also comprise other inorganic carbon sources, such as, for example, carbon monoxide. In one embodiment, only a carbon source in gaseous form is provided to the culture. In a preferred embodiment, carbon dioxide is the only inorganic carbon source provided to the culture, and indeed is the only carbon source. In one embodiment, only gas and minerals are provided to the culture, and the level of carbon dioxide in the gas provided is between 10% and 50%, e.g., between 15% and 45%, between 20% and 40%, etc., e.g., between 25% and 35%, between 26% and 30%, etc.
+ 
+ 
+ 
+   
+  別の実施形態では、ガス及びミネラルが培養物に供給され、供給されるガス中の水素（Ｈ ２ ）のレベルは、３０％～８０％の間、例えば３５％～７５％の間、４０％～７０％の間等、例えば４５％～６５％の間、５０％～６０％の間等である。
+ 
+  In another embodiment, gas and minerals are supplied to the culture and the level of hydrogen (  H2  ) in the gas supplied is between 30% and 80%, such as between 35% and 75%, such as between 40% and 70%, for example between 45% and 65%, such as between 50% and 60%.
+ 
+ 
+ 
+   
+  別の実施形態では、ガス及びミネラルが培養物に供給され、供給されるガス中の酸素（Ｏ ２ ）のレベルは、１０％～２５％の間、例えば１５％～２０％の間、１６％～１８％の間等である。別の実施形態では、提供される酸素のレベルは、培養物中の溶存酸素のレベルが５％～１０％の間に維持されるようなものである。
+ 
+  In another embodiment, gas and minerals are supplied to the culture and the level of oxygen (O  2  ) in the gas supplied is between 10% and 25%, for example between 15% and 20%, between 16% and 18%, etc. In another embodiment, the level of oxygen provided is such that the level of dissolved oxygen in the culture is maintained between 5% and 10%.
+ 
+ 
+ 
+   
+  好ましい実施形態では、ガス及びミネラルのみが培養物に供給され、Ｈ２、ＣＯ ２ 及びＯ ２ を含むガスが供給され、Ｈ ２ のパーセンテージは４０％～７０％の間であり、ＣＯ ２ のパーセンテージは１８％～２８％の間であり、Ｏ ２ のパーセンテージは１２％～２２％の間である。
+ 
+  In a preferred embodiment, only gases and minerals are supplied to the culture, with the gas being supplied comprising H2,  CO2  and  O2  , with the percentage of  H2  being between 40% and 70%, the percentage of  CO2  being between 18% and 28%, and the percentage of  O2  being between 12% and 22%.
+ 
+ 
+ 
+   
+  典型的には、本発明の方法は、窒素源の添加を含む。窒素源は、例えば、水酸化アンモニウム、硫酸アンモニウム又は塩化アンモニウム等のアンモニウム塩、アンモニア、尿素又は硝酸塩、例えば硝酸カリウムの形態で提供されてもよい。他の実施形態では、窒素ガス（Ｎ ２ ）が窒素源として提供される。好ましい実施形態では、窒素源は水酸化アンモニウム、又は硫酸アンモニウム等のアンモニウム塩である。 
+  一実施形態では、提供される窒素源は、１００ｍｇ／Ｌ～１０ｇ／Ｌの間、２５０ｍｇ／Ｌ～４ｇ／Ｌの間等、例えば０．５ｇ／Ｌ～２ｇ／Ｌの間、０．７５ｇ／Ｌ～１．５ｇ／Ｌの間等の濃度の水酸化アンモニウムである。
+ 
+  Typically, the method of the present invention includes the addition of a nitrogen source. The nitrogen source may be provided in the form of, for example, an ammonium salt, such as ammonium hydroxide, ammonium sulfate, or ammonium chloride, ammonia, urea, or a nitrate, such as potassium nitrate. In another embodiment, nitrogen gas (  N2  ) is provided as the nitrogen source. In a preferred embodiment, the nitrogen source is ammonium hydroxide, or an ammonium salt, such as ammonium sulfate.  In one embodiment, the nitrogen source provided is ammonium hydroxide at a concentration between 100 mg/L and 10 g/L, such as between 250 mg/L and 4 g/L, for example, between 0.5 g/L and 2 g/L, such as between 0.75 g/L and 1.5 g/L.
+ 
+ 
+ 
+   
+  典型的には、本発明の方法は、アンモニウム、リン酸塩、カリウム、ナトリウム、バナジウム、鉄、硫酸塩、マグネシウム、カルシウム、モリブデン、マンガン、ホウ素、亜鉛、コバルト、セレン、ヨウ素、銅及び／又はニッケルを含有するミネラル等のミネラルの添加を含む。適切なミネラル培地は周知技術であり、例えば、Ｔｈｅｒｍｏｐｈｉｌｉｃ  Ｂａｃｔｅｒｉａ，ＣＲＣ  Ｐｒｅｓｓ，Ｂｏｃａ  Ｒａｔｏｎ，ＦＬ，Ｊａｃｏｂ  Ｋ．Ｋｒｉｓｔｊａｎｓｓｏｎ，ｅｄ．，１９９２、例えば８７頁、表４に記載されている。
+ Typically, the method of the invention involves the addition of minerals, such as minerals containing ammonium, phosphate, potassium, sodium, vanadium, iron, sulfate, magnesium, calcium, molybdenum, manganese, boron, zinc, cobalt, selenium, iodine, copper and/or nickel. Suitable mineral media are well known in the art and are described, for example, in Thermophilic Bacteria, CRC Press, Boca Raton, FL, Jacob K. Kristjansson, ed., 1992, e.g., p. 87, Table 4. 
+ 
+ 
+   
+  一実施形態では、添加される鉱物は、アンモニア、アンモニウム（例えば、塩化アンモニウム（ＮＨ ４ Ｃｌ）、硫酸アンモニウム（（ＮＨ ４ ） ２ ＳＯ ４ ））、硝酸塩（例えば、硝酸カリウム（ＫＮＯ ３ ））、尿素又は有機窒素源；リン酸塩（例えば、リン酸二ナトリウム（Ｎａ ２ ＨＰＯ ４ ）、リン酸カリウム（ＫＨ ２ ＰＯ ４ ）、リン酸（Ｈ ３ ＰＯ ４ ）、ジチオリン酸カリウム（Ｋ ３ ＰＳ ２ Ｏ ２ ）、オルトリン酸カリウム（Ｋ ３ ＰＯ ４ ）、リン酸二ナトリウム（Ｎａ ２ ＨＰＯ ４ ・２Ｈ ２ Ｏ）、リン酸二カリウム（Ｋ ２ ＨＰＯ ４ ）又はリン酸一カリウム（ＫＨ ２ ＰＯ ４ ）；硫酸塩；酵母抽出物；キレート鉄（例えばＥＤＴＡ又はクエン酸でキレート化）；カリウム（例えば、リン酸カリウム（ＫＨ ２ ＰＯ ４ ）、硝酸カリウム（ＫＮＯ ３ ）、ヨウ化カリウム（ＫＩ）、臭化カリウム（ＫＢｒ））；並びに他の無機塩、ミネラル、及び微量栄養素（例えば、塩化ナトリウム（ＮａＣｌ）、硫酸マグネシウム（ＭｇＳＯ ４ ・７Ｈ ２ Ｏ）又は塩化マグネシウム（ＭｇＣｌ ２ ）、塩化カルシウム（ＣａＣｌ ２ ）、硫酸カルシウム（ＣａＳＯ ４ ）又は炭酸カルシウム（ＣａＣＯ ３ ）、硫酸マンガン（ＭｎＳＯ ４ ・７Ｈ ２ Ｏ）又は塩化マンガン（ＭｎＣｌ ２ ）、塩化第二鉄（ＦｅＣｌ ２ ）、硫酸第一鉄（ＦｅＳＯ ４ ・７Ｈ ２ Ｏ）又は塩化第一鉄（ＦｅＣｌ ２ ・４Ｈ ２ Ｏ）、重炭酸ナトリウム（ＮａＨＣＯ ３ ）又は炭酸ナトリウム（Ｎａ ２ ＣＯ ３ ）、硫酸亜鉛（ＺｎＳＯ ４ ）又は塩化亜鉛（ＺｎＣｌ ２ ）、モリブデン酸アンモニウム（ＮＨ ４ ＭｏＯ ４ ）又はモリブデン酸ナトリウム（Ｎａ ２ ＭｏＯ ４ ・２Ｈ ２ Ｏ）、第一銅硫酸塩（ＣｕＳＯ４）又は塩化銅（ＣｕＣｌ ２ ・２Ｈ ２ Ｏ）、塩化コバルト（ＣｏＣｌ ２ ・６Ｈ ２ Ｏ）又は硫酸コバルト（ＣｏＳＯ ４ ）、塩化アルミニウム（ＡｌＣｌ ３ ・６Ｈ ２ Ｏ）、塩化リチウム（ＬｉＣｌ）、ホウ酸（Ｈ ３ ＢＯ ３ ）、塩化ニッケルＮｉＣｌ ２ ・６Ｈ ２ Ｏ）又は硫酸ニッケル（ＮｉＳＯ ４ ）、塩化スズ（ＳｎＣｌ ２ ・Ｈ ２ Ｏ）、塩化バリウム（ＢａＣｌ ２ ・２Ｈ ２ Ｏ）、セレン酸銅（ＣｕＳｅＯ ４   ５Ｈ ２ Ｏ）、セレン酸ナトリウム（Ｎａ ２ ＳｅＯ ４ ）又は亜セレン酸ナトリウム（Ｎａ ２ ＳｅＯ ３ ）、メタバナジン酸ナトリウム（ＮａＶＯ ３ ）、クロム塩）のうちの１つ以上を含む。
+ 
+  In one embodiment,  the  minerals added are ammonia, ammonium (e.g., ammonium chloride (  NH4Cl  ), ammonium sulfate ((  NH4  )  2SO4  )), nitrate (e.g., potassium nitrate (  KNO3  )), urea  or  an organic nitrogen source; phosphate (e.g., disodium phosphate (  Na2HPO4  ), potassium phosphate (  KH2PO4  ),  phosphoric  acid (  H3PO4  ), potassium  dithiophosphate  (  K3PS2O2   )  , potassium orthophosphate (  K3PO4  ), disodium phosphate (  Na2HPO4.2H2O  ), dipotassium phosphate (  K2HPO4  ) or  monopotassium  phosphate (  KH2PO4  ); sulfate  ;  yeast extract; chelated iron (e.g., chelated  with  EDTA or  citric  acid); potassium  (e.g., potassium phosphate (KH2PO4   )   ,  potassium nitrate (  KNO3)  )  .  ), potassium iodide (KI), potassium bromide (KBr)); and other inorganic salts, minerals  ,  and micronutrients (e.g., sodium chloride (NaCl), magnesium sulfate (  MgSO4.7H2O  ) or magnesium chloride (  MgCl2  ), calcium chloride (  CaCl2  ), calcium sulfate (  CaSO4  ) or calcium carbonate (  CaCO3  ), manganese sulfate (  MnSO4.7H2O  ) or manganese chloride (  MnCl2  ), ferric chloride (  FeCl2   )  , ferrous sulfate (  FeSO4.7H2O  )  or  ferrous chloride (  FeCl2.4H2O  ), sodium bicarbonate (  NaHCO3  ) or sodium  carbonate  (  Na2CO3  ), zinc sulfate (  ZnSO4  ) or zinc chloride (  ZnCl2  ), ammonium molybdate (  NH4MoO4  ) or  sodium  molybdate (  Na2MoO4  )  .   4.2H   2  O), cuprous sulfate (CuSO4) or copper chloride (CuCl  2.2H   2  O), cobalt chloride (CoCl  2.6H   2  O) or cobalt sulfate (CoSO  4  ), aluminum chloride (AlCl 3.6H  2  O), lithium chloride (LiCl  )  , boric acid (H  3  BO  3  ), nickel chloride (NiCl 2.6H  2  O) or nickel sulfate (NiSO  4  ), tin chloride (SnCl  2.H   2  O), barium chloride (BaCl  2.2H   2  O), copper selenate (CuSeO  4   5H 2   O  ), sodium selenate (Na  2  SeO  4  ) or sodium selenite (Na  2  SeO  3  ), sodium metavanadate (NaVO  3  ), chromium salts).
+ 
+ 
+ 
+   
+  好ましい実施形態では、本発明の方法は、ＮＨ ４ ＯＨ、ＫＨ ２ ＰＯ ４ 、Ｎａ ２ ＨＰＯ ４ ・２Ｈ ２ Ｏ、ＮａＶＯ ３ ・Ｈ ２ Ｏ、ＦｅＳＯ ４ ｘ７Ｈ ２ Ｏ、ＭｇＳＯ ４ ・７Ｈ ２ Ｏ、ＣａＳＯ ４ 、Ｎａ ２ ＭｏＯ ４ ・２Ｈ ２ Ｏ、ＭｎＳＯ ４ ・７Ｈ ２ Ｏ、ＺｎＳＯ ４ ・７Ｈ ２ Ｏ、Ｈ ３ ＢＯ ３ 、ＣｏＳＯ ４ 、ＣｕＳＯ ４ 、ＮｉＳＯ ４ のうちの１つ以上又は全ての添加を含む。
+ 
+  In a preferred embodiment, the method of the present invention  includes  the addition of  one   or more or   all  of  NH4OH  ,  KH2PO4  ,  Na2HPO4.2H2O   ,   NaVO3.H2O   ,   FeSO4x7H2O   ,  MgSO4.7H2O  ,  CaSO4  ,   Na2MoO4.2H2O   ,   MnSO4.7H2O   ,   ZnSO4.7H2O  ,  H3BO3   ,   CoSO4   ,   CuSO4  ,  NiSO4  .
+ 
+ 
+ 
+   
+  一実施形態では、細胞に提供される培地は、１ｇ／Ｌ未満の塩化物塩、０．２５ｇ／Ｌ未満の塩化物塩等、例えば０．１ｇ／Ｌ未満の塩化物塩、０．０２５ｇ／Ｌ未満の塩化物塩等、例えば０．０１ｇ／Ｌ未満の塩化物を含む。一実施形態では、塩化物塩は培養物に供給されない。 
+  別の実施形態では、本方法中にビタミンは供給されない、すなわち培養物に提供される培地はビタミンを含有しない。 
+  別の実施形態では、本方法中にアミノ酸は供給されない、すなわち培養物に提供される培地はアミノ酸を含有しない。 
+  別の実施形態では、本方法中に有機化合物は供給されない、すなわち培養物に提供される培地は有機化合物を含まない。 
+  特定の実施形態では、細菌培養物のｐＨは特定のレベルに制御される。特定の実施形態では、ｐＨは、細菌の維持及び／又は増殖及び／又は有機化合物の生成に最適な範囲内に制御される。一実施形態では、培養物中のｐＨは、５．５～８．０の間、例えば６．５～７．０の間、例えば６．８に維持される。 
+  特定の実施形態では、細菌培養物の温度が制御される。特定の実施形態では、温度は、細菌の維持及び／又は増殖及び／又は有機化合物の生成に最適な範囲内に制御される。一実施形態では、培養物を、２５℃～４０℃の間、例えば２８℃～３２℃の間、３０℃等の温度で増殖させる。
+ 
+  In one embodiment, the medium provided to the cells comprises less than 1 g/L chloride salt, such as less than 0.25 g/L chloride salt, such as less than 0.1 g/L chloride salt, such as less than 0.025 g/L chloride salt, such as less than 0.01 g/L chloride. In one embodiment, no chloride salt is supplied to the culture.  In another embodiment, no vitamins are supplied during the method, i.e. the medium provided to the culture does not contain vitamins.  In another embodiment, no amino acids are supplied during the method, i.e., the medium provided to the culture does not contain amino acids.  In another embodiment, no organic compounds are provided during the method, i.e. the medium provided to the culture is free of organic compounds.  In certain embodiments, the pH of the bacterial culture is controlled at a particular level. In certain embodiments, the pH is controlled within an optimal range for bacterial maintenance and/or growth and/or organic compound production. In one embodiment, the pH in the culture is maintained between 5.5 and 8.0, such as between 6.5 and 7.0, for example at 6.8.  In certain embodiments, the temperature of the bacterial culture is controlled. In certain embodiments, the temperature is controlled within an optimal range for the maintenance and/or growth of the bacteria and/or production of organic compounds. In one embodiment, the culture is grown at a temperature between 25° C. and 40° C., for example between 28° C. and 32° C., such as 30° C.
+ 
+ 
+ 
+   
+  典型的には、本発明の方法はバイオリアクタ内で行われる。バイオリアクタは、細胞の培養に利用され、細胞の増殖曲線の特定の段階に維持され得る。バイオリアクタの使用は、化学合成独立栄養増殖を培養するための多くの方法において有利である。 
+  一般に、溶存する二酸化炭素、酸素、及び水素等の他のガス、並びに他の溶存する栄養素、微量元素、温度及びｐＨの制御を含む増殖条件の制御は、バイオリアクタ内で促進される。栄養培地並びにガスは、バッチ添加として、又は定期的に、又は検出された枯渇若しくはプログラム設定点に応答して、又は培養物が増殖及び／又は維持されている期間中に連続的にバイオリアクタに添加され得る。 
+  連続培養方法では、栄養培地及びガスがバイオリアクタに連続的に添加される。更に、細菌含有培地は、バイオリアクタから連続的に除去されている。
+ 
+  Typically, the method of the present invention is carried out in a bioreactor, which is utilized to culture the cells and maintain them at a particular stage of their growth curve. The use of a bioreactor is advantageous in many methods for culturing chemoautotrophic growth.  Generally, control of growth conditions is facilitated in the bioreactor, including control of dissolved carbon dioxide, oxygen, and other gases such as hydrogen, as well as other dissolved nutrients, trace elements, temperature, and pH. Nutrient medium and gases can be added to the bioreactor as batch additions, or periodically, or in response to detected depletion or programmed set points, or continuously for the period during which the culture is grown and/or maintained.  In a continuous culture process, nutrient medium and gas are continuously added to the bioreactor, and bacteria-containing medium is continuously removed from the bioreactor.
+ 
+ 
+ 
+   
+  好ましい実施形態では、細菌培養物の体積は、１００ｍＬ以上、１Ｌ以上等、例えば１０Ｌ以上、１００Ｌ以上等、例えば１，０００Ｌ以上、１０，０００Ｌ以上等、例えば５０，０００Ｌ以上、１００，０００Ｌ以上等、例えば２００，０００Ｌ以上である。 
+  一実施形態では、培養物の生産性は、１時間当たり１リットル当たり０．１ｇ超、例えば０．２超、例えば０．３超、０．４超等、例えば０．５超、０．６ｇ超等、例えば０．７超、０．８超等、例えば０．９超、１ｇ超等の細胞乾燥重量である。
+ 
+  In preferred embodiments, the volume of the bacterial culture is at least 100 mL, such as at least 1 L, such as at least 10 L, such as at least 100 L, such as at least 1,000 L, such as at least 10,000 L, such as at least 50,000 L, such as at least 100,000 L, such as at least 200,000 L.  In one embodiment the productivity of the culture is greater than 0.1 g, such as greater than 0.2, such as greater than 0.3, such as greater than 0.4, such as greater than 0.5, such as greater than 0.6 g, such as greater than 0.7, such as greater than 0.8, such as greater than 0.9, such as greater than 1 g cell dry weight per litre per hour.
+ 
+ 
+ 
+   
+  細菌は、細胞バンクから直接接種するか、又はより小規模の種培養を介して接種することができる。好ましくは、培養物への新鮮な培地の供給及び細菌を含む使用済み培地の除去は、バイオリアクタ内の体積が同じままであるように同じ速度で行われる。 
+  一実施形態では、適切な細胞密度に達する初期相の後、細菌は定常状態又は擬似定常状態で増殖し、５を超える、例えば１０を超える、例えば２０を超える、５０～２００の間等、例えば５０～１００の間のＯＤ６００で対数期を継続的に維持する。 
+  本発明の方法の一実施形態では、細菌株は、０．００１～０．１２ｈ －１ 、例えば０．０１～０．１２ｈ －１ 、例えば０．０４～０．１２ｈ －１ の増殖速度を有する。 
+  本発明の方法の別の実施形態では、連続相における液体供給速度は、増殖速度の５０～８０％である。
+ 
+  The bacteria can be inoculated directly from a cell bank or via a smaller scale seed culture. Preferably, the supply of fresh medium to the culture and the removal of spent medium containing the bacteria are done at the same rate so that the volume in the bioreactor remains the same.  In one embodiment, after an initial phase in which a suitable cell density is reached, the bacteria grows in a steady state or pseudo-steady state and continuously maintains log phase with an OD600 of greater than 5, such as greater than 10, such as greater than 20, such as between 50-200, e.g. between 50-100.  In one embodiment of the method of the present invention, the bacterial strain has a growth rate of 0.001 to 0.12 h  −1  , such as 0.01 to 0.12 h  −1  , for example 0.04 to 0.12 h  −1  .  In another embodiment of the method of the present invention, the liquid feed rate in the continuous phase is 50-80% of the growth rate.
+ 
+ 
+ 
+   
+  キサントバクターは、キサントバクター科のグラム陰性菌の属である。上述のように、一実施形態では、本発明の方法で使用される変異型化学合成独立栄養株（すなわち、ＰＨＡシンターゼをコードする１つ以上の遺伝子の遺伝子破壊を含む変異体）は、キサントバクター属のものである。 
+  好ましくは、株は、Ｘ．アギリス、Ｘ．アミノキシダンス、Ｘ．オートトロフィカス、Ｘ．フラバス、Ｘ．タゲティディス、Ｘ．ビスコーサス、キサントバクターｓｐ．１２６、キサントバクターｓｐ．９１及びＶＴＴ－Ｅ－１９３５８５株からなる群から選択される。 
+  一実施形態では、本発明の方法で使用される変異型化学合成独立栄養株は、カルビン・ベンソン・バシャム経路（Ｃａｌｖｉｎ  Ｂｅｎｓｏｎ  Ｂａｓｓｈａｍ  ｐａｔｈｗａｙ）を使用して二酸化炭素を生物に必須の有機化合物、例えばグルコースに変換する株である。 
+  一実施形態では、本発明の方法で使用される変異型化学合成独立栄養株は、水素（Ｈ ２ ）を細胞エネルギー当量に変換するためにＮｉＦｅＳｅ－ヒドロゲナーゼを使用する株である。 
+  一実施形態では、本発明の方法で使用される変異型化学合成独立栄養株は、水素（Ｈ ２ ）を細胞エネルギー当量に変換するためにＮＡＤ ＋ 還元ヒドロゲナーゼを使用する株である。 
+  一実施形態では、本発明の方法で使用される変異型化学合成独立栄養株は、窒素固定が可能である。
+ 
+  Xanthobacter is a genus of Gram-negative bacteria in the family Xanthobacteraceae. As mentioned above, in one embodiment, the mutant chemoautotrophic strains (i.e., mutants comprising a genetic disruption of one or more genes encoding PHA synthase) used in the methods of the present invention are of the genus Xanthobacter.  Preferably, the strain is selected from the group consisting of X. agilis, X. aminoxidans, X. autotrophicus, X. flavus, X. tagetidis, X. viscosus, Xanthobacter sp. 126, Xanthobacter sp. 91 and VTT-E-193585 strains.  In one embodiment, the mutated chemoautotrophic strain used in the method of the present invention is a strain that uses the Calvin Benson Basham pathway to convert carbon dioxide into essential organic compounds, such as glucose.  In one embodiment, the mutant chemoautotrophic strain used in the methods of the present invention is a strain that uses NiFeSe-hydrogenase to convert hydrogen (H  2  ) into cellular energy equivalents.  In one embodiment, the mutant chemoautotrophic strain used in the methods of the present invention is a strain that uses NAD  +  reductive hydrogenase to convert hydrogen (  H2  ) into cellular energy equivalents.  In one embodiment, the mutated chemoautotrophic strain used in the methods of the present invention is capable of nitrogen fixation.
+ 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号１に示される１６ＳリボソームＲＮＡ、又は配列番号１と最大２０個、例えば１～１０個、１～５個等、例えば配列番号１と１、２若しくは３個のヌクレオチドの相違を有する１６ＳリボソームＲＮＡを含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号３に示される配列、又は配列番号３に示される配列と９３％を超える同一性、例えば９５％を超える同一性等、９６％を超える同一性等、例えば９７％を超える同一性、９８％を超える同一性等、例えば９９％を超える配列同一性を有する配列を有するリブロース－１，５－二リン酸カルボキシラーゼ／オキシゲナーゼ（ルビスコ）大鎖をコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号５に示される配列、又は配列番号５に示される配列と８３％を超える配列同一性、例えば８６％を超える同一性、９０％を超える同一性等、例えば９５％を超える同一性等、９６％を超える同一性等、例えば９７％を超える同一性、９８％を超える同一性等、例えば９９％を超える配列同一性を有する配列を有するリブロース－１，５－二リン酸カルボキシラーゼ／オキシゲナーゼ（ルビスコ）小鎖をコードする遺伝子を含む。
+ 
+  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a 16S ribosomal RNA as set forth in SEQ ID NO:1, or a 16S ribosomal RNA having up to 20 nucleotide differences from SEQ ID NO:1, such as 1-10, 1-5, etc., such as 1, 2 or 3 nucleotide differences from SEQ ID NO:1.  In another embodiment, the variant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding a ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) large chain having a sequence as set forth in SEQ ID NO:3 or a sequence having more than 93% identity, such as more than 95% identity, such as more than 96% identity, such as more than 97% identity, such as more than 98% identity, for example more than 99% sequence identity to the sequence as set forth in SEQ ID NO:3.  In another embodiment, the variant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding a ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) small chain having a sequence as set forth in SEQ ID NO:5 or a sequence having more than 83% sequence identity to the sequence as set forth in SEQ ID NO:5, such as more than 86% identity, such as more than 90% identity, such as more than 95% identity, such as more than 96% identity, such as more than 97% identity, such as more than 98% identity, such as more than 99% sequence identity.
+ 
+ 
+ 
+   
+  配列番号２：リブロースビスリン酸カルボキシラーゼ大鎖のヌクレオチド配列： 
+ 
+ATGGGTGCCGAAGCAACCGTCGGGCAGATCACGGACGCCAAGAAGAGATACGCCGCCGGCGTGCTGAAGTACGCCCAGATGGGCTACTGGAACGGCGACTACGTTCCCAAGGACACCGACCTCCTGGCGGTGTTCCGCATCACCCCCCAGGCGGGCGTGGACCCGGTGGAAGCCGCCGCGGCGGTCGCCGGCGAAAGCTCCACCGCTACCTGGACCGTGGTGTGGACCGACCGGCTCACCGCCGCCGACGTCTACCGCGCCAAGGCCTACAAGGTGGAGCCGGTGCCGGGCCAGGAAGGCCAGTATTTCTGCTACATCGCCTATGATCTCGATTTGTTCGAGGAAGGCTCCATCGCCAACCTCACGGCGTCGATCATCGGCAACGTCTTCTCCTTCAAGCCGCTGAAGGCGGCGCGGCTGGAGGACATGCGGCTTCCCGTCGCCTATGTGAAGACCTTCCGCGGCCCGCCCACCGGCATCGTGGTCGAGCGCGAGCGCCTGGACAAGTTCGGCCGCCCCCTTCTGGGCGCCACCACCAAGCCGAAGCTTGGCCTCTCGGGCAAGAATTACGGCCGCGTGGTCTATGAGGCCCTCAAGGGCGGCCTCGACTTCGTGAAGGACGACGAGAACATCAACTCGCAGCCCTTCATGCACTGGCGCGATCGCTTCCTCTATTGCATGGAGGCCGTCAACAAGGCCCAGGCCGAGACCGGCGAGGTGAAGGGGCACTATCTCAACATCACCGCCGGGACCATGGAGGAGATGTACCGCCGCGCCGAGTTCGCCAAGGAACTGGGCTCCGTGGTGGTGATGGTGGATCTCATCATCGGCTGGACCGCCATCCAGTCCATGTCCAACTGGTGCCGCGAGAACGACATGATCCTGCACATGCACCGTGCGGGCCATGGCACCTACACGCGCCAGAAGAGCCACGGCGTCTCCTTCCGCGTCATCGCCAAGTGGCTGCGGCTCGCCGGCGTCGACCACCTGCACACCGGCACCGCCGTGGGCAAGCTGGAAGGCGACCCCATGACCGTGCAGGGCTTCTACAATGTCTGCCGCGAGACGACGACGCAGCAGGACCTCACCCGCGGCCTGTTCTTCGAGCAGGACTGGGGCGGCATCCGCAAGGTGATGCCGGTGGCCTCCGGCGGCATCCATGCGGGCCAGATGCACCAGCTCATCGACCTGTTCGGCGAGGACGTGGTGCTCCAGTTCGGCGGCGGCACCATCGGCCACCCGGACGGCATCCAGGCCGGCGCCACCGCCAACCGCGTGGCGCTGGAAACCATGATCCTCGCCCGCAACGAGGGCCGCGACATCAGGAACGAGGGCCCGGAAATCCTGGTGGAAGCCGCCAAATGGTGCCGTCCGCTGCGCGCGGCGCTCGATACCTGGGGCGAGGTGACCTTCAACTACGCCTCCACCGACACGTCCGATTACGTGCCCACCGCGTCCGTCGCCTGA
+ 
+  SEQ ID NO:2: Nucleotide sequence of ribulose bisphosphate carboxylase large chain:   
+ 
+ 
+ 
+   
+  配列番号３：リブロース二リン酸カルボキシラーゼ大鎖のアミノ酸配列 
+ 
+MGAEATVGQITDAKKRYAAGVLKYAQMGYWNGDYVPKDTDLLAVFRITPQAGVDPVEAAAAVAGESSTATWTVVWTDRLTAADVYRAKAYKVEPVPGQEGQYFCYIAYDLDLFEEGSIANLTASIIGNVFSFKPLKAARLEDMRLPVAYVKTFRGPPTGIVVERERLDKFGRPLLGATTKPKLGLSGKNYGRVVYEALKGGLDFVKDDENINSQPFMHWRDRFLYCMEAVNKAQAETGEVKGHYLNITAGTMEEMYRRAEFAKELGSVVVMVDLIIGWTAIQSMSNWCRENDMILHMHRAGHGTYTRQKSHGVSFRVIAKWLRLAGVDHLHTGTAVGKLEGDPMTVQGFYNVCRETTTQQDLTRGLFFEQDWGGIRKVMPVASGGIHAGQMHQLIDLFGEDVVLQFGGGTIGHPDGIQAGATANRVALETMILARNEGRDIRNEGPEILVEAAKWCRPLRAALDTWGEVTFNYASTDTSDYVPTASVA
+ 
+  SEQ ID NO: 3: Amino acid sequence of the ribulose bisphosphate carboxylase large chain    MGAEATVGQITDAKKRYAAGVLKYAQMGYWNGDYVPKDTDLLAVFRITPQAGVDPVEAAAAVAGESSTATWTVVWTDRLTAADVYRAKAYKVEPVPGQEGQYFCYIAYDLDLFEEGSIANLTASIIGNVFSFKPLKAARLEDMRLPVAYVKTFRGPPTGIVVERERLDKFGRPLLGATTKPKLGLSGKNYGRVVYEALKGGLDFVKDDENINSQPFMHWRDRFLYCMEAVNKAQAETGEVKGHY LNITAGTMEEMYRRAEFAKELGSVVVMVDLIIGWTAIQSMSNWCRENDMILHMHRAGHGTYTRQKSHGVSFRVIAKWLRLAGVDHLHTGTAVGKLEGDPMTVQGFYNVCRETTTQQDLTRGLFFEQDWGGIRKVMPVASGGIHAGQMHQLIDLFGEDVVLQFGGGTIGHPDGIQAGATANRVALETMILARNEGRDIRNEGPEILVEAAKWCRPLRAALDTWGEVTFNYASTDTSDYVPTASVA
+ 
+ 
+ 
+   
+  配列番号４：リブロースビスリン酸カルボキシラーゼ小鎖のヌクレオチド配列： 
+ATGCGCATCACCCAAGGCTCCTTCTCCTTCCTGCCGGACCTCACCGACACGCAGATCAAGGCCCAGGTGCAATATTGCCTGGACCAGGGCTGGGCGGTCTCGGTGGAGCACACCGACGATCCCCACCCGCGCAACACCTATTGGGAGATGTGGGGCCCGCCCATGTTCGATCTGCGCGACGCGGCCGGCGTCTTCGGCGAGATCGAAGCCTGCCGGGCCGCCAATCCCGAGCATTATGTGCGGGTGAACGCCTTCGATTCCAGCCGCGGATGGGAGACGATCCGCCTGTCCTTCATCGTTCAGCGGCCCACCGTGGAAGAGGGCTTCCGCCTCGACCGCACCGAAGGCAAGGGCCGCAACCAGAGCTACGCCATGCGCTACCGGGCGCAGTTCGCGCCGCGCTGA
+ 
+  SEQ ID NO: 4: Nucleotide sequence of ribulose bisphosphate carboxylase small chain:  ATGCGCATCACCCAAGGCTCCTTCTCCTTCCTGCCGGACCTCACCGACACGCAGATCAAGGCCCAGGTGCAATATTGCCTGGACCAGGGCTGGGCGGTCTCGGTGGAGCACACCGACGATCCCCACCCGCGCAACACCTATTGGGAGATGTGGGGCCCGCCCATGTTCGATCTGCGCGACGCGGCCGGCGTCTTCGGCGAGATCGAAGCCTGCCGGGCCGCCAATCCCGAGCATTATGTGCGGGTGAACGCCTTCGATTCCAGCCGCGGATGGGAGACGATCCGCCTGTCCTTCATCGTTCAGCGGCCCACCGTGGAAGAGGGCTTCCGCCTCGACCGCACCGAAGGCAAGGGCCGCAACCAGAGCTACGCCATGCGCTACCGGGCGCAGTTCGCGCCGCGCTGA
+ 
+ 
+ 
+   
+  配列番号５：リブロースビスリン酸カルボキシラーゼ小鎖のアミノ酸配列： 
+ 
+MRITQGSFSFLPDLTDTQIKAQVQYCLDQGWAVSVEHTDDPHPRNTYWEMWGPPMFDLRDAAGVFGEIEACRAANPEHYVRVNAFDSSRGWETIRLSFIVQRPTVEEGFRLDRTEGKGRNQSYAMRYRAQFAPR
+ 
+  SEQ ID NO: 5: Amino acid sequence of ribulose bisphosphate carboxylase small chain:    MRITQGSFSFLPDLTDTQIKAQVQYCLDQGWAVSVEHTDDPHPRNTYWEMWGPPMFDLRDAAGVFGEIEACRAANPEHYVRVNAFDSSRGWETIRLSFIVQRPTVEEGFRLDRTEGKGRNQSYAMRYRAQFAPR
+ 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号７に示される配列、又は配列番号７に示される配列と７０％を超える配列同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットアルファをコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号９に示される配列、又は配列番号９に示される配列と７７％を超える配列同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットベータをコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号１１に示される配列、又は配列番号１１に示される配列と７０％を超える配列同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットガンマをコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号１３に示される配列、又は配列番号１３に示される配列と７９％を超える配列同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットデルタをコードする遺伝子を含む。
+ 
+  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the present invention comprises a gene encoding an NAD+ reducing hydrogenase HoxS subunit alpha having a sequence as set forth in SEQ ID NO:7, or a sequence having more than 70% sequence identity, more than 80% identity, such as more than 90% identity, more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, to the sequence as set forth in SEQ ID NO:  7  .  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding an NAD+ reducing hydrogenase HoxS subunit beta having a sequence as set forth in SEQ ID NO:9 or a sequence having more than 77% sequence identity, more than 80% identity, such as more than 90% identity, more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, to the sequence as set forth in SEQ ID NO:  9  .  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding an NAD+ reducing hydrogenase HoxS subunit gamma having a sequence as set forth in SEQ ID NO:11, or a sequence having more than 70% sequence identity, more than 80% identity, such as more than 90% identity, more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, to the sequence as set forth in SEQ ID NO:  11  .  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding an NAD+ reducing hydrogenase HoxS subunit delta having a sequence as set forth in SEQ ID NO:13, or a sequence having more than 79% sequence identity, more than 80% identity, such as more than 90% identity, more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, to the sequence as set forth in SEQ ID NO:  13  .
+ 
+ 
+ 
+   
+  配列番号６：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットアルファのヌクレオチド配列： 
+ 
+ATGATGCCATCTGAGCCGCACGGCGCGGGCATGCCGCCCCCACGGGAAGCGGCCGCGGTTCCCACCCCCCAGGAGGTGAGCGCGGTGGTGGCCGAGGTGGTCGCGGATGCCGTGGCATCGGTGGGCGGCGCACGCACCCGGCTCATGGACATCGTCCAGCTGGCCCAGCAGCGTCTCGGCCATCTCTCCGAAGAGACCATGGCGGCCATTGCCGCGCGGCTCGCCATTCCGCCGGTGGAAGTGGCGGACATGGTGTCCTTCTACGCCTTCCTGAACCGCGCGCCCAAGGGCCGCTACCACATCCGCCTGTCGCGCAGCCCCATCTCGCTGATGAAGGGCGCCGAGGCGGTGGCTGCCGCCTTCTGCCAGATCCTCGGCATCGCCATGGGCGAGACCTCGCAGGATGGCGACTTCACCCTGGAATGGACCAACGACATCGGCATGGCCGACCAGGAGCCGGCCGCCCTCGTCAACGGCACGGTGATGACGCAGCTCGCGCCCGGCGATGCGGCCATCATCGTCGGCCGGCTGCGGGCCCATCACGCGCCCAATGCCCTGCCGCTGTTCCCTGGAGCCGGCGTGGCCGGCTCCGGCCTGCCCCATGCCCGGATCCGCCCCAGCCTGGTGATGCCGGGACAGCTTCTGTTCCGCGAGGACCACACGACGCCGGGCGCCGGCATCAAGGCGGCACTCGCCCTCACCCCGGACGAAGTGGTGCAGAAGGTCTCCGCCGCGCGCCTGCGCGGGCGGGGTGGCGCCGGCTTTCCCACCGGTCTCAAATGGAAGCTCTGCCGCCAGTCGCCCGCCACCACCCGCCATGTGATCTGCAATGCGGACGAGGGCGAGCCCGGCACCTTCAAGGATCGCGTGCTGCTCACGCAGGCGCCGCACCTCATGTTCGACGGCATGACCATCGCCGGCTACGCCTTGGGGGCGCGGGAGGGCGTGGTCTATCTGCGCGGCGAGTACGCCTATCTGTGGGAGCCTCTGCATGCGGTCCTGCGCGAGCGCTATGGGCTCGGGCTCGCCGGCGCGAACATCCTGGGACACGCGGGCTTCGACTTCGACATCCGCATCCAGCTGGGCGCCGGCGCCTATATCTGCGGCGAGGAATCCGCGCTGGTGGAATCGCTGGAAGGCAAGCGCGGCTCGCCCCGCGACCGCCCCCCCTTCCCCACCGTGCGCGGCCATCTCCAGCAGCCCACCGCCGTGGACAATGTGGAGACCTTCGCCTGCGCCGCCCGCATCCTGGAGGATGGCGTGGAGGCGTTCGCGGGCATCGGCACGCCCGAATCCGCCGGCACGAAGCTCCTCTCGGTGTCGGGCGATTGCCCGCGCCCCGGCGTGTATGAGGTGCCCTTCGGCCTCACGGTGAACGCGCTGCTCGACCTTGTCGGCGCGCCGGACGCCGCCTTCGTGCAGATGGGTGGGCCGTCCGGCCAATGCGTGGCGCCGAAGGATTACGGCCGCCGCATCGCCTTCGAGGACCTGCCCACCGGCGGCTCGGTGATGGTGTTCGGCCCGGGGCGCGACGTGCTCGCCATGGTGCGCGAGTTCGCGGATTTCTTCGCCGGCGAATCCTGCGGCTGGTGCACGCCCTGCCGGGTGGGCACCACCTTGCTCAAGGAAGAGCTGGACAAGCTCCTCGCCAACCGCGCCACCCTCGCCGACATCCGCGCGCTGGAGACCCTGGCCACGACCGTCTCCCGCACCAGCCGCTGCGGCCTCGGCCAGACGGCGCCCAACCCCATCCTTTCCACCATGCGCAACCTGCCGGAAGCCTATGAGGCGAGGCTGAGGCCCGAAGACTTCCTGCCCTGGGCCTCGCTCGACGAGGCGCTGAAGCCCGCCATCGTCATCCAGGGCCGCGCGCCCGTGCCGGAGGAAGAGGCATGA
+ 
+  SEQ ID NO:6: Nucleotide sequence of NAD  +  reducing hydrogenase HoxS subunit alpha:   
+ 
+ 
+ 
+   
+  配列番号７：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットアルファのアミノ酸配列： 
+ 
+MMPSEPHGAGMPPPREAAAVPTPQEVSAVVAEVVADAVASVGGARTRLMDIVQLAQQRLGHLSEETMAAIAARLAIPPVEVADMVSFYAFLNRAPKGRYHIRLSRSPISLMKGAEAVAAAFCQILGIAMGETSQDGDFTLEWTNDIGMADQEPAALVNGTVMTQLAPGDAAIIVGRLRAHHAPNALPLFPGAGVAGSGLPHARIRPSLVMPGQLLFREDHTTPGAGIKAALALTPDEVVQKVSAARLRGRGGAGFPTGLKWKLCRQSPATTRHVICNADEGEPGTFKDRVLLTQAPHLMFDGMTIAGYALGAREGVVYLRGEYAYLWEPLHAVLRERYGLGLAGANILGHAGFDFDIRIQLGAGAYICGEESALVESLEGKRGSPRDRPPFPTVRGHLQQPTAVDNVETFACAARILEDGVEAFAGIGTPESAGTKLLSVSGDCPRPGVYEVPFGLTVNALLDLVGAPDAAFVQMGGPSGQCVAPKDYGRRIAFEDLPTGGSVMVFGPGRDVLAMVREFADFFAGESCGWCTPCRVGTTLLKEELDKLLANRATLADIRALETLATTVSRTSRCGLGQTAPNPILSTMRNLPEAYEARLRPEDFLPWASLDEALKPAIVIQGRAPVPEEEA
+ 
+  SEQ ID NO:7: Amino acid sequence of NAD  +  reducing hydrogenase HoxS subunit alpha:   
+ 
+ 
+ 
+   
+  配列番号８：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットベータのヌクレオチド配列： 
+ 
+ATGAGCCGGGGATCCCCCGATGCCGGGAAAGACCGCACCATGAGCGCCACCGACGGCACCACCGCCCCCCGCAAGATCGTCATCGATCCGGTGACCCGCGTGGAGGGCCACGGCAAGGTCACCATCCGCCTGGATGAAGCCGGCGCGGTGGAGGATGCGCGTTTCCACATCGTGGAGTTCCGCGGCTTCGAGCGGTTCATCCAGGGCCGGATGTACTGGGAAGTGCCCCTTATCATCCAGCGGCTGTGCGGCATCTGCCCGGTGAGCCACCATCTGGCGGCGGCGAAAGCCATGGACCAGGTGGCGGGCGTGGACCGCGTACCGCCCACCGCCGAGAAACTGCGCCGGCTGATGCATTATGGGCAGGTGCTGCAATCCAACGCTTTGCACATCTTCCACCTCGCCTCGCCCGACCTCCTGTTCGGCTTCGACGCGCCGGCCGAGCAGCGCAACATCATCGCCGTGCTCCAGCGTTATCCGGAGATCGGCAAATGGGCGATCTTCATCAGGAAGTTCGGCCAGGAGGTCATCAAGGCCACCGGCGGGCGCAAGATCCATCCCACCAGCGCCATTCCCGGCGGGGTCAACCAGAACCTCGCCGTGGAGGACCGCGACGCCCTGCGCGCCAAGGTGGGCGAGATCATCAGCTGGTGCATGGCGGCGCTGGACCATCACAAGGCCTATGTGGCGGAAAACCGGGCGCTGCATGACAGCTTCGCCGCCTTCCCCTCCGCCTTCATGAGCCTCGTGGGGCCGGATGGCGGCATGGACCTTTATGACGGCACCCTGCGGGTGATCGATGCCGAGGGCGCCCCCCTCATCGAAGGCGCGCCGCCCGCCTCCTACCGCGACCACCTCATCGAGGAGGTGCGGCCCTGGAGCTATCTGAAATTCCCCCATCTGCGCGCCTTCGGCCGCGACGATGGCTGGTATCGGGTCGGCCCCCTCGCCCAGGTCAATTGCGCCGCGTCCATCGACACGCCCCGCGCCGAGGCGGCCCGGCGGGACTTCATGGCCGAGGGCGGCGGCAAGCCGGTGCATGCCACCCTCGCTTATCACTGGGCGCGGCTCATCGTGCTGGTCCATTGCGCGGAGAAGATCGAACAGCTGCTGTTCGACGACGACCTGCAAGGCTGCGATCTGCGTGCGGAGGGCACCCGGCGCGGGGAAGGCGTCGCCTGGATCGAGGCGCCGCGCGGCACCCTCATCCACCATTACGAGGTGGACGAGAACGACCAGGTGCGCCGCGCCAACCTCATCGTCTCCACCACCCACAATAACGAGGCCATGAACCGCGCCGTGCGGCAGGTGGCGAAGACGGACCTTTCCGGTCGCGAGATCACCGAAGGGCTGCTGAACCATATCGAGGTGGCCATCCGCGCCTTCGACCCCTGCCTGTCCTGCGCCACCCATGCGCTGGGCCAGATGCCGCTGATCGTGACGCTTGAAGATGCCTCCGGCGCAGAGATCGCCCGCGGAGTGAAGGAATGA
+ 
+  SEQ ID NO:8: Nucleotide sequence of NAD  +  reducing hydrogenase HoxS subunit beta:   
+ 
+ 
+ 
+   
+  配列番号９：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットベータのアミノ酸配列： 
+ 
+MSRGSPDAGKDRTMSATDGTTAPRKIVIDPVTRVEGHGKVTIRLDEAGAVEDARFHIVEFRGFERFIQGRMYWEVPLIIQRLCGICPVSHHLAAAKAMDQVAGVDRVPPTAEKLRRLMHYGQVLQSNALHIFHLASPDLLFGFDAPAEQRNIIAVLQRYPEIGKWAIFIRKFGQEVIKATGGRKIHPTSAIPGGVNQNLAVEDRDALRAKVGEIISWCMAALDHHKAYVAENRALHDSFAAFPSAFMSLVGPDGGMDLYDGTLRVIDAEGAPLIEGAPPASYRDHLIEEVRPWSYLKFPHLRAFGRDDGWYRVGPLAQVNCAASIDTPRAEAARRDFMAEGGGKPVHATLAYHWARLIVLVHCAEKIEQLLFDDDLQGCDLRAEGTRRGEGVAWIEAPRGTLIHHYEVDENDQVRRANLIVSTTHNNEAMNRAVRQVAKTDLSGREITEGLLNHIEVAIRAFDPCLSCATHALGQMPLIVTLEDASGAEIARGVKE
+ 
+  SEQ ID NO:9: Amino acid sequence of NAD  +  reducing hydrogenase HoxS subunit beta:    MSRGSPDAGKDRTMSATDGTTAPRKIVIDPVTRVEGHGKVTIRLDEAGAVEDARFHIVEFRGFERFIQGRMYWEVPLIIQRLCGICPVSHHLAAAKAMDQVAGVDRVPPTAEKLRRLMHYGQVLQSNALHIFHLASPDLLFGFDAPAEQRNIIAVLQRYPEIGKWAIFIRKFGQEVIKATGGRKIHPTSAIPGGVNQNLAVEDRDALRAKVGEIISWCMAALDHHKAYVAENRALHDSFAAFPSAFMS LVGPDGGMDLYDGTLRVIDAEGAPLIEGAPPASYRDHLIEEVRPWSYLKFPHLRAFGRDDGWYRVGPLAQVNCAASIDTPRAEAARRDFMAEGGGKPVHATLAYHWARLIVLVHCAEKIEQLLFDDDLQGCDLRAEGTRRGEGVAWIEAPRGTLIHHYEVDENDQVRRANLIVSTTHNNEAMNRAVRQVAKTDLSGREITEGLLNHIEVAIRAFDPCLSCATHALGQMPLIVTLEDASGAEIARGVKE
+ 
+ 
+ 
+   
+  配列番号１０：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットガンマのヌクレオチド配列： 
+ 
+ATGAGCGAGACCCCCTTCACCTTTACCGTGGACGGCATCGCGGTCCCGGCCACCCCCGGCCAGAGCGTCATCGAGGCGTGCGATGCGGCGGGCATCTATATCCCGCGCCTGTGCCACCACCCGGACCTGCCGCCGGCGGGCCATTGCCGGGTGTGCACCTGCATCATCGACGGGCGGCCGGCCAGCGCCTGCACCATGCCCGCCGCCAGGGGCATGGTGGTGGAGAACGAGACGCCCGCTTTGCTGGCGGAGCGGCGCACGCTGATCGAGATGCTGTTCGCGGAAGGCAACCATTTCTGCCAGTTCTGCGAGGCGAGCGGCGATTGCGAATTGCAGGCGCTGGGCTACCTGTTCGGCATGGTGGCCCCGCCCTTCCCCCATCTGTGGCCGAAGCGGCCGGTGGATGCCAGCCATCCGGATATCTATATCGACCACAATCGCTGCATCCTGTGCTCGCGCTGCGTGCGCGCCTCGCGCACCCTGGACGGCAAGTCCGTGTTCGGCTTCGAGGGGCGCGGCATCGAGATGCATCTGGCGGTGACCGGCGGGCACCTGGACGACAGCGCCATCGCCGCCGCCGACAGGGCGGTTGAGATGTGCCCGGTGGGCTGCATCGTCCTCAAGCGCACCGGCTACCGCACGCCCTATGGCCGGCGGCGCTACGACGCCGCGCCCATCGGCTCCGACATCACCGCCCGGCGCGGCGGCGCGAAGGACTGA
+ 
+  SEQ ID NO:10: Nucleotide sequence of NAD  +  reducing hydrogenase HoxS subunit gamma:   
+ 
+ 
+ 
+   
+  配列番号１１：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットガンマのアミノ酸配列： 
+ 
+MSETPFTFTVDGIAVPATPGQSVIEACDAAGIYIPRLCHHPDLPPAGHCRVCTCIIDGRPASACTMPAARGMVVENETPALLAERRTLIEMLFAEGNHFCQFCEASGDCELQALGYLFGMVAPPFPHLWPKRPVDASHPDIYIDHNRCILCSRCVRASRTLDGKSVFGFEGRGIEMHLAVTGGHLDDSAIAAADRAVEMCPVGCIVLKRTGYRTPYGRRRYDAAPIGSDITARRGGAKD
+ 
+  SEQ ID NO:11: Amino acid sequence of NAD  +  -reducing hydrogenase HoxS subunit gamma:    MSETPFTFTVDGIAVPATPGQSVIEACDAAGIYIPRLCHHPDLPPAGHCRVCTCIIDGRPASACTMPAARGMVVENETPALLAERRTLIEMLFAEGNHFCQFCEASGDCELQALGYLFGMVAPPFPHLWPKRPVDASHPDIYIDHNRCILCSRCVRASRTLDGKSVFGFEGRGIEMHLAVTGGHLDDSAIAAADRAVEMCPVGCIVLKRTGYRTPYGRRRYDAAPIGSDITARRGGAKD
+ 
+ 
+ 
+   
+  配列番号１２：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットデルタのヌクレオチド配列： 
+ 
+ATGGCCAAGCCCAAACTCGCCACCTGCGCGCTGGCCGGCTGCTTCGGCTGCCACATGTCCTTCCTGGACATGGACGAGCGCATCGTCGAGCTCATCGACCTGGTGGACCTCGACGTCTCGCCCCTCGACGACAAGAAAAACTTCACCGGCATGGTGGAAATCGGCCTGGTGGAAGGCGGCTGCGCCGACGAGCGCCATGTGAAGGTGCTGCGCGAGTTCCGCGAGAAATCCCGCATCCTGGTGGCGGTGGGCGCCTGCGCCATCACCGGCGGCATCCCGGCATTGCGCAACCTCGCCGGCCTCGACGAATGCCTGAGGGAAGCCTACCTCACCGGCCCCACGGTGGAAGGCGGCGGGCTCATTCCCAACGACCCGGAGCTGCCGCTGCTGCTGGACAAGGTCTATCCGGTGCAGGACTTCGTGAAGATCGACCATTTCCTGCCCGGCTGCCCGCCCTCGGCCGACGCCATCTGGGCGGCTCTGAAGGCGCTGCTGACCGGCACCGAGCCGCATCTGCCCTACCCGCTTTTCAAGTACGAATGA
+ 
+  SEQ ID NO:12: Nucleotide sequence of NAD  +  reducing hydrogenase HoxS subunit delta:   
+ 
+ 
+ 
+   
+  配列番号１３：ＮＡＤ ＋ 還元ヒドロゲナーゼＨｏｘＳサブユニットデルタのアミノ酸配列： 
+ 
+MAKPKLATCALAGCFGCHMSFLDMDERIVELIDLVDLDVSPLDDKKNFTGMVEIGLVEGGCADERHVKVLREFREKSRILVAVGACAITGGIPALRNLAGLDECLREAYLTGPTVEGGGLIPNDPELPLLLDKVYPVQDFVKIDHFLPGCPPSADAIWAALKALLTGTEPHLPYPLFKYE
+ 
+  SEQ ID NO:13: Amino acid sequence of NAD  +  reducing hydrogenase HoxS subunit delta:    MAKPKLATCALAGCFGCHMSFLDMDERIVELIDLVDLDVSPLDDKKNFTGMVEIGLVEGGCADERHVKVLREFREKSRILVAVGACAITGGIPALRNLAGLDECLREAYLTGPTVEGGGLIPNDPELPLLLDKVYPVQDFVKIDHFLPGCPPSADAIWAALKALLTGTEPHLPYPLFKYE
+ 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号１５に示される配列、又は配列番号１５に示される配列と８４％を超える配列同一性、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＮｉＦｅＳｅヒドロゲナーゼ大サブユニットをコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号１７に示される配列、又は配列番号１７に示される配列と９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＮｉＦｅＳｅヒドロゲナーゼ小サブユニットをコードする遺伝子を含む。
+ 
+  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding a NiFeSe hydrogenase large subunit having a sequence as set forth in SEQ ID NO:15, or a sequence having more than 84% sequence identity to the sequence as set forth in SEQ ID NO:15, such as more than 90% identity, more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, etc.  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding a NiFeSe hydrogenase small subunit having a sequence as set forth in SEQ ID NO:17, or a sequence having more than 90% identity, such as more than 95% identity, such as more than 96% identity, such as more than 97% identity, such as more than 98% sequence identity, such as more than 99% sequence identity to the sequence as set forth in SEQ ID NO:17.
+ 
+ 
+ 
+   
+  配列番号１４：ペリプラズム［ＮｉＦｅＳｅ］ヒドロゲナーゼ大サブユニットのヌクレオチド配列： 
+ 
+TCCAGACCCGGGCAACATTGCTCCATGTGCTGGGCACCCTGGCCGGCCGCTGGCCCCATACCCTCGCGCTCCAGCCCGGCGGGGTGACCCGAAGCGCCGACCAGCACGACCGCATGCGCCTGCTCGCGACGCTGAAGGCGGTGCGGGCGGCGCTGGAAGAGACCTTGTTCGGCGCGCCTTTGGAAGAGGTGGCGGCCCTGGACGGCGCCGCCGCCGTGGAGGCCTGGCGCGCCAACGGCCCGGAAGGGGATTTCCGCCTGTTCCTGGAGATCGCCGCCGACCTGGAGCTGGACCGGCTCGGCCGCGCGCACGACCGCTTTCTCTCCTTCGGCGCCTACGCCCAGGACGAGGGGCGCCTTTATGGCGCCGGCACCTTCGAGGCCGGGACGGCGGGAGGGCTCGATCCCAACGCCATCACCGAGGACCACGCCTTCGCCCGCATGGAGGACCGCGCGGCGCCCCATGCGCCCTTTGACGGCTCCACCTTCCCCGATGCCGACGACACCGAGGGCTACACCTGGTGCAAGGCGCCGCGCCTTGCCGGCCTGCCCTTCGAGACCGGCGCCTTCGCCCGGCAGGTGGTGGCGGGCCATCCGCTCGCCCGGGACCTCGTGACGCGGGAAGGCGGCACTGTGCGCAGCCGCGTGGTCGGCCGGCTGCTGGAAACCGCGCGCACCCTGATCGCCATGGAGGGCTGGGTGAAGGAACTGCGGCCCGAAGGGCCCTGGTGCGCCCAGGGCCACCTGCCCCAGGAAGGCCGCGCCTTCGGCCTCACCGAGGCGGCGCGCGGGGCGCTCGGCCACTGGATGGTGGTGGAGAAGGGCCGCATTGCCCGCTACCAGATCATCGCCCCCACCACCTGGAACTTCTCCCCCCGCGACGGCGCGGGCCTGCCCGGCCCGCTGGAGACGGCCCTGGTGGGCGCGCCCGTGCGGCAGGGAGAGACGACGCCCGTGAGCGTGCAGCACATCGTGCGCTCCTTCGACCCGTGCATGGTCTGCACTGTGCATTGA
+ 
+  SEQ ID NO:14: Nucleotide sequence of the periplasmic [NiFeSe] hydrogenase large subunit:   
+ 
+ 
+ 
+   
+  配列番号１５：ペリプラズム［ＮｉＦｅＳｅ］ヒドロゲナーゼ大サブユニットのアミノ酸配列： 
+ 
+MSAETRRLVVGPFNRVEGDLEVRLDVQDGRVQQAFVSSPLFRGFERILEGRDPRDALVIAPRICGICSVSQSHAAALALAGLQGIAPTHDGRIATNLIVAAENVADHLTHFHVFFMPDFARAVYEDRPWFAQAARRFKANQGVSVRRALQTRATLLHVLGTLAGRWPHTLALQPGGVTRSADQHDRMRLLATLKAVRAALEETLFGAPLEEVAALDGAAAVEAWRANGPEGDFRLFLEIAADLELDRLGRAHDRFLSFGAYAQDEGRLYGAGTFEAGTAGGLDPNAITEDHAFARMEDRAAPHAPFDGSTFPDADDTEGYTWCKAPRLAGLPFETGAFARQVVAGHPLARDLVTREGGTVRSRVVGRLLETARTLIAMEGWVKELRPEGPWCAQGHLPQEGRAFGLTEAARGALGHWMVVEKGRIARYQIIAPTTWNFSPRDGAGLPGPLETALVGAPVRQGETTPVSVQHIVRSFDPCMVCTVH
+ 
+  SEQ ID NO: 15: Amino acid sequence of the periplasmic [NiFeSe] hydrogenase large subunit:    MSAETRRLVVGPFNRVEGDLEVRLDVQDGRVQQAFVSSPLFRGFERILEGRDPRDALVIAPRICGICSVSQSHAAALALAGLQGIAPTHDGRIATNLIVAAENVADHLTHFHVFFMPDFARAVYEDRPWFAQAARRFKANQGVSVRRALQTRATLLHVLGTLAGRWPHTLALQPGGVTRSADQHDRMRLLATLKAVRAALEETLFGAPLEEVAALDGAAAVEAWRANGPEGDFRLFLEIAAD LELDRLGRAHDRFLSFGAYAQDEGRLYGAGTFEAGTAGGLDPNAITEDHAFARMEDRAAPHAPFDGSTFPDADDTEGYTWCKAPRLAGLPFETGAFARQVVAGHPLARDLVTREGGTVRSRVVGRLLETARTLIAMEGWVKELRPEGPWCAQGHLPQEGRAFGLTEAARGALGHWMVVEKGRIARYQIIAPTTWNFSPRDGAGLPGPLETALVGAPVRQGETTPVSVQHIVRSFDPCMVCTVH
+ 
+ 
+ 
+   
+  配列番号１６：ペリプラズム［ＮｉＦｅＳｅ］ヒドロゲナーゼ小サブユニットのヌクレオチド配列 
+ 
+ACGGGGGAGGAAGCCCGCGCCATCTTCGACGCCATCCTTGCCGGCGTTATCGTCCTCGACGCCCTGTGCGTGGAAGGCGCGCTGCTGCGCGGGCCGAACGGCACCGGGCGCTTCCATGTGCTGGCGGGCACGGACACCCCCACCATCGACTGGGCGCGGCAGCTCGCCGGCATGGCGCGCCACGTGGTGGCGGTGGGCACCTGCGCCGCCTATGGGGGCGTGACGGCGGCGGGCATCAACCCCACCGATGCCTGCGGCCTCCAGTTCGACGGACGCCGGAAGGGTGGGGCGCTGGGGGCGGACTTCCGCTCCCGCTCGGGGCTTCCGGTCATCAATGTGGCCGGCTGCCCCACCCATCCCAACTGGGTGACGGAAACCCTGATGCTGCTCGCCTGCGGCCTGCTGGGCGAGGCCGACCTCGACGTCTATGGCCGCCCGCGCTTCTATGCGGACCTGCTGGTGCATCACGGCTGCCCGCGCAACGAATACTATGAATACAAGGCGAGCGCCGAGAAGATGAGCGACCTCGGCTGCATGATGGAGCATCTGGGCTGCCTCGGCACCCAGGCCCACGCCGACTGCAACACGCGCCTTTGGAATGGCGAGGGCTCGTGCACCCGCGGCGGCTATGCCTGCATCAACTGCACGGCGCCGGAATTCGAGGAGCCGGGCCACGCCTTCCTGGAGACGCCCAAGATCGGCGGCATCCCCATCGGCCTGCCCACCGACATGCCCAAGGCCTGGTTCATCGCCTTGTCCTCCCTCGCCAAGGCGGCGACGCCGGAGCGGCTGCGCAAGAACGCGGTGTCCGACCATGTGGTCACGCCGCCCGCCGTCAAGGACATCAAGCGGCGATGA
+ 
+  SEQ ID NO: 16: Nucleotide sequence of the periplasmic [NiFeSe] hydrogenase small subunit   
+ 
+ 
+ 
+   
+  配列番号１７：ペリプラズム［ＮｉＦｅＳｅ］ヒドロゲナーゼ小サブユニットのアミノ酸配列 
+ 
+MSTPFSVLWLQSGGCGGCTMSLLCAEAPDLATTLDAAGIGFLWHPALSEETGEEARAIFDAILAGVIVLDALCVEGALLRGPNGTGRFHVLAGTDTPTIDWARQLAGMARHVVAVGTCAAYGGVTAAGINPTDACGLQFDGRRKGGALGADFRSRSGLPVINVAGCPTHPNWVTETLMLLACGLLGEADLDVYGRPRFYADLLVHHGCPRNEYYEYKASAEKMSDLGCMMEHLGCLGTQAHADCNTRLWNGEGSCTRGGYACINCTAPEFEEPGHAFLETPKIGGIPIGLPTDMPKAWFIALSSLAKAATPERLRKNAVSDHVVTPPAVKDIKRR
+ 
+  SEQ ID NO: 17: Amino acid sequence of the periplasmic [NiFeSe] hydrogenase small subunit    MSTPFSVLWLQSGGCGGCTMSLLCAEAPDLATTLDAAGIGFLWHPALSEETGEEARAIFDAILAGVIVLDALCVEGALLRGPNGTGRFHVLAGTDTPTIDWARQLAGMARHVVAVGTCAAYGGVTAAGINPTDACGLQFDGRRKGGALGADFRSRSGLPVINVAGCPTHPNWVTETLMLLACGLLGEADLDVYGRPRFYADLLVHHGCPRNEYYEYKASAEKMSDLGCMMEHLGCLGTQAHADCNTRLWNGEGSCTRGGYACINCTAPEFEEPGHAFLETPKIGGIPIGLPTDMPKAWFIALSSLAKAATPERLRKNAVSDHVVTPPAVKDIKRR
+ 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号１９に示される配列、又は配列番号１９に示される配列と７０％を超える同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼガンマ鎖ａｔｐＧ＿１をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase gamma chain atpG_1 having a sequence as set forth in SEQ ID NO:19 or a sequence having more than 70% identity, more than 80% identity, etc., such as more than 90% identity, more than 95% identity, etc., such as more than 96% identity, more than 97% identity, etc., such as more than 98% sequence identity, more than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:19. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号２１に示される配列、又は配列番号２１に示される配列と７８％を超える同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットアルファａｔｐＡ＿１をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit alpha atpA_1 having a sequence as set forth in SEQ ID NO:21 or a sequence having greater than 78% identity, greater than 80% identity, etc., such as greater than 90% identity, greater than 95% identity, etc., such as greater than 96% identity, greater than 97% identity, etc., such as greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:21. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号２３に示される配列、又は配列番号２３に示される配列と６２％を超える同一性、例えば７０％を超える同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットｂ  ａｔｐＦ＿１をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding the ATP synthase subunit b atpF_1 having a sequence as set forth in SEQ ID NO:23 or a sequence having more than 62% identity, such as more than 70% identity, more than 80% identity, etc., such as more than 90% identity, more than 95% identity, etc., such as more than 96% identity, more than 97% identity, etc., such as more than 98% sequence identity, more than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:23. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号２５に示される配列、又は配列番号２５に示される配列と９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットｃ、ナトリウムイオン特異的ａｔｐＥ＿１をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit c, sodium ion specific atpE_1, having a sequence as set forth in SEQ ID NO:25 or a sequence having greater than 90% identity, greater than 95% identity, etc., such as greater than 96% identity, greater than 97% identity, etc., such as greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:25. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号２７に示される配列、又は配列番号２７に示される配列と８０％を超える同一性、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットａ  ａｔｐＢ＿１をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit a atpB_1 having a sequence as set forth in SEQ ID NO:27 or a sequence having more than 80% identity, such as more than 90% identity, more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:27. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号２９に示される配列、又は配列番号２９に示される配列と７１％を超える同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼイプシロン鎖ａｔｐＣ＿１をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase epsilon chain atpC_1 having a sequence as set forth in SEQ ID NO:29 or a sequence having more than 71% identity, more than 80% identity, etc., such as more than 90% identity, more than 95% identity, etc., such as more than 96% identity, more than 97% identity, etc., such as more than 98% sequence identity, more than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:29. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号３１に示される配列、又は配列番号３１に示される配列と８４％を超える同一性、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットベータａｔｐＤ＿１をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit beta atpD_1 having a sequence as set forth in SEQ ID NO:31 or a sequence having greater than 84% identity, such as greater than 90% identity, greater than 95% identity, etc., such as greater than 96% identity, greater than 97% identity, etc., such as greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:31. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号３３に示される配列、又は配列番号３３に示される配列と９７％を超える同一性、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットベータａｔｐＤ＿２をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit beta atpD_2 having a sequence as set forth in SEQ ID NO:33 or a sequence having greater than 97% identity, e.g., greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:33. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号３５に示される配列、又は配列番号３５に示される配列と８６％を超える同一性、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼガンマ鎖ａｔｐＧ＿２をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase gamma chain atpG_2 having a sequence as set forth in SEQ ID NO:35 or a sequence having greater than 86% identity, such as greater than 90% identity, greater than 95% identity, etc., such as greater than 96% identity, greater than 97% identity, etc., such as greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:35. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号３７に示される配列、又は配列番号３７に示される配列と９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットアルファａｔｐＡ＿２をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit alpha atpA_2 having a sequence as set forth in SEQ ID NO:37 or a sequence having greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:37. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号３９に示される配列、又は配列番号３９に示される配列と８５％を超える同一性、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットデルタａｔｐＨをコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding the ATP synthase subunit delta atpH having a sequence as set forth in SEQ ID NO:39 or a sequence having greater than 85% identity, such as greater than 90% identity, greater than 95% identity, etc., such as greater than 96% identity, greater than 97% identity, etc., such as greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:39. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号４１に示される配列、又は配列番号４１に示される配列と８７％を超える同一性、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットｂ  ａｔｐＦ＿２をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding the ATP synthase subunit b atpF_2 having a sequence as set forth in SEQ ID NO:41 or a sequence having greater than 87% identity, such as greater than 90% identity, greater than 95% identity, etc., such as greater than 96% identity, greater than 97% identity, etc., such as greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:41. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号４３に示される配列、又は配列番号４３に示される配列と８１％を超える同一性、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットｂ’  ａｔｐＧ＿３をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit b' atpG_3 having a sequence as set forth in SEQ ID NO:43 or a sequence having greater than 81% identity, such as greater than 90% identity, greater than 95% identity, such as greater than 96% identity, greater than 97% identity, such as greater than 98% sequence identity, greater than 99% sequence identity, to the sequence as set forth in SEQ ID NO:43. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号４５に示される配列、又は配列番号４５に示される配列と９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットｃ  ａｔｐＥ＿２をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding the ATP synthase subunit c atpE_2 having a sequence as set forth in SEQ ID NO:45 or a sequence having greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:45. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号４７に示される配列、又は配列番号４７に示される配列と９２％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼサブユニットａ  aｔｐＢ＿２をコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase subunit a atpB_2 having a sequence as set forth in SEQ ID NO:47 or a sequence having greater than 92% identity, greater than 95% identity, etc., such as greater than 96% identity, greater than 97% identity, etc., such as greater than 98% sequence identity, greater than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:47. 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号４９に示される配列、又は配列番号４９に示される配列と６０％を超える同一性、例えば７０％を超える同一性、８０％を超える同一性等、例えば９０％を超える同一性、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するＡＴＰシンターゼタンパク質Ｉ  ａｔｐＩをコードする遺伝子を含む。
+ In another embodiment, the mutant chemoautotrophic bacterial strain used in the method of the present invention comprises a gene encoding ATP synthase protein I atpI having a sequence as set forth in SEQ ID NO:49 or a sequence having more than 60% identity, such as more than 70% identity, more than 80% identity, such as more than 90% identity, more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, etc., to the sequence as set forth in SEQ ID NO:49. 
+ 
+ 
+   
+  配列番号１８：ＡＴＰシンターゼガンマ鎖ａｔｐＧ＿１のヌクレオチド配列 
+ 
+GTGACCGAGCGCCTGTCCGACGTCAACGCCCGCATCGCCTCGGTGCGGCAGCTCTCATCGGTCATCACGGCCATGCGGGGCATTGCGGCGGCGCGGGCGCGGGAGGCGCGGGGTCGGCTCGACGGCATCCGCGCCTATGCGCAGACCATCGCCGAGGCCATCGGCCATGTGCTCGCCGTGCTGCCCGAGGAGGCCCGCGCCCGGTCCTCCGGGCACCGGCATCGGGGCCATGCGGTCATCGCCCTGTGCGCGGAGCAGGGCTTTGCCGGCGTCTTCAACGAGCGGGTGCTGGACGAGGCCGCCCGGCTGCTGACCGGCGGGGCGGGGCCGGCCGAGCTGCTGCTGGTGGGCGACCGGGGCCTGATGGTGGCCCGCGAGCGGGGGCTCGATGTCTCCTGGTCGGTGCCCATGGTGGCCCATGCGGGCCAGGCCTCGGCGCTGGCGGACCGCATCAGCGAGGAGCTCTACCGGCGGATCGATGCGGGACGGGTGACGCGGGTGTCGGTGGTGCACGCCGAGCCCGCCGCGTCCGCCGCCATCGAGACGGTGGTGAAAGTGCTGGTGCCGTTCGACTTCGCCCGCTTCCCCCTGGCGCGGGTGGCATCCGCCCCGCTCATGACCATGCCGCCGCCGCGGCTGCTGGCCCAGCTGTCGGAGGAATATGTGTTCGCCGAGCTGTGCGAGGCGCTCACCTTGTCCTTCGCGGCGGAGAACGAGGCCCGCATGCGGGCCATGATCGCCGCCCGCGCCAATGTGGCCGATACCCTGGAGGGCCTCGTCGGCCGCGCCCGGCAGATGCGCCAGGAGGAGATCACCAACGAGATCATCGAGCTGGAAGGCGGCGCCGGCAGCGCCCGGCATGCGGATTGA
+ 
+  SEQ ID NO: 18: Nucleotide sequence of ATP synthase gamma chain atpG_1   
+ 
+ 
+ 
+   
+  配列番号１９：ＡＴＰシンターゼガンマ鎖ａｔｐＧ＿１のアミノ酸配列 
+ 
+MTERLSDVNARIASVRQLSSVITAMRGIAAARAREARGRLDGIRAYAQTIAEAIGHVLAVLPEEARARSSGHRHRGHAVIALCAEQGFAGVFNERVLDEAARLLTGGAGPAELLLVGDRGLMVARERGLDVSWSVPMVAHAGQASALADRISEELYRRIDAGRVTRVSVVHAEPAASAAIETVVKVLVPFDFARFPLARVASAPLMTMPPPRLLAQLSEEYVFAELCEALTLSFAAENEARMRAMIAARANVADTLEGLVGRARQMRQEEITNEIIELEGGAGSARHAD
+ 
+  SEQ ID NO: 19: Amino acid sequence of ATP synthase gamma chain atpG_1    MTERLSDVNARIASVRQLSSVITAMRGIAAARAREARGRLDGIRAYAQTIAEAIGHVLAVLPEEARARSSGHRHRGHAVIALCAEQGFAGVFNERVLDEAARLLTGGAGPAELLLVGDRGLMVARERGLDVSWSVPMVAHAGQASALADRISEELYRRIDAGRVTRVSVVHAEPAASAAIETVVKVLVPFDFARFPLARVASAPLMTMPPPRLLAQLSEEYVFAELCEALTLSFAAENEARMRAMIAARANVADTLEGLVGRARQMRQEEITNEIIELEGGAGSARHAD
+ 
+ 
+ 
+   
+  配列番号２０：ＡＴＰシンターゼサブユニットアルファａｔｐＡ＿１のヌクレオチド配列 
+ 
+ATGAGCACGGGCGCGCAAGCGAGCGAGGATTGGCTCACCCGGAGCCGGGCGGCCCTGGCCGGGACGCGCCTTTCCCAGCAATCCCAATCGGTGGGCCGGGTGGAGGAGATGGCCGACGGCATCGCCCGCGTCTCCGGCCTGCCGGATGTGCGGCTCGACGAGCTTCTCACCTTCGAGGGCGGCCAGACCGGCTATGCCCTCACCCTCGATCGCACCGAGATCGCCGTGGTGCTGCTGGATGACGCCTCCGGCGTGGAGGCGGGCGCCCGGGTGTTCGGCACCGGCGAGGTGGTGAAGGTGCCGGTGGGGCCGGGGCTGCTGGGCCGCATCGTCGACCCCCTCGGCCGGCCCATGGACCGCTCCGAGCCGGTGGTGGCGCAGGCGCACCATCCCATCGAGCGGCCGGCGCCGGCCATCATCGCCCGCGACCTGGTCTCGCAGCCGGTTCAGACCGGCACGCTGGTGGTGGATGCGCTGTTCTCCCTCGGCCGGGGCCAGCGCGAGCTCATCATCGGCGACCGGGCTACCGGCAAGACCGCCATCGCGGTGGACACCATCATCAGCCAGAAGCATTCGGACATCGTGTGCATCTACGTGGCGGTGGGCCAGCGCGCCGCCGCCGTGGAGCGGGTGGTGGAGGCGGTGCGCGCCCACGGGGCGATCGAGCGCTGCATCTTCGTGGTCGCCTCGGCCGCCGCCTCGCCAGGGCTGCAATGGATCGCGCCGTTCGCCGGCATGACCATGGCGGAATATTTCCGCGACAACGGCCAGCATGCGCTCATCATCATCGATGATCTCACCAAGCATGCGGCCACCCATCGCGAGCTGGCGCTGCTCACCCACGAGCCGCCGGGCCGCGAGGCCTATCCCGGCGACATCTTCTATGTGCACGCCCGCCTTCTGGAGCGGGCCGCCAAGCTCTCCGCCGAGCTGGGCGGTGGCTCGCTCACGGCCCTGCCCATCGCGGAGACGGACGCGGGAAACCTCTCCGCCTATATCCCCACCAACCTCATCTCCATCACCGATGGGCAGATCGTGCTGGATTCGCGGCTGTTCGCGGCCAACCAGCGCCCGGCGGTGGATGTGGGCCTCTCCGTGAGCCGGGTGGGCGGCAAGGCGCAGCATCCCGCGCTTCGGGCCGTGTCCGGGCGCATCCGGCTCGATTATTCCCAGTTCCTGGAGCTGGAAATGTTCACCCGCTTCGGCGGCATCACCGATACCCGCGTGAAGGCGCAGATCACCCGGGGCGAGCGCATCCGCGCGCTGCTCACCCAGCCGCGCTTTTCCACCCTGCGCCTTCAGGACGAGGTGGCGCTGCTGGCCGCGCTGGCGGAGGGGGTGTTCGACACTTTGGCCCCGGGGCTGATGGGCGCCGTGCGTGCCCGCATTCCGGCCCAGCTGGATGCGCAGGTGAAGGACGTGGCCTCGGCCCTCGCCGAGGGCAAGGTGCTGGAGGAGGGCTTGCACGCCCGTCTCGTGGCGGCCGTGCGGGCCGTCGCGGCGGACGTGGCCGCGACCGCGAAGGCCGGGCCGTGA
+ 
+  SEQ ID NO:20: Nucleotide sequence of ATP synthase subunit alpha atpA_1   
+ 
+ 
+ 
+   
+  配列番号２１：ＡＴＰシンターゼサブユニットアルファａｔｐＡ＿１のアミノ酸配列 
+ 
+MSTGAQASEDWLTRSRAALAGTRLSQQSQSVGRVEEMADGIARVSGLPDVRLDELLTFEGGQTGYALTLDRTEIAVVLLDDASGVEAGARVFGTGEVVKVPVGPGLLGRIVDPLGRPMDRSEPVVAQAHHPIERPAPAIIARDLVSQPVQTGTLVVDALFSLGRGQRELIIGDRATGKTAIAVDTIISQKHSDIVCIYVAVGQRAAAVERVVEAVRAHGAIERCIFVVASAAASPGLQWIAPFAGMTMAEYFRDNGQHALIIIDDLTKHAATHRELALLTHEPPGREAYPGDIFYVHARLLERAAKLSAELGGGSLTALPIAETDAGNLSAYIPTNLISITDGQIVLDSRLFAANQRPAVDVGLSVSRVGGKAQHPALRAVSGRIRLDYSQFLELEMFTRFGGITDTRVKAQITRGERIRALLTQPRFSTLRLQDEVALLAALAEGVFDTLAPGLMGAVRARIPAQLDAQVKDVASALAEGKVLEEGLHARLVAAVRAVAADVAATAKAGP
+ 
+  SEQ ID NO:21: Amino acid sequence of ATP synthase subunit alpha atpA_1    MSTGAQASEDWLTRSRAALAGTRLSQQSQSVGRVEEMADGIARVSGLPDVRLDELLTFEGGQTGYALTLDRTEIAVVLLDDASGVEAGARVFGTGEVVKVPVGPGLLGRIVDPLGRPMDRSEPVVAQAHHPIERPAPAIIARDLVSQPVQTGTLVVDALFSLGRGQRELIIGDRATGKTAIAVDTIISQKHSDIVCIYVAVGQRAAAVERVVEAVRAHGAIERCIFVVASAAASPGLQWIAPFAGMTMAEYFRDN GQHALIIIDDLTKHAATHRELALLTHEPPGREAYPGDIFYVHARLLERAAKLSAELGGGSLTALPIAETDAGNLSAYIPTNLISITDGQIVLDSRLFAANQRPAVDVGLSVSRVGGKAQHPALRAVSGRIRLDYSQFLELEMFTRFGGITDTRVKAQITRGERIRALLTQPRFSTLRLQDEVALLAALAEGVFDTLAPGLMGAVRARIPAQLDAQVKDVASALAEGKVLEEGLHARLVAAVRAVAADVAATAKAGP
+ 
+ 
+ 
+   
+  配列番号２２：ＡＴＰシンターゼサブユニットｂ  ａｔｐＦ＿１のヌクレオチド配列 
+ 
+ATGCAGATCGACTGGTGGACGCTGGGCCTGCAGACGGTCAACGTCCTCGTTCTCATCTGGCTCCTGAGCCGCTTCCTGTTCAAGCCGGTGGCGCAGGTCATCGCGCAGCGCCGTGCCGAGATCGAGAAGCTGGTGGAGGATGCGCGCGCCGCCAAGGCCGCCGCCGAGGCCGAGCGGGACACGGCGAAGGCGGAGGAGGCGCGCCTTGCCGCCGAGCGCGGCGCCCGCATGGCGGCGGTCGCCAAGGAGGCGGAGGCGCAGAAGGCGGCATTGCTGGCCGCCGCCAAGACCGAGGCCGAGGCCCTGCACGCGGCCGCGGAAGCGGCCATCGTCCGGGCGCGGGCGAGCGAGGAGGAAGCCGCCGCCGACCGCGCCAGCCGCCTTGCCGTGGACATCGCCGCCAAGCTGCTGGACCGGCTGCCCGACGACGCCCGGGTCGCGGGCTTCATCGATGGCCTCGCCGAGGGGCTTGAAGCCCTGCCCGAGGCGAGCCGGGCGGTGATCGGCGTCGACGGCGCGCCAGTGCGCGTGACGGCCGCGCGCGCCCTTATGCCGGCGGAGGAGGAGGCCTGCCGCACGCGGCTCTCCCAGGCGCTGGGCCGTCCGGTGACGCTGGCCGTGACCATCGACCCCGCCCTCATCGCCGGCCTGGAGATGGAGACGCCCCACGCGGTGGTGCGCAATTCCTTCAAGGCCGATCTCGACCGCGTCACCGCGGCGCTCACCCATCATGGGACCTGA
+ 
+  SEQ ID NO:22: Nucleotide sequence of ATP synthase subunit b atpF_1   
+ 
+ 
+ 
+   
+  配列番号２３：ＡＴＰシンターゼサブユニットｂ  ａｔｐＦ＿１のアミノ酸配列 
+ 
+MQIDWWTLGLQTVNVLVLIWLLSRFLFKPVAQVIAQRRAEIEKLVEDARAAKAAAEAERDTAKAEEARLAAERGARMAAVAKEAEAQKAALLAAAKTEAEALHAAAEAAIVRARASEEEAAADRASRLAVDIAAKLLDRLPDDARVAGFIDGLAEGLEALPEASRAVIGVDGAPVRVTAARALMPAEEEACRTRLSQALGRPVTLAVTIDPALIAGLEMETPHAVVRNSFKADLDRVTAALTHHGT
+ 
+  SEQ ID NO: 23: Amino acid sequence of ATP synthase subunit b atpF_1    MQIDWWTLGLQTVNVLVLIWLLSRFLFKPVAQVIAQRRAEIEKLVEDARAAKAAAEAERDTAKAEEARLAAERGARMAAVAKEAEAQKAALLAAAKTEAEALHAAAEAAIVRARASEEEAAADRASRLAVDIAAKLLDRLPDDARVAGFIDGLAEGLEALPEASRAVIGVDGAPVRVTAARALMPAEEEACRTRLSQALGRPVTLAVTIDPALIAGLEMETPHAVVRNSFKADLDRVTAALTHHGT
+ 
+ 
+ 
+   
+  配列番号２４：ＡＴＰシンターゼサブユニットｃ、ナトリウムイオン特異的ａｔｐＥ＿１のヌクレオチド配列 
+ 
+ATGACTGTCGAGATGGTCAGCATCTTCGCGGCGGCGCTCGCCGTCTCCTTCGGCGCCATCGGGCCGGCCCTGGGCGAGGGCCGGGCGGTGGCCGCGGCCATGGACGCCATCGCCCGCCAGCCGGAGGCGGCCGGAACCTTGTCGCGCACGCTCTTCGTCGGCCTCGCCATGATCGAGACCATGGCGATCTACTGCCTGGTGATCGCGCTCCTGGTGCTCTTCGCCAATCCGTTCGTGAAGTGA
+ 
+  SEQ ID NO:24: Nucleotide sequence of ATP synthase subunit c, sodium ion specific atpE_1    ATGACTGTCGAGATGGTCAGCATCTTCGCGGCGGCGCTCGCCGTCTCCTTCGGCGCCATCGGGCCGGCCCTGGGCGAGGGCCGGGCGGTGGCCGCGGCCATGGACGCCATCGCCCGCCAGCCGGAGGCGGCCGGAACCTTGTCGCGCACGCTCTTCGTCGGCCTCGCCATGATCGAGACCATGGCGATCTACTGCCTGGTGATCGCGCTCCTGGTGCTCTTCGCCAATCCGTTCGTGAAGTGA
+ 
+ 
+ 
+   
+  配列番号２５：ＡＴＰシンターゼサブユニットｃ、ナトリウムイオン特異的ａｔｐＥ＿１のアミノ酸配列 
+ 
+MTVEMVSIFAAALAVSFGAIGPALGEGRAVAAAMDAIARQPEAAGTLSRTLFVGLAMIETMAIYCLVIALLVLFANPFVK
+ 
+  SEQ ID NO:25: Amino acid sequence of ATP synthase subunit c, sodium ion specific atpE_1    MTVEMVSIFAAALAVSFGAIGPALGEGRAVAAAMDAIARQPEAAGTLSRTLFVGLAMIETMAIYCLVIALLVLFANPFVK
+ 
+ 
+ 
+   
+  配列番号２６：ＡＴＰシンターゼサブユニットａ  ａｔｐＢ＿１のヌクレオチド配列 
+ 
+ATGGGCTCGCCGCTGATCCTCGAACCCCTGTTCCATATCGGGCCCGTGCCCATCACCGCGCCGGTGGTGGTCACCTGGCTCATCATGGCCGCCTTCATTGGGCTGGCGCGGCTCATCACCCGGAAGCTTTCCACCGATCCCACCCGGACCCAGGCGGCGGTGGAAACGGTGCTGACCGCCATCGATTCCCAGATCGCCGACACCATGCAGGCCGATCCCGCGCCTTATCGCGCGCTCATCGGCACCATCTTCCTTTATGTGCTGGTGGCCAACTGGTCCTCGCTCATCCCGGGCATCGAGCCGCCCACGGCGCATATCGAGACCGATGCGGCGCTCGCTTTCATCGTGTTCGCCGCCACCATCGGGTTCGGGTTGAAGACAAGGGGTGTGAAGGGCTATCTCGCCACCTTCGCCGAACCCTCCTGGGTGATGATCCCGCTCAATGTGGTGGAGCAGATCACCCGGACCTTCTCGCTCATCGTGCGCCTGTTCGGCAACATCATGAGCGGGGTGTTCGTGGTCGGCATCATCCTGTCCCTCGCCGGGCTGCTGGTGCCCATCCCCCTCATGGCGCTCGATCTCCTGACCGGCGCCGTGCAGGCCTACATCTTCGCGGTGCTGGCCTGCGTGTTCATCGGCGCGGCCATTGGCGAGGCGCCGGCAAAGCCCCAATCGAAGGAGCCAGGGAAAACATCATGA
+ 
+  SEQ ID NO:26: Nucleotide sequence of ATP synthase subunit a atpB_1   
+ 
+ 
+ 
+   
+  配列番号２７：ＡＴＰシンターゼサブユニットａ  ａｔｐＢ＿１のアミノ酸配列 
+ 
+MGSPLILEPLFHIGPVPITAPVVVTWLIMAAFIGLARLITRKLSTDPTRTQAAVETVLTAIDSQIADTMQADPAPYRALIGTIFLYVLVANWSSLIPGIEPPTAHIETDAALAFIVFAATIGFGLKTRGVKGYLATFAEPSWVMIPLNVVEQITRTFSLIVRLFGNIMSGVFVVGIILSLAGLLVPIPLMALDLLTGAVQAYIFAVLACVFIGAAIGEAPAKPQSKEPGKTS
+ 
+  SEQ ID NO:27: Amino acid sequence of ATP synthase subunit a atpB_1    MGSPLILEPLFHIGPVPITAPVVVTWLIMAAFIGLARLITRKLSTDPTRTQAAVETVLTAIDSQIADTMQADPAPYRALIGTIFLYVLVANWSSLIPGIEPPTAHIETDAALAFIVFAATIGFGLKTRGVKGYLATFAEPSWVMIPLNVVEQITRTFSLIVRLFGNIMSGVFVVGIILSLAGLLVPIPLMALDLLTGAVQAYIFAVLACVFIGAAIGEAPAKPQSKEPGKTS
+ 
+ 
+ 
+   
+  配列番号２８：ＡＴＰシンターゼイプシロン鎖ａｔｐＣ＿１のヌクレオチド配列 
+ 
+GTGAGCGCGCCGCTGCACCTCACCATCACCACGCCGGCCGCCGTTCTGGTGGACCGTGCCGACATCGTGGCCCTGCGTGCCGAGGACGAGAGCGGCAGCTTCGGCATCCTGCCCGGCCATGCGGATTTCCTGACCGTTCTGGAGGCCTGCGTGGTGCGCTTCAAGGATGGGGCCGACGGCGTGCATTATTGTGCTCTCAGTGGTGGCGTGCTGTCGGTCGAGGAGGGCCGGCGCATCGCCATCGCCTGCCGTCAGGGCACGGTGAGCGACGACCTGGTCGCCCTGGAAGGGGCGGTGGACGCCATGCGTTCGGCGGAGAGCGATGCCGACAAGCGGGCCCGGGTGGAGCAGATGCGCCTTCATGCCCACGCCGTGCGCCAGCTCCTGCACTATCTGCGGCCCGGCCGGGCCGGCGGCGTGGCGCCGGCCGCCGCGCCGGAGGAGGGGCCGTCATGA
+ 
+  SEQ ID NO:28: Nucleotide sequence of ATP synthase epsilon chain atpC_1    GTGAGCGCGCCGCTGCACCTCACCATCACCACGCCGGCCGCCGTTCTGGTGGACCGTGCCGACATCGTGGCCCTGCGTGCCGAGGACGAGCGGCAGCTTCGGCATCCTGCCCGGCCATGCGGATTTCCTGACCGTTCTGGAGGCCTGCGTGGTGCGCTTCAAGGATGGGGCCGACGGCGTGCATTATTGTGCTCTCAGTGGTGGCGTGCTGTCGGTCGAGGAGGGCCGGCGCATCGCCATCGCCTGCCGTCAGGGCACGGTGAGCGACGACCTGGTCGCCCTGGAAGGGGCGGTGGACGCCATGCGTTCGGCGGAGAGCGATGCCGACAAGCGGGCCCGGGTGGAGCAGATGCGCCTTCATGCCCACGCCGTGCGCCAGCTCCTGCACTATCTGCGGCCCGGCCGGGCCGGCGGCGTGGCGCCGGCCGCCGCGCCGGAGGAGGGGCCGTCATGA
+ 
+ 
+ 
+   
+  配列番号２９：ＡＴＰシンターゼイプシロン鎖ａｔｐＣ＿１のアミノ酸配列 
+ 
+MSAPLHLTITTPAAVLVDRADIVALRAEDESGSFGILPGHADFLTVLEACVVRFKDGADGVHYCALSGGVLSVEEGRRIAIACRQGTVSDDLVALEGAVDAMRSAESDADKRARVEQMRLHAHAVRQLLHYLRPGRAGGVAPAAAPEEGPS
+ 
+  SEQ ID NO: 29: Amino acid sequence of ATP synthase epsilon chain atpC_1    MSAPLHLTITTPAAVLVDRADIVALRAEDESGSFGILPGHADFLTVLEACVVRFKDGADGVHYCALSGGVLSVEEGRRIAIACRQGTVSDDLVALEGAVDAMRSAESDADKRARVEQMRLHAHAVRQLLHYLRPGRAGGVAPAAAPEEGPS
+ 
+ 
+ 
+   
+  配列番号３０：ＡＴＰシンターゼサブユニットベータａｔｐＤ＿１のヌクレオチド配列 
+ 
+ATGGCAGCGGCAGATGAGGAGGCGCAATCGGCCGCCGGCCCCGCCTCGGGCCGGGTGGTGGCCGTGCGCGGCGCGGTGATCGACATCGCCTTTGCCCAGCCTCCGCTGCCGCCGCTGGACGACGCCCTTCTCATCACCGACGGCCGGGGCGGCACGGTGCTGGTGGAGGTGCAGAGCCATATGGATCGGCACACGGTGCGCGCCATCGCCCTTCAGGCCACCACCGGCCTCAGCCGGGGGCTGGAGGCGGCGCGGGTGGGCGGGCCGGTGAAGGTGCCGGTGGGAGACCATGTGCTCGGCCGCCTCCTGGATGTCACCGGCGCCATCGGCGACAAGGGCGGGCCGCTGCCGGCCGACGTGCCCACGCGGCCGATCCACCACGCGCCGCCATCCTTCGCCGCGCAGGGCGGCACGTCCGATCTGTTTCGCACCGGCATCAAGGTCATCGACCTCCTGGCGCCCCTCGCCCAGGGCGGCAAGGCGGCCATGTTCGGCGGGGCCGGCGTGGGCAAGACCGTGCTGGTGATGGAGCTGATCCACGCCATGGTGGCGAGCTACAAGGGCATCTCGGTGTTTGCCGGCGTGGGGGAGCGCTCCCGCGAGGGCCACGAGATGCTGCTGGACATGACCGATTCCGGCGTGCTCGACCGCACCGTTCTGGTCTATGGCCAGATGAACGAGCCCCCCGGGGCCCGCTGGCGGGTGCCCATGACGGCGCTGACCATCGCCGAATATTTCCGCGACGAGAAGCACCAGAACGTCCTGCTGCTGATGGACAACATCTTCCGCTTCGTCCAGGCGGGGGCGGAGGTCTCCGGCCTTTTGGGCCGTCCGCCCTCCCGGGTGGGATACCAGCCGACGCTGGCGAGCGAGGTGGCGGCGCTCCAGGAACGCATCACCTCCGTGGGCGAGGCCTCGGTGACCGCCATCGAGGCGGTCTACGTGCCGGCGGATGACTTCACCGATCCCGCCGTGACCACCATCGCCGCCCACGTGGATTCCATGGTGGTGCTCTCCCGCGCCATGGCGGCGGAGGGCATGTATCCGGCGGTGGACCCCATCTCCTCCTCGTCGGTGCTGCTCGACCCGCTCATCGTGGGGGACGAGCATGCGCGCGTCGCCAACGAGGTGCGCCGGACCATCGAGCATTATCGCGAGCTTCAGGATGTGATCTCGCTGCTGGGCATGGAGGAATTGGGCACCGAGGATCGCCGCATCGTGGAGCGGGCGCGCCGGCTCCAGCGCTTCCTCACCCAGCCCTTCACGGTCACCGAGGCCTTCACCGGCGTGCCCGGCCGCTCGGTGGCCATCGCCGACACCATCGCCGGCTGCAGGATGATCCTGTCCGGCGCCTGCGACGACTGGCAGGAAAGCGCCCTCTACATGGTGGGCACCATCGACGAGGCCCGCCAGAAGGAGGAGGCCGCTCGCGCCAAGGCGGGGCAGGGCGCCCCGGCCGGGACGGCAGCCGAGACGGCGGAGGCCGCCCCGTGA
+ 
+  SEQ ID NO:30: Nucleotide sequence of ATP synthase subunit beta atpD_1   
+ 
+ 
+ 
+   
+  配列番号３１：ＡＴＰシンターゼサブユニットベータａｔｐＤ＿１のアミノ酸配列 
+ 
+MAAADEEAQSAAGPASGRVVAVRGAVIDIAFAQPPLPPLDDALLITDGRGGTVLVEVQSHMDRHTVRAIALQATTGLSRGLEAARVGGPVKVPVGDHVLGRLLDVTGAIGDKGGPLPADVPTRPIHHAPPSFAAQGGTSDLFRTGIKVIDLLAPLAQGGKAAMFGGAGVGKTVLVMELIHAMVASYKGISVFAGVGERSREGHEMLLDMTDSGVLDRTVLVYGQMNEPPGARWRVPMTALTIAEYFRDEKHQNVLLLMDNIFRFVQAGAEVSGLLGRPPSRVGYQPTLASEVAALQERITSVGEASVTAIEAVYVPADDFTDPAVTTIAAHVDSMVVLSRAMAAEGMYPAVDPISSSSVLLDPLIVGDEHARVANEVRRTIEHYRELQDVISLLGMEELGTEDRRIVERARRLQRFLTQPFTVTEAFTGVPGRSVAIADTIAGCRMILSGACDDWQESALYMVGTIDEARQKEEAARAKAGQGAPAGTAAETAEAAP
+ 
+  SEQ ID NO:31: Amino acid sequence of ATP synthase subunit beta atpD_1    MAAADEEAQSAAGPASGRVVAVRGAVIDIAFAQPPLPPLDDALLITDGRGGTVLVEVQSHMDRHTVRAIALQATTGLSRGLEAARVGGPVKVPVGDHVLGRLLDVTGAIGDKGGPLPADVPTRPIHHAPPSFAAQGGTSDLFRTGIKVIDLLAPLAQGGKAAMFGGAGVGKTVLVMELIHAMVASYKGISVFAGVGERSREGHEMLLDMTDSGVLDRTVLVYGQMNEPPGARWRVPMTALTIAEYFRD EKHQNVLLLMDNIFRFVQAGAEVSGLLGRPPSRVGYQPTLASEVAALQERITSVGEASVTAIEAVYVPADDFTDPAVTTIAAHVDSMVVLSRAMAAEGMYPAVDPISSSSVLLDPLIVGDEHARVANEVRRTIEHYRELQDVISLLGMEELGTEDRRIVERARRLQRFLTQPFTVTEAFTGVPGRSVAIADTIAGCRMILSGACDDWQESALYMVGTIDEARQKEEAARAKAGQGAPAGTAAETAEAAP
+ 
+ 
+ 
+   
+  配列番号３２：ＡＴＰシンターゼサブユニットベータａｔｐＤ＿２のヌクレオチド配列 
+ 
+ATGGCGAACAAGGTCGGACGCATCACCCAGATCATCGGCGCCGTCGTCGACGTGCAGTTCGACGGGCATCTGCCGGCGATTCTCAACGCGATCGAGACCACCAACCAGGGCAACCGGCTGGTGCTCGAAGTGGCTCAGCATCTCGGCGAGAACACCGTGCGCTGCATCGCCATGGATGCCACTGAAGGCCTGGTGCGTGGCCAGGAGGTGGCCGACACCGATGCGCCCATCCAGGTGCCCGTGGGCGCCGCCACCCTCGGCCGCATCATGAACGTGATCGGCGAGCCGGTGGACGAGCTGGGCCCCATCGAGGGCGAAGCGCTGCGCGGCATCCATCAGCCGGCCCCCTCCTATGCGGAGCAGGCCACGGAAGCTGAGATCCTCGTCACCGGCATCAAGGTGGTGGATCTGCTGGCGCCCTATTCCAAGGGCGGCAAGGTGGGCCTGTTCGGCGGCGCCGGCGTGGGCAAGACCGTGCTCATCATGGAGCTGATCAACAACGTGGCCAAGGCGCACGGCGGCTATTCCGTGTTCGCCGGCGTGGGTGAGCGCACCCGCGAGGGCAACGACCTCTACCACGAGATGATCGAGTCCAACGTGAACAAGGACCCGCACGAGAACAATGGCTCGGCGGCCGGTTCCAAGTGCGCCCTGGTCTATGGCCAGATGAACGAGCCGCCCGGCGCCCGCGCCCGCGTGGCCCTCACCGGCCTCACCGTCGCCGAGCATTTCCGCGACCAGGGCCAGGACGTGCTGTTCTTCGTGGACAACATCTTCCGCTTCACCCAGGCGGGCTCCGAGGTGTCGGCGCTTCTCGGCCGCATCCCCTCGGCGGTGGGCTACCAGCCGACGCTGGCCACCGACATGGGCCAGCTGCAGGAGCGCATCACCACCACCACCAAGGGCTCCATCACCTCGGTGCAGGCCATCTACGTGCCGGCGGACGATCTGACCGATCCGGCGCCGGCCGCCTCCTTCGCCCATCTGGACGCCACCACGGTGCTGTCGCGCTCCATCGCGGAGAAGGGCATCTACCCGGCGGTGGATCCGCTGGACTCCACCTCGCGCATGCTGTCTCCCGCCATCCTCGGCGACGAGCACTACAACACCGCGCGCCAGGTGCAGCAGACCCTGCAGCGCTACAAGGCGCTCCAGGACATCATCGCCATCCTGGGCATGGACGAACTCTCCGAAGAGGACAAGCTCACCGTGGCCCGCGCCCGCAAGATCGAGCGCTTCCTCTCCCAGCCCTTCCACGTGGCCGAGGTGTTCACCGGTTCGCCCGGCAAGCTGGTCGACCTCGCCGACACCATCAAGGGCTTCAAGGGCCTGGTGGACGGCAAGTACGACTACCTGCCCGAGCAGGCCTTCTACATGGTGGGCACCATCGAAGAAGCCATCGAGAAGGGCAAGAAGCTGGCGGCCGAGGCGGCCTGA
+ 
+  SEQ ID NO:32: Nucleotide sequence of ATP synthase subunit beta atpD_2   
+ 
+ 
+ 
+   
+  配列番号３３：ＡＴＰシンターゼサブユニットベータａｔｐＤ＿２のアミノ酸配列 
+ 
+MANKVGRITQIIGAVVDVQFDGHLPAILNAIETTNQGNRLVLEVAQHLGENTVRCIAMDATEGLVRGQEVADTDAPIQVPVGAATLGRIMNVIGEPVDELGPIEGEALRGIHQPAPSYAEQATEAEILVTGIKVVDLLAPYSKGGKVGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESNVNKDPHENNGSAAGSKCALVYGQMNEPPGARARVALTGLTVAEHFRDQGQDVLFFVDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGQLQERITTTTKGSITSVQAIYVPADDLTDPAPAASFAHLDATTVLSRSIAEKGIYPAVDPLDSTSRMLSPAILGDEHYNTARQVQQTLQRYKALQDIIAILGMDELSEEDKLTVARARKIERFLSQPFHVAEVFTGSPGKLVDLADTIKGFKGLVDGKYDYLPEQAFYMVGTIEEAIEKGKKLAAEAA
+ 
+  SEQ ID NO:33: Amino acid sequence of ATP synthase subunit beta atpD_2    MANKVGRITQIIGAVVDVQFDGHLPAILNAIETTNQGNRLVLEVAQHLGENTVRCIAMDATEGLVRGQEVADTDAPIQVPVGAATLGRIMNVIGEPVDELGPIEGEALRGIHQPAPSYAEQATEAEILVTGIKVVDLLAPYSKGGKVGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESNVNKDPHENNGSAAGSKCALVYGQMNEPPGARARVALTGLT VAEHFRDQGQDVLFFVDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGQLQERITTTTKGSITSVQAIYVPADDLTDPAPAASFAHLDATTVLSRSIAEKGIYPAVDPLDSTSRMLSPAILGDEHYNTARQVQQTLQRYKALQDIIAILGMDELSEEDKLTVARARKIERFLSQPFHVAEVFTGSPGKLVDLADTIKGFKGLVDGKYDYLPEQAFYMVGTIEEAIEKGKKLAAEAA
+ 
+ 
+ 
+   
+  配列番号３４：ＡＴＰシンターゼガンマ鎖ａｔｐＧ＿２のヌクレオチド配列 
+ 
+ATGGCGAGTCTGAAGGACCTGAGAAACCGCATTGCCTCGGTGAAGGCGACGCAGAAGATCACCAAGGCGATGCAGATGGTCGCCGCGGCGAAGCTGCGTCGCGCCCAGGCGGCGGCTGAAGCGGCCCGTCCCTATGCGGAACGCATGGAGACGGTGCTCGGAAATCTTGCCTCCGGCATGGTGGTGGGCGCGCAGGCGCCTGTTCTCATGACCGGGACGGGCAAGAGCGACACCCACCTGCTGCTGGTGTGCACCGGCGAGCGCGGCCTGTGCGGCGCCTTCAACTCGTCCATCGTGCGCTTCGCCCGCGAGCGGGCGCAGCTGCTGCTGGCCGAGGGCAAGAAGGTGAAAATCCTGTGCGTGGGCCGCAAGGGCCACGAGCAGCTGCGCCGCATCTACCCGGACAACATCATCGACGTGGTGGACCTGCGCGCGGTGCGCAACATCGGCTTCAAGGAGGCCGACGCCATCGCCCGCAAGGTGCTGGCCCTGCTCGATGAAGGCGCATTCGACGTCTGCACGCTCTTCTACTCCCACTTCAGGAGCGTGATCGCCCAGGTGCCGACGGCCCAGCAGCTCATTCCGGCCACCTTCGACGAGCGGCCGGCCGTCGCCGATGCGCCGGTCTATGAATATGAGCCGGAGGAGGAGGAGATCCTCGCCGAGCTGCTGCCGCGCAACGTGGCGGTGCAGATCTTCAAGGCCCTCCTCGAGAACCAGGCTTCTTTCTATGGCTCCCAGATGAGCGCCATGGACAACGCCACGCGCAATGCGGGCGAGATGATCAAGAAGCAGACGCTCACCTACAACCGTACCCGCCAGGCCATGATCACGAAGGAACTCATCGAGATCATCTCCGGCGCCGAGGCCGTCTGA
+ 
+  SEQ ID NO:34: Nucleotide sequence of ATP synthase gamma chain atpG_2   
+ 
+ 
+ 
+   
+  配列番号３５：ＡＴＰシンターゼガンマ鎖ａｔｐＧ＿２のアミノ酸配列 
+ 
+MASLKDLRNRIASVKATQKITKAMQMVAAAKLRRAQAAAEAARPYAERMETVLGNLASGMVVGAQAPVLMTGTGKSDTHLLLVCTGERGLCGAFNSSIVRFARERAQLLLAEGKKVKILCVGRKGHEQLRRIYPDNIIDVVDLRAVRNIGFKEADAIARKVLALLDEGAFDVCTLFYSHFRSVIAQVPTAQQLIPATFDERPAVADAPVYEYEPEEEEILAELLPRNVAVQIFKALLENQASFYGSQMSAMDNATRNAGEMIKKQTLTYNRTRQAMITKELIEIISGAEAV
+ 
+  SEQ ID NO:35: Amino acid sequence of ATP synthase gamma chain atpG_2    MASLKDLRNRIASVKATQKITKAMQMVAAAKLRRAQAAAEAARPYAERMETVLGNLASGMVVGAQAPVLMTGTGKSDTHLLLVCTGERGLCGAFNSSIVRFARERAQLLLAEGKKVKILCVGRKGHEQLRRIYPDNIIDVVDLRAVRNIGFKEADAIARKVLALLDEGAFDVCTLFYSHFRSVIAQVPTAQQLIPATFDERPAVADAPVYEYEPEEEEILAELLPRNVAVQIFKALLENQASFYGSQMSAMDNATRNAGEMIKKQTLTYNRTRQAMITKELIEIISGAEAV
+ 
+ 
+ 
+   
+  配列番号３６：ＡＴＰシンターゼサブユニットアルファａｔｐＡ＿２のヌクレオチド配列 
+ 
+ATGGACATTCGAGCCGCTGAAATCTCTGCCATCCTGAAAGAGCAGATCCAGAATTTCGGCCAGGAGGCGGAAGTCTCCGAGGTGGGTCAGGTTCTGTCCGTGGGTGACGGCATCGCGCGCGTCTACGGCCTCGACAACGTCCAGGCGGGCGAGATGGTCGAGTTCGAGAACGGCACGCGCGGCATGGCGCTGAACCTCGAGCTCGACAATGTCGGCATCGTGATCTTCGGTTCCGACCGCGAGATCAAGGAAGGCCAGACCGTCAAGCGGACCGGCGCCATCGTGGACGCCCCCGTCGGCAAGGGCCTGCTCGGCCGCGTCGTGGACGCTCTCGGCAACCCGATCGACGGCAAGGGCCCGATCATGTTCACCGAGCGTCGCCGGGTCGACGTGAAGGCGCCGGGCATCATCCCGCGCAAGTCGGTGCACGAGCCCATGCAGACCGGCCTGAAGGCCATCGATGCGCTCATCCCCATCGGCCGCGGCCAGCGCGAGCTCATCATCGGCGACCGCCAGACCGGCAAGACCGCCGTGGCGCTCGACTCGATCCTGAACCAGAAGCCCATCAACCAGGGCGACGACGAGAAGGCCAAGCTCTACTGCGTCTATGTCGCGGTGGGCCAGAAGCGTTCCACTGTCGCGCAGTTCGTGAAGGTGCTCGAGGAGCACGGCGCGCTGGAATATTCCATCGTCGTCGCCGCCACCGCCTCGGACGCGGCCCCCATGCAGTTCCTGGCGCCGTTCACCGGCACCGCCATGGGCGAGTATTTCCGCGACAACGGCATGCACGCCCTCATCATCCATGATGACCTGTCCAAGCAGGCCGTGGCCTACCGCCAGATGTCGCTGCTGCTGCGCCGCCCGCCGGGCCGCGAGGCCTATCCCGGCGATGTGTTCTACCTGCACTCCCGCCTCTTGGAGCGCGCCGCCAAGCTCAATGACGAGCACGGCGCCGGCTCGCTGACCGCCCTGCCGGTGATCGAGACCCAGGCCAACGACGTGTCGGCCTACATCCCGACCAACGTGATCTCCATCACCGACGGTCAGATCTTCCTTGAATCCGATCTGTTCTACCAGGGCATCCGCCCGGCGGTGAACGTGGGCCTGTCGGTGTCGCGCGTGGGCTCTTCGGCCCAGATCAAGGCGATGAAGCAGGTGGCCGGCAAGATCAAGGGCGAGCTCGCCCAGTATCGCGAGCTGGCGGCCTTCGCCCAGTTCGGTTCGGACCTGGACGCGGCCACCCAGAAGCTGCTGAACCGCGGCGCCCGCCTCACCGAGCTGCTGAAGCAGAGCCAGTTCTCGCCCCTCAAGGTGGAGGAGCAGGTGGCGGTGATCTATGCCGGCACCAATGGCTATCTCGATCCGCTGCCGGTCTCCAAGGTGCGCGAGTTCGAGCAGGGTCTGCTCCTGTCGCTGCGCTCGCAGCATCCGGAGATCCTGGACGCCATCCGCACGTCCAAGGAGCTTTCCAAGGACACCGCCGAGAAGCTGACGAAGGCCATCGACGCCTTCGCCAAGAGCTTCTCCTGA
+ 
+  SEQ ID NO:36: Nucleotide sequence of ATP synthase subunit alpha atpA_2   
+ 
+ 
+ 
+   
+  配列番号３７：ＡＴＰシンターゼサブユニットアルファａｔｐＡ＿２のアミノ酸配列 
+ 
+MDIRAAEISAILKEQIQNFGQEAEVSEVGQVLSVGDGIARVYGLDNVQAGEMVEFENGTRGMALNLELDNVGIVIFGSDREIKEGQTVKRTGAIVDAPVGKGLLGRVVDALGNPIDGKGPIMFTERRRVDVKAPGIIPRKSVHEPMQTGLKAIDALIPIGRGQRELIIGDRQTGKTAVALDSILNQKPINQGDDEKAKLYCVYVAVGQKRSTVAQFVKVLEEHGALEYSIVVAATASDAAPMQFLAPFTGTAMGEYFRDNGMHALIIHDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLNDEHGAGSLTALPVIETQANDVSAYIPTNVISITDGQIFLESDLFYQGIRPAVNVGLSVSRVGSSAQIKAMKQVAGKIKGELAQYRELAAFAQFGSDLDAATQKLLNRGARLTELLKQSQFSPLKVEEQVAVIYAGTNGYLDPLPVSKVREFEQGLLLSLRSQHPEILDAIRTSKELSKDTAEKLTKAIDAFAKSFS
+ 
+  SEQ ID NO:37: Amino acid sequence of ATP synthase subunit alpha atpA_2    MDIRAAEISAILKEQIQNFGQEAEVSEVGQVLSVGDGIARVYGLDNVQAGEMVEFENGTRGMALNLELDNVGIVIFGSDREIKEGQTVKRTGAIVDAPVGKGLLGRVVDALGNPIDGKGPIMFTERRRVDVKAPGIIPRKSVHEPMQTGLKAIDALIPIGRGQRELIIGDRQTGKTAVALDSILNQKPINQGDDEKAKLYCVYVAVGQKRSTVAQFVKVLEEHGALEYSIVVAATASDAAPMQFLAPFTGTAMG EYFRDNGMHALIIHDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLNDEHGAGSLTALPVIETQANDVSAYIPTNVISITDGQIFLESDLFYQGIRPAVNVGLSVSRVGSSAQIKAMKQVAGKIKGELAQYRELAAFAQFGSDLDAATQKLLNRGARLTELLKQSQFSPLKVEEQVAVIYAGTNGYLDPLPVSKVREFEQGLLLSLRSQHPEILDAIRTSKELSKDTAEKLTKAIDAFAKSFS
+ 
+ 
+ 
+   
+  配列番号３８：ＡＴＰシンターゼサブユニットデルタｐＨのヌクレオチド配列 
+ 
+GTGGCGGAAACGATCGTGTCAGGCATGGCGGGACGCTATGCGACCGCGCTGTTCGAGCTGGCGGACGAAGCCGGTGCCATCGATTCCGTCCAGGCGGATCTTGATCGCCTGTCCGGCCTTCTGGCCGAGAGCGCGGATCTGGCGCGGCTGGTCAAGAGCCCGGTCTTCACCGCCGAGCAGCAGCTCGGCGCGATGGCGGCCATTCTCGATCAAGCAGGCATTTCCGGCCTTGCGGGCAAATTCGTGAAGCTGGTGGCGCAGAACCGCCGCCTGTTCGCACTGCCGCGCATGATTGCCGAATACGCCGTCCTGGTGGCCCGGAAGAAGGGCGAGACCTCGGCGAGCGTGACCGTTGCCACCCCCCTGAGCGATGAGCATCTGGCCACGCTCAAGGCGGCCCTGGCTGAAAAGACCGGCAAGGACGTGAAGCTCGACGTCACCGTCGATCCGTCCATCCTCGGTGGTCTCATCGTGAAGCTCGGCTCGCGCATGGTCGATGCTTCCCTGAAGACCAAACTCAATTCTATCCGGCATGCGATGAAAGAGGTCCGCTGA
+ 
+  SEQ ID NO:38: Nucleotide sequence of ATP synthase subunit deltapH   
+ 
+ 
+ 
+   
+  配列番号３９：ＡＴＰシンターゼサブユニットデルタａｔｐＨのアミノ酸配列 
+ 
+MAETIVSGMAGRYATALFELADEAGAIDSVQADLDRLSGLLAESADLARLVKSPVFTAEQQLGAMAAILDQAGISGLAGKFVKLVAQNRRLFALPRMIAEYAVLVARKKGETSASVTVATPLSDEHLATLKAALAEKTGKDVKLDVTVDPSILGGLIVKLGSRMVDASLKTKLNSIRHAMKEVR
+ 
+  SEQ ID NO:39: Amino acid sequence of ATP synthase subunit delta atpH    MAETIVSGMAGRYATALFELADEAGAIDSVQADLDRLSGLLAESADLARLVKSPVFTAEQQLGAMAAILDQAGISGLAGKFVKLVAQNRRLFALPRMIAEYAVLVARKKGETSASVTVATPLSDEHLATLKAALAEKTGKDVKLDVTVDPSILGGLIVKLGSRMVDASLKTKLNSIRHAMKEVR
+ 
+ 
+ 
+   
+  配列番号４０：ＡＴＰシンターゼサブユニットｂ  ａｔｐＦ＿２のヌクレオチド配列 
+ 
+ATGACCGAAATGGAACTGGCTGAGCTCTGGGTCGCCATCGCCTTCCTGGTTTTCGTAGGCCTCCTGATCTATGCGGGCGCCCACCGCGCCATCGTCTCCGCCCTGGATTCCCGCGGCTCGCGCATCGCCTCGGAACTGGAGGAGGCCCGTCGGCTCAAGGAAGAGGCCCAGAAGCTGGTGGCCGAATTCAAGCGCAAGCAGCGCGAGGCCGAGGCCGAGGCCGAATCCATCGTCACCGGCGCCAAGGCCGAGGCCGAGCGCCTCGCCGCCGAGGCCAAGGCGAAGATCGAGGATTTCGTCACCCGCCGCACCAAGATGGCCGAGGACAAGATCGCCCAGGCCGAGCATCAGGCTCTGGCGGACGTGAAGTCCATCGCCGCCGAGGCGGCGGCCAAGGCGGCCGAGGTGATCCTCGGCGCCCAGGCCACCGGCGCGGTGGCGGAGCGTCTGCTGTCGGGCGCCATCTCCGAGGTCAAGACCAAGCTCAACTGA
+ 
+  SEQ ID NO: 40: Nucleotide sequence of ATP synthase subunit b atpF_2    ATGACCGAAATGGAACTGGCTGAGCTCTGGGTCGCCATCGCCTTCCTGGTTTTCGTAGGCCTCCTGATCTATGCGGGCGCCCACCGCGCCATCGTCTCCGCCCTGGATTCCCGCGGCTCGCGCATCGCCTCGGAACTGGAGGAGGCCCGTCGGCTCAAGGAAGAGGCCCAGAAGCTGGTGGCCGAATTCAAGCGCAAGCAGCGCGAGGCCGAGGCCGAGGCCGAATCCATCGTCACCGGCGCCAAGGCCGAGGCCGAGCGCCTCGCCGCCGAGGCCAAGGCGAAGATCGAGGATTTCGTCACCCGCCGCACCAAGATGGCCGAGGACAAGATCGCCCAGGCCGAGCATCAGGCTCTGGCGGACGTGAAGTCCATCGCCGCCGAGGCGGCGGCCAAGGCGGCCGAGGTGATCCTCGGCGCCCAGGCCACCGGCGCGGTGGCGGAGCGTCTGCTGTCGGGCGCCATCTCCGAGGTCAAGACCAAGCTCAACTGA
+ 
+ 
+ 
+   
+  配列番号４１：ＡＴＰシンターゼサブユニットｂ  ａｔｐＦ＿２のアミノ酸配列 
+ 
+MTEMELAELWVAIAFLVFVGLLIYAGAHRAIVSALDSRGSRIASELEEARRLKEEAQKLVAEFKRKQREAEAEAESIVTGAKAEAERLAAEAKAKIEDFVTRRTKMAEDKIAQAEHQALADVKSIAAEAAAKAAEVILGAQATGAVAERLLSGAISEVKTKLN 
+ 
+  SEQ ID NO:41: Amino acid sequence of ATP synthase subunit b atpF_2    MTEMELAELWVAIAFLVFVGLLIYAGAHRAIVSALDSRGSRIASELEEARRLKEEAQKLVAEFKRKQREAEAEAESIVTGAKAEAERLAAEAKAKIEDFVTRRTKMAEDKIAQAEHQALADVKSIAAEAAAKAAEVILGAQATGAVAERLLSGAISEVKTKLN 
+ 
+ 
+ 
+   
+  配列番号４２：ＡＴＰシンターゼサブユニットｂ’  ａｔｐＧ＿３のヌクレオチド配列 
+ 
+ATGATGATTGCATGGAAGCGGACCTTCGCAGTCGTGACCTTCGGGGCCGCCCTGATGGCCATGCCCGTCGCGGGCGTGGTCGCAGCTGAGACTTCTCCCGCTCCGGCGGCAGTGGCGCAGGCCGATCATGCGGTGCCCACCGAGGCGGCCGGCCAGGGCACCGCCGATGCGGCCCATGCCGCCGCGCCGGGCGAGGCCGCCCATGGTGGCGCGGCCAAGCACGAAACCCATTTCCCGCCCTTCGACGGCACCACCTTCGCCTCCCAGTTGCTGTGGCTCGCCGTCACCTTCGGCCTGCTTTACTACCTCATGAGCAAGGTCACGCTGCCGCGCATCGGCCGCATCCTGGAAGAGCGCCACGACCGCATCGCCGATGATCTGGAGGAAGCCTCCAAGCATCGCGCCGAGAGCGAGGCCGCCCAGCGGGCCTATGAGAAGGCGCTGAGCGAGGCCCGCGCGAAGGCCCATTCCATCGCCGCGGAAACCCGCGACCGCCTTGCCGCCCACGCCGACACCAACCGCAAGGCGCTGGAGAGCGAGCTCACCGCCAAGCTGCAGGCGGCCGAGGAGCGCATCGCCACCACCAAGAGCGAAGCCCTCACCCATGTGCGCGGCATCGCGGTGGACGCCACCCAATCCATCGTCTCCACCCTCATCGGTGTCGCGCCCGCGGCGGCCGACGTGGAAAAAGCGGTGGACGGCGCCCTGTCCCAGCACGGCCAGGCCTGA
+ 
+  SEQ ID NO: 42: Nucleotide sequence of ATP synthase subunit b'atpG_3   
+ 
+ 
+ 
+   
+  配列番号４３：ＡＴＰシンターゼサブユニットｂ’  ａｔｐＧ＿３のアミノ酸配列 
+ 
+MMIAWKRTFAVVTFGAALMAMPVAGVVAAETSPAPAAVAQADHAVPTEAAGQGTADAAHAAAPGEAAHGGAAKHETHFPPFDGTTFASQLLWLAVTFGLLYYLMSKVTLPRIGRILEERHDRIADDLEEASKHRAESEAAQRAYEKALSEARAKAHSIAAETRDRLAAHADTNRKALESELTAKLQAAEERIATTKSEALTHVRGIAVDATQSIVSTLIGVAPAAADVEKAVDGALSQHGQA
+ 
+  SEQ ID NO: 43: Amino acid sequence of ATP synthase subunit b'atpG_3    MMIAWKRTFAVVTFGAALMAMPVAGVVAAETSPAPAAVAQADHAVPTEAAGQGTADAAHAAAPGEAAHGGAAKHETHFPPFDGTTFASQLLWLAVTFGLLYYLMSKVTLPRIGRILEERHDRIADDLEEASKHRAESEAAQRAYEKALSEARAKAHSIAAETRDRLAAHADTNRKALESELTAKLQAAEERIATTKSEALTHVRGIAVDATQSIVSTLIGVAPAAADVEKAVDGALSQHGQA
+ 
+ 
+ 
+   
+  配列番号４４：ＡＴＰシンターゼサブユニットｃ  ａｔｐＥ＿２のヌクレオチド配列 
+ 
+ATGGAAGCGGAAGCTGGAAAGTTCATCGGTGCCGGCCTCGCCTGCCTCGGCATGGGTCTCGCTGGCGTCGGCGTCGGTAACATCTTCGGTAACTTCCTCTCCGGCGCCCTGCGCAACCCGTCCGCTGCCGACGGCCAGTTCGCCCGCGCCTTCATCGGCGCCGCCCTCGCGGAAGGTCTCGGCATCTTCTCGCTGGTCGTTGCGCTCGTCCTGCTGTTCGTGGCCTGA
+ 
+  SEQ ID NO: 44: Nucleotide sequence of ATP synthase subunit c atpE_2    ATGGAAGCGGAAGCTGGAAAGTTCATCGGTGCCGGCCTCGCCTGCCTCGGCATGGGTCTCGCTGGCGTCGGCGTCGGTAACATCTTCGGTAACTTCCTCTCCGGCGCCCTGCGCAACCCGTCCGCTGCCGACGGCCAGTTCGCCCGCGCCTTCATCGGCGCCGCCCTCGCGGAAGGTCTCGGCATCTTCTCGCTGGTCGTTGCGCTCGTCCTGCTGTTCGTGGCCTGA
+ 
+ 
+ 
+   
+  配列番号４５：ＡＴＰシンターゼサブユニットｃ  ａｔｐＥ＿２のアミノ酸配列 
+ 
+MEAEAGKFIGAGLACLGMGLAGVGVGNIFGNFLSGALRNPSAADGQFARAFIGAALAEGLGIFSLVVALVLLFVA
+ 
+  SEQ ID NO: 45: Amino acid sequence of ATP synthase subunit c atpE_2    MEAEAGKFIGAGLACLGMGLAGVGVGNIFGNFLSGALRNPSAADGQFARAFIGAALAEGLGIFSLVVALVLLFVA
+ 
+ 
+ 
+   
+  配列番号４６：ＡＴＰシンターゼサブユニットａ  ａｔｐＢ＿２のヌクレオチド配列 
+SEQ ID NO: 46: 
+ 
+ATGACCGTCGATCCGATCCACCAGTTCGAGATCAAGCGCTACGTGGATCTGCTGAACGTCGGCGGTGTCCAGTTCTCCTTCACCAACGCAACGGTGTTCATGATTGGCATCGTCCTGGTGATTTTCTTCTTCCTGACTTTCGCGACACGCGGTCGCACCCTTGTGCCGGGCCGGATGCAGTCGGCGGCGGAGCTGAGCTACGAGTTCATCGCCAAGATGGTGCGCGACGCGGCCGGCAGCGAGGGAATGGTGTTCTTTCCCTTCGTCTTCTCGCTCTTCATGTTCGTGCTGGTGGCGAACGTATTGGGGCTCATCCCCTACACCTTCACGGTGACCGCCCACCTCATCGTCACCGCCGCCCTGGCGGCGACGGTGATCCTCACCGTCATCATCTACGGCTTCGTGCGGCACGGCACCCACTTCCTGCACCTGTTCGTGCCGTCGGGCGTGCCGGGCTTCCTCCTGCCCTTCCTCGTGGTGATCGAGGTGGTGTCGTTCCTGTCGCGGCCCATCAGCCTCTCGCTGCGTCTGTTCGCCAACATGCTGGCGGGCCACATCGCCCTCAAGGTGTTCGCCTTCTTCGTCGTGGGACTGGCCTCGGCCGGCGCGATCGGCTGGTTCGGCGCCACCCTGCCCTTCTTCATGATCGTGGCGCTCACCGCGCTGGAGCTGCTGGTGGCGGTGCTGCAGGCCTACGTGTTCGCGGTGCTGACCTCGATCTACCTCAACGACGCCATCCATCCCGGCCACTGA
+ 
+  SEQ ID NO: 46: Nucleotide sequence of ATP synthase subunit a atpB_2  SEQ ID NO: 46:   
+ 
+ 
+ 
+   
+  配列番号４７：ＡＴＰシンターゼサブユニットａ  ａｔｐＢ＿２のアミノ酸配列 
+ 
+MTVDPIHQFEIKRYVDLLNVGGVQFSFTNATVFMIGIVLVIFFFLTFATRGRTLVPGRMQSAAELSYEFIAKMVRDAAGSEGMVFFPFVFSLFMFVLVANVLGLIPYTFTVTAHLIVTAALAATVILTVIIYGFVRHGTHFLHLFVPSGVPGFLLPFLVVIEVVSFLSRPISLSLRLFANMLAGHIALKVFAFFVVGLASAGAIGWFGATLPFFMIVALTALELLVAVLQAYVFAVLTSIYLNDAIHPGH
+ 
+  SEQ ID NO: 47: Amino acid sequence of ATP synthase subunit a atpB_2    MTVDPIHQFEIKRYVDLLNVGGVQFSFTNATVFMIGIVLVIFFFLTFATRGRTLVPGRMQSAAELSYEFIAKMVRDAAGSEGMVFFPFVFSLFMFVLVANVLGLIPYTFTVTAHLIVTAALAATVILTVIIYGFVRHGTHFLHLFVPSGVPGFLLPFLVVIEVVSFLSRPISLSLRLFANMLAGHIALKVFAFFVVGLASAGAIGWFGATLPFFMIVALTALELLVAVLQAYVFAVLTSIYLNDAIHPGH
+ 
+ 
+ 
+   
+  配列番号４８：ＡＴＰシンターゼタンパク質Ｉ  ａｔｐＩのヌクレオチド配列 
+ 
+ATGTCCGAGCCGAATGATCCATCCCGCAGGGACGGTGCGAAGGCGAAAGACGAGACGCAGGACTCCCGGCCCGGTGAGGCGGATCTTGCTCGGCGCCTCGATGCGCTCGGCACCTCCATCGGTCAGGTCAAGTCCAGAAGCGGGGAGCCCGCGGCGACGCCGCGCAAGGACACCTCCTCGGCCTCCGGCGCGGCCCTGGCGTTTCGGCTGGGCGCCGAGTTTGTTTCAGGCGTGCTGGTGGGCTCGCTCATCGGCTACGGGTTGGATTATGCGTTTGCGATTTCGCCCTGGGGGCTGATCGCCTTCACGCTGATCGGCTTTGCCGCCGGCGTCCTGAACATGCTGCGCGTGGCGAACAGCGATGCCAAGCGCCACAGCGCGGACAGGTGA
+ 
+  SEQ ID NO: 48: Nucleotide sequence of ATP synthase protein I atpI    ATGTCCGAGCCGAATGATCCATCCCGCAGGGACGGTGCGAAGGCGAAAGACGAGACGCAGGACTCCCGGCCCGGTGAGGCGGATCTTGCTCGGCGCCTCGATGCGCTCGGCACCTCCATCGGTCAGGTCAAGTCCAGAAGCGGGGAGCCCGCGGCGACGCCGCGCAAGGACACCTCCTCGGCCTCCGGCGCGGCCCTGGCGTTTCGGCTGGGCGCCGAGTTTGTTTCAGGCGTGCTGGTGGGCTCGCTCATCGGCTACGGGTTGGATTATGCGTTTGCGATTTCGCCCTGGGGGCTGATCGCCTTCACGCTGATCGGCTTTGCCGCCGGCGTCCTGAACATGCTGCGCGTGGCGAACAGCGATGCCAAGCGCCACAGCGCGGACAGGTGA
+ 
+ 
+ 
+   
+  配列番号４９：ＡＴＰシンターゼタンパク質Ｉ  ａｔｐＩのアミノ酸配列 
+ 
+MSEPNDPSRRDGAKAKDETQDSRPGEADLARRLDALGTSIGQVKSRSGEPAATPRKDTSSASGAALAFRLGAEFVSGVLVGSLIGYGLDYAFAISPWGLIAFTLIGFAAGVLNMLRVANSDAKRHSADR
+ 
+  SEQ ID NO: 49: Amino acid sequence of ATP synthase protein I atpI    MSEPNDPSRRDGAKAKDETQDSRPGEADLARRLDALGTSIGQVKSRSGEPAATPRKDTSSASGAALAFRLGAEFVSGVLVGSLIGYGLDYAFAISPWGLIAFTLIGFAAGVLNMLRVANSDAKRHSADR
+ 
+ 
+ 
+   
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号５１に示される配列、又は配列番号５１に示される配列と６０％を超える同一性、例えば７０％を超える同一性、９２％を超える同一性等、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するニトロゲナーゼモリブデン－鉄タンパク質アルファ鎖ｎｉｆＤ＿１をコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号５３に示される配列、又は配列番号５３に示される配列と６０％を超える同一性、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するニトロゲナーゼモリブデン－鉄タンパク質アルファ鎖ｎｉｆＤ＿２をコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号５５に示される配列、又は配列番号５５に示される配列と８７％を超える同一性、例えば９０％を超える同一性等、９５％を超える同一性等、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するニトロゲナーゼモリブデン－鉄タンパク質ベータ鎖ｎｉｆＫ＿１をコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号５７に示される配列、又は配列番号５７に示される配列と９５％を超える同一性、例えば９６％を超える同一性、９７％を超える同一性等、例えば９８％を超える配列同一性、９９％を超える配列同一性等を有する配列を有するニトロゲナーゼモリブデン－鉄タンパク質ベータ鎖ｎｉｆＫ＿２をコードする遺伝子を含む。 
+  別の実施形態では、本発明の方法で使用される変異型化学合成独立栄養細菌株は、配列番号５９に示される配列、又は配列番号５９に示される配列に対して９８．５％を超える配列同一性を有する配列を有するニトロゲナーゼ鉄タンパク質ｎｉｆＨをコードする遺伝子を含む。
+ 
+  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding nitrogenase molybdenum-iron protein alpha chain nifD_1 having a sequence as set forth in SEQ ID NO:51, or a sequence having more than 60% identity, such as more than 70% identity, such as more than 92% identity, such as more than 95% identity, such as more than 96% identity, such as more than 97% identity, such as more than 98% sequence identity, such as more than 99% sequence identity to the sequence as set forth in SEQ ID NO:51.  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding nitrogenase molybdenum-iron protein alpha chain nifD_2 having a sequence as set forth in SEQ ID NO:53, or a sequence having more than 60% identity, such as more than 98% sequence identity, such as more than 99% sequence identity to the sequence as set forth in SEQ ID NO:53.  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding nitrogenase molybdenum-iron protein beta chain nifK_1 having a sequence as set forth in SEQ ID NO:55, or a sequence having more than 87% identity, such as more than 90% identity, such as more than 95% identity, such as more than 96% identity, such as more than 97% identity, such as more than 98% sequence identity, such as more than 99% sequence identity to the sequence as set forth in SEQ ID NO:55.  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding nitrogenase molybdenum-iron protein beta chain nifK_2 having a sequence as set forth in SEQ ID NO:57, or a sequence having more than 95% identity, such as more than 96% identity, more than 97% identity, such as more than 98% sequence identity, more than 99% sequence identity, to the sequence as set forth in SEQ ID NO:57.  In another embodiment, the mutant chemoautotrophic bacterial strain used in the methods of the invention comprises a gene encoding a nitrogenase iron protein nifH having a sequence set forth in SEQ ID NO:59, or a sequence with greater than 98.5% sequence identity to the sequence set forth in SEQ ID NO:59.
+ 
+ 
+ 
+   
+  配列番号５０：ニトロゲナーゼモリブデン－鉄タンパク質アルファ鎖ｎｉｆＤ＿１のヌクレオチド配列 
+ 
+ATGAGTTCGCTCTCCGCCACTATTCAACAGGTCTTCAACGAGCCGGGCTGCGCGAAGAACCAGAATAAGTCCGAGGCGGAGAAGAAGAAGGGCTGCACCAAGCAGCTGCAACCCGGCGGAGCGGCCGGCGGCTGCGCGTTCGACGGCGCGAAGATCGCGCTCCAGCCCTTGACCGACGTCGCCCACCTGGTGCACGGCCCCATCGCCTGCGAAGGCAATTCCTGGGACAATCGTGGCGCCAAGTCCTCCGGCTCGAACATCTGGCGCACCGGCTTCACCACGGACATCAACGAAACCGACGTGGTGTTCGGCGGCGAGAAGCGTCTGTTCAAGTCCATCAAGGAAATCATCGAGAAGTACGACCCGCCGGCCGTCTTCGTCTATCAGACCTGCGTCCCCGCCATGATCGGCGACGACATCGACGCGGTGTGCAAGGCGGCCAGGGAGAAGTTCGGAAAGCCGGTGATCCCGATCAATTCCCCCGGCTTCGTGGGGCCGAAGAATCTCGGCAACAAGCTCGCCGGCGAGGCGCTCCTCGACCATGTGATCGGCACCGAGGAGCCCGATTACACGACGGCCTACGACATCAACATCATCGGCGAATACAATCTCTCCGGCGAGTTGTGGCAGGTGAAGCCGCTGCTGGACGAGCTGGGCATCCGCATCCTCGCCTGCATCTCCGGCGACGGGAAGTACAAGGATGTGGCGTCCTCCCACCGCGCCAAGGCGGCGATGATGGTGTGCTCCAAGGCCATGATCAACGTGGCCCGCAAGATGGAGGAGCGCTACGACATCCCCTTCTTCGAAGGCTCCTTCTACGGCATCGAGGATAGCTCCGATTCCCTGCGCGAGATTGCGCGCATGCTCATCGAGAAGGGCGCCGATCCGGAGCTGATGGACCGCACCGAGGCGCTGATTGAGCGGGAAGAGAAGAAGGCGTGGGACGCCATCGCCGCCTACAAGCCCCGCTTCAAGGACAAGAAGGTGCTGCTCATCACCGGCGGCGTGAAATCCTGGTCGGTGGTGGCAGCGCTCCAGGAAGCCGGCCTCGAACTGGTGGGCACCTCGGTGAAGAAGTCCACCAAGGAGGACAAGGAGCGCATCAAGGAACTGATGGGCCAGGACGCCCACATGATCGACGACATGACGCCCCGCGAAATGTACAAGATGCTGAAGGACGCCAAGGCGGACATCATGCTCTCGGGCGGGCGCTCGCAATTCATCGCGCTCAAGGCCGCCATGCCCTGGCTCGACATCAACCAGGAGCGCCACCACGCCTATATGGGCTATGTGGGCATGGTGAAGCTGGTCGAGGAGATCGACAAGGCGCTCTACAATCCCGTGTGGGAACAGGTGCGCAAGCCCGCCCCGTGGGAAAATCCGGAAGACACCTGGCAGGCCCGTGCGCTCGCCGAAATGGAGGCGGAGGCCGCCGCGCTCGCCGCCGATCCGGTGCGCGCGGAAGAGGTGCGCCGGTCCAAGAAGATCTGCAATTGCAAGAGCGTCGACCTCGGAACCATTGAGGACGCCATCAAGGCTCACGCGCTGACCACCGTGGAGGGTGTGCGAGAGCACACCAATGCCTCGGGAGGCTGCGGAGCCTGCAGCGGGCGGATCGAGGAGATCTTCGAGGCCGTGGGCGTTGTCGCCGCCCCGCCTCCCGCGGAGGCCGCCCCGTCTCCGCAGGAGATCGCGCCCGATCCGCTCGCTGCGGAGGAAAAGCGCCGCGCCAAGAAGGCCTGCGGCTGCAAGGAGGTAGCGGTCGGCACCATTGAGGATGCCATCCGCGCCAAGGGTCTGCGAAACATCGCGGAGGTGCGTGCGGCCACCGATGCCAACACCGGCTGCGGCAATTGCCAGGAGCGGGTGGAGGGCATCCTCGACCGGGTTCTCGCCGAGGCGGCCTCAGAACTCCAGGCGGCGGAATAG
+ 
+  SEQ ID NO:50: Nucleotide sequence of nitrogenase molybdenum-iron protein alpha chain nifD_1   
+ 
+ 
+ 
+   
+  配列番号５１：ニトロゲナーゼモリブデン－鉄タンパク質アルファ鎖ｎｉｆＤ＿１のアミノ酸配列 
+ 
+MSSLSATIQQVFNEPGCAKNQNKSEAEKKKGCTKQLQPGGAAGGCAFDGAKIALQPLTDVAHLVHGPIACEGNSWDNRGAKSSGSNIWRTGFTTDINETDVVFGGEKRLFKSIKEIIEKYDPPAVFVYQTCVPAMIGDDIDAVCKAAREKFGKPVIPINSPGFVGPKNLGNKLAGEALLDHVIGTEEPDYTTAYDINIIGEYNLSGELWQVKPLLDELGIRILACISGDGKYKDVASSHRAKAAMMVCSKAMINVARKMEERYDIPFFEGSFYGIEDSSDSLREIARMLIEKGADPELMDRTEALIEREEKKAWDAIAAYKPRFKDKKVLLITGGVKSWSVVAALQEAGLELVGTSVKKSTKEDKERIKELMGQDAHMIDDMTPREMYKMLKDAKADIMLSGGRSQFIALKAAMPWLDINQERHHAYMGYVGMVKLVEEIDKALYNPVWEQVRKPAPWENPEDTWQARALAEMEAEAAALAADPVRAEEVRRSKKICNCKSVDLGTIEDAIKAHALTTVEGVREHTNASGGCGACSGRIEEIFEAVGVVAAPPPAEAAPSPQEIAPDPLAAEEKRRAKKACGCKEVAVGTIEDAIRAKGLRNIAEVRAATDANTGCGNCQERVEGILDRVLAEAASELQAAE
+ 
+  SEQ ID NO:51: Amino acid sequence of nitrogenase molybdenum-iron protein alpha chain nifD_1   
+ 
+ 
+ 
+   
+  配列番号５２：ニトロゲナーゼモリブデン－鉄タンパク質アルファ鎖ｎｉｆＤ＿２のヌクレオチド配列 
+ 
+ATGAGTGTCGCACAGTCCCAGAGCGTCGCCGAGATCAAGGCGCGCAACAAGGAACTCATCGAAGAGGTCCTCAAGGTCTATCCCGAGAAGACCGCCAAGCGCCGCGCCAAGCACCTGAACGTCCACGAAGCCGGCAAGTCCGACTGCGGCGTGAAGTCCAACATCAAGTCCATCCCGGGCGTGATGACCATCCGCGGTTGCGCTTATGCCGGCTCCAAGGGTGTGGTGTGGGGTCCCATCAAGGACATGATCCACATCTCCCACGGCCCGGTGGGCTGCGGCCAGTATAGCTGGGCCGCCCGCCGCAACTACTATATCGGCACGACCGGCATCGACACCTTCGTGACGATGCAGTTCACCTCCGACTTCCAGGAGAAGGACATCGTCTTCGGCGGCGACAAGAAGCTCGCCAAGATCATGGACGAGATCCAGGAGCTGTTCCCGCTGAACAACGGCATCACCGTTCAGTCCGAGTGCCCCATCGGCCTCATCGGCGACGACATCGAGGCCGTCTCCAAGCAGAAGTCCAAGGAGTATGAGGGCAAGACCATCGTGCCGGTGCGCTGCGAGGGCTTCCGCGGCGTGTCCCAGTCCCTGGGCCACCACATCGCCAACGACGCCATCCGCGATTGGGTGTTCGACAAGATCGCGCCCGACGCCGAGCCGCGCTTTGAGCCGACCCCGTACGACGTCGCCATCATCGGCGACTACAATATCGGTGGTGACGCCTGGTCGTCCCGTATCCTCCTGGAGGAGATGGGCCTGCGCGTGATCGCCCAGTGGTCCGGCGACGGTTCGCTCGCTGAGCTGGAGGCCACCCCGAAGGCCAAGCTCAACGTGCTGCACTGCTACCGCTCCATGAACTACATCTCGCGCCACATGGAAGAGAAGTACGGTATCCCGTGGTGCGAGTACAACTTCTTCGGTCCTTCCAAGATCGCCGAGTCCCTGCGCAAGATCGCCAGCTACTTCGACGACAAGATCAAGGAAGGCGCGGAGCGCGTCATCGCCAAGTATCAGCCGCTCATGGATGCGGTGATCGCGAAGTATCGTCCCCGCCTCGAGGGCAAGACCGTGATGCTGTACGTGGGCGGCCTGCGTCCCCGTCACGTCATCGGCGCCTACGAGGACCTGGGCATGGAAGTGGTCGGCACGGGCTACGAGTTCGCCCATAACGACGACTACCAGCGCACCGCCCAGCACTACGTCAAGGATGGCACCATCATCTATGACGACGTGACCGGCTACGAGTTCGAGAAGTTCGTCGAGAAGATCCAGCCGGACCTGGTCGGTTCGGGCATCAAGGAAAAGTACGTCTTCCAGAAGATGGGCGTGCCGTTCCGCCAGATGCACTCCTGGGACTACTCGGGCCCGTACCACGGCTATGACGGCTTCGCGATCTTCGCGCGCGACATGGACATGGCCATCAACAGCCCCGTGTGGAAGATGACCCAGGCTCCGTGGAAGAGCGTCCCCAAGCCGACGATGCTCGCGGCTGAATGA
+ 
+  SEQ ID NO:52: Nucleotide sequence of nitrogenase molybdenum-iron protein alpha chain nifD_2   
+ 
+ 
+ 
+   
+  配列番号５３：ニトロゲナーゼモリブデン－鉄タンパク質アルファ鎖ｎｉｆＤ＿２のアミノ酸配列 
+ 
+MSVAQSQSVAEIKARNKELIEEVLKVYPEKTAKRRAKHLNVHEAGKSDCGVKSNIKSIPGVMTIRGCAYAGSKGVVWGPIKDMIHISHGPVGCGQYSWAARRNYYIGTTGIDTFVTMQFTSDFQEKDIVFGGDKKLAKIMDEIQELFPLNNGITVQSECPIGLIGDDIEAVSKQKSKEYEGKTIVPVRCEGFRGVSQSLGHHIANDAIRDWVFDKIAPDAEPRFEPTPYDVAIIGDYNIGGDAWSSRILLEEMGLRVIAQWSGDGSLAELEATPKAKLNVLHCYRSMNYISRHMEEKYGIPWCEYNFFGPSKIAESLRKIASYFDDKIKEGAERVIAKYQPLMDAVIAKYRPRLEGKTVMLYVGGLRPRHVIGAYEDLGMEVVGTGYEFAHNDDYQRTAQHYVKDGTIIYDDVTGYEFEKFVEKIQPDLVGSGIKEKYVFQKMGVPFRQMHSWDYSGPYHGYDGFAIFARDMDMAINSPVWKMTQAPWKSVPKPTMLAAE
+ 
+  SEQ ID NO:53: Amino acid sequence of nitrogenase molybdenum-iron protein alpha chain nifD_2    MSVAQSQSVAEIKARNKELIEEVLKVYPEKTAKRRAKHLNVHEAGKSDCGVKSNIKSIPGVMTIRGCAYAGSKGVVWGPIKDMIHISHGPVGCGQYSWAARRNYYIGTTGIDTFVTMQFTSDFQEKDIVFGGDKKLAKIMDEIQELFPLNNGITVQSECPIGLIGDDIEAVSKQKSKEYEGKTIVPVRCEGFRGVSQSLGHHIANDAIRDWVFDKIAPDAEPRFEPTPYDVAIIGDYNIGGDAWSSRILL EEMGLRVIAQWSGDGSLAELEATPKAKLNVLHCYRSMNYISRHMEEKYGIPWCEYNFFGPSKIAESLRKIASYFDDKIKEGAERVIAKYQPLMDAVIAKYRPRLEGKTVMLYVGGLRPRHVIGAYEDLGMEVVGTGYEFAHNDDYQRTAQHYVKDGTIIYDDVTGYEFEKFVEKIQPDLVGSGIKEKYVFQKMGVPFRQMHSWDYSGPYHGYDGFAIFARDMDMAINSPVWKMTQAPWKSVPKPTMLAAE
+ 
+ 
+ 
+   
+  配列番号５４：ニトロゲナーゼモリブデン－鉄タンパク質ベータ鎖ｎｉｆＫ＿１のヌクレオチド配列 
+ 
+ATGGCCACCGTTTCCGTCTCCAAGAAGGCCTGCGCGGTCAACCCCCTCAAGATGAGCCAGCCGGTGGGCGGCGCGCTCGCCTTCATGGGCGTGCGCAAGGCCATGCCGCTGCTGCACGGCTCGCAGGGCTGCACCTCCTTCGGCCTGGTGCTGTTCGTGCGCCACTTCAAGGAAGCCATCCCCATGCAGACCACCGCCATGAGCGAGGTGGCGACGGTTCTGGGCGGCCTTGAGAATGTGGAGCAGGCCATTCTCAACATCTACAATCGCACCAAGCCGGAGATCATCGGCATCTGCTCCACCGGCGTCACCGAGACCAAGGGCGATGATGTCGACGGCTACATCAAGCTGATCCGGGACAAGTATCCCCAGCTGGCCGACTTCCCGCTGGTCTATGTCTCCACCCCCGATTTCAAGGACGCCTTCCAGGACGGTTGGGAGAAGACCGTGGCGAAGATGGTGGAGGCGCTGGTGAAGCCCGCCGCCGACAAGCAGAAGGACAAGACCCGCGTCAACGTCCTGCCCGGCTGCCACCTCACGCCCGGCGATCTGGATGAGATGCGGACCATCTTCGAGGATTTCGGGCTCACACCCTATTTCCTGCCGGATCTGGCCGGCTCGCTGGATGGGCATATCCCCGAGGACTTCTCGCCCACCACCATCGGCGGCATCGGCATCGATGAGATCGCCACCATGGGCGAGGCGGCCCACACCATCTGCATCGGCGCGCAGATGCGCCGGGCGGGCGAGGCCATGGAGAAGAAGACCGGCATTCCCTTCAAGCTGTTCGAGCGCCTGTGCGGCCTGGAGGCGAACGACGCCTTCATCATGCACCTGTCGCAGATCTCCGGCCGGCCGGTGCCGGTGAAGTATCGCCGGCAGCGGGGCCAGCTGGTGGATGCCATGCTGGACGGCCACTTCCATCTGGGCGGTCGCAAGGTGGCCATGGGGGCGGAGCCGGACCTGCTCTACGACGTGGGCTCCTTCCTGCACGAGATGGGCGCCCACATCCTTTCCGCGGTCACCACCACCCAGTCGCCGGTGCTGGCGCGCCTGCCTGCCGAGGAGGTGCTTATCGGCGACCTGGAGGATCTGGAGACCCAGGCGAAGGCGCGCGGATGCGATCTCCTGCTCACCCATTCCCATGGGCGCCAGGCGGCGGAGCGCCTCCACATCCCCTTCTACCGGATCGGCATTCCCATGTTTGACCGGCTGGGGGCGGGGCATCTGTTGTCGGTGGGCTATCGCGGCACCCGCGACCTCATCTTCCATCTCGCCAACCTTGTGATCGCCGACCACGAGGAAAATCACGAGCCGACGCCCGACACCTGGGCCACCGGCCATGGCGAGCATGCCGCCGCCCCCACTTCCCATTGA
+ 
+  SEQ ID NO:54: Nucleotide sequence of nitrogenase molybdenum-iron protein beta chain nifK_1   
+ 
+ 
+ 
+   
+  配列番号５５：ニトロゲナーゼモリブデン－鉄タンパク質ベータ鎖ｎｉｆＫ＿１のアミノ酸配列 
+ 
+MATVSVSKKACAVNPLKMSQPVGGALAFMGVRKAMPLLHGSQGCTSFGLVLFVRHFKEAIPMQTTAMSEVATVLGGLENVEQAILNIYNRTKPEIIGICSTGVTETKGDDVDGYIKLIRDKYPQLADFPLVYVSTPDFKDAFQDGWEKTVAKMVEALVKPAADKQKDKTRVNVLPGCHLTPGDLDEMRTIFEDFGLTPYFLPDLAGSLDGHIPEDFSPTTIGGIGIDEIATMGEAAHTICIGAQMRRAGEAMEKKTGIPFKLFERLCGLEANDAFIMHLSQISGRPVPVKYRRQRGQLVDAMLDGHFHLGGRKVAMGAEPDLLYDVGSFLHEMGAHILSAVTTTQSPVLARLPAEEVLIGDLEDLETQAKARGCDLLLTHSHGRQAAERLHIPFYRIGIPMFDRLGAGHLLSVGYRGTRDLIFHLANLVIADHEENHEPTPDTWATGHGEHAAAPTSH
+ 
+  SEQ ID NO:55: Amino acid sequence of nitrogenase molybdenum-iron protein beta chain nifK_1    MATVSVSKKACAVNPLKMSQPVGGALAFMGVRKAMPLLHGSQGCTSFGLVLFVRHFKEAIPMQTTAMSEVATVLGGLENVEQAILNIYNRTKPEIIGICSTGVTETKGDDVDGYIKLIRDKYPQLADFPLVYVSTPDFKDAFQDGWEKTVAKMVEALVKPAADKQKDKTRVNVLPGCHLTPGDLDEMRTIFEDFGLTPYFLPDLAGSLDGHIPEDFSPTTIGGIGIDEI ATMGEAAHTICIGAQMRRAGEAMEKKTGIPFKLFERLCGLEANDAFIMHLSQISGRPVPVKYRRQRGQLVDAMLDGHFHLGGRKVAMGAEPDLLYDVGSFLHEMGAHILSAVTTTQSPVLARLPAEEVLIGDLEDLETQAKARGCDLLLTHSHGRQAAERLHIPFYRIGIPMFDRLGAGHLLSVGYRGTRDLIFHLANLVIADHEENHEPTPDTWATGHGEHAAAPTSH
+ 
+ 
+ 
+   
+  配列番号５６：ニトロゲナーゼモリブデン－鉄タンパク質ベータ鎖ｎｉｆＫ＿２のヌクレオチド配列 
+ 
+ATGCCACAAAATGCTGACAATGTGCTCGATCACTTCGAGCTCTTCCGTGGTCCCGAATACCAGCAGATGCTGGCCAATAAGAAAAAGATGTTCGAGAACCCCCGCGATCCGGCCGAAGTCGAGCGCGTGCGGGAATGGGCGAAGACTCCTGAATACAAGGAGCTGAACTTCGCCCGCGAGGCGCTCACCGTGAATCCGGCCAAGGCTTGTCAGCCGCTGGGCGCGGTGTTCGTCGCCGTCGGCTTCGAGAGCACGATCCCCTTCGTGCACGGCTCGCAGGGTTGCGTCGCGTATTACCGCTCGCACCTCTCCCGCCACTTCAAGGAGCCGTCCTCCTGCGTCTCCTCGTCCATGACCGAGGATGCGGCGGTGTTCGGCGGCCTCAACAACATGATTGACGGCCTCGCCAACACCTACAACATGTACAAGCCGAAGATGATCGCCGTCTCCACCACCTGCATGGCGGAAGTCATCGGCGACGATCTGAACGCCTTCATCAAGACCGCGAAGGAAAAGGGCTCGGTTCCGGCCGAATACGACGTGCCCTTCGCCCACACCCCGGCGTTCGTCGGCAGCCATGTCACCGGCTACGACAATGCGCTCAAGGGCATCCTCGAGCACTTCTGGGACGGCAAGGCCGGCACCGCGCCGAAGCTGGAGCGCGTTCCCAACGAGAAGATCAACTTCATCGGCGGCTTCGACGGCTACACCGTCGGCAACACTCGCGAAGTGAAGCGCATCTTCGAGGCGTTCGGCGCCGATTACACCATCCTCGCCGACAATTCCGAAGTGTTCGACACCCCGACCGACGGCGAGTTCCGCATGTATGACGGCGGCACGACCCTGGAGGACGCGGCGAACGCGGTGCACGCCAAGGCCACCATCTCCATGCAGGAATACTGCACGGAGAAGACCCTGCCCATGATCGCCGGTCATGGCCAGGACGTGGTCGCCCTCAACCACCCCGTGGGCGTGGGCGGCACCGACAAGTTCCTCATGGAGATCGCCCGCCTCACCGGCAAGGAGATCCCCGAGGAGCTGACCCGCGAGCGCGGCCGTCTCGTGGACGCTATCGCGGACTCTTCCGCGCACATCCACGGCAAGAAGTTCGCCATCTACGGCGATCCGGATCTGTGCCTGGGCCTCGCCGCGTTCCTGCTGGAGCTGGGCGCCGAGCCGACCCATGTGCTGGCCACCAACGGCACCAAGAAGTGGGCCGAGAAGGTTCAGGAACTGTTCGACTCTTCGCCGTTCGGCGCCAACTGCAAGGTCTATCCCGGCAAGGACCTGTGGCACATGCGCTCGCTCCTGTTCGTGGAGCCGGTGGATTTCATCATCGGCAACACCTACGGCAAGTATCTCGAGCGCGACACGGGCACCCCGCTGATCCGTATCGGCTTCCCGGTGTTCGACCGTCACCACCACCACCGCCGTCCGGTGTGGGGCTATCAGGGCGGCATGAACGTCCTGATCACGATCCTCGACAAGATCTTTGACGAGATCGACCGCAACACCAACGTGCCGGCCAAGACCGACTACTCGTTCGACATCATTCGTTGA
+ 
+  SEQ ID NO:56: Nucleotide sequence of nitrogenase molybdenum-iron protein beta chain nifK_2   
+ 
+ 
+ 
+   
+  配列番号５７：ニトロゲナーゼモリブデン－鉄タンパク質ベータ鎖ｎｉｆＫ＿２のアミノ酸配列 
+ 
+MPQNADNVLDHFELFRGPEYQQMLANKKKMFENPRDPAEVERVREWAKTPEYKELNFAREALTVNPAKACQPLGAVFVAVGFESTIPFVHGSQGCVAYYRSHLSRHFKEPSSCVSSSMTEDAAVFGGLNNMIDGLANTYNMYKPKMIAVSTTCMAEVIGDDLNAFIKTAKEKGSVPAEYDVPFAHTPAFVGSHVTGYDNALKGILEHFWDGKAGTAPKLERVPNEKINFIGGFDGYTVGNTREVKRIFEAFGADYTILADNSEVFDTPTDGEFRMYDGGTTLEDAANAVHAKATISMQEYCTEKTLPMIAGHGQDVVALNHPVGVGGTDKFLMEIARLTGKEIPEELTRERGRLVDAIADSSAHIHGKKFAIYGDPDLCLGLAAFLLELGAEPTHVLATNGTKKWAEKVQELFDSSPFGANCKVYPGKDLWHMRSLLFVEPVDFIIGNTYGKYLERDTGTPLIRIGFPVFDRHHHHRRPVWGYQGGMNVLITILDKIFDEIDRNTNVPAKTDYSFDIIR
+ 
+  SEQ ID NO:57: Amino acid sequence of nitrogenase molybdenum-iron protein beta chain nifK_2    MPQNADNVLDHFELFRGPEYQQMLANKKKMFENPRDPAEVERVREWAKTPEYKELNFAREALTVNPAKACQPLGAVFVAVGFESTIPFVHGSQGCVAYYRSHLSRHFKEPSSCVSSSMTEDAAVFGGLNNMIDGLANTYNMYKPKMIAVSTTCMAEVIGDDLNAFIKTAKEKGSVPAEYDVPFAHTPAFVGSHVTGYDNALKGILEHFWDGKAGTAPKLERVPNEKINFIGGFDGYTVGNTREVKRIFEAFGADYTILA DNSEVFDTPTDGEFRMYDGGTTLEDAANAVHAKATISMQEYCTEKTLPMIAGHGQDVVALNHPVGVGGTDKFLMEIARLTGKEIPEELTRERGRLVDAIADSSAHIHGKKFAIYGDPDLCLGLAAFLLELGAEPTHVLATNGTKKWAEKVQELFDSSPFGANCKVYPGKDLWHMRSLLFVEPVDFIIGNTYGKYLERDTGTPLIRIGFPVFDRHHHHRRPVWGYQGGMNVLITILDKIFDEIDRNTNVPAKTDYSFDIIR
+ 
+ 
+ 
+   
+  配列番号５８：ニトロゲナーゼ鉄タンパク質ｎｉｆＨのヌクレオチド配列 
+ 
+GTGGAGTCCGGTGGTCCTGAGCCGGGCGTGGGCTGCGCCGGCCGCGGCGTGATCACCTCCATCAACTTCCTGGAGGAGAACGGCGCCTACGAGGACATCGACTATGTGTCCTACGACGTGCTGGGCGACGTGGTGTGCGGCGGCTTCGCCATGCCCATCCGCGAGAACAAGGCGCAGGAAATCTACATCGTGATGTCCGGCGAGATGATGGCCATGTATGCGGCCAACAACATCTCCAAGGGCATCCTGAAGTATGCCAATTCCGGCGGCGTGCGCCTGGGCGGGCTGGTCTGCAACGAGCGCCAGACCGACAAGGAGCTGGAGCTGGCGGAGGCTCTGGCGAAGAAGCTCGGCACCGAGCTGATCTACTTCGTGCCGCGCGACAACATCGTGCAGCATGCCGAGCTGCGCCGCATGACAGTGATCGAGTATGCGCCCGATTCCGCCCAGGCCCAGCACTACCGGAACCTGGCCGAGAAGGTGCACGCCAACAAGGGCAACGGCATCATCCCGACCCCGATCACCATGGACGAGCTGGAAGACATGCTCATGGAGCACGGCATCATGAAGGCCGTGGACGAGAGCCAGATCGGCAAGACCGCCGCCGAGCTCGCCGTCTGA
+ 
+  SEQ ID NO:58: Nucleotide sequence of nitrogenase iron protein nifH   
+ 
+ 
+ 
+   
+  配列番号５９：ニトロゲナーゼ鉄タンパク質ｎｉｆＨのアミノ酸配列 
+ 
+MESGGPEPGVGCAGRGVITSINFLEENGAYEDIDYVSYDVLGDVVCGGFAMPIRENKAQEIYIVMSGEMMAMYAANNISKGILKYANSGGVRLGGLVCNERQTDKELELAEALAKKLGTELIYFVPRDNIVQHAELRRMTVIEYAPDSAQAQHYRNLAEKVHANKGNGIIPTPITMDELEDMLMEHGIMKAVDESQIGKTAAELAV
+ 
+  SEQ ID NO:59: Amino acid sequence of nitrogenase iron protein nifH    MESGGPEPGVGCAGRGVITSINFLEENGAYEDIDYVSYDVLGDVVCGGFAPIRENKAQEIYIVMSGEMMAMYAANNISKGILKYANSGGVRLGGLVCNERQTDKELELAEALAKKLGTELIYFVPRDNVQHAELRRMTVIEYAPDSAQAQHYRNLAEKVHANKGNGIIPTPITMDELEDMLMEHGIMKAVDESQIGKTAAELAV
+ 
+ 
+ 
+   
+（ＶＴＴ－Ｅ－１９３５８５及びその変異体、例えばＶＴＴ－Ｅ－２１３５９５株の遺伝子改変） 
+ 
+  上記のように、更なる主要な態様では、本発明は、細菌株ＶＴＴ－Ｅ－１９３５８５又はその変異体の遺伝子改変のための一般的な方法、及びＶＴＴ－Ｅ－１９３５８５株の遺伝子改変変異体に関する。これらの方法は、本書の実施例５に例示されている。 
+  したがって、一態様では、本発明は、ＶＴＴ－Ｅ－１９３５８５細菌株の遺伝子改変のための方法であって、 
+  ａ）ＶＴＴ－Ｅ－１９３５８５株の細菌、又はＶＴＴ－Ｅ－２１３５９５等のＶＴＴ－Ｅ－１９３５８５細菌株を使用して生成された遺伝子改変株若しくは突然変異株を提供する工程と、 
+  ｂ）前記細菌に核酸コンストラクトを導入する工程であって、前記核酸コンストラクトが、 
+    ｉ）選択可能なマーカーをコードする配列と、 
+    ｉｉ）任意に、前記細菌ゲノムに組み込まれる更なる配列と、 
+    ｉｉｉ）前記細菌ゲノムとの相同組換えを可能にする隣接配列と、を含む、 
+工程と、及び 
+  ｃ）選択可能なマーカーに基づいて、当該核酸コンストラクトが細菌ゲノムに組み込まれている遺伝子改変株を選択する工程、を含む、ＶＴＴ－Ｅ－１９３５８５細菌株の遺伝子改変のための方法に関する。 
+  一実施形態では、核酸コンストラクトはプラスミドである。 
+  いくつかの実施形態では、選択可能なマーカーは、カナマイシン耐性又はテトラサイクリン耐性等の抗生物質耐性を提供する遺伝子であり、工程ｃ）は、抗生物質の存在下で細菌を増殖させることによって行われる。 
+  別の実施形態では、選択可能なマーカーは、蛍光タンパク質をコードする遺伝子であり、工程ｃ）は、蛍光に基づいて行われる。 
+  隣接配列は、典型的には、核酸コンストラクトの部位特異的組込みを可能にするために細菌ゲノム中の配列と完全に同一である。 
+  一実施形態では、本方法は、挿入によって遺伝子を破壊するために使用される。したがって、隣接配列は、核酸コンストラクトの組込み時に、細菌ゲノム中の内因性遺伝子が破壊され、したがって不活性化されるように選択される。 
+  別の実施形態では、本方法は、異種遺伝子若しくは突然変異遺伝子等の遺伝子、又は遺伝子の複数のコピーを細菌ゲノムに挿入するために使用される。 
+  更なる態様では、本発明は、遺伝子改変を含むＶＴＴ－Ｅ－１９３５８５細菌株の変異体であって、当該遺伝子改変が、カナマイシン耐性又はテトラサイクリン耐性等の抗生物質耐性を提供する選択可能なマーカーによる細菌遺伝子の破壊を含む、遺伝子改変を含むＶＴＴ－Ｅ－１９３５８５細菌株の変異体に関する。そのような変異体は、本書、例えば実施例５に例示されている。本発明はまた、そのような変異体を含む培養物、及びバイオマス生成のための方法に関し、当該方法は、そのような変異体を培養することを含む。本方法は、本明細書で上述した更なる特徴のいずれかを有し得る。
+ 
+(Genetic modification of VTT-E-193585 and its mutants, such as VTT-E-213595 strain)    As mentioned above, in a further main aspect, the present invention relates to general methods for the genetic modification of the bacterial strain VTT-E-193585 or mutants thereof, and to genetically modified mutants of the VTT-E-193585 strain. These methods are exemplified in Example 5 herein.  Thus, in one aspect, the present invention relates to a method for the genetic modification of the VTT-E-193585 bacterial strain, comprising:  a) providing a bacterium of the VTT-E-193585 strain or a genetically modified or mutant strain generated using a VTT-E-193585 bacterial strain, such as VTT-E-213595;  b) introducing a nucleic acid construct into the bacterium, the nucleic acid construct comprising:  i) a sequence encoding a selectable marker; and  ii) optionally, further sequences to be integrated into the bacterial genome;  iii) flanking sequences that permit homologous recombination with the bacterial genome;  and c) selecting genetically modified strains in which the nucleic acid construct has been integrated into the bacterial genome based on a selectable marker.  In one embodiment, the nucleic acid construct is a plasmid.  In some embodiments, the selectable marker is a gene that provides antibiotic resistance, such as kanamycin resistance or tetracycline resistance, and step c) is carried out by growing the bacteria in the presence of the antibiotic.  In another embodiment, the selectable marker is a gene encoding a fluorescent protein and step c) is performed on the basis of fluorescence.  The flanking sequences are typically completely identical to sequences in the bacterial genome to allow site-specific integration of the nucleic acid construct.  In one embodiment, the method is used to disrupt a gene by insertion, and thus the flanking sequences are selected such that upon integration of the nucleic acid construct, an endogenous gene in the bacterial genome is disrupted and thus inactivated.  In another embodiment, the method is used to insert a gene, such as a heterologous or mutated gene, or multiple copies of a gene, into a bacterial genome.  In a further aspect, the invention relates to a mutant of the VTT-E-193585 bacterial strain comprising a genetic modification, the genetic modification comprising a disruption of a bacterial gene with a selectable marker providing antibiotic resistance, such as kanamycin resistance or tetracycline resistance. Such mutants are exemplified herein, for example in Example 5. The invention also relates to cultures comprising such mutants, and to methods for biomass production, the methods comprising culturing such mutants. The methods may have any of the further features described herein above.
+ 
+ 
+ 
+   
+（下流処理） 
+  一実施形態では、本発明の方法は、培養中に生成されたバイオマスを回収する更なる工程を含む。バイオマスは、例えば、沈降（重力に基づく沈下）、濾過、遠心分離又は凝集によって回収され得る。凝集は、凝集剤の添加を必要とし得る。遠心分離は、例えば、連続流遠心分離機を使用して実施され得る。 
+  一実施形態では、回収されたバイオマスはその後乾燥される。乾燥は、例えば、遠心分離、ドラム乾燥、蒸発、凍結乾燥、加熱、噴霧乾燥、真空乾燥及び／又は真空濾過を含む周知の方法を使用して行うことができる。乾燥バイオマスは、その後、製品、例えば食品若しくは飼料製品、又は飼料若しくは食品原料に使用することができる。 
+  別の実施形態では、回収したバイオマスの細胞を溶解する。溶解物は、いくつかの実施形態では、不溶性画分と可溶性画分とに分離され得、これらのいずれか又は両方は、その後濃縮又は乾燥され得、そしてその後、製品、例えば食品又は飼料製品に使用され得る。
+ 
+(Downstream processing)  In one embodiment, the method of the invention comprises the further step of harvesting the biomass produced during cultivation. The biomass can be harvested, for example, by sedimentation (gravity-based settling), filtration, centrifugation or flocculation. Flocculation may require the addition of a flocculant. Centrifugation can be carried out, for example, using a continuous-flow centrifuge.  In one embodiment, the recovered biomass is then dried. Drying can be accomplished using known methods including, for example, centrifugation, drum drying, evaporation, freeze drying, heating, spray drying, vacuum drying, and/or vacuum filtration. The dried biomass can then be used in a product, such as a food or feed product, or a feed or food ingredient.  In another embodiment, the cells of the harvested biomass are lysed. The lysate may in some embodiments be separated into an insoluble and a soluble fraction, either or both of which may then be concentrated or dried and then used in a product, such as a food or feed product.
+ 
+ 
+ 
+   
+  一実施形態では、バイオマスが回収され、当該バイオマスからタンパク質が単離され、タンパク質画分及び非タンパク質成分を含む画分が得られる。したがって、一実施形態では、本方法は、タンパク質の生成のためのものであり、そのＶＴＴ－Ｅ－２１３５９５株を培養する工程、続いてバイオマスを回収する工程、及び当該バイオマスからタンパク質を単離する更なる工程を含む。 
+  別の実施形態では、本方法は、タンパク質の生成のためのものであり、エネルギー源としての水素及び無機炭素源を用いて連続培養で変異型化学合成独立栄養細菌株、例えばキサントバクター属を培養することであって、無機炭素源が二酸化炭素を含む、培養することを含み、バイオマスを回収する工程、及び当該バイオマスからタンパク質を単離する更なる工程が続く。 
+  タンパク質単離の方法に応じて、得られた画分は、より純粋であってもよく、又はより純粋でなくてもよい。したがって、「タンパク質画分」という用語は、タンパク質が濃縮された画分を意味する。タンパク質画分は、依然として有意な量の他の成分を含み得、また有意な量のタンパク質が「非タンパク質成分を含む画分」になり得る。 
+  タンパク質の単離は、任意の適切な方法を使用して実施され得る。例えば、一実施形態では、タンパク質は、細胞を機械的に破壊し、１つ以上の濾過工程、例えば孔径が減少する複数のフィルターによる連続濾過によって細胞残屑からタンパク質を分離することによって単離される。機械的破壊は、任意の適切な方法、例えばボールミル粉砕、超音波処理、均質化、高圧均質化、機械的剪断等を使用して行うことができる。 
+  得られた濾過されたタンパク質画分はタンパク質が濃縮されるが、更に他のより小さな成分も含有する。タンパク質は、任意に、任意の適切な方法を使用して、この画分から更に精製されてもよい。 
+  別の実施形態では、エタノール抽出とそれに続く１つ以上の濾過工程を行うことによってタンパク質画分を単離する。そのような方法は、例えば、ダイズタンパク質の調製から知られている（例えば、Ｂｅｒｋ  ＦＡＯ  Ａｇｒｉｃｕｌｔｕｒａｌ  Ｓｅｒｖｉｃｅｓ  Ｂｕｌｌｅｔｉｎ  Ｎｏ．９７（１９９２）による  “Ｔｅｃｈｎｏｌｏｇｙ  ｏｆ  ｐｒｏｄｕｃｔｉｏｎ  ｏｆ  ｅｄｉｂｌｅ  ｆｌｏｕｒｓ  ａｎｄ  ｐｒｏｔｅｉｎ  ｐｒｏｄｕｃｔｓ  ｆｒｏｍ  ｓｏｙｂｅａｎｓ”の第５章”Ｓｏｙｂｅａｎ  Ｐｒｏｔｅｉｎ  Ｃｏｎｃｅｎｔｒａｔｅｓ”を参照されたい）。得られたタンパク質画分は、タンパク質が濃縮されるが、依然として他の成分も含有する。タンパク質は、任意に、任意の適切な方法を使用して、この画分から更に精製されてもよい。 
+  一実施形態では、本発明の方法は、本発明の方法から得られたタンパク質画分を加水分解してアミノ酸及び小型ペプチドを得る更なる工程を含む。
+ 
+  In one embodiment, the biomass is harvested and the protein is isolated from the biomass, obtaining a protein fraction and a fraction containing non-protein components. Thus, in one embodiment, the method is for the production of a protein and comprises the steps of culturing the VTT-E-213595 strain, followed by harvesting the biomass and the further step of isolating the protein from the biomass.  In another embodiment, the method is for the production of protein and comprises culturing a mutant chemoautotrophic bacterial strain, such as Xanthobacter sp., in continuous culture with hydrogen as an energy source and an inorganic carbon source, wherein the inorganic carbon source comprises carbon dioxide, followed by the step of recovering biomass and the further step of isolating the protein from the biomass.  Depending on the method of protein isolation, the fraction obtained may be more pure or less pure. Thus, the term "protein fraction" refers to a fraction enriched in protein. A protein fraction may still contain significant amounts of other components, and a significant amount of protein may be in the "fraction containing non-protein components".  Protein isolation can be carried out using any suitable method.For example, in one embodiment, protein is isolated by mechanically disrupting cells and separating the protein from cell debris by one or more filtration steps, such as successive filtration through multiple filters with decreasing pore size.Mechanical disruption can be carried out using any suitable method, such as ball milling, sonication, homogenization, high pressure homogenization, mechanical shearing, etc.  The resulting filtered protein fraction is enriched in protein, but also contains other smaller components. The protein may optionally be further purified from this fraction using any suitable method.  In another embodiment, the protein fraction is isolated by ethanol extraction followed by one or more filtration steps. Such methods are known, for example, from the preparation of soybean proteins (see, for example, Chapter 5 "Soybean Protein Concentrates" in "Technology of production of edible flours and protein products from soybeans" by Berk FAO Agricultural Services Bulletin No. 97 (1992)). The resulting protein fraction is enriched in proteins but still contains other components. Proteins may optionally be further purified from this fraction using any suitable method.  In one embodiment the method of the invention comprises the further step of hydrolysing the protein fraction obtained from the method of the invention to obtain amino acids and small peptides.
+ 
+ 
+ 
+   
+  本発明の方法の一実施形態では、本方法は、当該バイオマス、当該タンパク質画分又は非タンパク質成分を含む当該画分から食品又は飼料製品を製造する更なる工程を含む。当該更なる工程は、当該バイオマス、タンパク質画分又は非タンパク質成分を含む画分を、食品又は飼料製品の製造中に添加することによって、食品又は飼料製品に組み込むことを単に含んでいてもよい。他の実施形態では、バイオマス又はその画分の更なる精製又は修飾は、食品又は飼料製品への組込みの過程で行われる。 
+  更なる態様では、本発明は、本発明による方法によって得られる又は得ることができる、バイオマス、タンパク質、又は非タンパク質成分等の製品に関する。 
+  一実施形態では、本発明の方法から得られる製品は、４０％を超えるタンパク質、例えば４０％～９９％の間のタンパク質、例えば４０％～９０％の間のタンパク質、例えば４０％～６０％の間のタンパク質を含む。 
+  特定の実施形態では、製品は、２５％～７５％の間のタンパク質、０％～２０％の間の脂質及び５％～４０％の間の炭水化物を含む。更なる実施形態では、製品は、４０％～６０％の間のタンパク質、０％～１５％の間の脂質及び１０％～２５％の間の炭水化物を含む。なお更なる実施形態では、本発明の方法から得られる生成物は、４５％～５５％の間のタンパク質、５％～１０％の間の脂質及び１０％～２０％の間の炭水化物を含む。
+ 
+  In one embodiment of the method of the invention, the method comprises the further step of producing a food or feed product from the biomass, the protein fraction or the fraction containing non-protein components. The further step may simply involve incorporating the biomass, the protein fraction or the fraction containing non-protein components into a food or feed product by adding it during the production of the food or feed product. In another embodiment, further purification or modification of the biomass or a fraction thereof is carried out during the incorporation into the food or feed product.  In a further aspect, the present invention relates to products, such as biomass, proteins or non-protein components, obtained or obtainable by the method according to the invention.  In one embodiment the product resulting from the process of the present invention comprises more than 40% protein, such as between 40% and 99% protein, such as between 40% and 90% protein, such as between 40% and 60% protein.  In particular embodiments, the product comprises between 25%-75% protein, between 0%-20% lipid and between 5%-40% carbohydrate. In further embodiments, the product comprises between 40%-60% protein, between 0%-15% lipid and between 10%-25% carbohydrate. In yet further embodiments, the product resulting from the process of the present invention comprises between 45%-55% protein, between 5%-10% lipid and between 10%-20% carbohydrate.
+ 
+ 
+ 
+   
+  上述のように、更なる態様における本発明は、本発明による方法によって得られる又は得ることができる食品又は飼料製品に関する。本書で使用される場合、「食品」及び「飼料」という用語は、加工食品等の従来の食品及び飼料製品だけでなく、食品及び飼料サプリメント、例えばプロテインバー、粉末又はシェイク、肉代用品、食品原料、プロバイオティクス、プレバイオティクス、栄養補助食品等の関連製品も含むことを意図している。特定の実施形態では、当該バイオマス、当該タンパク質画分又は非タンパク質成分を含む当該画分は、ベジタリアン又はビーガン食品の製造に利用される。 
+  更なる態様では、本発明は、ＶＴＴ－Ｅ－１９３５８５株の細菌又はその変異体、本明細書に記載の変異体等、例えばＶＴＴ  Ｅ－２１３５９５株を使用した医薬品、生物活性化合物、栄養補助食品、酸化防止剤及び／又はビタミンの製造に関する。生物活性化合物、栄養補助食品、酸化防止剤、ビタミンは、当技術分野で公知の方法を使用してバイオマスから抽出することができる。 
+  したがって、更なる実施形態では、本発明は、生物活性化合物、栄養補助食品、抗酸化剤、ビタミン等の化合物を、当該バイオマス又は培養液から単離、例えば抽出する更なる工程を含む、本書に記載のバイオマスの生成のための方法に関する。更なる実施形態では、本発明は、医薬品又は栄養補助食品としてのこれらの化合物の使用に関する。一実施形態では、抽出された化合物はベータ－カロテン（プロビタミンＡ）である。別の実施形態では、抽出された化合物はユビキノンＱ１０である。別の実施形態では、抽出された化合物は、ヘム鉄、例えばチトクロムＣの形態である。別の実施形態では、抽出された化合物はビタミンＢ１２である。 
+  本発明を、以下の非限定的な例を用いて更に説明する。
+ 
+  As mentioned above, the present invention in a further aspect relates to a food or feed product obtained or obtainable by the method according to the invention. As used herein, the terms "food" and "feed" are intended to include not only traditional food and feed products such as processed foods, but also food and feed supplements, such as protein bars, powders or shakes, meat substitutes, food ingredients, probiotics, prebiotics, dietary supplements and other related products. In a particular embodiment, the biomass, the protein fraction or the fraction containing non-protein components is utilized in the production of a vegetarian or vegan food product.  In a further aspect, the invention relates to the production of pharmaceuticals, bioactive compounds, dietary supplements, antioxidants and/or vitamins using bacteria of strain VTT-E-193585 or mutants thereof, such as those described herein, e.g., strain VTT E-213595. Bioactive compounds, dietary supplements, antioxidants, vitamins can be extracted from the biomass using methods known in the art.  Thus, in a further embodiment, the invention relates to a method for the production of biomass as described herein, comprising the further step of isolating, e.g. extracting, compounds such as bioactive compounds, nutraceuticals, antioxidants, vitamins, etc. from said biomass or culture broth. In a further embodiment, the invention relates to the use of these compounds as pharmaceuticals or nutraceuticals. In one embodiment, the extracted compound is beta-carotene (provitamin A). In another embodiment, the extracted compound is ubiquinone Q10. In another embodiment, the extracted compound is heme iron, e.g. in the form of cytochrome C. In another embodiment, the extracted compound is vitamin B12.  The invention is further illustrated by the following non-limiting examples.
+ 
+ 
+ 
+ 
+   
+  実施例１  化学合成独立栄養増殖が可能な細菌株の単離 
+  土壌及び海水を含有する５０ｍＬの試料を、フィンランドのナーンタリのバルト海の海岸から滅菌ファルコンチューブに収集した。滅菌三角フラスコ中で、土壌試料の一部を１０ｍＬのミネラル培地と混合した。培地は、水道水中で調製した１ｇ／Ｌ  ＮＨ ４ ＯＨ、０．２３ｇ／Ｌ  ＫＨ ２ ＰＯ ４ 、０．２９ｇ／Ｌ  Ｎａ ２ ＨＰＯ ４ ・２Ｈ ２ Ｏ、０．００５ｇ／Ｌ  ＮａＶＯ ３ ・Ｈ ２ Ｏ、０．２ｇ／Ｌ  ＦｅＳＯ ４ ・７Ｈ ２ Ｏ、０．５ｇ／Ｌ  ＭｇＳＯ ４ ・７Ｈ ２ Ｏ、０．０１ｇ／Ｌ  ＣａＳＯ ４ 、０．０００１５ｇ／Ｌ  Ｎａ ２ ＭｏＯ ４ ・２Ｈ ２ Ｏ、０．００５ｇ／Ｌ  ＭｎＳＯ ４ 、０．０００５ｇ／Ｌ  ＺｎＳＯ ４ ・７Ｈ ２ Ｏ、０．００１５ｇ／Ｌ  Ｈ ３ ＢＯ ３ 、０．００１ｇ／Ｌ  ＣｏＳＯ ４ 、０．００００５ｇ／Ｌ  ＣｕＳＯ ４ 及び０．０００１ｇ／Ｌ  ＮｉＳＯ ４ からなっている。 
+  土壌及び培地の懸濁液を、ガス混合物：１５０ｍＬ／分のＮ ２ 、１８ｍＬ／分のＨ ２ 、３ｍＬ／分のＯ ２ 及び６ｍＬ／分のＣＯ ２ で連続的にフラッシュした密閉スチールボックス内の＋３０℃の温度の振盪インキュベータ内でインキュベートした。１ｍＬの懸濁液を採取し、これを滅菌状態で三角フラスコ内の９ｍＬの培地に添加し、次いでインキュベーションボックスに戻すことによって、培養を７日間隔でリフレッシュした。４回目の希釈後、懸濁液中に目立った土は残っていなかった。バイオリアクタ培養用のバイオマスを増殖させるために、細胞懸濁液の体積を１００ｍＬに増加させた。懸濁液の光学密度（ＯＤ ６００ ）は、１５容器２００ｍＬ並列バイオリアクタシステム（Ｍｅｄｉｃｅｌ  Ｅｘｐｌｏｒｅｒ、Ｍｅｄｉｃｅｌ  Ｏｙ、フィンランド）中の１９０ｍＬのミネラル培地に接種した場合、１．５３であった。培養条件は、８００ｒｐｍの撹拌、＋３０℃の温度であり、ｐＨを６．８に設定し、１Ｍ  ＮａＯＨで制御した。１４ｍＬ／分のＨ ２ 、３ｍＬ／分のＯ ２ 及び６ｍＬ／分のＣＯ ２ からなるガス混合物を用いてスパージャを通してガスを供給した。 
+  リアクタのヘッドスペースを３００ｍＬ／分の空気でフラッシュした。連続培養に６ｍＬ／時のミネラル培地を供給し、容量を２００ｍＬで一定に保ちながらキャピラリーを介して細胞懸濁液をリアクタから取り出した。リアクタから取り出した細胞懸濁液を＋４℃で保存した。毎日自動的にバイオリアクタから試料を採取し、６００ｎｍでの吸光度を測定して増殖を監視した。４９８時間のバイオリアクタ培養後、試料を無菌的に取り出し、懸濁液を希釈し、上記ミネラル及び２％細菌寒天を含有する寒天ミネラル培地プレートに播種した。プレートを、三角フラスコについて上記したのと同じ条件でインキュベートした。 
+  次いで、コロニーを寒天プレートから採取し、１つのコロニー中の１つの生物を単離するために新しい寒天プレートにストリークした。これを２回繰り返した。単一コロニーを採取し、９６ウェルマイクロタイタープレート中の２００μＬの培地に懸濁した。懸濁液を＋３０℃の温度でインキュベートし、ＥｎｚｙＳｃｒｅｅｎ気密ボックス内で６２５ｒｐｍで振盪し、これを１５０ｍＬ／分のＮ ２ 、１８ｍＬ／分のＨ ２ 、３ｍＬ／分のＯ ２ 及び６ｍＬ／分のＣＯ ２ で連続的にフラッシュした。１つのウェルからの懸濁液を三角フラスコに移し、新鮮な培地を補充した。バイオリアクタ培養を行うのに十分なバイオマスが存在するまで、体積を増加させた。生物をＶＴＴ－Ｅ－１９３５８５としてＶＴＴ  ｃｕｌｔｕｒｅ  ｃｏｌｌｅｃｔｉｏｎに寄託した。
+ 
+  Example 1 Isolation of bacterial strains capable of chemoautotrophic growth 50 mL samples containing soil and seawater were collected in sterile Falcon tubes from the Baltic Sea coast of Naantali, Finland. A portion of the soil sample was mixed with 10 mL of mineral medium in a sterile Erlenmeyer flask. The medium  was  prepared in tap water and contained 1 g/L  NH4OH  , 0.23 g/L KH2PO4, 0.29 g/L  Na2HPO4.2H2O   ,  0.005  g   /  L  NaVO3.H2O   ,  0.2 g  /  L FeSO4.7H2O,  0.5  g  /  L MgSO4.7H2O  ,   0.01  g/L CaSO4  ,  0.00015  g   /  L  Na2MoO4.2H2O   ,  0.005 g/L MnSO4, 0.0005 g/L ZnSO4.7H2O,  0.0015   g  /L  H3BO3  , and 0.001 g/L CoSO4  .  , 0.00005 g/L  CuSO4  and 0.0001 g/L  NiSO4  .  The suspension of soil and medium was incubated in a shaking incubator at a temperature of +30° C. in a closed steel box continuously flushed with a gas mixture: N  2  at 150 mL/min, H  2  at 18 mL/min, O  2  at 3 mL/min and CO  2  at 6 mL/min. The culture was refreshed at 7-day intervals by taking 1 mL of the suspension and adding it to 9 mL of medium in an Erlenmeyer flask under sterile conditions and then returning it to the incubation box. After the fourth dilution, no noticeable soil remained in the suspension. To grow the biomass for bioreactor cultivation, the volume of the cell suspension was increased to 100 mL. The optical density (OD  600  ) of the suspension was 1.53 when inoculating 190 mL of mineral medium in a 15-vessel 200 mL parallel bioreactor system (Medicel Explorer, Medicel Oy, Finland). Culture conditions were: stirring at 800 rpm, temperature at +30° C., pH was set at 6.8 and controlled with 1 M NaOH. Gassing was performed through a sparger using a gas mixture consisting of 14 mL/min  H2  , 3 mL/min  O2  and 6 mL/min  CO2  .  The headspace of the reactor was flushed with air at 300 mL/min. The continuous culture was fed with mineral medium at 6 mL/h and the cell suspension was removed from the reactor via a capillary while keeping the volume constant at 200 mL. The cell suspension removed from the reactor was stored at +4°C. Growth was monitored by automatically taking samples from the bioreactor every day and measuring the absorbance at 600 nm. After 498 hours of bioreactor cultivation, samples were aseptically removed, the suspension was diluted and plated on agar mineral medium plates containing the above minerals and 2% bacterial agar. The plates were incubated under the same conditions as described above for the Erlenmeyer flasks.  Colonies were then picked from the agar plate and streaked onto a new agar plate to isolate one organism in one colony. This was repeated twice. Single colonies were picked and suspended in 200 μL of medium in a 96-well microtiter plate. The suspension was incubated at a temperature of +30° C. and shaken at 625 rpm in an EnzyScreen airtight box, which was continuously flushed with 150 mL/min N  2  , 18 mL/min H  2  , 3 mL/min O  2  and 6 mL/min CO  2  . The suspension from one well was transferred to an Erlenmeyer flask and replenished with fresh medium. The volume was increased until there was enough biomass to perform a bioreactor culture. The organism was deposited in the VTT culture collection under the number VTT-E-193585.
+ 
+ 
+ 
+   
+  試料の１６Ｓ  ｒＲＮＡ配列決定は、試料が１つの生物のみを含有することを実証した。同じ試料をＩｌｌｕｍｉｎａ  ＮｅｘｔＳｅｑ配列決定に使用して、１×１５０ｂｐのメタゲノムショットガン配列を得た。Ｕｎｉｃｙｃｌｅｒ（Ｗｉｃｋ  ｅｔ  ａｌ，２０１７  ＰＬｏＳ  ｃｏｍｐｕｔａｔｉｏｎａｌ  ｂｉｏｌｏｇｙ  １３：ｅ１００５５９５）を使用して、１０１個のコンティグからなるメタゲノム配列に対してデノボアセンブリ（ｄｅ  ｎｏｖｏ  ａｓｓｅｍｂｌｙ）を作製した。全ゲノム長は４，８４６，７３９ｂｐであり、ＧＣ含有量は６７．９％であった。 
+  遺伝子予測及び機能的注釈を、Ｐｒｏｋｋａ（Ｓｅｅｍａｎｎ，２０１４  Ｂｉｏｉｎｆｏｒｍａｔｉｃｓ  ３０：２０６８）を使用して行った。ゲノムアノテーションにより、４，４２９個の遺伝子が生成された。Ｒｏａｒｙパンゲノムアラインメント（Ｐａｇｅ  ｅｔ  ａｌ，２０１５  Ｂｉｏｉｎｆｏｒｍａｔｉｃｓ  ３１：３６９１）は、キサントバクター種間でＶＴＴ－Ｅ－１９３５８５をグループ化した。したがって、この株はキサントバクターｓｐ．として同定され、最も近いゲノムはキサントバクター・タゲティディス（Ｘａｎｔｈｏｂａｃｔｅｒ  ｔａｇｅｔｉｄｉｓ）であった。オルソロガス断片（ＯｒｔｈｏＡＮＩ）のみを考慮した平均ヌクレオチド同一性のアラインメントに基づく計算（Ｌｅｅ  ｅｔ  ａｌ，２０１６  Ｉｎｔ  Ｊ  Ｓｙｓｔ  Ｅｖｏｌ  Ｍｉｃｒｏｂｉｏｌ  ６６：１１００）は、キサントバクター・タゲティディス（Ｘａｎｔｈｏｂａｃｔｅｒ  ｔａｇｅｔｉｄｉｓ）（ＡＴＣＣ  ７００３１４；ＧＣＦ＿００３６６７４４５．１）に対して８０．４％の最良の一致を与えたが、提案された種境界カットオフは９５～９６％である（例えば、Ｃｈｕｎ  ｅｔ  ａｌ．，２０１８  Ｉｎｔ  Ｊ  Ｓｙｓｔ  Ｅｖｏｌ  Ｍｉｃｒｏｂｉｏｌ，６８：４６１－４６６を参照）。 
+  キサントバクター・オートトロフィカスＰｙ２は７９．６％の一致を与えたが、キサントバクター  ｓｐ．９１の場合の一致は７９．０％であった。したがって、ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株は、系統：プロテオバクテリア；クラス：アルファプロテオバクテリア；及び目：リゾビウム（Ｒｈｉｚｏｂｉａｌｅｓ）に属すると結論付けることができた。最も可能性の高い科はキサントバクター科であり、キサントバクター属である。ＶＴＴ－Ｅ－１９３５８５細菌株は、いずれの既知の種にも明確に割り当てることができなかった。
+ 
+  16S rRNA sequencing of the sample demonstrated that the sample contained only one organism. The same sample was used for Illumina NextSeq sequencing to obtain a metagenomic shotgun sequence of 1x150bp. A de novo assembly was generated for the metagenomic sequence consisting of 101 contigs using Unicycler (Wick et al, 2017 PLoS computational biology 13:e1005595). The total genome length was 4,846,739bp with a GC content of 67.9%.  Gene prediction and functional annotation were performed using Prokka (Seemann, 2014 Bioinformatics 30:2068). Genome annotation generated 4,429 genes. A Roary pan-genome alignment (Page et al, 2015 Bioinformatics 31:3691) grouped VTT-E-193585 among Xanthobacter species. Thus, the strain was identified as Xanthobacter sp., with the closest genome being Xanthobacter tagetidis. Alignment-based calculations of average nucleotide identity considering only orthologous fragments (OrthoANI) (Lee et al., 2016 Int J Syst Evol Microbiol 66:1100) gave a best match of 80.4% to Xanthobacter tagetidis (ATCC 700314; GCF_003667445.1), although the proposed species demarcation cutoff is 95-96% (see, e.g., Chun et al., 2018 Int J Syst Evol Microbiol, 68:461-466).  Xanthobacter autotrophicus Py2 gave a match of 79.6%, whereas the match in the case of Xanthobacter sp. 91 was 79.0%. It could therefore be concluded that the isolated bacterial strain deposited under VTT-E-193585 belongs to the phylum: Proteobacteria; class: Alphaproteobacteria; and order: Rhizobiales. The most likely family is the family Xanthobacteraceae and the genus Xanthobacter. The VTT-E-193585 bacterial strain could not be unambiguously assigned to any known species.
+ 
+ 
+ 
+   
+  推定抗菌剤耐性遺伝子の検索を行った。ＡＢＲｉｃａｔｅ（ｈｔｔｐｓ：／／ｇｉｔｈｕｂ．ｃｏｍ／ｔｓｅｅｍａｎｎ／ａｂｒｉｃａｔｅ）ツールを用い、ｂｌａｓｔｎ又はｂｌａｓｔｐを使用して、Ａｒｇ－Ａｎｎｏｔ、ＮＣＢＩ、ＲｅｓＦｉｎｄｅｒ、ｅｃＯＨ、Ｍｅｇａｒｅｓ及びＶＦＤＢデータベースに対してゲノムを検索した。ヌクレオチド及びタンパク質レベルの両方で、同一性及びカバレッジの両方に対して５０％の閾値を設定した。２つの推定抗菌剤耐性遺伝子のみが同定された。これらの２つの遺伝子は、抗生物質耐性に関連するアミノ酸変化を含有せず、したがって耐性表現型は予想されない。
+ A search for putative antimicrobial resistance genes was performed. The genome was searched against the Arg-Annot, NCBI, ResFinder, ecOH, Megares and VFDB databases using blastn or blastp with the ABRcate (https://github.com/tseemann/abricate) tool. A threshold of 50% was set for both identity and coverage at both the nucleotide and protein level. Only two putative antimicrobial resistance genes were identified. These two genes do not contain amino acid changes associated with antibiotic resistance and therefore no resistance phenotype is expected. 
+ 
+ 
+   
+  実施例２  分離細菌株のパイロット培養及び分析 
+  ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株を、従来の２００リットル撹拌タンクバイオリアクタ（ＭＰＦ－Ｕ，Ｍａｒｕｂｉｓｈｉ  Ｌｔｄ、日本）で培養した。混合は、４００ｒｐｍで回転するラシュトン型インペラを用いて行った。培養中の温度を＋３０℃に維持した。ソフトウェア制御により８Ｍ  ＮａＯＨ又は３．６Ｍ  Ｈ ３ ＰＯ ４ を添加することによって、ｐＨを６．８±０．２に維持した。 
+  培養培地は、水道水中で調製した１ｇ／Ｌ  ＮＨ ４ ＯＨ、０．２３ｇ／Ｌ  ＫＨ ２ ＰＯ ４ 、０．２９ｇ／Ｌ  Ｎａ ２ ＨＰＯ ４ ・２Ｈ ２ Ｏ、０．００５ｇ／Ｌ  ＮａＶＯ ３ ・Ｈ ２ Ｏ、０．２ｇ／Ｌ  ＦｅＳＯ ４ ・７Ｈ ２ Ｏ、０．５ｇ／Ｌ  ＭｇＳＯ ４ ・７Ｈ ２ Ｏ、０．０１ｇ／Ｌ  ＣａＳＯ ４ 、０．０００１５ｇ／Ｌ  Ｎａ ２ ＭｏＯ ４ ・２Ｈ ２ Ｏ、０．００５ｇ／Ｌ  ＭｎＳＯ ４ 、０．０００５ｇ／Ｌ  ＺｎＳＯ ４ ・７Ｈ ２ Ｏ、０．００１５ｇ／Ｌ  Ｈ ３ ＢＯ ３ 、０．００１ｇ／Ｌ  ＣｏＳＯ ４ 、０．００００５ｇ／Ｌ  ＣｕＳＯ ４ 及び０．０００１ｇ／Ｌ  ＮｉＳＯ ４ を含んでいた。 
+  １．８～１０．５Ｌ／分の水素ガス、０．６～２．５Ｌ／分の酸素ガス及び１．８～５Ｌ／分の二酸化炭素ガスを含有する混合物を、エネルギー及び炭素の主な供給源として常に供給した。ガス混合物の組成を調整することにより、溶存酸素レベルを７．２±０．５％に維持した。培養のための接種材料を実施例１に記載のように調製した。手動で試料を採取し、６００ｎｍでの吸光度（Ｕｌｔｒｏｓｐｅｃ  ２１００  ｐｒｏ  ＵＶ／可視分光光度計、Ｂｉｏｃｈｒｏｍ  Ｌｔｄ．、英国）を測定することによって細胞密度を光学密度として分析することにより、及び１０５℃で一晩オーブンで乾燥させることによって細胞乾燥重量（ＣＤＷ）を測定することにより、増殖を監視した。ｉｎ  ｓｉｔｕ吸光度プローブ（Ｔｒｕｃｅｌｌ  ２、Ｆｉｎｅｓｓｅ  Ｌｔｄ．、ＵＳＡ）を用いて光学密度も監視した。培養の増殖曲線を図１に示す。 
+  バッチ相での最大増殖速度は０．０６ｈ －１ であった。最大細胞密度は９２時間で４．５ｇ＿ＣＤＷ／Ｌであった。９２時間の培養後、０．０１ｈ －１ の希釈率で上記のような新鮮な培養培地の供給を開始した。連続供給の間、細胞密度は平均２．９ｇ＿ＣＤＷ／Ｌであった。培養液は常に冷却された（＋１０℃）タンクに回収し、そこから３００リットルバッチで連続型遠心分離機（ＢＴＰＸ－２０５、Ａｌｆａ－Ｌａｖａｌ  ＡＢ、スウェーデン）に供給した。セパレータから収集した細胞含有スラリーを、大気圧二重ドラム乾燥機（Ｂｕｆｌｏｖａｋ  ６ｘ８  ＡＤＤＤ、Ｈｅｂｅｌｅｒ  ｐｒｏｃｅｓｓ  ｓｏｌｕｔｉｏｎｓ  Ｌｌｃ．、米国）に供給し、４バールの蒸気及び３．５ｒｐｍで回転するドラムで加熱した。これにより、約９６％の乾物含量を有する乾燥細胞粉末が得られた。 
+  乾燥細胞粉末の分析結果を、一般組成については表１、アミノ酸組成については表２、脂肪酸組成については表３、ビタミン含有量については表４に示す。分析は、乾燥細胞粉末が全ての必須アミノ酸を含む高いタンパク質含有量を有することを実証する。それはまた、飽和脂肪酸よりも不飽和脂肪酸を多く含有し、多くのＢ群ビタミンを含有する。ペプチドグリカン含有量はわずか０．００２ｍｇ／ｇ＿ＣＤＷであり、リポ多糖含有量は０．０１ｍｇ／ｇ＿ＣＤＷであった。これらの濃度は可能な限り小さいことが有益であろう。比較すると、同時に分析した市販の乳酸菌調製物では、ペプチドグリカン含有量は０．２４４ｍｇ／ｇ＿ＤＷであり、リポ多糖含有量は０．０１５ｍｇ／ｇ＿ＤＷであった。細胞毒性及び遺伝毒性アッセイを、培養の上清試料を使用して行った。ＨｅｐＧ２又はＨｅＬａ２２９ヒト細胞株に対する細胞傷害性は観察されなかった。大腸菌ＷＰ２  ｔｒｐ－又はＣＭ８７１  ｕｖｒＡ  ｒｅｃＡ  ｌｅｘＡ株に対する遺伝毒性は観察されなかった。
+ 
+  Example 2 Pilot Cultivation and Analysis of the Isolated Bacterial Strain The isolated bacterial strain deposited as VTT-E-193585 was cultivated in a conventional 200 liter stirred tank bioreactor (MPF-U, Marubishi Ltd, Japan). Mixing was achieved using a Rushton-type impeller rotating at 400 rpm. The temperature during cultivation was maintained at +30°C. The pH was maintained at 6.8±0.2 by adding 8M  NaOH  or  3.6MH3PO4  under software control.  The culture medium  was  prepared in tap water and contained 1 g/L  NH4OH  , 0.23 g/L KH2PO4, 0.29 g/L  Na2HPO4.2H2O   ,   0.005  g  /  L  NaVO3.H2O   ,  0.2 g/L FeSO4.7H2O  ,   0.5  g  /  L MgSO4.7H2O  ,  0.01 g/L  CaSO4  ,  0.00015   g  /L  Na2MoO4.2H2O  , 0.005 g/L MnSO4, 0.0005 g/L ZnSO4.7H2O  ,   0.0015  g/L  H3BO3  ,  and  0.001 g/L  CoSO4   .  , 0.00005 g/L  CuSO4  , and 0.0001 g/L  NiSO4  .  A mixture containing 1.8-10.5 L/min hydrogen gas, 0.6-2.5 L/min oxygen gas and 1.8-5 L/min carbon dioxide gas was constantly supplied as the main source of energy and carbon. The dissolved oxygen level was maintained at 7.2±0.5% by adjusting the composition of the gas mixture. The inoculum for the culture was prepared as described in Example 1. Growth was monitored by manually taking samples and analyzing cell density as optical density by measuring absorbance at 600 nm (Ultrospec 2100 pro UV/Visible spectrophotometer, Biochrom Ltd., UK) and by measuring cell dry weight (CDW) by drying in an oven at 105° C. overnight. Optical density was also monitored using an in situ absorbance probe (Trucell 2, Finesse Ltd., USA). The growth curve of the culture is shown in FIG. 1.  The maximum growth rate in the batch phase was 0.06 h  −1  . The maximum cell density was 4.5 g_CDW/L at 92 h. After 92 h of cultivation, the feeding of fresh culture medium as described above was started with a dilution rate of 0.01 h  −1  . During the continuous feeding, the cell density averaged 2.9 g_CDW/L. The culture liquid was constantly collected in a cooled (+10° C.) tank, from which it was fed in 300 liter batches to a continuous centrifuge (BTPX-205, Alfa-Laval AB, Sweden). The cell-containing slurry collected from the separator was fed to an atmospheric double drum dryer (Buflovak 6x8 ADDD, Hebeler process solutions Llc., USA) and heated with steam at 4 bar and a drum rotating at 3.5 rpm. This resulted in a dry cell powder with a dry matter content of about 96%.  The analytical results of the dried cell powder are shown in Table 1 for the general composition, Table 2 for the amino acid composition, Table 3 for the fatty acid composition, and Table 4 for the vitamin content. The analysis demonstrates that the dried cell powder has a high protein content, including all the essential amino acids. It also contains more unsaturated than saturated fatty acids and many B vitamins. The peptidoglycan content was only 0.002 mg/g_CDW and the lipopolysaccharide content was 0.01 mg/g_CDW. It would be beneficial for these concentrations to be as small as possible. In comparison, the peptidoglycan content was 0.244 mg/g_DW and the lipopolysaccharide content was 0.015 mg/g_DW in a commercial lactobacillus preparation analyzed at the same time. Cytotoxicity and genotoxicity assays were performed using the supernatant samples of the cultures. No cytotoxicity was observed against HepG2 or HeLa229 human cell lines. No genotoxicity was observed against E. coli WP2 trp- or CM871 uvrA recA lexA strains.
+ 
+ 
+ 
+        
+  表１  ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株の乾燥細胞粉末の分析結果 
+     Table 1. Analysis results of dried cell powder of the isolated bacterial strain deposited under the number VTT-E-193585 
+ 
+ 
+        
+  表２．ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株の乾燥細胞粉末のアミノ酸組成 
+     Table 2. Amino acid composition of the dried cell powder of the isolated bacterial strain deposited under the number VTT-E-193585 
+ 
+ 
+        
+  表３  ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株の乾燥細胞粉末の脂肪酸組成。 
+      Table 3. Fatty acid composition of the dried cell powder of the isolated bacterial strain deposited as VTT-E-193585. 
+ 
+ 
+        
+  表４  ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株の乾燥細胞粉末のビタミン含有量。 
+     Table 4. Vitamin content of dried cell powder of the isolated bacterial strain deposited under VTT-E-193585. 
+ 
+ 
+   
+  実施例３  異なる窒素源での分離細菌株の培養。 
+  ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株を、１５容器並列バイオリアクタシステムで２００ｍＬ容量（Ｍｅｄｉｃｅｌ  Ｅｘｐｌｏｒｅｒ、Ｍｅｄｉｃｅｌ  Ｏｙ、フィンランド）で培養した。混合は、８００ｒｐｍで回転するラシュトン型インペラを用いて行った。培養中の温度を＋３０℃に維持した。１Ｍ  ＮａＯＨを添加することによってｐＨを６．８に維持した。培養培地は、水道水中で調製した、０．２３ｇ／Ｌ  ＫＨ ２ ＰＯ ４ 、０．２９ｇ／Ｌ  Ｎａ ２ ＨＰＯ ４ ・２Ｈ ２ Ｏ、０．００５ｇ／Ｌ  ＮａＶＯ ３ ・Ｈ ２ Ｏ、０．２ｇ／Ｌ  ＦｅＳＯ ４ ・７Ｈ ２ Ｏ、０．５ｇ／Ｌ  ＭｇＳＯ ４ ・７Ｈ ２ Ｏ、０．０１ｇ／Ｌ  ＣａＳＯ ４ 、０．０００１５ｇ／Ｌ  Ｎａ ２ ＭｏＯ ４ ・２Ｈ ２ Ｏ、０．００５ｇ／Ｌ  ＭｎＳＯ ４ 、０．０００５ｇ／Ｌ  ＺｎＳＯ ４ ・７Ｈ ２ Ｏ、０．００１５ｇ／Ｌ  Ｈ ３ ＢＯ ３ 、０．００１ｇ／Ｌ  ＣｏＳＯ ４ 、０．００００５ｇ／Ｌ  ＣｕＳＯ ４ 及び０．０００１ｇ／Ｌ  ＮｉＳＯ ４ を含んでいた。 
+  更に、窒素源を、４つの培養物が１８．７ｍＭのＮＨ ４ ＯＨを含有し、４つの培養物が９．３４ｍＭの尿素（ＯＣ（ＮＨ ２ ） ２ ）を含有し、４つの培養物が１８．７ｍＭの硝酸カリウム（ＫＮＯ ３ ）を含有するように培養物において変化させ、３つの培養物を培地中に窒素源なしで放置した。２２ｍＬ／分の水素ガス、３．２ｍＬ／分の空気及び６．４ｍＬ／分の二酸化炭素ガスを含有する混合物を、エネルギー及び炭素の主な供給源として常に供給した。したがって、空気を用いて、全ての栽培に窒素ガスも供給した。試料を自動的に採取し、６００ｎｍでの吸光度（Ｕｌｔｒｏｓｐｅｃ  ２１００  ｐｒｏ  ＵＶ／可視分光光度計、Ｂｉｏｃｈｒｏｍ  Ｌｔｄ．、英国）を測定することによって細胞密度を光学密度として分析することにより、増殖を監視した。 
+  培養の増殖曲線を図２に示す。アンモニア及び尿素での増殖は同等であった。硝酸塩又は窒素ガスでの増殖は、アンモニア又は尿素での増殖よりも明らかに遅かった。培養の終わりに向かって、硝酸塩での増殖は、唯一の窒素源としての窒素ガスでの増殖よりも良好であった。それにもかかわらず、窒素ガスが唯一の窒素源であった培養でも増殖があり、ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株が窒素固定が可能であることを実証した。
+ 
+  Example 3 Cultivation of isolated bacterial strains on different nitrogen sources.  The isolated bacterial strain deposited under VTT-E-193585 was cultivated in a 15-vessel parallel bioreactor system with a volume of 200 mL (Medicel Explorer, Medicel Oy, Finland). Mixing was achieved using a Rushton-type impeller rotating at 800 rpm. The temperature during cultivation was maintained at +30°C. The pH was maintained at 6.8 by adding 1 M NaOH. The culture medium was prepared in tap water and contained  0.23  g/L  KH2PO4  ,  0.29  g/L Na2HPO4.2H2O, 0.005  g  /L  NaVO3.H2O   ,  0.2 g  /  L FeSO4.7H2O, 0.5 g/L MgSO4.7H2O,  0.01  g  /  L CaSO4  ,  0.00015 g/L  Na2MoO4.2H2O   ,   0.005   g  /L  MnSO4  ,  0.0005  g/L ZnSO4.7H2O  ,  0.0015 g  /  L  H3BO3   ,  0.001 g/L CoSO4  ,  0.00005 g/L CuSO4.  4  and 0.0001 g/L  NiSO4  .  In addition, the nitrogen source was changed in the cultures such that four cultures contained 18.7 mM  NH4OH  , four cultures contained 9.34 mM urea (OC(  NH2  )  2  ), four cultures contained 18.7 mM potassium nitrate (  KNO3  ), and three cultures were left without nitrogen source in the medium. A mixture containing 22 mL/min hydrogen gas, 3.2 mL/min air, and 6.4 mL/min carbon dioxide gas was constantly supplied as the main source of energy and carbon. Thus, air was used to also supply nitrogen gas to all cultivations. Growth was monitored by automatically taking samples and analyzing cell density as optical density by measuring absorbance at 600 nm (Ultrospec 2100 pro UV/Visible spectrophotometer, Biochrom Ltd., UK).  The growth curves of the cultures are shown in FIG. 2. Growth on ammonia and urea was comparable. Growth on nitrate or nitrogen gas was clearly slower than growth on ammonia or urea. Towards the end of the culture, growth on nitrate was better than growth with nitrogen gas as the sole nitrogen source. Nevertheless, there was growth in the culture where nitrogen gas was the only nitrogen source, demonstrating that the isolated bacterial strain deposited under VTT-E-193585 is capable of nitrogen fixation.
+ 
+ 
+ 
+   
+  実施例４  抗生物質感受性の特性評価 
+  ＶＴＴ－Ｅ－１９３５８５として寄託された分離細菌株について、ゲンタマイシン、カナマイシン、ストレプトマイシン、テトラサイクリン、アンピシリン、シプロフロキサシン、コリスチン及びホスホマイシンの抗生物質感受性を、ＣＬＳＩ  Ｍ０７－Ａ１１１規格（Ｃｌｉｎｉｃａｌ  ａｎｄ  ｌａｂｏｒａｔｏｒｙ  ｓｔａｎｄａｒｄｓ  ｉｎｓｔｉｔｕｔｅ．Ｍｅｔｈｏｄｓ  ｆｏｒ  ｄｉｌｕｔｉｏｎ  ａｎｔｉｍｉｃｒｏｂｉａｌ  ｓｕｓｃｅｐｔｉｂｉｌｉｔｙ  ｔｅｓｔｓ  ｆｏｒ  ｂａｃｔｅｒｉａ  ｔｈａｔ  ｇｒｏｗ  ａｅｒｏｂｉｃａｌｌｙ，１１ｔｈ  ｅｄ．ＣＬＳＩ  ｓｔａｎｄａｒｄ  Ｍ０７，２０１８）に従い、アンピシリン、シプロフロキサシン及びコリスチンについては手製の微量希釈プレートで、ゲンタマイシン、カナマイシン、ストレプトマイシン及びテトラサイクリンについてはブロス微量希釈法を使用してＶｅｔＭＩＣ  Ｌａｃｔ－１プレート（ＳＶＡ  Ｎａｔｉｏｎａｌ  Ｖｅｔｅｒｉｎａｒｙ  Ｉｎｓｔｉｔｕｔｅ、ウプサラ、スウェーデン）で、並びにホスホマイシンについては寒天希釈法を使用して、陽イオン調整ミューラーヒントンブロス培地（ＬａｂＭ、ＬＡＢ１１４、陽イオンＭｇ ２＋ 及びＣａ ２＋ を別々に添加）を使用して、＋３５±２℃で４８±１時間、好気的条件で分析した。 
+  大腸菌（Ｅｓｃｈｅｒｉｃｈｉａ  ｃｏｌｉ）ＡＴＣＣ  ２５９２２を品質管理株として使用し、これを＋３５±２℃で１８±２時間好気的条件でインキュベートした。株の抗生物質感受性の結果を表５に示す。単離細菌株は、一般に抗生物質に感受性があることが分かった。ゲンタマイシン、カナマイシン、ストレプトマイシン及びテトラサイクリンについては、ＶＴＴ－Ｅ－１９３５８５の最小発育阻止濃度（ＭＩＣ）値は大腸菌（Ｅ．ｃｏｌｉ）ＡＴＣＣ  ２５９２２より低いか又は同等であったが、アンピシリン、シプロフロキサシン、コリスチン及びホスホマイシンについてはＭＩＣ値はＶＴＴ－Ｅ－１９３５８５の方が高かった。
+ 
+  Example 4: Characterization of antibiotic susceptibility The isolated bacterial strain deposited under VTT-E-193585 was subjected to antibiotic susceptibility tests for gentamicin, kanamycin, streptomycin, tetracycline, ampicillin, ciprofloxacin, colistin, and fosfomycin in accordance with the CLSI M07-A111 standard (Clinical and laboratory standards institute. Methods for dilution antimicrobial susceptibility tests for bacteria that grow aerobically, 11th ed. CLSI standard). M07, 2018) on homemade microdilution plates for ampicillin, ciprofloxacin and colistin, on VetMIC Lact-1 plates (SVA National Veterinary Institute, Uppsala, Sweden) using the broth microdilution method for gentamicin, kanamycin, streptomycin and tetracycline, and on agar dilution method for fosfomycin, using cation-adjusted Mueller-Hinton broth medium (LabM, LAB114, with separate addition of cations  Mg2+  and Ca2  +  ) for 48±1 h under aerobic conditions at +35±2°C.  Escherichia coli ATCC 25922 was used as a quality control strain and was incubated at +35±2°C for 18±2 hours under aerobic conditions. The antibiotic susceptibility results of the strains are shown in Table 5. The isolated bacterial strains were generally found to be susceptible to antibiotics. For gentamicin, kanamycin, streptomycin and tetracycline, the minimum inhibitory concentration (MIC) values of VTT-E-193585 were lower or similar to E. coli ATCC 25922, whereas for ampicillin, ciprofloxacin, colistin and fosfomycin, the MIC values were higher for VTT-E-193585.
+ 
+ 
+ 
+        
+  表５．ＶＴＴ－Ｅ－１９３５８５株及び大腸菌ＡＴＣＣ２５９２２に対する抗生物質の最小発育阻止濃度（ＭＩＣ、μｇ／ｍｌ）値 
+      Table 5. Minimum inhibitory concentration (MIC, μg/ml) values of antibiotics against VTT-E-193585 strain and E. coli ATCC 25922 
+ 
+ 
+   
+  実施例５  ｐｈａＣノックアウト株の構築 
+ 
+  液体１Ｌ当たりの培地組成 
+ 
+ＤＳＭ８１－ＬＯ４（ＤＳＭ） 
+    ＫＨ ２ ＰＯ ４                              ２．３ｇ 
+    Ｎａ ２ ＨＰＯ ４ ・２Ｈ ２ Ｏ                 ２．９ｇ 
+    Ｎａ ２ ＳＯ ４                              ５．４５ｇ 
+    （ＮＨ ４ ） ２ ＳＯ ４ 
+ ＊                       １．１９ｇ 
+    ＭｇＳＯ ４ ・７Ｈ ２ Ｏ                     ０．５ｇ 
+    ＣａＳＯ ４ ・２Ｈ ２ Ｏ                     １１．７ｍｇ 
+    ＭｎＳＯ ４ ・Ｈ ２ Ｏ                       ４．４ｍｇ 
+    ＮａＶＯ ３                                ５ｍｇ 
+    ＮａＨＣＯ ３                              ０．５ｇ 
+    クエン酸アンモニウム鉄（ＩＩＩ）         ５ｍｇ 
+    ＺｎＳＯ ４ ・７Ｈ ２ Ｏ                     ０．５ｍｇ 
+    Ｈ ３ ＢＯ ３                                １．５ｍｇ 
+    ＣｏＣｌ ２ ・６Ｈ ２ Ｏ                     １ｍｇ 
+    ＣｕＣｌ ２ ・２Ｈ ２ Ｏ                     ５０μｇ 
+    ＮｉＣｌ ２ ・６Ｈ ２ Ｏ                     ０．１ｍｇ 
+    Ｎａ ２ ＭｏＯ ４ ・２Ｈ ２ Ｏ                 ０．１５ｍｇ 
+    リボフラビン                            ０．５ｍｇ 
+    チアミン－ＨＣｌ・２Ｈ ２ Ｏ               ２．５ｍｇ 
+    ニコチン酸                              ２．５ｍｇ 
+    ピリドキシン－ＨＣｌ                    ２．５ｍｇ 
+    Ｃａ－パントテン酸                      ２．５ｍｇ 
+    ビオチン                                ５μｇ 
+    葉酸                                    １０μｇ 
+    ビタミンＢ １２                           ５０μｇ 
+＊ＧＣ－ＭＳ分析用に変更 
+ 
+  Example 5 Construction of a phaC knockout strain    Media composition per 1L of liquid    DSM81-LO4 (DSM)   2.3  g  KH2PO4     Na2HPO4.2H2O   2.9g   ​     Na2SO4   5.45g    (  NH4  )  2SO4   *   1.19g     MgSO4.7H2O   0.5g     CaSO4.2H2O   11.7mg     MnSO4.H2O   4.4mg     NaVO3  5mg  NaHCO3  0.5g    Ammonium iron(III) citrate 5mg   ZnSO4.7H2O   0.5mg     H3BO3   1.5mg     CoCl2.6H2O   1mg     CuCl2.2H2O   50μg     NiCl2.6H2O   0.1  mg   Na2MoO4.2H2O   0.15mg   ​    Riboflavin 0.5mg  Thiamine-  HCl.2H2O  2.5mg  Nicotinic acid 2.5mg  Pyridoxine-HCl 2.5mg  Ca-pantothenic acid 2.5mg  Biotin 5μg  Folic acid 10μg  Vitamin  B12  50μg  * Changed for GC-MS analysis 
+ 
+ 
+ 
+   
+溶原ブロス（ＬＢ） 
+    酵母抽出物                             ５ｇ 
+    トリプトン                             １０ｇ 
+    ＮａＣｌ                               １０ｇ 
+    寒天（プレート用）                     １５ｇ 
+ 
+Lysogeny Broth (LB)  Yeast extract 5g  Tryptone 10g  NaCl 10g  Agar (for plates) 15g 
+ 
+ 
+ 
+   
+超最適ブロス（ＳＯＢ） 
+    トリプトン                             ２０ｇ 
+    酵母抽出物                             ５ｇ 
+    ＮａＣｌ                               ０．５８ｇ 
+    ＫＣｌ                                 ０．１８ｇ 
+    ＭｇＣｌ ２                              ０．９５ｇ 
+    ＭｇＳＯ ４                              １．２０ｇ 
+ 
+Super Optimal Broth (SOB)  Tryptone 20g  Yeast extract 5g  0.58 g NaCl  KCl 0.18g   0.95  g MgCl2   MgSO4  1.20g 
+ 
+ 
+ 
+   
+エタノールを含む超最適ブロス（ＳＯＢＥ） 
+  エタノール５．８ｍＬ／ＳＯＢ  １Ｌ 
+ 
+Super Optimal Broth with Ethanol (SOBE)  Ethanol 5.8mL/SOB 1L 
+ 
+ 
+ 
+   
+トリプシンダイズ寒天（ＴＳＡ） 
+  ＢＢＬ（商標）Ｔｒｙｐｔｉｃａｓｅ（商標）ダイズ寒天（ＢＤ）４０ｇ 
+ 
+Tryptic Soy Agar (TSA)  BBL™ Trypticase™ Soy Agar (BD) 40g 
+ 
+ 
+ 
+   
+  培養方法 
+  従属栄養増殖条件における全てのＳｏＦ１培養物を、１００ｍＭのエタノールを補充した１０ｍＬ体積の超最適ブロス（ＳＯＢＥ）中、３０℃で２２０ｒｐｍの振盪で培養した。独立栄養条件での全てのＳｏＦ１培養物を、１３６ｒｐｍで振盪しながら、従属栄養増殖条件と同じ温度及び体積でＤＳＭ８１－ＬＯ４培地（ＤＳＭ）中で培養した。独立栄養条件におけるガス組成は以下の通りであった：４４％ＣＯ ２ 、２６％Ｎ ２ 、２２％Ｈ ２ 、７％Ｏ ２ 、及び１％の他のガス。
+ 
+  Cultivation method All SoF1 cultures in heterotrophic growth conditions were cultivated in 10 mL volume of Super Optimal Broth (SOBE) supplemented with 100 mM ethanol at 30° C. with shaking at 220 rpm. All SoF1 cultures in autotrophic conditions were cultivated in DSM81-LO4 medium (DSM) at the same temperature and volume as in heterotrophic growth conditions with shaking at 136 rpm. The gas composition in autotrophic conditions was as follows: 44% CO  2  , 26% N  2  , 22% H  2  , 7% O  2  , and 1% other gases.
+ 
+ 
+ 
+   
+  大腸菌（Ｅｓｃｈｅｒｉｃｈｉａ  ｃｏｌｉ）株 
+  使用した大腸菌（Ｅ．ｃｏｌｉ）株及びそれらの関連する特徴を表６に要約する。全ての株を溶原性ブロス（ＬＢ）上で増殖させた。抗生物質を以下の濃度で使用した：１００μｇ／ｍＬのアンピシリン（ＡＭＰ）、５０μｇ／ｍＬのカナマイシン（ＫＡＮ）及び１０μｇ／ｍＬのテトラサイクリン（ＴＥＴ）。
+ 
+  Escherichia coli strains The E. coli strains used and their relevant characteristics are summarized in Table 6. All strains were grown on lysogeny broth (LB). Antibiotics were used at the following concentrations: 100 μg/mL ampicillin (AMP), 50 μg/mL kanamycin (KAN) and 10 μg/mL tetracycline (TET).
+ 
+ 
+ 
+        
+  表６  使用した大腸菌（Ｅ．ｃｏｌｉ）株 
+      Table 6. E. coli strains used 
+ 
+ 
+   
+  プラスミド構築 
+  実施例１に記載されるＶＴＴ－Ｅ－１９３５８５株の細菌ゲノムの配列決定により、ポリヒドロキシアルカノエート（ＰＨＡ）シンターゼをコードする他のキサントバクター（Ｘａｎｔｈｏｂａｃｔｅｒ）ｓｐｐ．から見出されるｐｈａＣ遺伝子と相同性を有する遺伝子ｐｈａＣ１（配列番号６０、配列番号６２に示されるタンパク質をコードする）及びｐｈａＣ２（配列番号６１、配列番号６３に示されるタンパク質をコードする）を同定した。
+ 
+  Plasmid Construction Sequencing of the bacterial genome of strain VTT-E-193585 as described in Example 1 identified genes phaC1 (SEQ ID NO:60, encoding the protein set forth in SEQ ID NO:62) and phaC2 (SEQ ID NO:61, encoding the protein set forth in SEQ ID NO:63) with homology to phaC genes found in other Xanthobacter spp., which encode polyhydroxyalkanoate (PHA) synthases.
+ 
+ 
+ 
+   
+  ＳｏＦ１のゲノム中のｐｈａＣ１及びｐｈａＣ２遺伝子の欠失を標的とする２つのプラスミドを構築した（表７）。ｐｈａＣ１及びｐｈａＣ２の隣接する１０００ｂｐｓの左（ＬＨＡ）及び右（ＲＨＡ）の相同アームを、オリゴ（８オリゴ）を含むＳｏＦ１のゲノムＤＮＡから増幅した。両方のプラスミドを、ＧｉｂｓｏｎアセンブリによりｐＵＣ５７から構築した。カナマイシン耐性遺伝子（ｋａｎ）、テトラサイクリン耐性遺伝子（ｔｅｔ）及び可動領域（ｍｏｂ）配列は、Ｖａｎ  ｄｅｎ  Ｂｅｒｇｈ  ｅｔ  ａｌ．１９９３  Ｊ  Ｂａｃｔｅｒｉｏｌ  １７５：６０９７－６１０４に記載されているプラスミドで使用されるものと同じであった。
+ Two plasmids were constructed targeting the deletion of phaC1 and phaC2 genes in the genome of SoF1 (Table 7). The 1000 bps flanking left (LHA) and right (RHA) homology arms of phaC1 and phaC2 were amplified from the genomic DNA of SoF1 with oligos (8 oligos). Both plasmids were constructed from pUC57 by Gibson assembly. The kanamycin resistance gene (kan), tetracycline resistance gene (tet) and mobility region (mob) sequences were the same as those used in the plasmid described in Van den Bergh et al. 1993 J Bacteriol 175:6097-6104. 
+ 
+ 
+        
+表７  構築されたプラスミドの概要 
+      Table 7. Summary of constructed plasmids 
+ 
+ 
+   
+ノックアウト株構築 
+ 
+  プラスミドをコンジュゲーション又はエレクトロポレーションによりＳｏＦ１に移した。改変ＳｏＦ１株の選択に使用した抗生物質濃度は、２０μｇ／ｍＬのＫＡＮ及び１０μｇ／ｍＬのＴＥＴであった。
+ 
+Knockout strain construction    Plasmids were transferred into SoF1 by conjugation or electroporation. Antibiotic concentrations used for selection of modified SoF1 strains were 20 μg/mL KAN and 10 μg/mL TET.
+ 
+ 
+ 
+   
+  コンジュゲーションのために、ＳｏＦ１の液体培養物（ＬＣ）を上記のような独立栄養条件で２～３日間増殖させて、０．７～１のＯＤに達した。プラスミドあり及びなしの大腸菌（Ｅ．ｃｏｌｉ）Ｓ１７－１及びＪＭ１０９（ＤＥ３）のオーバーナイト（Ｏ／Ｎ）ＬＣを、２２０ｒｐｍで振盪しながら３７℃で増殖させた。翌日、新しいＬＣをＯ／Ｎ培養物から接種し、指数期（ＯＤ  ０．３～０．６）まで増殖させた。大腸菌（Ｅ．ｃｏｌｉ）細胞を５９００ｒｐｍ  ３０秒で遠心分離し、洗浄し、１体積の０．９％ＮａＣｌに再懸濁した。 
+  大腸菌（Ｅ．ｃｏｌｉ）及びＳｏＦ１細胞をＯＤ比１：１５で混合し、ＤＳＭ培地を１ｍＬまで添加した。ＳｏＦ１と混合したプラスミドなしのＳ１７－１を陰性対照として使用し、Ｓ１７－１含有プラスミドを有するＪＭ１０９（ＤＥ３）を陽性対照として使用した。混合物を０．２２μｍ  ＧＶのＤｕｒａｐｏｒｅ（登録商標）メンブレンフィルター（ＭｉｌｌｉｐｏｒｅＳｉｇｍａ、米国）で真空濾過した。フィルターを予熱したＴＳＡプレート上に置き、細胞を寒天とは反対側に向け、独立栄養条件でＯ／Ｎインキュベートした。翌日、フィルターを１ｍＬの０．９％  ＮａＣｌで洗浄し、ボルテックスし、４０００ｒｐｍで１分間遠心分離し、フィルターを除去した後、細胞を再懸濁した。細胞を連続希釈液で選択プレートに播種し、適切な条件で増殖させた。コンジュゲートＪＭ１０９（ＤＥ３）対照を、選択のために４０μｇ／ｍＬのナリジクス酸を含有するＴＳＡプレートに播種し、３７℃  Ｏ／Ｎでインキュベートした。コンジュゲートＳｏＦ１培養物を、ＫＡＮを含有するＤＳＭプレートに播種し、独立栄養条件でおよそ１週間インキュベートした。 
+  ＳｏＦ１プレート上にコロニーが出現した後、それらを新鮮なＤＳＭ  ＫＡＮプレートに再適用し、独立栄養条件で更に１週間インキュベートした。これらのプレートからの単一コロニーをＴＳＡプレートにタップし、従属栄養条件で３０℃で増殖させた。ＴＳＡプレート上での増殖が大腸菌（Ｅ．ｃｏｌｉ）の増殖をもたらす場合、コロニーを選択的ＤＳＭプレートに再度適用した。
+ 
+  For conjugation, liquid cultures (LC) of SoF1 were grown in autotrophic conditions as described above for 2-3 days to reach an OD of 0.7-1. Overnight (O/N) LC of E. coli S17-1 and JM109(DE3) with and without plasmids were grown at 37°C with shaking at 220 rpm. The next day, fresh LC was inoculated from the O/N culture and grown to exponential phase (OD 0.3-0.6). E. coli cells were centrifuged at 5900 rpm for 30 seconds, washed, and resuspended in 1 volume of 0.9% NaCl.  E. coli and SoF1 cells were mixed at an OD ratio of 1:15 and DSM medium was added to 1 mL. S17-1 without plasmid mixed with SoF1 was used as a negative control and JM109(DE3) with S17-1 containing plasmid was used as a positive control. The mixture was vacuum filtered through a 0.22 μm GV Durapore® membrane filter (MilliporeSigma, USA). The filter was placed on a pre-warmed TSA plate with the cells facing away from the agar and incubated O/N in autotrophic conditions. The next day, the filter was washed with 1 mL of 0.9% NaCl, vortexed, centrifuged at 4000 rpm for 1 min, and the cells were resuspended after removing the filter. The cells were plated in serial dilutions onto selection plates and grown in the appropriate conditions. Conjugate JM109(DE3) control was plated on TSA plates containing 40 μg/mL nalidixic acid for selection and incubated at 37° C. O/N. Conjugate SoF1 culture was plated on DSM plates containing KAN and incubated in autotrophic conditions for approximately 1 week.  After colonies appeared on the SoF1 plates, they were reapplied to fresh DSM KAN plates and incubated for an additional week under autotrophic conditions. Single colonies from these plates were tapped onto TSA plates and grown at 30° C. under heterotrophic conditions. If growth on the TSA plates resulted in the growth of E. coli, the colonies were reapplied to selective DSM plates.
+ 
+ 
+ 
+   
+  エレクトロポレーションのため、ＳｏＦ１のＬＣを独立栄養条件で２～３日間培養して０．７～１．５のＯＤに達した。細胞をＦａｌｃｏｎチューブに形質転換し、氷上で１５～３０分間冷却した。細胞を４℃、４０００ｒｐｍで５～１０分間遠心分離し、上清を廃棄し、ペレットを１体積の氷冷二重蒸留Ｈ ２ Ｏに再懸濁した。遠心分離を繰り返し、上清を廃棄した。１体積の氷冷１０％グリセロールで洗浄を繰り返した。細胞を氷冷１０％グリセロールに再懸濁して、約２・１０ １０ 細胞／ｍＬの濃度にした。細胞を電気形質転換に直ちに使用した。４０μＬの細胞を１μＬのプラスミドと混合し、氷上で１０分間インキュベートした。細胞を氷上でエレクトロポレーションキュベットに形質転換した。キュベットを、２５μＶ静電容量及び４００Ω又は６００Ωの抵抗を有する２．５ｋＶの単一の電気パルスに供した。予め温めた（３０℃）１ｍＬのＳＯＢＥを直ちに添加し、溶液をファルコンチューブに移し、独立栄養条件でＯ／Ｎインキュベートした。インキュベーション後、細胞を複数の希釈液を含むＴＳＡ選択プレートに播種し、従属栄養条件でインキュベートした。
+ 
+  For electroporation, LCs of SoF1 were cultured in autotrophic conditions for 2-3 days to reach an OD of 0.7-1.5. Cells were transformed into Falcon tubes and chilled on ice for 15-30 min. Cells were centrifuged at 4000 rpm for 5-10 min at 4°C, the supernatant was discarded and the pellet was resuspended in 1 volume of ice-cold double distilled H  2  O. Centrifugation was repeated and the supernatant was discarded. Washing was repeated with 1 volume of ice-cold 10% glycerol. Cells were resuspended in ice-cold 10% glycerol to a concentration of approximately 2·10  10  cells/mL. Cells were used immediately for electrotransformation. 40 μL of cells were mixed with 1 μL of plasmid and incubated on ice for 10 min. Cells were transformed into electroporation cuvettes on ice. The cuvettes were subjected to a single electric pulse of 2.5 kV with 25 μV capacitance and 400 Ω or 600 Ω resistance. 1 mL of pre-warmed (30° C.) SOBE was immediately added and the solution was transferred to a Falcon tube and incubated O/N in autotrophic conditions. After incubation, the cells were plated on TSA selection plates with multiple dilutions and incubated in heterotrophic conditions.
+ 
+ 
+ 
+   
+  コンジュゲーション又はエレクトロポレーションによる形質転換の後、成功した形質転換体をコロニーＰＣＲでスクリーニングし、最終濃度３％のジメチルスルホキシドを標準的なＰＣＲ混合物に添加した。構築したＳｏＦ１株を表８に要約する。
+ After transformation by conjugation or electroporation, successful transformants were screened by colony PCR, and a final concentration of 3% dimethyl sulfoxide was added to the standard PCR mixture. The constructed SoF1 strains are summarized in Table 8. 
+ 
+ 
+        
+  表８  構築したＳｏＦ１変異株。 
+      Table 8. Constructed SoF1 mutant strains. 
+ 
+ 
+   
+  ＰＨＢ含有量分析 
+  野生型（ＷＴ）株ＳｏＦ１及びノックアウト株ＳｏＦ１－２．０のＰＨＢ含有量を、ガスクロマトグラフィー－質量分析（ＧＣ－ＭＳ）で分析した。両株を、様々な窒素濃度（１８．０、１３．５、９．０及び４．５ｍＭの窒素）の５ｍＬの培養体積において上記の独立栄養条件、及び従属栄養条件で増殖させた。独立栄養条件で増殖させた培養物から培養物を接種して、０．１の出発ＯＤを得た。最も早くて接種から１週間後に分析を行った。 
+  各試料１～３ｍＬを遠心分離し、ペレットを－２０℃で保存した。ペレットを解凍し、再蒸留Ｈ ２ Ｏで２回洗浄し、２４～４８時間凍結乾燥させた。各試料１０ｍｇをクロロホルム１ｍＬ、硫酸１５０μＬ、内部標準（３－ヒドロキシ酪酸）２０μＬ、メタノール８３０μＬを含む溶液中で１００℃で１４０分間加熱してメタノリシスを行った。３－ヒドロキシ酪酸を参照試料と同様に処理した。試料を室温まで冷却した後、水０．５ｍＬで水溶性粒子を除去した。ガスクロマトグラフィー系（７８９０、Ａｇｉｌｅｎｔ）及びＨＰ－ＦＦＡＰカラム（１９０９１  Ｆ－１０２、Ａｇｉｌｅｎｔ）を使用してクロロホルム相を分析した。
+ 
+  PHB content analysis The PHB content of wild type (WT) strain SoF1 and knockout strain SoF1-2.0 was analyzed by gas chromatography-mass spectrometry (GC-MS). Both strains were grown under autotrophic and heterotrophic conditions as described above in 5 mL culture volumes with various nitrogen concentrations (18.0, 13.5, 9.0 and 4.5 mM nitrogen). Cultures were inoculated from autotrophically grown cultures to obtain a starting OD of 0.1. Analysis was performed as early as one week after inoculation.  1-3 mL of each sample was centrifuged and the pellets were stored at -20°C. The pellets were thawed, washed twice with double distilled H  2  O and lyophilized for 24-48 h. Methanolysis was performed by heating 10 mg of each sample at 100°C for 140 min in a solution containing 1 mL chloroform, 150 μL sulfuric acid, 20 μL internal standard (3-hydroxybutyric acid) and 830 μL methanol. 3-hydroxybutyric acid was treated in the same way as the reference sample. After cooling the samples to room temperature, water-soluble particles were removed with 0.5 mL water. The chloroform phase was analyzed using a gas chromatography system (7890, Agilent) and a HP-FFAP column (19091 F-102, Agilent).
+ 
+ 
+ 
+   
+  結果 
+  ＧＣ－ＭＳによれば、ＰＨＢはＳｏＦ１－２．０株ではほとんど生成されなかったが、ＷＴ  ＳｏＦ１では、独立栄養条件で増殖させた場合、ＰＨＢ乾燥含量は１５～３０％であった（表９）。従属栄養条件で増殖させた場合、ＳｏＦ１又はＳｏＦ１－２．０ではＰＨＢはほとんど生成されなかった
+ 
+  Results: By GC-MS, PHB was hardly produced in strain SoF1-2.0, whereas in WT SoF1, the PHB dry content was 15-30% when grown under autotrophic conditions (Table 9). Almost no PHB was produced in SoF1 or SoF1-2.0 when grown under heterotrophic conditions.
+ 
+ 
+ 
+        
+  表９．ＧＣ－ＭＳを介して決定された、独立栄養条件における異なる窒素濃度で独立栄養条件で、及び従属栄養条件（ＳＯＢＥ）で増殖させたＷＴ  ＳｏＦ１及びＳｏＦ１－２．０のＰＨＢ含有量。
+       Table 9. PHB content of WT SoF1 and SoF1-2.0 grown under autotrophic and heterotrophic conditions (SOBE) at different nitrogen concentrations in autotrophic conditions as determined via GC-MS.
+
+       
+ 
+   
+  ＳｏＦ１及びＳｏＦ１－２．０の独立栄養増殖曲線を図３に示す。ＳｏＦ１－２．０は、ＳｏＦ１と比較して増殖速度がわずかに低い。
+ 
+The autotrophic growth curves of SoF1 and SoF1-2.0 are shown in Figure 3. SoF1-2.0 has a slightly lower growth rate compared to SoF1.
+ 
+ 
+ 
+   
+ｐｈａＣ１  ＤＮＡ配列（配列番号６０）： 
+ 
+ATGTCCGCAGCCGAGGAAACGTCCACGCACGCTGAATTGAGGCTCCCGCAGGATGGGGTGGAGCATGACGTCGCGGCCGCCGAGGCCGCGGTGGACCGGTCCGCCGGGGAGCCGTCGGGAACGCAGGCGTCCGCCGCGCCCGCCGAGGCGGCGCCGTCTTCCGCTCCTGTTTCCGCTGCTGCCGGAGAAACGCAGCCACAGGACGATACCCCGCCGCAGGACCCGTCTTCCCTGTCGGACGGTCCAGGCCTGTCGCCGCCCGTGACCCAGCCCGGCGCGGCGTCCGGCGACTTCGGCGGGCCCGAGGCCATGGGCGACGCCTTCATGCCGCCTGTGCCGGAAGAGCCCATGGAGGGGATGGCCCCCGCGCCGGCAATCTCCGCGGCGCCCGCCTCGGTGCCGTCTGCCGGCTGGCCGGAGGATGCGCCTTCGGCACTGCTCGATGCGGTGGATGCGTCCGGGGACCTGCCGGCTGCCGCGGAGGGCGCGGCCACGGCGCCGGAGCCCATTTTCCGCGAGCTGCCCATGACGGCGGCGCCCGCCGCACCTGCCATCGCGAACATTCTCGAGCCGGTGGCCGAGGCTCTGTCCGCGCTCGGGGCGGTGGCCGTCTCCCGGCCCCAGGTCCAGCGCGAATTCCGCGCGGCGCCCGAACACCCCCCCATGCCCAGGATGGCGCCCCCTCAGGCGGCGCCAGAACCGGCCCCTGCCGTTCCGCCCAAACCTGAAGCTGCCAAACCTGAAGCTGCCAAACCTGAAGCCGCCAAGCCTGAAGCTGCCAAGCCTGAAGTTGCCAAGCCGGACGCCGCCGCGCCGGACGCCGCGAAATCTTCGGGCAAGGCGGAGCGTCCGTCCGGCGCCGGGGACGGCTCTGGAACGTCGGGCGTGAACATGGAGGCCTTCTCCCGCAACCTCGCCCGTCTGGTGGAAGAGGGCGGCAAGGCCATGGCCGCCTATCTGAGCCCACGGGAGCAGGGCAAGACCGACGATCTCGCCGATGACATCGCCGATGCCATGAAGACCGTGGGCCAGGTGGTGGAATACTGGGTCGCCGATCCCCAGCGCACGGTGGAGGCGCAGTCCCGCCTCATGGGCGGCTATCTCTCGGTCTGGGCCAACACCCTGAAGCGCCTGGCAGGCGAGGAGGCCACGCCGGTGGCCGCCCCCGACCCGAAGGATGCCCGCTTCAAGGATGCCGGCTGGAACGACAGCCCCATGTTCGATGCCCTCAAGCAGGCCTATCTGGTCACCTCGGACTGGGCGCAGAACATGGTGGACGAGGCCAAGGGCCTCGATCCCCACACCAAGCACAAGGCGGAGTTCCTGGTGCGGCAGATCGCCAACGCCATCTCGCCCTCCAACTTCGTCCTCACCAATCCCGAGCTCATCCGCGAGACCCTGCACTCGTCGGGCGAGAATCTGGTGAAGGGCATGCAGAACCTCACCGCGGATCTGATGGCGGGGCAGGGCACGCTGAAGATCCGCCAGACGGATCTTTCCGCCTTCGAGGTGGGCCGCAACCTCGCCACCACGCCGGGCAAGGTGATCTTCGAAAACGAGCTGATGCAGCTCATCCAGTACGAGCCGACCACCGAGACGGTGAAGAAGACGCCGGTGCTCATCGTCCCGCCCTGGATCAACAAGTTCTACATCCTCGACCTGACGGCGGAAAAATCCTTGATCAAGTGGCTGGTGAGCCAGGGACTGACGGTCTTCACCATCTCCTGGGTCAATCCCGACGGGCGCCTCGCCGCCAAGGGCTTCGACGATTACATGCGCGACGGCATCATGGCCGCCCTCGACGCGGTGGCGGTGGCCTCCGGCGAGCGGCGGGCCCATGCGGTGGGCTATTGCGTGGGCGGCACGCTGCTGGCCACCACGCTCGCTTACATGGCCGCCACCGGGGATGACCGCATCGCCAGCGCCACCTTCCTCACCACCCAGATCGACTTCACCCATGCGGGCGATCTGAAGGTGTTCGTGGACGAAAGCCAGCTCGCCACCATCGAGCGCAAGATGAAGGAGATGGGGTATCTGGAAGGCTCGAAGATGGCCTCCGCCTTCAACATGCTGCGCTCCAACGACCTGATCTGGCCCTATGTGGTGAACAACTACATGAAGGGCAAGGCGCCGTTTCCGTTCGACCTGCTGTTCTGGAATTCGGATTCCACCCGCATGCCGGCGGCGAACCATTCCTATTATCTGCGCAACTGCTACCTCACCAACAATATCGCCCGGGGTCTGGCGGAGCTGGCCGGCCTCAAGATCGATGTCACCAAGGTGTCGATCCCAGTCTATTCGCTGGCGACGCGGGAAGACCACATCGCCCCGGCCAACTCGGTCTATATCGGGGCAAATCTCCTGTCCGGCCCGGTGCGCTACGTGCTGGCGGGCTCGGGCCACATCGCCGGGGTGGTGAACCCGCCGGCCAAGATGAAGTATCAGTACTGGGCCGACGGCCCGGTGGGGCCGAGCTACGAGGCCTGGCTGGCCGGGGCGCAGGAGCACAAGGGCTCCTGGTGGCCGGACTGGTTCAACTGGTTCTCCTTCAACCATCCCGAGGAGGTGCCGGCGCGCGCCATCGGCGGCGGCCGCCTCGCCCCCATCGAGGACGCACCCGGGCGCTATGTGAAGGAGCGGTCGTAG
+ 
+phaC1 DNA sequence (SEQ ID NO:60):   
+ 
+ 
+ 
+   
+  ｐｈａＣ２  ＤＮＡ配列（配列番号６１）： 
+ 
+ATGGAAGCGCGAAAGATGCCCGTTTCACCCCCCTCCTCCGCCACCATCCTGCCCCTGCCCGTCTCGGCCGCTCCCCCTTCGACGGCGCCCGCCGCGTCCCTGCCGGCGACGGCCTCCAGCTCCACCAACAAGGCCAGCCCCTCAGCCTTCCCCGCCGCCTGGGCGCGTTCCTTCGCCCTGCCCGGCCTGCCCGCCTTCCTGTGCCCGGACGAGGAGGATTTCGAGGAGGGTTCGGGGCCGGCCGCCTTCCATGCGGTGGACCGGGCGGCGGCGGCCTTGGTGGCCCGCACCACCCAGGGGCTCTCGCCCGCCGCCCTCACCCTCGCTTACATGGATTGGGCGATGCATCTGGCAGCGGCGCCGGGCAAGCAGGCGGAGCTGGCGGTGAAGGCCACGCGCAAGGCGGCGCGCTTCTGGGCCTATGTGCTCGCCTCCACCCTCGACCGCACCCAGGCGCCCTGCATCGCGCCCCTGGTGGGCGACGAACGGTTTTCCGCCCCGGCCTGGCAGGACTGGCCCTACCGCTTCTGGTACCAGGCCTTTCTGCTCAATCAGCAATGGTGGCACAACGCCACTCATGGCGTGCCGGGCGTGGCGCCGCACAATCAGGACGTGGTGGCCTTCGCCGCCCGGCAGGTCCTGGACATGTTCTCCCCCTCCAACTCGCCCCTCACCAATCCCGAGGTGGTGAAGAAGGCGCGCCAGACGCTAGGGGCCAATTTCGTCCAGGGCGCGCGCAACTTCATGGAGGACCAGTCGCGCAAAACCACCGGCCGCCCGCCCGTGGGCGCGGAGGCGTTCACTCCCGGCAAGGAGGTGGCCATCACCCCCGGCGAGGTGATCTACCGCAACCATCTCATCGAGCTGATCCAATACCGGGCGACCACCCCTGACGTGCATGCGGAGCCGATCCTCATCGTGCCCGCCTGGATCATGAAATATTACATCCTCGACCTGTCGCCCGATAACTCCCTGATCCGCTACCTGGTGGACAAGGGGCACACGGTCTTCTGCATCTCCTGGCGCAATGTGAACGCGGAGGACCGCGATCTCGGCTTCGAGGACTATCGCAAGATGGGCATCATGGCGGCCCTCGACGCGGTGAACGCGGTGGTGCCGAACCAGAAGGTGCATGCGGTGGGTTATTGCCTGGGCGGCACGCTGCTCTCCATCGCCGCCGCCGCCATGGCGCGGGTGGTCGACGACCGGCTGGGCTCCGTCACCCTGTTCGCCGCCCAGACCGACTTCACCGAGCCCGGCGAACTGCAGCTCTTCGTGGACCCGAGCGAGCTTTATGCCCTGGAAAGCCTCATGTGGGACCAGGGCTATCTCGGCGCCCGGCAGATGGCCGGCGCGTTCGAGATGCTGCGCTCCAACGACCTCGTCTGGTCGCGCATGGTGCGCGACTATCTCATGGGCGAGCGCGCACCCATGAACGACCTCATGGCCTGGAACGCAGATGCCACCCGCATGCCCTATCGCATGCATTCCCAGTATCTGCGCAACCTGTTCCTCGACAACGAGCTGGCCGTGGGCCGTTACATGGTGGAGGGCCGGCCGGTGTCGCTGCAGAACATCCGCGTCCCGCTGTTCGTGGTGGGCACGGAGCGGGACCACGTGGCGCCGTGGAAGTCGGTCTACAAGATCCACCAGCTCACCGACACGGACGTGACCTTCGTCCTCGCCTCCGGCGGGCACAATGCGGGCATCGTCTCCGAGCCCGGCCACAAGCACCGGCACTATCGCATCCACGACACCAAATTGGGCGAGATGCATGTGAGCCCGGAGGAATGGATGGAGGCGAACCGGTCGCAGGACGGGTCCTGGTGGCCGGCCTGGGAGGCATGGCTCGCCGGCCAGTCCTCCGGCCGCATCGGCCTGCCGCCTCTGGGCGCGCCCGGCTACGAGGTGCTGGGCCCGGCGCCCGGCACCTATGTGATGCAAAGGTGA
+ 
+  phaC2 DNA sequence (SEQ ID NO:61):   
+ 
+ 
+ 
+   
+  ｐｈａＣ１アミノ酸配列（配列番号６２）： 
+ 
+MSAAEETSTHAELRLPQDGVEHDVAAAEAAVDRSAGEPSGTQASAAPAEAAPSSAPVSAAAGETQPQDDTPPQDPSSLSDGPGLSPPVTQPGAASGDFGGPEAMGDAFMPPVPEEPMEGMAPAPAISAAPASVPSAGWPEDAPSALLDAVDASGDLPAAAEGAATAPEPIFRELPMTAAPAAPAIANILEPVAEALSALGAVAVSRPQVQREFRAAPEHPPMPRMAPPQAAPEPAPAVPPKPEAAKPEAAKPEAAKPEAAKPEVAKPDAAAPDAAKSSGKAERPSGAGDGSGTSGVNMEAFSRNLARLVEEGGKAMAAYLSPREQGKTDDLADDIADAMKTVGQVVEYWVADPQRTVEAQSRLMGGYLSVWANTLKRLAGEEATPVAAPDPKDARFKDAGWNDSPMFDALKQAYLVTSDWAQNMVDEAKGLDPHTKHKAEFLVRQIANAISPSNFVLTNPELIRETLHSSGENLVKGMQNLTADLMAGQGTLKIRQTDLSAFEVGRNLATTPGKVIFENELMQLIQYEPTTETVKKTPVLIVPPWINKFYILDLTAEKSLIKWLVSQGLTVFTISWVNPDGRLAAKGFDDYMRDGIMAALDAVAVASGERRAHAVGYCVGGTLLATTLAYMAATGDDRIASATFLTTQIDFTHAGDLKVFVDESQLATIERKMKEMGYLEGSKMASAFNMLRSNDLIWPYVVNNYMKGKAPFPFDLLFWNSDSTRMPAANHSYYLRNCYLTNNIARGLAELAGLKIDVTKVSIPVYSLATREDHIAPANSVYIGANLLSGPVRYVLAGSGHIAGVVNPPAKMKYQYWADGPVGPSYEAWLAGAQEHKGSWWPDWFNWFSFNHPEEVPARAIGGGRLAPIEDAPGRYVKERS
+ 
+  phaC1 amino acid sequence (SEQ ID NO:62):   
+ 
+ 
+ 
+   
+  ｐｈａＣ２アミノ酸配列（配列番号６３）： 
+ 
+MEARKMPVSPPSSATILPLPVSAAPPSTAPAASLPATASSSTNKASPSAFPAAWARSFALPGLPAFLCPDEEDFEEGSGPAAFHAVDRAAAALVARTTQGLSPAALTLAYMDWAMHLAAAPGKQAELAVKATRKAARFWAYVLASTLDRTQAPCIAPLVGDERFSAPAWQDWPYRFWYQAFLLNQQWWHNATHGVPGVAPHNQDVVAFAARQVLDMFSPSNSPLTNPEVVKKARQTLGANFVQGARNFMEDQSRKTTGRPPVGAEAFTPGKEVAITPGEVIYRNHLIELIQYRATTPDVHAEPILIVPAWIMKYYILDLSPDNSLIRYLVDKGHTVFCISWRNVNAEDRDLGFEDYRKMGIMAALDAVNAVVPNQKVHAVGYCLGGTLLSIAAAAMARVVDDRLGSVTLFAAQTDFTEPGELQLFVDPSELYALESLMWDQGYLGARQMAGAFEMLRSNDLVWSRMVRDYLMGERAPMNDLMAWNADATRMPYRMHSQYLRNLFLDNELAVGRYMVEGRPVSLQNIRVPLFVVGTERDHVAPWKSVYKIHQLTDTDVTFVLASGGHNAGIVSEPGHKHRHYRIHDTKLGEMHVSPEEWMEANRSQDGSWWPAWEAWLAGQSSGRIGLPPLGAPGYEVLGPAPGTYVMQR 
+ 
+  phaC2 amino acid sequence (SEQ ID NO:63):     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
