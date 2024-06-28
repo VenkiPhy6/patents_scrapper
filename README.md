@@ -1,4 +1,6 @@
 # Patents Scraper project
+Submitted for [EPPS 6317: Python Programming for Social Science](https://catalog.utdallas.edu/2024/graduate/courses/epps6317)
+
 Author: Venkatesh Subramanian
 
 Date: June 28, 2024
