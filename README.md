@@ -1,5 +1,8 @@
 # Patents Scraper project
+Submitted for [EPPS 6317: Python Programming for Social Science](https://catalog.utdallas.edu/2024/graduate/courses/epps6317)
+
 Author: Venkatesh Subramanian
+
 Date: June 28, 2024
 
 Welcome! If you need a quick look at the final product of this project, click on the `02_data_viz.ipynb` file in this repository.
@@ -14,7 +17,7 @@ Note that although the USPTO provides the [PatentsView API](https://search.paten
 
 ## The final product
 
-The final product is the visualizations found in `02_data_viz.ipynb`. You can 
+The final product is the visualizations found in `02_data_viz.ipynb`.
 
 ## Reading the codebase
 
