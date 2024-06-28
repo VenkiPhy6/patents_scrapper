@@ -1,5 +1,6 @@
 # Patents Scraper project
 Author: Venkatesh Subramanian
+
 Date: June 28, 2024
 
 Welcome! If you need a quick look at the final product of this project, click on the `02_data_viz.ipynb` file in this repository.
