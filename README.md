@@ -15,7 +15,7 @@ Note that although the USPTO provides the [PatentsView API](https://search.paten
 
 ## The final product
 
-The final product is the visualizations found in `02_data_viz.ipynb`. You can 
+The final product is the visualizations found in `02_data_viz.ipynb`.
 
 ## Reading the codebase
 
